@@ -1,0 +1,50 @@
+ABCD	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+AWú	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Btu	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+CFM	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Cu	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+FúBA	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+GB	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+GNP	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+GPH	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+GPM	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+HF	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+HZ	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Hg	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Hz	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+kA	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+kHZ	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+kV	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+kcal	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 2/5=0.4
+MB	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+MC	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+MHZ	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+MN	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+MVA	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Ml	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+OCD	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+PPM	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Psi	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Px	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Sf	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+UC	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+Va	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+atm	inv	300;Lemma;Nunit;;cat=Nunit;%default	# 1/22=0.04	# KnowntothePPD:atm
+cm	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 12/12=1
+dB	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+ft	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 4/5=0.8
+gr	inv	300;Lemma;Nunit;;cat=Nunit;%default	# 1/55=0.01	# KnowntothePPD:gr
+kA	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+kcal	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 2/5=0.4
+kg	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 2/2=1
+kw	inv	300;Lemma;Nunit;;cat=Nunit;%default	# 20/55=0.36	# KnowntothePPD:kw
+kw	inv	300;Lemma;Nunit;;cat=Nunit;%default	# 1/2=0.5	# KnowntothePPD:kw
+lit	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 1/1=1
+mH	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=
+min	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 1/1=1
+ml	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 2/7=0.28
+mm	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 12/12=1
+ms	inv	300;Lemma;Nunit;;cat=Nunit;%default	# 1/68=0.01	# KnowntothePPD:ms
+pf	inv	300;Lemma;Nunit;;cat=Nunit;%default	# 2/5=0.4	# KnowntothePPD:pf
+ppm	inv	100;Lemma;Nunit;;cat=Nunit;%default	# 10/13=0.76
+H-Q	inv	100;Lemma;Nunit;;cat=Nunit;%default	# /=

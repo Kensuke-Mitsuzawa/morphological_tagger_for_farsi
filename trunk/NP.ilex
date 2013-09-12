@@ -1,0 +1,194 @@
+kdamyk	inv	100;Lemma;PN;;cat=PN;%default	# 1/8=0.12
+ykbar	inv	100;Lemma;PN;;cat=PN;%default	# 8/8=1
+aynkar	inv	100;Lemma;PN;;cat=PN;%default	# 2/2=1
+ayngwne	inv	300;Lemma;PN;;cat=PN;%default	# 1/50=0.02	# Known to the PPD: ayngwne
+aynja	inv	300;Lemma;PN;;cat=PN;%default	# 13/303=0.04	# Known to the PPD: aynja
+aynţwr	inv	300;Lemma;PN;;cat=PN;%default	# 1/14=0.07	# Known to the PPD: aynţwr
+drem	inv	300;Lemma;PN;;cat=PN;%default	# 1/16=0.06	# Known to the PPD: drem
+eyčyk	inv	300;Lemma;PN;;cat=PN;%default	# 2/38=0.05	# Known to the PPD: eyčyk
+emyngwne	inv	100;Lemma;PN;;cat=PN;%default	# 1/3=0.33
+emangwne	inv	100;Lemma;PN;;cat=PN;%default	# 6/13=0.46
+emanţwr	inv	100;Lemma;PN;;cat=PN;%default	# 3/6=0.5
+erkdam	inv	100;Lemma;PN;;cat=PN;%default	# 2/5=0.4
+ānks	inv	100;Lemma;PN;;cat=PN;%default	# 1/4=0.25
+ānja	inv	200;Lemma;PN;;cat=PN;%default	# 6/361=0.01	# Known to the PPD: ānja
+ānţwr	inv	200;Lemma;PN;;cat=PN;%default	# 1/3=0.33	# Known to the PPD: ānţwr
+ayn ja	inv	100;Lemma;PN;;cat=PN;%default	# 1/14=0.07
+teran	N2	100;Lemma;PN;;cat=PN;%default	#??
+āmryka	N2	100;Lemma;PN;;cat=PN;%default	#??
+āsya	N2	124;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: āsya
+pakstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+afqanstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+krdstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+anglstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+ŕzaŕstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+xwzstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+lrstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+sydny	N2	100;Lemma;PN;;cat=PN;%default	#??
+axbar	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: axbar
+systan	N2	100;Lemma;PN;;cat=PN;%default	#??
+aweayw	N2	100;Lemma;PN;;cat=PN;%default	#??
+āđrbayjan	N2	100;Lemma;PN;;cat=PN;%default	#??
+lbnan	N2	100;Lemma;PN;;cat=PN;%default	#??
+'rbstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+glstan	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: glstan
+lestan	N2	100;Lemma;PN;;cat=PN;%default	#??
+trkmnstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+ānkara	N2	100;Lemma;PN;;cat=PN;%default	#??
+blwčstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+endwstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+armnstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+grjstan	N2	100;Lemma;PN;;cat=PN;%default	#??
+lndn	N2	100;Lemma;PN;;cat=PN;%default	#??
+rwsyh	N2	100;Lemma;PN;;cat=PN;%default	#??
+arwpa	N2	100;Lemma;PN;;cat=PN;%default	#??
+xrdad	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: xrdad
+trkyh	N2	100;Lemma;PN;;cat=PN;%default	#??
+aşfhan	N2	100;Lemma;PN;;cat=PN;%default	#??
+mll	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: mll
+aytalya	N2	100;Lemma;PN;;cat=PN;%default	#??
+žapn	N2	100;Lemma;PN;;cat=PN;%default	#??
+'raŕ	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: 'raŕ
+xmyny	N2	124;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: xmyny
+aspanya	N2	100;Lemma;PN;;cat=PN;%default	#??
+wašngtn	N2	100;Lemma;PN;;cat=PN;%default	#??
+hašmy	N2	100;Lemma;PN;;cat=PN;%default	#??
+nywywrk	N2	100;Lemma;PN;;cat=PN;%default	#??
+mşr	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: mşr
+šyraz	N2	100;Lemma;PN;;cat=PN;%default	#??
+flsţyn	N2	100;Lemma;PN;;cat=PN;%default	#??
+tbryz	N2	100;Lemma;PN;;cat=PN;%default	#??
+xrasan	N2	100;Lemma;PN;;cat=PN;%default	#??
+ayranyan 	N2	100;Lemma;PN;;cat=PN;%default	#=ayran?
+dryay xzr	N2	100;Lemma;PN;;cat=PN;%default	#??
+yzyd	N2	100;Lemma;PN;;cat=PN;%default	#??
+asraayl	N2	100;Lemma;PN;;cat=PN;%default	#??
+fars	N2	100;Lemma;PN;;cat=PN;%default	#??
+parys	N2	100;Lemma;PN;;cat=PN;%default	#??
+rźa	N2	150;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: rźa, rźayt
+gylan	N2	100;Lemma;PN;;cat=PN;%default	#??
+kwyt	N2	100;Lemma;PN;;cat=PN;%default	#??
+yzd	N2	100;Lemma;PN;;cat=PN;%default	#??
+ywnan	N2	100;Lemma;PN;;cat=PN;%default	#??
+ardbyl	N2	100;Lemma;PN;;cat=PN;%default	#??
+hmdan	N2	100;Lemma;PN;;cat=PN;%default	#??
+mazndran	N2	100;Lemma;PN;;cat=PN;%default	#??
+astralya	N2	100;Lemma;PN;;cat=PN;%default	#??
+atryš	N2	100;Lemma;PN;;cat=PN;%default	#??
+klyntwn	N2	100;Lemma;PN;;cat=PN;%default	#??
+hlnd	N2	100;Lemma;PN;;cat=PN;%default	#??
+kanada	N2	100;Lemma;PN;;cat=PN;%default	#??
+abrahym	N2	100;Lemma;PN;;cat=PN;%default	#??
+jhad	N2	100;Lemma;PN;;cat=PN;%default	#??
+krmanšah	N2	100;Lemma;PN;;cat=PN;%default	#??
+mdynh	N2	100;Lemma;PN;;cat=PN;%default	#??
+xawrmyanh	N2	100;Lemma;PN;;cat=PN;%default	#??
+rfsnjany	N2	124;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: rfsnjany
+āyd	N2	100;Lemma;PN;;cat=PN;%default	#??
+pkn	N2	100;Lemma;PN;;cat=PN;%default	#??
+mrdad	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: mrdad
+brlyn	N2	100;Lemma;PN;;cat=PN;%default	#??
+ardn	N2	100;Lemma;PN;;cat=PN;%default	#??
+tyrmah	N2	100;Lemma;PN;;cat=PN;%default	#??
+mwswy	N2	100;Lemma;PN;;cat=PN;%default	#??
+smnan	N2	100;Lemma;PN;;cat=PN;%default	#??
+ašyaa	N2	100;Lemma;PN;;cat=PN;%default	#??
+ŕzwyn	N2	100;Lemma;PN;;cat=PN;%default	#??
+asamy	N2	124;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: asamy
+arwmyh	N2	100;Lemma;PN;;cat=PN;%default	#??
+šhrywr	N2	100;Lemma;PN;;cat=PN;%default	#??
+natw	N2	110;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: natw
+'rfat	N2	100;Lemma;PN;;cat=PN;%default	#??
+xrmšhr	N2	100;Lemma;PN;;cat=PN;%default	#??
+madryd	N2	100;Lemma;PN;;cat=PN;%default	#??
+blžyk	N2	100;Lemma;PN;;cat=PN;%default	#??
+bwšhr	N2	100;Lemma;PN;;cat=PN;%default	#??
+bqdad	N2	100;Lemma;PN;;cat=PN;%default	#??
+mkh	N2	100;Lemma;PN;;cat=PN;%default	#??
+znjan	N2	100;Lemma;PN;;cat=PN;%default	#??
+prtqal	N2	100;Lemma;PN;;cat=PN;%default	#??
+ayfa	N2	124;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: ayfa
+xrazy	N2	124;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: xrazy
+brzyl	N2	100;Lemma;PN;;cat=PN;%default	#??
+aydz	N2	128;Lemma;PN;;cat=PN;%default	#??	# Known to the PPD: aydz
+awpk	N2	100;Lemma;PN;;cat=PN;%default	#??
+twkyw	N2	100;Lemma;PN;;cat=PN;%default	#??
+darywš	N2	100;Lemma;PN;;cat=PN;%default	#??
+barak	N2	100;Lemma;PN;;cat=PN;%default	#??
+anşary	N2	100;Lemma;PN;;cat=PN;%default	#??	???
+grgan	N2	100;Lemma;PN;;cat=PN;%default	#??
+amryka	N2	100;Lemma;PN;;cat=PN;%default	#??
+krj	N2	100;Lemma;PN;;cat=PN;%default	#??
+aylam	N2	100;Lemma;PN;;cat=PN;%default	#??
+'lyrźa	N2	100;Lemma;PN;;cat=PN;%default	#??
+mşţfy	N2	100;Lemma;PN;;cat=PN;%default	#??
+kašan	N2	100;Lemma;PN;;cat=PN;%default	#??
+malzy	N2	100;Lemma;PN;;cat=PN;%default	#??
+pwnd	N2	100;Lemma;PN;;cat=PN;%default	#??
+kwfh	N2	100;Lemma;PN;;cat=PN;%default	#??
+mrtźy	N2	100;Lemma;PN;;cat=PN;%default	#??
+arak	N2	100;Lemma;PN;;cat=PN;%default	#??
+albrz	N2	100;Lemma;PN;;cat=PN;%default	#??
+taywan	N2	100;Lemma;PN;;cat=PN;%default	#??
+taylnd	N2	100;Lemma;PN;;cat=PN;%default	#??
+ardybhšt	N2	100;Lemma;PN;;cat=PN;%default	#??
+amarat	N2	100;Lemma;PN;;cat=PN;%default	#??
+mkzyk	N2	100;Lemma;PN;;cat=PN;%default	#??
+faţmh	N2	100;Lemma;PN;;cat=PN;%default	#??
+ādm	N2	128;Lemma;PN;;cat=PN;%default	#adam	# Known to the PPD: ādm
+ayrany	N2	124;Lemma;PN;;cat=PN;%default	#??	--> PN ou N?	# Known to the PPD: ayrany
+flsţyny	N2	124;Lemma;PN;;cat=PN;%default	#??--> PN ou N? (palestinian)	# Known to the PPD: flsţyny
+āmrykayy	N2	124;Lemma;PN;;cat=PN;%default	#??--> PN ou N? ou Adj?	# Known to the PPD: āmrykayy
+rws	N2	128;Lemma;PN;;cat=PN;%default	#??--> PN ou N? ou Adj?	# Known to the PPD: rws
+asraayly	N2	100;Lemma;PN;;cat=PN;%default	#??--> PN ou N? ou Adj?
+žapny	N2	124;Lemma;PN;;cat=PN;%default	#??--> PN ou N? ou Adj?	# Known to the PPD: žapny
+anglysy	N2	124;Lemma;PN;;cat=PN;%default	#??--> PN ou N? ou Adj?	# Known to the PPD: anglysy
+franswy	N2	124;Lemma;PN;;cat=PN;%default	#??--> PN ou N? ou Adj?	# Known to the PPD: franswy
+afqany	N2	124;Lemma;PN;;cat=PN;%default	#??--> PN ou N? ou Adj?	# Known to the PPD: afqany
+ayrna	N2	100;Lemma;PN;;cat=PN;%default	# IRNA
+arwpa	N2	100;Lemma;PN;;cat=PN;%default	# Europe
+xrdad	N2	128;Lemma;PN;;cat=PN;%default	# Khordad	# Known to the PPD: xrdad
+mll	N2	128;Lemma;PN;;cat=PN;%default	# UN	# Known to the PPD: mll
+āsya	N2	124;Lemma;PN;;cat=PN;%default	# Asia	# Known to the PPD: āsya
+tbryz	N2	100;Lemma;PN;;cat=PN;%default	# Tabriz
+xrasan	N2	100;Lemma;PN;;cat=PN;%default	# Khorasan
+asraayl	N2	100;Lemma;PN;;cat=PN;%default	# Israël
+mđakrat	N2	100;Lemma;PN;;cat=PN;%default	# U.S.
+yzd	N2	100;Lemma;PN;;cat=PN;%default	# Yazd
+anglstan	N2	100;Lemma;PN;;cat=PN;%default	# England
+krdstan	N2	100;Lemma;PN;;cat=PN;%default	# Kurdistan
+xwzstan	N2	100;Lemma;PN;;cat=PN;%default	# Khuzestan
+mazndran	N2	100;Lemma;PN;;cat=PN;%default	# Mazandaran
+lrstan	N2	100;Lemma;PN;;cat=PN;%default	# Lorestan
+xawrmyane	N2	100;Lemma;PN;;cat=PN;%default	# Middle East
+mrdad	N2	128;Lemma;PN;;cat=PN;%default	# Persian month Mordad	# Known to the PPD: mrdad
+smnan	N2	100;Lemma;PN;;cat=PN;%default	# Semnan
+tyrmae	N2	100;Lemma;PN;;cat=PN;%default	# July
+ŕzwyn	N2	100;Lemma;PN;;cat=PN;%default	# Qazvin
+ayfa	N2	124;Lemma;PN;;cat=PN;%default	# IFA	# Known to the PPD: ayfa
+'rfat	N2	100;Lemma;PN;;cat=PN;%default	# Arafat
+natw	N2	110;Lemma;PN;;cat=PN;%default	# NATO	# Known to the PPD: natw
+taymz	N2	100;Lemma;PN;;cat=PN;%default	# Times (PN?)
+āsya	N2	124;Lemma;PN;;cat=PN;%default	# Asia	# Known to the PPD: āsya
+āfryŕa	N2	100;Lemma;PN;;cat=PN;%default	# Africa
+xrazy	N2	124;Lemma;PN;;cat=PN;%default	# Kharrazi	# Known to the PPD: xrazy
+krj	N2	100;Lemma;PN;;cat=PN;%default	# Karaj
+grgan	N2	100;Lemma;PN;;cat=PN;%default	# Gorgan
+amryka	N2	100;Lemma;PN;;cat=PN;%default	# America
+blwčstan	N2	100;Lemma;PN;;cat=PN;%default	# Baluchistan
+sways	N2	100;Lemma;PN;;cat=PN;%default	# Svays (??)
+kašan	N2	100;Lemma;PN;;cat=PN;%default	# Kashan
+arak	N2	100;Lemma;PN;;cat=PN;%default	# Arak
+'laam	N2	100;Lemma;PN;;cat=PN;%default	# Laam (??)
+pwnd	N2	100;Lemma;PN;;cat=PN;%default	# Gyahanpvnd (??)
+msawlyn	N2	100;Lemma;PN;;cat=PN;%default	# Msavlyn (??)
+albrz	N2	100;Lemma;PN;;cat=PN;%default	# Alborz
+aktbr	N2	128;Lemma;PN;;cat=PN;%default	# October	# Known to the PPD: aktbr
+kwalalampwr	N2	100;Lemma;PN;;cat=PN;%default	# Kuala Lumpur
+m'awye	N2	100;Lemma;PN;;cat=PN;%default	# Al
+
+'lw	N2	100;Lemma;PN;;cat=PN;%default	# 
+mylany	N2	100;Lemma;PN;;cat=PN;%default	# 
+ryaħy	N2	100;Lemma;PN;;cat=PN;%default	# 
+mħmd	N2	100;Lemma;PN;;cat=PN;%default	# 
+žale	N2	100;Lemma;PN;;cat=PN;%default	# 

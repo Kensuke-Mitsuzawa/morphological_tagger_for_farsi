@@ -1,0 +1,133 @@
+#"equally"?#beman	inv	300;Lemma;DET;;cat=DET;%default	# 2/5=0.4	# Known to the PPD: beman
+#"she"?#awn	inv	100;Lemma;DET;;cat=DET;%default	# 23/28=0.82
+'de ay	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 31/269=0.11
+'de yy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/8=0.12
+'mde y	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/4=0.25
+akçr	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 
+akçr	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 193/199=0.96	# Known to the PPD: akçr
+akçryt	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 
+akçryt	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 108/289=0.37	# Known to the PPD: akçryt
+anbwe	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/55=0.03	# Known to the PPD: anbwe
+andk	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/107=0.01	# Known to the PPD: andk
+aqlb	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 
+ayn	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 37880/42018=0.9	# Known to the PPD: ayn
+ayn gwne	inv	100;Lemma;DETdem;;cat=DETdem;%default	# 1/18=0.05
+ayn_ea	inv	100;Lemma;DETdem;;cat=DETdem;%default	# 37880/42018=0.9
+ayneme___so many	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 5/6=0.83	# Known to the PPD: ayneme
+ayngwne	inv	100;Lemma;DETdem;;cat=DETdem;%default
+ayngwne___such	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 14/50=0.28	# Known to the PPD: ayngwne
+aynsan	inv	100;Lemma;DETdem;;cat=DETdem;%default
+aynčnyn	inv	100;Lemma;DETdem;;cat=DETdem;%default
+aynţwr	inv	100;Lemma;DETdem;;cat=DETdem;%default
+aŕl	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1/1=1	# Known to the PPD: aŕl
+aŕlyt	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 3/71=0.04	# Known to the PPD: aŕlyt
+aŕlyty	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/14=0.07
+b'ź	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 9/9=1	# Known to the PPD: b'ź
+b'źy	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/5=0.4	# Known to the PPD: b'źy
+b'źy	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 661/724=0.91	# Known to the PPD: b'źy
+baŕy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 
+brxy	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1405/1531=0.91	# Known to the PPD: brxy
+bs	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1/61=0.01	# Known to the PPD: bs
+bsy	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 3/25=0.12	# Known to the PPD: bsy
+bsyary	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 775/1065=0.72	# Known to the PPD: bsyary
+bxšeayy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 4/42=0.09
+bxšy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 126/507=0.24
+byštryn	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 4/310=0.01
+bŕye	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 
+bŕye	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 8/287=0.02	# Known to the PPD: bŕye
+de	inv	100;Lemma;DETquant;;cat=DETquant;%default	# ten
+dgr	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/18=0.11	# Known to the PPD: dgr
+dstkm	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/5=0.2
+dw	inv	100;Lemma;DETquant;;cat=DETquant;%default	# two
+dygr	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 658/4195=0.15	# Known to the PPD: dygr
+e=r	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/1=1
+eft	inv	100;Lemma;DETquant;;cat=DETquant;%default	# seven
+eman	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 2773	même	Déterminant / Pronom	# 1192/1256=0.94	# Known to the PPD: eman
+eman_ea	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 2773	même	Déterminant / Pronom	# 1192/1256=0.94	# Known to the PPD: eman
+emanţwr	inv	100;Lemma;DETdem;;cat=DETdem;%default
+eme	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1571/2193=0.71	# Known to the PPD: eme
+eme y	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 120/120=1
+emgy	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 12/137=0.08	# Known to the PPD: emgy
+emwn	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 3/3=1
+emyn	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 4411	cela (même)	Pronom / Déterminant	# 1766/1855=0.95	# Known to the PPD: emyn
+emyn_ea	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 4411	cela (même)	Pronom / Déterminant	# 1766/1855=0.95	# Known to the PPD: emyn
+emčnan	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 	# Known to the PPD: emčnan
+emčnyn	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 	# Known to the PPD: emčnyn
+emčyn	inv	200;Lemma;DETdem;;cat=DETdem;%default	# fam from emčnyn	# Known to the PPD: emčnyn
+er	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 4474/4478=0.99	# Known to the PPD: er
+eyj	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/1=1
+eyč	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1458/1500=0.97	# Known to the PPD: eyč
+eyčgwne___any	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 8/8=1	# Known to the PPD: eyčgwne
+eyčyk	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/38=0.05	# Known to the PPD: eyčyk
+eśt	inv	100;Lemma;DETquant;;cat=DETquant;%default	# eight
+flan	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 70/79=0.88	# Known to the PPD: flan
+grwey	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 58/362=0.16	# Known to the PPD: grwey
+gwne	inv	100;Lemma;DETquant;;cat=DETquant;%default	# ??? 788/1026=0.76
+jm'y	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 84/263=0.31	# Known to the PPD: jm'y
+jma'ty	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 2/10=0.2
+jmy'	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/12=0.16	# Known to the PPD: jmy'
+jwr	inv	300;Lemma;DETquant;;cat=DETquant;%default	# ??? 18/64=0.28	# Known to the PPD: jwr
+kdam	inv	300;Lemma;DETinter;;cat=DETinter;%default	# 208/508=0.4	# Known to the PPD: kdam
+kdamyn	inv	300;Lemma;DETinter;;cat=DETinter;%default	# 4/4=1	# Known to the PPD: kdamyn
+kdwm	inv	100;Lemma;DETinter;;cat=DETinter;%default	# 4/4=1
+klye	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 270/306=0.88	# Known to the PPD: klye
+laaŕl	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1/62=0.01	# Known to the PPD: laaŕl
+m'dwd	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1/29=0.03	# Known to the PPD: m'dwd
+m'dwd	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/29=0.06	# Known to the PPD: m'dwd
+m'dwdy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 5/27=0.18
+mŕadyry	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 7/16=0.43
+mŕdar	inv	300;Lemma;DETquant;;cat=DETquant;%default	# ??? 65/465=0.13	# Known to the PPD: mŕdar
+mŕdary	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 24/76=0.31
+ne_nfr	inv	100;Lemma;DETquant;;cat=DETquant;%default	# nine
+nw'	inv	300;Lemma;DETquant;;cat=DETquant;%default	# ??? 426/1159=0.36	# Known to the PPD: nw'
+nymy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 26/93=0.27
+pare ay	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 91/103=0.88
+pnj	inv	100;Lemma;DETquant;;cat=DETquant;%default	# five
+qalb	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 
+se	inv	300;Lemma;DETquant;;cat=DETquant;%default	# three
+slsle	inv	300;Lemma;DETquant;;cat=DETquant;%default	# ??? 23/164=0.14	# Known to the PPD: slsle
+srasr	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 29/341=0.08	# Known to the PPD: srasr
+srtasr	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/38=0.05	# Known to the PPD: srtasr
+t'dady	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 246/309=0.79
+tam	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 1/23=0.04	# Known to the PPD: tam
+tjm'y	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/4=0.25
+tk	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 3/27=0.11
+tmam	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 932/1121=0.83	# Known to the PPD: tmam
+tmamy	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 506/508=0.99	# Known to the PPD: tmamy
+tnea	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 53/1308=0.04	# Known to the PPD: tnea
+xyly	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 73/617=0.11	# Known to the PPD: xyly
+yazde	inv	100;Lemma;DETquant;;cat=DETquant;%default	# eleven
+ygane___one	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/39=0.05	# Known to the PPD: ygane
+yk	inv	300;Lemma;DETquant;;cat=DETquant;%default	# one
+ān	inv	100;Lemma;DETdem;;cat=DETdem;%default	# 2994/14386=0.2
+ān_ea	inv	100;Lemma;DETdem;;cat=DETdem;%default	# 2994/14386=0.2
+ānčnan	inv	200;Lemma;DETdem;;cat=DETdem;%default	# 	# Known to the PPD: ānčnan
+ānčnyn	inv	100;Lemma;DETdem;;cat=DETdem;%default	# 
+če	inv	100;Lemma;DETinter;;cat=DETinter;%default	# 933/1970=0.47
+čear	inv	100;Lemma;DETquant;;cat=DETquant;%default	# four
+čnan	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 8/187=0.04	# Known to the PPD: čnan
+čnd	inv	300;Lemma;DETinter;;cat=DETinter;%default	# 
+čnd	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 515/1426=0.36	# Known to the PPD: čnd --- DETquantquant
+čnd ta	inv	300;Lemma;DETinter;;cat=DETinter;%default	# 
+čndan	inv	300;Lemma;DETinter;;cat=DETinter;%default	# combien	# Known to the PPD: čndan
+čndyn	inv	300;Lemma;DETinter;;cat=DETinter;%default	# 4027	combien	Pronom interrogatif	# 23/261=0.08	# Known to the PPD: čndyn
+čndyn	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 4027	combien	Déterminant	# 23/261=0.08	# Known to the PPD: čndyn
+čnyn	inv	300;Lemma;DETdem;;cat=DETdem;%default	# 	# Known to the PPD: čnyn
+čy	inv	300;Lemma;DETinter;;cat=DETinter;%default	# 1/58=0.01	# Known to the PPD: čy
+čŕdr	inv	100;Lemma;DETinter;;cat=DETinter;%default	# 
+đre ay	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/26=0.03
+ħdakçr	inv	200;Lemma;DETquant;;cat=DETquant;%default	# 65/225=0.28	# Known to the PPD: ħdakçr
+ħdaŕl	inv	200;Lemma;DETquant;;cat=DETquant;%default	# 73/392=0.18	# Known to the PPD: ħdaŕl
+ħdaŕly	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/6=0.16
+ħdwd	inv	200;Lemma;DETquant;;cat=DETquant;%default	# 777/1413=0.54	# Known to the PPD: ħdwd
+ħdwda	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 1/12=0.08
+ħdwda˝	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 3/12=0.25
+ħwaly	inv	200;Lemma;DETquant;;cat=DETquant;%default	# 1/73=0.01	# Known to the PPD: ħwaly
+ŕbyl	inv	300;Lemma;DETquant;;cat=DETquant;%default	# ??? 41/231=0.17	# Known to the PPD: ŕbyl
+ŕryb	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 3/66=0.04	# Known to the PPD: ŕryb
+ŕsmty	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 5/116=0.04
+śś	inv	100;Lemma;DETquant;;cat=DETquant;%default	# six
+ţyfy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 2/10=0.2
+
+
+adame	inv	100;Lemma;DETquant;;cat=DETquant;%default	# manually modified from adame dendg # more

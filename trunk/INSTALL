@@ -1,0 +1,39 @@
+PerLex is an Alexina lexicon.
+
+In order to install (an) Alexina lexicon(s), you need to install first a package called
+alexina-tools, and the the lexicon(s) proper. The alexina-tools package and Alexina lexicons are
+freely available (LGPL license or equivalent) as part of the alexina project on the INRIA GForge
+(https://gforge.inria.fr/projects/alexina/). Some Alexina lexicons and the alexina-tools can be
+retrieved as "packages" on the "Files" tab of the Alexina project
+(https://gforge.inria.fr/frs/?group_id=482).  All lexicons and the alexina-tools can be retrieved
+from the subversion repository, following instructions provided under the "CVS/SVN" tab.
+
+Starting from packages, you must install the alexina-tools before installing any lexicon. The
+installation procedure is the standard one:
+./configure
+make
+sudo make install
+Note: the standard compilation procedure for each lexicon (e.g., PerLex) involves the use of
+perlcc. If you don't have perlcc, or if you cannot or do not want to use it, add the
+--enable-rawscripts option to the ./configure during the compilation of the lexicon.
+
+
+Starting from subversion sources, the following commands must be launched:
+
+1. for alexina-tools:
+libtoolize (or glibtoolize, e.g., on a Mac)
+aclocal
+autoconf
+automake -af
+./configure
+make
+sudo make install
+
+2. for each lexicon (e.g., Lefff or PerLex)
+aclocal -I /usr/local/share/aclocal
+autoconf
+automake -af
+./configure (optionaly with the optoin --enable-rawscript, see note above)
+make
+sudo make install
+

@@ -1,0 +1,20 @@
+ala	300	INTexcl	[pred="ala_____1",cat=INTexcl]	ala_____1	Default		%default	inv
+aley	300	INTexcl	[pred="aley_____1",cat=INTexcl]	aley_____1	Default		%default	inv
+ay	300	INTexcl	[pred="ay_____1",cat=INTexcl]	ay_____1	Default		%default	inv
+ayea	100	INTexcl	[pred="ayea_____1",cat=INTexcl]	ayea_____1	Default		%default	inv
+ean	300	INTexcl	[pred="ean_____1",cat=INTexcl]	ean_____1	Default		%default	inv
+ngara	100	INTexcl	[pred="ngara_____1",cat=INTexcl]	ngara_____1	Default		%default	inv
+prwrdgara	100	INTexcl	[pred="prwrdgara_____1",cat=INTexcl]	prwrdgara_____1	Default		%default	inv
+rebra	100	INTexcl	[pred="rebra_____1",cat=INTexcl]	rebra_____1	Default		%default	inv
+walle	300	INTexcl	[pred="walle_____1",cat=INTexcl]	walle_____1	Default		%default	inv
+xdawnda	100	INTexcl	[pred="xdawnda_____1",cat=INTexcl]	xdawnda_____1	Default		%default	inv
+xdaya	100	INTexcl	[pred="xdaya_____1",cat=INTexcl]	xdaya_____1	Default		%default	inv
+xw¹a	300	INTexcl	[pred="xw¹a_____1",cat=INTexcl]	xw¹a_____1	Default		%default	inv
+yarb	100	INTexcl	[pred="yarb_____1",cat=INTexcl]	yarb_____1	Default		%default	inv
+zea ze	100	INTexcl	[pred="zea ze_____1",cat=INTexcl]	zea ze_____1	Default		%default	inv
+âeay	200	INTexcl	[pred="âeay_____1",cat=INTexcl]	âeay_____1	Default		%default	inv
+ây	200	INTexcl	[pred="ây_____1",cat=INTexcl]	ây_____1	Default		%default	inv
+âàa	200	INTexcl	[pred="âàa_____1",cat=INTexcl]	âàa_____1	Default		%default	inv
+³af¿a	100	INTexcl	[pred="³af¿a_____1",cat=INTexcl]	³af¿a_____1	Default		%default	inv
+¹en¹aea	100	INTexcl	[pred="¹en¹aea_____1",cat=INTexcl]	¹en¹aea_____1	Default		%default	inv
+¹eryara	100	INTexcl	[pred="¹eryara_____1",cat=INTexcl]	¹eryara_____1	Default		%default	inv

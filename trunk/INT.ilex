@@ -1,0 +1,96 @@
+kaš	inv	300;Lemma;INT;;cat=INT;%default	# 2/16=0.12	# Known to the PPD: kaš
+a	inv	300;Lemma;INT;;cat=INT;%default	# 7/105=0.06	# Known to the PPD: a
+aywalle	inv	300;Lemma;INT;;cat=INT;%default	# 1/1=1	# Known to the PPD: aywalle
+ala	inv	300;Lemma;INT;;cat=INT;%default	# 2/34=0.05	# Known to the PPD: ala
+awew	inv	100;Lemma;INT;;cat=INT;%default	# 1/1=1
+awewwm	inv	100;Lemma;INT;;cat=INT;%default	# 2/2=1
+bb'y	inv	100;Lemma;INT;;cat=INT;%default	# 2/2=1
+da	inv	100;Lemma;INT;;cat=INT;%default	# 1/2=0.5
+dngy	inv	300;Lemma;INT;;cat=INT;%default	# 1/2=0.5	# Known to the PPD: dngy
+fr	inv	300;Lemma;INT;;cat=INT;%default	# 1/14=0.07	# Known to the PPD: fr
+ey	inv	300;Lemma;INT;;cat=INT;%default	# 13/22=0.59	# Known to the PPD: ey
+eyeat	inv	300;Lemma;INT;;cat=INT;%default	# 1/1=1	# Known to the PPD: eyeat
+eys	inv	300;Lemma;INT;;cat=INT;%default	# 1/2=0.5	# Known to the PPD: eys
+ea	inv	100;Lemma;INT;;cat=INT;%default	# 3/7=0.42
+ewy	inv	100;Lemma;INT;;cat=INT;%default	# 1/2=0.5
+ewm	inv	100;Lemma;INT;;cat=INT;%default	# 1/1=1
+eš	inv	100;Lemma;INT;;cat=INT;%default	# 1/1=1
+n	inv	300;Lemma;INT;;cat=INT;%default	# 1/33=0.03	# Known to the PPD: n
+way	inv	300;Lemma;INT;;cat=INT;%default	# 24/27=0.88	# Known to the PPD: way
+we	inv	100;Lemma;INT;;cat=INT;%default	# 2/2=1
+xb	inv	300;Lemma;INT;;cat=INT;%default	# 6/33=0.18	# Known to the PPD: xb
+ze	inv	100;Lemma;INT;;cat=INT;%default	# 4/5=0.8
+zey	inv	100;Lemma;INT;;cat=INT;%default	# 5/18=0.27
+āy	inv	200;Lemma;INT;;cat=INT;%default	# 1/5=0.2	# Known to the PPD: āy
+āe	inv	200;Lemma;INT;;cat=INT;%default	# 6/26=0.23	# Known to the PPD: āe
+āeay	inv	200;Lemma;INT;;cat=INT;%default	# 2/3=0.66	# Known to the PPD: āeay
+āean	inv	200;Lemma;INT;;cat=INT;%default	# 3/3=1	# Known to the PPD: āean
+āwe	inv	100;Lemma;INT;;cat=INT;%default	# 1/4=0.25
+āx	inv	200;Lemma;INT;;cat=INT;%default	# 3/3=1	# Known to the PPD: āx
+ħyf	inv	200;Lemma;INT;;cat=INT;%default	# 2/7=0.28	# Known to the PPD: ħyf
+ay way	inv	100;Lemma;INT;;cat=INT;%default	# 1/1=1
+ee ee	inv	100;Lemma;INT;;cat=INT;%default	# 1/1=1
+āaw w w w	inv	100;Lemma;INT;;cat=INT;%default	# 3/3=1
+ħaš lle	inv	100;Lemma;INT;;cat=INT;%default	# 1/1=1
+ay	inv	300;Lemma;INTexcl;;cat=INTexcl;%default	# 236/263=0.89	# Known to the PPD: ay
+ayea	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 1/5=0.2
+ala	inv	300;Lemma;INTexcl;;cat=INTexcl;%default	# 5/34=0.14	# Known to the PPD: ala
+aley	inv	300;Lemma;INTexcl;;cat=INTexcl;%default	# 8/306=0.02	# Known to the PPD: aley
+ean	inv	300;Lemma;INTexcl;;cat=INTexcl;%default	# 5/9=0.55	# Known to the PPD: ean
+ngara	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 1/1=1
+prwrdgara	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 16/29=0.55
+walle	inv	300;Lemma;INTexcl;;cat=INTexcl;%default	# 2/5=0.4	# Known to the PPD: walle
+xdaya	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 9/17=0.52
+xwša	inv	300;Lemma;INTexcl;;cat=INTexcl;%default	# 1/2=0.5	# Known to the PPD: xwša
+āy	inv	200;Lemma;INTexcl;;cat=INTexcl;%default	# 1/5=0.2	# Known to the PPD: āy
+āeay	inv	200;Lemma;INTexcl;;cat=INTexcl;%default	# 1/3=0.33	# Known to the PPD: āeay
+šenšaea	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 1/1=1
+šeryara	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 1/1=1
+ħafẓa	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 2/4=0.5
+zea ze	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 1/1=1
+rebra	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# /3=0
+xdawnda	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# /5=0
+āŕa	inv	200;Lemma;INTexcl;;cat=INTexcl;%default	# /177=0	# Known to the PPD: āŕa
+yarb	inv	100;Lemma;INTexcl;;cat=INTexcl;%default	# 1/2=0.5
+
+
+'jba	inv	300;Lemma;INTs;;cat=INTs;%default	# 1/1=1	# Known to the PPD: 'jba
+ala	inv	300;Lemma;INTs;;cat=INTs;%default	# 1/34=0.02	# Known to the PPD: ala
+aħsnt	inv	200;Lemma;INTs;;cat=INTs;%default	# 1/1=1	# Known to the PPD: aħsnt
+bary	inv	100;Lemma;INTs;;cat=INTs;%default	# 3/63=0.04
+baralea	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+bly	inv	300;Lemma;INTs;;cat=INTs;%default	# 4/7=0.57	# Known to the PPD: bly
+ble	inv	300;Lemma;INTs;;cat=INTs;%default	# 103/154=0.66	# Known to the PPD: ble
+bša	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+eyčy	inv	300;Lemma;INTs;;cat=INTs;%default	# 1/12=0.08	# Known to the PPD: eyčy
+naslamty	inv	300;Lemma;INTs;;cat=INTs;%default	# 1/1=1	# Known to the PPD: naslamty
+ne	inv	300;Lemma;INTs;;cat=INTs;%default	# 38/1301=0.02	# Known to the PPD: ne
+nxyr	inv	300;Lemma;INTs;;cat=INTs;%default	# 6/18=0.33	# Known to the PPD: nxyr
+slam	inv	300;Lemma;INTs;;cat=INTs;%default	# 1/60=0.01	# Known to the PPD: slam
+xyr	inv	300;Lemma;INTs;;cat=INTs;%default	# 37/170=0.21	# Known to the PPD: xyr
+xb	inv	300;Lemma;INTs;;cat=INTs;%default	# 2/33=0.06	# Known to the PPD: xb
+xdaya	inv	100;Lemma;INTs;;cat=INTs;%default	# 2/17=0.11
+xdaħafẓ	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/7=0.14
+xlaşe	inv	300;Lemma;INTs;;cat=INTs;%default	# 2/106=0.01	# Known to the PPD: xlaşe
+znear	inv	300;Lemma;INTs;;cat=INTs;%default	# 1/4=0.25	# Known to the PPD: znear
+āry	inv	200;Lemma;INTs;;cat=INTs;%default	# 24/36=0.66	# Known to the PPD: āry
+āre	inv	200;Lemma;INTs;;cat=INTs;%default	# 29/29=1	# Known to the PPD: āre
+şdāfryn	inv	100;Lemma;INTs;;cat=INTs;%default	# 3/3=1
+by ymy ye	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+by yma	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+bsm alle alrħmn alrħym	inv	100;Lemma;INTs;;cat=INTs;%default	# 19/32=0.59
+bsme t'aly	inv	100;Lemma;INTs;;cat=INTs;%default	# 16/18=0.88
+bšy ye	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+dst mryzad	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/4=0.25
+fday srman	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+mrde bad	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+r k	inv	100;Lemma;INTs;;cat=INTs;%default	# 13/13=1
+sbħan alle	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/2=0.5
+w alle a'lm	inv	100;Lemma;INTs;;cat=INTs;%default	# 2/3=0.66
+walslam 'lykm	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+znde bad	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+āmyn ya rb al'almyn	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+şbħ bxyr	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+šb bxyr	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+žyne ba	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1
+žwre ba	inv	100;Lemma;INTs;;cat=INTs;%default	# 1/1=1

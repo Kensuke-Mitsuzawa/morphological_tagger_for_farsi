@@ -1,0 +1,1719 @@
+m4trace:/opt/local/share/aclocal-1.13/amversion.m4:14: -1- AC_DEFUN([AM_AUTOMAKE_VERSION], [am__api_version='1.13'
+dnl Some users find AM_AUTOMAKE_VERSION and mistake it for a way to
+dnl require some minimum version.  Point them to the right macro.
+m4_if([$1], [1.13.1], [],
+      [AC_FATAL([Do not call $0, use AM_INIT_AUTOMAKE([$1]).])])dnl
+])
+m4trace:/opt/local/share/aclocal-1.13/amversion.m4:33: -1- AC_DEFUN([AM_SET_CURRENT_AUTOMAKE_VERSION], [AM_AUTOMAKE_VERSION([1.13.1])dnl
+m4_ifndef([AC_AUTOCONF_VERSION],
+  [m4_copy([m4_PACKAGE_VERSION], [AC_AUTOCONF_VERSION])])dnl
+_AM_AUTOCONF_VERSION(m4_defn([AC_AUTOCONF_VERSION]))])
+m4trace:/opt/local/share/aclocal-1.13/auxdir.m4:47: -1- AC_DEFUN([AM_AUX_DIR_EXPAND], [dnl Rely on autoconf to set up CDPATH properly.
+AC_PREREQ([2.50])dnl
+# expand $ac_aux_dir to an absolute path
+am_aux_dir=`cd $ac_aux_dir && pwd`
+])
+m4trace:/opt/local/share/aclocal-1.13/cond.m4:12: -1- AC_DEFUN([AM_CONDITIONAL], [AC_PREREQ([2.52])dnl
+ m4_if([$1], [TRUE],  [AC_FATAL([$0: invalid condition: $1])],
+       [$1], [FALSE], [AC_FATAL([$0: invalid condition: $1])])dnl
+AC_SUBST([$1_TRUE])dnl
+AC_SUBST([$1_FALSE])dnl
+_AM_SUBST_NOTMAKE([$1_TRUE])dnl
+_AM_SUBST_NOTMAKE([$1_FALSE])dnl
+m4_define([_AM_COND_VALUE_$1], [$2])dnl
+if $2; then
+  $1_TRUE=
+  $1_FALSE='#'
+else
+  $1_TRUE='#'
+  $1_FALSE=
+fi
+AC_CONFIG_COMMANDS_PRE(
+[if test -z "${$1_TRUE}" && test -z "${$1_FALSE}"; then
+  AC_MSG_ERROR([[conditional "$1" was never defined.
+Usually this means the macro was only invoked conditionally.]])
+fi])])
+m4trace:/opt/local/share/aclocal-1.13/depend.m4:26: -1- AC_DEFUN([_AM_DEPENDENCIES], [AC_REQUIRE([AM_SET_DEPDIR])dnl
+AC_REQUIRE([AM_OUTPUT_DEPENDENCY_COMMANDS])dnl
+AC_REQUIRE([AM_MAKE_INCLUDE])dnl
+AC_REQUIRE([AM_DEP_TRACK])dnl
+
+m4_if([$1], [CC],   [depcc="$CC"   am_compiler_list=],
+      [$1], [CXX],  [depcc="$CXX"  am_compiler_list=],
+      [$1], [OBJC], [depcc="$OBJC" am_compiler_list='gcc3 gcc'],
+      [$1], [OBJCXX], [depcc="$OBJCXX" am_compiler_list='gcc3 gcc'],
+      [$1], [UPC],  [depcc="$UPC"  am_compiler_list=],
+      [$1], [GCJ],  [depcc="$GCJ"  am_compiler_list='gcc3 gcc'],
+                    [depcc="$$1"   am_compiler_list=])
+
+AC_CACHE_CHECK([dependency style of $depcc],
+               [am_cv_$1_dependencies_compiler_type],
+[if test -z "$AMDEP_TRUE" && test -f "$am_depcomp"; then
+  # We make a subdir and do the tests there.  Otherwise we can end up
+  # making bogus files that we don't know about and never remove.  For
+  # instance it was reported that on HP-UX the gcc test will end up
+  # making a dummy file named 'D' -- because '-MD' means "put the output
+  # in D".
+  rm -rf conftest.dir
+  mkdir conftest.dir
+  # Copy depcomp to subdir because otherwise we won't find it if we're
+  # using a relative directory.
+  cp "$am_depcomp" conftest.dir
+  cd conftest.dir
+  # We will build objects and dependencies in a subdirectory because
+  # it helps to detect inapplicable dependency modes.  For instance
+  # both Tru64's cc and ICC support -MD to output dependencies as a
+  # side effect of compilation, but ICC will put the dependencies in
+  # the current directory while Tru64 will put them in the object
+  # directory.
+  mkdir sub
+
+  am_cv_$1_dependencies_compiler_type=none
+  if test "$am_compiler_list" = ""; then
+     am_compiler_list=`sed -n ['s/^#*\([a-zA-Z0-9]*\))$/\1/p'] < ./depcomp`
+  fi
+  am__universal=false
+  m4_case([$1], [CC],
+    [case " $depcc " in #(
+     *\ -arch\ *\ -arch\ *) am__universal=true ;;
+     esac],
+    [CXX],
+    [case " $depcc " in #(
+     *\ -arch\ *\ -arch\ *) am__universal=true ;;
+     esac])
+
+  for depmode in $am_compiler_list; do
+    # Setup a source with many dependencies, because some compilers
+    # like to wrap large dependency lists on column 80 (with \), and
+    # we should not choose a depcomp mode which is confused by this.
+    #
+    # We need to recreate these files for each test, as the compiler may
+    # overwrite some of them when testing with obscure command lines.
+    # This happens at least with the AIX C compiler.
+    : > sub/conftest.c
+    for i in 1 2 3 4 5 6; do
+      echo '#include "conftst'$i'.h"' >> sub/conftest.c
+      # Using ": > sub/conftst$i.h" creates only sub/conftst1.h with
+      # Solaris 10 /bin/sh.
+      echo '/* dummy */' > sub/conftst$i.h
+    done
+    echo "${am__include} ${am__quote}sub/conftest.Po${am__quote}" > confmf
+
+    # We check with '-c' and '-o' for the sake of the "dashmstdout"
+    # mode.  It turns out that the SunPro C++ compiler does not properly
+    # handle '-M -o', and we need to detect this.  Also, some Intel
+    # versions had trouble with output in subdirs.
+    am__obj=sub/conftest.${OBJEXT-o}
+    am__minus_obj="-o $am__obj"
+    case $depmode in
+    gcc)
+      # This depmode causes a compiler race in universal mode.
+      test "$am__universal" = false || continue
+      ;;
+    nosideeffect)
+      # After this tag, mechanisms are not by side-effect, so they'll
+      # only be used when explicitly requested.
+      if test "x$enable_dependency_tracking" = xyes; then
+	continue
+      else
+	break
+      fi
+      ;;
+    msvc7 | msvc7msys | msvisualcpp | msvcmsys)
+      # This compiler won't grok '-c -o', but also, the minuso test has
+      # not run yet.  These depmodes are late enough in the game, and
+      # so weak that their functioning should not be impacted.
+      am__obj=conftest.${OBJEXT-o}
+      am__minus_obj=
+      ;;
+    none) break ;;
+    esac
+    if depmode=$depmode \
+       source=sub/conftest.c object=$am__obj \
+       depfile=sub/conftest.Po tmpdepfile=sub/conftest.TPo \
+       $SHELL ./depcomp $depcc -c $am__minus_obj sub/conftest.c \
+         >/dev/null 2>conftest.err &&
+       grep sub/conftst1.h sub/conftest.Po > /dev/null 2>&1 &&
+       grep sub/conftst6.h sub/conftest.Po > /dev/null 2>&1 &&
+       grep $am__obj sub/conftest.Po > /dev/null 2>&1 &&
+       ${MAKE-make} -s -f confmf > /dev/null 2>&1; then
+      # icc doesn't choke on unknown options, it will just issue warnings
+      # or remarks (even with -Werror).  So we grep stderr for any message
+      # that says an option was ignored or not supported.
+      # When given -MP, icc 7.0 and 7.1 complain thusly:
+      #   icc: Command line warning: ignoring option '-M'; no argument required
+      # The diagnosis changed in icc 8.0:
+      #   icc: Command line remark: option '-MP' not supported
+      if (grep 'ignoring option' conftest.err ||
+          grep 'not supported' conftest.err) >/dev/null 2>&1; then :; else
+        am_cv_$1_dependencies_compiler_type=$depmode
+        break
+      fi
+    fi
+  done
+
+  cd ..
+  rm -rf conftest.dir
+else
+  am_cv_$1_dependencies_compiler_type=none
+fi
+])
+AC_SUBST([$1DEPMODE], [depmode=$am_cv_$1_dependencies_compiler_type])
+AM_CONDITIONAL([am__fastdep$1], [
+  test "x$enable_dependency_tracking" != xno \
+  && test "$am_cv_$1_dependencies_compiler_type" = gcc3])
+])
+m4trace:/opt/local/share/aclocal-1.13/depend.m4:163: -1- AC_DEFUN([AM_SET_DEPDIR], [AC_REQUIRE([AM_SET_LEADING_DOT])dnl
+AC_SUBST([DEPDIR], ["${am__leading_dot}deps"])dnl
+])
+m4trace:/opt/local/share/aclocal-1.13/depend.m4:171: -1- AC_DEFUN([AM_DEP_TRACK], [AC_ARG_ENABLE([dependency-tracking], [dnl
+AS_HELP_STRING(
+  [--enable-dependency-tracking],
+  [do not reject slow dependency extractors])
+AS_HELP_STRING(
+  [--disable-dependency-tracking],
+  [speeds up one-time build])])
+if test "x$enable_dependency_tracking" != xno; then
+  am_depcomp="$ac_aux_dir/depcomp"
+  AMDEPBACKSLASH='\'
+  am__nodep='_no'
+fi
+AM_CONDITIONAL([AMDEP], [test "x$enable_dependency_tracking" != xno])
+AC_SUBST([AMDEPBACKSLASH])dnl
+_AM_SUBST_NOTMAKE([AMDEPBACKSLASH])dnl
+AC_SUBST([am__nodep])dnl
+_AM_SUBST_NOTMAKE([am__nodep])dnl
+])
+m4trace:/opt/local/share/aclocal-1.13/depout.m4:12: -1- AC_DEFUN([_AM_OUTPUT_DEPENDENCY_COMMANDS], [{
+  # Older Autoconf quotes --file arguments for eval, but not when files
+  # are listed without --file.  Let's play safe and only enable the eval
+  # if we detect the quoting.
+  case $CONFIG_FILES in
+  *\'*) eval set x "$CONFIG_FILES" ;;
+  *)   set x $CONFIG_FILES ;;
+  esac
+  shift
+  for mf
+  do
+    # Strip MF so we end up with the name of the file.
+    mf=`echo "$mf" | sed -e 's/:.*$//'`
+    # Check whether this is an Automake generated Makefile or not.
+    # We used to match only the files named 'Makefile.in', but
+    # some people rename them; so instead we look at the file content.
+    # Grep'ing the first line is not enough: some people post-process
+    # each Makefile.in and add a new line on top of each file to say so.
+    # Grep'ing the whole file is not good either: AIX grep has a line
+    # limit of 2048, but all sed's we know have understand at least 4000.
+    if sed -n 's,^#.*generated by automake.*,X,p' "$mf" | grep X >/dev/null 2>&1; then
+      dirpart=`AS_DIRNAME("$mf")`
+    else
+      continue
+    fi
+    # Extract the definition of DEPDIR, am__include, and am__quote
+    # from the Makefile without running 'make'.
+    DEPDIR=`sed -n 's/^DEPDIR = //p' < "$mf"`
+    test -z "$DEPDIR" && continue
+    am__include=`sed -n 's/^am__include = //p' < "$mf"`
+    test -z "am__include" && continue
+    am__quote=`sed -n 's/^am__quote = //p' < "$mf"`
+    # Find all dependency output files, they are included files with
+    # $(DEPDIR) in their names.  We invoke sed twice because it is the
+    # simplest approach to changing $(DEPDIR) to its actual value in the
+    # expansion.
+    for file in `sed -n "
+      s/^$am__include $am__quote\(.*(DEPDIR).*\)$am__quote"'$/\1/p' <"$mf" | \
+	 sed -e 's/\$(DEPDIR)/'"$DEPDIR"'/g'`; do
+      # Make sure the directory exists.
+      test -f "$dirpart/$file" && continue
+      fdir=`AS_DIRNAME(["$file"])`
+      AS_MKDIR_P([$dirpart/$fdir])
+      # echo "creating $dirpart/$file"
+      echo '# dummy' > "$dirpart/$file"
+    done
+  done
+}
+])
+m4trace:/opt/local/share/aclocal-1.13/depout.m4:71: -1- AC_DEFUN([AM_OUTPUT_DEPENDENCY_COMMANDS], [AC_CONFIG_COMMANDS([depfiles],
+     [test x"$AMDEP_TRUE" != x"" || _AM_OUTPUT_DEPENDENCY_COMMANDS],
+     [AMDEP_TRUE="$AMDEP_TRUE" ac_aux_dir="$ac_aux_dir"])
+])
+m4trace:/opt/local/share/aclocal-1.13/init.m4:23: -1- AC_DEFUN([AM_INIT_AUTOMAKE], [AC_PREREQ([2.65])dnl
+dnl Autoconf wants to disallow AM_ names.  We explicitly allow
+dnl the ones we care about.
+m4_pattern_allow([^AM_[A-Z]+FLAGS$])dnl
+AC_REQUIRE([AM_SET_CURRENT_AUTOMAKE_VERSION])dnl
+AC_REQUIRE([AC_PROG_INSTALL])dnl
+if test "`cd $srcdir && pwd`" != "`pwd`"; then
+  # Use -I$(srcdir) only when $(srcdir) != ., so that make's output
+  # is not polluted with repeated "-I."
+  AC_SUBST([am__isrc], [' -I$(srcdir)'])_AM_SUBST_NOTMAKE([am__isrc])dnl
+  # test to see if srcdir already configured
+  if test -f $srcdir/config.status; then
+    AC_MSG_ERROR([source directory already configured; run "make distclean" there first])
+  fi
+fi
+
+# test whether we have cygpath
+if test -z "$CYGPATH_W"; then
+  if (cygpath --version) >/dev/null 2>/dev/null; then
+    CYGPATH_W='cygpath -w'
+  else
+    CYGPATH_W=echo
+  fi
+fi
+AC_SUBST([CYGPATH_W])
+
+# Define the identity of the package.
+dnl Distinguish between old-style and new-style calls.
+m4_ifval([$2],
+[AC_DIAGNOSE([obsolete],
+             [$0: two- and three-arguments forms are deprecated.])
+m4_ifval([$3], [_AM_SET_OPTION([no-define])])dnl
+ AC_SUBST([PACKAGE], [$1])dnl
+ AC_SUBST([VERSION], [$2])],
+[_AM_SET_OPTIONS([$1])dnl
+dnl Diagnose old-style AC_INIT with new-style AM_AUTOMAKE_INIT.
+m4_if(
+  m4_ifdef([AC_PACKAGE_NAME], [ok]):m4_ifdef([AC_PACKAGE_VERSION], [ok]),
+  [ok:ok],,
+  [m4_fatal([AC_INIT should be called with package and version arguments])])dnl
+ AC_SUBST([PACKAGE], ['AC_PACKAGE_TARNAME'])dnl
+ AC_SUBST([VERSION], ['AC_PACKAGE_VERSION'])])dnl
+
+_AM_IF_OPTION([no-define],,
+[AC_DEFINE_UNQUOTED([PACKAGE], ["$PACKAGE"], [Name of package])
+ AC_DEFINE_UNQUOTED([VERSION], ["$VERSION"], [Version number of package])])dnl
+
+# Some tools Automake needs.
+AC_REQUIRE([AM_SANITY_CHECK])dnl
+AC_REQUIRE([AC_ARG_PROGRAM])dnl
+AM_MISSING_PROG([ACLOCAL], [aclocal-${am__api_version}])
+AM_MISSING_PROG([AUTOCONF], [autoconf])
+AM_MISSING_PROG([AUTOMAKE], [automake-${am__api_version}])
+AM_MISSING_PROG([AUTOHEADER], [autoheader])
+AM_MISSING_PROG([MAKEINFO], [makeinfo])
+AC_REQUIRE([AM_PROG_INSTALL_SH])dnl
+AC_REQUIRE([AM_PROG_INSTALL_STRIP])dnl
+AC_REQUIRE([AC_PROG_MKDIR_P])dnl
+# For better backward compatibility.  To be removed once Automake 1.9.x
+# dies out for good.  For more background, see:
+# <http://lists.gnu.org/archive/html/automake/2012-07/msg00001.html>
+# <http://lists.gnu.org/archive/html/automake/2012-07/msg00014.html>
+AC_SUBST([mkdir_p], ['$(MKDIR_P)'])
+# We need awk for the "check" target.  The system "awk" is bad on
+# some platforms.
+AC_REQUIRE([AC_PROG_AWK])dnl
+AC_REQUIRE([AC_PROG_MAKE_SET])dnl
+AC_REQUIRE([AM_SET_LEADING_DOT])dnl
+_AM_IF_OPTION([tar-ustar], [_AM_PROG_TAR([ustar])],
+	      [_AM_IF_OPTION([tar-pax], [_AM_PROG_TAR([pax])],
+			     [_AM_PROG_TAR([v7])])])
+_AM_IF_OPTION([no-dependencies],,
+[AC_PROVIDE_IFELSE([AC_PROG_CC],
+		  [_AM_DEPENDENCIES([CC])],
+		  [m4_define([AC_PROG_CC],
+			     m4_defn([AC_PROG_CC])[_AM_DEPENDENCIES([CC])])])dnl
+AC_PROVIDE_IFELSE([AC_PROG_CXX],
+		  [_AM_DEPENDENCIES([CXX])],
+		  [m4_define([AC_PROG_CXX],
+			     m4_defn([AC_PROG_CXX])[_AM_DEPENDENCIES([CXX])])])dnl
+AC_PROVIDE_IFELSE([AC_PROG_OBJC],
+		  [_AM_DEPENDENCIES([OBJC])],
+		  [m4_define([AC_PROG_OBJC],
+			     m4_defn([AC_PROG_OBJC])[_AM_DEPENDENCIES([OBJC])])])dnl
+AC_PROVIDE_IFELSE([AC_PROG_OBJCXX],
+		  [_AM_DEPENDENCIES([OBJCXX])],
+		  [m4_define([AC_PROG_OBJCXX],
+			     m4_defn([AC_PROG_OBJCXX])[_AM_DEPENDENCIES([OBJCXX])])])dnl
+])
+AC_REQUIRE([AM_SILENT_RULES])dnl
+dnl The testsuite driver may need to know about EXEEXT, so add the
+dnl 'am__EXEEXT' conditional if _AM_COMPILER_EXEEXT was seen.  This
+dnl macro is hooked onto _AC_COMPILER_EXEEXT early, see below.
+AC_CONFIG_COMMANDS_PRE(dnl
+[m4_provide_if([_AM_COMPILER_EXEEXT],
+  [AM_CONDITIONAL([am__EXEEXT], [test -n "$EXEEXT"])])])dnl
+])
+m4trace:/opt/local/share/aclocal-1.13/init.m4:136: -1- AC_DEFUN([_AC_AM_CONFIG_HEADER_HOOK], [# Compute $1's index in $config_headers.
+_am_arg=$1
+_am_stamp_count=1
+for _am_header in $config_headers :; do
+  case $_am_header in
+    $_am_arg | $_am_arg:* )
+      break ;;
+    * )
+      _am_stamp_count=`expr $_am_stamp_count + 1` ;;
+  esac
+done
+echo "timestamp for $_am_arg" >`AS_DIRNAME(["$_am_arg"])`/stamp-h[]$_am_stamp_count])
+m4trace:/opt/local/share/aclocal-1.13/install-sh.m4:11: -1- AC_DEFUN([AM_PROG_INSTALL_SH], [AC_REQUIRE([AM_AUX_DIR_EXPAND])dnl
+if test x"${install_sh}" != xset; then
+  case $am_aux_dir in
+  *\ * | *\	*)
+    install_sh="\${SHELL} '$am_aux_dir/install-sh'" ;;
+  *)
+    install_sh="\${SHELL} $am_aux_dir/install-sh"
+  esac
+fi
+AC_SUBST([install_sh])])
+m4trace:/opt/local/share/aclocal-1.13/lead-dot.m4:10: -1- AC_DEFUN([AM_SET_LEADING_DOT], [rm -rf .tst 2>/dev/null
+mkdir .tst 2>/dev/null
+if test -d .tst; then
+  am__leading_dot=.
+else
+  am__leading_dot=_
+fi
+rmdir .tst 2>/dev/null
+AC_SUBST([am__leading_dot])])
+m4trace:/opt/local/share/aclocal-1.13/make.m4:12: -1- AC_DEFUN([AM_MAKE_INCLUDE], [am_make=${MAKE-make}
+cat > confinc << 'END'
+am__doit:
+	@echo this is the am__doit target
+.PHONY: am__doit
+END
+# If we don't find an include directive, just comment out the code.
+AC_MSG_CHECKING([for style of include used by $am_make])
+am__include="#"
+am__quote=
+_am_result=none
+# First try GNU make style include.
+echo "include confinc" > confmf
+# Ignore all kinds of additional output from 'make'.
+case `$am_make -s -f confmf 2> /dev/null` in #(
+*the\ am__doit\ target*)
+  am__include=include
+  am__quote=
+  _am_result=GNU
+  ;;
+esac
+# Now try BSD make style include.
+if test "$am__include" = "#"; then
+   echo '.include "confinc"' > confmf
+   case `$am_make -s -f confmf 2> /dev/null` in #(
+   *the\ am__doit\ target*)
+     am__include=.include
+     am__quote="\""
+     _am_result=BSD
+     ;;
+   esac
+fi
+AC_SUBST([am__include])
+AC_SUBST([am__quote])
+AC_MSG_RESULT([$_am_result])
+rm -f confinc confmf
+])
+m4trace:/opt/local/share/aclocal-1.13/missing.m4:11: -1- AC_DEFUN([AM_MISSING_PROG], [AC_REQUIRE([AM_MISSING_HAS_RUN])
+$1=${$1-"${am_missing_run}$2"}
+AC_SUBST($1)])
+m4trace:/opt/local/share/aclocal-1.13/missing.m4:20: -1- AC_DEFUN([AM_MISSING_HAS_RUN], [AC_REQUIRE([AM_AUX_DIR_EXPAND])dnl
+AC_REQUIRE_AUX_FILE([missing])dnl
+if test x"${MISSING+set}" != xset; then
+  case $am_aux_dir in
+  *\ * | *\	*)
+    MISSING="\${SHELL} \"$am_aux_dir/missing\"" ;;
+  *)
+    MISSING="\${SHELL} $am_aux_dir/missing" ;;
+  esac
+fi
+# Use eval to expand $SHELL
+if eval "$MISSING --is-lightweight"; then
+  am_missing_run="$MISSING "
+else
+  am_missing_run=
+  AC_MSG_WARN(['missing' script is too old or missing])
+fi
+])
+m4trace:/opt/local/share/aclocal-1.13/options.m4:11: -1- AC_DEFUN([_AM_MANGLE_OPTION], [[_AM_OPTION_]m4_bpatsubst($1, [[^a-zA-Z0-9_]], [_])])
+m4trace:/opt/local/share/aclocal-1.13/options.m4:17: -1- AC_DEFUN([_AM_SET_OPTION], [m4_define(_AM_MANGLE_OPTION([$1]), [1])])
+m4trace:/opt/local/share/aclocal-1.13/options.m4:23: -1- AC_DEFUN([_AM_SET_OPTIONS], [m4_foreach_w([_AM_Option], [$1], [_AM_SET_OPTION(_AM_Option)])])
+m4trace:/opt/local/share/aclocal-1.13/options.m4:29: -1- AC_DEFUN([_AM_IF_OPTION], [m4_ifset(_AM_MANGLE_OPTION([$1]), [$2], [$3])])
+m4trace:/opt/local/share/aclocal-1.13/runlog.m4:12: -1- AC_DEFUN([AM_RUN_LOG], [{ echo "$as_me:$LINENO: $1" >&AS_MESSAGE_LOG_FD
+   ($1) >&AS_MESSAGE_LOG_FD 2>&AS_MESSAGE_LOG_FD
+   ac_status=$?
+   echo "$as_me:$LINENO: \$? = $ac_status" >&AS_MESSAGE_LOG_FD
+   (exit $ac_status); }])
+m4trace:/opt/local/share/aclocal-1.13/sanity.m4:11: -1- AC_DEFUN([AM_SANITY_CHECK], [AC_MSG_CHECKING([whether build environment is sane])
+# Reject unsafe characters in $srcdir or the absolute working directory
+# name.  Accept space and tab only in the latter.
+am_lf='
+'
+case `pwd` in
+  *[[\\\"\#\$\&\'\`$am_lf]]*)
+    AC_MSG_ERROR([unsafe absolute working directory name]);;
+esac
+case $srcdir in
+  *[[\\\"\#\$\&\'\`$am_lf\ \	]]*)
+    AC_MSG_ERROR([unsafe srcdir value: '$srcdir']);;
+esac
+
+# Do 'set' in a subshell so we don't clobber the current shell's
+# arguments.  Must try -L first in case configure is actually a
+# symlink; some systems play weird games with the mod time of symlinks
+# (eg FreeBSD returns the mod time of the symlink's containing
+# directory).
+if (
+   am_has_slept=no
+   for am_try in 1 2; do
+     echo "timestamp, slept: $am_has_slept" > conftest.file
+     set X `ls -Lt "$srcdir/configure" conftest.file 2> /dev/null`
+     if test "$[*]" = "X"; then
+	# -L didn't work.
+	set X `ls -t "$srcdir/configure" conftest.file`
+     fi
+     if test "$[*]" != "X $srcdir/configure conftest.file" \
+	&& test "$[*]" != "X conftest.file $srcdir/configure"; then
+
+	# If neither matched, then we have a broken ls.  This can happen
+	# if, for instance, CONFIG_SHELL is bash and it inherits a
+	# broken ls alias from the environment.  This has actually
+	# happened.  Such a system could not be considered "sane".
+	AC_MSG_ERROR([ls -t appears to fail.  Make sure there is not a broken
+  alias in your environment])
+     fi
+     if test "$[2]" = conftest.file || test $am_try -eq 2; then
+       break
+     fi
+     # Just in case.
+     sleep 1
+     am_has_slept=yes
+   done
+   test "$[2]" = conftest.file
+   )
+then
+   # Ok.
+   :
+else
+   AC_MSG_ERROR([newly created file is older than distributed files!
+Check your system clock])
+fi
+AC_MSG_RESULT([yes])
+# If we didn't sleep, we still need to ensure time stamps of config.status and
+# generated files are strictly newer.
+am_sleep_pid=
+if grep 'slept: no' conftest.file >/dev/null 2>&1; then
+  ( sleep 1 ) &
+  am_sleep_pid=$!
+fi
+AC_CONFIG_COMMANDS_PRE(
+  [AC_MSG_CHECKING([that generated files are newer than configure])
+   if test -n "$am_sleep_pid"; then
+     # Hide warnings about reused PIDs.
+     wait $am_sleep_pid 2>/dev/null
+   fi
+   AC_MSG_RESULT([done])])
+rm -f conftest.file
+])
+m4trace:/opt/local/share/aclocal-1.13/silent.m4:12: -1- AC_DEFUN([AM_SILENT_RULES], [AC_ARG_ENABLE([silent-rules], [dnl
+AS_HELP_STRING(
+  [--enable-silent-rules],
+  [less verbose build output (undo: "make V=1")])
+AS_HELP_STRING(
+  [--disable-silent-rules],
+  [verbose build output (undo: "make V=0")])dnl
+])
+case $enable_silent_rules in @%:@ (((
+  yes) AM_DEFAULT_VERBOSITY=0;;
+   no) AM_DEFAULT_VERBOSITY=1;;
+    *) AM_DEFAULT_VERBOSITY=m4_if([$1], [yes], [0], [1]);;
+esac
+dnl
+dnl A few 'make' implementations (e.g., NonStop OS and NextStep)
+dnl do not support nested variable expansions.
+dnl See automake bug#9928 and bug#10237.
+am_make=${MAKE-make}
+AC_CACHE_CHECK([whether $am_make supports nested variables],
+   [am_cv_make_support_nested_variables],
+   [if AS_ECHO([['TRUE=$(BAR$(V))
+BAR0=false
+BAR1=true
+V=1
+am__doit:
+	@$(TRUE)
+.PHONY: am__doit']]) | $am_make -f - >/dev/null 2>&1; then
+  am_cv_make_support_nested_variables=yes
+else
+  am_cv_make_support_nested_variables=no
+fi])
+if test $am_cv_make_support_nested_variables = yes; then
+  dnl Using '$V' instead of '$(V)' breaks IRIX make.
+  AM_V='$(V)'
+  AM_DEFAULT_V='$(AM_DEFAULT_VERBOSITY)'
+else
+  AM_V=$AM_DEFAULT_VERBOSITY
+  AM_DEFAULT_V=$AM_DEFAULT_VERBOSITY
+fi
+AC_SUBST([AM_V])dnl
+AM_SUBST_NOTMAKE([AM_V])dnl
+AC_SUBST([AM_DEFAULT_V])dnl
+AM_SUBST_NOTMAKE([AM_DEFAULT_V])dnl
+AC_SUBST([AM_DEFAULT_VERBOSITY])dnl
+AM_BACKSLASH='\'
+AC_SUBST([AM_BACKSLASH])dnl
+_AM_SUBST_NOTMAKE([AM_BACKSLASH])dnl
+])
+m4trace:/opt/local/share/aclocal-1.13/strip.m4:17: -1- AC_DEFUN([AM_PROG_INSTALL_STRIP], [AC_REQUIRE([AM_PROG_INSTALL_SH])dnl
+# Installed binaries are usually stripped using 'strip' when the user
+# run "make install-strip".  However 'strip' might not be the right
+# tool to use in cross-compilation environments, therefore Automake
+# will honor the 'STRIP' environment variable to overrule this program.
+dnl Don't test for $cross_compiling = yes, because it might be 'maybe'.
+if test "$cross_compiling" != no; then
+  AC_CHECK_TOOL([STRIP], [strip], :)
+fi
+INSTALL_STRIP_PROGRAM="\$(install_sh) -c -s"
+AC_SUBST([INSTALL_STRIP_PROGRAM])])
+m4trace:/opt/local/share/aclocal-1.13/substnot.m4:12: -1- AC_DEFUN([_AM_SUBST_NOTMAKE])
+m4trace:/opt/local/share/aclocal-1.13/substnot.m4:17: -1- AC_DEFUN([AM_SUBST_NOTMAKE], [_AM_SUBST_NOTMAKE($@)])
+m4trace:/opt/local/share/aclocal-1.13/tar.m4:22: -1- AC_DEFUN([_AM_PROG_TAR], [# Always define AMTAR for backward compatibility.  Yes, it's still used
+# in the wild :-(  We should find a proper way to deprecate it ...
+AC_SUBST([AMTAR], ['$${TAR-tar}'])
+m4_if([$1], [v7],
+     [am__tar='$${TAR-tar} chof - "$$tardir"' am__untar='$${TAR-tar} xf -'],
+     [m4_case([$1], [ustar],, [pax],,
+              [m4_fatal([Unknown tar format])])
+AC_MSG_CHECKING([how to create a $1 tar archive])
+# Loop over all known methods to create a tar archive until one works.
+_am_tools='gnutar m4_if([$1], [ustar], [plaintar]) pax cpio none'
+_am_tools=${am_cv_prog_tar_$1-$_am_tools}
+# Do not fold the above two line into one, because Tru64 sh and
+# Solaris sh will not grok spaces in the rhs of '-'.
+for _am_tool in $_am_tools
+do
+  case $_am_tool in
+  gnutar)
+    for _am_tar in tar gnutar gtar;
+    do
+      AM_RUN_LOG([$_am_tar --version]) && break
+    done
+    am__tar="$_am_tar --format=m4_if([$1], [pax], [posix], [$1]) -chf - "'"$$tardir"'
+    am__tar_="$_am_tar --format=m4_if([$1], [pax], [posix], [$1]) -chf - "'"$tardir"'
+    am__untar="$_am_tar -xf -"
+    ;;
+  plaintar)
+    # Must skip GNU tar: if it does not support --format= it doesn't create
+    # ustar tarball either.
+    (tar --version) >/dev/null 2>&1 && continue
+    am__tar='tar chf - "$$tardir"'
+    am__tar_='tar chf - "$tardir"'
+    am__untar='tar xf -'
+    ;;
+  pax)
+    am__tar='pax -L -x $1 -w "$$tardir"'
+    am__tar_='pax -L -x $1 -w "$tardir"'
+    am__untar='pax -r'
+    ;;
+  cpio)
+    am__tar='find "$$tardir" -print | cpio -o -H $1 -L'
+    am__tar_='find "$tardir" -print | cpio -o -H $1 -L'
+    am__untar='cpio -i -H $1 -d'
+    ;;
+  none)
+    am__tar=false
+    am__tar_=false
+    am__untar=false
+    ;;
+  esac
+
+  # If the value was cached, stop now.  We just wanted to have am__tar
+  # and am__untar set.
+  test -n "${am_cv_prog_tar_$1}" && break
+
+  # tar/untar a dummy directory, and stop if the command works
+  rm -rf conftest.dir
+  mkdir conftest.dir
+  echo GrepMe > conftest.dir/file
+  AM_RUN_LOG([tardir=conftest.dir && eval $am__tar_ >conftest.tar])
+  rm -rf conftest.dir
+  if test -s conftest.tar; then
+    AM_RUN_LOG([$am__untar <conftest.tar])
+    grep GrepMe conftest.dir/file >/dev/null 2>&1 && break
+  fi
+done
+rm -rf conftest.dir
+
+AC_CACHE_VAL([am_cv_prog_tar_$1], [am_cv_prog_tar_$1=$_am_tool])
+AC_MSG_RESULT([$am_cv_prog_tar_$1])])
+AC_SUBST([am__tar])
+AC_SUBST([am__untar])
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:5: -1- AC_DEFUN([AM_PATH_LEXED], [ AC_PREREQ(2.57)dnl
+  AC_ARG_WITH(lexed-prefix,
+            AC_HELP_STRING([--with-lexed-prefix=PFX],
+                           [prefix where LEXED is installed (optional)]),
+     lexed_config_prefix="$withval", lexed_config_prefix="")
+  if test x$lexed_config_prefix != x ; then
+     lexed_config_args="$lexed_config_args --prefix=$lexed_config_prefix"
+     if test x${LEXED_CONFIG+set} != xset ; then
+        LEXED_CONFIG=$lexed_config_prefix/bin/lexed-config
+     fi
+  fi
+
+  AC_PATH_PROG(LEXED_CONFIG, lexed-config, no)
+  min_lexed_version=ifelse([$1], ,0.3.9,$1)
+  AC_MSG_CHECKING(for LEXED - version >= $min_lexed_version)
+  ok=no
+  if test "$LEXED_CONFIG" != "no" ; then
+    req_major=`echo $min_lexed_version | \
+               sed 's/\([[0-9]]*\)\.\([[0-9]]*\)\.\([[0-9]]*\)/\1/'`
+    req_minor=`echo $min_lexed_version | \
+               sed 's/\([[0-9]]*\)\.\([[0-9]]*\)\.\([[0-9]]*\)/\2/'`
+    req_micro=`echo $min_lexed_version | \
+               sed 's/\([[0-9]]*\)\.\([[0-9]]*\)\.\([[0-9]]*\)/\3/'`
+    lexed_config_version=`$LEXED_CONFIG $lexed_config_args --version`
+    major=`echo $lexed_config_version | \
+               sed 's/\([[0-9]]*\)\.\([[0-9]]*\)\.\([[0-9]]*\).*/\1/'`
+    minor=`echo $lexed_config_version | \
+               sed 's/\([[0-9]]*\)\.\([[0-9]]*\)\.\([[0-9]]*\).*/\2/'`
+    micro=`echo $lexed_config_version | \
+               sed 's/\([[0-9]]*\)\.\([[0-9]]*\)\.\([[0-9]]*\).*/\3/'`
+    if test "$major" -gt "$req_major"; then
+        ok=yes
+    else 
+        if test "$major" -eq "$req_major"; then
+            if test "$minor" -gt "$req_minor"; then
+               ok=yes
+            else
+               if test "$minor" -eq "$req_minor"; then
+                   if test "$micro" -ge "$req_micro"; then
+                     ok=yes
+                   fi
+               fi
+            fi
+        fi
+    fi
+  fi
+  if test $ok = yes; then
+    LEXED_CFLAGS=`$LEXED_CONFIG $lexed_config_args --cflags`
+    LEXED_LIBS=`$LEXED_CONFIG $lexed_config_args --libs`
+    AC_MSG_RESULT(yes)
+    ifelse([$2], , :, [$2])
+  else
+    LEXED_CFLAGS=""
+    LEXED_LIBS=""
+    AC_MSG_RESULT(no)
+    ifelse([$3], , :, [$3])
+  fi
+  AC_SUBST(LEXED_CFLAGS)
+  AC_SUBST(LEXED_LIBS)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:70: -1- AC_DEFUN([AC_PATH_ALEXINA], [
+	AC_ARG_WITH(
+		alexinadir,
+		AC_HELP_STRING(
+		       --with-alexinadir=DIR,
+		       path where alexina (lexicons) directory is installed
+		),
+		alexinadir=$withval,
+		if test -d $datadir/alexina; then
+			alexinadir=$datadir/alexina
+		else
+			if test -d $prefix/share/alexina; then
+				alexinadir=$prefix/share/alexina
+			else
+				if test -d /usr/local/share/alexina; then
+					alexinadir=/usr/local/share/alexina
+				else
+					if test -d /usr/share/alexina; then
+						alexinadir=/usr/share/alexina
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Alexina lexicons hierarchy)
+
+	# check validity
+	if test -d "$alexinadir"; then
+		# expand to an absolute path
+		alexinadir=`cd $alexinadir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	AC_SUBST(alexinadir)
+
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:113: -1- AC_DEFUN([AC_PATH_ALEDA], [
+	AC_ARG_WITH(
+		aledalibdir,
+		AC_HELP_STRING(
+		       --with-aledalibdir=DIR,
+		       path where the aleda databases are installed
+		),
+		aledalibdir=$withval,
+		if test -d $datadir/aleda; then
+			aledalibdir=$datadir/aleda
+		else
+			if test -d $prefix/share/aleda; then
+				aledalibdir=$prefix/share/aleda
+			else
+				if test -d /usr/local/share/aleda; then
+					aledalibdir=/usr/local/share/aleda
+				else
+					if test -d /usr/share/aleda; then
+						aledalibdir=/usr/share/aleda
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for the Aleda database)
+
+	# check validity
+	if test -d "$aledalibdir"; then
+		# expand to an absolute path
+		aledalibdir=`cd $aledalibdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	AC_SUBST(aledalibdir)
+
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:153: -1- AC_DEFUN([AC_PATH_ALEXINATOOLS], [
+	AC_ARG_WITH(
+		alexinatoolsdir,
+		AC_HELP_STRING(
+		       --with-alexinatoolsdir=DIR,
+		       path where alexina-tools directory is installed
+		),
+		alexinatoolsdir=$withval,
+		if test -d $datadir/alexina-tools; then
+			alexinatoolsdir=$datadir/alexina-tools
+		else
+			if test -d $prefix/share/alexina-tools; then
+				alexinatoolsdir=$prefix/share/alexina-tools
+			else
+				if test -d /usr/local/share/alexina-tools; then
+					alexinatoolsdir=/usr/local/share/alexina-tools
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Alexina tools)
+
+	# check validity
+	if test -d "$alexinatoolsdir"; then
+		# expand to an absolute path
+		alexinatoolsdir=`cd $alexinatoolsdir && pwd`
+		AC_MSG_RESULT(yes (alexinatoolsdir=$alexinatoolsdir))
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	AC_SUBST(alexinatoolsdir)
+
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:193: -1- AC_DEFUN([AC_PATH_LEFFP], [
+	AC_ARG_WITH(
+		leffpdir,
+		AC_HELP_STRING(
+		       --with-leffpdir=DIR,
+		       path where leffp is installed
+		),
+		leffpdir=,
+		if test -d $datadir/leffp; then
+			leffpdir=$datadir/leffp
+		else
+			if test -d $prefix/share/leffp; then
+				leffpdir=$prefix/share/leffp
+			else
+				if test -d /usr/local/share/leffp; then
+					leffpdir=/usr/local/share/leffp
+				else
+					if test -d /usr/share/leffp; then
+						leffpdir=/usr/share/leffp
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Leffp)
+
+	# check validity
+	if test -d "$leffpdir"; then
+		# expand to an absolute path
+		leffpdir=`cd $leffpdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	ptlexdir=$leffpdir
+	AC_SUBST(leffpdir)
+	AC_SUBST(ptlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:238: -1- AC_DEFUN([AC_PATH_LEFFE], [
+	AC_ARG_WITH(
+		leffedir,
+		AC_HELP_STRING(
+		       --with-leffedir=DIR,
+		       path where leffe is installed
+		),
+		leffedir=,
+		if test -d $datadir/leffe; then
+			leffedir=$datadir/leffe
+		else
+			if test -d $prefix/share/leffe; then
+				leffedir=$prefix/share/leffe
+			else
+				if test -d /usr/local/share/leffe; then
+					leffedir=/usr/local/share/leffe
+				else
+					if test -d /usr/share/leffe; then
+						leffedir=/usr/share/leffe
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Leffe)
+
+	# check validity
+	if test -d "$leffedir"; then
+		# expand to an absolute path
+		leffedir=`cd $leffedir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	eslexdir=$leffedir
+	AC_SUBST(leffedir)
+	AC_SUBST(eslexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:283: -1- AC_DEFUN([AC_PATH_RULEX], [
+	AC_ARG_WITH(
+		rulexdir,
+		AC_HELP_STRING(
+		       --with-rulexdir=DIR,
+		       path where rulex is installed
+		),
+		rulexdir=,
+		if test -d $datadir/rulex; then
+			rulexdir=$datadir/rulex
+		else
+			if test -d $prefix/share/rulex; then
+				rulexdir=$prefix/share/rulex
+			else
+				if test -d /usr/local/share/rulex; then
+					rulexdir=/usr/local/share/rulex
+				else
+					if test -d /usr/share/rulex; then
+						rulexdir=/usr/share/rulex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for RuLex)
+
+	# check validity
+	if test -d "$rulexdir"; then
+		# expand to an absolute path
+		rulexdir=`cd $rulexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	rulexdir=$rulexdir
+	AC_SUBST(rulexdir)
+	AC_SUBST(rulexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:328: -1- AC_DEFUN([AC_PATH_SORALEX], [
+	AC_ARG_WITH(
+		soralexdir,
+		AC_HELP_STRING(
+		       --with-soralexdir=DIR,
+		       path where soralex is installed
+		),
+		soralexdir=,
+		if test -d $datadir/soralex; then
+			soralexdir=$datadir/soralex
+		else
+			if test -d $prefix/share/soralex; then
+				soralexdir=$prefix/share/soralex
+			else
+				if test -d /usr/local/share/soralex; then
+					soralexdir=/usr/local/share/soralex
+				else
+					if test -d /usr/share/soralex; then
+						soralexdir=/usr/share/soralex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for SoraLex)
+
+	# check validity
+	if test -d "$soralexdir"; then
+		# expand to an absolute path
+		soralexdir=`cd $soralexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	ckblexdir=$soralexdir
+	AC_SUBST(soralexdir)
+	AC_SUBST(ckblexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:373: -1- AC_DEFUN([AC_PATH_LEFFF], [
+	AC_ARG_WITH(
+		lefffdir,
+		AC_HELP_STRING(
+		       --with-lefffdir=DIR,
+		       path where lefff is installed
+		),
+		lefffdir=,
+		if test -d $datadir/lefff; then
+			lefffdir=$datadir/lefff
+		else
+			if test -d $prefix/share/lefff; then
+				lefffdir=$prefix/share/lefff
+			else
+				if test -d /usr/local/share/lefff; then
+					lefffdir=/usr/local/share/lefff
+				else
+					if test -d /usr/share/lefff; then
+						lefffdir=/usr/share/lefff
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Lefff)
+
+	# check validity
+	if test -d "$lefffdir"; then
+		# expand to an absolute path
+		lefffdir=`cd $lefffdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	frlexdir=$lefffdir
+	AC_SUBST(lefffdir)
+	AC_SUBST(frlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:418: -1- AC_DEFUN([AC_PATH_KURLEX], [
+	AC_ARG_WITH(
+		kurlexdir,
+		AC_HELP_STRING(
+		       --with-kurlexdir=DIR,
+		       path where kurlex is installed
+		),
+		kurlexdir=,
+		if test -d $datadir/kurlex; then
+			kurlexdir=$datadir/kurlex
+		else
+			if test -d $prefix/share/kurlex; then
+				kurlexdir=$prefix/share/kurlex
+			else
+				if test -d /usr/local/share/kurlex; then
+					kurlexdir=/usr/local/share/kurlex
+				else
+					if test -d /usr/share/kurlex; then
+						kurlexdir=/usr/share/kurlex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for KurLex)
+
+	# check validity
+	if test -d "$kurlexdir"; then
+		# expand to an absolute path
+		kurlexdir=`cd $kurlexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	kulexdir=$kurlexdir
+	AC_SUBST(kurlexdir)
+	AC_SUBST(kulexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:463: -1- AC_DEFUN([AC_PATH_PROLEX_ALEXINA], [
+	AC_ARG_WITH(
+		prolex_alexinadir,
+		AC_HELP_STRING(
+		       --with-prolex_alexinadir=DIR,
+		       path where prolex_alexina is installed
+		),
+		prolex_alexinadir=,
+		if test -d $datadir/prolex_alexina; then
+			prolex_alexinadir=$datadir/prolex_alexina
+		else
+			if test -d $prefix/share/prolex_alexina; then
+				prolex_alexinadir=$prefix/share/prolex_alexina
+			else
+				if test -d /usr/local/share/prolex_alexina; then
+					prolex_alexinadir=/usr/local/share/prolex_alexina
+				else
+					if test -d /usr/share/prolex_alexina; then
+						prolex_alexinadir=/usr/share/prolex_alexina
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for prolex_alexina)
+
+	# check validity
+	if test -d "$prolex_alexinadir"; then
+		# expand to an absolute path
+		prolex_alexinadir=`cd $prolex_alexinadir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	frPlexdir=$prolex_alexinadir
+	AC_SUBST(prolex_alexinadir)
+	AC_SUBST(frPlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:508: -1- AC_DEFUN([AC_PATH_MORPHALOU_ALEXINA], [
+	AC_ARG_WITH(
+		morphalou_alexinadir,
+		AC_HELP_STRING(
+		       --with-morphalou_alexinadir=DIR,
+		       path where morphalou_alexina is installed
+		),
+		morphalou_alexinadir=,
+		if test -d $datadir/morphalou_alexina; then
+			morphalou_alexinadir=$datadir/morphalou_alexina
+		else
+			if test -d $prefix/share/morphalou_alexina; then
+				morphalou_alexinadir=$prefix/share/morphalou_alexina
+			else
+				if test -d /usr/local/share/morphalou_alexina; then
+					morphalou_alexinadir=/usr/local/share/morphalou_alexina
+				else
+					if test -d /usr/share/morphalou_alexina; then
+						morphalou_alexinadir=/usr/share/morphalou_alexina
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for morphalou_alexina)
+
+	# check validity
+	if test -d "$morphalou_alexinadir"; then
+		# expand to an absolute path
+		morphalou_alexinadir=`cd $morphalou_alexinadir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	frMlexdir=$morphalou_alexinadir
+	AC_SUBST(morphalou_alexinadir)
+	AC_SUBST(frMlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:553: -1- AC_DEFUN([AC_PATH_SALDO], [
+	AC_ARG_WITH(
+		saldodir,
+		AC_HELP_STRING(
+		       --with-saldodir=DIR,
+		       path where saldo is installed
+		),
+		saldodir=,
+		if test -d $datadir/saldo; then
+			saldodir=$datadir/saldo
+		else
+			if test -d $prefix/share/saldo; then
+				saldodir=$prefix/share/saldo
+			else
+				if test -d /usr/local/share/saldo; then
+					saldodir=/usr/local/share/saldo
+				else
+					if test -d /usr/share/saldo; then
+						saldodir=/usr/share/saldo
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Saldo)
+
+	# check validity
+	if test -d "$saldodir"; then
+		# expand to an absolute path
+		saldodir=`cd $saldodir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	svlexdir=$saldodir
+	AC_SUBST(saldodir)
+	AC_SUBST(svlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:598: -1- AC_DEFUN([AC_PATH_SLOLEKS], [
+	AC_ARG_WITH(
+		sloleksdir,
+		AC_HELP_STRING(
+		       --with-sloleksdir=DIR,
+		       path where sloleks is installed
+		),
+		sloleksdir=,
+		if test -d $datadir/sloleks; then
+			sloleksdir=$datadir/sloleks
+		else
+			if test -d $prefix/share/sloleks; then
+				sloleksdir=$prefix/share/sloleks
+			else
+				if test -d /usr/local/share/sloleks; then
+					sloleksdir=/usr/local/share/sloleks
+				else
+					if test -d /usr/share/sloleks; then
+						sloleksdir=/usr/share/sloleks
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for SloLeks)
+
+	# check validity
+	if test -d "$sloleksdir"; then
+		# expand to an absolute path
+		sloleksdir=`cd $sloleksdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	silexdir=$sloleksdir
+	AC_SUBST(sloleksdir)
+	AC_SUBST(silexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:643: -1- AC_DEFUN([AC_PATH_VOCAPIALEX], [
+	AC_ARG_WITH(
+		vocapialexdir,
+		AC_HELP_STRING(
+		       --with-vocapialexdir=DIR,
+		       path where vocapialex is installed
+		),
+		vocapialexdir=,
+		if test -d $datadir/vocapialex; then
+			vocapialexdir=$datadir/vocapialex
+		else
+			if test -d $prefix/share/vocapialex; then
+				vocapialexdir=$prefix/share/vocapialex
+			else
+				if test -d /usr/local/share/vocapialex; then
+					vocapialexdir=/usr/local/share/vocapialex
+				else
+					if test -d /usr/share/vocapialex; then
+						vocapialexdir=/usr/share/vocapialex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for vocapialex)
+
+	# check validity
+	if test -d "$vocapialexdir"; then
+		# expand to an absolute path
+		vocapialexdir=`cd $vocapialexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	frVlexdir=$vocapialexdir
+	AC_SUBST(vocapialexdir)
+	AC_SUBST(frVlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:688: -1- AC_DEFUN([AC_PATH_MORPH_IT], [
+	AC_ARG_WITH(
+		morph_itdir,
+		AC_HELP_STRING(
+		       --with-morph_itdir=DIR,
+		       path where morph_it is installed
+		),
+		morph_itdir=,
+		if test -d $datadir/morph_it; then
+			morph_itdir=$datadir/morph_it
+		else
+			if test -d $prefix/share/morph_it; then
+				morph_itdir=$prefix/share/morph_it
+			else
+				if test -d /usr/local/share/morph_it; then
+					morph_itdir=/usr/local/share/morph_it
+				else
+					if test -d /usr/share/morph_it; then
+						morph_itdir=/usr/share/morph_it
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Morph_it)
+
+	# check validity
+	if test -d "$morph_itdir"; then
+		# expand to an absolute path
+		morph_itdir=`cd $morph_itdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	itlexdir=$morph_itdir
+	AC_SUBST(morph_itdir)
+	AC_SUBST(itlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:733: -1- AC_DEFUN([AC_PATH_POLLEX], [
+	AC_ARG_WITH(
+		pollexdir,
+		AC_HELP_STRING(
+		       --with-pollexdir=DIR,
+		       path where pollex is installed
+		),
+		pollexdir=,
+		if test -d $datadir/pollex; then
+			pollexdir=$datadir/pollex
+		else
+			if test -d $prefix/share/pollex; then
+				pollexdir=$prefix/share/pollex
+			else
+				if test -d /usr/local/share/pollex; then
+					pollexdir=/usr/local/share/pollex
+				else
+					if test -d /usr/share/pollex; then
+						pollexdir=/usr/share/pollex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for PolLex)
+
+	# check validity
+	if test -d "$pollexdir"; then
+		# expand to an absolute path
+		pollexdir=`cd $pollexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	pllexdir=$pollexdir
+	AC_SUBST(pollexdir)
+	AC_SUBST(pllexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:778: -1- AC_DEFUN([AC_PATH_PERLEX], [
+	AC_ARG_WITH(
+		perlexdir,
+		AC_HELP_STRING(
+		       --with-perlexdir=DIR,
+		       path where perlex is installed
+		),
+		perlexdir=,
+		if test -d $datadir/perlex; then
+			perlexdir=$datadir/perlex
+		else
+			if test -d $prefix/share/perlex; then
+				perlexdir=$prefix/share/perlex
+			else
+				if test -d /usr/local/share/perlex; then
+					perlexdir=/usr/local/share/perlex
+				else
+					if test -d /usr/share/perlex; then
+						perlexdir=/usr/share/perlex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for PerLex)
+
+	# check validity
+	if test -d "$perlexdir"; then
+		# expand to an absolute path
+		perlexdir=`cd $perlexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	falexdir=$perlexdir
+	AC_SUBST(perlexdir)
+	AC_SUBST(falexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:823: -1- AC_DEFUN([AC_PATH_ALPINO_LEX], [
+	AC_ARG_WITH(
+		alpino_lexdir,
+		AC_HELP_STRING(
+		       --with-alpino_lexdir=DIR,
+		       path where alpino_lex is installed
+		),
+		alpino_lexdir=,
+		if test -d $datadir/alpino_lex; then
+			alpino_lexdir=$datadir/alpino_lex
+		else
+			if test -d $prefix/share/alpino_lex; then
+				alpino_lexdir=$prefix/share/alpino_lex
+			else
+				if test -d /usr/local/share/alpino_lex; then
+					alpino_lexdir=/usr/local/share/alpino_lex
+				else
+					if test -d /usr/share/alpino_lex; then
+						alpino_lexdir=/usr/share/alpino_lex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for Alpino_lex)
+
+	# check validity
+	if test -d "$alpino_lexdir"; then
+		# expand to an absolute path
+		alpino_lexdir=`cd $alpino_lexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	nllexdir=$alpino_lexdir
+	AC_SUBST(alpino_lexdir)
+	AC_SUBST(nllexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:868: -1- AC_DEFUN([AC_PATH_ENLEX], [
+	AC_ARG_WITH(
+		enlexdir,
+		AC_HELP_STRING(
+		       --with-enlexdir=DIR,
+		       path where enlex is installed
+		),
+		enlexdir=,
+		if test -d $datadir/enlex; then
+			enlexdir=$datadir/enlex
+		else
+			if test -d $prefix/share/enlex; then
+				enlexdir=$prefix/share/enlex
+			else
+				if test -d /usr/local/share/enlex; then
+					enlexdir=/usr/local/share/enlex
+				else
+					if test -d /usr/share/enlex; then
+						enlexdir=/usr/share/enlex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for EnLex)
+
+	# check validity
+	if test -d "$enlexdir"; then
+		# expand to an absolute path
+		enlexdir=`cd $enlexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	enlexdir=$enlexdir
+	AC_SUBST(enlexdir)
+	AC_SUBST(enlexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:913: -1- AC_DEFUN([AC_PATH_DELEX], [
+	AC_ARG_WITH(
+		delexdir,
+		AC_HELP_STRING(
+		       --with-delexdir=DIR,
+		       path where delex is installed
+		),
+		delexdir=,
+		if test -d $datadir/delex; then
+			delexdir=$datadir/delex
+		else
+			if test -d $prefix/share/delex; then
+				delexdir=$prefix/share/delex
+			else
+				if test -d /usr/local/share/delex; then
+					delexdir=/usr/local/share/delex
+				else
+					if test -d /usr/share/delex; then
+						delexdir=/usr/share/delex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for DeLex)
+
+	# check validity
+	if test -d "$delexdir"; then
+		# expand to an absolute path
+		delexdir=`cd $delexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	delexdir=$delexdir
+	AC_SUBST(delexdir)
+	AC_SUBST(delexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:958: -1- AC_DEFUN([AC_PATH_SKLEX], [
+	AC_ARG_WITH(
+		sklexdir,
+		AC_HELP_STRING(
+		       --with-sklexdir=DIR,
+		       path where sklex is installed
+		),
+		sklexdir=,
+		if test -d $datadir/sklex; then
+			sklexdir=$datadir/sklex
+		else
+			if test -d $prefix/share/sklex; then
+				sklexdir=$prefix/share/sklex
+			else
+				if test -d /usr/local/share/sklex; then
+					sklexdir=/usr/local/share/sklex
+				else
+					if test -d /usr/share/sklex; then
+						sklexdir=/usr/share/sklex
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for SkLex)
+
+	# check validity
+	if test -d "$sklexdir"; then
+		# expand to an absolute path
+		sklexdir=`cd $sklexdir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	sklexdir=$sklexdir
+	AC_SUBST(sklexdir)
+	AC_SUBST(sklexdir)
+])
+m4trace:/usr/local/share/aclocal/alexina.m4:1003: -1- AC_DEFUN([AC_PATH_FRWIKTIONARY_ALEXINA], [
+	AC_ARG_WITH(
+		frwiktionary_alexinadir,
+		AC_HELP_STRING(
+		       --with-frwiktionary_alexinadir=DIR,
+		       path where frwiktionary_alexina is installed
+		),
+		frwiktionary_alexinadir=,
+		if test -d $datadir/frwiktionary_alexina; then
+			frwiktionary_alexinadir=$datadir/frwiktionary_alexina
+		else
+			if test -d $prefix/share/frwiktionary_alexina; then
+				frwiktionary_alexinadir=$prefix/share/frwiktionary_alexina
+			else
+				if test -d /usr/local/share/frwiktionary_alexina; then
+					frwiktionary_alexinadir=/usr/local/share/frwiktionary_alexina
+				else
+					if test -d /usr/share/frwiktionary_alexina; then
+						frwiktionary_alexinadir=/usr/share/frwiktionary_alexina
+					fi
+				fi
+			fi
+		fi
+	)
+
+	AC_MSG_CHECKING(for frwiktionary_alexina)
+
+	# check validity
+	if test -d "$frwiktionary_alexinadir"; then
+		# expand to an absolute path
+		frwiktionary_alexinadir=`cd $frwiktionary_alexinadir && pwd`
+		AC_MSG_RESULT(yes)
+	else
+		AC_MSG_RESULT(no)
+	fi
+
+	frWlexdir=$frwiktionary_alexinadir
+	AC_SUBST(frwiktionary_alexinadir)
+	AC_SUBST(frWlexdir)
+])
+m4trace:configure.ac:4: -1- m4_pattern_forbid([^_?A[CHUM]_])
+m4trace:configure.ac:4: -1- m4_pattern_forbid([_AC_])
+m4trace:configure.ac:4: -1- m4_pattern_forbid([^LIBOBJS$], [do not use LIBOBJS directly, use AC_LIBOBJ (see section `AC_LIBOBJ vs LIBOBJS'])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^AS_FLAGS$])
+m4trace:configure.ac:4: -1- m4_pattern_forbid([^_?m4_])
+m4trace:configure.ac:4: -1- m4_pattern_forbid([^dnl$])
+m4trace:configure.ac:4: -1- m4_pattern_forbid([^_?AS_])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^SHELL$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PATH_SEPARATOR$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_NAME$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_TARNAME$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_VERSION$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_STRING$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_BUGREPORT$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_URL$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^exec_prefix$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^prefix$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^program_transform_name$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^bindir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^sbindir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^libexecdir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^datarootdir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^datadir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^sysconfdir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^sharedstatedir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^localstatedir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^includedir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^oldincludedir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^docdir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^infodir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^htmldir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^dvidir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^pdfdir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^psdir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^libdir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^localedir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^mandir$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_NAME$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_TARNAME$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_VERSION$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_STRING$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_BUGREPORT$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^PACKAGE_URL$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^DEFS$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^ECHO_C$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^ECHO_N$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^ECHO_T$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^LIBS$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^build_alias$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^host_alias$])
+m4trace:configure.ac:4: -1- m4_pattern_allow([^target_alias$])
+m4trace:configure.ac:5: -1- AM_INIT_AUTOMAKE
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AM_[A-Z]+FLAGS$])
+m4trace:configure.ac:5: -1- AM_SET_CURRENT_AUTOMAKE_VERSION
+m4trace:configure.ac:5: -1- AM_AUTOMAKE_VERSION([1.13.1])
+m4trace:configure.ac:5: -1- _AM_AUTOCONF_VERSION([2.69])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^INSTALL_PROGRAM$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^INSTALL_SCRIPT$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^INSTALL_DATA$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^am__isrc$])
+m4trace:configure.ac:5: -1- _AM_SUBST_NOTMAKE([am__isrc])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^CYGPATH_W$])
+m4trace:configure.ac:5: -1- _AM_SET_OPTIONS([])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^VERSION$])
+m4trace:configure.ac:5: -1- _AM_IF_OPTION([no-define], [], [AC_DEFINE_UNQUOTED([PACKAGE], ["$PACKAGE"], [Name of package])
+ AC_DEFINE_UNQUOTED([VERSION], ["$VERSION"], [Version number of package])])
+m4trace:configure.ac:5: -2- _AM_MANGLE_OPTION([no-define])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^VERSION$])
+m4trace:configure.ac:5: -1- AM_SANITY_CHECK
+m4trace:configure.ac:5: -1- AM_MISSING_PROG([ACLOCAL], [aclocal-${am__api_version}])
+m4trace:configure.ac:5: -1- AM_MISSING_HAS_RUN
+m4trace:configure.ac:5: -1- AM_AUX_DIR_EXPAND
+m4trace:configure.ac:5: -1- m4_pattern_allow([^ACLOCAL$])
+m4trace:configure.ac:5: -1- AM_MISSING_PROG([AUTOCONF], [autoconf])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AUTOCONF$])
+m4trace:configure.ac:5: -1- AM_MISSING_PROG([AUTOMAKE], [automake-${am__api_version}])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AUTOMAKE$])
+m4trace:configure.ac:5: -1- AM_MISSING_PROG([AUTOHEADER], [autoheader])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AUTOHEADER$])
+m4trace:configure.ac:5: -1- AM_MISSING_PROG([MAKEINFO], [makeinfo])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^MAKEINFO$])
+m4trace:configure.ac:5: -1- AM_PROG_INSTALL_SH
+m4trace:configure.ac:5: -1- m4_pattern_allow([^install_sh$])
+m4trace:configure.ac:5: -1- AM_PROG_INSTALL_STRIP
+m4trace:configure.ac:5: -1- m4_pattern_allow([^STRIP$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^INSTALL_STRIP_PROGRAM$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^MKDIR_P$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^mkdir_p$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AWK$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^SET_MAKE$])
+m4trace:configure.ac:5: -1- AM_SET_LEADING_DOT
+m4trace:configure.ac:5: -1- m4_pattern_allow([^am__leading_dot$])
+m4trace:configure.ac:5: -1- _AM_IF_OPTION([tar-ustar], [_AM_PROG_TAR([ustar])], [_AM_IF_OPTION([tar-pax], [_AM_PROG_TAR([pax])],
+			     [_AM_PROG_TAR([v7])])])
+m4trace:configure.ac:5: -2- _AM_MANGLE_OPTION([tar-ustar])
+m4trace:configure.ac:5: -1- _AM_IF_OPTION([tar-pax], [_AM_PROG_TAR([pax])], [_AM_PROG_TAR([v7])])
+m4trace:configure.ac:5: -2- _AM_MANGLE_OPTION([tar-pax])
+m4trace:configure.ac:5: -1- _AM_PROG_TAR([v7])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AMTAR$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^am__tar$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^am__untar$])
+m4trace:configure.ac:5: -1- _AM_IF_OPTION([no-dependencies], [], [AC_PROVIDE_IFELSE([AC_PROG_CC],
+		  [_AM_DEPENDENCIES([CC])],
+		  [m4_define([AC_PROG_CC],
+			     m4_defn([AC_PROG_CC])[_AM_DEPENDENCIES([CC])])])dnl
+AC_PROVIDE_IFELSE([AC_PROG_CXX],
+		  [_AM_DEPENDENCIES([CXX])],
+		  [m4_define([AC_PROG_CXX],
+			     m4_defn([AC_PROG_CXX])[_AM_DEPENDENCIES([CXX])])])dnl
+AC_PROVIDE_IFELSE([AC_PROG_OBJC],
+		  [_AM_DEPENDENCIES([OBJC])],
+		  [m4_define([AC_PROG_OBJC],
+			     m4_defn([AC_PROG_OBJC])[_AM_DEPENDENCIES([OBJC])])])dnl
+AC_PROVIDE_IFELSE([AC_PROG_OBJCXX],
+		  [_AM_DEPENDENCIES([OBJCXX])],
+		  [m4_define([AC_PROG_OBJCXX],
+			     m4_defn([AC_PROG_OBJCXX])[_AM_DEPENDENCIES([OBJCXX])])])dnl
+])
+m4trace:configure.ac:5: -2- _AM_MANGLE_OPTION([no-dependencies])
+m4trace:configure.ac:5: -1- AM_SILENT_RULES
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AM_V$])
+m4trace:configure.ac:5: -1- AM_SUBST_NOTMAKE([AM_V])
+m4trace:configure.ac:5: -1- _AM_SUBST_NOTMAKE([AM_V])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AM_DEFAULT_V$])
+m4trace:configure.ac:5: -1- AM_SUBST_NOTMAKE([AM_DEFAULT_V])
+m4trace:configure.ac:5: -1- _AM_SUBST_NOTMAKE([AM_DEFAULT_V])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AM_DEFAULT_VERBOSITY$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AM_BACKSLASH$])
+m4trace:configure.ac:5: -1- _AM_SUBST_NOTMAKE([AM_BACKSLASH])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^PERL$])
+m4trace:configure.ac:13: -1- m4_pattern_allow([^ICONV$])
+m4trace:configure.ac:19: -1- AC_PATH_ALEXINATOOLS
+m4trace:configure.ac:19: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+/usr/local/share/aclocal/alexina.m4:153: AC_PATH_ALEXINATOOLS is expanded from...
+configure.ac:19: the top level])
+m4trace:configure.ac:19: -1- m4_pattern_allow([^alexinatoolsdir$])
+m4trace:configure.ac:26: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+configure.ac:26: the top level])
+m4trace:configure.ac:36: -1- m4_pattern_allow([^PERLCC$])
+m4trace:configure.ac:42: -1- m4_pattern_allow([^INCLUDE$])
+m4trace:configure.ac:44: -1- m4_pattern_allow([^PERLCC_OR_CP$])
+m4trace:configure.ac:45: -1- m4_pattern_allow([^PERLCC_OR_CP_INTERARG$])
+m4trace:configure.ac:47: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:47: -1- m4_pattern_allow([^LTLIBOBJS$])

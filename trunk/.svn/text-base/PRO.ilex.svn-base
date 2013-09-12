@@ -1,0 +1,207 @@
+'deay	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 3/269=0.01
+ky	inv	300;Lemma;PROinter;;cat=PROinter;%default	# 1/89=0.01	# Known to the PPD: ky
+kdamyk	inv	100;Lemma;PROinter;;cat=PROinter;%default	# 6/8=0.75
+ykyš	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 2/2=1
+ykyšan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 1/1=1
+ykdgr	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 7/7=1	# Known to the PPD: ykdgr
+ayna	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/6=0.16
+ayn_ae	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/6=0.16
+ayngwne	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 1/50=0.02	# Known to the PPD: ayngwne
+ayneayy	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/1=1
+aynjanb	inv	300;Lemma;PROpers;;cat=PROpers;%default	# 6/61=0.09	# Known to the PPD: aynjanb
+aynm	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 2/2=1
+aynw	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/1=1
+aynčnyn	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 1/14=0.07	# Known to the PPD: aynčnyn
+an	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 1/62=0.01	# Known to the PPD: an
+ana	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 4/16=0.25
+aqlb	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 18/289=0.06	# Known to the PPD: aqlb
+aqlbšan	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 3/3=1
+aw	inv	266;Lemma;PROpers;;cat=PROpers;%default	# 5751	Lui, elle	Pronom	# 4718/4723=0.99	# Known to the PPD: aw
+awly	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 9/81=0.11	# Known to the PPD: awly #BMW??? (google) 
+awn	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 5/28=0.17
+awn_ea	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/1=1
+awnay	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/1=1
+awneayy	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/1=1
+awšan	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/2=0.5
+ayn	inv	400;Lemma;PROdem;;cat=PROdem;%default	# 59909	ce	Pro démonstratif sing procee	# /42018=0	# Known to the PPD: ayn
+ayn gwne	inv	200;Lemma;PROdem;;cat=PROdem;%default	# 1/18=0.05
+ayn janb	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 4/4=1
+ayn ţwry	inv	200;Lemma;PROdem;;cat=PROdem;%default	# 1/6=0.16
+ayn_ea	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 440/440=1
+ayna	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/6=0.16
+aynan	inv	100;Lemma;PROdem;;cat=PROdem;%default	# Pronom dém plur proche	# 41/41=1
+ayneayy	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/1=1
+ayngwne	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 1/50=0.02	# Known to the PPD: ayngwne
+aynjanb	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 6/61=0.09	# Known to the PPD: aynjanb
+aynke	inv	200;Lemma;PROdem;;cat=PROdem;%default	# 5039	ce que		# /=
+aynm	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 2/2=1
+aynw	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/1=1
+aynčnyn	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 1/14=0.07	# Known to the PPD: aynčnyn
+ayšan	inv	166;Lemma;PROpers;;cat=PROpers;%default	# 741/741=1	# Known to the PPD: ayšan
+b'źy	inv	400;Lemma;PROquindef;;cat=PROquindef;%default	# 63/724=0.08	# Known to the PPD: b'źy
+b'źy_eayš	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 5/5=1
+b'źy šan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 1/1=1
+b'źy_ea	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 36/46=0.78
+b'źyeayšan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 1/1=1
+b'źyšan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 1/1=1
+beman	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 3/5=0.6	# Known to the PPD: beman
+bnde	inv	300;Lemma;PROpers;;cat=PROpers;%default	# 38/225=0.16	# Known to the PPD: bnde
+brxy	inv	400;Lemma;PROquindef;;cat=PROquindef;%default	# 4130	certains	Pronom	# 123/1531=0.08	# Known to the PPD: brxy
+brxy_ea	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 2/7=0.28
+bsyary	inv	300;Lemma;PROquindef;;cat=PROquindef;%default	# 46/1065=0.04	# Known to the PPD: bsyary
+byštršan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 1/2=0.5
+bŕye	inv	400;Lemma;PROquindef;;cat=PROquindef;%default	# 16/287=0.05	# Known to the PPD: bŕye
+dgran	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/1=1
+dgry	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 2/3=0.66
+dwmy	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 7/67=0.1	# Known to the PPD: dwmy
+dygran	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 367/398=0.92
+dygry	inv	400;Lemma;PROindef;;cat=PROindef;%default	# 208/1292=0.16	# Known to the PPD: dygry
+dygršan	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/2=0.5
+e=mdygr	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/1=1
+em	inv	200;Lemma;PROindef;;cat=PROindef;%default	# pro réfléchi	# 493/5482=0.08
+em dygr	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 3/3=1
+eman	inv	400;Lemma;PROdem;;cat=PROdem;%default	# 2773	même	Déterminant / Pronom	# 64/1256=0.05	# Known to the PPD: eman
+eman eayy	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 2/3=0.66
+eman_ea	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 5/5=1
+emanja	inv	200;Lemma;PROdem;;cat=PROdem;%default	# 5/10=0.5
+emany	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 3/3=1
+emdygr	inv	400;Lemma;PROindef;;cat=PROindef;%default	# pro réfléchi	# 66/66=1	# Known to the PPD: emdygr
+eme	inv	400;Lemma;PROquindef;;cat=PROquindef;%default	# 5549	tous, toutes	Pronom ou Déterminant	# 546/2193=0.24	# Known to the PPD: eme
+eme aš	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 14/14=1
+eme man	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 2/2=1
+eme tan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 1/1=1
+eme šan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 5/5=1
+emgan	inv	300;Lemma;PROquindef;;cat=PROquindef;%default	# 99/100=0.99	# Known to the PPD: emgan
+emgy	inv	400;Lemma;PROquindef;;cat=PROquindef;%default	# 125/137=0.91	# Known to the PPD: emgy
+emgy šan	inv	100;Lemma;PROquindef;;cat=PROquindef;%default	# 1/1=1
+emw	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 4/4=1
+emyn	inv	400;Lemma;PROindef;;cat=PROindef;%default	# 4411	cela (même)	Pronom / Déterminant	# 87/1855=0.04	# Known to the PPD: emyn
+emyn_ea	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 4/4=1
+emyngwne	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 2/3=0.66
+emynm	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/1=1
+erkdam	inv	200;Lemma;PROquant;;cat=PROquant;%default	# 3/5=0.6
+erke	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 13/13=1
+erks	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 23/23=1
+erānče	inv	200;Lemma;PROindef;;cat=PROindef;%default	# 3/11=0.27
+eyč kdam	inv	200;Lemma;PROquant;;cat=PROquant;%default	# 1/1=1
+eyč ks	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 1/1=1
+eyč yk	inv	200;Lemma;PROquant;;cat=PROquant;%default	# 21/21=1
+eyč_ks	inv	100;Lemma;PROquant;;cat=PROquant;%default	# /=
+eyčkdam	inv	300;Lemma;PROquant;;cat=PROquant;%default	# 18/18=1	# Known to the PPD: eyčkdam
+eyčks	inv	300;Lemma;PROquant;;cat=PROquant;%default	# 32/33=0.96	# Known to the PPD: eyčks
+eyčy	inv	400;Lemma;PROquant;;cat=PROquant;%default	# 7/12=0.58	# Known to the PPD: eyčy
+eyčyk	inv	300;Lemma;PROquant;;cat=PROquant;%default	# 34/38=0.89	# Known to the PPD: eyčyk
+eyšky	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 1/1=1
+flan	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 7/79=0.08	# Known to the PPD: flan
+flan bn flan	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/1=1
+flany	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 7/14=0.5	# Known to the PPD: flany
+jmlgy	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 6/9=0.66	# Known to the PPD: jmlgy
+jnab 'aly	inv	100;Lemma;PROpers;;cat=PROpers;%default	# /6=0
+jnab'aly	inv	300;Lemma;PROpers;;cat=PROpers;%default	# 88/88=1	# Known to the PPD: jnab'aly
+kdamyk	inv	100;Lemma;PROinter;;cat=PROinter;%default	# 6/8=0.75
+klye	inv	300;Lemma;PROquant;;cat=PROquant;%default	# /306=0	# Known to the PPD: klye
+ky	inv	300;Lemma;PROinter;;cat=PROinter;%default	# 1/89=0.01	# Known to the PPD: ky
+m==n	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/1=1
+ma	inv	266;Lemma;PROpers;;cat=PROpers;%default	# 8975	nous	Pronom	# 4482/4519=0.99	# Known to the PPD: ma
+ma_ea	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 8975	nous	Pronom	# 7/8=0.87
+may	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/2=0.5
+maš	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 1/4=0.25	# Known to the PPD: maš #vesce/vetch
+mn	inv	200;Lemma;PROpers;;cat=PROpers;%default	# 3845	moi	Pronom	# 2797/2907=0.96
+mnm	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/18=0.05
+mnw	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 2/30=0.06	# Known to the PPD: mnw #menu - mn+w?
+mny	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 4/20=0.2	# Known to the PPD: mny #semen
+mra	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 301/301=1
+mšaralye	inv	300;Lemma;PROindef;;cat=PROindef;%default	# 2/4=0.5	# Known to the PPD: mšaralye
+swmy	inv	100;Lemma;PROnum;;cat=PROnum;%default	# 2/30=0.06
+t=w	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/1=1
+tk tk	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 1/24=0.04
+tmama	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 1/18=0.05
+tmamš	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 1/1=1
+tmamšan	inv	100;Lemma;PROquant;;cat=PROquant;%default	# 2/2=1
+tra	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 25/25=1
+tw	inv	266;Lemma;PROpers;;cat=PROpers;%default	# tu	# 852/881=0.96	# Known to the PPD: tw
+twyy	inv	300;Lemma;PROpers;;cat=PROpers;%default	# 3/8=0.37	# Known to the PPD: twyy
+wra	inv	300;Lemma;PROpers;;cat=PROpers;%default	# 2/3=0.66	# Known to the PPD: wra #vera?
+wy	inv	400;Lemma;PROpers;;cat=PROpers;%default	# 4863/4866=0.99	# Known to the PPD: wy
+#x=wd	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/1=1
+xwd	inv	400;Lemma;PROrefl;;cat=PROrefl;%default	# 19273	soi	pronom	# 10294/10295=0.99	# Known to the PPD: xwd
+xwdm	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 144/144=1
+xwdman	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 106/106=1
+xwdmw	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 1/1=1
+xwdt	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 47/47=1
+xwdtan	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 45/45=1
+xwdtw	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 1/1=1
+xwdš	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 358/358=1
+xwdšan	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# 286/286=1
+xwyštn	inv	100;Lemma;PROrefl;;cat=PROrefl;%default	# soi-même	# /=
+xwyš	inv	200;Lemma;PROrefl;;cat=PROrefl;%default	# 494/494=1
+xwyštn	inv	300;Lemma;PROrefl;;cat=PROrefl;%default	# 39/39=1	# Known to the PPD: xwyštn
+ykdgr	inv	300;Lemma;PROrecip;;cat=PROrecip;%default	# 7/7=1	# Known to the PPD: ykdgr
+ykdygr	inv	400;Lemma;PROrecip;;cat=PROrecip;%default	# pro réfléchi	# 538/538=1	# Known to the PPD: ykdygr
+yky	inv	100;Lemma;PROrecip;;cat=PROrecip;%default	# 5734	Quelqu’un 	Pronom	# 2678/2877=0.93
+yky aš	inv	100;Lemma;PROrecip;;cat=PROrecip;%default	# 1/1=1
+yky šan	inv	100;Lemma;PROrecip;;cat=PROrecip;%default	# 1/1=1
+ykyš	inv	100;Lemma;PROrecip;;cat=PROrecip;%default	# 2/2=1
+ykyšan	inv	100;Lemma;PROrecip;;cat=PROrecip;%default	# 1/1=1
+ān	inv	200;Lemma;PROdem;;cat=PROdem;%default	# 20503	ce	Pro démonstratif sing lointain	# /14386=0
+ān_ea	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 7856	Eux, elles	Pronom	# 3891/3892=0.99
+ānan	inv	300;Lemma;PROdem;;cat=PROdem;%default	# 3236	eux, elles	Pronom dém plur lointain	# 1682/1682=1	# Known to the PPD: ānan
+ānany	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 21/21=1
+āneaay	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 3/3=1
+āneayy	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 80/80=1
+ānks	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 3/4=0.75
+ānra	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 113/114=0.99
+āny	inv	200;Lemma;PROdem;;cat=PROdem;%default	# 2/16=0.12	# Known to the PPD: āny
+ānče	inv	300;Lemma;PROinter;;cat=PROinter;%default	# 886/886=1	# Known to the PPD: ānče
+če	inv	200;Lemma;PROinter;;cat=PROinter;%default	# 4348	que, quoi	Pronom interrogatif	# /1970=0
+čnd	inv	300;Lemma;PROinter;;cat=PROinter;%default	# 4027	combien	Pronom interrogatif /Déterminant	# /1426=0	# Known to the PPD: čnd
+čra	inv	300;Lemma;PROinter;;cat=PROinter;%default	# 2719	pourquoi	Interrogatif	# /544=0	# Known to the PPD: čra
+čy	inv	300;Lemma;PROinter;;cat=PROinter;%default	# 35/58=0.6	# Known to the PPD: čy
+čyzy	inv	100;Lemma;PROinter;;cat=PROinter;%default	# /580=0
+ħźrt'aly	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 48/48=1
+šma	inv	266;Lemma;PROpers;;cat=PROpers;%default	# 1666/1668=0.99	# Known to the PPD: šma
+šma_ea	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 15/15=1
+šmay	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 1/4=0.25
+šmayy	inv	100;Lemma;PROpers;;cat=PROpers;%default	# 2/2=1
+ayn jwry___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+ayn sw___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default	#since
+ayn čnyn___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default	#such
+ayn ŕbyl___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+ayn ţrf___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default	#such
+aynja___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+aynţwr___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+eman gwne___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+eman ţwr___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+emyn ŕdr___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+emynŕdr___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+ān gwne___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+ān sw___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+ān ţrf___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+ān ţwr___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+ānja___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+ānke___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+čnan___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+ayn eme___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+qyre___MTE	inv	110;Lemma;PROindef;;cat=PROindef;%default
+eryk___MTE	inv	110;Lemma;PROquant;;cat=PROquant;%default
+erče___MTE	inv	110;Lemma;PROquant;;cat=PROquant;%default
+eyč___MTE	inv	110;Lemma;PROquant;;cat=PROquant;%default
+kdam___MTE	inv	110;Lemma;PROinter;;cat=PROinter;%default
+kdam yk___MTE	inv	110;Lemma;PROinter;;cat=PROinter;%default
+kja___MTE	inv	110;Lemma;PROinter;;cat=PROinter;%default
+če ţwr___MTE	inv	110;Lemma;PROinter;;cat=PROinter;%default
+čykar___MTE	inv	110;Lemma;PROinter;;cat=PROinter;%default
+ygdygr___MTE	inv	110;Lemma;PROrecip;;cat=PROrecip;%default
+emyn ţwr___MTE	inv	110;Lemma;PROrecip;;cat=PROrecip;%default
+čnyn___MTE	inv	110;Lemma;PROinter;;cat=PROinter;%default
+ān ke___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+aynea___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+ayn ţwr___MTE	inv	110;Lemma;PROdem;;cat=PROdem;%default
+ānea___MTE	inv	110;Lemma;PROpers;;cat=PROpers;%default
+
+gwše ay	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/50=0.02
+gwše eayy	inv	100;Lemma;PROdem;;cat=PROdem;%default	# 1/6=0.16
+nmwne ay	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/85=0.01
+āħad	inv	200;Lemma;PROindef;;cat=PROindef;%default	# 1/74=0.01	# Known to the PPD: āħad
+şddrşd	inv	100;Lemma;PROnum;;cat=PROnum;%default	# 1/38=0.02
+šmary	inv	100;Lemma;PROnum;;cat=PROnum;%default	# 43/62=0.69

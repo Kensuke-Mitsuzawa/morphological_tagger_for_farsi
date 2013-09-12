@@ -1,0 +1,329 @@
+'lawe br___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+'ly rqm	inv	200;Lemma;P;;cat=P;%default	# 7/64=0.1
+'lye	inv	400;Lemma;P;;cat=P;%default	# 2642 contre (en justice)	# 499/542=0.92	# Known to the PPD: 'lye
+'lye am	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+'ŕb	inv	300;Lemma;P;;cat=P;%default	# 4/100=0.04	# Known to the PPD: 'ŕb
+a'm az___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+aly	inv	400;Lemma;P;;cat=P;%default	# 80/91=0.87	# Known to the PPD: aly
+amtdad	inv	300;Lemma;P;;cat=P;%default	# Along	# Known to the PPD: amtdad
+andr	inv	300;Lemma;P;;cat=P;%default	# 25/27=0.92	# Known to the PPD: andr
+andrwn	inv	300;Lemma;P;;cat=P;%default	# 3/4=0.75	# Known to the PPD: andrwn
+az	inv	400;Lemma;P;;cat=P;%default	# 75023	de	Prép	# 60692/60694=0.99	# Known to the PPD: az
+az balay	inv	100;Lemma;Ppn;;cat=Ppn;%default	# d'en haut de, d'au dessus-de	# /=
+az bray	inv	100;Lemma;Ppn;;cat=Ppn;%default	# pour, à cause de	# /=
+az pyš	inv	100;Lemma;Ppn;;cat=Ppn;%default	# d'auprès de, chez	# /=
+az pšt	inv	100;Lemma;Ppn;;cat=Ppn;%default	# de derrière (délocatif)	# /=
+az trf	inv	100;Lemma;Ppn;;cat=Ppn;%default	# du côté de	# /=
+az twy	inv	100;Lemma;Ppn;;cat=Ppn;%default	# de l'intérieur de	# /=
+az zyr	inv	100;Lemma;Ppn;;cat=Ppn;%default	# de sous	# /=
+azbyn___MTE	inv	110;Lemma;P;;cat=P;%default
+azfrţ___MTE	inv	110;Lemma;P;;cat=P;%default
+azjanb___MTE	inv	110;Lemma;P;;cat=P;%default
+azjmle___MTE	inv	110;Lemma;P;;cat=P;%default
+azlħaẓ___MTE	inv	110;Lemma;P;;cat=P;%default
+azm	inv	100;Lemma;P;;cat=P;%default	# 4/4=1
+azmyan___MTE	inv	110;Lemma;P;;cat=P;%default
+azsr___MTE	inv	110;Lemma;P;;cat=P;%default
+azt	inv	300;Lemma;P;;cat=P;%default	# 1/3=0.33	# Known to the PPD: azt
+azw	inv	100;Lemma;P;;cat=P;%default	# 2/6=0.33
+azxlal___MTE	inv	110;Lemma;P;;cat=P;%default
+azŕbyl___MTE	inv	110;Lemma;P;;cat=P;%default
+azš	inv	100;Lemma;P;;cat=P;%default	# 6/6=1
+azţrf___MTE	inv	110;Lemma;P;;cat=P;%default
+azţryŕ___MTE	inv	110;Lemma;P;;cat=P;%default
+aţraf	inv	300;Lemma;P;;cat=P;%default	# Around	# Known to the PPD: aţraf
+b'd az	inv	100;Lemma;Pnp;;cat=Pnp;%default	# après	# 21/21=1
+b'daz___MTE	inv	110;Lemma;P;;cat=P;%default
+ba	inv	400;Lemma;P;;cat=P;%default	# 53966	avec	Prép	# 27762/27762=1	# Known to the PPD: ba
+ba wjwd___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+babt	inv	300;Lemma;P;;cat=P;%default	# 11/65=0.16	# Known to the PPD: babt
+baeam	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+baeat	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+balay	inv	100;Lemma;P;;cat=P;%default	# en haut de, au dessus-de	# 58/290=0.2
+balay	inv	100;Lemma;P;;cat=P;%default	# en haut de, au dessus-de (évec l'idée de direction)	# 58/290=0.2
+bawjwd___MTE	inv	110;Lemma;P;;cat=P;%default
+baz___MTE	inv	110;Lemma;P;;cat=P;%default
+bdan___MTE	inv	110;Lemma;P;;cat=P;%default
+bdnbal	inv	100;Lemma;P;;cat=P;%default	# 11/13=0.84
+bdw	inv	300;Lemma;P;;cat=P;%default	# 1/47=0.02	# Known to the PPD: bdw
+bdwn	inv	400;Lemma;P;;cat=P;%default	# 1071/1071=1	# Known to the PPD: bdwn
+bdwn	inv	400;Lemma;P;;cat=P;%default	# sans	# 1071/1071=1	# Known to the PPD: bdwn
+bdyn___MTE	inv	110;Lemma;P;;cat=P;%default
+be	inv	266;Lemma;P;;cat=P;%default	# 83860	à	Prép	# 68934/68966=0.99	# Known to the PPD: be
+be  drwn___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be 'ede	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+be 'nwan___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be aźafe___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be balay	inv	100;Lemma;Ppn;;cat=Ppn;%default	# en haut de, au dessus-de (avec l'idée de direction)	# /=
+be daxl___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be dlyl___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be dnbal	inv	200;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+be drwn___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be dwr___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be emrae___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be jay	inv	200;Lemma;Ppn;;cat=Ppn;%default	# 19/19=1
+be jet	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 2/2=1
+be jz	inv	200;Lemma;Ppp;;cat=Ppp;%default	# /69=0
+be knar___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be mnẓwr___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be myan___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be mçabe___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be mħź	inv	200;Lemma;Ppn;;cat=Ppn;%default	# 10/11=0.9
+be nsbt___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be nzd	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 7/7=1
+be nzdš	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+be pyš	inv	100;Lemma;Ppn;;cat=Ppn;%default	# auprès de, chez, en la possession (avec l'idée de direction)	# /=
+be pšt	inv	200;Lemma;Ppn;;cat=Ppn;%default	# derrière (en direction de)	# /=
+be qyraz___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be rqm	inv	200;Lemma;Ppn;;cat=Ppn;%default	# 62/92=0.67
+be sbb___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be smt___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be sraq___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be tb'___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+be trf	inv	100;Lemma;Ppn;;cat=Ppn;%default	# vers	# /=
+be twsţ	inv	100;Lemma;Ppn;;cat=Ppn;%default	# par (l’intermédiaire de)	# /=
+be twy	inv	100;Lemma;Ppn;;cat=Ppn;%default	# à l'intérieur de, dans (avec l'idée de direction)	# /=
+be wsyle	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 9/9=1
+be wsylç	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 3/3=1
+be xaţr	inv	200;Lemma;Ppn;;cat=Ppn;%default	# 22/22=1
+be xdmt	inv	100;Lemma;Ppn;;cat=Ppn;%default	# chez, auprès de, en la possession de (dir)	# /=
+be xdmt	inv	100;Lemma;Ppn;;cat=Ppn;%default	# chez, d'auprès de	# /=
+be z'm	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 5/5=1
+be zyr	inv	200;Lemma;Ppn;;cat=Ppn;%default	# sous (avec idée de direction)	# /=
+be ţrf___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+ber	inv	300;Lemma;P;;cat=P;%default	# 8/15=0.53	# Known to the PPD: ber
+bjay	inv	300;Lemma;P;;cat=P;%default	# 25/27=0.92	# Known to the PPD: bjay
+bla	inv	300;Lemma;P;;cat=P;%default	# 1/14=0.07	# Known to the PPD: bla
+bmçl	inv	100;Lemma;P;;cat=P;%default	# comme	# /1=0
+bna be	inv	100;Lemma;Pnp;;cat=Pnp;%default	# conformément à	# /=
+bnabe___MTE	inv	110;Lemma;P;;cat=P;%default
+bnabr___MTE	inv	110;Lemma;P;;cat=P;%default
+br	inv	400;Lemma;P;;cat=P;%default	# 15119	Sur, côté	Prép	# 9561/10556=0.9	# Known to the PPD: br
+br 'ede	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+br 'lye	inv	100;Lemma;Ppn;;cat=Ppn;%default	# contre (en justice)	# /=
+br asas	inv	100;Lemma;P;;cat=P;%default	# 3527	sur la base de	Locution prépositive
+br açr	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 25/25=1
+br le	inv	100;Lemma;Ppn;;cat=Ppn;%default	# pour (en justice)	# /=
+br le	inv	100;Lemma;Ppp;;cat=Ppp;%default	# pour (en justice)	# /=
+br rwy	inv	300;Lemma;Ppn;;cat=Ppn;%default	# sur	# 1/1=1	# Known to the PPD: br rwy
+br źd	inv	100;Lemma;Ppn;;cat=Ppn;%default	# contre	# /=
+br'ede	inv	100;Lemma;P;;cat=P;%default	# 4/29=0.13
+br'lye	inv	200;Lemma;P;;cat=P;%default	# 8/8=1
+bra	inv	300;Lemma;P;;cat=P;%default	# 5/5=1	# Known to the PPD: bra
+brabr	inv	100;Lemma;P;;cat=P;%default	# 31/1234=0.02
+brasas	inv	200;Lemma;P;;cat=P;%default	# 3527	sur la base de	Locution prépositive
+brat	inv	300;Lemma;P;;cat=P;%default	# 2/6=0.33	# Known to the PPD: brat
+bray	inv	400;Lemma;P;;cat=P;%default	# 12579/12580=0.99	# Known to the PPD: bray
+bray	inv	400;Lemma;P;;cat=P;%default	# 26790	pour, à cause de	# 12579/12580=0.99	# Known to the PPD: bray
+bray man	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+bray šan	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+braym	inv	100;Lemma;P;;cat=P;%default	# 43/43=1
+brayman	inv	100;Lemma;P;;cat=P;%default	# 14/14=1
+brayt	inv	100;Lemma;P;;cat=P;%default	# 10/10=1
+braytan	inv	100;Lemma;P;;cat=P;%default	# 33/33=1
+brayš	inv	100;Lemma;P;;cat=P;%default	# 82/82=1
+brayšan	inv	100;Lemma;P;;cat=P;%default	# 29/29=1
+braçr___MTE	inv	110;Lemma;P;;cat=P;%default
+brfraz___MTE	inv	110;Lemma;P;;cat=P;%default
+brgrd___MTE	inv	110;Lemma;P;;cat=P;%default
+brrwy	inv	100;Lemma;P;;cat=P;%default	# 3/3=1
+brsr___MTE	inv	110;Lemma;P;;cat=P;%default
+brwn	inv	300;Lemma;P;;cat=P;%default	# 3/19=0.15	# Known to the PPD: brwn
+brxlaf___MTE	inv	110;Lemma;P;;cat=P;%default
+brħsb___MTE	inv	110;Lemma;P;;cat=P;%default
+brš	inv	300;Lemma;P;;cat=P;%default	# 3/25=0.12	# Known to the PPD: brš
+brţbŕ___MTE	inv	110;Lemma;P;;cat=P;%default
+brźd___MTE	inv	110;Lemma;P;;cat=P;%default
+bwasţe	inv	300;Lemma;P;;cat=P;%default	# 6/9=0.66	# Known to the PPD: bwasţe
+bwsyle	inv	300;Lemma;P;;cat=P;%default	# 36/40=0.9	# Known to the PPD: bwsyle
+bwsylç	inv	100;Lemma;P;;cat=P;%default	# 1/6=0.16
+bxaţr	inv	100;Lemma;P;;cat=P;%default	# 20/25=0.8
+by	inv	200;Lemma;P;;cat=P;%default	# 5201	sans 	Prép	# 152/178=0.85
+byn	inv	400;Lemma;P;;cat=P;%default	# 1158/2030=0.57	# Known to the PPD: byn
+byrwn	inv	400;Lemma;P;;cat=P;%default	# 11/441=0.02	# Known to the PPD: byrwn
+byrwn az	inv	100;Lemma;Pnp;;cat=Pnp;%default	# hormis	# /=
+daxl	inv	400;Lemma;P;;cat=P;%default	# 86/678=0.12	# Known to the PPD: daxl
+dm	inv	400;Lemma;P;;cat=P;%default	# 4/79=0.05	# Known to the PPD: dm
+dnbal___MTE	inv	110;Lemma;P;;cat=P;%default
+dr	inv	400;Lemma;P;;cat=P;%default	# 94266	dans	Prép	# 85516/85716=0.99	# Known to the PPD: dr
+dr balay	inv	200;Lemma;Ppn;;cat=Ppn;%default	# en haut de, au dessus-de	# /=
+dr bare	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 87/87=1
+dr barç	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 2/2=1
+dr brabr	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+dr knar	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+dr nzd	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 11/11=1
+dr ps	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+dr pyš	inv	100;Lemma;Ppn;;cat=Ppn;%default	# auprès de, chez, en la possession	# /=
+dr pšt	inv	100;Lemma;Ppn;;cat=Ppn;%default	# derrière (locatif)	# /=
+dr twy	inv	100;Lemma;Ppn;;cat=Ppn;%default	# à l'intérieur de, dans	# /=
+dr tħt	inv	100;Lemma;Ppn;;cat=Ppn;%default	# sous (sens figuré)	# /=
+dr wsţ___MTE	inv	110;Lemma;Ppn;;cat=Ppn;%default
+dr xdmt	inv	100;Lemma;Ppn;;cat=Ppn;%default	# chez, auprès de, en la possession de (loc)	# /=
+dr xlal	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+dr xşwş	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 6/6=1
+dr zmyne	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 5/5=1
+dr zyr	inv	100;Lemma;Ppn;;cat=Ppn;%default	# sous	# /=
+dr ħyn	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 1/1=1
+dr ŕbal	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 2/2=1
+dr źmn	inv	100;Lemma;Ppn;;cat=Ppn;%default	# 4/44=0.09
+dr'rź___MTE	inv	110;Lemma;P;;cat=P;%default
+dr'yn___MTE	inv	110;Lemma;P;;cat=P;%default
+draçr___MTE	inv	110;Lemma;P;;cat=P;%default
+draţraf___MTE	inv	110;Lemma;P;;cat=P;%default
+drbare	inv	200;Lemma;P;;cat=P;%default	# 3839	concernant	# 1083/1083=1
+drbare at	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+drbare aš	inv	100;Lemma;P;;cat=P;%default	# 7/7=1
+drbare y	inv	100;Lemma;P;;cat=P;%default	# 40/40=1
+drbare šan	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+drbarç	inv	100;Lemma;P;;cat=P;%default	# 105/105=1
+drbrabr___MTE	inv	110;Lemma;P;;cat=P;%default
+drbyn___MTE	inv	110;Lemma;P;;cat=P;%default
+drdaxl___MTE	inv	110;Lemma;P;;cat=P;%default
+drdrwn___MTE	inv	110;Lemma;P;;cat=P;%default
+drjlw___MTE	inv	110;Lemma;P;;cat=P;%default
+drknar___MTE	inv	110;Lemma;P;;cat=P;%default
+drmwrd___MTE	inv	110;Lemma;P;;cat=P;%default
+drmyan___MTE	inv	110;Lemma;P;;cat=P;%default
+drmŕabl___MTE	inv	110;Lemma;P;;cat=P;%default
+drpayyn___MTE	inv	110;Lemma;P;;cat=P;%default
+drpy	inv	200;Lemma;P;;cat=P;%default	# 4/4=1
+drpšt___MTE	inv	110;Lemma;P;;cat=P;%default
+drrabţe ba___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+drwn	inv	400;Lemma;P;;cat=P;%default	# 79/426=0.18	# Known to the PPD: drwn
+drwsţ___MTE	inv	110;Lemma;P;;cat=P;%default
+drxlal	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+dryn	inv	100;Lemma;P;;cat=P;%default	# 1/21=0.04
+drzyr___MTE	inv	110;Lemma;P;;cat=P;%default
+drşwrt___MTE	inv	110;Lemma;P;;cat=P;%default
+drţy___MTE	inv	110;Lemma;P;;cat=P;%default
+drẓrf___MTE	inv	110;Lemma;P;;cat=P;%default
+dwr ta dwr	inv	100;Lemma;P;;cat=P;%default	# 1/4=0.25
+dwr___MTE	inv	110;Lemma;P;;cat=P;%default
+dwrwbr	inv	300;Lemma;P;;cat=P;%default	# 1/8=0.12	# Known to the PPD: dwrwbr
+dxme___MTE	inv	110;Lemma;P;;cat=P;%default
+emannd___MTE	inv	110;Lemma;P;;cat=P;%default
+emrae	inv	400;Lemma;P;;cat=P;%default	# 2423	en compagnie, avec	Prép	# /1047=0	# Known to the PPD: emrae
+emrae ba___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+emčwn	inv	400;Lemma;P;;cat=P;%default	# wikipedia comme, tel que (formel)	# Known to the PPD: emčwn
+faŕd	inv	300;Lemma;P;;cat=P;%default	# 109/163=0.66	# Known to the PPD: faŕd
+fra	inv	100;Lemma;P;;cat=P;%default	# 5/5=1
+frarwy	inv	100;Lemma;P;;cat=P;%default	# 13/15=0.86
+fratr	inv	100;Lemma;P;;cat=P;%default	# Beyond
+fraxwr	inv	300;Lemma;P;;cat=P;%default	# 1/6=0.16	# Known to the PPD: fraxwr
+frw	inv	100;Lemma;P;;cat=P;%default	# 3/9=0.33
+fymabyn	inv	100;Lemma;P;;cat=P;%default	# 4/17=0.23
+gđšte az___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+jet	inv	300;Lemma;P;;cat=P;%default	# 348/1312=0.26	# Known to the PPD: jet
+jlw	inv	400;Lemma;P;;cat=P;%default	# 17/170=0.1	# Known to the PPD: jlw
+jlwy	inv	100;Lemma;P;;cat=P;%default	# 49/104=0.47	###VAL### R:R(pegah:1285234747)
+jlwyš	inv	100;Lemma;P;;cat=P;%default	# 1/9=0.11	###VAL### R:R(pegah:1285234747)
+jnb	inv	300;Lemma;P;;cat=P;%default	# 7/17=0.41	# Known to the PPD: jnb
+jwf	inv	300;Lemma;P;;cat=P;%default	# 1/2=0.5	# Known to the PPD: jwf
+jz	inv	400;Lemma;P;;cat=P;%default	# excepté	# /410=0	# Known to the PPD: jz
+jzw___MTE	inv	110;Lemma;P;;cat=P;%default
+knar	inv	400;Lemma;P;;cat=P;%default	# 56/693=0.08	# Known to the PPD: knar
+knarš	inv	100;Lemma;P;;cat=P;%default	# 5/13=0.38
+lay	inv	300;Lemma;P;;cat=P;%default	# 2/17=0.11	# Known to the PPD: lay
+lb	inv	400;Lemma;P;;cat=P;%default	# 3/75=0.04	# Known to the PPD: lb
+le	inv	300;Lemma;P;;cat=P;%default	# pour (en justice)	# 1/15=0.06	# Known to the PPD: le
+le	inv	300;Lemma;P;;cat=P;%default	# pour (en justice)	# 1/15=0.06	# Known to the PPD: le
+lqayt	inv	300;Lemma;P;;cat=P;%default	# 14/14=1	# Known to the PPD: lqayt
+mabyn	inv	400;Lemma;P;;cat=P;%default	# 7/9=0.77	# Known to the PPD: mabyn
+madwn	inv	300;Lemma;P;;cat=P;%default	# 1/9=0.11	# Known to the PPD: madwn
+mal___MTE	inv	110;Lemma;P;;cat=P;%default
+mannd___MTE	inv	110;Lemma;P;;cat=P;%default
+mawraa	inv	100;Lemma;P;;cat=P;%default	# 1/2=0.5	###VAL### R:R(pegah:1285234747)
+mawray	inv	100;Lemma;P;;cat=P;%default	# 3/15=0.2	###VAL### R:R(pegah:1285234747)
+maŕbl	inv	300;Lemma;P;;cat=P;%default	# 10/16=0.62	# Known to the PPD: maŕbl
+mbny br___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+md___MTE	inv	110;Lemma;P;;cat=P;%default
+mgr___MTE	inv	110;Lemma;P;;cat=P;%default
+mn ħyç	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+myan	inv	400;Lemma;P;;cat=P;%default	# 537/1963=0.27	# Known to the PPD: myan
+mçl	inv	400;Lemma;P;;cat=P;%default	# comme	# /679=0	# Known to the PPD: mçl
+mħź	inv	200;Lemma;P;;cat=P;%default	# 34/77=0.44	# Known to the PPD: mħź	###VAL### R:R(pegah:1285234747)
+mŕabl	inv	400;Lemma;P;;cat=P;%default	# 106/908=0.11	# Known to the PPD: mŕabl
+nbš	inv	300;Lemma;P;;cat=P;%default	# 3/10=0.3	# Known to the PPD: nbš
+nsbt be	inv	200;Lemma;Pnp;;cat=Pnp;%default	# par rapport à	# /=
+nzd	inv	400;Lemma;P;;cat=P;%default	# 125/221=0.56	# Known to the PPD: nzd
+nzdyk	inv	400;Lemma;P;;cat=P;%default	# 19/681=0.02	# Known to the PPD: nzdyk
+nẓyr___MTE	inv	110;Lemma;P;;cat=P;%default
+payyn___MTE	inv	110;Lemma;P;;cat=P;%default
+pelw___MTE	inv	110;Lemma;P;;cat=P;%default
+pelwy	inv	300;Lemma;P;;cat=P;%default	# 2/145=0.01	# Known to the PPD: pelwy
+pelwyt	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+ps az___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+pyramwn	inv	400;Lemma;P;;cat=P;%default	# 74/197=0.37	# Known to the PPD: pyramwn
+pyš	inv	200;Lemma;P;;cat=P;%default	# 6145	devant, avant	# 64/2039=0.03 ???
+pyš	inv	200;Lemma;P;;cat=P;%default	# auprès de, chez, en la possession (avec ezafe)	# 64/2039=0.03 ???
+pyš	inv	200;Lemma;P;;cat=P;%default	# auprès de, chez, en la possession (avec l'idée de direction)	# 64/2039=0.03
+pyš az	inv	200;Lemma;Pnp;;cat=Pnp;%default	# avant	# /=
+pyšm	inv	100;Lemma;P;;cat=P;%default	# 3/5=0.6
+pšt	inv	400;Lemma;P;;cat=P;%default	# derrière (locatif)	# 150/430=0.34	# Known to the PPD: pšt
+pšt sr___MTE	inv	110;Lemma;P;;cat=P;%default
+qyraz___MTE	inv	110;Lemma;P;;cat=P;%default
+ra	inv	400;Lemma;P;;cat=P;%default	# 35820/35831=0.99	# Known to the PPD: ra
+rae ple___MTE	inv	110;Lemma;P;;cat=P;%default
+raj'	inv	300;Lemma;P;;cat=P;%default	# 40/40=1	# Known to the PPD: raj'
+raj' be	inv	200;Lemma;Pnp;;cat=Pnp;%default	# au sujet de	# 59/59=1
+rw	inv	200;Lemma;P;;cat=P;%default	# 77/416=0.18
+rwbe rwy	inv	100;Lemma;P;;cat=P;%default	# 9/15=0.6
+rwbrw	inv	400;Lemma;P;;cat=P;%default	# 7/221=0.03	# Known to the PPD: rwbrw
+rwbrwy	inv	100;Lemma;P;;cat=P;%default	# 20/29=0.68
+rwdrrwy	inv	100;Lemma;P;;cat=P;%default	# 2/12=0.16
+rwy	inv	300;Lemma;P;;cat=P;%default	# 1056/2471=0.42	# Known to the PPD: rwy
+rwy	inv	300;Lemma;P;;cat=P;%default	# 3585	sur, surface	# 1056/2471=0.42	# Known to the PPD: rwy
+rwyarwy	inv	100;Lemma;P;;cat=P;%default	# 1/10=0.1
+rwym	inv	100;Lemma;P;;cat=P;%default	# 1/8=0.12
+rwyš	inv	300;Lemma;P;;cat=P;%default	# 6/35=0.17	# Known to the PPD: rwyš
+sr	inv	400;Lemma;P;;cat=P;%default	# 17/1341=0.01	# Known to the PPD: sr
+ta	inv	200;Lemma;P;;cat=P;%default	# 14963	jusque	Prép	# 6445/6847=0.94
+ta be	inv	100;Lemma;Ppp;;cat=Ppp;%default	# jusqu'à
+tank___MTE	inv	110;Lemma;P;;cat=P;%default
+te	inv	300;Lemma;P;;cat=P;%default	# 1/28=0.03	# Known to the PPD: te
+trf	inv	100;Lemma;P;;cat=P;%default	# du côté de	# /=
+trf	inv	100;Lemma;P;;cat=P;%default	# vers	# /=
+tw	inv	400;Lemma;P;;cat=P;%default	# 26/881=0.02	# Known to the PPD: tw
+twsţ	inv	400;Lemma;P;;cat=P;%default	# 3550	par (l’intermédiaire de)	# 1399/1399=1	# Known to the PPD: twsţ
+twy	inv	300;Lemma;P;;cat=P;%default	# à l'intérieur de, dans	# 68/108=0.62	# Known to the PPD: twy
+twy	inv	300;Lemma;P;;cat=P;%default	# à l'intérieur de, dans (avec l'idée de direction)	# 68/108=0.62	# Known to the PPD: twy
+twyš	inv	100;Lemma;P;;cat=P;%default	# 1/2=0.5
+twš	inv	300;Lemma;P;;cat=P;%default	# 1/2=0.5	# Known to the PPD: twš
+tħt	inv	300;Lemma;P;;cat=P;%default	# 2431 sous (sens figuré)	# 706/842=0.83	# Known to the PPD: tħt
+tħt	inv	300;Lemma;P;;cat=P;%default	# 706/842=0.83	# Known to the PPD: tħt
+ward	inv	100;Lemma;P;;cat=P;%default	# 167/1106=0.15
+wase	inv	100;Lemma;P;;cat=P;%default	# pour, à cause de (familier)	# 2/2=1
+wray	inv	100;Lemma;P;;cat=P;%default	# 1/12=0.08
+wra°	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+wsţ___MTE	inv	110;Lemma;P;;cat=P;%default
+wz	inv	300;Lemma;P;;cat=P;%default	# 6/14=0.42	# Known to the PPD: wz
+xarj az___MTE	inv	110;Lemma;Pnp;;cat=Pnp;%default
+xdmt	inv	300;Lemma;P;;cat=P;%default	# chez, auprès de, en la possession de (dir)	# /385=0	# Known to the PPD: xdmt
+xdmt	inv	300;Lemma;P;;cat=P;%default	# chez, auprès de, en la possession de (loc)	# /385=0	# Known to the PPD: xdmt
+xdmt	inv	300;Lemma;P;;cat=P;%default	# chez, d'auprès de	# /385=0	# Known to the PPD: xdmt
+z	inv	300;Lemma;P;;cat=P;%default	# 142/208=0.68	# Known to the PPD: z
+zan	inv	100;Lemma;P;;cat=P;%default	# 6/7=0.85
+zw	inv	100;Lemma;P;;cat=P;%default	# 2/5=0.4
+zyr	inv	200;Lemma;P;;cat=P;%default	# sous	# 469/1495=0.31
+zyr	inv	200;Lemma;P;;cat=P;%default	# sous (avec idée de direction)	# 469/1495=0.31
+čwn	inv	400;Lemma;P;;cat=P;%default	# wikipedia - comme (formel)	# /1161=0	# Known to the PPD: čwn
+ħwl	inv	300;Lemma;P;;cat=P;%default	# 1/28=0.03	# Known to the PPD: ħwl
+ħyn	inv	200;Lemma;P;;cat=P;%default	# 1/52=0.01	# Known to the PPD: ħyn
+ŕbl az	inv	200;Lemma;Pnp;;cat=Pnp;%default	# après	# 14/14=1
+ŕbl___MTE	inv	110;Lemma;P;;cat=P;%default
+şwrtħsab	inv	200;Lemma;P;;cat=P;%default	# 1/14=0.07	# Known to the PPD: şwrtħsab
+šbye___MTE	inv	110;Lemma;P;;cat=P;%default
+ţbŕ___MTE	inv	110;Lemma;P;;cat=P;%default
+ţrf___MTE	inv	110;Lemma;P;;cat=P;%default
+ţy	inv	400;Lemma;P;;cat=P;%default	# 550/960=0.57	# Known to the PPD: ţy
+źd	inv	300;Lemma;P;;cat=P;%default	# contre	# /358=0	# Known to the PPD: źd
+źmn	inv	300;Lemma;P;;cat=P;%default	# 360/557=0.64	# Known to the PPD: źmn
+ẓrf___MTE	inv	110;Lemma;P;;cat=P;%default
+
+
+be astçnay	inv	100;Lemma;P;;cat=P;%default	# 24/24=1
+be astçna°	inv	100;Lemma;P;;cat=P;%default	# 3/3=1
+be jz	inv	100;Lemma;P;;cat=P;%default	# 69/69=1
+be qyr	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+be qyr az	inv	100;Lemma;P;;cat=P;%default	# 3/3=1
+be rqm	inv	100;Lemma;P;;cat=P;%default	# 30/92=0.32

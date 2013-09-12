@@ -1,0 +1,19 @@
+PerLex is the morphological and (soon) syntactic lexicon for the
+Persian language developed in the context of the PerGram project
+(funded by the French ANR and the German DFG, see
+http://ed268.univ-paris3.fr/monde_iranien/ANR_PerGram/PerGram/Home_en.html)
+
+It is currently in version 0.0.2. No manual validation is taken into
+account in this version. The construction of this lexicon has involved
+various sources, including the BijanKhan corpus (BijanKhan, 2004;
+Amiri et al., 2007). The construction process is described in (Sagot &
+Walther 2010a, 2010b). Lexical information from the freely-available
+MULTEXT-East Persian lexicon has been partly included (QasemiZadeh and
+Rahimi, 2006; Erjavec 2010).
+
+The main contributors to this lexicon are, in alphabetical order,
+Pegah Faghiri (MII, CNRS), Benoît Sagot (Alpage, INRIA), Pollet
+Samvelian (MII, CNRS), Géraldine Walther (MII, CNRS). The copyright of
+this lexicon is therefore owned jointly by INRIA and CNRS.
+
+PerLex is distributed under the LGPL-LR license (see the LICENSE file).
