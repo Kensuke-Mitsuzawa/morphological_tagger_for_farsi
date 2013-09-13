@@ -30,7 +30,7 @@ def do_tag(after_inf_dictionary, corpus):
             tags.append(tag);
             stems.append(stem); 
             
-        sentence_data.setdefault('tag', tags);
+        sentence_data.setdefault('morph_tag', tags);
         sentence_data.setdefault('stem', stems);
         new_corpus.append(sentence_data);
     return new_corpus;
@@ -42,6 +42,23 @@ def main(file_path):
     new_corpus=do_tag(after_inf_dictionary, corpus);
     with codecs.open('taged.json', 'w', 'utf-8') as f:
         json.dump(new_corpus, f, indent=4, ensure_ascii=False);
+
+    #nullの数を数える，全tokenの数を数える
+    num_token=0;
+    num_null=0;
+    for token in new_corpus:
+        num_token+=len(token['original']);
+        for tags in token['morph_tag']:
+            if tags==[None]:
+                num_null+=1;
+    
+    coverage=float(num_token-num_null) / num_token;
+    print 'The number of all token:{}'.format(num_token);
+    print 'The number of null morph_tag:{}'.format(num_null);
+    print 'Coverage rate is:{}'.format(coverage); 
+
+
+
 
 if __name__=='__main__':
     main(sys.argv[1])
