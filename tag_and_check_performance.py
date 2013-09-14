@@ -1,7 +1,7 @@
 #! /user/bin/python
 #-*- coding:utf-8 -*-
-__author__=='Kensuke Mitsuzawa';
-__date__='2013/09/13';
+__author__='Kensuke Mitsuzawa';
+__date__='2013/09/14';
 
 import json, codecs, sys, subprocess;
 
@@ -15,7 +15,7 @@ def do_tag(after_inf_dictionary, corpus):
     for sentence_data in corpus:
         tags=[];
         stems=[];
-        tokens=sentence_data['original'];
+        tokens=sentence_data['tokens'];
         for token in tokens:
             tag=[];
             stem=[];
@@ -26,8 +26,6 @@ def do_tag(after_inf_dictionary, corpus):
             else:
                 tag.append(None);
                 stem.append(None);
-            tag=list(set(tag));
-            stem=list(set(stem));
             
             tags.append(tag);
             stems.append(stem); 
@@ -50,7 +48,7 @@ def main(file_path):
     num_null=0;
     num_all_tag=0;
     for token in new_corpus:
-        num_token+=len(token['original']);
+        num_token+=len(token['tokens']);
         for tags in token['morph_tag']:
             if tags==[None]:
                 num_null+=1;

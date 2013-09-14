@@ -15,12 +15,21 @@ def load_lex_file(f, after_inf_dictionary):
         try:
             tags=[];
             line=unicode(line, 'utf-8');
-            items=line.split(u'\t');
-            after_inf_word=items[0];
-            POS=items[2];
-            stem=items[4];
-            tag=items[6];
+            if re.findall(ur'\sinv\s', line):
+                items=line.split(u'\t');
+                after_inf_word=items[0].encode('utf-8');
+                POS=items[2].encode('utf-8');
+                stem=items[4].encode('utf-8');
+                tag=u'inv'.encode('utf-8'); 
+
+            else:
+                items=line.split(u'\t');
+                after_inf_word=items[0].encode('utf-8');
+                POS=items[2].encode('utf-8');
+                stem=items[4].encode('utf-8');
+                tag=items[6].encode('utf-8');
             extracted_information=(after_inf_word, POS, stem, tag);
+            
             if after_inf_word in after_inf_dictionary:
                 after_inf_dictionary[after_inf_word].append(extracted_information); 
             else:
@@ -30,10 +39,10 @@ def load_lex_file(f, after_inf_dictionary):
             #for V, delete ZWNJ and add to hash map
             if re.findall(ur'_' , after_inf_word) and f=='./trunk/V.lex':
                 tags=[];
-                after_inf_word=after_inf_word.replace(u'_', u'');
-                POS=items[2];
-                stem=items[4];
-                tag=items[6];
+                after_inf_word=(after_inf_word.replace(u'_', u'')).encode('utf-8');
+                POS=items[2].encode('utf-8');
+                stem=items[4].encode('utf-8');
+                tag=(items[6]+u'_no_zwnj').encode('utf-8');
                 extracted_information=(after_inf_word, POS, stem, tag);
                 if after_inf_word in after_inf_dictionary:
                     after_inf_dictionary[after_inf_word].append(extracted_information); 
@@ -48,8 +57,8 @@ def load_lex_file(f, after_inf_dictionary):
 def main():
     dir_path='./trunk';
     after_inf_dictionary={};
-    #lex_files=get_files(dir_path);
-    lex_files=['./trunk/V.lex', './trunk/N.lex'];
+    lex_files=get_files(dir_path);
+    #lex_files=['./trunk/V.lex', './trunk/N.lex', './trunk/ADJ.lex', './trunk/ADV.lex', './trunk/P.lex', './trunk/NP.lex'];
     for f in lex_files:
         after_inf_dictionary=load_lex_file(f, after_inf_dictionary);
     with open('lex_json', 'w') as f:
