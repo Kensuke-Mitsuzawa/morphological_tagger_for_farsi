@@ -1,0 +1,5462 @@
+{
+    "2048": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 2048, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2049": [
+        {
+            "norm_persian_3_roman": "frda", 
+            "norm_persian_4_roman": "frda", 
+            "norm_persian_2_roman": "frda", 
+            "orig_persian": "فردام", 
+            "norm_persian": "فردا", 
+            "sentence_id": 2049, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "frdam", 
+            "norm_persian_roman": "frda", 
+            "norm_persian_2": "هم", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2050": [
+        {
+            "norm_persian_3_roman": "xwd", 
+            "norm_persian_4_roman": "xwd", 
+            "norm_persian_2_roman": "xwd", 
+            "orig_persian": "خودش", 
+            "norm_persian": "خود", 
+            "sentence_id": 2050, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwdš", 
+            "norm_persian_roman": "xwd", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2051": [
+        {
+            "norm_persian_3_roman": "zndgy", 
+            "norm_persian_4_roman": "zndgy", 
+            "norm_persian_2_roman": "zndgy", 
+            "orig_persian": "زندگیشم", 
+            "norm_persian": "زندگی", 
+            "sentence_id": 2051, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "zndgyšm", 
+            "norm_persian_roman": "zndgy", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2052": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 2052, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2053": [
+        {
+            "norm_persian_3_roman": "brdn", 
+            "norm_persian_4_roman": "brdn", 
+            "norm_persian_2_roman": "brdn", 
+            "orig_persian": "برده", 
+            "norm_persian": "بردن", 
+            "sentence_id": 2053, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "brde", 
+            "norm_persian_roman": "brdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2054": [
+        {
+            "norm_persian_3_roman": "šax", 
+            "norm_persian_4_roman": "šax", 
+            "norm_persian_2_roman": "šax", 
+            "orig_persian": "شاخاشو", 
+            "norm_persian": "شاخ", 
+            "sentence_id": 2054, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "šaxašw", 
+            "norm_persian_roman": "šax", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": "را"
+        }
+    ], 
+    "2055": [
+        {
+            "norm_persian_3_roman": "bray", 
+            "norm_persian_4_roman": "bray", 
+            "norm_persian_2_roman": "bray", 
+            "orig_persian": "برای", 
+            "norm_persian": "برای", 
+            "sentence_id": 2055, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bray", 
+            "norm_persian_roman": "bray", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2056": [
+        {
+            "norm_persian_3_roman": "tw", 
+            "norm_persian_4_roman": "tw", 
+            "norm_persian_2_roman": "tw", 
+            "orig_persian": "توش", 
+            "norm_persian": "تو", 
+            "sentence_id": 2056, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "twš", 
+            "norm_persian_roman": "tw", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2057": [
+        {
+            "norm_persian_3_roman": "tw", 
+            "norm_persian_4_roman": "tw", 
+            "norm_persian_2_roman": "tw", 
+            "orig_persian": "توش", 
+            "norm_persian": "تو", 
+            "sentence_id": 2057, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "twš", 
+            "norm_persian_roman": "tw", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2058": [
+        {
+            "norm_persian_3_roman": "čšm", 
+            "norm_persian_4_roman": "čšm", 
+            "norm_persian_2_roman": "čšm", 
+            "orig_persian": "چشمشو", 
+            "norm_persian": "چشم", 
+            "sentence_id": 2058, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "čšmšw", 
+            "norm_persian_roman": "čšm", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": "را"
+        }
+    ], 
+    "2059": [
+        {
+            "norm_persian_3_roman": "ţrf", 
+            "norm_persian_4_roman": "ţrf", 
+            "norm_persian_2_roman": "ţrf", 
+            "orig_persian": "طرفم", 
+            "norm_persian": "طرف", 
+            "sentence_id": 2059, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ţrfm", 
+            "norm_persian_roman": "ţrf", 
+            "norm_persian_2": "من", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2060": [
+        {
+            "norm_persian_3_roman": "pnje", 
+            "norm_persian_4_roman": "pnje", 
+            "norm_persian_2_roman": "pnje", 
+            "orig_persian": "پنجه هاش", 
+            "norm_persian": "پنجه", 
+            "sentence_id": 2060, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pnje eaš", 
+            "norm_persian_roman": "pnje", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": "او"
+        }
+    ], 
+    "2061": [
+        {
+            "norm_persian_3_roman": "ān", 
+            "norm_persian_4_roman": "ān", 
+            "norm_persian_2_roman": "ān", 
+            "orig_persian": "اونروز", 
+            "norm_persian": "آن", 
+            "sentence_id": 2061, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awnrwz", 
+            "norm_persian_roman": "ān", 
+            "norm_persian_2": "روز", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2062": [
+        {
+            "norm_persian_3_roman": "be", 
+            "norm_persian_4_roman": "be", 
+            "norm_persian_2_roman": "be", 
+            "orig_persian": "باندازه", 
+            "norm_persian": "به", 
+            "sentence_id": 2062, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bandaze", 
+            "norm_persian_roman": "be", 
+            "norm_persian_2": "اندازه", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2063": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونش", 
+            "norm_persian": "خانه", 
+            "sentence_id": 2063, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnš", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2064": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونش", 
+            "norm_persian": "خانه", 
+            "sentence_id": 2064, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnš", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2065": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومدیم", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 2065, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmdym", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9001": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 9001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9002": [
+        {
+            "norm_persian_3_roman": "jngl", 
+            "norm_persian_4_roman": "jngl", 
+            "norm_persian_2_roman": "jngl", 
+            "orig_persian": "جنگله", 
+            "norm_persian": "جنگل", 
+            "sentence_id": 9002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "jngle", 
+            "norm_persian_roman": "jngl", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9003": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 9003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9004": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 9004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9005": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 9005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9006": [
+        {
+            "norm_persian_3_roman": "bče", 
+            "norm_persian_4_roman": "bče", 
+            "norm_persian_2_roman": "bče", 
+            "orig_persian": "بچه", 
+            "norm_persian": "بچه", 
+            "sentence_id": 9006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bče", 
+            "norm_persian_roman": "bče", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9007": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 9007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9008": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "اینا", 
+            "norm_persian": "این", 
+            "sentence_id": 9008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayna", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9009": [
+        {
+            "norm_persian_3_roman": "dygr", 
+            "norm_persian_4_roman": "dygr", 
+            "norm_persian_2_roman": "dygr", 
+            "orig_persian": "دیگشو", 
+            "norm_persian": "دیگر", 
+            "sentence_id": 9009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dygšw", 
+            "norm_persian_roman": "dygr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": "را"
+        }
+    ], 
+    "9010": [
+        {
+            "norm_persian_3_roman": "āxr", 
+            "norm_persian_4_roman": "āxr", 
+            "norm_persian_2_roman": "āxr", 
+            "orig_persian": "آخریه", 
+            "norm_persian": "آخر", 
+            "sentence_id": 9010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āxrye", 
+            "norm_persian_roman": "āxr", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9011": [
+        {
+            "norm_persian_3_roman": "bče", 
+            "norm_persian_4_roman": "bče", 
+            "norm_persian_2_roman": "bče", 
+            "orig_persian": "بچشم", 
+            "norm_persian": "بچه", 
+            "sentence_id": 9011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bčšm", 
+            "norm_persian_roman": "bče", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": "هم"
+        }
+    ], 
+    "9012": [
+        {
+            "norm_persian_3_roman": "pdr", 
+            "norm_persian_4_roman": "pdr", 
+            "norm_persian_2_roman": "pdr", 
+            "orig_persian": "پدرش", 
+            "norm_persian": "پدر", 
+            "sentence_id": 9012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pdrš", 
+            "norm_persian_roman": "pdr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9013": [
+        {
+            "norm_persian_3_roman": "kle", 
+            "norm_persian_4_roman": "kle", 
+            "norm_persian_2_roman": "kle", 
+            "orig_persian": "کله اش", 
+            "norm_persian": "کله", 
+            "sentence_id": 9013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kle aš", 
+            "norm_persian_roman": "kle", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9014": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "اینا", 
+            "norm_persian": "این", 
+            "sentence_id": 9014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayna", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9015": [
+        {
+            "norm_persian_3_roman": "astandar", 
+            "norm_persian_4_roman": "astandar", 
+            "norm_persian_2_roman": "astandar", 
+            "orig_persian": "استاندار", 
+            "norm_persian": "استاندار", 
+            "sentence_id": 9015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "astandar", 
+            "norm_persian_roman": "astandar", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9016": [
+        {
+            "norm_persian_3_roman": "ble", 
+            "norm_persian_4_roman": "ble", 
+            "norm_persian_2_roman": "ble", 
+            "orig_persian": "بله", 
+            "norm_persian": "بله", 
+            "sentence_id": 9016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ble", 
+            "norm_persian_roman": "ble", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9017": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 9017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9018": [
+        {
+            "norm_persian_3_roman": "be", 
+            "norm_persian_4_roman": "be", 
+            "norm_persian_2_roman": "be", 
+            "orig_persian": "به", 
+            "norm_persian": "به", 
+            "sentence_id": 9018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "be", 
+            "norm_persian_roman": "be", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9019": [
+        {
+            "norm_persian_3_roman": "šrţ", 
+            "norm_persian_4_roman": "šrţ", 
+            "norm_persian_2_roman": "šrţ", 
+            "orig_persian": "شرطش", 
+            "norm_persian": "شرط", 
+            "sentence_id": 9019, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "šrţš", 
+            "norm_persian_roman": "šrţ", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9020": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 9020, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9021": [
+        {
+            "norm_persian_3_roman": "dm", 
+            "norm_persian_4_roman": "dm", 
+            "norm_persian_2_roman": "dm", 
+            "orig_persian": "دمش", 
+            "norm_persian": "دم", 
+            "sentence_id": 9021, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dmš", 
+            "norm_persian_roman": "dm", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9022": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 9022, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9023": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 9023, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9024": [
+        {
+            "norm_persian_3_roman": "ŕrmz", 
+            "norm_persian_4_roman": "ŕrmz", 
+            "norm_persian_2_roman": "ŕrmz", 
+            "orig_persian": "قرمزه", 
+            "norm_persian": "قرمز", 
+            "sentence_id": 9024, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ŕrmze", 
+            "norm_persian_roman": "ŕrmz", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9025": [
+        {
+            "norm_persian_3_roman": "xwrdn", 
+            "norm_persian_4_roman": "xwrdn", 
+            "norm_persian_2_roman": "xwrdn", 
+            "orig_persian": "خورد", 
+            "norm_persian": "خوردن", 
+            "sentence_id": 9025, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwrd", 
+            "norm_persian_roman": "xwrdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "9026": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "مام", 
+            "norm_persian": "من", 
+            "sentence_id": 9026, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mam", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "هم", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7001": [
+        {
+            "norm_persian_3_roman": "bwdn", 
+            "norm_persian_4_roman": "bwdn", 
+            "norm_persian_2_roman": "bwdn", 
+            "orig_persian": "بود", 
+            "norm_persian": "بودن", 
+            "sentence_id": 7001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bwd", 
+            "norm_persian_roman": "bwdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7002": [
+        {
+            "norm_persian_3_roman": "asm", 
+            "norm_persian_4_roman": "asm", 
+            "norm_persian_2_roman": "asm", 
+            "orig_persian": "اسم", 
+            "norm_persian": "اسم", 
+            "sentence_id": 7002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "asm", 
+            "norm_persian_roman": "asm", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7003": [
+        {
+            "norm_persian_3_roman": "bar", 
+            "norm_persian_4_roman": "bar", 
+            "norm_persian_2_roman": "bar", 
+            "orig_persian": "بار", 
+            "norm_persian": "بار", 
+            "sentence_id": 7003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bar", 
+            "norm_persian_roman": "bar", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7004": [
+        {
+            "norm_persian_3_roman": "bzrg", 
+            "norm_persian_4_roman": "bzrg", 
+            "norm_persian_2_roman": "bzrg", 
+            "orig_persian": "بزرگش", 
+            "norm_persian": "بزرگ", 
+            "sentence_id": 7004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bzrgš", 
+            "norm_persian_roman": "bzrg", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7005": [
+        {
+            "norm_persian_3_roman": "čyz", 
+            "norm_persian_4_roman": "čyz", 
+            "norm_persian_2_roman": "čyz", 
+            "orig_persian": "چیزش", 
+            "norm_persian": "چیز", 
+            "sentence_id": 7005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "čyzš", 
+            "norm_persian_roman": "čyz", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7006": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "میاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 7006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7007": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "میاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 7007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "7008": [
+        {
+            "norm_persian_3_roman": "brdaštn", 
+            "norm_persian_4_roman": "brdaštn", 
+            "norm_persian_2_roman": "brdaštn", 
+            "orig_persian": "ورمیداره", 
+            "norm_persian": "برداشتن", 
+            "sentence_id": 7008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "wrmydare", 
+            "norm_persian_roman": "brdaštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5001": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5002": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5003": [
+        {
+            "norm_persian_3_roman": "rea", 
+            "norm_persian_4_roman": "rea", 
+            "norm_persian_2_roman": "rea", 
+            "orig_persian": "رهاش", 
+            "norm_persian": "رها", 
+            "sentence_id": 5003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "reaš", 
+            "norm_persian_roman": "rea", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5004": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 5004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5005": [
+        {
+            "norm_persian_3_roman": "rftn", 
+            "norm_persian_4_roman": "rftn", 
+            "norm_persian_2_roman": "rftn", 
+            "orig_persian": "میری", 
+            "norm_persian": "رفتن", 
+            "sentence_id": 5005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myry", 
+            "norm_persian_roman": "rftn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5006": [
+        {
+            "norm_persian_3_roman": "ħyrt", 
+            "norm_persian_4_roman": "ħyrt", 
+            "norm_persian_2_roman": "ħyrt", 
+            "orig_persian": "حیرانی", 
+            "norm_persian": "حیرت", 
+            "sentence_id": 5006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ħyrany", 
+            "norm_persian_roman": "ħyrt", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5007": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5008": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5009": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "مرا", 
+            "norm_persian": "من", 
+            "sentence_id": 5009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mra", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5010": [
+        {
+            "norm_persian_3_roman": "jwr", 
+            "norm_persian_4_roman": "jwr", 
+            "norm_persian_2_roman": "jwr", 
+            "orig_persian": "جوریه", 
+            "norm_persian": "جور", 
+            "sentence_id": 5010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "jwrye", 
+            "norm_persian_roman": "jwr", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5011": [
+        {
+            "norm_persian_3_roman": "be", 
+            "norm_persian_4_roman": "be", 
+            "norm_persian_2_roman": "be", 
+            "orig_persian": "به", 
+            "norm_persian": "به", 
+            "sentence_id": 5011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "be", 
+            "norm_persian_roman": "be", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5012": [
+        {
+            "norm_persian_3_roman": "drāwrdn", 
+            "norm_persian_4_roman": "drāwrdn", 
+            "norm_persian_2_roman": "drāwrdn", 
+            "orig_persian": "درت میاره", 
+            "norm_persian": "درآوردن", 
+            "sentence_id": 5012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "drt myare", 
+            "norm_persian_roman": "drāwrdn", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5013": [
+        {
+            "norm_persian_3_roman": "ansan", 
+            "norm_persian_4_roman": "ansan", 
+            "norm_persian_2_roman": "ansan", 
+            "orig_persian": "انسان", 
+            "norm_persian": "انسان", 
+            "sentence_id": 5013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ansan", 
+            "norm_persian_roman": "ansan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5014": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "ازش", 
+            "norm_persian": "از", 
+            "sentence_id": 5014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "azš", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5015": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 5015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5016": [
+        {
+            "norm_persian_3_roman": "asb", 
+            "norm_persian_4_roman": "asb", 
+            "norm_persian_2_roman": "asb", 
+            "orig_persian": "اسب", 
+            "norm_persian": "اسب", 
+            "sentence_id": 5016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "asb", 
+            "norm_persian_roman": "asb", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5017": [
+        {
+            "norm_persian_3_roman": "asb", 
+            "norm_persian_4_roman": "asb", 
+            "norm_persian_2_roman": "asb", 
+            "orig_persian": "اسب", 
+            "norm_persian": "اسب", 
+            "sentence_id": 5017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "asb", 
+            "norm_persian_roman": "asb", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5018": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5019": [
+        {
+            "norm_persian_3_roman": "če", 
+            "norm_persian_4_roman": "če", 
+            "norm_persian_2_roman": "če", 
+            "orig_persian": "چیه", 
+            "norm_persian": "چه", 
+            "sentence_id": 5019, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "čye", 
+            "norm_persian_roman": "če", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5020": [
+        {
+            "norm_persian_3_roman": "twr", 
+            "norm_persian_4_roman": "twr", 
+            "norm_persian_2_roman": "twr", 
+            "orig_persian": "تورش", 
+            "norm_persian": "تور", 
+            "sentence_id": 5020, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "twrš", 
+            "norm_persian_roman": "twr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5021": [
+        {
+            "norm_persian_3_roman": "asb", 
+            "norm_persian_4_roman": "asb", 
+            "norm_persian_2_roman": "asb", 
+            "orig_persian": "اسب", 
+            "norm_persian": "اسب", 
+            "sentence_id": 5021, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "asb", 
+            "norm_persian_roman": "asb", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5022": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "ازش", 
+            "norm_persian": "از", 
+            "sentence_id": 5022, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "azš", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5023": [
+        {
+            "norm_persian_3_roman": "rea", 
+            "norm_persian_4_roman": "rea", 
+            "norm_persian_2_roman": "rea", 
+            "orig_persian": "رهاش", 
+            "norm_persian": "رها", 
+            "sentence_id": 5023, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "reaš", 
+            "norm_persian_roman": "rea", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5024": [
+        {
+            "norm_persian_3_roman": "brxwrdn", 
+            "norm_persian_4_roman": "brxwrdn", 
+            "norm_persian_2_roman": "brxwrdn", 
+            "orig_persian": "برخورد", 
+            "norm_persian": "برخوردن", 
+            "sentence_id": 5024, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "brxwrd", 
+            "norm_persian_roman": "brxwrdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5025": [
+        {
+            "norm_persian_3_roman": "če", 
+            "norm_persian_4_roman": "če", 
+            "norm_persian_2_roman": "če", 
+            "orig_persian": "چیه", 
+            "norm_persian": "چه", 
+            "sentence_id": 5025, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "čye", 
+            "norm_persian_roman": "če", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5026": [
+        {
+            "norm_persian_3_roman": "drāwrdn", 
+            "norm_persian_4_roman": "drāwrdn", 
+            "norm_persian_2_roman": "drāwrdn", 
+            "orig_persian": "درش میارم", 
+            "norm_persian": "درآوردن", 
+            "sentence_id": 5026, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "drš myarm", 
+            "norm_persian_roman": "drāwrdn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5027": [
+        {
+            "norm_persian_3_roman": "bzrg", 
+            "norm_persian_4_roman": "bzrg", 
+            "norm_persian_2_roman": "bzrg", 
+            "orig_persian": "بزرگترین", 
+            "norm_persian": "بزرگ", 
+            "sentence_id": 5027, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bzrgtryn", 
+            "norm_persian_roman": "bzrg", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5028": [
+        {
+            "norm_persian_3_roman": "ansan", 
+            "norm_persian_4_roman": "ansan", 
+            "norm_persian_2_roman": "ansan", 
+            "orig_persian": "انسان", 
+            "norm_persian": "انسان", 
+            "sentence_id": 5028, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ansan", 
+            "norm_persian_roman": "ansan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5029": [
+        {
+            "norm_persian_3_roman": "ansan", 
+            "norm_persian_4_roman": "ansan", 
+            "norm_persian_2_roman": "ansan", 
+            "orig_persian": "انسان", 
+            "norm_persian": "انسان", 
+            "sentence_id": 5029, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ansan", 
+            "norm_persian_roman": "ansan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5030": [
+        {
+            "norm_persian_3_roman": "ŕwy", 
+            "norm_persian_4_roman": "ŕwy", 
+            "norm_persian_2_roman": "ŕwy", 
+            "orig_persian": "قویه", 
+            "norm_persian": "قوی", 
+            "sentence_id": 5030, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ŕwye", 
+            "norm_persian_roman": "ŕwy", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5031": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 5031, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5032": [
+        {
+            "norm_persian_3_roman": "bray", 
+            "norm_persian_4_roman": "bray", 
+            "norm_persian_2_roman": "bray", 
+            "orig_persian": "برات", 
+            "norm_persian": "برای", 
+            "sentence_id": 5032, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "brat", 
+            "norm_persian_roman": "bray", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5033": [
+        {
+            "norm_persian_3_roman": "astraħt", 
+            "norm_persian_4_roman": "astraħt", 
+            "norm_persian_2_roman": "astraħt", 
+            "orig_persian": "استراحت", 
+            "norm_persian": "استراحت", 
+            "sentence_id": 5033, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "astraħt", 
+            "norm_persian_roman": "astraħt", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5034": [
+        {
+            "norm_persian_3_roman": "ra", 
+            "norm_persian_4_roman": "ra", 
+            "norm_persian_2_roman": "ra", 
+            "orig_persian": "رام", 
+            "norm_persian": "را", 
+            "sentence_id": 5034, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ram", 
+            "norm_persian_roman": "ra", 
+            "norm_persian_2": "هم", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5035": [
+        {
+            "norm_persian_3_roman": "xwrdn", 
+            "norm_persian_4_roman": "xwrdn", 
+            "norm_persian_2_roman": "xwrdn", 
+            "orig_persian": "خورد", 
+            "norm_persian": "خوردن", 
+            "sentence_id": 5035, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwrd", 
+            "norm_persian_roman": "xwrdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5036": [
+        {
+            "norm_persian_3_roman": "bray", 
+            "norm_persian_4_roman": "bray", 
+            "norm_persian_2_roman": "bray", 
+            "orig_persian": "برام", 
+            "norm_persian": "برای", 
+            "sentence_id": 5036, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bram", 
+            "norm_persian_roman": "bray", 
+            "norm_persian_2": "من", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5037": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 5037, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5038": [
+        {
+            "norm_persian_3_roman": "daxl", 
+            "norm_persian_4_roman": "daxl", 
+            "norm_persian_2_roman": "daxl", 
+            "orig_persian": "داخل", 
+            "norm_persian": "داخل", 
+            "sentence_id": 5038, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "daxl", 
+            "norm_persian_roman": "daxl", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5039": [
+        {
+            "norm_persian_3_roman": "bstn", 
+            "norm_persian_4_roman": "bstn", 
+            "norm_persian_2_roman": "bstn", 
+            "orig_persian": "بست", 
+            "norm_persian": "بستن", 
+            "sentence_id": 5039, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bst", 
+            "norm_persian_roman": "bstn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5040": [
+        {
+            "norm_persian_3_roman": "emsr", 
+            "norm_persian_4_roman": "emsr", 
+            "norm_persian_2_roman": "emsr", 
+            "orig_persian": "همسرش", 
+            "norm_persian": "همسر", 
+            "sentence_id": 5040, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "emsrš", 
+            "norm_persian_roman": "emsr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5041": [
+        {
+            "norm_persian_3_roman": "ābjwš", 
+            "norm_persian_4_roman": "ābjwš", 
+            "norm_persian_2_roman": "ābjwš", 
+            "orig_persian": "آبجوش", 
+            "norm_persian": "آبجوش", 
+            "sentence_id": 5041, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ābjwš", 
+            "norm_persian_roman": "ābjwš", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5042": [
+        {
+            "norm_persian_3_roman": "ābjwš", 
+            "norm_persian_4_roman": "ābjwš", 
+            "norm_persian_2_roman": "ābjwš", 
+            "orig_persian": "آبجوش", 
+            "norm_persian": "آبجوش", 
+            "sentence_id": 5042, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ābjwš", 
+            "norm_persian_roman": "ābjwš", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5043": [
+        {
+            "norm_persian_3_roman": "ay", 
+            "norm_persian_4_roman": "ay", 
+            "norm_persian_2_roman": "ay", 
+            "orig_persian": "آی", 
+            "norm_persian": "ای", 
+            "sentence_id": 5043, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āy", 
+            "norm_persian_roman": "ay", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5044": [
+        {
+            "norm_persian_3_roman": "frar", 
+            "norm_persian_4_roman": "frar", 
+            "norm_persian_2_roman": "frar", 
+            "orig_persian": "فرارکنه", 
+            "norm_persian": "فرار", 
+            "sentence_id": 5044, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "frarkne", 
+            "norm_persian_roman": "frar", 
+            "norm_persian_2": "کردن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5045": [
+        {
+            "norm_persian_3_roman": "ābjwš", 
+            "norm_persian_4_roman": "ābjwš", 
+            "norm_persian_2_roman": "ābjwš", 
+            "orig_persian": "آبجوش", 
+            "norm_persian": "آبجوش", 
+            "sentence_id": 5045, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ābjwš", 
+            "norm_persian_roman": "ābjwš", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5046": [
+        {
+            "norm_persian_3_roman": "ba", 
+            "norm_persian_4_roman": "ba", 
+            "norm_persian_2_roman": "ba", 
+            "orig_persian": "با", 
+            "norm_persian": "با", 
+            "sentence_id": 5046, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ba", 
+            "norm_persian_roman": "ba", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5047": [
+        {
+            "norm_persian_3_roman": "dr", 
+            "norm_persian_4_roman": "dr", 
+            "norm_persian_2_roman": "dr", 
+            "orig_persian": "در", 
+            "norm_persian": "در", 
+            "sentence_id": 5047, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dr", 
+            "norm_persian_roman": "dr", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5048": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5048, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3001": [
+        {
+            "norm_persian_3_roman": "bwdn", 
+            "norm_persian_4_roman": "bwdn", 
+            "norm_persian_2_roman": "bwdn", 
+            "orig_persian": "بود", 
+            "norm_persian": "بودن", 
+            "sentence_id": 3001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bwd", 
+            "norm_persian_roman": "bwdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3002": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 3002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3003": [
+        {
+            "norm_persian_3_roman": "ān", 
+            "norm_persian_4_roman": "ān", 
+            "norm_persian_2_roman": "ān", 
+            "orig_persian": "اون", 
+            "norm_persian": "آن", 
+            "sentence_id": 3003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awn", 
+            "norm_persian_roman": "ān", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5052": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومدن", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 5052, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmdn", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5053": [
+        {
+            "norm_persian_3_roman": "šyr", 
+            "norm_persian_4_roman": "šyr", 
+            "norm_persian_2_roman": "šyr", 
+            "orig_persian": "شیرا", 
+            "norm_persian": "شیر", 
+            "sentence_id": 5053, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "šyra", 
+            "norm_persian_roman": "šyr", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5054": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5054, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3007": [
+        {
+            "norm_persian_3_roman": "dm", 
+            "norm_persian_4_roman": "dm", 
+            "norm_persian_2_roman": "dm", 
+            "orig_persian": "دمش", 
+            "norm_persian": "دم", 
+            "sentence_id": 3007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dmš", 
+            "norm_persian_roman": "dm", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5056": [
+        {
+            "norm_persian_3_roman": "bala", 
+            "norm_persian_4_roman": "bala", 
+            "norm_persian_2_roman": "bala", 
+            "orig_persian": "بالا", 
+            "norm_persian": "بالا", 
+            "sentence_id": 5056, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bala", 
+            "norm_persian_roman": "bala", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5057": [
+        {
+            "norm_persian_3_roman": "ansan", 
+            "norm_persian_4_roman": "ansan", 
+            "norm_persian_2_roman": "ansan", 
+            "orig_persian": "انسان", 
+            "norm_persian": "انسان", 
+            "sentence_id": 5057, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ansan", 
+            "norm_persian_roman": "ansan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5058": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 5058, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5059": [
+        {
+            "norm_persian_3_roman": "ān", 
+            "norm_persian_4_roman": "ān", 
+            "norm_persian_2_roman": "ān", 
+            "orig_persian": "اون", 
+            "norm_persian": "آن", 
+            "sentence_id": 5059, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awn", 
+            "norm_persian_roman": "ān", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5060": [
+        {
+            "norm_persian_3_roman": "ān", 
+            "norm_persian_4_roman": "ān", 
+            "norm_persian_2_roman": "ān", 
+            "orig_persian": "اون", 
+            "norm_persian": "آن", 
+            "sentence_id": 5060, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awn", 
+            "norm_persian_roman": "ān", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3013": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 3013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3014": [
+        {
+            "norm_persian_3_roman": "aynja", 
+            "norm_persian_4_roman": "aynja", 
+            "norm_persian_2_roman": "aynja", 
+            "orig_persian": "اینجایم", 
+            "norm_persian": "اینجا", 
+            "sentence_id": 3014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "aynjaym", 
+            "norm_persian_roman": "aynja", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3015": [
+        {
+            "norm_persian_3_roman": "psr", 
+            "norm_persian_4_roman": "psr", 
+            "norm_persian_2_roman": "psr", 
+            "orig_persian": "پ", 
+            "norm_persian": "پسر", 
+            "sentence_id": 3015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "p", 
+            "norm_persian_roman": "psr", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3016": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 3016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5065": [
+        {
+            "norm_persian_3_roman": "sr", 
+            "norm_persian_4_roman": "sr", 
+            "norm_persian_2_roman": "sr", 
+            "orig_persian": "سرش", 
+            "norm_persian": "سر", 
+            "sentence_id": 5065, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "srš", 
+            "norm_persian_roman": "sr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5066": [
+        {
+            "norm_persian_3_roman": "ānea", 
+            "norm_persian_4_roman": "ānea", 
+            "norm_persian_2_roman": "ānea", 
+            "orig_persian": "اونا", 
+            "norm_persian": "آنها", 
+            "sentence_id": 5066, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awna", 
+            "norm_persian_roman": "ānea", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5067": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 5067, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3020": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منم", 
+            "norm_persian": "من", 
+            "sentence_id": 3020, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnm", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3021": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منم", 
+            "norm_persian": "من", 
+            "sentence_id": 3021, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnm", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3022": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "بیا", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 3022, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bya", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3023": [
+        {
+            "norm_persian_3_roman": "jng", 
+            "norm_persian_4_roman": "jng", 
+            "norm_persian_2_roman": "jng", 
+            "orig_persian": "جنگت", 
+            "norm_persian": "جنگ", 
+            "sentence_id": 3023, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "jngt", 
+            "norm_persian_roman": "jng", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3024": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 3024, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3025": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 3025, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3026": [
+        {
+            "norm_persian_3_roman": "pare", 
+            "norm_persian_4_roman": "pare", 
+            "norm_persian_2_roman": "pare", 
+            "orig_persian": "پاره", 
+            "norm_persian": "پاره", 
+            "sentence_id": 3026, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pare", 
+            "norm_persian_roman": "pare", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3027": [
+        {
+            "norm_persian_3_roman": "baz", 
+            "norm_persian_4_roman": "baz", 
+            "norm_persian_2_roman": "baz", 
+            "orig_persian": "وا", 
+            "norm_persian": "باز", 
+            "sentence_id": 3027, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "wa", 
+            "norm_persian_roman": "baz", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3028": [
+        {
+            "norm_persian_3_roman": "adby", 
+            "norm_persian_4_roman": "adby", 
+            "norm_persian_2_roman": "adby", 
+            "orig_persian": "ادبی", 
+            "norm_persian": "ادبی", 
+            "sentence_id": 3028, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "adby", 
+            "norm_persian_roman": "adby", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3029": [
+        {
+            "norm_persian_3_roman": "kwl", 
+            "norm_persian_4_roman": "kwl", 
+            "norm_persian_2_roman": "kwl", 
+            "orig_persian": "کولشو", 
+            "norm_persian": "کول", 
+            "sentence_id": 3029, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kwlšw", 
+            "norm_persian_roman": "kwl", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": "را"
+        }
+    ], 
+    "3030": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 3030, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3031": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 3031, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3032": [
+        {
+            "norm_persian_3_roman": "awww", 
+            "norm_persian_4_roman": "awww", 
+            "norm_persian_2_roman": "awww", 
+            "orig_persian": "اووو", 
+            "norm_persian": "اووو", 
+            "sentence_id": 3032, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awww", 
+            "norm_persian_roman": "awww", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3033": [
+        {
+            "norm_persian_3_roman": "adby", 
+            "norm_persian_4_roman": "adby", 
+            "norm_persian_2_roman": "adby", 
+            "orig_persian": "ادبی", 
+            "norm_persian": "ادبی", 
+            "sentence_id": 3033, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "adby", 
+            "norm_persian_roman": "adby", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3034": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "ازت", 
+            "norm_persian": "از", 
+            "sentence_id": 3034, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "azt", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3035": [
+        {
+            "norm_persian_3_roman": "dndan", 
+            "norm_persian_4_roman": "dndan", 
+            "norm_persian_2_roman": "dndan", 
+            "orig_persian": "دندونای", 
+            "norm_persian": "دندان", 
+            "sentence_id": 3035, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dndwnay", 
+            "norm_persian_roman": "dndan", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3036": [
+        {
+            "norm_persian_3_roman": "dndan", 
+            "norm_persian_4_roman": "dndan", 
+            "norm_persian_2_roman": "dndan", 
+            "orig_persian": "دندوناش", 
+            "norm_persian": "دندان", 
+            "sentence_id": 3036, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dndwnaš", 
+            "norm_persian_roman": "dndan", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": "او"
+        }
+    ], 
+    "3037": [
+        {
+            "norm_persian_3_roman": "bz", 
+            "norm_persian_4_roman": "bz", 
+            "norm_persian_2_roman": "bz", 
+            "orig_persian": "بزا", 
+            "norm_persian": "بز", 
+            "sentence_id": 3037, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bza", 
+            "norm_persian_roman": "bz", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3038": [
+        {
+            "norm_persian_3_roman": "baem", 
+            "norm_persian_4_roman": "baem", 
+            "norm_persian_2_roman": "baem", 
+            "orig_persian": "باهم", 
+            "norm_persian": "باهم", 
+            "sentence_id": 3038, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "baem", 
+            "norm_persian_roman": "baem", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3039": [
+        {
+            "norm_persian_3_roman": "šax", 
+            "norm_persian_4_roman": "šax", 
+            "norm_persian_2_roman": "šax", 
+            "orig_persian": "شاخش", 
+            "norm_persian": "شاخ", 
+            "sentence_id": 3039, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "šaxš", 
+            "norm_persian_roman": "šax", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3040": [
+        {
+            "norm_persian_3_roman": "alan", 
+            "norm_persian_4_roman": "alan", 
+            "norm_persian_2_roman": "alan", 
+            "orig_persian": "الان", 
+            "norm_persian": "الان", 
+            "sentence_id": 3040, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "alan", 
+            "norm_persian_roman": "alan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3041": [
+        {
+            "norm_persian_3_roman": "dndan", 
+            "norm_persian_4_roman": "dndan", 
+            "norm_persian_2_roman": "dndan", 
+            "orig_persian": "دندونش", 
+            "norm_persian": "دندان", 
+            "sentence_id": 3041, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dndwnš", 
+            "norm_persian_roman": "dndan", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3042": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "اینو", 
+            "norm_persian": "این", 
+            "sentence_id": 3042, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "aynw", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3043": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونشون", 
+            "norm_persian": "خانه", 
+            "sentence_id": 3043, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnšwn", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "آنها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3044": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونشون", 
+            "norm_persian": "خانه", 
+            "sentence_id": 3044, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnšwn", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "آنها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3045": [
+        {
+            "norm_persian_3_roman": "xwrdn", 
+            "norm_persian_4_roman": "xwrdn", 
+            "norm_persian_2_roman": "xwrdn", 
+            "orig_persian": "میخورتون", 
+            "norm_persian": "خوردن", 
+            "sentence_id": 3045, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myxwrtwn", 
+            "norm_persian_roman": "xwrdn", 
+            "norm_persian_2": "شما", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3046": [
+        {
+            "norm_persian_3_roman": "be", 
+            "norm_persian_4_roman": "be", 
+            "norm_persian_2_roman": "be", 
+            "orig_persian": "به", 
+            "norm_persian": "به", 
+            "sentence_id": 3046, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "be", 
+            "norm_persian_roman": "be", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3047": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونش", 
+            "norm_persian": "خانه", 
+            "sentence_id": 3047, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnš", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1001": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 1001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1002": [
+        {
+            "norm_persian_3_roman": "bwdn", 
+            "norm_persian_4_roman": "bwdn", 
+            "norm_persian_2_roman": "bwdn", 
+            "orig_persian": "بود", 
+            "norm_persian": "بودن", 
+            "sentence_id": 1002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bwd", 
+            "norm_persian_roman": "bwdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1003": [
+        {
+            "norm_persian_3_roman": "ħyaţ", 
+            "norm_persian_4_roman": "ħyaţ", 
+            "norm_persian_2_roman": "ħyaţ", 
+            "orig_persian": "حیاطش", 
+            "norm_persian": "حیاط", 
+            "sentence_id": 1003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ħyaţš", 
+            "norm_persian_roman": "ħyaţ", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1004": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 1004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1005": [
+        {
+            "norm_persian_3_roman": "tw", 
+            "norm_persian_4_roman": "tw", 
+            "norm_persian_2_roman": "tw", 
+            "orig_persian": "تو ش", 
+            "norm_persian": "تو", 
+            "sentence_id": 1005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "tw š", 
+            "norm_persian_roman": "tw", 
+            "norm_persian_2": "آن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1006": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 1006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1007": [
+        {
+            "norm_persian_3_roman": "rae", 
+            "norm_persian_4_roman": "rae", 
+            "norm_persian_2_roman": "rae", 
+            "orig_persian": "راهش", 
+            "norm_persian": "راه", 
+            "sentence_id": 1007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "raeš", 
+            "norm_persian_roman": "rae", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1008": [
+        {
+            "norm_persian_3_roman": "čnd", 
+            "norm_persian_4_roman": "čnd", 
+            "norm_persian_2_roman": "čnd", 
+            "orig_persian": "چند", 
+            "norm_persian": "چند", 
+            "sentence_id": 1008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "čnd", 
+            "norm_persian_roman": "čnd", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1009": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومدی", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 1009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmdy", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1010": [
+        {
+            "norm_persian_3_roman": "gđaštn", 
+            "norm_persian_4_roman": "gđaštn", 
+            "norm_persian_2_roman": "gđaštn", 
+            "orig_persian": "بذار", 
+            "norm_persian": "گذاشتن", 
+            "sentence_id": 1010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bđar", 
+            "norm_persian_roman": "gđaštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1011": [
+        {
+            "norm_persian_3_roman": "wŕt", 
+            "norm_persian_4_roman": "wŕt", 
+            "norm_persian_2_roman": "wŕt", 
+            "orig_persian": "وقتیکه", 
+            "norm_persian": "وقت", 
+            "sentence_id": 1011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "wŕtyke", 
+            "norm_persian_roman": "wŕt", 
+            "norm_persian_2": "که", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1012": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفت", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 1012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gft", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1013": [
+        {
+            "norm_persian_3_roman": "xwb", 
+            "norm_persian_4_roman": "xwb", 
+            "norm_persian_2_roman": "xwb", 
+            "orig_persian": "خوب", 
+            "norm_persian": "خوب", 
+            "sentence_id": 1013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwb", 
+            "norm_persian_roman": "xwb", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1014": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 1014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1015": [
+        {
+            "norm_persian_3_roman": "rae", 
+            "norm_persian_4_roman": "rae", 
+            "norm_persian_2_roman": "rae", 
+            "orig_persian": "راش", 
+            "norm_persian": "راه", 
+            "sentence_id": 1015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "raš", 
+            "norm_persian_roman": "rae", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1016": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفت", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 1016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gft", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1017": [
+        {
+            "norm_persian_3_roman": "dxtr", 
+            "norm_persian_4_roman": "dxtr", 
+            "norm_persian_2_roman": "dxtr", 
+            "orig_persian": "دخترم", 
+            "norm_persian": "دختر", 
+            "sentence_id": 1017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dxtrm", 
+            "norm_persian_roman": "dxtr", 
+            "norm_persian_2": "من", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1018": [
+        {
+            "norm_persian_3_roman": "xwrdn", 
+            "norm_persian_4_roman": "xwrdn", 
+            "norm_persian_2_roman": "xwrdn", 
+            "orig_persian": "بخورمت", 
+            "norm_persian": "خوردن", 
+            "sentence_id": 1018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bxwrmt", 
+            "norm_persian_roman": "xwrdn", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1019": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 1019, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1020": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 1020, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1021": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 1021, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1022": [
+        {
+            "norm_persian_3_roman": "msaft", 
+            "norm_persian_4_roman": "msaft", 
+            "norm_persian_2_roman": "msaft", 
+            "orig_persian": "مسافتی رو", 
+            "norm_persian": "مسافت", 
+            "sentence_id": 1022, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "msafty rw", 
+            "norm_persian_roman": "msaft", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1023": [
+        {
+            "norm_persian_3_roman": "grsngy", 
+            "norm_persian_4_roman": "grsngy", 
+            "norm_persian_2_roman": "grsngy", 
+            "orig_persian": "گشنگی", 
+            "norm_persian": "گرسنگی", 
+            "sentence_id": 1023, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gšngy", 
+            "norm_persian_roman": "grsngy", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1024": [
+        {
+            "norm_persian_3_roman": "grsne", 
+            "norm_persian_4_roman": "grsne", 
+            "norm_persian_2_roman": "grsne", 
+            "orig_persian": "گرسنمه", 
+            "norm_persian": "گرسنه", 
+            "sentence_id": 1024, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "grsnme", 
+            "norm_persian_roman": "grsne", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1025": [
+        {
+            "norm_persian_3_roman": "tw", 
+            "norm_persian_4_roman": "tw", 
+            "norm_persian_2_roman": "tw", 
+            "orig_persian": "تو رو", 
+            "norm_persian": "تو", 
+            "sentence_id": 1025, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "tw rw", 
+            "norm_persian_roman": "tw", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1026": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفت", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 1026, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gft", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1027": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 1027, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1028": [
+        {
+            "norm_persian_3_roman": "dxtr", 
+            "norm_persian_4_roman": "dxtr", 
+            "norm_persian_2_roman": "dxtr", 
+            "orig_persian": "دخترش", 
+            "norm_persian": "دختر", 
+            "sentence_id": 1028, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dxtrš", 
+            "norm_persian_roman": "dxtr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1029": [
+        {
+            "norm_persian_3_roman": "bql", 
+            "norm_persian_4_roman": "bql", 
+            "norm_persian_2_roman": "bql", 
+            "orig_persian": "بغلش", 
+            "norm_persian": "بغل", 
+            "sentence_id": 1029, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bqlš", 
+            "norm_persian_roman": "bql", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1030": [
+        {
+            "norm_persian_3_roman": "dxtr", 
+            "norm_persian_4_roman": "dxtr", 
+            "norm_persian_2_roman": "dxtr", 
+            "orig_persian": "دخترش", 
+            "norm_persian": "دختر", 
+            "sentence_id": 1030, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dxtrš", 
+            "norm_persian_roman": "dxtr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1031": [
+        {
+            "norm_persian_3_roman": "ħŕyŕt", 
+            "norm_persian_4_roman": "ħŕyŕt", 
+            "norm_persian_2_roman": "ħŕyŕt", 
+            "orig_persian": "حقیقتش", 
+            "norm_persian": "حقیقت", 
+            "sentence_id": 1031, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ħŕyŕtš", 
+            "norm_persian_roman": "ħŕyŕt", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1032": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "اینا", 
+            "norm_persian": "این", 
+            "sentence_id": 1032, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayna", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1033": [
+        {
+            "norm_persian_3_roman": "bray", 
+            "norm_persian_4_roman": "bray", 
+            "norm_persian_2_roman": "bray", 
+            "orig_persian": "براش", 
+            "norm_persian": "برای", 
+            "sentence_id": 1033, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "braš", 
+            "norm_persian_roman": "bray", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1034": [
+        {
+            "norm_persian_3_roman": "dr", 
+            "norm_persian_4_roman": "dr", 
+            "norm_persian_2_roman": "dr", 
+            "orig_persian": "درش", 
+            "norm_persian": "در", 
+            "sentence_id": 1034, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "drš", 
+            "norm_persian_roman": "dr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1035": [
+        {
+            "norm_persian_3_roman": "ql", 
+            "norm_persian_4_roman": "ql", 
+            "norm_persian_2_roman": "ql", 
+            "orig_persian": "قلش", 
+            "norm_persian": "غل", 
+            "sentence_id": 1035, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ŕlš", 
+            "norm_persian_roman": "ql", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1036": [
+        {
+            "norm_persian_3_roman": "āŕa", 
+            "norm_persian_4_roman": "āŕa", 
+            "norm_persian_2_roman": "āŕa", 
+            "orig_persian": "آقا", 
+            "norm_persian": "آقا", 
+            "sentence_id": 1036, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āŕa", 
+            "norm_persian_roman": "āŕa", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1037": [
+        {
+            "norm_persian_3_roman": "dydn", 
+            "norm_persian_4_roman": "dydn", 
+            "norm_persian_2_roman": "dydn", 
+            "orig_persian": "ندیدم", 
+            "norm_persian": "دیدن", 
+            "sentence_id": 1037, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ndydm", 
+            "norm_persian_roman": "dydn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1038": [
+        {
+            "norm_persian_3_roman": "balle", 
+            "norm_persian_4_roman": "balle", 
+            "norm_persian_2_roman": "balle", 
+            "orig_persian": "بالله", 
+            "norm_persian": "بالله", 
+            "sentence_id": 1038, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "balle", 
+            "norm_persian_roman": "balle", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1039": [
+        {
+            "norm_persian_3_roman": "dadn", 
+            "norm_persian_4_roman": "dadn", 
+            "norm_persian_2_roman": "dadn", 
+            "orig_persian": "بده", 
+            "norm_persian": "دادن", 
+            "sentence_id": 1039, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bde", 
+            "norm_persian_roman": "dadn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1040": [
+        {
+            "norm_persian_3_roman": "ql", 
+            "norm_persian_4_roman": "ql", 
+            "norm_persian_2_roman": "ql", 
+            "orig_persian": "قلش", 
+            "norm_persian": "غل", 
+            "sentence_id": 1040, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ŕlš", 
+            "norm_persian_roman": "ql", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1041": [
+        {
+            "norm_persian_3_roman": "zdn", 
+            "norm_persian_4_roman": "zdn", 
+            "norm_persian_2_roman": "zdn", 
+            "orig_persian": "زنون", 
+            "norm_persian": "زدن", 
+            "sentence_id": 1041, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "znwn", 
+            "norm_persian_roman": "zdn", 
+            "norm_persian_2": "و", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1042": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 1042, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1043": [
+        {
+            "norm_persian_3_roman": "balle", 
+            "norm_persian_4_roman": "balle", 
+            "norm_persian_2_roman": "balle", 
+            "orig_persian": "بالله", 
+            "norm_persian": "بالله", 
+            "sentence_id": 1043, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "balle", 
+            "norm_persian_roman": "balle", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1044": [
+        {
+            "norm_persian_3_roman": "dadn", 
+            "norm_persian_4_roman": "dadn", 
+            "norm_persian_2_roman": "dadn", 
+            "orig_persian": "بده", 
+            "norm_persian": "دادن", 
+            "sentence_id": 1044, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bde", 
+            "norm_persian_roman": "dadn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1045": [
+        {
+            "norm_persian_3_roman": "ql", 
+            "norm_persian_4_roman": "ql", 
+            "norm_persian_2_roman": "ql", 
+            "orig_persian": "قلش", 
+            "norm_persian": "غل", 
+            "sentence_id": 1045, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ŕlš", 
+            "norm_persian_roman": "ql", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1046": [
+        {
+            "norm_persian_3_roman": "eman", 
+            "norm_persian_4_roman": "eman", 
+            "norm_persian_2_roman": "eman", 
+            "orig_persian": "همانطور", 
+            "norm_persian": "همان", 
+            "sentence_id": 1046, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "emanţwr", 
+            "norm_persian_roman": "eman", 
+            "norm_persian_2": "طور", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1047": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 1047, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1048": [
+        {
+            "norm_persian_3_roman": "dydn", 
+            "norm_persian_4_roman": "dydn", 
+            "norm_persian_2_roman": "dydn", 
+            "orig_persian": "ندیدم", 
+            "norm_persian": "دیدن", 
+            "sentence_id": 1048, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ndydm", 
+            "norm_persian_roman": "dydn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1049": [
+        {
+            "norm_persian_3_roman": "balle", 
+            "norm_persian_4_roman": "balle", 
+            "norm_persian_2_roman": "balle", 
+            "orig_persian": "بالله", 
+            "norm_persian": "بالله", 
+            "sentence_id": 1049, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "balle", 
+            "norm_persian_roman": "balle", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1050": [
+        {
+            "norm_persian_3_roman": "dadn", 
+            "norm_persian_4_roman": "dadn", 
+            "norm_persian_2_roman": "dadn", 
+            "orig_persian": "بده", 
+            "norm_persian": "دادن", 
+            "sentence_id": 1050, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bde", 
+            "norm_persian_roman": "dadn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1051": [
+        {
+            "norm_persian_3_roman": "sr", 
+            "norm_persian_4_roman": "sr", 
+            "norm_persian_2_roman": "sr", 
+            "orig_persian": "سرش", 
+            "norm_persian": "سر", 
+            "sentence_id": 1051, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "srš", 
+            "norm_persian_roman": "sr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1052": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 1052, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1053": [
+        {
+            "norm_persian_3_roman": "myan", 
+            "norm_persian_4_roman": "myan", 
+            "norm_persian_2_roman": "myan", 
+            "orig_persian": "میونش", 
+            "norm_persian": "میان", 
+            "sentence_id": 1053, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mywnš", 
+            "norm_persian_roman": "myan", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1054": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومدند", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 1054, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmdnd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1055": [
+        {
+            "norm_persian_3_roman": "brdn", 
+            "norm_persian_4_roman": "brdn", 
+            "norm_persian_2_roman": "brdn", 
+            "orig_persian": "میبرنش", 
+            "norm_persian": "بردن", 
+            "sentence_id": 1055, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mybrnš", 
+            "norm_persian_roman": "brdn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "1056": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 1056, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5049": [
+        {
+            "norm_persian_3_roman": "dwst", 
+            "norm_persian_4_roman": "dwst", 
+            "norm_persian_2_roman": "dwst", 
+            "orig_persian": "دوستاش", 
+            "norm_persian": "دوست", 
+            "sentence_id": 5049, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dwstaš", 
+            "norm_persian_roman": "dwst", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": "او"
+        }
+    ], 
+    "5050": [
+        {
+            "norm_persian_3_roman": "ra", 
+            "norm_persian_4_roman": "ra", 
+            "norm_persian_2_roman": "ra", 
+            "orig_persian": "وا", 
+            "norm_persian": "را", 
+            "sentence_id": 5050, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "wa", 
+            "norm_persian_roman": "ra", 
+            "norm_persian_2": "از", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5051": [
+        {
+            "norm_persian_3_roman": "šyr", 
+            "norm_persian_4_roman": "šyr", 
+            "norm_persian_2_roman": "šyr", 
+            "orig_persian": "شیرا", 
+            "norm_persian": "شیر", 
+            "sentence_id": 5051, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "šyra", 
+            "norm_persian_roman": "šyr", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3004": [
+        {
+            "norm_persian_3_roman": "bz", 
+            "norm_persian_4_roman": "bz", 
+            "norm_persian_2_roman": "bz", 
+            "orig_persian": "بزاش", 
+            "norm_persian": "بز", 
+            "sentence_id": 3004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bzaš", 
+            "norm_persian_roman": "bz", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": "او"
+        }
+    ], 
+    "3005": [
+        {
+            "norm_persian_3_roman": "tw", 
+            "norm_persian_4_roman": "tw", 
+            "norm_persian_2_roman": "tw", 
+            "orig_persian": "تونم", 
+            "norm_persian": "تو", 
+            "sentence_id": 3005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "twnm", 
+            "norm_persian_roman": "tw", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3006": [
+        {
+            "norm_persian_3_roman": "daštn", 
+            "norm_persian_4_roman": "daštn", 
+            "norm_persian_2_roman": "daštn", 
+            "orig_persian": "داره", 
+            "norm_persian": "داشتن", 
+            "sentence_id": 3006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dare", 
+            "norm_persian_roman": "daštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5055": [
+        {
+            "norm_persian_3_roman": "artfa'", 
+            "norm_persian_4_roman": "artfa'", 
+            "norm_persian_2_roman": "artfa'", 
+            "orig_persian": "ارتفاعش", 
+            "norm_persian": "ارتفاع", 
+            "sentence_id": 5055, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "artfa'š", 
+            "norm_persian_roman": "artfa'", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3008": [
+        {
+            "norm_persian_3_roman": "sm", 
+            "norm_persian_4_roman": "sm", 
+            "norm_persian_2_roman": "sm", 
+            "orig_persian": "سمش", 
+            "norm_persian": "سم", 
+            "sentence_id": 3008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "smš", 
+            "norm_persian_roman": "sm", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3009": [
+        {
+            "norm_persian_3_roman": "madr", 
+            "norm_persian_4_roman": "madr", 
+            "norm_persian_2_roman": "madr", 
+            "orig_persian": "مادرشونه", 
+            "norm_persian": "مادر", 
+            "sentence_id": 3009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "madršwne", 
+            "norm_persian_roman": "madr", 
+            "norm_persian_2": "آنها", 
+            "norm_persian_3": "بودن"
+        }
+    ], 
+    "3010": [
+        {
+            "norm_persian_3_roman": "aftadn", 
+            "norm_persian_4_roman": "aftadn", 
+            "norm_persian_2_roman": "aftadn", 
+            "orig_persian": "افتاد", 
+            "norm_persian": "افتادن", 
+            "sentence_id": 3010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "aftad", 
+            "norm_persian_roman": "aftadn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3011": [
+        {
+            "norm_persian_3_roman": "baz", 
+            "norm_persian_4_roman": "baz", 
+            "norm_persian_2_roman": "baz", 
+            "orig_persian": "باره", 
+            "norm_persian": "باز", 
+            "sentence_id": 3011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bare", 
+            "norm_persian_roman": "baz", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3012": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 3012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5061": [
+        {
+            "norm_persian_3_roman": "ansan", 
+            "norm_persian_4_roman": "ansan", 
+            "norm_persian_2_roman": "ansan", 
+            "orig_persian": "انسان", 
+            "norm_persian": "انسان", 
+            "sentence_id": 5061, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ansan", 
+            "norm_persian_roman": "ansan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5062": [
+        {
+            "norm_persian_3_roman": "drydn", 
+            "norm_persian_4_roman": "drydn", 
+            "norm_persian_2_roman": "drydn", 
+            "orig_persian": "بدریمش", 
+            "norm_persian": "دریدن", 
+            "sentence_id": 5062, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bdrymš", 
+            "norm_persian_roman": "drydn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5063": [
+        {
+            "norm_persian_3_roman": "šyr", 
+            "norm_persian_4_roman": "šyr", 
+            "norm_persian_2_roman": "šyr", 
+            "orig_persian": "شیرا", 
+            "norm_persian": "شیر", 
+            "sentence_id": 5063, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "šyra", 
+            "norm_persian_roman": "šyr", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "5064": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 5064, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3017": [
+        {
+            "norm_persian_3_roman": "bna°", 
+            "norm_persian_4_roman": "bna°", 
+            "norm_persian_2_roman": "bna°", 
+            "orig_persian": "بناءکرد", 
+            "norm_persian": "بناء", 
+            "sentence_id": 3017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bna°krd", 
+            "norm_persian_roman": "bna°", 
+            "norm_persian_2": "کردن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3018": [
+        {
+            "norm_persian_3_roman": "ky", 
+            "norm_persian_4_roman": "ky", 
+            "norm_persian_2_roman": "ky", 
+            "orig_persian": "کیه", 
+            "norm_persian": "کی", 
+            "sentence_id": 3018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kye", 
+            "norm_persian_roman": "ky", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "3019": [
+        {
+            "norm_persian_3_roman": "bče", 
+            "norm_persian_4_roman": "bče", 
+            "norm_persian_2_roman": "bče", 
+            "orig_persian": "بچه های", 
+            "norm_persian": "بچه", 
+            "sentence_id": 3019, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bče eay", 
+            "norm_persian_roman": "bče", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10001": [
+        {
+            "norm_persian_3_roman": "bwdn", 
+            "norm_persian_4_roman": "bwdn", 
+            "norm_persian_2_roman": "bwdn", 
+            "orig_persian": "بود", 
+            "norm_persian": "بودن", 
+            "sentence_id": 10001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bwd", 
+            "norm_persian_roman": "bwdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10002": [
+        {
+            "norm_persian_3_roman": "rwz", 
+            "norm_persian_4_roman": "rwz", 
+            "norm_persian_2_roman": "rwz", 
+            "orig_persian": "روز ها", 
+            "norm_persian": "روز", 
+            "sentence_id": 10002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "rwz ea", 
+            "norm_persian_roman": "rwz", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10003": [
+        {
+            "norm_persian_3_roman": "āew", 
+            "norm_persian_4_roman": "āew", 
+            "norm_persian_2_roman": "āew", 
+            "orig_persian": "آهو", 
+            "norm_persian": "آهو", 
+            "sentence_id": 10003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āew", 
+            "norm_persian_roman": "āew", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10004": [
+        {
+            "norm_persian_3_roman": "zndgy", 
+            "norm_persian_4_roman": "zndgy", 
+            "norm_persian_2_roman": "zndgy", 
+            "orig_persian": "زندگیشون", 
+            "norm_persian": "زندگی", 
+            "sentence_id": 10004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "zndgyšwn", 
+            "norm_persian_roman": "zndgy", 
+            "norm_persian_2": "آنها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10005": [
+        {
+            "norm_persian_3_roman": "xwd", 
+            "norm_persian_4_roman": "xwd", 
+            "norm_persian_2_roman": "xwd", 
+            "orig_persian": "خودمون", 
+            "norm_persian": "خود", 
+            "sentence_id": 10005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwdmwn", 
+            "norm_persian_roman": "xwd", 
+            "norm_persian_2": "ما", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10006": [
+        {
+            "norm_persian_3_roman": "brgštn", 
+            "norm_persian_4_roman": "brgštn", 
+            "norm_persian_2_roman": "brgštn", 
+            "orig_persian": "برگشت", 
+            "norm_persian": "برگشتن", 
+            "sentence_id": 10006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "brgšt", 
+            "norm_persian_roman": "brgštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10007": [
+        {
+            "norm_persian_3_roman": "āsan", 
+            "norm_persian_4_roman": "āsan", 
+            "norm_persian_2_roman": "āsan", 
+            "orig_persian": "آسونی", 
+            "norm_persian": "آسان", 
+            "sentence_id": 10007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āswny", 
+            "norm_persian_roman": "āsan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10008": [
+        {
+            "norm_persian_3_roman": "daštn", 
+            "norm_persian_4_roman": "daštn", 
+            "norm_persian_2_roman": "daštn", 
+            "orig_persian": "ندارد", 
+            "norm_persian": "داشتن", 
+            "sentence_id": 10008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ndard", 
+            "norm_persian_roman": "daštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10009": [
+        {
+            "norm_persian_3_roman": "āew", 
+            "norm_persian_4_roman": "āew", 
+            "norm_persian_2_roman": "āew", 
+            "orig_persian": "آهو", 
+            "norm_persian": "آهو", 
+            "sentence_id": 10009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āew", 
+            "norm_persian_roman": "āew", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10010": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 10010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10011": [
+        {
+            "norm_persian_3_roman": "ja", 
+            "norm_persian_4_roman": "ja", 
+            "norm_persian_2_roman": "ja", 
+            "orig_persian": "جا", 
+            "norm_persian": "جا", 
+            "sentence_id": 10011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ja", 
+            "norm_persian_roman": "ja", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10012": [
+        {
+            "norm_persian_3_roman": "brgštn", 
+            "norm_persian_4_roman": "brgštn", 
+            "norm_persian_2_roman": "brgštn", 
+            "orig_persian": "برگشت", 
+            "norm_persian": "برگشتن", 
+            "sentence_id": 10012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "brgšt", 
+            "norm_persian_roman": "brgštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10013": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "اینا", 
+            "norm_persian": "این", 
+            "sentence_id": 10013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayna", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10014": [
+        {
+            "norm_persian_3_roman": "mkary", 
+            "norm_persian_4_roman": "mkary", 
+            "norm_persian_2_roman": "mkary", 
+            "orig_persian": "مکاریست", 
+            "norm_persian": "مکاری", 
+            "sentence_id": 10014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mkaryst", 
+            "norm_persian_roman": "mkary", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10015": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 10015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10016": [
+        {
+            "norm_persian_3_roman": "āew", 
+            "norm_persian_4_roman": "āew", 
+            "norm_persian_2_roman": "āew", 
+            "orig_persian": "آهو", 
+            "norm_persian": "آهو", 
+            "sentence_id": 10016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āew", 
+            "norm_persian_roman": "āew", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10017": [
+        {
+            "norm_persian_3_roman": "xrgwš", 
+            "norm_persian_4_roman": "xrgwš", 
+            "norm_persian_2_roman": "xrgwš", 
+            "orig_persian": "خرگوش", 
+            "norm_persian": "خرگوش", 
+            "sentence_id": 10017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xrgwš", 
+            "norm_persian_roman": "xrgwš", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10018": [
+        {
+            "norm_persian_3_roman": "brgštn", 
+            "norm_persian_4_roman": "brgštn", 
+            "norm_persian_2_roman": "brgštn", 
+            "orig_persian": "برگشت", 
+            "norm_persian": "برگشتن", 
+            "sentence_id": 10018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "brgšt", 
+            "norm_persian_roman": "brgštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10019": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 10019, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10020": [
+        {
+            "norm_persian_3_roman": "brgštn", 
+            "norm_persian_4_roman": "brgštn", 
+            "norm_persian_2_roman": "brgštn", 
+            "orig_persian": "برگشت", 
+            "norm_persian": "برگشتن", 
+            "sentence_id": 10020, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "brgšt", 
+            "norm_persian_roman": "brgštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "10021": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 10021, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8001": [
+        {
+            "norm_persian_3_roman": "ba", 
+            "norm_persian_4_roman": "ba", 
+            "norm_persian_2_roman": "ba", 
+            "orig_persian": "با", 
+            "norm_persian": "با", 
+            "sentence_id": 8001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ba", 
+            "norm_persian_roman": "ba", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8002": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 8002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8003": [
+        {
+            "norm_persian_3_roman": "tle", 
+            "norm_persian_4_roman": "tle", 
+            "norm_persian_2_roman": "tle", 
+            "orig_persian": "تله ایه", 
+            "norm_persian": "تله", 
+            "sentence_id": 8003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "tle aye", 
+            "norm_persian_roman": "tle", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8004": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "اینو", 
+            "norm_persian": "این", 
+            "sentence_id": 8004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "aynw", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8005": [
+        {
+            "norm_persian_3_roman": "gwšt", 
+            "norm_persian_4_roman": "gwšt", 
+            "norm_persian_2_roman": "gwšt", 
+            "orig_persian": "گوشتو", 
+            "norm_persian": "گوشت", 
+            "sentence_id": 8005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gwštw", 
+            "norm_persian_roman": "gwšt", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8006": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "بیا", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 8006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bya", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8007": [
+        {
+            "norm_persian_3_roman": "grsne", 
+            "norm_persian_4_roman": "grsne", 
+            "norm_persian_2_roman": "grsne", 
+            "orig_persian": "گرسنش", 
+            "norm_persian": "گرسنه", 
+            "sentence_id": 8007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "grsnš", 
+            "norm_persian_roman": "grsne", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8008": [
+        {
+            "norm_persian_3_roman": "bwdn", 
+            "norm_persian_4_roman": "bwdn", 
+            "norm_persian_2_roman": "bwdn", 
+            "orig_persian": "باشه", 
+            "norm_persian": "بودن", 
+            "sentence_id": 8008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "baše", 
+            "norm_persian_roman": "bwdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8009": [
+        {
+            "norm_persian_3_roman": "gwšt", 
+            "norm_persian_4_roman": "gwšt", 
+            "norm_persian_2_roman": "gwšt", 
+            "orig_persian": "گوشته", 
+            "norm_persian": "گوشت", 
+            "sentence_id": 8009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gwšte", 
+            "norm_persian_roman": "gwšt", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8010": [
+        {
+            "norm_persian_3_roman": "brdaštn", 
+            "norm_persian_4_roman": "brdaštn", 
+            "norm_persian_2_roman": "brdaštn", 
+            "orig_persian": "ورداره", 
+            "norm_persian": "برداشتن", 
+            "sentence_id": 8010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "wrdare", 
+            "norm_persian_roman": "brdaštn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8011": [
+        {
+            "norm_persian_3_roman": "gwšt", 
+            "norm_persian_4_roman": "gwšt", 
+            "norm_persian_2_roman": "gwšt", 
+            "orig_persian": "گوشتو", 
+            "norm_persian": "گوشت", 
+            "sentence_id": 8011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gwštw", 
+            "norm_persian_roman": "gwšt", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8012": [
+        {
+            "norm_persian_3_roman": "b'd", 
+            "norm_persian_4_roman": "b'd", 
+            "norm_persian_2_roman": "b'd", 
+            "orig_persian": "بعد", 
+            "norm_persian": "بعد", 
+            "sentence_id": 8012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "b'd", 
+            "norm_persian_roman": "b'd", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8013": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "بیاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 8013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "byad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "8014": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "اینو", 
+            "norm_persian": "این", 
+            "sentence_id": 8014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "aynw", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6001": [
+        {
+            "norm_persian_3_roman": "ansan", 
+            "norm_persian_4_roman": "ansan", 
+            "norm_persian_2_roman": "ansan", 
+            "orig_persian": "انسان", 
+            "norm_persian": "انسان", 
+            "sentence_id": 6001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ansan", 
+            "norm_persian_roman": "ansan", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6002": [
+        {
+            "norm_persian_3_roman": "ādm", 
+            "norm_persian_4_roman": "ādm", 
+            "norm_persian_2_roman": "ādm", 
+            "orig_persian": "آدم", 
+            "norm_persian": "آدم", 
+            "sentence_id": 6002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ādm", 
+            "norm_persian_roman": "ādm", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6003": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "میاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 6003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6004": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 6004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6005": [
+        {
+            "norm_persian_3_roman": "be", 
+            "norm_persian_4_roman": "be", 
+            "norm_persian_2_roman": "be", 
+            "orig_persian": "بهش", 
+            "norm_persian": "به", 
+            "sentence_id": 6005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "beš", 
+            "norm_persian_roman": "be", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6006": [
+        {
+            "norm_persian_3_roman": "ān", 
+            "norm_persian_4_roman": "ān", 
+            "norm_persian_2_roman": "ān", 
+            "orig_persian": "اون", 
+            "norm_persian": "آن", 
+            "sentence_id": 6006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awn", 
+            "norm_persian_roman": "ān", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6007": [
+        {
+            "norm_persian_3_roman": "xwrdn", 
+            "norm_persian_4_roman": "xwrdn", 
+            "norm_persian_2_roman": "xwrdn", 
+            "orig_persian": "میخورمت", 
+            "norm_persian": "خوردن", 
+            "sentence_id": 6007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myxwrmt", 
+            "norm_persian_roman": "xwrdn", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6008": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منی", 
+            "norm_persian": "من", 
+            "sentence_id": 6008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mny", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6009": [
+        {
+            "norm_persian_3_roman": "baystn", 
+            "norm_persian_4_roman": "baystn", 
+            "norm_persian_2_roman": "baystn", 
+            "orig_persian": "باید", 
+            "norm_persian": "بایستن", 
+            "sentence_id": 6009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bayd", 
+            "norm_persian_roman": "baystn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6010": [
+        {
+            "norm_persian_3_roman": "zdn", 
+            "norm_persian_4_roman": "zdn", 
+            "norm_persian_2_roman": "zdn", 
+            "orig_persian": "میزنه", 
+            "norm_persian": "زدن", 
+            "sentence_id": 6010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myzne", 
+            "norm_persian_roman": "zdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6011": [
+        {
+            "norm_persian_3_roman": "xwrdn", 
+            "norm_persian_4_roman": "xwrdn", 
+            "norm_persian_2_roman": "xwrdn", 
+            "orig_persian": "میخورمت", 
+            "norm_persian": "خوردن", 
+            "sentence_id": 6011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myxwrmt", 
+            "norm_persian_roman": "xwrdn", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6012": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "میاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 6012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6013": [
+        {
+            "norm_persian_3_roman": "bala", 
+            "norm_persian_4_roman": "bala", 
+            "norm_persian_2_roman": "bala", 
+            "orig_persian": "بالای", 
+            "norm_persian": "بالا", 
+            "sentence_id": 6013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "balay", 
+            "norm_persian_roman": "bala", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6014": [
+        {
+            "norm_persian_3_roman": "kar", 
+            "norm_persian_4_roman": "kar", 
+            "norm_persian_2_roman": "kar", 
+            "orig_persian": "کارت", 
+            "norm_persian": "کار", 
+            "sentence_id": 6014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kart", 
+            "norm_persian_roman": "kar", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6015": [
+        {
+            "norm_persian_3_roman": "açr", 
+            "norm_persian_4_roman": "açr", 
+            "norm_persian_2_roman": "açr", 
+            "orig_persian": "اثری", 
+            "norm_persian": "اثر", 
+            "sentence_id": 6015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "açry", 
+            "norm_persian_roman": "açr", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6016": [
+        {
+            "norm_persian_3_roman": "sr", 
+            "norm_persian_4_roman": "sr", 
+            "norm_persian_2_roman": "sr", 
+            "orig_persian": "سرش", 
+            "norm_persian": "سر", 
+            "sentence_id": 6016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "srš", 
+            "norm_persian_roman": "sr", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6017": [
+        {
+            "norm_persian_3_roman": "açr", 
+            "norm_persian_4_roman": "açr", 
+            "norm_persian_2_roman": "açr", 
+            "orig_persian": "اثری", 
+            "norm_persian": "اثر", 
+            "sentence_id": 6017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "açry", 
+            "norm_persian_roman": "açr", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "6018": [
+        {
+            "norm_persian_3_roman": "dl", 
+            "norm_persian_4_roman": "dl", 
+            "norm_persian_2_roman": "dl", 
+            "orig_persian": "دلم", 
+            "norm_persian": "دل", 
+            "sentence_id": 6018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dlm", 
+            "norm_persian_roman": "dl", 
+            "norm_persian_2": "من", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4001": [
+        {
+            "norm_persian_3_roman": "ba", 
+            "norm_persian_4_roman": "ba", 
+            "norm_persian_2_roman": "ba", 
+            "orig_persian": "با", 
+            "norm_persian": "با", 
+            "sentence_id": 4001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ba", 
+            "norm_persian_roman": "ba", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4002": [
+        {
+            "norm_persian_3_roman": "maman", 
+            "norm_persian_4_roman": "maman", 
+            "norm_persian_2_roman": "maman", 
+            "orig_persian": "مامانش", 
+            "norm_persian": "مامان", 
+            "sentence_id": 4002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mamanš", 
+            "norm_persian_roman": "maman", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4003": [
+        {
+            "norm_persian_3_roman": "wŕt", 
+            "norm_persian_4_roman": "wŕt", 
+            "norm_persian_2_roman": "wŕt", 
+            "orig_persian": "وقتیکه", 
+            "norm_persian": "وقت", 
+            "sentence_id": 4003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "wŕtyke", 
+            "norm_persian_roman": "wŕt", 
+            "norm_persian_2": "که", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4004": [
+        {
+            "norm_persian_3_roman": "madr", 
+            "norm_persian_4_roman": "madr", 
+            "norm_persian_2_roman": "madr", 
+            "orig_persian": "مادرتام", 
+            "norm_persian": "مادر", 
+            "sentence_id": 4004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "madrtam", 
+            "norm_persian_roman": "madr", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": "بودن"
+        }
+    ], 
+    "4005": [
+        {
+            "norm_persian_3_roman": "sfyd", 
+            "norm_persian_4_roman": "sfyd", 
+            "norm_persian_2_roman": "sfyd", 
+            "orig_persian": "سفیده", 
+            "norm_persian": "سفید", 
+            "sentence_id": 4005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "sfyde", 
+            "norm_persian_roman": "sfyd", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4006": [
+        {
+            "norm_persian_3_roman": "xrydn", 
+            "norm_persian_4_roman": "xrydn", 
+            "norm_persian_2_roman": "xrydn", 
+            "orig_persian": "میخره", 
+            "norm_persian": "خریدن", 
+            "sentence_id": 4006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myxre", 
+            "norm_persian_roman": "xrydn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4007": [
+        {
+            "norm_persian_3_roman": "xwd", 
+            "norm_persian_4_roman": "xwd", 
+            "norm_persian_2_roman": "xwd", 
+            "orig_persian": "خودش", 
+            "norm_persian": "خود", 
+            "sentence_id": 4007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwdš", 
+            "norm_persian_roman": "xwd", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4008": [
+        {
+            "norm_persian_3_roman": "maman", 
+            "norm_persian_4_roman": "maman", 
+            "norm_persian_2_roman": "maman", 
+            "orig_persian": "مامان تام", 
+            "norm_persian": "مامان", 
+            "sentence_id": 4008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "maman tam", 
+            "norm_persian_roman": "maman", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": "بودن"
+        }
+    ], 
+    "4009": [
+        {
+            "norm_persian_3_roman": "baz", 
+            "norm_persian_4_roman": "baz", 
+            "norm_persian_2_roman": "baz", 
+            "orig_persian": "بازم", 
+            "norm_persian": "باز", 
+            "sentence_id": 4009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bazm", 
+            "norm_persian_roman": "baz", 
+            "norm_persian_2": "هم", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4010": [
+        {
+            "norm_persian_3_roman": "syae", 
+            "norm_persian_4_roman": "syae", 
+            "norm_persian_2_roman": "syae", 
+            "orig_persian": "سیاست", 
+            "norm_persian": "سیاه", 
+            "sentence_id": 4010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "syast", 
+            "norm_persian_roman": "syae", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4011": [
+        {
+            "norm_persian_3_roman": "ŕşe", 
+            "norm_persian_4_roman": "ŕşe", 
+            "norm_persian_2_roman": "ŕşe", 
+            "orig_persian": "قصه اش", 
+            "norm_persian": "قصه", 
+            "sentence_id": 4011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ŕşe aš", 
+            "norm_persian_roman": "ŕşe", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4012": [
+        {
+            "norm_persian_3_roman": "bwdn", 
+            "norm_persian_4_roman": "bwdn", 
+            "norm_persian_2_roman": "bwdn", 
+            "orig_persian": "است", 
+            "norm_persian": "بودن", 
+            "sentence_id": 4012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ast", 
+            "norm_persian_roman": "bwdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4013": [
+        {
+            "norm_persian_3_roman": "xwd", 
+            "norm_persian_4_roman": "xwd", 
+            "norm_persian_2_roman": "xwd", 
+            "orig_persian": "خودش", 
+            "norm_persian": "خود", 
+            "sentence_id": 4013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwdš", 
+            "norm_persian_roman": "xwd", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4014": [
+        {
+            "norm_persian_3_roman": "maman", 
+            "norm_persian_4_roman": "maman", 
+            "norm_persian_2_roman": "maman", 
+            "orig_persian": "مامان تام", 
+            "norm_persian": "مامان", 
+            "sentence_id": 4014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "maman tam", 
+            "norm_persian_roman": "maman", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": "بودن"
+        }
+    ], 
+    "4015": [
+        {
+            "norm_persian_3_roman": "bwdn", 
+            "norm_persian_4_roman": "bwdn", 
+            "norm_persian_2_roman": "bwdn", 
+            "orig_persian": "نیستی", 
+            "norm_persian": "بودن", 
+            "sentence_id": 4015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "nysty", 
+            "norm_persian_roman": "bwdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4016": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "میاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 4016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4017": [
+        {
+            "norm_persian_3_roman": "maman", 
+            "norm_persian_4_roman": "maman", 
+            "norm_persian_2_roman": "maman", 
+            "orig_persian": "مامانش", 
+            "norm_persian": "مامان", 
+            "sentence_id": 4017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mamanš", 
+            "norm_persian_roman": "maman", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4018": [
+        {
+            "norm_persian_3_roman": "maman", 
+            "norm_persian_4_roman": "maman", 
+            "norm_persian_2_roman": "maman", 
+            "orig_persian": "مامانش", 
+            "norm_persian": "مامان", 
+            "sentence_id": 4018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mamanš", 
+            "norm_persian_roman": "maman", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4019": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومده", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 4019, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmde", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4020": [
+        {
+            "norm_persian_3_roman": "pšt", 
+            "norm_persian_4_roman": "pšt", 
+            "norm_persian_2_roman": "pšt", 
+            "orig_persian": "پشتبوم", 
+            "norm_persian": "پشت", 
+            "sentence_id": 4020, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pštbwm", 
+            "norm_persian_roman": "pšt", 
+            "norm_persian_2": "بام", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4021": [
+        {
+            "norm_persian_3_roman": "zdn", 
+            "norm_persian_4_roman": "zdn", 
+            "norm_persian_2_roman": "zdn", 
+            "orig_persian": "میزنه", 
+            "norm_persian": "زدن", 
+            "sentence_id": 4021, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myzne", 
+            "norm_persian_roman": "zdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4022": [
+        {
+            "norm_persian_3_roman": "ky", 
+            "norm_persian_4_roman": "ky", 
+            "norm_persian_2_roman": "ky", 
+            "orig_persian": "کیه", 
+            "norm_persian": "کی", 
+            "sentence_id": 4022, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kye", 
+            "norm_persian_roman": "ky", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4023": [
+        {
+            "norm_persian_3_roman": "bz", 
+            "norm_persian_4_roman": "bz", 
+            "norm_persian_2_roman": "bz", 
+            "orig_persian": "بزبزا", 
+            "norm_persian": "بز", 
+            "sentence_id": 4023, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bzbza", 
+            "norm_persian_roman": "bz", 
+            "norm_persian_2": "بز", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4024": [
+        {
+            "norm_persian_3_roman": "alle", 
+            "norm_persian_4_roman": "alle", 
+            "norm_persian_2_roman": "alle", 
+            "orig_persian": "الله", 
+            "norm_persian": "الله", 
+            "sentence_id": 4024, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "alle", 
+            "norm_persian_roman": "alle", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4025": [
+        {
+            "norm_persian_3_roman": "pšt", 
+            "norm_persian_4_roman": "pšt", 
+            "norm_persian_2_roman": "pšt", 
+            "orig_persian": "پشتبوم", 
+            "norm_persian": "پشت", 
+            "sentence_id": 4025, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pštbwm", 
+            "norm_persian_roman": "pšt", 
+            "norm_persian_2": "بام", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4026": [
+        {
+            "norm_persian_3_roman": "pšt", 
+            "norm_persian_4_roman": "pšt", 
+            "norm_persian_2_roman": "pšt", 
+            "orig_persian": "پشتبومشنو", 
+            "norm_persian": "پشت", 
+            "sentence_id": 4026, 
+            "norm_persian_4": "را", 
+            "orig_persian_roman": "pštbwmšnw", 
+            "norm_persian_roman": "pšt", 
+            "norm_persian_2": "بام", 
+            "norm_persian_3": "آنها"
+        }
+    ], 
+    "4027": [
+        {
+            "norm_persian_3_roman": "ky", 
+            "norm_persian_4_roman": "ky", 
+            "norm_persian_2_roman": "ky", 
+            "orig_persian": "کیه", 
+            "norm_persian": "کی", 
+            "sentence_id": 4027, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kye", 
+            "norm_persian_roman": "ky", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4028": [
+        {
+            "norm_persian_3_roman": "bz", 
+            "norm_persian_4_roman": "bz", 
+            "norm_persian_2_roman": "bz", 
+            "orig_persian": "بزبزا", 
+            "norm_persian": "بز", 
+            "sentence_id": 4028, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bzbza", 
+            "norm_persian_roman": "bz", 
+            "norm_persian_2": "بز", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4029": [
+        {
+            "norm_persian_3_roman": "alle", 
+            "norm_persian_4_roman": "alle", 
+            "norm_persian_2_roman": "alle", 
+            "orig_persian": "الله", 
+            "norm_persian": "الله", 
+            "sentence_id": 4029, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "alle", 
+            "norm_persian_roman": "alle", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4030": [
+        {
+            "norm_persian_3_roman": "ja", 
+            "norm_persian_4_roman": "ja", 
+            "norm_persian_2_roman": "ja", 
+            "orig_persian": "جا", 
+            "norm_persian": "جا", 
+            "sentence_id": 4030, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ja", 
+            "norm_persian_roman": "ja", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4031": [
+        {
+            "norm_persian_3_roman": "āb", 
+            "norm_persian_4_roman": "āb", 
+            "norm_persian_2_roman": "āb", 
+            "orig_persian": "آب", 
+            "norm_persian": "آب", 
+            "sentence_id": 4031, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āb", 
+            "norm_persian_roman": "āb", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4032": [
+        {
+            "norm_persian_3_roman": "āb", 
+            "norm_persian_4_roman": "āb", 
+            "norm_persian_2_roman": "āb", 
+            "orig_persian": "آب", 
+            "norm_persian": "آب", 
+            "sentence_id": 4032, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "āb", 
+            "norm_persian_roman": "āb", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4033": [
+        {
+            "norm_persian_3_roman": "lb1", 
+            "norm_persian_4_roman": "lb1", 
+            "norm_persian_2_roman": "lb1", 
+            "orig_persian": "لباش", 
+            "norm_persian": "لب1", 
+            "sentence_id": 4033, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "lbaš", 
+            "norm_persian_roman": "lb1", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": "او"
+        }
+    ], 
+    "4034": [
+        {
+            "norm_persian_3_roman": "lb1", 
+            "norm_persian_4_roman": "lb1", 
+            "norm_persian_2_roman": "lb1", 
+            "orig_persian": "لباش", 
+            "norm_persian": "لب1", 
+            "sentence_id": 4034, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "lbaš", 
+            "norm_persian_roman": "lb1", 
+            "norm_persian_2": "ها", 
+            "norm_persian_3": "او"
+        }
+    ], 
+    "4035": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "میانو", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 4035, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myanw", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "و", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4036": [
+        {
+            "norm_persian_3_roman": "aystadn", 
+            "norm_persian_4_roman": "aystadn", 
+            "norm_persian_2_roman": "aystadn", 
+            "orig_persian": "میسته", 
+            "norm_persian": "ایستادن", 
+            "sentence_id": 4036, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myste", 
+            "norm_persian_roman": "aystadn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4037": [
+        {
+            "norm_persian_3_roman": "šax", 
+            "norm_persian_4_roman": "šax", 
+            "norm_persian_2_roman": "šax", 
+            "orig_persian": "شاخش", 
+            "norm_persian": "شاخ", 
+            "sentence_id": 4037, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "šaxš", 
+            "norm_persian_roman": "šax", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4038": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "میان", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 4038, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "myan", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4039": [
+        {
+            "norm_persian_3_roman": "ān", 
+            "norm_persian_4_roman": "ān", 
+            "norm_persian_2_roman": "ān", 
+            "orig_persian": "اون", 
+            "norm_persian": "آن", 
+            "sentence_id": 4039, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awn", 
+            "norm_persian_roman": "ān", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4040": [
+        {
+            "norm_persian_3_roman": "tmam", 
+            "norm_persian_4_roman": "tmam", 
+            "norm_persian_2_roman": "tmam", 
+            "orig_persian": "تمام", 
+            "norm_persian": "تمام", 
+            "sentence_id": 4040, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "tmam", 
+            "norm_persian_roman": "tmam", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4041": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونه اش", 
+            "norm_persian": "خانه", 
+            "sentence_id": 4041, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwne aš", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "4042": [
+        {
+            "norm_persian_3_roman": "pa", 
+            "norm_persian_4_roman": "pa", 
+            "norm_persian_2_roman": "pa", 
+            "orig_persian": "پاشو", 
+            "norm_persian": "پا", 
+            "sentence_id": 4042, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pašw", 
+            "norm_persian_roman": "pa", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": "را"
+        }
+    ], 
+    "2001": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 2001, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2002": [
+        {
+            "norm_persian_3_roman": "bče", 
+            "norm_persian_4_roman": "bče", 
+            "norm_persian_2_roman": "bče", 
+            "orig_persian": "بچه", 
+            "norm_persian": "بچه", 
+            "sentence_id": 2002, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bče", 
+            "norm_persian_roman": "bče", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2003": [
+        {
+            "norm_persian_3_roman": "asm", 
+            "norm_persian_4_roman": "asm", 
+            "norm_persian_2_roman": "asm", 
+            "orig_persian": "اسمش", 
+            "norm_persian": "اسم", 
+            "sentence_id": 2003, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "asmš", 
+            "norm_persian_roman": "asm", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2004": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونش", 
+            "norm_persian": "خانه", 
+            "sentence_id": 2004, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnš", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2005": [
+        {
+            "norm_persian_3_roman": "bče", 
+            "norm_persian_4_roman": "bče", 
+            "norm_persian_2_roman": "bče", 
+            "orig_persian": "بچهاش", 
+            "norm_persian": "بچه", 
+            "sentence_id": 2005, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "bčeaš", 
+            "norm_persian_roman": "bče", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2006": [
+        {
+            "norm_persian_3_roman": "tw", 
+            "norm_persian_4_roman": "tw", 
+            "norm_persian_2_roman": "tw", 
+            "orig_persian": "تونم", 
+            "norm_persian": "تو", 
+            "sentence_id": 2006, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "twnm", 
+            "norm_persian_roman": "tw", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2007": [
+        {
+            "norm_persian_3_roman": "tw", 
+            "norm_persian_4_roman": "tw", 
+            "norm_persian_2_roman": "tw", 
+            "orig_persian": "تونم", 
+            "norm_persian": "تو", 
+            "sentence_id": 2007, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "twnm", 
+            "norm_persian_roman": "tw", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2008": [
+        {
+            "norm_persian_3_roman": "ħnayy", 
+            "norm_persian_4_roman": "ħnayy", 
+            "norm_persian_2_roman": "ħnayy", 
+            "orig_persian": "حنائیه", 
+            "norm_persian": "حنایی", 
+            "sentence_id": 2008, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ħna´ye", 
+            "norm_persian_roman": "ħnayy", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2009": [
+        {
+            "norm_persian_3_roman": "rftn", 
+            "norm_persian_4_roman": "rftn", 
+            "norm_persian_2_roman": "rftn", 
+            "orig_persian": "رفت", 
+            "norm_persian": "رفتن", 
+            "sentence_id": 2009, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "rft", 
+            "norm_persian_roman": "rftn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2010": [
+        {
+            "norm_persian_3_roman": "rftn", 
+            "norm_persian_4_roman": "rftn", 
+            "norm_persian_2_roman": "rftn", 
+            "orig_persian": "رفتنش", 
+            "norm_persian": "رفتن", 
+            "sentence_id": 2010, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "rftnš", 
+            "norm_persian_roman": "rftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2011": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 2011, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2012": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومدند", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 2012, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmdnd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2013": [
+        {
+            "norm_persian_3_roman": "če", 
+            "norm_persian_4_roman": "če", 
+            "norm_persian_2_roman": "če", 
+            "orig_persian": "چجوریه", 
+            "norm_persian": "چه", 
+            "sentence_id": 2013, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "čjwrye", 
+            "norm_persian_roman": "če", 
+            "norm_persian_2": "جوری", 
+            "norm_persian_3": "بودن"
+        }
+    ], 
+    "2014": [
+        {
+            "norm_persian_3_roman": "če", 
+            "norm_persian_4_roman": "če", 
+            "norm_persian_2_roman": "če", 
+            "orig_persian": "چجوریه", 
+            "norm_persian": "چه", 
+            "sentence_id": 2014, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "čjwrye", 
+            "norm_persian_roman": "če", 
+            "norm_persian_2": "جوری", 
+            "norm_persian_3": "بودن"
+        }
+    ], 
+    "2015": [
+        {
+            "norm_persian_3_roman": "maman", 
+            "norm_persian_4_roman": "maman", 
+            "norm_persian_2_roman": "maman", 
+            "orig_persian": "مامانشون", 
+            "norm_persian": "مامان", 
+            "sentence_id": 2015, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mamanšwn", 
+            "norm_persian_roman": "maman", 
+            "norm_persian_2": "آنها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2016": [
+        {
+            "norm_persian_3_roman": "dst", 
+            "norm_persian_4_roman": "dst", 
+            "norm_persian_2_roman": "dst", 
+            "orig_persian": "دستاش", 
+            "norm_persian": "دست", 
+            "sentence_id": 2016, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dstaš", 
+            "norm_persian_roman": "dst", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2017": [
+        {
+            "norm_persian_3_roman": "az", 
+            "norm_persian_4_roman": "az", 
+            "norm_persian_2_roman": "az", 
+            "orig_persian": "از", 
+            "norm_persian": "از", 
+            "sentence_id": 2017, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "az", 
+            "norm_persian_roman": "az", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2018": [
+        {
+            "norm_persian_3_roman": "baz", 
+            "norm_persian_4_roman": "baz", 
+            "norm_persian_2_roman": "baz", 
+            "orig_persian": "باز", 
+            "norm_persian": "باز", 
+            "sentence_id": 2018, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "baz", 
+            "norm_persian_roman": "baz", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2019": [
+        {
+            "norm_persian_3_roman": "ħnayy", 
+            "norm_persian_4_roman": "ħnayy", 
+            "norm_persian_2_roman": "ħnayy", 
+            "orig_persian": "حنائیه", 
+            "norm_persian": "حنایی", 
+            "sentence_id": 2019, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ħna´ye", 
+            "norm_persian_roman": "ħnayy", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2020": [
+        {
+            "norm_persian_3_roman": "pa", 
+            "norm_persian_4_roman": "pa", 
+            "norm_persian_2_roman": "pa", 
+            "orig_persian": "پات", 
+            "norm_persian": "پا", 
+            "sentence_id": 2020, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pat", 
+            "norm_persian_roman": "pa", 
+            "norm_persian_2": "تو", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2021": [
+        {
+            "norm_persian_3_roman": "pa", 
+            "norm_persian_4_roman": "pa", 
+            "norm_persian_2_roman": "pa", 
+            "orig_persian": "پاش", 
+            "norm_persian": "پا", 
+            "sentence_id": 2021, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "paš", 
+            "norm_persian_roman": "pa", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2022": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونشو", 
+            "norm_persian": "خانه", 
+            "sentence_id": 2022, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnšw", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2023": [
+        {
+            "norm_persian_3_roman": "xane", 
+            "norm_persian_4_roman": "xane", 
+            "norm_persian_2_roman": "xane", 
+            "orig_persian": "خونشون", 
+            "norm_persian": "خانه", 
+            "sentence_id": 2023, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwnšwn", 
+            "norm_persian_roman": "xane", 
+            "norm_persian_2": "آنها", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2024": [
+        {
+            "norm_persian_3_roman": "baz", 
+            "norm_persian_4_roman": "baz", 
+            "norm_persian_2_roman": "baz", 
+            "orig_persian": "واگذاشتن", 
+            "norm_persian": "باز", 
+            "sentence_id": 2024, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "wagđaštn", 
+            "norm_persian_roman": "baz", 
+            "norm_persian_2": "گذاشتن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2025": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 2025, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2026": [
+        {
+            "norm_persian_3_roman": "baz", 
+            "norm_persian_4_roman": "baz", 
+            "norm_persian_2_roman": "baz", 
+            "orig_persian": "باز", 
+            "norm_persian": "باز", 
+            "sentence_id": 2026, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "baz", 
+            "norm_persian_roman": "baz", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2027": [
+        {
+            "norm_persian_3_roman": "maman", 
+            "norm_persian_4_roman": "maman", 
+            "norm_persian_2_roman": "maman", 
+            "orig_persian": "مامانتون", 
+            "norm_persian": "مامان", 
+            "sentence_id": 2027, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mamantwn", 
+            "norm_persian_roman": "maman", 
+            "norm_persian_2": "شما", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2028": [
+        {
+            "norm_persian_3_roman": "ħbeangwr", 
+            "norm_persian_4_roman": "ħbeangwr", 
+            "norm_persian_2_roman": "ħbeangwr", 
+            "orig_persian": "حبه انگورم", 
+            "norm_persian": "حبهانگور", 
+            "sentence_id": 2028, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ħbe angwrm", 
+            "norm_persian_roman": "ħbeangwr", 
+            "norm_persian_2": "من", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2029": [
+        {
+            "norm_persian_3_roman": "emyn", 
+            "norm_persian_4_roman": "emyn", 
+            "norm_persian_2_roman": "emyn", 
+            "orig_persian": "همینجور", 
+            "norm_persian": "همین", 
+            "sentence_id": 2029, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "emynjwr", 
+            "norm_persian_roman": "emyn", 
+            "norm_persian_2": "جور", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2030": [
+        {
+            "norm_persian_3_roman": "dw", 
+            "norm_persian_4_roman": "dw", 
+            "norm_persian_2_roman": "dw", 
+            "orig_persian": "دو", 
+            "norm_persian": "دو", 
+            "sentence_id": 2030, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "dw", 
+            "norm_persian_roman": "dw", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2031": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 2031, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2032": [
+        {
+            "norm_persian_3_roman": "pa", 
+            "norm_persian_4_roman": "pa", 
+            "norm_persian_2_roman": "pa", 
+            "orig_persian": "پاشو", 
+            "norm_persian": "پا", 
+            "sentence_id": 2032, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "pašw", 
+            "norm_persian_roman": "pa", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2033": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "اومد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 2033, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "awmd", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2034": [
+        {
+            "norm_persian_3_roman": "baz", 
+            "norm_persian_4_roman": "baz", 
+            "norm_persian_2_roman": "baz", 
+            "orig_persian": "باز", 
+            "norm_persian": "باز", 
+            "sentence_id": 2034, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "baz", 
+            "norm_persian_roman": "baz", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2035": [
+        {
+            "norm_persian_3_roman": "xwd", 
+            "norm_persian_4_roman": "xwd", 
+            "norm_persian_2_roman": "xwd", 
+            "orig_persian": "خودش", 
+            "norm_persian": "خود", 
+            "sentence_id": 2035, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "xwdš", 
+            "norm_persian_roman": "xwd", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2036": [
+        {
+            "norm_persian_3_roman": "pa", 
+            "norm_persian_4_roman": "pa", 
+            "norm_persian_2_roman": "pa", 
+            "orig_persian": "پاش", 
+            "norm_persian": "پا", 
+            "sentence_id": 2036, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "paš", 
+            "norm_persian_roman": "pa", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2037": [
+        {
+            "norm_persian_3_roman": "ky", 
+            "norm_persian_4_roman": "ky", 
+            "norm_persian_2_roman": "ky", 
+            "orig_persian": "کیه", 
+            "norm_persian": "کی", 
+            "sentence_id": 2037, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kye", 
+            "norm_persian_roman": "ky", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2038": [
+        {
+            "norm_persian_3_roman": "tptp", 
+            "norm_persian_4_roman": "tptp", 
+            "norm_persian_2_roman": "tptp", 
+            "orig_persian": "تاپتاپ", 
+            "norm_persian": "تپتپ", 
+            "sentence_id": 2038, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "taptap", 
+            "norm_persian_roman": "tptp", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2039": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 2039, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2040": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منم", 
+            "norm_persian": "من", 
+            "sentence_id": 2040, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnm", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2041": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "بیاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 2041, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "byad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2042": [
+        {
+            "norm_persian_3_roman": "gftn", 
+            "norm_persian_4_roman": "gftn", 
+            "norm_persian_2_roman": "gftn", 
+            "orig_persian": "گفتش", 
+            "norm_persian": "گفتن", 
+            "sentence_id": 2042, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "gftš", 
+            "norm_persian_roman": "gftn", 
+            "norm_persian_2": "او", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2043": [
+        {
+            "norm_persian_3_roman": "ayn", 
+            "norm_persian_4_roman": "ayn", 
+            "norm_persian_2_roman": "ayn", 
+            "orig_persian": "این", 
+            "norm_persian": "این", 
+            "sentence_id": 2043, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "ayn", 
+            "norm_persian_roman": "ayn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2044": [
+        {
+            "norm_persian_3_roman": "ky", 
+            "norm_persian_4_roman": "ky", 
+            "norm_persian_2_roman": "ky", 
+            "orig_persian": "کیه", 
+            "norm_persian": "کی", 
+            "sentence_id": 2044, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "kye", 
+            "norm_persian_roman": "ky", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2045": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منو", 
+            "norm_persian": "من", 
+            "sentence_id": 2045, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnw", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "را", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2046": [
+        {
+            "norm_persian_3_roman": "mn", 
+            "norm_persian_4_roman": "mn", 
+            "norm_persian_2_roman": "mn", 
+            "orig_persian": "منم", 
+            "norm_persian": "من", 
+            "sentence_id": 2046, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "mnm", 
+            "norm_persian_roman": "mn", 
+            "norm_persian_2": "بودن", 
+            "norm_persian_3": ""
+        }
+    ], 
+    "2047": [
+        {
+            "norm_persian_3_roman": "āmdn", 
+            "norm_persian_4_roman": "āmdn", 
+            "norm_persian_2_roman": "āmdn", 
+            "orig_persian": "بیاد", 
+            "norm_persian": "آمدن", 
+            "sentence_id": 2047, 
+            "norm_persian_4": "", 
+            "orig_persian_roman": "byad", 
+            "norm_persian_roman": "āmdn", 
+            "norm_persian_2": "", 
+            "norm_persian_3": ""
+        }
+    ]
+}
