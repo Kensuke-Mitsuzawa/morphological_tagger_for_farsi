@@ -57,8 +57,8 @@ def load_lex_file(f, after_inf_dictionary):
 def main():
     dir_path='./trunk';
     after_inf_dictionary={};
-    lex_files=get_files(dir_path);
-    #lex_files=['./trunk/V.lex', './trunk/N.lex', './trunk/ADJ.lex', './trunk/ADV.lex', './trunk/P.lex', './trunk/NP.lex'];
+    #lex_files=get_files(dir_path);
+    lex_files=['./trunk/V.lex', './trunk/N.lex', './trunk/ADJ.lex', './trunk/ADV.lex'];
     for f in lex_files:
         after_inf_dictionary=load_lex_file(f, after_inf_dictionary);
     with open('lex_json', 'w') as f:

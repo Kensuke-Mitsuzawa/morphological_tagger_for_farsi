@@ -15,23 +15,30 @@ def do_tag(after_inf_dictionary, corpus):
     for sentence_data in corpus:
         tags=[];
         stems=[];
+        pos_tags=[];
         tokens=sentence_data['tokens'];
         for token in tokens:
             tag=[];
             stem=[];
+            pos_perlex=[];
             if token in after_inf_dictionary:
                 for items in after_inf_dictionary[token]:
+                    pos_perlex.append(items[1]); 
                     stem.append(items[2]);
                     tag.append(items[3]);
             else:
                 tag.append(None);
                 stem.append(None);
-            
+                pos_perlex.append(None); 
+
             tags.append(tag);
             stems.append(stem); 
-            
+            pos_tags.append(pos_perlex);
+
         sentence_data.setdefault('morph_tag', tags);
         sentence_data.setdefault('stem', stems);
+        sentence_data.setdefault('pos_perlex', pos_tags);
+
         new_corpus.append(sentence_data);
     return new_corpus;
 
