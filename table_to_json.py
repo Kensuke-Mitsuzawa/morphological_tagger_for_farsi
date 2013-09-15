@@ -33,6 +33,7 @@ with codecs.open('./new_corpus_data/folklore_goftari_converting_table.tsv',
             mean_persian_2=items[6];
             mean_persian_3=items[8];
             mean_persian_4=items[10];
+            mean_persian_4=mean_persian_4.strip(u'\n');
              
             one_column_map.setdefault('sentence_id' ,sentence_id);
             one_column_map.setdefault('orig_persian', orig_persian);
@@ -43,9 +44,14 @@ with codecs.open('./new_corpus_data/folklore_goftari_converting_table.tsv',
             
             one_column_map.setdefault('orig_persian_roman', orig_persian_roman);
             one_column_map.setdefault('norm_persian_roman', norm_persian_roman);
-            one_column_map.setdefault('norm_persian_2_roman', norm_persian_roman);
-            one_column_map.setdefault('norm_persian_3_roman', norm_persian_roman);
-            one_column_map.setdefault('norm_persian_4_roman', norm_persian_roman);
+            one_column_map.setdefault('norm_persian_2_roman', norm_persian_2_roman);
+            one_column_map.setdefault('norm_persian_3_roman', norm_persian_3_roman);
+            one_column_map.setdefault('norm_persian_4_roman', norm_persian_4_roman);
+
+            one_column_map.setdefault('mean_persian', mean_persian);
+            one_column_map.setdefault('mean_persian_2', mean_persian_2);
+            one_column_map.setdefault('mean_persian_3', mean_persian_3);
+            one_column_map.setdefault('mean_persian_4', mean_persian_4);
 
             one_column_map_list.append(one_column_map);
            
