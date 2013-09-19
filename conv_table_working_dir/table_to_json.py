@@ -13,12 +13,12 @@ with codecs.open('../lex_json', 'r', 'utf-8') as f:
     lex_map=json.load(f);
 
 table_map={};
-with codecs.open('./new_corpus_data/folklore_goftari_converting_table.tsv',
+with codecs.open('../new_corpus_data/folklore_goftari_converting_table.tsv',
                  'r',
                  'utf-8') as input_lines:
     for i, line in enumerate(input_lines):
         one_column_map={};
-        one_column_map_list=[];
+        #one_column_map_list=[];
 
         if i==0:
             pass
@@ -72,9 +72,12 @@ with codecs.open('./new_corpus_data/folklore_goftari_converting_table.tsv',
 
             one_column_map.setdefault('lex_information', lex_tags);
 
-            one_column_map_list.append(one_column_map);
-           
-            table_map.setdefault(sentence_id, one_column_map_list);
+            #one_column_map_list.append(one_column_map);
+          
+            if sentence_id in table_map:
+                table_map[sentence_id].append(one_column_map) 
+            else:
+                table_map.setdefault(sentence_id, [one_column_map]);
 
 with codecs.open('table_json', 'w', 'utf-8') as table_map_json:
     json.dump(table_map, table_map_json, indent=4, ensure_ascii=False);

@@ -10,6 +10,7 @@ import sys, codecs, json, re;
 
 with codecs.open('./table_json', 'r', 'utf-8') as f:
     table_map=json.load(f);
+print len(table_map)
 
 with codecs.open('../lex_json', 'r', 'utf-8') as f:
     lex_map=json.load(f);
@@ -41,9 +42,12 @@ for item in tsv_cahce:
     out_format=u'\t'.join(format_cache);
     tsv_f.write(out_format+u'\n');
 
-tsv_no_need=codecs.open('no_need_work', 'w', 'utf-8');
+tsv_no_need=codecs.open('no_need_work.tsv', 'w', 'utf-8');
 for item in one_tag_cache:
-
+    format_cache=[];
+    normalized_surface_word=u'';
+   
+    #-------------------------------------------------
     if re.findall(ur'Fam', item[u'lex_information'][0][-1]):
         lex_tag=item[u'lex_information'][0][-1].replace(u'Fam', u'');
         if re.findall(ur'3sgPreInd',lex_tag):
@@ -51,13 +55,40 @@ for item in one_tag_cache:
         
         lex_stem=item[u'lex_information'][0][1];
         lex_pos=item[u'lex_information'][0][0];
-        lex_information_tuple=(lex_pos, lex_stem, lex_stem);
 
         for k in lex_map:
-            for item in lex_map[k]:
-                if item[1]==lex_pos and\
-                   item[2]==lex_stem and\
-                   item[3]==lex_tag:
-                    print item;
+            for lex_item in lex_map[k]:
+                if lex_item[1]==lex_pos and\
+                   lex_item[2]==lex_stem and\
+                   lex_item[3]==lex_tag:
+                    normalized_surface_word=lex_item[0];
 
-                    #とりあえず，この段階で口語から，文語体の表層形（形態素は同じ）が得られている．なので，次は，ファイルに書き出す時にどうするか？の問題
+        format_cache.append(str(item['sentence_id']));
+        format_cache.append(item['orig_persian_roman']);
+        format_cache.append(normalized_surface_word);
+        format_cache.append(item['mean_persian']);
+        format_cache.append(item['norm_persian_2_roman']);
+        format_cache.append(item['mean_persian_2']);
+        format_cache.append(item['norm_persian_3_roman']);
+        format_cache.append(item['mean_persian_3']);
+        format_cache.append(item['norm_persian_4_roman']);
+        format_cache.append(item['mean_persian_4']);
+        out_format=u'\t'.join(format_cache);
+        tsv_no_need.write(out_format+u'\n');
+    #-------------------------------------------------
+    #タグがついた，ということは語彙辞書の中に，見出し語が存在していることを意味するので，「手を加える必要なし」に加える
+    else:
+        format_cache.append(str(item['sentence_id']));
+        format_cache.append(item['orig_persian_roman']);
+        format_cache.append(item['norm_persian_roman']);
+        format_cache.append(item['mean_persian']);
+        format_cache.append(item['norm_persian_2_roman']);
+        format_cache.append(item['mean_persian_2']);
+        format_cache.append(item['norm_persian_3_roman']);
+        format_cache.append(item['mean_persian_3']);
+        format_cache.append(item['norm_persian_4_roman']);
+        format_cache.append(item['mean_persian_4']);
+        out_format=u'\t'.join(format_cache);
+        tsv_no_need.write(out_format+u'\n');
+
+
