@@ -5,11 +5,11 @@ __author__='Kensuke Mitsuzawa'
 __date__='2013/09/19'
 
 import codecs, sys, re, json;
-sys.path.insert(0, './Python_virastar');
+sys.path.insert(0, '../Python_virastar');
 from translitr import transliter 
 
 #lex_jsonの読み込み
-with codecs.open('./lex_json', 'r', 'utf-8') as f:
+with codecs.open('../lex_json', 'r', 'utf-8') as f:
     lex_map=json.load(f);
 
 table_map={};
