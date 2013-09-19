@@ -1,8 +1,16 @@
 #! /usr/bin/python
 #-*- coding:utf-8 -*-
+
+__author__='Kensuke Mitsuzawa'
+__date__='2013/09/19'
+
 import codecs, sys, re, json;
 sys.path.insert(0, './Python_virastar');
 from translitr import transliter 
+
+#lex_jsonの読み込み
+with codecs.open('./lex_json', 'r', 'utf-8') as f:
+    lex_map=json.load(f);
 
 table_map={};
 with codecs.open('./new_corpus_data/folklore_goftari_converting_table.tsv',
@@ -34,7 +42,16 @@ with codecs.open('./new_corpus_data/folklore_goftari_converting_table.tsv',
             mean_persian_3=items[8];
             mean_persian_4=items[10];
             mean_persian_4=mean_persian_4.strip(u'\n');
-             
+
+            lex_tags=[];
+            if orig_persian_roman in lex_map:
+                for one_entity in lex_map[orig_persian_roman]:
+                    lex_tag=one_entity[3];
+                    lex_pos=one_entity[1];
+                    lex_stem=one_entity[2];
+                    lex_tuple=(lex_pos, lex_stem, lex_tag);
+                    lex_tags.append(lex_tuple);
+
             one_column_map.setdefault('sentence_id' ,sentence_id);
             one_column_map.setdefault('orig_persian', orig_persian);
             one_column_map.setdefault('norm_persian', norm_persian);
@@ -52,6 +69,8 @@ with codecs.open('./new_corpus_data/folklore_goftari_converting_table.tsv',
             one_column_map.setdefault('mean_persian_2', mean_persian_2);
             one_column_map.setdefault('mean_persian_3', mean_persian_3);
             one_column_map.setdefault('mean_persian_4', mean_persian_4);
+
+            one_column_map.setdefault('lex_information', lex_tags);
 
             one_column_map_list.append(one_column_map);
            

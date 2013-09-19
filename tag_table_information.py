@@ -1,7 +1,7 @@
 #! /user/bin/python
 #-*- coding:utf-8 -*-
 __author__='Kensuke Mitsuzawa';
-__date__='2013/09/15';
+__date__='2013/09/19';
 
 import json, codecs, sys, subprocess;
 

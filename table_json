@@ -4,6 +4,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -23,6 +24,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "em", 
+            "lex_information": [], 
             "orig_persian": "فردام", 
             "norm_persian": "فردا", 
             "mean_persian_4": "", 
@@ -42,6 +44,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خودش", 
             "norm_persian": "خود", 
             "mean_persian_4": "", 
@@ -61,6 +64,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "زندگیشم", 
             "norm_persian": "زندگی", 
             "mean_persian_4": "", 
@@ -80,6 +84,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -99,6 +104,23 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "brdn_____1", 
+                    "3sgPreparfFam"
+                ], 
+                [
+                    "V", 
+                    "brdn_____1", 
+                    "partPas"
+                ], 
+                [
+                    "N", 
+                    "brde_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "برده", 
             "norm_persian": "بردن", 
             "mean_persian_4": "", 
@@ -118,6 +140,7 @@
             "norm_persian_3_roman": "ra", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "شاخاشو", 
             "norm_persian": "شاخ", 
             "mean_persian_4": "", 
@@ -137,6 +160,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "برای", 
             "norm_persian": "برای", 
             "mean_persian_4": "", 
@@ -156,6 +180,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "توش", 
             "norm_persian": "تو", 
             "mean_persian_4": "", 
@@ -175,6 +200,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "توش", 
             "norm_persian": "تو", 
             "mean_persian_4": "", 
@@ -194,6 +220,7 @@
             "norm_persian_3_roman": "ra", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "چشمشو", 
             "norm_persian": "چشم", 
             "mean_persian_4": "", 
@@ -213,6 +240,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "mn", 
+            "lex_information": [], 
             "orig_persian": "طرفم", 
             "norm_persian": "طرف", 
             "mean_persian_4": "", 
@@ -232,6 +260,7 @@
             "norm_persian_3_roman": "aw", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "پنجه هاش", 
             "norm_persian": "پنجه", 
             "mean_persian_4": "", 
@@ -251,6 +280,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "rwz", 
+            "lex_information": [], 
             "orig_persian": "اونروز", 
             "norm_persian": "آن", 
             "mean_persian_4": "", 
@@ -270,6 +300,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "andaze", 
+            "lex_information": [
+                [
+                    "V", 
+                    "andaxtn_____1", 
+                    "3sgPreSubjFam"
+                ], 
+                [
+                    "V", 
+                    "andaxtn_____2", 
+                    "3sgPreSubjFam"
+                ]
+            ], 
             "orig_persian": "باندازه", 
             "norm_persian": "به", 
             "mean_persian_4": "", 
@@ -289,6 +331,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خونش", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -308,6 +351,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خونش", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -327,6 +371,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "1plPreparfFam"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "1plPreterit"
+                ]
+            ], 
             "orig_persian": "اومدیم", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -346,6 +402,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -365,6 +422,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "جنگله", 
             "norm_persian": "جنگل", 
             "mean_persian_4": "", 
@@ -384,6 +442,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -403,6 +462,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -422,6 +482,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -441,6 +513,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بچه", 
             "norm_persian": "بچه", 
             "mean_persian_4": "", 
@@ -460,6 +533,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -479,6 +553,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "اینا", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -498,6 +573,7 @@
             "norm_persian_3_roman": "ra", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "دیگشو", 
             "norm_persian": "دیگر", 
             "mean_persian_4": "", 
@@ -517,6 +593,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "آخریه", 
             "norm_persian": "آخر", 
             "mean_persian_4": "", 
@@ -536,6 +613,7 @@
             "norm_persian_3_roman": "em", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "بچشم", 
             "norm_persian": "بچه", 
             "mean_persian_4": "", 
@@ -555,6 +633,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "پدرش", 
             "norm_persian": "پدر", 
             "mean_persian_4": "", 
@@ -574,6 +653,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "کله اش", 
             "norm_persian": "کله", 
             "mean_persian_4": "", 
@@ -593,6 +673,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "اینا", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -612,6 +693,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "astandar_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "استاندار", 
             "norm_persian": "استاندار", 
             "mean_persian_4": "", 
@@ -631,6 +719,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بله", 
             "norm_persian": "بله", 
             "mean_persian_4": "", 
@@ -650,6 +739,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -669,6 +770,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "be_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "به", 
             "norm_persian": "به", 
             "mean_persian_4": "", 
@@ -688,6 +796,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "شرطش", 
             "norm_persian": "شرط", 
             "mean_persian_4": "", 
@@ -707,6 +816,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -726,6 +836,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "دمش", 
             "norm_persian": "دم", 
             "mean_persian_4": "", 
@@ -745,6 +856,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -764,6 +876,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -783,6 +896,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "قرمزه", 
             "norm_persian": "قرمز", 
             "mean_persian_4": "", 
@@ -802,6 +916,43 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "xwrdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____1", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPastprog"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPreInd"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPreSubj"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "خورد", 
             "norm_persian": "خوردن", 
             "mean_persian_4": "", 
@@ -821,6 +972,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "em", 
+            "lex_information": [
+                [
+                    "N", 
+                    "mam_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "مام", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -840,6 +998,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "بود", 
             "norm_persian": "بودن", 
             "mean_persian_4": "", 
@@ -859,6 +1029,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "asm_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "اسم", 
             "norm_persian": "اسم", 
             "mean_persian_4": "", 
@@ -878,6 +1055,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "bar_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "بار", 
             "norm_persian": "بار", 
             "mean_persian_4": "", 
@@ -897,6 +1081,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "بزرگش", 
             "norm_persian": "بزرگ", 
             "mean_persian_4": "", 
@@ -916,6 +1101,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "چیزش", 
             "norm_persian": "چیز", 
             "mean_persian_4": "", 
@@ -935,6 +1121,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "میاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -954,6 +1141,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "میاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -973,6 +1161,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "ورمیداره", 
             "norm_persian": "برداشتن", 
             "mean_persian_4": "", 
@@ -992,6 +1181,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1011,6 +1201,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1030,6 +1221,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "رهاش", 
             "norm_persian": "رها", 
             "mean_persian_4": "", 
@@ -1049,6 +1241,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -1068,6 +1261,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "میری", 
             "norm_persian": "رفتن", 
             "mean_persian_4": "", 
@@ -1087,6 +1281,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "حیرانی", 
             "norm_persian": "حیرت", 
             "mean_persian_4": "", 
@@ -1106,6 +1301,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1125,6 +1321,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1144,6 +1341,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "مرا", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -1163,6 +1361,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "جوریه", 
             "norm_persian": "جور", 
             "mean_persian_4": "", 
@@ -1182,6 +1381,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "be_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "به", 
             "norm_persian": "به", 
             "mean_persian_4": "", 
@@ -1201,6 +1407,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "درت میاره", 
             "norm_persian": "درآوردن", 
             "mean_persian_4": "", 
@@ -1220,6 +1427,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ans_____1", 
+                    "Plur"
+                ], 
+                [
+                    "N", 
+                    "ansan_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "انسان", 
             "norm_persian": "انسان", 
             "mean_persian_4": "", 
@@ -1239,6 +1458,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "ازش", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1258,6 +1478,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -1277,6 +1498,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "asb_____1", 
+                    "Sing"
+                ], 
+                [
+                    "N", 
+                    "asb_____2", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "اسب", 
             "norm_persian": "اسب", 
             "mean_persian_4": "", 
@@ -1296,6 +1529,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "asb_____1", 
+                    "Sing"
+                ], 
+                [
+                    "N", 
+                    "asb_____2", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "اسب", 
             "norm_persian": "اسب", 
             "mean_persian_4": "", 
@@ -1315,6 +1560,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1334,6 +1580,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "چیه", 
             "norm_persian": "چه", 
             "mean_persian_4": "", 
@@ -1353,6 +1600,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "تورش", 
             "norm_persian": "تور", 
             "mean_persian_4": "", 
@@ -1372,6 +1620,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "asb_____1", 
+                    "Sing"
+                ], 
+                [
+                    "N", 
+                    "asb_____2", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "اسب", 
             "norm_persian": "اسب", 
             "mean_persian_4": "", 
@@ -1391,6 +1651,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "ازش", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1410,6 +1671,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "رهاش", 
             "norm_persian": "رها", 
             "mean_persian_4": "", 
@@ -1429,6 +1691,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "brxwrd_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "برخورد", 
             "norm_persian": "برخوردن", 
             "mean_persian_4": "", 
@@ -1448,6 +1717,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "چیه", 
             "norm_persian": "چه", 
             "mean_persian_4": "", 
@@ -1467,6 +1737,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "درش میارم", 
             "norm_persian": "درآوردن", 
             "mean_persian_4": "", 
@@ -1486,6 +1757,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بزرگترین", 
             "norm_persian": "بزرگ", 
             "mean_persian_4": "", 
@@ -1505,6 +1777,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ans_____1", 
+                    "Plur"
+                ], 
+                [
+                    "N", 
+                    "ansan_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "انسان", 
             "norm_persian": "انسان", 
             "mean_persian_4": "", 
@@ -1524,6 +1808,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ans_____1", 
+                    "Plur"
+                ], 
+                [
+                    "N", 
+                    "ansan_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "انسان", 
             "norm_persian": "انسان", 
             "mean_persian_4": "", 
@@ -1543,6 +1839,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "قویه", 
             "norm_persian": "قوی", 
             "mean_persian_4": "", 
@@ -1562,6 +1859,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -1581,6 +1879,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "برات", 
             "norm_persian": "برای", 
             "mean_persian_4": "", 
@@ -1600,6 +1899,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "استراحت", 
             "norm_persian": "استراحت", 
             "mean_persian_4": "", 
@@ -1619,6 +1919,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "em", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "ram_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "رام", 
             "norm_persian": "را", 
             "mean_persian_4": "", 
@@ -1638,6 +1945,43 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "xwrdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____1", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPastprog"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPreInd"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPreSubj"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "xwrdn_____2", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "خورد", 
             "norm_persian": "خوردن", 
             "mean_persian_4": "", 
@@ -1657,6 +2001,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "mn", 
+            "lex_information": [], 
             "orig_persian": "برام", 
             "norm_persian": "برای", 
             "mean_persian_4": "", 
@@ -1676,6 +2021,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -1695,6 +2041,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "داخل", 
             "norm_persian": "داخل", 
             "mean_persian_4": "", 
@@ -1714,6 +2061,43 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "bstn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "bstn_____1", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "bstn_____2", 
+                    "2*3sgPastprog"
+                ], 
+                [
+                    "V", 
+                    "bstn_____2", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "bstn_____2", 
+                    "infApocope"
+                ], 
+                [
+                    "N", 
+                    "bst_____1", 
+                    "Sing"
+                ], 
+                [
+                    "ADJ", 
+                    "bs_____1", 
+                    "Pers2s"
+                ]
+            ], 
             "orig_persian": "بست", 
             "norm_persian": "بستن", 
             "mean_persian_4": "", 
@@ -1733,6 +2117,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "همسرش", 
             "norm_persian": "همسر", 
             "mean_persian_4": "", 
@@ -1752,6 +2137,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آبجوش", 
             "norm_persian": "آبجوش", 
             "mean_persian_4": "", 
@@ -1771,6 +2157,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آبجوش", 
             "norm_persian": "آبجوش", 
             "mean_persian_4": "", 
@@ -1790,6 +2177,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آی", 
             "norm_persian": "ای", 
             "mean_persian_4": "", 
@@ -1809,6 +2197,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "krdn", 
+            "lex_information": [], 
             "orig_persian": "فرارکنه", 
             "norm_persian": "فرار", 
             "mean_persian_4": "", 
@@ -1828,6 +2217,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آبجوش", 
             "norm_persian": "آبجوش", 
             "mean_persian_4": "", 
@@ -1847,6 +2237,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "با", 
             "norm_persian": "با", 
             "mean_persian_4": "", 
@@ -1866,6 +2257,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "dr_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "در", 
             "norm_persian": "در", 
             "mean_persian_4": "", 
@@ -1885,6 +2283,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -1904,6 +2303,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "بود", 
             "norm_persian": "بودن", 
             "mean_persian_4": "", 
@@ -1923,6 +2334,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -1942,6 +2354,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اون", 
             "norm_persian": "آن", 
             "mean_persian_4": "", 
@@ -1961,6 +2374,23 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "*10*inf"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3plPreparfFam"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3plPreteritFam"
+                ]
+            ], 
             "orig_persian": "اومدن", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -1980,6 +2410,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "شیرا", 
             "norm_persian": "شیر", 
             "mean_persian_4": "", 
@@ -1999,6 +2430,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -2018,6 +2450,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "دمش", 
             "norm_persian": "دم", 
             "mean_persian_4": "", 
@@ -2037,6 +2470,23 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "bala_____1", 
+                    "Sing"
+                ], 
+                [
+                    "ADJ", 
+                    "bala_____1", 
+                    ""
+                ], 
+                [
+                    "ADV", 
+                    "bala___MTE__1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "بالا", 
             "norm_persian": "بالا", 
             "mean_persian_4": "", 
@@ -2056,6 +2506,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ans_____1", 
+                    "Plur"
+                ], 
+                [
+                    "N", 
+                    "ansan_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "انسان", 
             "norm_persian": "انسان", 
             "mean_persian_4": "", 
@@ -2075,6 +2537,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -2094,6 +2557,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اون", 
             "norm_persian": "آن", 
             "mean_persian_4": "", 
@@ -2113,6 +2577,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اون", 
             "norm_persian": "آن", 
             "mean_persian_4": "", 
@@ -2132,6 +2597,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -2151,6 +2628,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "اینجایم", 
             "norm_persian": "اینجا", 
             "mean_persian_4": "", 
@@ -2170,6 +2648,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "پ", 
             "norm_persian": "پسر", 
             "mean_persian_4": "", 
@@ -2189,6 +2668,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -2208,6 +2699,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "سرش", 
             "norm_persian": "سر", 
             "mean_persian_4": "", 
@@ -2227,6 +2719,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اونا", 
             "norm_persian": "آنها", 
             "mean_persian_4": "", 
@@ -2246,6 +2739,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -2265,6 +2759,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "منم", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -2284,6 +2779,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "منم", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -2303,6 +2799,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بیا", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -2322,6 +2819,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [
+                [
+                    "N", 
+                    "jng_____1", 
+                    "SingPers2s"
+                ]
+            ], 
             "orig_persian": "جنگت", 
             "norm_persian": "جنگ", 
             "mean_persian_4": "", 
@@ -2341,6 +2845,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -2360,6 +2876,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -2379,6 +2896,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "pare_____1", 
+                    "Sing"
+                ], 
+                [
+                    "ADJ", 
+                    "pare_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "پاره", 
             "norm_persian": "پاره", 
             "mean_persian_4": "", 
@@ -2398,6 +2927,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "wa_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "وا", 
             "norm_persian": "باز", 
             "mean_persian_4": "", 
@@ -2417,6 +2953,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "adb_____1", 
+                    "SingIndef"
+                ], 
+                [
+                    "ADJ", 
+                    "adby_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "ادبی", 
             "norm_persian": "ادبی", 
             "mean_persian_4": "", 
@@ -2436,6 +2984,7 @@
             "norm_persian_3_roman": "ra", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "کولشو", 
             "norm_persian": "کول", 
             "mean_persian_4": "", 
@@ -2455,6 +3004,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -2474,6 +3035,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -2493,6 +3055,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اووو", 
             "norm_persian": "اووو", 
             "mean_persian_4": "", 
@@ -2512,6 +3075,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "adb_____1", 
+                    "SingIndef"
+                ], 
+                [
+                    "ADJ", 
+                    "adby_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "ادبی", 
             "norm_persian": "ادبی", 
             "mean_persian_4": "", 
@@ -2531,6 +3106,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "ازت", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -2550,6 +3126,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "دندونای", 
             "norm_persian": "دندان", 
             "mean_persian_4": "", 
@@ -2569,6 +3146,7 @@
             "norm_persian_3_roman": "aw", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "دندوناش", 
             "norm_persian": "دندان", 
             "mean_persian_4": "", 
@@ -2588,6 +3166,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "بزا", 
             "norm_persian": "بز", 
             "mean_persian_4": "", 
@@ -2607,6 +3186,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "باهم", 
             "norm_persian": "باهم", 
             "mean_persian_4": "", 
@@ -2626,6 +3206,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "شاخش", 
             "norm_persian": "شاخ", 
             "mean_persian_4": "", 
@@ -2645,6 +3226,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "ADV", 
+                    "alan___MTE__1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "الان", 
             "norm_persian": "الان", 
             "mean_persian_4": "", 
@@ -2664,6 +3252,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "دندونش", 
             "norm_persian": "دندان", 
             "mean_persian_4": "", 
@@ -2683,6 +3272,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "اینو", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -2702,6 +3292,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ānea", 
+            "lex_information": [], 
             "orig_persian": "خونشون", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -2721,6 +3312,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ānea", 
+            "lex_information": [], 
             "orig_persian": "خونشون", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -2740,6 +3332,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "šma", 
+            "lex_information": [], 
             "orig_persian": "میخورتون", 
             "norm_persian": "خوردن", 
             "mean_persian_4": "", 
@@ -2759,6 +3352,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "be_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "به", 
             "norm_persian": "به", 
             "mean_persian_4": "", 
@@ -2778,6 +3378,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خونش", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -2797,6 +3398,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -2816,6 +3418,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "بود", 
             "norm_persian": "بودن", 
             "mean_persian_4": "", 
@@ -2835,6 +3449,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "حیاطش", 
             "norm_persian": "حیاط", 
             "mean_persian_4": "", 
@@ -2854,6 +3469,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -2873,6 +3489,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ān", 
+            "lex_information": [], 
             "orig_persian": "تو ش", 
             "norm_persian": "تو", 
             "mean_persian_4": "", 
@@ -2892,6 +3509,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -2911,6 +3529,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "راهش", 
             "norm_persian": "راه", 
             "mean_persian_4": "", 
@@ -2930,6 +3549,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "چند", 
             "norm_persian": "چند", 
             "mean_persian_4": "", 
@@ -2949,6 +3569,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2sgPreparfFam"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2sgPreterit"
+                ]
+            ], 
             "orig_persian": "اومدی", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -2968,6 +3600,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بذار", 
             "norm_persian": "گذاشتن", 
             "mean_persian_4": "", 
@@ -2987,6 +3620,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ke", 
+            "lex_information": [], 
             "orig_persian": "وقتیکه", 
             "norm_persian": "وقت", 
             "mean_persian_4": "", 
@@ -3006,6 +3640,28 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "gftn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "gftn_____1", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "gftn_____2", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "gftn_____2", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "گفت", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -3025,6 +3681,28 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "xwb_____1", 
+                    "Sing"
+                ], 
+                [
+                    "N", 
+                    "xwb_____2", 
+                    "Sing"
+                ], 
+                [
+                    "ADJ", 
+                    "xwb_____1", 
+                    ""
+                ], 
+                [
+                    "ADV", 
+                    "xwb___MTE__1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "خوب", 
             "norm_persian": "خوب", 
             "mean_persian_4": "", 
@@ -3044,6 +3722,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -3063,6 +3753,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "راش", 
             "norm_persian": "راه", 
             "mean_persian_4": "", 
@@ -3082,6 +3773,28 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "gftn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "gftn_____1", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "gftn_____2", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "gftn_____2", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "گفت", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -3101,6 +3814,23 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "mn", 
+            "lex_information": [
+                [
+                    "N", 
+                    "dxtr_____1", 
+                    "SingPers1s"
+                ], 
+                [
+                    "N", 
+                    "dxtr_____2", 
+                    "SingPers1s"
+                ], 
+                [
+                    "ADJ", 
+                    "dxtr_____1", 
+                    "Pers1s"
+                ]
+            ], 
             "orig_persian": "دخترم", 
             "norm_persian": "دختر", 
             "mean_persian_4": "", 
@@ -3120,6 +3850,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "بخورمت", 
             "norm_persian": "خوردن", 
             "mean_persian_4": "", 
@@ -3139,6 +3870,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -3158,6 +3890,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -3177,6 +3910,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -3196,6 +3930,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "مسافتی رو", 
             "norm_persian": "مسافت", 
             "mean_persian_4": "", 
@@ -3215,6 +3950,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "گشنگی", 
             "norm_persian": "گرسنگی", 
             "mean_persian_4": "", 
@@ -3234,6 +3970,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "گرسنمه", 
             "norm_persian": "گرسنه", 
             "mean_persian_4": "", 
@@ -3253,6 +3990,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "تو رو", 
             "norm_persian": "تو", 
             "mean_persian_4": "", 
@@ -3272,6 +4010,28 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "gftn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "gftn_____1", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "gftn_____2", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "gftn_____2", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "گفت", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -3291,6 +4051,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -3310,6 +4071,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "دخترش", 
             "norm_persian": "دختر", 
             "mean_persian_4": "", 
@@ -3329,6 +4091,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "بغلش", 
             "norm_persian": "بغل", 
             "mean_persian_4": "", 
@@ -3348,6 +4111,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "دخترش", 
             "norm_persian": "دختر", 
             "mean_persian_4": "", 
@@ -3367,6 +4131,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "حقیقتش", 
             "norm_persian": "حقیقت", 
             "mean_persian_4": "", 
@@ -3386,6 +4151,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "اینا", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -3405,6 +4171,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "براش", 
             "norm_persian": "برای", 
             "mean_persian_4": "", 
@@ -3424,6 +4191,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "درش", 
             "norm_persian": "در", 
             "mean_persian_4": "", 
@@ -3443,6 +4211,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "قلش", 
             "norm_persian": "غل", 
             "mean_persian_4": "", 
@@ -3462,6 +4231,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آقا", 
             "norm_persian": "آقا", 
             "mean_persian_4": "", 
@@ -3481,6 +4251,28 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "dydn_____1", 
+                    "1sgPreparfNegFam"
+                ], 
+                [
+                    "V", 
+                    "dydn_____1", 
+                    "1sgPreteritNeg"
+                ], 
+                [
+                    "V", 
+                    "dydn_____2", 
+                    "1sgPreparfNegFam"
+                ], 
+                [
+                    "V", 
+                    "dydn_____2", 
+                    "1sgPreteritNeg"
+                ]
+            ], 
             "orig_persian": "ندیدم", 
             "norm_persian": "دیدن", 
             "mean_persian_4": "", 
@@ -3500,6 +4292,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بالله", 
             "norm_persian": "بالله", 
             "mean_persian_4": "", 
@@ -3519,6 +4312,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "dadn_____1", 
+                    "imperNorm"
+                ], 
+                [
+                    "V", 
+                    "dadn_____2", 
+                    "3sgPreSubjFam"
+                ]
+            ], 
             "orig_persian": "بده", 
             "norm_persian": "دادن", 
             "mean_persian_4": "", 
@@ -3538,6 +4343,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "قلش", 
             "norm_persian": "غل", 
             "mean_persian_4": "", 
@@ -3557,6 +4363,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "w", 
+            "lex_information": [], 
             "orig_persian": "زنون", 
             "norm_persian": "زدن", 
             "mean_persian_4": "", 
@@ -3576,6 +4383,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -3595,6 +4403,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بالله", 
             "norm_persian": "بالله", 
             "mean_persian_4": "", 
@@ -3614,6 +4423,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "dadn_____1", 
+                    "imperNorm"
+                ], 
+                [
+                    "V", 
+                    "dadn_____2", 
+                    "3sgPreSubjFam"
+                ]
+            ], 
             "orig_persian": "بده", 
             "norm_persian": "دادن", 
             "mean_persian_4": "", 
@@ -3633,6 +4454,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "قلش", 
             "norm_persian": "غل", 
             "mean_persian_4": "", 
@@ -3652,6 +4474,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ţwr", 
+            "lex_information": [], 
             "orig_persian": "همانطور", 
             "norm_persian": "همان", 
             "mean_persian_4": "", 
@@ -3671,6 +4494,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -3690,6 +4514,28 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "dydn_____1", 
+                    "1sgPreparfNegFam"
+                ], 
+                [
+                    "V", 
+                    "dydn_____1", 
+                    "1sgPreteritNeg"
+                ], 
+                [
+                    "V", 
+                    "dydn_____2", 
+                    "1sgPreparfNegFam"
+                ], 
+                [
+                    "V", 
+                    "dydn_____2", 
+                    "1sgPreteritNeg"
+                ]
+            ], 
             "orig_persian": "ندیدم", 
             "norm_persian": "دیدن", 
             "mean_persian_4": "", 
@@ -3709,6 +4555,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بالله", 
             "norm_persian": "بالله", 
             "mean_persian_4": "", 
@@ -3728,6 +4575,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "dadn_____1", 
+                    "imperNorm"
+                ], 
+                [
+                    "V", 
+                    "dadn_____2", 
+                    "3sgPreSubjFam"
+                ]
+            ], 
             "orig_persian": "بده", 
             "norm_persian": "دادن", 
             "mean_persian_4": "", 
@@ -3747,6 +4606,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "سرش", 
             "norm_persian": "سر", 
             "mean_persian_4": "", 
@@ -3766,6 +4626,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -3785,6 +4646,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "میونش", 
             "norm_persian": "میان", 
             "mean_persian_4": "", 
@@ -3804,6 +4666,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3plPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "3plPreparfFam"
+                ]
+            ], 
             "orig_persian": "اومدند", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -3823,6 +4697,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "میبرنش", 
             "norm_persian": "بردن", 
             "mean_persian_4": "", 
@@ -3842,6 +4717,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -3861,6 +4737,7 @@
             "norm_persian_3_roman": "aw", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "دوستاش", 
             "norm_persian": "دوست", 
             "mean_persian_4": "", 
@@ -3880,6 +4757,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "az", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "wa_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "وا", 
             "norm_persian": "را", 
             "mean_persian_4": "", 
@@ -3899,6 +4783,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "شیرا", 
             "norm_persian": "شیر", 
             "mean_persian_4": "", 
@@ -3918,6 +4803,7 @@
             "norm_persian_3_roman": "aw", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "بزاش", 
             "norm_persian": "بز", 
             "mean_persian_4": "", 
@@ -3937,6 +4823,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "تونم", 
             "norm_persian": "تو", 
             "mean_persian_4": "", 
@@ -3956,6 +4843,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "داره", 
             "norm_persian": "داشتن", 
             "mean_persian_4": "", 
@@ -3975,6 +4863,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "ارتفاعش", 
             "norm_persian": "ارتفاع", 
             "mean_persian_4": "", 
@@ -3994,6 +4883,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "سمش", 
             "norm_persian": "سم", 
             "mean_persian_4": "", 
@@ -4013,6 +4903,7 @@
             "norm_persian_3_roman": "bwdn", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ānea", 
+            "lex_information": [], 
             "orig_persian": "مادرشونه", 
             "norm_persian": "مادر", 
             "mean_persian_4": "", 
@@ -4032,6 +4923,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "aftadn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "aftadn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "افتاد", 
             "norm_persian": "افتادن", 
             "mean_persian_4": "", 
@@ -4051,6 +4954,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "باره", 
             "norm_persian": "باز", 
             "mean_persian_4": "", 
@@ -4070,6 +4974,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -4089,6 +5005,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ans_____1", 
+                    "Plur"
+                ], 
+                [
+                    "N", 
+                    "ansan_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "انسان", 
             "norm_persian": "انسان", 
             "mean_persian_4": "", 
@@ -4108,6 +5036,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "بدریمش", 
             "norm_persian": "دریدن", 
             "mean_persian_4": "", 
@@ -4127,6 +5056,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "شیرا", 
             "norm_persian": "شیر", 
             "mean_persian_4": "", 
@@ -4146,6 +5076,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -4165,6 +5096,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "krdn", 
+            "lex_information": [], 
             "orig_persian": "بناءکرد", 
             "norm_persian": "بناء", 
             "mean_persian_4": "", 
@@ -4184,6 +5116,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "کیه", 
             "norm_persian": "کی", 
             "mean_persian_4": "", 
@@ -4203,6 +5136,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "بچه های", 
             "norm_persian": "بچه", 
             "mean_persian_4": "", 
@@ -4222,6 +5156,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "بود", 
             "norm_persian": "بودن", 
             "mean_persian_4": "", 
@@ -4241,6 +5187,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "روز ها", 
             "norm_persian": "روز", 
             "mean_persian_4": "", 
@@ -4260,6 +5207,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آهو", 
             "norm_persian": "آهو", 
             "mean_persian_4": "", 
@@ -4279,6 +5227,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ānea", 
+            "lex_information": [], 
             "orig_persian": "زندگیشون", 
             "norm_persian": "زندگی", 
             "mean_persian_4": "", 
@@ -4298,6 +5247,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ma", 
+            "lex_information": [], 
             "orig_persian": "خودمون", 
             "norm_persian": "خود", 
             "mean_persian_4": "", 
@@ -4317,6 +5267,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "برگشت", 
             "norm_persian": "برگشتن", 
             "mean_persian_4": "", 
@@ -4336,6 +5287,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آسونی", 
             "norm_persian": "آسان", 
             "mean_persian_4": "", 
@@ -4355,6 +5307,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "ندارد", 
             "norm_persian": "داشتن", 
             "mean_persian_4": "", 
@@ -4374,6 +5327,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آهو", 
             "norm_persian": "آهو", 
             "mean_persian_4": "", 
@@ -4393,6 +5347,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -4412,6 +5367,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ja_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "جا", 
             "norm_persian": "جا", 
             "mean_persian_4": "", 
@@ -4431,6 +5393,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "برگشت", 
             "norm_persian": "برگشتن", 
             "mean_persian_4": "", 
@@ -4450,6 +5413,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اینا", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -4469,6 +5433,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "مکاریست", 
             "norm_persian": "مکاری", 
             "mean_persian_4": "", 
@@ -4488,6 +5453,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -4507,6 +5473,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آهو", 
             "norm_persian": "آهو", 
             "mean_persian_4": "", 
@@ -4526,6 +5493,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "خرگوش", 
             "norm_persian": "خرگوش", 
             "mean_persian_4": "", 
@@ -4545,6 +5513,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "برگشت", 
             "norm_persian": "برگشتن", 
             "mean_persian_4": "", 
@@ -4564,6 +5533,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -4583,6 +5553,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "برگشت", 
             "norm_persian": "برگشتن", 
             "mean_persian_4": "", 
@@ -4602,6 +5573,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -4621,6 +5593,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "با", 
             "norm_persian": "با", 
             "mean_persian_4": "", 
@@ -4640,6 +5613,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -4659,6 +5633,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "تله ایه", 
             "norm_persian": "تله", 
             "mean_persian_4": "", 
@@ -4678,6 +5653,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "اینو", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -4697,6 +5673,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "گوشتو", 
             "norm_persian": "گوشت", 
             "mean_persian_4": "", 
@@ -4716,6 +5693,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بیا", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -4735,6 +5713,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گرسنش", 
             "norm_persian": "گرسنه", 
             "mean_persian_4": "", 
@@ -4754,6 +5733,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "باشه", 
             "norm_persian": "بودن", 
             "mean_persian_4": "", 
@@ -4773,6 +5753,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "گوشته", 
             "norm_persian": "گوشت", 
             "mean_persian_4": "", 
@@ -4792,6 +5773,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "ورداره", 
             "norm_persian": "برداشتن", 
             "mean_persian_4": "", 
@@ -4811,6 +5793,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "گوشتو", 
             "norm_persian": "گوشت", 
             "mean_persian_4": "", 
@@ -4830,6 +5813,23 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "b'd_____1", 
+                    "Sing"
+                ], 
+                [
+                    "ADJ", 
+                    "b'd_____1", 
+                    ""
+                ], 
+                [
+                    "ADV", 
+                    "b'd___MTE__1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "بعد", 
             "norm_persian": "بعد", 
             "mean_persian_4": "", 
@@ -4849,6 +5849,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بیاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -4868,6 +5869,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "اینو", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -4887,6 +5889,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ans_____1", 
+                    "Plur"
+                ], 
+                [
+                    "N", 
+                    "ansan_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "انسان", 
             "norm_persian": "انسان", 
             "mean_persian_4": "", 
@@ -4906,6 +5920,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آدم", 
             "norm_persian": "آدم", 
             "mean_persian_4": "", 
@@ -4925,6 +5940,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "میاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -4944,6 +5960,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -4963,6 +5980,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "بهش", 
             "norm_persian": "به", 
             "mean_persian_4": "", 
@@ -4982,6 +6000,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اون", 
             "norm_persian": "آن", 
             "mean_persian_4": "", 
@@ -5001,6 +6020,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "میخورمت", 
             "norm_persian": "خوردن", 
             "mean_persian_4": "", 
@@ -5020,6 +6040,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [
+                [
+                    "N", 
+                    "mny_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "منی", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -5039,6 +6066,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "VAUX", 
+                    "baystn_____1", 
+                    "3sgPreInd"
+                ], 
+                [
+                    "N", 
+                    "bayd_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "باید", 
             "norm_persian": "بایستن", 
             "mean_persian_4": "", 
@@ -5058,6 +6097,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "zdn_____2", 
+                    "3sgPreIndFam_no_zwnj"
+                ]
+            ], 
             "orig_persian": "میزنه", 
             "norm_persian": "زدن", 
             "mean_persian_4": "", 
@@ -5077,6 +6123,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "میخورمت", 
             "norm_persian": "خوردن", 
             "mean_persian_4": "", 
@@ -5096,6 +6143,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "میاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -5115,6 +6163,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "bala_____1", 
+                    "SingEzafe"
+                ], 
+                [
+                    "ADJ", 
+                    "bala_____1", 
+                    "Ezafe"
+                ]
+            ], 
             "orig_persian": "بالای", 
             "norm_persian": "بالا", 
             "mean_persian_4": "", 
@@ -5134,6 +6194,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [
+                [
+                    "N", 
+                    "kar_____1", 
+                    "SingPers2s"
+                ], 
+                [
+                    "N", 
+                    "kart_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "کارت", 
             "norm_persian": "کار", 
             "mean_persian_4": "", 
@@ -5153,6 +6225,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اثری", 
             "norm_persian": "اثر", 
             "mean_persian_4": "", 
@@ -5172,6 +6245,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "سرش", 
             "norm_persian": "سر", 
             "mean_persian_4": "", 
@@ -5191,6 +6265,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اثری", 
             "norm_persian": "اثر", 
             "mean_persian_4": "", 
@@ -5210,6 +6285,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "mn", 
+            "lex_information": [
+                [
+                    "N", 
+                    "dl_____1", 
+                    "SingPers1s"
+                ]
+            ], 
             "orig_persian": "دلم", 
             "norm_persian": "دل", 
             "mean_persian_4": "", 
@@ -5229,6 +6311,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "با", 
             "norm_persian": "با", 
             "mean_persian_4": "", 
@@ -5248,6 +6331,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "مامانش", 
             "norm_persian": "مامان", 
             "mean_persian_4": "", 
@@ -5267,6 +6351,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ke", 
+            "lex_information": [], 
             "orig_persian": "وقتیکه", 
             "norm_persian": "وقت", 
             "mean_persian_4": "", 
@@ -5286,6 +6371,7 @@
             "norm_persian_3_roman": "bwdn", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "مادرتام", 
             "norm_persian": "مادر", 
             "mean_persian_4": "", 
@@ -5305,6 +6391,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "سفیده", 
             "norm_persian": "سفید", 
             "mean_persian_4": "", 
@@ -5324,6 +6411,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "xrydn_____1", 
+                    "3sgPreIndFam_no_zwnj"
+                ]
+            ], 
             "orig_persian": "میخره", 
             "norm_persian": "خریدن", 
             "mean_persian_4": "", 
@@ -5343,6 +6437,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خودش", 
             "norm_persian": "خود", 
             "mean_persian_4": "", 
@@ -5362,6 +6457,7 @@
             "norm_persian_3_roman": "bwdn", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "مامان تام", 
             "norm_persian": "مامان", 
             "mean_persian_4": "", 
@@ -5381,6 +6477,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "em", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "baz_____1", 
+                    "Pers1s"
+                ]
+            ], 
             "orig_persian": "بازم", 
             "norm_persian": "باز", 
             "mean_persian_4": "", 
@@ -5400,6 +6503,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [
+                [
+                    "N", 
+                    "syast_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "سیاست", 
             "norm_persian": "سیاه", 
             "mean_persian_4": "", 
@@ -5419,6 +6529,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "قصه اش", 
             "norm_persian": "قصه", 
             "mean_persian_4": "", 
@@ -5438,6 +6549,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "bwdn_____1", 
+                    "2*3sgPreInd"
+                ], 
+                [
+                    "N", 
+                    "ast_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "است", 
             "norm_persian": "بودن", 
             "mean_persian_4": "", 
@@ -5457,6 +6580,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خودش", 
             "norm_persian": "خود", 
             "mean_persian_4": "", 
@@ -5476,6 +6600,7 @@
             "norm_persian_3_roman": "bwdn", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "مامان تام", 
             "norm_persian": "مامان", 
             "mean_persian_4": "", 
@@ -5495,6 +6620,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "nyst___MTE__1", 
+                    "Indef"
+                ]
+            ], 
             "orig_persian": "نیستی", 
             "norm_persian": "بودن", 
             "mean_persian_4": "", 
@@ -5514,6 +6646,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "میاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -5533,6 +6666,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "مامانش", 
             "norm_persian": "مامان", 
             "mean_persian_4": "", 
@@ -5552,6 +6686,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "مامانش", 
             "norm_persian": "مامان", 
             "mean_persian_4": "", 
@@ -5571,6 +6706,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "3sgPreparfFam"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "partPas"
+                ]
+            ], 
             "orig_persian": "اومده", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -5590,6 +6737,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bam", 
+            "lex_information": [], 
             "orig_persian": "پشتبوم", 
             "norm_persian": "پشت", 
             "mean_persian_4": "", 
@@ -5609,6 +6757,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "zdn_____2", 
+                    "3sgPreIndFam_no_zwnj"
+                ]
+            ], 
             "orig_persian": "میزنه", 
             "norm_persian": "زدن", 
             "mean_persian_4": "", 
@@ -5628,6 +6783,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "کیه", 
             "norm_persian": "کی", 
             "mean_persian_4": "", 
@@ -5647,6 +6803,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bz", 
+            "lex_information": [], 
             "orig_persian": "بزبزا", 
             "norm_persian": "بز", 
             "mean_persian_4": "", 
@@ -5666,6 +6823,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "alle_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "الله", 
             "norm_persian": "الله", 
             "mean_persian_4": "", 
@@ -5685,6 +6849,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bam", 
+            "lex_information": [], 
             "orig_persian": "پشتبوم", 
             "norm_persian": "پشت", 
             "mean_persian_4": "", 
@@ -5704,6 +6869,7 @@
             "norm_persian_3_roman": "ānea", 
             "norm_persian_4_roman": "ra", 
             "norm_persian_2_roman": "bam", 
+            "lex_information": [], 
             "orig_persian": "پشتبومشنو", 
             "norm_persian": "پشت", 
             "mean_persian_4": "・・・を", 
@@ -5723,6 +6889,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "کیه", 
             "norm_persian": "کی", 
             "mean_persian_4": "", 
@@ -5742,6 +6909,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bz", 
+            "lex_information": [], 
             "orig_persian": "بزبزا", 
             "norm_persian": "بز", 
             "mean_persian_4": "", 
@@ -5761,6 +6929,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "alle_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "الله", 
             "norm_persian": "الله", 
             "mean_persian_4": "", 
@@ -5780,6 +6955,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "ja_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "جا", 
             "norm_persian": "جا", 
             "mean_persian_4": "", 
@@ -5799,6 +6981,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آب", 
             "norm_persian": "آب", 
             "mean_persian_4": "", 
@@ -5818,6 +7001,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "آب", 
             "norm_persian": "آب", 
             "mean_persian_4": "", 
@@ -5837,6 +7021,7 @@
             "norm_persian_3_roman": "aw", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "لباش", 
             "norm_persian": "لب1", 
             "mean_persian_4": "", 
@@ -5856,6 +7041,7 @@
             "norm_persian_3_roman": "aw", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ea", 
+            "lex_information": [], 
             "orig_persian": "لباش", 
             "norm_persian": "لب1", 
             "mean_persian_4": "", 
@@ -5875,6 +7061,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "w", 
+            "lex_information": [], 
             "orig_persian": "میانو", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -5894,6 +7081,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "میسته", 
             "norm_persian": "ایستادن", 
             "mean_persian_4": "", 
@@ -5913,6 +7101,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "شاخش", 
             "norm_persian": "شاخ", 
             "mean_persian_4": "", 
@@ -5932,6 +7121,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "myan_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "میان", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -5951,6 +7147,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "اون", 
             "norm_persian": "آن", 
             "mean_persian_4": "", 
@@ -5970,6 +7167,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "tmam_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "تمام", 
             "norm_persian": "تمام", 
             "mean_persian_4": "", 
@@ -5989,6 +7193,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خونه اش", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -6008,6 +7213,7 @@
             "norm_persian_3_roman": "ra", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "پاشو", 
             "norm_persian": "پا", 
             "mean_persian_4": "", 
@@ -6027,6 +7233,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -6046,6 +7253,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بچه", 
             "norm_persian": "بچه", 
             "mean_persian_4": "", 
@@ -6065,6 +7273,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "اسمش", 
             "norm_persian": "اسم", 
             "mean_persian_4": "", 
@@ -6084,6 +7293,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خونش", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -6103,6 +7313,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "بچهاش", 
             "norm_persian": "بچه", 
             "mean_persian_4": "", 
@@ -6122,6 +7333,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "تونم", 
             "norm_persian": "تو", 
             "mean_persian_4": "", 
@@ -6141,6 +7353,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "تونم", 
             "norm_persian": "تو", 
             "mean_persian_4": "", 
@@ -6160,6 +7373,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "حنائیه", 
             "norm_persian": "حنایی", 
             "mean_persian_4": "", 
@@ -6179,6 +7393,43 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "rftn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "rftn_____1", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "rftn_____2", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "rftn_____2", 
+                    "infApocope"
+                ], 
+                [
+                    "V", 
+                    "rftn_____3", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "rftn_____3", 
+                    "infApocope"
+                ], 
+                [
+                    "N", 
+                    "rf_____1", 
+                    "SingPers2s"
+                ]
+            ], 
             "orig_persian": "رفت", 
             "norm_persian": "رفتن", 
             "mean_persian_4": "", 
@@ -6198,6 +7449,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "رفتنش", 
             "norm_persian": "رفتن", 
             "mean_persian_4": "", 
@@ -6217,6 +7469,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -6236,6 +7489,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3plPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "3plPreparfFam"
+                ]
+            ], 
             "orig_persian": "اومدند", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -6255,6 +7520,7 @@
             "norm_persian_3_roman": "bwdn", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "jwry", 
+            "lex_information": [], 
             "orig_persian": "چجوریه", 
             "norm_persian": "چه", 
             "mean_persian_4": "", 
@@ -6274,6 +7540,7 @@
             "norm_persian_3_roman": "bwdn", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "jwry", 
+            "lex_information": [], 
             "orig_persian": "چجوریه", 
             "norm_persian": "چه", 
             "mean_persian_4": "", 
@@ -6293,6 +7560,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ānea", 
+            "lex_information": [], 
             "orig_persian": "مامانشون", 
             "norm_persian": "مامان", 
             "mean_persian_4": "", 
@@ -6312,6 +7580,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "دستاش", 
             "norm_persian": "دست", 
             "mean_persian_4": "", 
@@ -6331,6 +7600,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "از", 
             "norm_persian": "از", 
             "mean_persian_4": "", 
@@ -6350,6 +7620,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "baz_____1", 
+                    ""
+                ], 
+                [
+                    "ADV", 
+                    "baz_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "باز", 
             "norm_persian": "باز", 
             "mean_persian_4": "", 
@@ -6369,6 +7651,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "حنائیه", 
             "norm_persian": "حنایی", 
             "mean_persian_4": "", 
@@ -6388,6 +7671,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "tw", 
+            "lex_information": [], 
             "orig_persian": "پات", 
             "norm_persian": "پا", 
             "mean_persian_4": "", 
@@ -6407,6 +7691,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "پاش", 
             "norm_persian": "پا", 
             "mean_persian_4": "", 
@@ -6426,6 +7711,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خونشو", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -6445,6 +7731,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ānea", 
+            "lex_information": [], 
             "orig_persian": "خونشون", 
             "norm_persian": "خانه", 
             "mean_persian_4": "", 
@@ -6464,6 +7751,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "gđaštn", 
+            "lex_information": [], 
             "orig_persian": "واگذاشتن", 
             "norm_persian": "باز", 
             "mean_persian_4": "", 
@@ -6483,6 +7771,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -6502,6 +7802,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "baz_____1", 
+                    ""
+                ], 
+                [
+                    "ADV", 
+                    "baz_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "باز", 
             "norm_persian": "باز", 
             "mean_persian_4": "", 
@@ -6521,6 +7833,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "šma", 
+            "lex_information": [], 
             "orig_persian": "مامانتون", 
             "norm_persian": "مامان", 
             "mean_persian_4": "", 
@@ -6540,6 +7853,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "mn", 
+            "lex_information": [], 
             "orig_persian": "حبه انگورم", 
             "norm_persian": "حبهانگور", 
             "mean_persian_4": "", 
@@ -6559,6 +7873,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "jwr", 
+            "lex_information": [], 
             "orig_persian": "همینجور", 
             "norm_persian": "همین", 
             "mean_persian_4": "", 
@@ -6578,6 +7893,13 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "N", 
+                    "dw_____1", 
+                    "Sing"
+                ]
+            ], 
             "orig_persian": "دو", 
             "norm_persian": "دو", 
             "mean_persian_4": "", 
@@ -6597,6 +7919,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -6616,6 +7939,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "پاشو", 
             "norm_persian": "پا", 
             "mean_persian_4": "", 
@@ -6635,6 +7959,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "2*3sgPreterit"
+                ], 
+                [
+                    "V", 
+                    "awmdn_____1", 
+                    "infApocope"
+                ]
+            ], 
             "orig_persian": "اومد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -6654,6 +7990,18 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [
+                [
+                    "ADJ", 
+                    "baz_____1", 
+                    ""
+                ], 
+                [
+                    "ADV", 
+                    "baz_____1", 
+                    ""
+                ]
+            ], 
             "orig_persian": "باز", 
             "norm_persian": "باز", 
             "mean_persian_4": "", 
@@ -6673,6 +8021,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "خودش", 
             "norm_persian": "خود", 
             "mean_persian_4": "", 
@@ -6692,6 +8041,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "پاش", 
             "norm_persian": "پا", 
             "mean_persian_4": "", 
@@ -6711,6 +8061,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "کیه", 
             "norm_persian": "کی", 
             "mean_persian_4": "", 
@@ -6730,6 +8081,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "تاپتاپ", 
             "norm_persian": "تپتپ", 
             "mean_persian_4": "", 
@@ -6749,6 +8101,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -6768,6 +8121,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "منم", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -6787,6 +8141,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بیاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
@@ -6806,6 +8161,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "aw", 
+            "lex_information": [], 
             "orig_persian": "گفتش", 
             "norm_persian": "گفتن", 
             "mean_persian_4": "", 
@@ -6825,6 +8181,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "این", 
             "norm_persian": "این", 
             "mean_persian_4": "", 
@@ -6844,6 +8201,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "کیه", 
             "norm_persian": "کی", 
             "mean_persian_4": "", 
@@ -6863,6 +8221,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "ra", 
+            "lex_information": [], 
             "orig_persian": "منو", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -6882,6 +8241,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "bwdn", 
+            "lex_information": [], 
             "orig_persian": "منم", 
             "norm_persian": "من", 
             "mean_persian_4": "", 
@@ -6901,6 +8261,7 @@
             "norm_persian_3_roman": "", 
             "norm_persian_4_roman": "", 
             "norm_persian_2_roman": "", 
+            "lex_information": [], 
             "orig_persian": "بیاد", 
             "norm_persian": "آمدن", 
             "mean_persian_4": "", 
