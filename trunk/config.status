@@ -427,7 +427,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/Users/kensuke-mi/Downloads/alexina/perlex/trunk'
+ac_pwd='/Users/kensuke-mi/code/performance_perlex/trunk'
 srcdir='.'
 INSTALL='/opt/local/bin/ginstall -c'
 MKDIR_P='/opt/local/bin/gmkdir -p'
@@ -607,12 +607,12 @@ S["mkdir_p"]="$(MKDIR_P)"
 S["MKDIR_P"]="/opt/local/bin/gmkdir -p"
 S["INSTALL_STRIP_PROGRAM"]="$(install_sh) -c -s"
 S["STRIP"]=""
-S["install_sh"]="${SHELL} /Users/kensuke-mi/Downloads/alexina/perlex/trunk/install-sh"
-S["MAKEINFO"]="${SHELL} /Users/kensuke-mi/Downloads/alexina/perlex/trunk/missing makeinfo"
-S["AUTOHEADER"]="${SHELL} /Users/kensuke-mi/Downloads/alexina/perlex/trunk/missing autoheader"
-S["AUTOMAKE"]="${SHELL} /Users/kensuke-mi/Downloads/alexina/perlex/trunk/missing automake-1.13"
-S["AUTOCONF"]="${SHELL} /Users/kensuke-mi/Downloads/alexina/perlex/trunk/missing autoconf"
-S["ACLOCAL"]="${SHELL} /Users/kensuke-mi/Downloads/alexina/perlex/trunk/missing aclocal-1.13"
+S["install_sh"]="${SHELL} /Users/kensuke-mi/code/performance_perlex/trunk/install-sh"
+S["MAKEINFO"]="${SHELL} /Users/kensuke-mi/code/performance_perlex/trunk/missing makeinfo"
+S["AUTOHEADER"]="${SHELL} /Users/kensuke-mi/code/performance_perlex/trunk/missing autoheader"
+S["AUTOMAKE"]="${SHELL} /Users/kensuke-mi/code/performance_perlex/trunk/missing automake-1.13"
+S["AUTOCONF"]="${SHELL} /Users/kensuke-mi/code/performance_perlex/trunk/missing autoconf"
+S["ACLOCAL"]="${SHELL} /Users/kensuke-mi/code/performance_perlex/trunk/missing aclocal-1.13"
 S["VERSION"]="0.1.3"
 S["PACKAGE"]="perlex"
 S["CYGPATH_W"]="echo"

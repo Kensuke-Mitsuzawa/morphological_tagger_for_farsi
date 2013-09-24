@@ -10,7 +10,6 @@ import sys, codecs, json, re;
 
 with codecs.open('./table_json', 'r', 'utf-8') as f:
     table_map=json.load(f);
-print len(table_map)
 
 with codecs.open('../lex_json', 'r', 'utf-8') as f:
     lex_map=json.load(f);
