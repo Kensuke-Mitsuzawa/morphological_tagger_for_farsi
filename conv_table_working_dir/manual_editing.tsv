@@ -686,7 +686,7 @@
 2018	dr	dr	戸						
 2018	zd	zd	打つ						
 2018	šngwl	šngwl	シャングール						
-2018	knyn	kny	（あることを）する						
+2018	knyn	knnd	（あることを）する						
 2018	mn	mn	私						
 2018	mn	mn	私						
 2018	mn	mn	私						
@@ -1377,67 +1377,61 @@
 10013	če	če	なに						
 10013	ħala	ħala	今						
 10013	rw	ra	・・・を						
-
-
-
-
-
-
-10013	kn	krdn	（あることを）する						
-10013	knym	krdn	（あることを）する						
-10012	brgšt	brgštn	戻る						
+10013	kn	kn	（あることを）する						
+10013	knym	knym	（あることを）する						
+10012	brgšt	brgšt	戻る						
 10012	be	be	・・・に						
-10012	gft	gftn	言う						
+10012	gft	gft	言う						
 10011	dr	dr	…の中に						
-10011	šd	šdn	・・・になる						
-10011	kšte	kštn	殺す						
+10011	šd	šd	・・・になる						
+10011	kšte	kšte	殺す						
 10010	ayn	ayn	この						
 10010	be	be	・・・に						
 10010	ħal	ħal	状態						
 10010	dr	dr	…の中に						
 10010	sr	sr	頭						
-10010	šd	šdn	・・・になる						
+10010	šd	šd	・・・になる						
 10010	šyr	šyr	獅子						
 10010	'şbany	'şbany	神経の						
-10010	kwbyd	kwbydn	たたく						
-10010	mħkmy	mħkm	強い						
+10010	kwbyd	kwbyd	たたく						
+10010	mħkmy	mħkmy	強い						
 10010	mštِ	mšt	こぶし						
 10017	xrgwš	xrgwš	うさぎ						
 10017	şbħane	şbħane	朝食						
-10017	knyd	krdn	（あることを）する						
+10017	knyd	knyd	（あることを）する						
 10016	āew	āew	かもしか						
 10016	be	be	・・・に						
 10016	šam	šam	夕食						
-10016	frmayyd	frmwdn	命ずる						
+10016	frmayyd	frmayyd	命ずる						
 10015	ayn	ayn	この						
 10015	be	be	・・・に						
 10015	be	be	・・・に						
-10015	nyst	bwdn	・・・である						
-10015	bxwryd	xwrdn	食べる						
+10015	nyst	nyst	・・・である						
+10015	bxwryd	bxwryd	食べる						
 10015	slţan	slţan	王						
 10015	šma	šma	あなた						
 10015	ẓer	ẓer	正午						
 10015	gaw	gaw	牛						
-10015	mškly	mškl	困難な						
-10014	mkaryst	mkary	狡猾	bwdn	・・・である				
+10015	mškly	mškly	困難な						
+10014	mkaryst	mkary	狡猾	ast	・・・である				
 10014	āram	āram	静かな						
 10014	b'd	b'd	後に						
-10014	ast	bwdn	・・・である						
+10014	ast	ast	・・・である						
 10014	ħyle gr	ħyle gr	ずるい						
 10014	ħylegry	ħyle gr	ずるい						
 10014	ħywan	ħywan	動物						
 10014	xyly	xyly	非常に						
 10014	xyly	xyly	非常に						
 10014	dr	dr	…の中に						
-10014	fkry	fkr	考え						
-10014	krd	krdn	（あることを）する						
-10014	gft	gftn	言う						
+10014	fkry	fkry	考え						
+10014	krd	krd	（あることを）する						
+10014	gft	gft	言う						
 10014	mšewr	mšewr	有名な						
 2024	wagđaštn	baz	開いた	gđaštn	置く				
 2024	ayn	ayn	この						
 2024	ayn	ayn	この						
 2024	baz	baz	開いた						
-2024	bče ea	bče	子供						
+2024	bče ea	bče_ea	子供						
 2024	be	be	・・・に						
 2024	če	če	なに						
 2024	xwne	xane	家						
@@ -1445,104 +1439,104 @@
 2024	rw	ra	・・・を						
 2024	sfarš	sfarš	推薦						
 2024	ŕdr	ŕdr	量						
-2024	krdm	krdn	（あることを）する						
-2024	nđaryn	gđaštn	置く						
-2024	gft	gftn	言う						
+2024	krdm	krdm	（あることを）する						
+2024	nđaryn	ngđarnd	置く						
+2024	gft	gft	言う						
 2024	mn	mn	私						
-2025	awmd	āmdn	来る						
-2025	nmyad	āmdn	来る						
+2025	awmd	āmd	来る						
+2025	nmyad	nmy_āynd	来る						
 2025	ħbe angwr	ħbeangwr	ヘッベ・アングール						
-2025	dyd	dydn	見る						
+2025	dyd	dyd	見る						
 2025	šngwl	šngwl	シャングール						
-2025	şdayy	şda	音						
-2025	gft	gftn	言う						
+2025	şdayy	şdayy	音						
+2025	gft	gft	言う						
 2025	mn	mn	私						
 2025	mn	mn	私						
 2025	mn	mn	私						
 2026	baz	baz	再び						
-2026	estyn	bwdn	・・・である						
+2026	estyn	estnd	・・・である						
 2026	ħbe angwr	ħbeangwr	ヘッベ・アングール						
 2026	šrw'	šrw'	始め						
 2026	šngwl	šngwl	シャングール						
 2026	kja	kja	どこに						
-2026	krd	krdn	（あることを）する						
+2026	krd	krd	（あることを）する						
 2026	mn	mn	私						
 2026	mn	mn	私						
 2026	mn	mn	私						
 2027	mamantwn	maman	ママ	šma	あなた				
 2027	mamantwn	maman	ママ	šma	あなた				
-2027	awmde	āmdn	来る						
-2027	awmde	āmdn	来る						
-2027	awmde	āmdn	来る						
-2027	nmyayn	āmdn	来る						
-2027	estyn	bwdn	・・・である						
+2027	awmde	āmde	来る						
+2027	awmde	āmde	来る						
+2027	awmde	āmde	来る						
+2027	nmyayn	nmy_āynd	来る						
+2027	estyn	estnd	・・・である						
 2027	pr	pr	満ちた						
 2027	pstwn	pstan	乳房						
 2027	čra	čra	なぜ						
-2027	mydad	dadn	与える						
-2027	dyd	dydn	見る						
+2027	mydad	my_dad	与える						
+2027	dyd	dyd	見る						
 2027	šyr	šyr	乳						
 2027	şħra	şħra	砂漠						
-2027	şday	şda	音						
+2027	şday	şday	音						
 2027	kja	kja	どこに						
 2020	pat	pa	足	tw	お前				
 2020	tw	tw	・・・の中に						
 2020	dst	dst	手						
-2020	bkn	krdn	（あることを）する						
+2020	bkn	bkn	（あることを）する						
 2021	paš	pa	足	aw	あれ、それ				
 2021	pašw	pa	足	aw	あれ、それ				
-2021	ħna´ye	ħnayy	あずき色の	bwdn	・・・である				
+2021	ħna´ye	ħnayy	あずき色の	ast	・・・である				
 2021	baz	baz	開いた						
 2021	tw	tw	・・・の中に						
 2021	dr	dr	戸						
 2021	dst	dst	手						
 2021	dst	dst	手						
 2021	dydn	dydn	見る						
-2021	krd	krdn	（あることを）する						
+2021	krd	krd	（あることを）する						
 2021	krdn	krdn	（あることを）する						
-2021	wŕty	wŕt	時間						
-2022	xwnšw	xane	家	aw	あれ、それ				
+2021	wŕty	wŕty	時間						
+2022	xwnšw	xane_aš	家			
 2022	ħbe angwrm	ħbeangwr	ヘッベ・アングール	em	・・もまた				
 2022	āŕa	āŕa	紳士						
 2022	tw	tw	・・・の中に						
-2022	rft	rftn	行く						
-2022	šd	šdn	・・・になる						
+2022	rft	rft	行く						
+2022	šd	šd	・・・になる						
 2022	šngwl	šngwl	シャングール						
 2022	ŕaym	ŕaym	直立の、垂直の						
-2022	krd	krdn	（あることを）する						
-2022	grft	grftn	手に取る						
+2022	krd	krd	（あることを）する						
+2022	grft	grft	手に取る						
 2022	grge	grg	狼						
 2022	gnje	gnje	食器棚						
 2022	lalw	lalw	لابلاと同義						
-2023	xwnšwn	xane	家	ānea	彼ら				
-2023	baze	baz	開いた	bwdn	・・・である				
-2023	awmd	āmdn	来る						
-2023	brgšt	brgštn	戻る						
+2023	xwnšwn	xanešan	家			
+2023	baze	baz	開いた	ast	・・・である				
+2023	awmd	āmd	来る						
+2023	brgšt	brgšt	戻る						
 2023	dr	dr	戸						
-2023	dyd	dydn	見る						
+2023	dyd	dyd	見る						
 2023	şħra	şħra	砂漠						
 2023	qrwb	qrwb	日没						
 2023	ŕndy	ŕndy	ガンディー						
 2028	ħbe angwrm	ħbeangwr	ヘッベ・アングール	mn	私				
-2028	şday	şda	音						
+2028	şday	şday	音						
 2029	emynjwr	emyn	まさしくこの	jwr	種類				
 2029	čra	čra	なぜ						
-2029	mykny	krdn	（あることを）する						
-2029	gft	gftn	言う						
-4008	maman tam	maman	ママ	tw	お前	bwdn	・・・である		
-4008	myad	āmdn	来る						
+2029	mykny	mykny	（あることを）する						
+2029	gft	gft	言う						
+4008	maman tam	maman	ママ	tw	お前	estm	・・・である		
+4008	myad	my_āyd	来る						
 4008	baz	baz	開いた						
 4008	dr	dr	戸						
 4008	dr	dr	戸						
 4008	dm	dm	・・・のそばに						
 4008	šngwl	šngwl	シャングール						
-4008	kn	krdn	（あることを）する						
+4008	kn	kn	（あることを）する						
 4008	mn	mn	私						
 4008	mn	mn	私						
 4009	tw	tw	お前						
 4009	mn	mn	私						
 4001	bze	bz	山羊						
-4001	bwde	bwdn	・・・である						
+4001	bwde	bwde	・・・である						
 4001	dwne	dane	…個						
 4001	dwne	dane	…個						
 4001	dwne	dane	…個						
@@ -1560,66 +1554,66 @@
 4002	be	be	・・・に						
 4002	xwne	xane	家						
 4002	rw	ra	・・・を						
-4002	myrn	rftn	行く						
-4002	myre	rftn	行く						
+4002	myrn	my_rwnd	行く						
+4002	myre	my_rwd	行く						
 4002	šngwl	šngwl	シャングール						
 4002	şħra	şħra	砂漠						
-4002	myđare	gđaštn	置く						
-4002	myđare	gđaštn	置く						
+4002	myđare	my_gđard	置く						
+4002	myđare	my_gđard	置く						
 4002	ma	ma	私たち						
 4003	wŕtyke	wŕt	時間	ke	・・・であるということ				
 4003	wŕtyke	wŕt	時間	ke	・・・であるということ				
 4003	xdm	xwd	自身	mn	私				
-4003	myad	āmdn	来る						
+4003	myad	my_āyd	来る						
 4003	be	be	・・・に						
 4003	be	be	・・・に						
-4003	bde	dadn	与える						
+4003	bde	bde	与える						
 4003	dr	dr	戸						
 4003	dr	dr	戸						
-4003	myre	rftn	行く						
-4003	myre	rftn	行く						
+4003	myre	my_rwd	行く						
+4003	myre	my_rwd	行く						
 4003	şħra	şħra	砂漠						
 4003	şħra	şħra	砂漠						
 4003	grge	grg	狼						
 4003	eay	eay	ああ						
-4004	madrtam	madr	母	tw	お前	bwdn	・・・である		
+4004	madrtam	madr	母	tw	お前	estm	・・・である		
 4004	baz	baz	開いた						
 4004	dr	dr	戸						
 4004	šngwl	šngwl	シャングール						
-4004	kn	krdn	（あることを）する						
+4004	kn	kn	（あることを）する						
 4004	mn	mn	私						
 4004	mn	mn	私						
-4005	sfyde	sfyd	白い	bwdn	・・・である				
-4005	nysy	bwdn	・・・である						
+4005	sfyde	sfyd	白い	ast	・・・である				
+4005	nysy	nysty	・・・である						
 4005	tw	tw	お前						
 4005	madr	madr	母						
 4005	mn	mn	私						
-4006	xwde	xwd	自身						
-4006	myre	rftn	行く						
+4006	xwde	xwde	自身						
+4006	myre	my_rwd	行く						
 4006	gč	gč	石灰						
 4006	ye	yk	1						
 4007	xwdš	xwd	自身	aw	あれ、それ				
-4007	mykne	krdn	（あることを）する						
-1043	ndydm	dydn	見る						
-1043	ndydm	dydn	見る						
-1043	gft	gftn	言う						
+4007	mykne	my_knd	（あることを）する						
+1043	ndydm	ndydm	見る						
+1043	ndydm	ndydm	見る						
+1043	gft	gft	言う						
 1043	walle	walle	神にかけて						
-1042	gftš	gftn	言う	aw	あれ、それ				
+1042	gftš	gftn	言う			
 1042	āŕa	āŕa	紳士						
-1042	ndydy	dydn	見る						
+1042	ndydy	ndydy	見る						
 1042	šma	šma	あなた						
 1042	ŕl	ql	ころがること						
 1042	grge	grg	狼						
-1041	znwn	zdn	打つ	w	そして				
+1041	znwn	my_znd	打つ	w	そして				
 1041	āŕa	āŕa	紳士						
-1041	awmd	āmdn	来る						
-1041	awmd	āmdn	来る						
-1041	awmd	āmdn	来る						
-1041	awmd	āmdn	来る						
+1041	awmd	āmd	来る						
+1041	awmd	āmd	来る						
+1041	awmd	āmd	来る						
+1041	awmd	āmd	来る						
 1041	ayn	ayn	この						
 1041	be	be	・・・に						
 1041	ta	ta	・・・まで						
-1041	rsyd	rsydn	着く						
+1041	rsyd	rsyd	着く						
 1041	ŕl	ql	ころがること						
 1041	ŕl	ql	ころがること						
 1041	ŕl	ql	ころがること						
@@ -1630,125 +1624,125 @@
 1041	emynţwr	emynţwr	このように						
 1040	ŕlš	ql	ころがること	aw	あれ、それ				
 1040	ayn	ayn	この						
-1040	dad	dadn	与える						
-1047	gftš	gftn	言う	aw	あれ、それ				
+1040	dad	dad	与える						
+1047	gftš	gftn	言う			
 1047	tw	tw	お前						
-1047	ndydy	dydn	見る						
+1047	ndydy	ndydy	見る						
 1047	šqale	šqal	ジャッカル						
 1047	ŕl	ql	ころがること						
 1046	emanţwr	eman	まさにその	ţwr	方法				
-1046	znwn	zdn	打つ	w	そして				
+1046	znwn	my_znd	打つ	w	そして				
 1046	āŕa	āŕa	紳士						
-1046	awmd	āmdn	来る						
-1046	awmd	āmdn	来る						
-1046	awmd	āmdn	来る						
-1046	awmd	āmdn	来る						
+1046	awmd	āmd	来る						
+1046	awmd	āmd	来る						
+1046	awmd	āmd	来る						
+1046	awmd	āmd	来る						
 1046	ayn	ayn	この						
 1046	baz	baz	再び						
 1046	be	be	・・・に						
 1046	ta	ta	・・・まで						
-1046	rsyd	rsydn	着く						
+1046	rsyd	rsyd	着く						
 1046	šqale	šqal	ジャッカル						
 1046	ŕl	ql	ころがること						
 1046	ŕl	ql	ころがること						
 1046	ŕl	ql	ころがること						
 1045	ŕlš	ql	ころがること	aw	あれ、それ				
 1045	ayn	ayn	この						
-1045	dad	dadn	与える						
+1045	dad	dad	与える						
 1045	em	em	・・もまた						
-1044	bde	dadn	与える						
-1044	brm	rftn	行く						
+1044	bde	bde	与える						
+1044	brm	brwm	行く						
 1044	ŕl	ql	ころがること						
-1049	ndydm	dydn	見る						
-1048	ndydm	dydn	見る						
-1048	gft	gftn	言う						
+1049	ndydm	ndydm	見る						
+1048	ndydm	ndydm	見る						
+1048	gft	gft	言う						
 1048	walle	walle	神にかけて						
-6006	myare	āwrdn	持ってくる						
+6006	myare	my_āwrd	持ってくる						
 6006	ayn	ayn	この						
 6006	b'da˝	b'da	後に						
 6006	tw	tw	・・・の中に						
 6006	sr	sr	頭						
 6006	šyre	šyr	獅子						
-6006	kn	krdn	（あることを）する						
+6006	kn	kn	（あることを）する						
 6006	mn	mn	私						
 6006	wŕt	wŕt	時間						
 6006	ye	yk	1						
-6007	myxwrmt	xwrdn	食べる	tw	お前				
-6007	aysty	aystadn	立つ						
-6007	aysty	aystadn	立つ						
+6007	myxwrmt	my_xwrm	食べる			
+6007	aysty	aysty	立つ						
+6007	aysty	aysty	立つ						
 6004	ayn	ayn	この						
 6004	sr	sr	頭						
-6004	myše	šdn	・・・になる						
+6004	myše	my_šwd	・・・になる						
 6005	beš	be	・・・に	aw	あれ、それ				
 6005	yalat	yal	たてがみ	tw	お前				
 6005	aşla˝	aşla	元来						
 6005	ansan	ansan	人間						
 6005	ayn	ayn	この						
-6005	bwde	bwdn	・・・である						
+6005	bwde	bwde	・・・である						
 6005	tw	tw	お前						
 6005	čŕdr	čŕdr	いかほど						
 6005	dwst	dwst	友人						
 6005	dwst	dwst	友人						
 6005	dyge	dygr	（否定詞とともに）もはや…でない						
-6005	mykny	krdn	（あることを）する						
-6005	grfte	grftn	手に取る						
-6005	nmygrdm	gštn	回る						
+6005	mykny	my_kny	（あることを）する						
+6005	grfte	grfte	手に取る						
+6005	nmygrdm	nmy_grdm	回る						
 6005	mryź	mryź	病気の						
 6005	mn	mn	私						
 6005	wŕt	wŕt	時間						
 6002	ādm	ādm	アダム						
 6002	baem	baem	ともに						
-6002	bwd	bwdn	・・・である						
+6002	bwd	bwd	・・・である						
 6002	twy	tw	・・・の中に						
-6002	jngly	jngl	森						
+6002	jngly	jngly	森						
 6002	šyr	šyr	獅子						
-6002	mdt ea	mdt	期間						
+6002	mdt ea	mdt_ea	期間						
 6002	ye	yk	1						
 6002	ye	yk	1						
-6003	myad	āmdn	来る						
+6003	myad	my_āynd	来る						
 6003	ayn	ayn	この						
 6003	barwn	baran	雨						
-6003	myše	šdn	・・・になる						
+6003	myše	my_šwd	・・・になる						
 6003	šyre	šyr	獅子						
-6003	'ẓymy	'ẓym	大きな						
+6003	'ẓymy	'ẓymy	大きな						
 6003	yalay	yal	たてがみ						
 6003	ye	yk	1						
 6003	ye	yk	1						
 6001	ansan	ansan	人間						
 6001	šyr	šyr	獅子						
 6001	ŕşe	ŕşe	物語						
-6008	mny	mn	私	bwdn	・・・である				
+6008	mny	mn	私	esty	・・・である				
 6008	ayn	ayn	この						
 6008	tw	tw	お前						
 6008	rfyŕ	rfyŕ	仲間						
 6008	šwxy	šwxy	冗談						
-6008	krdm	krdn	（あることを）する						
+6008	krdm	krdm	（あることを）する						
 6008	ne	ne	（否定の答え）いいえ						
-6009	bayd	baystn	・・・ねばならない						
+6009	bayd	bayd	・・・ねばならない						
 6009	ne	ne	（否定の答え）いいえ						
 5065	srš	sr	頭	aw	あれ、それ				
 5065	ābjwš	ābjwš	煮え湯						
 5065	ābjwš	ābjwš	煮え湯						
 5065	ābjwš	ābjwš	煮え湯						
-5065	awmde	āmdn	来る						
-5065	byar	āwrdn	持ってくる						
+5065	awmde	āmde	来る						
+5065	byar	byāynd	持ってくる						
 5065	bla´y	bla	…なしに						
 5065	be	be	・・・に						
-5065	bwd	bwdn	・・・である						
+5065	bwd	bwd	・・・である						
 5065	ta	ta	・・・まで						
 5065	če	če	なに						
 5065	zyr	zyr	・・・の下に						
-5065	šnyde	šnydn	聞く						
+5065	šnyde	šnyde	聞く						
 5065	šyr	šyr	獅子						
 5065	šyra	šyr	獅子						
-5065	krd	krdn	（あることを）する						
-5065	gft	gftn	言う						
-5065	gft	gftn	言う						
+5065	krd	krd	（あることを）する						
+5065	gft	gft	言う						
+5065	gft	gft	言う						
 5065	ye	yk	1						
 5065	ye	yk	1						
 5064	alan	alan	ちょうど今						
 5064	če	če	なに						
-5064	gft	gftn	言う						
+5064	gft	gft	言う						
 5067	ansan	ansan	人間						
 5067	ansan	ansan	人間						
 5067	be	be	・・・に						
@@ -1757,7 +1751,7 @@
 5067	dst	dst	手						
 5067	dst	dst	手						
 5067	gđaštn	gđaštn	置く						
-5067	gft	gftn	言う						
+5067	gft	gft	言う						
 5067	eme	eme	すべて						
 5067	way	way	悲しいかな！						
 5066	awna	ānea	彼ら						
@@ -1767,58 +1761,58 @@
 5061	ansan	ansan	人間						
 5061	ayn	ayn	この						
 5061	payyn	payyn	下に						
-5061	bkšym	kšydn	引く						
+5061	bkšym	bkšym	引く						
 5060	ayn	ayn	この						
 5060	bdn	bdn	体						
-5060	bwd	bwdn	・・・である						
-5060	bwd	bwdn	・・・である						
-5060	bwd	bwdn	・・・である						
+5060	bwd	bwd	・・・である						
+5060	bwd	bwd	・・・である						
+5060	bwd	bwd	・・・である						
 5060	pšt	pšt	・・・背						
 5060	dwla	dwla	二重の						
-5060	brym	rftn	行く						
+5060	brym	brym	行く						
 5060	rw	rw	・・・の上に						
 5060	rw	rw	・・・の上に						
 5060	zxmy	zxmy	傷ついた						
 5060	zyr	zyr	・・・の下に						
-5060	swxte	swxtn	燃える						
-5060	šd	šdn	・・・になる						
-5060	šyry	šyr	獅子						
-5060	gft	gftn	言う						
+5060	swxte	swxte	燃える						
+5060	šd	šd	・・・になる						
+5060	šyry	šyry	獅子						
+5060	gft	gft	言う						
 5060	mçl	mçl	類似						
 5060	mjrwħ	mjrwħ	負傷した						
 5060	mn	mn	私						
 5060	mn	mn	私						
-5063	šyra	šyr	獅子	ea	名詞複数形語尾				
+5063	šyra	šyrea	獅子			
 5063	ansan	ansan	人間						
 5063	ansan	ansan	人間						
 5063	ayn	ayn	この						
 5063	ayn	ayn	この						
 5063	ayn	ayn	この						
 5063	ayn	ayn	この						
-5063	brd	brdn	持って行く						
+5063	brd	brd	持って行く						
 5063	bŕye	bŕye	残り						
 5063	be	be	・・・に						
 5063	be	be	・・・に						
-5063	bwd	bwdn	・・・である						
+5063	bwd	bwd	・・・である						
 5063	ta	ta	・・・まで						
-5063	ħyle ay	ħyle	策略						
+5063	ħyle ay	ħyle_ay	策略						
 5063	rsydn	rsydn	着く						
 5063	rw	rw	・・・の上に						
 5063	zyr	zyr	・・・の下に						
 5063	swar	swar	馬に乗って						
 5063	swxte	swxte	燃えた						
 5063	šdn	šdn	・・・になる						
-5063	šyry	šyr	獅子						
+5063	šyry	šyry	獅子						
 5063	em	em	・・もまた						
-5062	bdrymš	drydn	引裂く	aw	あれ、それ				
-2060	pnje eaš	pnje	かぎつめ	ea	名詞複数形語尾	aw	あれ、それ		
-2060	pnje eašm	pnje	かぎつめ	aw	あれ、それ	em	・・もまた		
-2060	naxnay	naxn	爪	ea	名詞複数形語尾				
+5062	bdrymš	bdrym	引裂く				
+2060	pnje eaš	pnje_eay	かぎつめ	aw	あれ、それ		
+2060	pnje eašm	pnješan	かぎつめ	em	・・もまた		
+2060	naxnay	naxn_eayy	爪			
 2060	ayn	ayn	この						
 2060	ayn	ayn	この						
 2060	tmam	tmam	すべての						
 2060	r	ra	・・・を						
-2060	kšyd	kšydn	引く						
+2060	kšyd	kšyd	引く						
 2060	eme	eme	すべて						
 2061	awnrwz	ān	あれ	rwz	日				
 2061	nšstnw	nšstn	座る	w	そして				
@@ -1827,29 +1821,29 @@
 2061	ayn	ayn	この						
 2061	ayna	ayn	この						
 2061	be	be	・・・に						
-2061	bwd	bwdn	・・・である						
-2061	bwd	bwdn	・・・である						
-2061	tmašay	tmaša	見物						
+2061	bwd	bwd	・・・である						
+2061	bwd	bwd	・・・である						
+2061	tmašay	tmašay	見物						
 2061	dw	dw	2						
 2061	šdn	šdn	・・・になる						
-2061	frday	frda	明日						
+2061	frday	frday	明日						
 2061	ŕrar	ŕrar	安静						
 2061	nfr	nfr	人						
 2061	erčy	erče	・・・するものは何でも						
 2062	bandaze	be	・・・に	andaze	寸法				
-2062	bdnš	bdn	体	aw	あれ、それ				
-2062	šaxaš	šax	角	aw	あれ、それ				
-2062	šykmš	škm	腹	aw	あれ、それ				
-2062	ayne	ayn	この	bwdn	・・・である				
-2062	erkary	er	おのおのの	kar	仕事				
-2062	erkary	er	おのおのの	kar	仕事				
+2062	bdnš	bdnš	体			
+2062	šaxaš	šaxš	角				
+2062	šykmš	škmš	腹				
+2062	ayne	ayn	この	ast	・・・である				
+2062	erkary	er	おのおのの	kary	仕事				
+2062	erkary	er	おのおのの	kary	仕事				
 2062	āŕa	āŕa	紳士						
 2062	āŕa	āŕa	紳士						
 2062	āŕa	āŕa	紳士						
-2062	awmd	āmdn	来る						
-2062	awmd	āmdn	来る						
-2062	awmd	āmdn	来る						
-2062	awmdn	āmdn	来る						
+2062	awmd	āmd	来る						
+2062	awmd	āmd	来る						
+2062	awmd	āmd	来る						
+2062	awmdn	āmd	来る						
 2062	ayn	ayn	この						
 2062	baz	baz	再び						
 2062	byrwn	byrwn	外で						
@@ -1860,14 +1854,14 @@
 2062	jlw	jlw	前方に						
 2062	jlw	jlw	前方に						
 2062	xlaşe	xlaşe	要約						
-2062	ndašt	daštn	持つ						
-2062	ndašt	daštn	持つ						
+2062	ndašt	ndašt	持つ						
+2062	ndašt	ndašt	持つ						
 2062	dndwn	dndan	歯						
 2062	rw	ra	・・・を						
-2062	rft	rftn	行く						
-2062	rft	rftn	行く						
+2062	rft	rft	行く						
+2062	rft	rft	行く						
 2062	zxmy	zxmy	傷ついた						
-2062	zd	zdn	打つ						
+2062	zd	zd	打つ						
 2062	šykm	škm	腹						
 2062	šykm	škm	腹						
 2062	šngwl	šngwl	シャングール						
@@ -1875,65 +1869,65 @@
 2062	'ŕb	'ŕb	後ろ						
 2062	ŕndy	ŕndy	ガンディー						
 2062	ŕndy	ŕndy	ガンディー						
-2062	krd	krdn	（あることを）する						
-2062	krd	krdn	（あることを）する						
-2062	krd	krdn	（あることを）する						
-2062	kne	krdn	（あることを）する						
+2062	krd	krd	（あることを）する						
+2062	krd	krd	（あることを）する						
+2062	krd	krd	（あることを）する						
+2062	kne	kne	（あることを）する						
 2062	grge	grg	狼						
 2062	grge	grg	狼						
 2062	grge	grg	狼						
 2062	em	em	・・もまた						
 2062	y'ny	y'ny	意味する						
-2063	xwnš	xane	家	aw	あれ、それ				
-2063	xwdš	xwd	自身	aw	あれ、それ				
+2063	xwnš	xane_aš	家			
+2063	xwdš	xwdš	自身			
 2063	mngwlw	mngwl	マングール	ra	・・・を				
 2063	wrdaštn	brdaštn	持ち上げる						
-2063	brd	brdn	持って行く						
+2063	brd	brd	持って行く						
 2063	šngwl	šngwl	シャングール						
 2063	ŕndy	ŕndy	ガンディー						
 2063	em	em	・・もまた						
-2064	xwnš	xane	家	aw	あれ、それ				
+2064	xwnš	xane_aš	家			
 2064	be	be	・・・に						
 2064	be	be	・・・に						
-2064	rsyd	rsydn	着く						
-2064	nrsyd	rsydn	着く						
+2064	rsyd	rsyd	着く						
+2064	nrsyd	nrsyd	着く						
 2064	sr	sr	頭						
 2064	ŕşe	ŕşe	物語						
 2064	klaqe	klaq	からす						
 2064	ma	ma	私たち						
-2065	awmdym	āmdn	来る						
+2065	awmdym	āmdnym	来る						
 2065	bala	bala	上部						
-2065	bwd	bwdn	・・・である						
-2065	bwd	bwdn	・・・である						
-2065	bwd	bwdn	・・・である						
+2065	bwd	bwd	・・・である						
+2065	bwd	bwd	・・・である						
+2065	bwd	bwd	・・・である						
 2065	payyn	payyn	下に						
 2065	rast	rast	本当の						
-2065	rftym	rftn	行く						
+2065	rftym	rftym	行く						
 2065	ŕşe	ŕşe	物語						
 2065	ma	ma	私たち						
 9007	bče	bče	子供						
 9007	jrát	jrát	勇気						
-9007	krde	krdn	（あることを）する						
+9007	krde	krde	（あることを）する						
 9007	ky	ky	که（だれ）の口語形						
 9006	bče	bče	子供						
-9006	xwrde	xwrdn	食べる						
+9006	xwrde	xwrde	食べる						
 9006	dadwbydad	dadwbydad	騒ぎ						
-9006	krd	krdn	（あることを）する						
+9006	krd	krd	（あることを）する						
 9006	ky	ky	که（だれ）の口語形						
-9005	awmd	āmdn	来る						
+9005	awmd	āmd	来る						
 9005	xyly	xyly	非常に						
-9005	šd	šdn	・・・になる						
+9005	šd	šd	・・・になる						
 9005	šyr	šyr	獅子						
 9005	naraħt	naraħt	心地よくない						
-9004	awmd	āmdn	来る						
+9004	awmd	āmd	来る						
 9004	ayn	ayn	この						
 9004	ayn	ayn	この						
-9004	bče eay	bče	子供						
-9004	bwd	bwdn	・・・である						
-9004	bwd	bwdn	・・・である						
-9004	xwrd	xwrdn	食べる						
-9004	rfte	rftn	行く						
-9004	rfte	rftn	行く						
+9004	bče eay	bče_eay	子供						
+9004	bwd	bwd	・・・である						
+9004	bwd	bwd	・・・である						
+9004	xwrd	xwrd	食べる						
+9004	rfte	rfte	行く						
+9004	rfte	rfte	行く						
 9004	škar	škar	狩猟						
 9004	šyr	šyr	獅子						
 9004	ye	yk	1						
@@ -1941,79 +1935,79 @@
 9003	ayn	ayn	この						
 9003	bče	bče	子供						
 9003	ta	ta	・・・個						
-9003	dašt	daštn	持つ						
-9002	jngle	jngl	森	bwdn	・・・である				
-9002	jngle	jngl	森	bwdn	・・・である				
+9003	dašt	dašt	持つ						
+9002	jngle	jngl	森	ast	・・・である				
+9002	jngle	jngl	森	ast	・・・である				
 9002	ayn	ayn	この						
 9002	padšae	padšae	王						
 9002	slţan	slţan	王						
-9002	mygftn	gftn	言う						
+9002	mygftn	my_gftnd	言う						
 9001	ayn	ayn	この						
 9001	bwd	bwdn	・・・である						
 9001	jngly	jngl	森						
 9001	ħsab	ħsab	考慮						
 9001	dr	dr	…の中に						
-9001	šyry	šyr	獅子						
+9001	šyry	šyry	獅子						
 9001	eme	eme	すべて						
 9001	ye	yk	1						
 9001	ye	yk	1						
 9009	dygšw	dygr	さらに	aw	あれ、それ	ra	・・・を		
-9009	awmd	āmdn	来る						
+9009	awmd	āmd	来る						
 9009	baz	baz	再び						
-9009	bče eay	bče	子供						
-9009	xwrd	xwrdn	食べる						
+9009	bče eay	bče_eay	子供						
+9009	xwrd	xwrd	食べる						
 9009	dwbare	dwbare	再び						
-9009	rft	rftn	行く						
+9009	rft	rft	行く						
 9009	rwbaee	rwbae	狐						
 9009	škar	škar	狩猟						
 9009	em	em	・・もまた						
 9008	ayna	ayn	この	ea	名詞複数形語尾				
 9008	xlaşe	xlaşe	要約						
 9008	dyge	dygr	さらに						
-9008	myknm	krdn	（あることを）する						
-9008	gf	gftn	言う						
+9008	myknm	my_knm	（あることを）する						
+9008	gf	gft	言う						
 9008	mwaẓbt	mwaẓbt	注意						
-3005	twnm	tw	お前	bwdn	・・・である				
-3005	kye	ky	که（だれ）の口語形	bwdn	・・・である				
-3005	awmd	āmdn	来る						
+3005	twnm	tw	お前	estm	・・・である				
+3005	kye	ky	که（だれ）の口語形	ast	・・・である				
+3005	awmd	āmd	来る						
 3005	ayna	ayn	この						
 3005	dr	dr	戸						
 3005	r	ra	・・・を						
-3005	rft	rftn	行く						
-3005	zd	zdn	打つ						
+3005	rft	rft	行く						
+3005	zd	zd	打つ						
 3005	šykar	škar	狩猟						
 3005	grge	grg	狼						
-3005	gft	gftn	言う						
-3005	gft	gftn	言う						
+3005	gft	gft	言う						
+3005	gft	gft	言う						
 3005	madr	madr	母						
 3005	mn	mn	私						
 3005	ey	ey	おや！						
-3004	bzaš	bz	山羊	ea	名詞複数形語尾	aw	あれ、それ		
-3004	bče eaš	ea	名詞複数形語尾	aw	あれ、それ				
-3004	bxrtwn	xwrdn	食べる	šma	あなた				
-3004	bya	āmdn	来る						
+3004	bzaš	bzeay	山羊	aw	あれ、それ		
+3004	bče eaš	bče_eay	子ども	aw	あれ、それ				
+3004	bxrtwn	bxrm	食べる			
+3004	bya	bya	来る						
 3004	be	be	・・・に						
 3004	be	be	・・・に						
 3004	be	be	・・・に						
 3004	čra	čra	放牧						
-3004	myxwast	xwastn	望む						
+3004	myxwast	my_xwast	望む						
 3004	dr	dr	戸						
-3004	bre	rftn	行く						
+3004	bre	bre	行く						
 3004	ŕndya	ŕndy	ガンディー						
-3004	nknyn	krdn	（あることを）する						
-3004	mygft	gftn	言う						
-3004	mygft	gftn	言う						
-3004	wŕty	wŕt	時間						
-3007	dmš	dm	尾	aw	あれ、それ				
+3004	nknyn	nknnd	（あることを）する						
+3004	mygft	my_gft	言う						
+3004	mygft	my_gft	言う						
+3004	wŕty	wŕty	時間						
+3007	dmš	dmš	尾				
 3007	čy	če	なに						
-3007	krd	krdn	（あることを）する						
-3006	dare	daštn	持つ						
+3007	krd	krd	（あることを）する						
+3006	dare	dard	持つ						
 3006	dm	dm	尾						
-3006	gft	gftn	言う						
+3006	gft	gft	言う						
 3006	ma	ma	私たち						
 3006	madr	madr	母						
-3001	bwd	bwdn	・・・である						
-3003	bwdnd	bwdn	・・・である						
+3001	bwd	bwd	・・・である						
+3003	bwdnd	bwdnd	・・・である						
 3003	ta	ta	・・・個						
 3003	ta	ta	・・・個						
 3003	ta	ta	・・・個						
@@ -2025,50 +2019,51 @@
 3002	ayn	ayn	この						
 3002	ayn	ayn	この						
 3002	bče	bče	子供						
-3002	bwd	bwdn	・・・である						
+3002	bwd	bwd	・・・である						
 3002	ta	ta	・・・個						
 3002	tw	tw	・・・の中に						
 3002	čear	čear	4						
-3002	dašt	daštn	持つ						
+3002	dašt	dašt	持つ						
 3002	ŕndy	ŕndy	ガンディー						
 3002	lwne	lane	巣						
 3002	ye	yk	1						
-3009	madršwne	madr	母	ānea	彼ら	bwdn	・・・である		
+3009	madršwne	madršan	母	ast	・・・である		
 3009	ayna	ayn	この	ea	名詞複数形語尾				
 3009	ayn	ayn	この						
-3008	smš	sm	蹄	aw	あれ、それ				
-3008	dad	dadn	与える						
-3008	dare	daštn	持つ						
-3008	gft	gftn	言う						
+3008	smš	smš	蹄				
+3008	dad	dad	与える						
+3008	dare	dard	持つ						
+3008	gft	gft	言う						
 3008	nšwn	nšan	しるし						
-1038	ndydm	dydn	見る						
-1039	bde	dadn	与える						
-1039	brm	rftn	行く						
+1038	ndydm	ndydm	見る						
+1039	bde	bde	与える						
+1039	brm	brm	行く						
 1039	ŕl	ql	ころがること						
 1032	ayna	ayn	この	ea	名詞複数形語尾				
 1032	alan	alan	ちょうど今						
 1032	ama	ama	しかし						
 1032	be	be	・・・に						
-1032	plwtyky	pltyk	詐欺						
-1032	jwry	jwr	種類						
+!辞書未登録
+1032	plwtyky	pltyky	詐欺						
+1032	jwry	jwry	種類						
 1032	če	če	なに						
 1032	rw	ra	・・・を						
 1032	rd	rd	足跡						
-1032	krdm	krdn	（あることを）する						
-1032	knm	krdn	（あることを）する						
-1032	mwndm	mandn	留まる						
+1032	krdm	krdm	（あることを）する						
+1032	knm	knm	（あることを）する						
+1032	mwndm	mandm	留まる						
 1032	mn	mn	私						
 1032	em	em	・・もまた						
 1032	ye	yk	1						
 1032	ye	yk	1						
 1033	braš	bray	・・・のために	aw	あれ、それ				
-1033	twš	tw	・・・の中に	aw	あれ、それ				
-1033	damadš	damad	新郎	aw	三人称単数人称代名詞（彼、彼女）				
-1033	brdaštnd	brdaštn	持ち上げる						
-1033	bzrgy	bzrg	大きい						
-1033	bwdnd	bwdn	・・・である						
+1033	twš	twy	・・・の中に	aw	あれ、それ				
+1033	damadš	damadš	新郎				
+1033	brdaštnd	brdaštnd	持ち上げる						
+1033	bzrgy	bzrgy	大きい						
+1033	bwdnd	bwdnd	・・・である						
 1033	pyrzne	pyrzn	老女						
-1033	twy	tw	・・・の中に						
+1033	twy	twy	・・・の中に						
 1033	xaly	xaly	空の						
 1033	dr	dr	戸						
 1033	rw	ra	・・・を						
@@ -2076,32 +2071,33 @@
 1033	rw	ra	・・・を						
 1033	rw	ra	・・・を						
 1033	rw	ra	・・・を						
-1033	rft	rftn	行く						
+1033	rft	rft	行く						
 1033	kdw´y	kdw	かぼちゃ						
-1033	krd	krdn	（あることを）する						
-1033	krd	krdn	（あることを）する						
-1033	krdnd	krdn	（あることを）する						
+1033	krd	krd	（あることを）する						
+1033	krd	krd	（あることを）する						
+1033	krdnd	krdnd	（あることを）する						
 1033	gđaštn	gđaštn	置く						
-1033	gđašte	gđaštn	置く						
+1033	gđašte	gđašte	置く						
 1033	mħtwy	mħtwy	内容						
 1033	ye	yk	1						
-1030	dxtrš	dxtr	娘	aw	三人称単数人称代名詞（彼、彼女）				
-1030	nwe eašw	nwe	孫	aw	三人称単数人称代名詞（彼、彼女）				
+1030	dxtrš	dxtrš	娘				
+1030	nwe eašw	nwe_eay	孫	aw	三人称単数人称代名詞（彼、彼女）				
 1030	šwn	ānea	彼ら						
 1030	šwn	ānea	彼ら						
 1030	aw	aw	三人称単数人称代名詞（彼、彼女）						
-1030	bayd	baystn	・・・ねばならない						
+1030	bayd	bayd	・・・ねばならない						
 1030	b'd	b'd	後に						
-1030	blwzay	blwz	ブラウス						
+1030	blwzay	blwzeay	ブラウス						
 1030	be	be	・・・に						
-1030	bwd	bwdn	・・・である						
+1030	bwd	bwd	・・・である						
 1030	bwdn	bwdn	・・・である						
 1030	pšm	pšm	羊毛						
 1030	ta	ta	・・・まで						
 1030	tw	tw	・・・の中に						
 1030	čnd	čnd	いくら						
 1030	čnd	čnd	いくら						
-1030	čyde	čydn	摘む						
+!辞書未登録
+1030	čyde	čyde	摘む						
 1030	xwne	xane	家						
 1030	xwne	xane	家						
 1030	xyly	xyly	非常に						
@@ -2109,20 +2105,21 @@
 1030	drst	drst	正確に						
 1030	rw	ra	・・・を						
 1030	rw	ra	・・・を						
-1030	rsyd	rsydn	着く						
+1030	rsyd	rsyd	着く						
+!辞書未登録
 1030	rysyd	rystn	紡ぐ						
 1030	zmstwne	zmstan	冬						
-1030	krd	krdn	（あることを）する						
-1030	krd	krdn	（あることを）する						
-1030	krd	krdn	（あることを）する						
+1030	krd	krd	（あることを）する						
+1030	krd	krd	（あることを）する						
+1030	krd	krd	（あることを）する						
 1030	gwsfnda´y	gwsfnd	羊						
 1030	meman	meman	客						
-1030	nx ea	nx	糸						
-1030	wŕty	wŕt	時間						
+1030	nx ea	nxea	糸						
+1030	wŕty	wŕty	時間						
 1031	ħŕyŕtš	ħŕyŕt	真実	aw	あれ、それ				
-1031	bxwrymt	xwrdn	食べる	tw	お前				
+1031	bxwrymt	bxwrym	食べる			
 1031	ayn	ayn	この						
-1031	brgrdm	brgštn	戻る						
+1031	brgrdm	brgštm	戻る						
 1031	be	be	・・・に						
 1031	tw	tw	・・・の中に						
 1031	tw	tw	お前						
@@ -2130,10 +2127,10 @@
 1031	sr	sr	頭						
 1031	šqale	šqal	ジャッカル						
 1031	šyre	šyr	獅子						
-1031	grftnd	grftn	手に取る						
+1031	grftnd	grftnd	手に取る						
 1031	grge	grg	狼						
-1031	gft	gftn	言う						
-1031	gftn	gftn	言う						
+1031	gft	gft	言う						
+1031	gftn	gftnd	言う						
 1031	ma	ma	私たち						
 1031	mn	mn	私						
 1031	mn	mn	私						
@@ -2141,131 +2138,132 @@
 1036	āŕa	āŕa	紳士						
 1036	ay	ay	〈間〉おお（呼びかけ）						
 1036	tw	tw	お前						
-1036	ndydy	dydn	見る						
+1036	ndydy	ndydy	見る						
 1036	šyre	šyr	獅子						
 1036	ŕl	ql	ころがること						
-1036	gft	gftn	言う						
+1036	gft	gft	言う						
 1036	ye	yk	1						
-1037	ndydm	dydn	見る						
-1037	gft	gftn	言う						
+1037	ndydm	ndydm	見る						
+1037	gft	gft	言う						
 1037	walle	walle	神にかけて						
-1034	drš	dr	戸	aw	あれ、それ				
+1034	drš	drš	戸				
 1034	bstn	bstn	閉じる						
 1034	dyge	dygr	（否定詞とともに）もはや…でない						
 1034	rw	ra	・・・を						
-1034	ţwry	ţwr	方法						
-1035	ŕlš	ql	ころがること	aw	あれ、それ				
+1034	ţwry	ţwry	方法						
+1035	ŕlš	qlš	ころがること			
 1035	āŕa	āŕa	紳士						
-1035	awmd	āmdn	来る						
-1035	awmd	āmdn	来る						
-1035	awmd	āmdn	来る						
-1035	awmd	āmdn	来る						
+1035	awmd	āmd	来る						
+1035	awmd	āmd	来る						
+1035	awmd	āmd	来る						
+1035	awmd	āmd	来る						
 1035	ayn	ayn	この						
 1035	be	be	・・・に						
 1035	ta	ta	・・・まで						
-1035	myxwrd	xwrdn	食べる						
-1035	dadnd	dadn	与える						
-1035	rsyd	rsydn	着く						
+1035	myxwrd	my_xwrd	食べる						
+1035	dadnd	dadnd	与える						
+1035	rsyd	rsyd	着く						
 1035	šyre	šyr	獅子						
 1035	ŕl	ql	ころがること						
-1035	emynţwry	emynţwr	このように						
+1035	emynţwry	emynţwry	このように						
 5029	ansan	ansan	人間						
-5029	brd	brdn	持って行く						
+5029	brd	brd	持って行く						
 5029	be	be	・・・に						
-5029	ħyle ay	ħyle	策略						
+5029	ħyle ay	ħyle_ay	策略						
 5028	ansan	ansan	人間						
 5028	be	be	・・・に						
 5028	twr	twr	網						
 5028	xlaşe	xlaşe	要約						
-5028	xwrd	xwrdn	食べる						
+5028	xwrd	xwrd	食べる						
 5021	asb	asb	馬						
 5021	ansan	ansan	人間						
 5021	be	be	・・・に						
 5021	twr	twr	網						
-5021	xwrd	xwrdn	食べる						
+5021	xwrd	xwrd	食べる						
 5021	em	em	・・もまた						
-5020	twrš	twr	網	aw	あれ、それ				
+5020	twrš	twrš	網				
 5020	be	be	・・・に						
-5020	bxwry	xwrdn	食べる						
-5020	gft	gftn	言う						
-5023	reaš	rea	解き放たれた	aw	あれ、それ				
+5020	bxwry	bxwry	食べる						
+5020	gft	gft	言う						
+5023	reaš	reay	解き放たれた	aw	あれ、それ				
 5023	zmany	zman	時代						
-5023	šd	šdn	・・・になる						
-5023	krd	krdn	（あることを）する						
+5023	šd	šd	・・・になる						
+5023	krd	krd	（あることを）する						
 5022	azš	az	（場所）・・・から名詞_او						
 5022	ta	ta	・・・まで						
 5022	twana´y	twanayy	力						
-5022	dašt	daštn	持つ						
-5022	dašt	daštn	持つ						
-5022	zmany	zman	時代						
+5022	dašt	dašt	持つ						
+5022	dašt	dašt	持つ						
+5022	zmany	zmany	時代						
 5022	ŕdrt	ŕdrt	力						
-5022	krd	krdn	（あることを）する						
-5022	kšd	kšydn	引く						
+5022	krd	krd	（あることを）する						
+5022	kšd	kšd	引く						
 5022	em	em	・・もまた						
-5025	čye	če	なに	bwdn	・・・である				
+5025	čye	če	なに	ast	・・・である				
 5025	ansan	ansan	人間						
 5025	ayn	ayn	この						
 5025	šyr	šyr	獅子						
-5025	gft	gftn	言う						
+5025	gft	gft	言う						
 5025	mge	mgr	まさか・・・とは						
 5024	be	be	・・・に						
 5024	tw	tw	・・・の中に						
-5024	twy	tw	・・・の中に						
+5024	twy	twy	・・・の中に						
 5024	jngl	jngl	森						
-5024	rft	rftn	行く						
+5024	rft	rft	行く						
 5024	šyr	šyr	獅子						
 5024	şħra	şħra	砂漠						
-5027	bzrgtryn	bzrg	大きい						
+5027	bzrgtryn	bzrgtryn	大きい						
 5027	twana´y	twanayy	力						
 5027	jngl	jngl	森						
 5027	ħywan	ħywan	動物						
 5027	ŕdrt	ŕdrt	力						
 5027	mn	mn	私						
+!辞書未登録　どう処理するか
 5026	drš myarm	drāwrdn	取り出す	aw	あれ、それ				
 5026	agr	agr	もしも・・・ならば						
 5026	ansan	ansan	人間						
 5026	pa	pa	足						
 5026	mn	mn	私						
-10004	zndgyšwn	zndgy	生	ānea	彼ら				
-10004	škareašan	škar	狩猟	ānea	彼ら				
+10004	zndgyšwn	zndgyšan	生				
+10004	škareašan	škareay	狩猟	ānea	彼ら				
 10004	aŕdam	aŕdam	措置						
 10004	ān	ān	あれ						
-10004	āwrdnd	āwrdn	持ってくる						
+10004	āwrdnd	āwrdnd	持ってくる						
 10004	ayn	ayn	この						
 10004	b'd	b'd	後に						
 10004	be	be	・・・に						
 10004	be	be	・・・に						
 10004	tŕsym	tŕsym	分割						
-10004	krdnd	krdn	（あることを）する						
+10004	krdnd	krdnd	（あることを）する						
 10004	mŕrّ	mŕr	住所						
 10004	nsbt	nsbt	関連						
 10005	xwdmwn	xwd	自身	ma	私たち				
 10005	ayn	ayn	この						
-10005	ast	bwdn	・・・である						
-10005	prsyd	prsydn	尋ねる						
+10005	ast	ast	・・・である						
+10005	prsyd	prsyd	尋ねる						
 10005	tŕsym	tŕsym	分割						
 10005	jngl	jngl	森						
-10005	jwry	jwr	種類						
+10005	jwry	jwry	種類						
 10005	če	če	なに						
 10005	slţan	slţan	王						
-10005	škarea	škar	狩猟						
+10005	škarea	škarea	狩猟						
 10005	šyr	šyr	獅子						
-10005	knym	krdn	（あることを）する						
-10006	brgšt	brgštn	戻る						
+10005	knym	knym	（あることを）する						
+10006	brgšt	brgšt	戻る						
 10006	bla	bla	…なしに						
 10006	faşle	faşle	距離						
-10006	gft	gftn	言う						
-10007	āswny	āsan	容易な						
+10006	gft	gft	言う						
+10007	āswny	āsany	容易な						
 10007	ayn	ayn	この						
-10007	ast	bwdn	・・・である						
+10007	ast	ast	・・・である						
 10007	jngl	jngl	森						
-10007	xwby	xwb	良い						
+10007	xwby	xwby	良い						
 10007	slţan	slţan	王						
-10001	bwd	bwdn	・・・である						
-10001	jngly	jngl	森						
+10001	bwd	bwd	・・・である						
+10001	jngly	jngly	森						
 10001	dr	dr	…の中に						
 10001	šyr	šyr	獅子						
-10002	rwz ea	rwz	日	ea	名詞複数形語尾				
+10002	rwz ea	rwzea	日				
 10002	atfaŕ	atfaŕ	一致						
 10002	bray	bray	・・・のために						
 10002	be	be	・・・に						
@@ -2277,67 +2275,68 @@
 10002	em	em	・・もまた						
 10003	āew	āew	かもしか						
 10003	ayn	ayn	この						
-10003	twanstnd	twanstn	・・・できる						
+10003	twanstnd	twanstnd	・・・できる						
 10003	xrgwš	xrgwš	うさぎ						
 10003	dwst	dwst	友人						
 10003	škar	škar	狩猟						
-10003	knn	krdn	（あることを）する						
+10003	knn	knn	（あることを）する						
 10003	gaw	gaw	牛						
-10008	ndard	daštn	持つ						
-10008	mškly	mškl	困難な						
+10008	ndard	ndard	持つ						
+10008	mškly	mškly	困難な						
 10009	āew	āew	かもしか						
 10009	tw	tw	お前						
 10009	xrgwš	xrgwš	うさぎ						
-10009	ndard	daštn	持つ						
+10009	ndard	ndard	持つ						
 10009	gaw	gaw	牛						
 10009	mal	mal	財産						
 10009	mal	mal	財産						
 10009	mal	mal	財産						
-10009	mškly	mškl	困難な						
+10009	mškly	mškly	困難な						
 10009	mn	mn	私						
 10009	em	em	・・もまた						
-5058	gftš	gftn	言う	aw	あれ、それ				
+5058	gftš	gft	言う			
 5058	pšt	pšt	・・・背						
 5058	rw	rw	・・・の上に						
 5058	swar	swar	馬に乗って						
-5058	bšyn	šdn	・・・になる						
+5058	bšyn	bšwnd	・・・になる						
 5058	šma	šma	あなた						
 5058	em	em	・・もまた						
 5059	ansan	ansan	人間						
 5059	payyn	payyn	下に						
 5059	ta	ta	・・・まで						
-5059	bkšym	kšydn	引く						
+5059	bkšym	bkšym	引く						
 5054	ayna	ayn	この						
-5054	balay	bala	上部						
-5054	trsyd	trsydn	恐れる						
+5054	balay	balay	上部						
+5054	trsyd	trsyd	恐れる						
 5054	dst	dst	手						
-5054	rft	rftn	行く						
-5054	krd	krdn	（あることを）する						
+5054	rft	rft	行く						
+5054	krd	krd	（あることを）する						
 5054	ye	yk	1						
 5055	artfa'š	artfa'	高さ	aw	あれ、それ				
-5055	bzrgy	bzrg	大きい						
-5055	bwd	bwdn	・・・である						
-5055	bwd	bwdn	・・・である						
+5055	bzrgy	bzrgy	大きい						
+5055	bwd	bwd	・・・である						
+5055	bwd	bwd	・・・である						
 5055	zyad	zyad	たいへん						
 5056	bala	bala	上部						
-5056	rft	rftn	行く						
+5056	rft	rft	行く						
 5057	ansan	ansan	人間						
 5057	ayn	ayn	この						
 5057	be	be	・・・に						
-5057	nmytwne	twanstn	・・・できる						
+5057	nmytwne	nmy_twand	・・・できる						
 5057	xwb	xwb	良い						
-5057	dyd	dydn	見る						
+5057	dyd	dyd	見る						
 5057	šyr	šyr	獅子						
-5050	byayyd	āmdn	来る						
+5050	byayyd	byāynd	来る						
 5050	ansan	ansan	人間						
 5050	ayn	ayn	この						
 5050	be	be	・・・に						
 5050	pa	pa	足						
+!辞書未登録
 5050	dr byarym	drāwrdn	取り出す						
 5050	dst	dst	手						
 5050	dst	dst	手						
 5050	em	em	・・もまた						
-5051	šyra	šyr	獅子	ea	名詞複数形語尾				
+5051	šyra	šyrea	獅子			
 5051	jm'	jm'	集合						
 5051	šdn	šdn	・・・になる						
 5051	eme	eme	すべて						
@@ -2346,76 +2345,76 @@
 5052	be	be	・・・に						
 5052	jm'	jm'	集合						
 5052	šdn	šdn	・・・になる						
-5052	ţrf	ţrf1	方向						
+5052	ţrf	ţrf	方向						
 5052	eme	eme	すべて						
-5053	šyra	šyr	獅子	ea	名詞複数形語尾				
+5053	šyra	šyrea	獅子			
 5053	awmdn	āmdn	来る						
 5053	ansan	ansan	人間						
-5053	dyd	dydn	見る						
+5053	dyd	dyd	見る						
 5053	eme	eme	すべて						
-2037	kye	ky	که（だれ）の口語形	bwdn	・・・である				
-2037	kye	ky	که（だれ）の口語形	bwdn	・・・である				
+2037	kye	ky	که（だれ）の口語形	ast	・・・である				
+2037	kye	ky	که（だれ）の口語形	ast	・・・である				
 2037	āŕa	āŕa	紳士						
 2037	grge	grg	狼						
-2037	gft	gftn	言う						
-2036	paš	pa	足	aw	あれ、それ				
+2037	gft	gft	言う						
+2036	paš	paš	足				
 2036	pštbwn	pšt	・・・の後ろに	bam	屋根				
 2036	pštbwn	pšt	・・・の後ろに	bam	屋根				
 2036	āŕa	āŕa	紳士						
 2036	āŕa	āŕa	紳士						
-2036	awmd	āmdn	来る						
+2036	awmd	āmd	来る						
 2036	be	be	・・・に						
 2036	tŕ	tŕ	がたんという音						
 2036	tŕ	tŕ	がたんという音						
 2036	čyz	čyz	もの						
-2036	rft	rftn	行く						
-2036	rft	rftn	行く						
+2036	rft	rft	行く						
+2036	rft	rft	行く						
 2036	rw	rw	・・・の上に						
 2036	rw	rw	・・・の上に						
 2036	šrw'	šrw'	始め						
 2036	ŕndy	ŕndy	ガンディー						
-2036	krd	krdn	（あることを）する						
+2036	krd	krd	（あることを）する						
 2036	krdn	krdn	（あることを）する						
 2036	kwbydn	kwbydn	たたく						
 2036	grge	grg	狼						
 2036	grge	grg	狼						
-2036	eway	ewa	空気						
-2035	xwdš	xwd	自身	aw	あれ、それ				
-2035	awmd	āmdn	来る						
+2036	eway	eway	空気						
+2035	xwdš	xwdš	自身			
+2035	awmd	āmd	来る						
 2035	aynja	aynja	ここ（に）						
 2035	baz	baz	開いた						
-2035	brd	brdn	持って行く						
-2035	šdm	šdn	・・・になる						
+2035	brd	brd	持って行く						
+2035	šdm	šdm	・・・になる						
 2035	šngwl	šngwl	シャングール						
 2035	ŕaym	ŕaym	直立の、垂直の						
-2035	krdm	krdn	（あることを）する						
-2035	krdym	krdn	（あることを）する						
-2035	grftw	grftn	手に取る						
-2035	wŕty	wŕt	時間						
+2035	krdm	krdm	（あることを）する						
+2035	krdym	krdym	（あることを）する						
+2035	grftw	grft	手に取る	w	〜と						
+2035	wŕty	wŕty	時間						
 2034	baz	baz	開いた						
 2034	dr	dr	戸						
-2034	krdym	krdn	（あることを）する						
+2034	krdym	krdym	（あることを）する						
 2034	ma	ma	私たち						
 2034	em	em	・・もまた						
-2033	awmd	āmdn	来る						
+2033	awmd	āmd	来る						
 2033	baz	baz	再び						
 2033	dw	dw	2						
 2033	r	ra	・・・を						
-2033	rft	rftn	行く						
-2033	zd	zdn	打つ						
+2033	rft	rft	行く						
+2033	zd	zd	打つ						
 2033	ma	ma	私たち						
-2032	pašw	pa	足	aw	あれ、それ				
+2032	pašw	paš	足				
 2032	b'd	b'd	後に						
-2032	nystw	bwdn	・・・である						
+2032	nystw	nyst	・・・である						
 2032	tw	tw	・・・の中に						
 2032	dst	dst	手						
-2032	dydm	dydn	見る						
-2032	krd	krdn	（あることを）する						
+2032	dydm	dydm	見る						
+2032	krd	krd	（あることを）する						
 2032	ne	ne	（否定の答え）いいえ						
-2031	gftš	gftn	言う	aw	あれ、それ				
-2031	ħna´ye	ħnayy	あずき色の	bwdn	・・・である				
+2031	gftš	gft	言う			
+2031	ħna´ye	ħnayy	あずき色の	ast	・・・である				
 2031	āŕa	āŕa	紳士						
-2031	awmd	āmdn	来る						
+2031	awmd	āmd	来る						
 2031	aynja	aynja	ここ（に）						
 2031	b'd	b'd	後に						
 2031	pay	pa	足						
@@ -2424,39 +2423,39 @@
 2031	dr	dr	戸						
 2031	dst	dst	手						
 2031	rftn	rftn	行く						
-2031	zd	zdn	打つ						
+2031	zd	zd	打つ						
 2031	šma	šma	あなた						
-2031	mykny	krdn	（あることを）する						
+2031	mykny	my_kny	（あることを）する						
 2031	grge	grg	狼						
-2031	gft	gftn	言う						
-2031	gftym	gftn	言う						
+2031	gft	gft	言う						
+2031	gftym	gftym	言う						
 2031	ma	ma	私たち						
 2031	ma	ma	私たち						
 2030	dw	dw	2						
 2030	šrw'	šrw'	始め						
-2030	krd	krdn	（あることを）する						
+2030	krd	krd	（あることを）する						
 2030	krdn	krdn	（あることを）する						
-2039	bče eay	bče	子供	ea	名詞複数形語尾				
+2039	bče eay	bče_eay	子供				
 2039	āš	āš	イラン風スープ						
 2039	pr	pr	満ちた						
-2039	mykne	krdn	（あることを）する						
+2039	mykne	my_knd	（あることを）する						
 2038	taptap	tptp	ぱたぱたいう音						
-2038	mykne	krdn	（あることを）する						
-9025	xwrd	xwrdn	食べる						
-9025	rft	rftn	行く						
-9025	rft	rftn	行く						
-9025	krd	krdn	（あることを）する						
+2038	mykne	my_knd	（あることを）する						
+9025	xwrd	xwrd	食べる						
+9025	rft	rft	行く						
+9025	rft	rft	行く						
+9025	krd	krd	（あることを）する						
 9025	grge	grg	狼						
 9025	em	em	・・もまた						
-4019	awmde	āmdn	来る						
-4019	byay	āmdn	来る						
-4019	bayd	baystn	・・・ねばならない						
+4019	awmde	āmde	来る						
+4019	byay	byāyy	来る						
+4019	bayd	bayd	・・・ねばならない						
 4019	tw	tw	お前						
 4019	tw	tw	お前						
 4019	ħsabِ	ħsab	計算						
-4019	bxwr	xwrdn	食べる						
-4019	xwrde	xwrdn	食べる						
-4019	brm	rftn	行く						
+4019	bxwr	bxwr	食べる						
+4019	xwrde	xwrde	食べる						
+4019	brm	brwm	行く						
 4019	šngwl	šngwl	シャングール						
 4019	šyr	šyr	乳						
 4019	šyr	šyr	乳						
@@ -2464,37 +2463,38 @@
 4019	mn	mn	私						
 4019	wُ	w	そして						
 4018	mamanš	maman	ママ	aw	あれ、それ				
-4018	bya	āmdn	来る						
-4018	myad	āmdn	来る						
-4018	myad	āmdn	来る						
+4018	bya	bya	来る						
+4018	myad	my_āyd	来る						
+4018	myad	my_āyd	来る						
 4018	bze	bz	山羊						
-4018	bde	dadn	与える						
+4018	bde	bde	与える						
 4018	šngwl	šngwl	シャングール						
 4018	šyr	šyr	乳						
 4018	mn	mn	私						
 4018	mn	mn	私						
-4013	xwdš	xwd	自身	aw	あれ、それ				
-4013	myad	āmdn	来る						
+4013	xwdš	xwdš	自身				
+4013	myad	my_āyd	来る						
 4013	xwrde	xrde	断片						
 4013	dwbare	dwbare	再び						
-4013	myre	rftn	行く						
+4013	myre	my_rwd	行く						
 4013	rng	rng	色						
-4013	mykne	krdn	（あることを）する						
+4013	mykne	my_knd	（あることを）する						
 4013	ye	yk	1						
-4012	ast	bwdn	・・・である						
+4012	ast	ast	・・・である						
 4012	syae	syae	黒い						
 4012	mn	mn	私						
+!辞書未
 4011	ŕşe aš	ŕşe	物語	aw	あれ、それ				
 4011	aynw	ayn	この	ra	・・・を				
 4011	albte	albte	もちろん						
 4011	bray	bray	・・・のために						
 4011	twn	šma	あなた						
-4011	mygm	gftn	言う						
+4011	mygm	my_gym	言う						
 4010	mn	mn	私						
 4017	mamanš	maman	ママ	aw	あれ、それ				
-4017	myad	āmdn	来る						
+4017	myad	my_āyd	来る						
 4017	ta	ta	・・・まで						
-4016	myad	āmdn	来る						
+4016	myad	my_āyd	来る						
 4016	awna	ānea	彼ら						
 4016	pr	pr	満ちた						
 4016	pyrn	pyraen	シャツ						
@@ -2502,14 +2502,14 @@
 4016	tndwr	tnwr	パン焼きがま						
 4016	tw	tw	・・・の中に						
 4016	ħyaţ	ħyaţ	中庭						
-4016	myxwr	xwrdn	食べる						
+4016	myxwr	my_xwrd	食べる						
 4016	dr	dr	戸						
 4016	dw	dw	2						
 4016	r	ra	・・・を						
-4016	myre	rftn	行く						
-4016	myre	rftn	行く						
-4016	myše	šdn	・・・になる						
-4016	myškne	škstn	こわす						
+4016	myre	my_rwd	行く						
+4016	myre	my_rwd	行く						
+4016	myše	my_šwd	・・・になる						
+4016	myškne	my_šknd	こわす						
 4016	šngwl	šngwl	シャングール						
 4016	ŕaym	ŕaym	直立の、垂直の						
 4016	gl	gl	花						
@@ -2517,23 +2517,23 @@
 4016	em	em	・・もまた						
 4015	tw	tw	お前						
 4015	mn	mn	私						
-4014	maman tam	maman	ママ	tw	お前	bwdn	・・・である		
+4014	maman tam	maman	ママ	tw	お前	estm	・・・である		
 4014	baz	baz	開いた						
 4014	dr	dr	戸						
 4014	šngwl	šngwl	シャングール						
-4014	kn	krdn	（あることを）する						
+4014	kn	kn	（あることを）する						
 4014	mn	mn	私						
 4014	mn	mn	私						
-3041	dndwnš	dndan	歯	aw	あれ、それ				
+3041	dndwnš	dndanš	歯			
 3041	kndn	čndan	それほど						
 3041	dndwna	dndan	歯						
 3041	dyge	dygr	さらに						
 3041	r	ra	・・・を						
 3040	alan	alan	ちょうど今						
-3040	andaxt	andaxtn	投げる						
+3040	andaxt	andaxt	投げる						
 3040	dndwn	dndan	歯						
-3040	dyd	dydn	見る						
-3040	krd	krdn	（あることを）する						
+3040	dyd	dyd	見る						
+3040	krd	krd	（あることを）する						
 3040	kl	gaz	噛むこと						
 3040	mçl	mçl	類似						
 3040	mn	mn	私						
@@ -2541,142 +2541,143 @@
 3040	emčyny	emčyn	همچنینの短縮形						
 3040	ey	ey	おや！						
 3040	ey	ey	おや！						
-3043	xwnšwn	xane	家	ānea	彼ら				
-3043	bče eaš	bče	子供	aw	あれ、それ				
+3043	xwnšwn	xanešan	家				
+3043	bče eaš	bče_eay	子供	aw	あれ、それ				
 3043	āb	āb	水						
 3043	āb	āb	水						
-3043	awmd	āmdn	来る						
-3043	brd	brdn	持って行く						
+3043	awmd	āmd	来る						
+3043	brd	brd	持って行く						
 3043	tw	tw	・・・の中に						
-3043	kšyd	kšydn	引く						
+3043	kšyd	kšyd	引く						
 3042	aynw	ayn	この	ra	・・・を				
 3042	byrwn	byrwn	外で						
-3042	prydnd	prydn	跳ぶ						
+3042	prydnd	prydnd	跳ぶ						
 3042	tw	tw	・・・の中に						
 3042	r	ra	・・・を						
 3042	šax	šax	角						
 3042	škm	škm	腹						
 3042	šngwl	šngwl	シャングール						
 3042	frw	frw	下へ						
-3042	krd	krdn	（あることを）する						
+3042	krd	krd	（あることを）する						
 3042	em	em	・・もまた						
-3045	myxwrtwn	xwrdn	食べる	šma	あなた				
+3045	myxwrtwn	my_xwrm	食べる			
 3045	agr	agr	もしも・・・ならば						
 3045	ayn	ayn	この						
-3045	bxwryn	xwrdn	食べる						
+3045	bxwryn	bxwrnd	食べる						
 3045	dr	dr	戸						
 3045	dyge	dygr	さらに						
-3045	knyn	krdn	（あることを）する						
-3044	xwnšwn	xane	家	ānea	彼ら				
-3044	bče eaš	bče	子供	aw	あれ、それ				
-3044	awmd	āmdn	来る						
+3045	knyn	knnd	（あることを）する						
+3044	xwnšwn	xanešan	家				
+3044	bče eaš	bče_eay	子供	aw	あれ、それ				
+3044	awmd	āmd	来る						
 3044	aynja	aynja	ここ（に）						
 3044	be	be	・・・に						
 3044	ta	ta	・・・個						
-3044	nxwryn	xwrdn	食べる						
+3044	nxwryn	nxwrnd	食べる						
 3044	de	de	10						
 3044	dyge	dygr	（否定詞とともに）もはや…でない						
-3044	gft	gftn	言う						
-3047	xwnš	xane	家	aw	あれ、それ				
+3044	gft	gft	言う						
+3047	xwnš	xane_aš	家				
 3047	be	be	・・・に						
-3047	nrsyd	rsydn	着く						
+3047	nrsyd	nrsyd	着く						
 3047	qlaqe	klaq	からす						
 3046	be	be	・・・に						
-3046	rsyd	rsydn	着く						
+3046	rsyd	rsyd	着く						
 3046	sr	sr	頭						
 3046	ŕşe	ŕşe	物語						
 3046	ma	ma	私たち						
 3038	baem	baem	ともに						
 3038	bna°	bna°	開始						
 3038	be	be	・・・に						
-3038	palapala	palapal	〈古〉騒ぎ						
+3038	palapala	palapal	〈古〉騒ぎ
 3038	prydn	prydn	跳ぶ						
 3038	ħsab	ħsab	計算						
 3038	dyge	dygr	さらに						
-3038	krdnd	krdn	（あることを）する						
-3038	knnd	krdn	（あることを）する						
-3038	knnd	krdn	（あることを）する						
+3038	krdnd	krdnd	（あることを）する						
+3038	knnd	knnd	（あることを）する						
+3038	knnd	knnd	（あることを）する						
 3038	ey	ey	おや！						
-6014	kart	kar	仕事	tw	お前				
+6014	kart	kart	仕事				
 6014	payyn	payyn	下に						
-6014	mytrse	trsydn	恐れる						
+6014	mytrse	my_trsd	恐れる						
 6014	šyre	šyr	獅子						
 6014	šyre	šyr	獅子						
-6011	myxwrmt	xwrdn	食べる	tw	お前				
-6011	aysty	aystadn	立つ						
-6011	brw	rftn	行く						
-6011	kn	krdn	（あることを）する						
-6013	balay	bala	上部						
-6013	myre	rftn	行く						
-6012	myad	āmdn	来る						
+6011	myxwrmt	my_xwrm	食べる			
+6011	aysty	aysty	立つ						
+6011	brw	brw	行く						
+6011	kn	kn	（あることを）する						
+6013	balay	balay	上部						
+6013	myre	my_rwd	行く						
+6012	myad	my_āyd	来る						
 6012	awnwŕt	ānwŕt	その時						
 6012	ayn	ayn	この						
 6012	b'da˝	b'da	後に						
 6012	jngl	jngl	森						
 6012	rw	ra	・・・を						
-6012	myre	rftn	行く						
-6012	sal ea	sal	年						
+6012	myre	my_rwd	行く						
+6012	sal ea	sal_ea	年						
 6012	šyre	šyr	獅子						
-6012	mykne	krdn	（あることを）する						
-6012	mygđre	gđštn	（時が）過ぎる						
-6012	mdt ea	mdt	期間						
+6012	mykne	my_knd	（あることを）する						
+6012	mygđre	my_gđrd	（時が）過ぎる						
+6012	mdt ea	mdt_ea	期間						
 6012	wŕt	wŕt	時間						
 6012	ye	yk	1						
-6015	açry	açr	跡						
-6015	myad	āmdn	来る						
+6015	açry	açry	跡						
+6015	myad	my_āyd	来る						
 6015	ansan	ansan	人間						
 6015	be	be	・・・に						
 6015	payyn	payyn	下に						
 6015	sr	sr	頭						
 6015	šyre	šyr	獅子						
-6015	kn	krdn	（あることを）する						
+6015	kn	kn	（あることを）する						
 6015	mn	mn	私						
 6015	wŕt	wŕt	時間						
-3039	šaxš	šax	角	aw	あれ、それ				
-3039	škmš	škm	腹	aw	あれ、それ				
-3039	awmd	āmdn	来る						
+3039	šaxš	šaxš	角				
+3039	škmš	škmš	腹				
+3039	awmd	āmd	来る						
 3039	bala	bala	上部						
 3039	payyn	payyn	下に						
 3039	tُk	tk	先						
 3039	tw	tw	・・・の中に						
-3039	rft	rftn	行く						
+3039	rft	rft	行く						
 3039	ŕndy	ŕndy	ガンディー						
-3039	krd	krdn	（あることを）する						
+3039	krd	krd	（あることを）する						
 3039	ey	ey	おや！						
-6017	açry	açr	跡						
+6017	açry	açry	跡						
 6017	tw	tw	・・・の中に						
 6017	sr	sr	頭						
 6017	mn	mn	私						
-6016	srš	sr	頭	aw	あれ、それ				
-6016	açry	açr	跡						
-6016	açry	açr	跡						
+6016	srš	srš	頭				
+6016	açry	açry	跡						
+6016	açry	açry	跡						
 6016	be	be	・・・に						
 6016	tw	tw	・・・の中に						
 6016	tw	tw	お前						
-6016	zdm	zdn	打つ						
+6016	zdm	zdm	打つ						
 6016	sr	sr	頭						
 6016	šyre	šyr	獅子						
-6016	mykne	krdn	（あることを）する						
+6016	mykne	my_knd	（あることを）する						
 6016	mn	mn	私						
 6016	ne	ne	（否定の答え）いいえ						
 6016	ne	ne	（否定の答え）いいえ						
-3034	pdry	pdr	父						
+3034	pdry	pdry	父						
+!辞書未登録
 3034	drbyarm	drāwrdn	取り出す						
-3034	gft	gftn	言う						
-3035	dndwnay	dndan	歯	ea	名詞複数形語尾				
+3034	gft	gft	言う						
+3035	dndwnay	dndan_eay	歯				
 3035	ayn	ayn	この						
 3035	tmam	tmam	すべての						
-3035	kšyd	kšydn	引く						
-3036	dndwnaš	dndan	歯	ea	名詞複数形語尾	aw	あれ、それ		
-3036	rftnd	rftn	行く						
-3036	šd	šdn	・・・になる						
+3035	kšyd	kšyd	引く						
+3036	dndwnaš	dndan_eay	歯	aw	あれ、それ		
+3036	rftnd	rftnd	行く						
+3036	šd	šd	・・・になる						
 3036	şbħ	şbħ	朝						
-3036	kšyd	kšydn	引く						
-3037	bza	bz	山羊	ea	名詞複数形語尾				
-3037	grga	grg	狼	ea	名詞複数形語尾				
-3037	awmd	āmdn	来る						
-3037	awmd	āmdn	来る						
-3037	awmdnd	āmdn	来る						
+3036	kšyd	kšyd	引く						
+3037	bza	bzea	山羊				
+3037	grga	grg_ea	狼				
+3037	awmd	āmd	来る						
+3037	awmd	āmd	来る						
+3037	awmdnd	āmdnd	来る						
 3037	jm'	jm'	集合						
 3037	šdn	šdn	・・・になる						
 3037	ŕndy	ŕndy	ガンディー						
@@ -2684,39 +2685,39 @@
 3030	awmd	āmdn	来る						
 3030	xwne	xane	家						
 3030	slmany	slmany	床屋						
-3031	bndazm	andaxtn	投げる						
+3031	bndazm	bandazm	投げる						
 3031	ayn	ayn	この						
 3031	aynŕdr	aynŕdr	こんなに						
-3031	bašm	bwdn	・・・である						
+3031	bašm	bašm	・・・である						
 3031	čl	čak	裂け目						
-3031	xwrde	xwrdn	食べる						
-3031	dndwnay	dndan	歯						
+3031	xwrde	xwrde	食べる						
+3031	dndwnay	dndan_eay	歯						
 3031	slmany	slmany	床屋						
-3031	kny	krdn	（あることを）する						
-3031	gft	gftn	言う						
+3031	kny	kny	（あることを）する						
+3031	gft	gft	言う						
 3031	emyn	emyn	まさしくこの						
 3032	awww	awww	唸り声						
 3032	dr	dr	戸						
 3032	r	ra	・・・を						
-3032	krd	krdn	（あることを）する						
+3032	krd	krd	（あることを）する						
 3032	embwne	embwne	革袋						
-3032	wŕty	wŕt	時間						
+3032	wŕty	wŕty	時間						
 3033	adby	adby	文学の						
 3033	aynŕdr	aynŕdr	こんなに						
 3033	byčare	byčare	哀れな						
-3033	pryd	prydn	跳ぶ						
+3033	pryd	pryd	跳ぶ						
 3033	tw	tw	・・・の中に						
 3033	čše	čšm	目						
 3033	čše	čšm	目						
 3033	rw	ra	・・・を						
 3033	slmwnye	slmany	床屋						
-3033	šw	šdn	・・・になる						
+3033	šw	šwd	・・・になる						
 3033	fs	fs	屁						
 3033	fs	fs	屁						
 3033	fs	fs	屁						
 3033	fs	fs	屁						
-3033	krd	krdn	（あることを）する						
-3033	krd	krdn	（あることを）する						
+3033	krd	krd	（あることを）する						
+3033	krd	krd	（あることを）する						
 3033	kwr	kwr	盲目の						
 3033	nxwde	nxwd	えんどう						
 3033	em	em	・・もまた						
@@ -2725,49 +2726,50 @@
 6018	tw	tw	・・・の中に						
 6018	tw	tw	お前						
 6018	zxm	zxm	傷						
-6018	zdy	zdn	打つ						
+6018	zdy	zdy	打つ						
 6018	mn	mn	私						
 6018	wly	wly	しかし						
-5010	jwrye	jwr	種類	bwdn	・・・である				
+5010	jwrye	jwr	種類	ast	・・・である				
 5010	ansan	ansan	人間						
 5010	ayn	ayn	この						
 5010	če	če	どうして						
-5010	gft	gftn	言う						
+5010	gft	gft	言う						
 5011	be	be	・・・に						
 5011	ta	ta	・・・まで						
 5011	ħal	ħal	状態						
-5011	ndydm	dydn	見る						
+5011	ndydm	ndydm	見る						
 5011	mn	mn	私						
+!
 5012	drt myare	drāwrdn	取り出す	tw	お前				
 5012	agr	agr	もしも・・・ならば						
 5012	ansan	ansan	人間						
 5012	be	be	・・・に						
 5012	pa	pa	足						
 5012	twr	twr	網						
-5012	bxwry	xwrdn	食べる						
-5012	gft	gftn	言う						
+5012	bxwry	bxwry	食べる						
+5012	gft	gft	言う						
 5013	ansan	ansan	人間						
 5013	be	be	・・・に						
 5013	twr	twr	網						
 5013	xlaşe	xlaşe	要約						
-5013	xwrd	xwrdn	食べる						
+5013	xwrd	xwrd	食べる						
 5013	štr	štr	らくだ						
 5014	azš	az	（場所）・・・から	aw	あれ、それ				
-5014	reaš	rea	解き放たれた	aw	あれ、それ				
+5014	reaš	reaš	解き放たれた				
 5014	ansan	ansan	人間						
 5014	pyr	pyr	年老いた						
 5014	rw	ra	・・・を						
 5014	štr	štr	らくだ						
-5014	šd	šdn	・・・になる						
-5014	krd	krdn	（あることを）する						
-5014	kšyd	kšydn	引く						
-5014	kšyd	kšydn	引く						
-5014	grft	grftn	手に取る						
+5014	šd	šd	・・・になる						
+5014	krd	krd	（あることを）する						
+5014	kšyd	kšyd	引く						
+5014	kšyd	kšyd	引く						
+5014	grft	grft	手に取る						
 5014	em	em	・・もまた						
 5015	ayn	ayn	この						
 5015	tw	tw	・・・の中に						
 5015	tw	tw	・・・の中に						
-5015	twy	tw	・・・の中に						
+5015	twy	twy	・・・の中に						
 5015	jngl	jngl	森						
 5015	em	em	・・もまた						
 5016	asb	asb	馬						
@@ -2776,68 +2778,69 @@
 5017	asb	asb	馬						
 5017	čy	če	どうして						
 5017	šde	šdn	・・・になる						
-5017	gft	gftn	言う						
+5017	gft	gft	言う						
 5017	em	em	・・もまた						
 5018	ansan	ansan	人間						
 5018	dst	dst	手						
-5018	krdm	krdn	（あることを）する						
-5018	gft	gftn	言う						
-5019	čye	če	なに	bwdn	・・・である				
+5018	krdm	krdm	（あることを）する						
+5018	gft	gft	言う						
+5019	čye	če	なに	ast	・・・である				
 5019	ansan	ansan	人間						
-5019	gft	gftn	言う						
+5019	gft	gft	言う						
 5019	mgr	mgr	まさか・・・とは						
 5047	dr	dr	戸						
 5047	rw	ra	・・・を						
-5047	škst	škstn	こわす						
+5047	škst	škst	こわす						
 5047	ŕfs	ŕfs	鳥かご						
-5047	krd	krdn	（あることを）する						
-5046	bwd	bwdn	・・・である						
-5046	bwd	bwdn	・・・である						
-5046	tlašy	tlaš	努力						
+5047	krd	krd	（あることを）する						
+5046	bwd	bwd	・・・である						
+5046	bwd	bwd	・・・である						
+5046	tlašy	tlašy	努力						
 5046	jwr	jwr	種類						
 5046	xlaşe	xlaşe	要約						
-5046	krde	krdn	（あることを）する						
+5046	krde	krde	（あることを）する						
 5045	ābjwš	ābjwš	煮え湯						
 5045	ayn	ayn	この						
-5045	ryxt	ryxtn	注ぐ						
-5045	swxt	swxtn	燃える						
-5044	frarkne	frar	逃亡	krdn	（あることを）する				
-5044	ntwnst	twanstn	・・・できる						
+5045	ryxt	ryxt	注ぐ						
+5045	swxt	swxt	燃える						
+5044	frarkne	frar	逃亡	my_knd	（あることを）する				
+5044	ntwnst	ntwanst	・・・できる						
 5044	ŕfs	ŕfs	鳥かご						
-5044	kary	kar	仕事						
-5044	krd	krdn	（あることを）する						
+5044	kary	kary	仕事						
+5044	krd	krd	（あることを）する						
 5042	ābjwš	ābjwš	煮え湯						
-5042	balay	bala	上部						
+5042	balay	balay	上部						
 5042	ħaźr	ħaźr	準備できた						
 5042	rw	rw	・・・の上に						
-5042	ryxt	ryxtn	注ぐ						
+5042	ryxt	ryxt	注ぐ						
 5042	sr	sr	頭						
 5042	šyr	šyr	獅子						
 5042	ŕfs	ŕfs	鳥かご						
-5042	krd	krdn	（あることを）する						
+5042	krd	krd	（あることを）する						
 5041	ābjwš	ābjwš	煮え湯						
 5041	ayn	ayn	この						
 5041	bray	bray	・・・のために						
 5041	čy	če	なに						
 5041	šyr	šyr	獅子						
-5041	gft	gftn	言う						
-5040	emsrš	emsr	配偶者	aw	あれ、それ				
+5041	gft	gft	言う						
+5040	emsrš	emsrš	配偶者				
 5040	bram	bray	・・・のために	mn	私				
 5040	ābjwš	ābjwš	煮え湯						
-5040	bst	bstn	閉じる						
+5040	bst	bst	閉じる						
 5040	be	be	・・・に						
 5040	ħaźr	ħaźr	準備できた						
 5040	dr	dr	戸						
 5040	ŕfs	ŕfs	鳥かご						
-5040	kn	krdn	（あることを）する						
-5040	gft	gftn	言う						
+5040	kn	kn	（あることを）する						
+5040	gft	gft	言う						
 1025	tw rw	tw	お前	ra	・・・を				
-1025	bya	āmdn	来る						
-1025	bxwrm	xwrdn	食べる						
-1024	grsnme	grsne	空腹の	bwdn	・・・である				
+!
+1025	bya	bya	来る						
+1025	bxwrm	bxwrm	食べる						
+1024	grsnme	grsne	空腹の	ast	・・・である				
 1024	xyly	xyly	非常に						
 1027	wŕtyke	wŕt	時間	ke	・・・であるということ				
-1027	dxtrm	dxtr	娘	mn	私				
+1027	dxtrm	dxtrm	娘			
 1027	be	be	・・・に						
 1027	taze	taze	新鮮な						
 1027	tw	tw	お前						
@@ -2845,55 +2848,55 @@
 1027	čle	čle	40日間						
 1027	xwb	xwb	良い						
 1027	xwb	xwb	良い						
-1027	bxwr	xwrdn	食べる						
-1027	xwrdm	xwrdn	食べる						
-1027	brm	rftn	行く						
-1027	zdm	zdn	打つ						
+1027	bxwr	bxwr	食べる						
+1027	xwrdm	xwrdm	食べる						
+1027	brm	brwm	行く						
+1027	zdm	zdm	打つ						
 1027	sr	sr	頭						
 1027	sr	sr	頭						
-1027	šdm	šdn	・・・になる						
-1027	qđaeay	qđa	食事						
-1027	krdm	krdn	（あることを）する						
-1027	bđar	gđaštn	置く						
+1027	šdm	šdm	・・・になる						
+1027	qđaeay	qđaeay	食事						
+1027	krdm	krdm	（あることを）する						
+1027	bđar	bgđar	置く						
 1027	mn	mn	私						
-1026	gft	gftn	言う						
+1026	gft	gft	言う						
 1026	ne	ne	（否定の答え）いいえ						
-1021	gftš	gftn	言う	aw	三人称単数人称代名詞（彼、彼女）				
+1021	gftš	gftn	言う				
 1021	xwb	xwb	良い						
 1021	xyly	xyly	非常に						
 1020	wŕtyke	wŕt	時間	ke	・・・であるということ				
 1020	čle am	čle	40日間	mn	私				
-1020	am	bwdn	・・・である						
+1020	am	estm	・・・である						
 1020	tw	tw	お前						
 1020	čaŕ	čaŕ	太った						
-1020	bxwr	xwrdn	食べる						
-1020	šde	šdn	・・・になる						
-1020	mygrdm	gštn	回る						
+1020	bxwr	bxwr	食べる						
+1020	šde	šde	・・・になる						
+1020	mygrdm	my_grdm	回る						
 1023	gšngy	grsngy	空腹						
 1023	āŕa	āŕa	紳士						
-1023	awmd	āmdn	来る						
-1023	awmdy	āmdn	来る						
+1023	awmd	āmd	来る						
+1023	awmdy	āmdy	来る						
 1023	ay	ay	〈間〉おお（呼びかけ）						
 1023	byrwn	byrwn	外で						
 1023	xwb	xwb	良い						
-1023	šd	šdn	・・・になる						
+1023	šd	šd	・・・になる						
 1023	šyre	šyr	獅子						
-1023	gft	gftn	言う						
-1023	mymyrm	mrdn	死ぬ						
+1023	gft	gft	言う						
+1023	mymyrm	my_myrm	死ぬ						
 1023	mn	mn	私						
 1022	msafty rw	msaft	距離	ra	・・・を				
 1022	āŕa	āŕa	紳士						
-1022	awmd	āmdn	来る						
-1022	awmd	āmdn	来る						
+1022	awmd	āmd	来る						
+1022	awmd	āmd	来る						
 1022	baz	baz	再び						
 1022	be	be	・・・に						
 1022	ta	ta	・・・まで						
-1022	rsyd	rsydn	着く						
+1022	rsyd	rsyd	着く						
 1022	šyre	šyr	獅子						
 1022	ţy	ţy	通行						
-1022	krd	krdn	（あることを）する						
-1029	bqlš	bql	…のそばに（で）	aw	三人称単数人称代名詞（彼、彼女）				
-1029	dxtrš	dxtr	娘	aw	三人称単数人称代名詞（彼、彼女）				
+1022	krd	krd	（あることを）する						
+1029	bqlš	bqlš	…のそばに（で）			
+1029	dxtrš	dxtrš	娘				
 1029	nwe eaš	nwe	孫	aw	三人称単数人称代名詞（彼、彼女）				
 1029	awmdn	āmdn	来る						
 1029	baz	baz	開いた						
@@ -2902,47 +2905,49 @@
 1029	pšt	pšt	・・・の後ろに						
 1029	tw	tw	・・・の中に						
 1029	xwne	xane	家						
+!辞書未登録
 1029	xwš bš	xwšbaš	歓待の辞、楽天的な						
 1029	dr	dr	戸						
 1029	dr	dr	戸						
 1029	dyge	dygr	さらに						
 1029	đwŕ	đwŕ	趣味						
 1029	rw	ra	・・・を						
-1029	rsyd	rsydn	着く						
+1029	rsyd	rsyd	着く						
 1029	rftn	rftn	行く						
-1029	zd	zdn	打つ						
+1029	zd	zd	打つ						
 1029	krdn	krdn	（あることを）する						
 1029	krdn	krdn	（あることを）する						
 1029	krdn	krdn	（あることを）する						
-1028	dxtrš	dxtr	娘	aw	三人称単数人称代名詞（彼、彼女）				
-1028	awmd	āmdn	来る						
-1028	awmd	āmdn	来る						
-1028	awmd	āmdn	来る						
+1028	dxtrš	dxtrš	娘				
+1028	awmd	āmd	来る						
+1028	awmd	āmd	来る						
+1028	awmd	āmd	来る						
 1028	be	be	・・・に						
 1028	xwne	xane	家						
-1028	rsyd	rsydn	着く						
-8008	baše	bwdn	・・・である						
-8008	gf	gftn	言う						
-8009	gwšte	gwšt	肉	bwdn	・・・である				
-8009	awmd	āmdn	来る						
+1028	rsyd	rsyd	着く						
+8008	baše	bašd	・・・である						
+8008	gf	gft	言う						
+8009	gwšte	gwšt	肉	ast	・・・である				
+8009	awmd	āmd	来る						
 8009	awn ea	ānea	彼ら						
 8009	čyze	čyz	もの						
-8009	dad	dadn	与える						
+8009	dad	dad	与える						
 8009	dwr	dwr	遠い						
 8009	grge	grg	狼						
 8009	nšwn	nšan	しるし						
-5049	dwstaš	dwst	友人	ea	名詞複数形語尾	aw	あれ、それ		
-5049	ayne	ayn	この	bwdn	・・・である				
-5049	šyra	šyr	獅子	ea	名詞複数形語尾				
+5049	dwstaš	dwst_eay	友人	aw	あれ、それ		
+5049	ayne	ayn	この	ast	・・・である				
+5049	šyra	šyrea	獅子			
 5049	ansan	ansan	人間						
 5049	be	be	・・・に						
 5049	be	be	・・・に						
 5049	pa	pa	足						
 5049	xlaşe	xlaşe	要約						
+!
 5049	dr āwrde	drāwrdn	取り出す						
-5049	rft	rftn	行く						
-5049	gft	gftn	言う						
-5049	gft	gftn	言う						
+5049	rft	rft	行く						
+5049	gft	gft	言う						
+5049	gft	gft	言う						
 5049	mn	mn	私						
 5049	ye	yk	1						
 5048	ansan	ansan	人間						
@@ -2950,99 +2955,102 @@
 5048	āe	āe	ため息						
 5048	āe	āe	ため息						
 5048	ay	ay	〈間〉おお（呼びかけ）						
-5048	twy	tw	・・・の中に						
+5048	twy	twy	・・・の中に						
 5048	jngl	jngl	森						
 5048	dst	dst	手						
 5048	dst	dst	手						
-5048	mydwyd	dwydn	走る						
-5048	krd	krdn	（あることを）する						
-5048	mygft	gftn	言う						
+5048	mydwyd	my_dwyd	走る						
+5048	krd	krd	（あることを）する						
+5048	mygft	my_gft	言う						
 8004	aynw	ayn	この	ra	・・・を				
 8004	gwštw	gwšt	肉	ra	・・・を				
-8004	bndazn	andaxtn	投げる						
-8004	bndazn	andaxtn	投げる						
+8004	bndazn	bandaznd	投げる						
+8004	bndazn	bandaznd	投げる						
 8004	ayn	ayn	この						
 8004	be	be	・・・に						
 8004	be	be	・・・に						
 8004	dam	dam	罠						
 8004	gđaštn	gđaštn	置く						
 8005	gwštw	gwšt	肉	ra	・・・を				
-8005	awmd	āmdn	来る						
+8005	awmd	āmd	来る						
 8005	be	be	・・・に						
-8005	nmytwnm	twanstn	・・・できる						
+8005	nmytwnm	nmy_twanm	・・・できる						
 8005	čwn	čwn	・・・なので						
-8005	bxwrm	xwrdn	食べる						
+8005	bxwrm	bxwrm	食べる						
 8005	dr	dr	…の中に						
 8005	grge	grg	狼						
-8005	gf	gftn	言う						
+8005	gf	gft	言う						
 8005	mn	mn	私						
-8006	bya	āmdn	来る						
-8006	bxwr	xwrdn	食べる						
-8006	brym	rftn	行く						
+!
+8006	bya		来る						
+8006	bxwr	bxwr	食べる						
+8006	brym	brwym	行く						
 8006	šma	šma	あなた						
 8007	grsnš	grsne	空腹の	aw	あれ、それ				
-8007	bwd	bwdn	・・・である						
+8007	bwd	bwd	・・・である						
 8007	xyly	xyly	非常に						
 5043	āy	ay	〈間〉おお（呼びかけ）						
 5043	be	be	・・・に						
-5043	dadm	dadn	与える						
-5043	brsyd	rsydn	着く						
+5043	dadm	dadm	与える						
+5043	brsyd	brsyd	着く						
 5043	šyr	šyr	獅子						
-8001	bwd	bwdn	・・・である						
+8001	bwd	bwd	・・・である						
 8001	bwdn	bwdn	・・・である						
 8001	dwst	dwst	友人						
-8001	šde	šdn	・・・になる						
+8001	šde	šde	・・・になる						
 8001	ye	yk	1						
 8002	tyke	tke	一片						
+!deyで正しくない?
 8002	dey	de	村						
-8002	dyd	dydn	見る						
+8002	dyd	dyd	見る						
 8002	rwz	rwz	日						
 8002	knar	knar	側〔わき〕						
 8002	gđaštn	gđaštn	置く						
-8002	mygđšt	gđštn	（時が）過ぎる						
+8002	mygđšt	my_gđšt	（時が）過ぎる						
 8002	gwšt	gwšt	肉						
 8002	ye	yk	1						
 8002	ye	yk	1						
 8002	ye	yk	1						
-8003	tle aye	tle	わな	bwdn	・・・である				
+8003	tle aye	tle	わな	ast	・・・である				
 8003	ayn	ayn	この						
-8003	femyd	femydn	理解する						
+8003	femyd	femyd	理解する						
 8003	ye	yk	1						
 2002	bče	bče	子供						
-2002	bwd	bwdn	・・・である						
+2002	bwd	bwd	・・・である						
 2002	ta	ta	・・・個						
-2002	dašt	daštn	持つ						
+2002	dašt	dašt	持つ						
 2002	ŕndy	ŕndy	ガンディー						
-2003	asmš	asm	名前	aw	あれ、それ				
+2003	asmš	asmš	名前				
+!ykyを語根としてykyyとするか？
 2003	ykyš	yky	一つ	aw	あれ、それ				
-2003	bwd	bwdn	・・・である						
-2003	bwd	bwdn	・・・である						
+2003	bwd	bwd	・・・である						
+2003	bwd	bwd	・・・である						
 2003	ħbe angwr	ħbeangwr	ヘッベ・アングール						
 2003	šngwl	šngwl	シャングール						
-2001	bwd	bwdn	・・・である						
-2001	xday	xda	神						
+2001	bwd	bwd	・・・である						
+2001	xday	xday	神						
 2001	qyr	qyr	…の他は						
 2001	merbwn	merban	親切な						
 2001	eyč	eyč	（否定とともに）何も・・・ない						
-2006	twnm	tw	お前	bwdn	・・・である				
+2006	twnm	tw	お前	estm	・・・である				
 2006	āŕa	āŕa	紳士						
 2006	agr	agr	もしも・・・ならば						
-2006	awmd	āmdn	来る						
-2006	awmde	āmdn	来る						
+2006	awmd	āmd	来る						
+2006	awmde	āmde	来る						
 2006	baz	baz	開いた						
-2006	bašyn	bwdn	・・・である						
-2006	tazgy ea	tazgy	新鮮さ						
+2006	bašyn	bašnd	・・・である						
+2006	tazgy ea	tazgy_ea	新鮮さ						
 2006	ħbe angwr	ħbeangwr	ヘッベ・アングール						
 2006	xwne	xane	家						
 2006	dr	dr	戸						
 2006	dr	dr	戸						
 2006	drst	drst	正確に						
-2006	zd	zdn	打つ						
+2006	zd	zd	打つ						
 2006	šngwl	šngwl	シャングール						
-2006	krde	krdn	（あることを）する						
-2006	nkny	krdn	（あることを）する						
+2006	krde	krde	（あることを）する						
+2006	nkny	nkny	（あることを）する						
 2006	grge	grg	狼						
-2006	gft	gftn	言う						
+2006	gft	gft	言う						
 2006	lwne	lane	巣						
 2006	ma	ma	私たち						
 2006	madr	madr	母						
@@ -3055,27 +3063,27 @@
 2006	nne	nne	おかあちゃん						
 2006	wŕt	wŕt	時間						
 2006	ye	yk	1						
-2007	twnm	tw	お前	bwdn	・・・である				
+2007	twnm	tw	お前	estm	・・・である				
 2007	agr	agr	もしも・・・ならば						
 2007	baz	baz	開いた						
 2007	dr	dr	戸						
 2007	šma	šma	あなた						
-2007	nknyd	krdn	（あることを）する						
-2007	gft	gftn	言う						
+2007	nknyd	nknyd	（あることを）する						
+2007	gft	gft	言う						
 2007	gftn	gftn	言う						
 2007	madr	madr	母						
 2007	ne	ne	（否定の答え）いいえ						
 2007	wŕt	wŕt	時間						
 2007	ye	yk	1						
-2004	xwnš	xane	家	aw	あれ、それ				
+2004	xwnš	xane_aš	家			
 2004	ayn	ayn	この						
 2004	be	be	・・・に						
 2004	be	be	・・・に						
 2004	be	be	・・・に						
 2004	pr	pr	満ちた						
 2004	pstwn	pstan	乳房						
-2004	myrft	rftn	行く						
-2004	myrft	rftn	行く						
+2004	myrft	my_rft	行く						
+2004	myrft	my_rft	行く						
 2004	rwza	rwz	日						
 2004	šyr	šyr	乳						
 2004	şbħa	şbħ	朝						
@@ -3083,23 +3091,23 @@
 2004	şħra	şħra	砂漠						
 2004	qrwba	qrwb	日没						
 2004	ŕndy	ŕndy	ガンディー						
-2005	bčeaš	bče	子供	aw	あれ、それ				
+2005	bčeaš	bče_aš	子供				
 2005	wŕtyke	wŕt	時間	ke	・・・であるということ				
-2005	rwza	rwz	日	ea	名詞複数形語尾				
+2005	rwza	rwzea	日				
 2005	be	be	・・・に						
 2005	be	be	・・・に						
-2005	xwast	xwastn	望む						
-2005	bre	rftn	行く						
+2005	xwast	xwast	望む						
+2005	bre	bre	行く						
 2005	rwz	rwz	日						
 2005	şħra	şħra	砂漠						
-2005	gft	gftn	言う						
-2008	ħna´ye	ħnayy	あずき色の	bwdn	・・・である				
+2005	gft	gft	言う						
+2008	ħna´ye	ħnayy	あずき色の	ast	・・・である				
 2008	pay	pa	足						
 2008	dst	dst	手						
-2008	bgyn	grftn	手に取る						
+2008	bgyn	bgyrnd	手に取る						
 2008	ma	ma	私たち						
 2008	madr	madr	母						
-2009	rft	rftn	行く						
+2009	rft	rft	行く						
 2009	zyad	zyad	たいへん						
 2009	sfarš	sfarš	推薦						
-2009	krd	krdn	（あることを）する						
+2009	krd	krd	（あることを）する						
