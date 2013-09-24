@@ -7,3 +7,6 @@ tagがついた時は，機械的に処理をして見出し語と正規化後�
 ### Files  
 * split_json_by_tag.py : json化した対応表を入力とし,手で作業するtsvとそうでないtsv分割するスクリプト  
 * table_to_json.py : tsvの対応表をjsonファイルに変換するスクリプト
+
+## メモ
+Perlexのlexファイルにバグ（文字が間違っている）が発見されたので，バグの修正前と修正後で違うファイルにしてある．修正前には_09_24_before_bug_revisionの名前がつけてある

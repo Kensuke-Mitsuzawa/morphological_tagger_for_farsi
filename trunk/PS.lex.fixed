@@ -30,11 +30,11 @@ xlaşe	300	INTs	[pred="xlaşe_____1",cat=INTs]	xlaşe_____1	Default		%default	in
 xyr	300	INTs	[pred="xyr_____1",cat=INTs]	xyr_____1	Default		%default	inv
 znde bad	100	INTs	[pred="znde bad_____1",cat=INTs]	znde bad_____1	Default		%default	inv
 znear	300	INTs	[pred="znear_____1",cat=INTs]	znear_____1	Default		%default	inv
-âmyn ya rb al'almyn	100	INTs	[pred="âmyn ya rb al'almyn_____1",cat=INTs]	âmyn ya rb al'almyn_____1	Default		%default	inv
-âre	200	INTs	[pred="âre_____1",cat=INTs]	âre_____1	Default		%default	inv
-âry	200	INTs	[pred="âry_____1",cat=INTs]	âry_____1	Default		%default	inv
+āmyn ya rb al'almyn	100	INTs	[pred="āmyn ya rb al'almyn_____1",cat=INTs]	āmyn ya rb al'almyn_____1	Default		%default	inv
+āre	200	INTs	[pred="āre_____1",cat=INTs]	āre_____1	Default		%default	inv
+āry	200	INTs	[pred="āry_____1",cat=INTs]	āry_____1	Default		%default	inv
 şbħ bxyr	100	INTs	[pred="şbħ bxyr_____1",cat=INTs]	şbħ bxyr_____1	Default		%default	inv
-şdâfryn	100	INTs	[pred="şdâfryn_____1",cat=INTs]	şdâfryn_____1	Default		%default	inv
+şdāfryn	100	INTs	[pred="şdāfryn_____1",cat=INTs]	şdāfryn_____1	Default		%default	inv
 šb bxyr	100	INTs	[pred="šb bxyr_____1",cat=INTs]	šb bxyr_____1	Default		%default	inv
 žwre ba	100	INTs	[pred="žwre ba_____1",cat=INTs]	žwre ba_____1	Default		%default	inv
 žyne ba	100	INTs	[pred="žyne ba_____1",cat=INTs]	žyne ba_____1	Default		%default	inv

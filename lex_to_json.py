@@ -8,7 +8,7 @@ import re, os, codecs, sys, glob, json;
 def get_files(dir_name):
     lex_files=[];
     for root, dirs, files in os.walk(dir_name):
-        for f in glob.glob(os.path.join(root, '*.lex')):
+        for f in glob.glob(os.path.join(root, '*.lex.fixed')):
             lex_files.append(f);
     return lex_files;
 

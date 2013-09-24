@@ -32,25 +32,25 @@ with codecs.open(file_path, 'r', 'latin_1') as lines:
         if re.findall(ur'\xba', error_line):
             error_line=error_line.replace(u'\xba', u'ş');
 
-        if re.findall(r'\xbc', error_line):
+        if re.findall(ur'\xbc', error_line):
             error_line=error_line.replace(u'\xbc', u'ź');
 
-        if re.findall(r'\xbf', error_line):
+        if re.findall(ur'\xbf', error_line):
             error_line=error_line.replace(u'\xbf', u'ẓ');
 
-        if re.findall(r'\xbe', error_line):
+        if re.findall(ur'\xbe', error_line):
             error_line=error_line.replace(u'\xbe', u'ž');
 
-        if re.findall(r'\xfe', error_line):
+        if re.findall(ur'\xfe', error_line):
             error_line=error_line.replace(u'\xfe', u'ţ');
 
-        if re.findall(r'\xb3', error_line):
+        if re.findall(ur'\xb3', error_line):
             error_line=error_line.replace(u'\xb3', u'ħ');
 
-        if re.findall(r'â', error_line):
+        if re.findall(ur'â', error_line):
             error_line=error_line.replace(u'â', u'ā');
 
-        if re.findall(r'ð', error_line):
+        if re.findall(ur'ð', error_line):
             error_line=error_line.replace(u'ð', u'đ');
 
         if re.findall(ur'è', error_line):

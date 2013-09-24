@@ -220,7 +220,7 @@ fratr	100	P	[pred="fratr_____1",cat=P]	fratr_____1	Default		%default	inv
 fraxwr	300	P	[pred="fraxwr_____1",cat=P]	fraxwr_____1	Default		%default	inv
 frw	100	P	[pred="frw_____1",cat=P]	frw_____1	Default		%default	inv
 fymabyn	100	P	[pred="fymabyn_____1",cat=P]	fymabyn_____1	Default		%default	inv
-gðšte az	110	Pnp	[pred="gðšte az___MTE__1",cat=Pnp]	gðšte az___MTE__1	Default		%default	inv
+gđšte az	110	Pnp	[pred="gđšte az___MTE__1",cat=Pnp]	gđšte az___MTE__1	Default		%default	inv
 jet	300	P	[pred="jet_____1",cat=P]	jet_____1	Default		%default	inv
 jlw	400	P	[pred="jlw_____1",cat=P]	jlw_____1	Default		%default	inv
 jlwy	100	P	[pred="jlwy_____1",cat=P]	jlwy_____1	Default		%default	inv

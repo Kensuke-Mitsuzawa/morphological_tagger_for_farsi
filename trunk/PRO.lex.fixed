@@ -8,13 +8,13 @@ _yman	266	PROpers	[pred="ma_____1",cat=PROpers]	ma_____1	Default		%default	inv
 _yt	266	PROpers	[pred="tw_____1",cat=PROpers]	tw_____1	Default		%default	inv
 _ytan	266	PROpers	[pred="šma_____1",cat=PROpers]	šma_____1	Default		%default	inv
 _yš	266	PROpers	[pred="aw_____1",cat=PROpers]	aw_____1	Default		%default	inv
-_yš	200	PROdem	[pred="ân_____1",cat=PROdem]	ân_____1	Default		%default	inv
+_yš	200	PROdem	[pred="ān_____1",cat=PROdem]	ān_____1	Default		%default	inv
 _yšan	166	PROpers	[pred="ayšan_____1",cat=PROpers]	ayšan_____1	Default		%default	inv
-_yšan	100	PROdem	[pred="ân_ea_____1",cat=PROdem]	ân_ea_____1	Default		%default	inv
+_yšan	100	PROdem	[pred="ān_ea_____1",cat=PROdem]	ān_ea_____1	Default		%default	inv
 _š	266	PROpers	[pred="aw_____1",cat=PROpers]	aw_____1	Default		%default	inv
-_š	200	PROdem	[pred="ân_____1",cat=PROdem]	ân_____1	Default		%default	inv
+_š	200	PROdem	[pred="ān_____1",cat=PROdem]	ān_____1	Default		%default	inv
 _šan	166	PROpers	[pred="ayšan_____1",cat=PROpers]	ayšan_____1	Default		%default	inv
-_šan	100	PROdem	[pred="ân_ea_____1",cat=PROdem]	ân_ea_____1	Default		%default	inv
+_šan	100	PROdem	[pred="ān_ea_____1",cat=PROdem]	ān_ea_____1	Default		%default	inv
 an	300	PROdem	[pred="an_____1",cat=PROdem]	an_____1	Default		%default	inv
 ana	100	PROdem	[pred="ana_____1",cat=PROdem]	ana_____1	Default		%default	inv
 aqlb	300	PROdem	[pred="aqlb_____1",cat=PROdem]	aqlb_____1	Default		%default	inv
@@ -109,7 +109,7 @@ erkdam	200	PROquant	[pred="erkdam_____1",cat=PROquant]	erkdam_____1	Default		%de
 erke	100	PROquant	[pred="erke_____1",cat=PROquant]	erke_____1	Default		%default	inv
 erks	100	PROquant	[pred="erks_____1",cat=PROquant]	erks_____1	Default		%default	inv
 eryk	110	PROquant	[pred="eryk___MTE__1",cat=PROquant]	eryk___MTE__1	Default		%default	inv
-erânče	200	PROindef	[pred="erânče_____1",cat=PROindef]	erânče_____1	Default		%default	inv
+erānče	200	PROindef	[pred="erānče_____1",cat=PROindef]	erānče_____1	Default		%default	inv
 erče	110	PROquant	[pred="erče___MTE__1",cat=PROquant]	erče___MTE__1	Default		%default	inv
 eyč	110	PROquant	[pred="eyč___MTE__1",cat=PROquant]	eyč___MTE__1	Default		%default	inv
 eyč kdam	200	PROquant	[pred="eyč kdam_____1",cat=PROquant]	eyč kdam_____1	Default		%default	inv
@@ -184,25 +184,25 @@ ykyš	100	PROquindef	[pred="ykyš_____1",cat=PROquindef]	ykyš_____1	Default		%d
 ykyš	100	PROrecip	[pred="ykyš_____2",cat=PROrecip]	ykyš_____2	Default		%default	inv
 ykyšan	100	PROquindef	[pred="ykyšan_____1",cat=PROquindef]	ykyšan_____1	Default		%default	inv
 ykyšan	100	PROrecip	[pred="ykyšan_____2",cat=PROrecip]	ykyšan_____2	Default		%default	inv
-ân	200	PROdem	[pred="ân_____1",cat=PROdem]	ân_____1	Default		%default	inv
-ân gwne	110	PROpers	[pred="ân gwne___MTE__1",cat=PROpers]	ân gwne___MTE__1	Default		%default	inv
-ân ke	110	PROpers	[pred="ân ke___MTE__1",cat=PROpers]	ân ke___MTE__1	Default		%default	inv
-ân sw	110	PROpers	[pred="ân sw___MTE__1",cat=PROpers]	ân sw___MTE__1	Default		%default	inv
-ân ţrf	110	PROpers	[pred="ân ţrf___MTE__1",cat=PROpers]	ân ţrf___MTE__1	Default		%default	inv
-ân ţwr	110	PROpers	[pred="ân ţwr___MTE__1",cat=PROpers]	ân ţwr___MTE__1	Default		%default	inv
-ân_ea	100	PROdem	[pred="ân_ea_____1",cat=PROdem]	ân_ea_____1	Default		%default	inv
-ânan	300	PROdem	[pred="ânan_____1",cat=PROdem]	ânan_____1	Default		%default	inv
-ânany	100	PROdem	[pred="ânany_____1",cat=PROdem]	ânany_____1	Default		%default	inv
-ânea	110	PROpers	[pred="ânea___MTE__1",cat=PROpers]	ânea___MTE__1	Default		%default	inv
-âneaay	100	PROdem	[pred="âneaay_____1",cat=PROdem]	âneaay_____1	Default		%default	inv
-âneayy	100	PROdem	[pred="âneayy_____1",cat=PROdem]	âneayy_____1	Default		%default	inv
-ânja	110	PROpers	[pred="ânja___MTE__1",cat=PROpers]	ânja___MTE__1	Default		%default	inv
-ânke	110	PROpers	[pred="ânke___MTE__1",cat=PROpers]	ânke___MTE__1	Default		%default	inv
-ânks	100	PROindef	[pred="ânks_____1",cat=PROindef]	ânks_____1	Default		%default	inv
-ânra	100	PROdem	[pred="ânra_____1",cat=PROdem]	ânra_____1	Default		%default	inv
-âny	200	PROdem	[pred="âny_____1",cat=PROdem]	âny_____1	Default		%default	inv
-ânče	300	PROinter	[pred="ânče_____1",cat=PROinter]	ânče_____1	Default		%default	inv
-âħad	200	PROindef	[pred="âħad_____1",cat=PROindef]	âħad_____1	Default		%default	inv
+ān	200	PROdem	[pred="ān_____1",cat=PROdem]	ān_____1	Default		%default	inv
+ān gwne	110	PROpers	[pred="ān gwne___MTE__1",cat=PROpers]	ān gwne___MTE__1	Default		%default	inv
+ān ke	110	PROpers	[pred="ān ke___MTE__1",cat=PROpers]	ān ke___MTE__1	Default		%default	inv
+ān sw	110	PROpers	[pred="ān sw___MTE__1",cat=PROpers]	ān sw___MTE__1	Default		%default	inv
+ān ţrf	110	PROpers	[pred="ān ţrf___MTE__1",cat=PROpers]	ān ţrf___MTE__1	Default		%default	inv
+ān ţwr	110	PROpers	[pred="ān ţwr___MTE__1",cat=PROpers]	ān ţwr___MTE__1	Default		%default	inv
+ān_ea	100	PROdem	[pred="ān_ea_____1",cat=PROdem]	ān_ea_____1	Default		%default	inv
+ānan	300	PROdem	[pred="ānan_____1",cat=PROdem]	ānan_____1	Default		%default	inv
+ānany	100	PROdem	[pred="ānany_____1",cat=PROdem]	ānany_____1	Default		%default	inv
+ānea	110	PROpers	[pred="ānea___MTE__1",cat=PROpers]	ānea___MTE__1	Default		%default	inv
+āneaay	100	PROdem	[pred="āneaay_____1",cat=PROdem]	āneaay_____1	Default		%default	inv
+āneayy	100	PROdem	[pred="āneayy_____1",cat=PROdem]	āneayy_____1	Default		%default	inv
+ānja	110	PROpers	[pred="ānja___MTE__1",cat=PROpers]	ānja___MTE__1	Default		%default	inv
+ānke	110	PROpers	[pred="ānke___MTE__1",cat=PROpers]	ānke___MTE__1	Default		%default	inv
+ānks	100	PROindef	[pred="ānks_____1",cat=PROindef]	ānks_____1	Default		%default	inv
+ānra	100	PROdem	[pred="ānra_____1",cat=PROdem]	ānra_____1	Default		%default	inv
+āny	200	PROdem	[pred="āny_____1",cat=PROdem]	āny_____1	Default		%default	inv
+ānče	300	PROinter	[pred="ānče_____1",cat=PROinter]	ānče_____1	Default		%default	inv
+āħad	200	PROindef	[pred="āħad_____1",cat=PROindef]	āħad_____1	Default		%default	inv
 če	200	PROinter	[pred="če_____1",cat=PROinter]	če_____1	Default		%default	inv
 če ţwr	110	PROinter	[pred="če ţwr___MTE__1",cat=PROinter]	če ţwr___MTE__1	Default		%default	inv
 čnan	110	PROdem	[pred="čnan___MTE__1",cat=PROdem]	čnan___MTE__1	Default		%default	inv

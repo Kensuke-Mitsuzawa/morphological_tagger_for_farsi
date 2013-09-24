@@ -100,10 +100,10 @@ xyly	300	DETquant	[pred="xyly_____1",cat=DETquant]	xyly_____1	Default		%default	
 yazde	100	DETquant	[pred="yazde_____1",cat=DETquant]	yazde_____1	Default		%default	inv
 ygane	300	DETquant	[pred="ygane___one__1",cat=DETquant]	ygane___one__1	Default		%default	inv
 yk	300	DETquant	[pred="yk_____1",cat=DETquant]	yk_____1	Default		%default	inv
-ân	100	DETdem	[pred="ân_____1",cat=DETdem]	ân_____1	Default		%default	inv
-ân_ea	100	DETdem	[pred="ân_ea_____1",cat=DETdem]	ân_ea_____1	Default		%default	inv
-ânčnan	200	DETdem	[pred="ânčnan_____1",cat=DETdem]	ânčnan_____1	Default		%default	inv
-ânčnyn	100	DETdem	[pred="ânčnyn_____1",cat=DETdem]	ânčnyn_____1	Default		%default	inv
+ān	100	DETdem	[pred="ān_____1",cat=DETdem]	ān_____1	Default		%default	inv
+ān_ea	100	DETdem	[pred="ān_ea_____1",cat=DETdem]	ān_ea_____1	Default		%default	inv
+ānčnan	200	DETdem	[pred="ānčnan_____1",cat=DETdem]	ānčnan_____1	Default		%default	inv
+ānčnyn	100	DETdem	[pred="ānčnyn_____1",cat=DETdem]	ānčnyn_____1	Default		%default	inv
 če	100	DETinter	[pred="če_____1",cat=DETinter]	če_____1	Default		%default	inv
 čear	100	DETquant	[pred="čear_____1",cat=DETquant]	čear_____1	Default		%default	inv
 čnan	300	DETdem	[pred="čnan_____1",cat=DETdem]	čnan_____1	Default		%default	inv
@@ -116,7 +116,7 @@ yk	300	DETquant	[pred="yk_____1",cat=DETquant]	yk_____1	Default		%default	inv
 čnyn	300	DETdem	[pred="čnyn_____1",cat=DETdem]	čnyn_____1	Default		%default	inv
 čy	300	DETinter	[pred="čy_____1",cat=DETinter]	čy_____1	Default		%default	inv
 čàdr	100	DETinter	[pred="čàdr_____1",cat=DETinter]	čàdr_____1	Default		%default	inv
-ðre ay	100	DETquant	[pred="ðre ay_____1",cat=DETquant]	ðre ay_____1	Default		%default	inv
+đre ay	100	DETquant	[pred="đre ay_____1",cat=DETquant]	đre ay_____1	Default		%default	inv
 ħdakçr	200	DETquant	[pred="ħdakçr_____1",cat=DETquant]	ħdakçr_____1	Default		%default	inv
 ħdaàl	200	DETquant	[pred="ħdaàl_____1",cat=DETquant]	ħdaàl_____1	Default		%default	inv
 ħdaàly	100	DETquant	[pred="ħdaàly_____1",cat=DETquant]	ħdaàly_____1	Default		%default	inv
