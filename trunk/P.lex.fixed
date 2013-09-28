@@ -1,5 +1,7 @@
 'lawe br	110	Pnp	[pred="'lawe br___MTE__1",cat=Pnp]	'lawe br___MTE__1	Default		%default	inv
 'ly rqm	200	P	[pred="'ly rqm_____1",cat=P]	'ly rqm_____1	Default		%default	inv
+'ly rŕm	200	P	[pred="'ly rŕm_____1",cat=P]	'ly rŕm_____1	Default		%default	inv
+'ly rqm	200	P	[pred="'ly rqm_____1",cat=P]	'ly rqm_____1	Default		%default	inv
 'lye	400	P	[pred="'lye_____1",cat=P]	'lye_____1	Default		%default	inv
 'lye am	100	P	[pred="'lye am_____1",cat=P]	'lye am_____1	Default		%default	inv
 'àb	300	P	[pred="'àb_____1",cat=P]	'àb_____1	Default		%default	inv
@@ -79,12 +81,24 @@ be nzdš	100	Ppn	[pred="be nzdš_____1",cat=Ppn]	be nzdš_____1	Default		%defaul
 be pyš	100	Ppn	[pred="be pyš_____1",cat=Ppn]	be pyš_____1	Default		%default	inv
 be pšt	200	Ppn	[pred="be pšt_____1",cat=Ppn]	be pšt_____1	Default		%default	inv
 be qyr	100	P	[pred="be qyr_____1",cat=P]	be qyr_____1	Default		%default	inv
+be ŕyr	100	P	[pred="be ŕyr_____1",cat=P]	be ŕyr_____1	Default		%default	inv
+be qyr	100	P	[pred="be qyr_____1",cat=P]	be qyr_____1	Default		%default	inv
+be qyr az	100	P	[pred="be qyr az_____1",cat=P]	be qyr az_____1	Default		%default	inv
+be ŕyr az	100	P	[pred="be ŕyr az_____1",cat=P]	be ŕyr az_____1	Default		%default	inv
 be qyr az	100	P	[pred="be qyr az_____1",cat=P]	be qyr az_____1	Default		%default	inv
 be qyraz	110	Ppn	[pred="be qyraz___MTE__1",cat=Ppn]	be qyraz___MTE__1	Default		%default	inv
+be ŕyraz	110	Ppn	[pred="be ŕyraz___MTE__1",cat=Ppn]	be ŕyraz___MTE__1	Default		%default	inv
+be qyraz	110	Ppn	[pred="be qyraz___MTE__1",cat=Ppn]	be qyraz___MTE__1	Default		%default	inv
 be rqm	200	Ppn	[pred="be rqm_____1",cat=Ppn]	be rqm_____1	Default		%default	inv
+be rŕm	200	Ppn	[pred="be rŕm_____1",cat=Ppn]	be rŕm_____1	Default		%default	inv
+be rqm	200	Ppn	[pred="be rqm_____1",cat=Ppn]	be rqm_____1	Default		%default	inv
+be rqm	100	P	[pred="be rqm_____2",cat=P]	be rqm_____2	Default		%default	inv
+be rŕm	100	P	[pred="be rŕm_____2",cat=P]	be rŕm_____2	Default		%default	inv
 be rqm	100	P	[pred="be rqm_____2",cat=P]	be rqm_____2	Default		%default	inv
 be sbb	110	Ppn	[pred="be sbb___MTE__1",cat=Ppn]	be sbb___MTE__1	Default		%default	inv
 be smt	110	Ppn	[pred="be smt___MTE__1",cat=Ppn]	be smt___MTE__1	Default		%default	inv
+be sraq	110	Ppn	[pred="be sraq___MTE__1",cat=Ppn]	be sraq___MTE__1	Default		%default	inv
+be sraŕ	110	Ppn	[pred="be sraŕ___MTE__1",cat=Ppn]	be sraŕ___MTE__1	Default		%default	inv
 be sraq	110	Ppn	[pred="be sraq___MTE__1",cat=Ppn]	be sraq___MTE__1	Default		%default	inv
 be tb'	110	Ppn	[pred="be tb'___MTE__1",cat=Ppn]	be tb'___MTE__1	Default		%default	inv
 be trf	100	Ppn	[pred="be trf_____1",cat=Ppn]	be trf_____1	Default		%default	inv
@@ -236,6 +250,8 @@ lb	400	P	[pred="lb_____1",cat=P]	lb_____1	Default		%default	inv
 le	300	P	[pred="le_____1",cat=P]	le_____1	Default		%default	inv
 le	300	P	[pred="le_____2",cat=P]	le_____2	Default		%default	inv
 lqayt	300	P	[pred="lqayt_____1",cat=P]	lqayt_____1	Default		%default	inv
+lŕayt	300	P	[pred="lŕayt_____1",cat=P]	lŕayt_____1	Default		%default	inv
+lqayt	300	P	[pred="lqayt_____1",cat=P]	lqayt_____1	Default		%default	inv
 mabyn	400	P	[pred="mabyn_____1",cat=P]	mabyn_____1	Default		%default	inv
 madwn	300	P	[pred="madwn_____1",cat=P]	madwn_____1	Default		%default	inv
 mal	110	P	[pred="mal___MTE__1",cat=P]	mal___MTE__1	Default		%default	inv
@@ -269,6 +285,8 @@ pyš az	200	Pnp	[pred="pyš az_____1",cat=Pnp]	pyš az_____1	Default		%default	i
 pyšm	100	P	[pred="pyšm_____1",cat=P]	pyšm_____1	Default		%default	inv
 pšt	400	P	[pred="pšt_____1",cat=P]	pšt_____1	Default		%default	inv
 pšt sr	110	P	[pred="pšt sr___MTE__1",cat=P]	pšt sr___MTE__1	Default		%default	inv
+qyraz	110	P	[pred="qyraz___MTE__1",cat=P]	qyraz___MTE__1	Default		%default	inv
+ŕyraz	110	P	[pred="ŕyraz___MTE__1",cat=P]	ŕyraz___MTE__1	Default		%default	inv
 qyraz	110	P	[pred="qyraz___MTE__1",cat=P]	qyraz___MTE__1	Default		%default	inv
 ra	400	P	[pred="ra_____1",cat=P]	ra_____1	Default		%default	inv
 rae ple	110	P	[pred="rae ple___MTE__1",cat=P]	rae ple___MTE__1	Default		%default	inv

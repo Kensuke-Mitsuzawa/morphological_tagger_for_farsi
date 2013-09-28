@@ -64,6 +64,8 @@ anşafa	300	ADV	[pred="anşafa½_____1",cat=ADV]	anşafa½_____1	Default		%defau
 anşafa½	300	ADV	[pred="anşafa½_____1",cat=ADV]	anşafa½_____1	Default		%default	ADV2
 anša°alle	300	ADV	[pred="anša°alle_____1",cat=ADV]	anša°alle_____1	Default		%default	ADV1
 aqlb	300	ADV	[pred="aqlb_____1",cat=ADV]	aqlb_____1	Default		%default	ADV1
+aŕlb	300	ADV	[pred="aŕlb_____1",cat=ADV]	aŕlb_____1	Default		%default	ADV1
+aqlb	300	ADV	[pred="aqlb_____1",cat=ADV]	aqlb_____1	Default		%default	ADV1
 asasa	400	ADV	[pred="asasa½_____1",cat=ADV]	asasa½_____1	Default		%default	ADV2
 asasa½	400	ADV	[pred="asasa½_____1",cat=ADV]	asasa½_____1	Default		%default	ADV2
 atfaàa	300	ADV	[pred="atfaàa½_____1",cat=ADV]	atfaàa½_____1	Default		%default	ADV2
@@ -206,6 +208,10 @@ draz	110	ADV	[pred="draz___MTE__1",cat=ADV]	draz___MTE__1	Default		%default	ADV1
 drbst	110	ADV	[pred="drbst___MTE__1",cat=ADV]	drbst___MTE__1	Default		%default	ADV1
 drst	110	ADV	[pred="drst___MTE__1",cat=ADV]	drst___MTE__1	Default		%default	ADV1
 dryq	300	ADV	[pred="dryq_____1",cat=ADV]	dryq_____1	Default		%default	ADV1
+dryŕ	300	ADV	[pred="dryŕ_____1",cat=ADV]	dryŕ_____1	Default		%default	ADV1
+dryq	300	ADV	[pred="dryq_____1",cat=ADV]	dryq_____1	Default		%default	ADV1
+dryqa	300	ADV	[pred="dryqa_____1",cat=ADV]	dryqa_____1	Default		%default	ADV1
+dryŕa	300	ADV	[pred="dryŕa_____1",cat=ADV]	dryŕa_____1	Default		%default	ADV1
 dryqa	300	ADV	[pred="dryqa_____1",cat=ADV]	dryqa_____1	Default		%default	ADV1
 drān şwrt	110	ADV	[pred="drān şwrt___MTE__1",cat=ADV]	drān şwrt___MTE__1	Default		%default	ADV1
 drħal ħaźr	110	ADV	[pred="drħal ħaźr___MTE__1",cat=ADV]	drħal ħaźr___MTE__1	Default		%default	ADV1
@@ -494,10 +500,22 @@ pyšapyš	110	ADV	[pred="pyšapyš___MTE__1",cat=ADV]	pyšapyš___MTE__1	Default
 pšt	110	ADV	[pred="pšt___MTE__1",cat=ADV]	pšt___MTE__1	Default		%default	ADV1
 pšt sr	110	ADV	[pred="pšt sr___MTE__1",cat=ADV]	pšt sr___MTE__1	Default		%default	ADV1
 qalb	300	ADV	[pred="qalb_____1",cat=ADV]	qalb_____1	Default		%default	ADV1
+ŕalb	300	ADV	[pred="ŕalb_____1",cat=ADV]	ŕalb_____1	Default		%default	ADV1
+qalb	300	ADV	[pred="qalb_____1",cat=ADV]	qalb_____1	Default		%default	ADV1
+qalba	400	ADV	[pred="qalba½_____1",cat=ADV]	qalba½_____1	Default		%default	ADV2
+ŕalba	400	ADV	[pred="ŕalba½_____1",cat=ADV]	ŕalba½_____1	Default		%default	ADV2
 qalba	400	ADV	[pred="qalba½_____1",cat=ADV]	qalba½_____1	Default		%default	ADV2
 qalba½	400	ADV	[pred="qalba½_____1",cat=ADV]	qalba½_____1	Default		%default	ADV2
+ŕalba½	400	ADV	[pred="ŕalba½_____1",cat=ADV]	ŕalba½_____1	Default		%default	ADV2
+qalba½	400	ADV	[pred="qalba½_____1",cat=ADV]	qalba½_____1	Default		%default	ADV2
+qrqrknan	110	ADV	[pred="qrqrknan___MTE__1",cat=ADV]	qrqrknan___MTE__1	Default		%default	ADV1
+ŕrŕrknan	110	ADV	[pred="ŕrŕrknan___MTE__1",cat=ADV]	ŕrŕrknan___MTE__1	Default		%default	ADV1
 qrqrknan	110	ADV	[pred="qrqrknan___MTE__1",cat=ADV]	qrqrknan___MTE__1	Default		%default	ADV1
 qryzy	110	ADV	[pred="qryzy___MTE__1",cat=ADV]	qryzy___MTE__1	Default		%default	ADV1
+ŕryzy	110	ADV	[pred="ŕryzy___MTE__1",cat=ADV]	ŕryzy___MTE__1	Default		%default	ADV1
+qryzy	110	ADV	[pred="qryzy___MTE__1",cat=ADV]	qryzy___MTE__1	Default		%default	ADV1
+qyrmstàym	110	ADV	[pred="qyrmstàym___MTE__1",cat=ADV]	qyrmstàym___MTE__1	Default		%default	ADV1
+ŕyrmstàym	110	ADV	[pred="ŕyrmstàym___MTE__1",cat=ADV]	ŕyrmstàym___MTE__1	Default		%default	ADV1
 qyrmstàym	110	ADV	[pred="qyrmstàym___MTE__1",cat=ADV]	qyrmstàym___MTE__1	Default		%default	ADV1
 rast	110	ADV	[pred="rast___MTE__1",cat=ADV]	rast___MTE__1	Default		%default	ADV1
 raħt	110	ADV	[pred="raħt___MTE__1",cat=ADV]	raħt___MTE__1	Default		%default	ADV1

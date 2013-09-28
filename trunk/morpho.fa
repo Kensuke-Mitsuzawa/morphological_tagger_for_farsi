@@ -4306,6 +4306,8 @@
 
     <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
     <form prefix="my_" suffix="ean" tag="2*3plImpComp"/> <!-- Fam??? -->
+    <!--test-->
+    <form prefix="my_" suffix="e" tag="RootImpComp"/>
 
 
     <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>

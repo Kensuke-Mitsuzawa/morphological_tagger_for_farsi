@@ -56,6 +56,15 @@ with codecs.open(file_path, 'r', 'latin_1') as lines:
         if re.findall(ur'è', error_line):
             error_line=error_line.replace(u'è', u'č');
 
+        if re.findall(ur'q', error_line):
+            original_line=error_line;
+            qaf_line=error_line;
+            qaf_line=qaf_line.replace(u'q', u'ŕ');
+
+            f.write(original_line);
+            f.write(qaf_line);
+            
+
 
         f.write(error_line);
 

@@ -4780,6 +4780,7 @@ my_angyzy	104	V	[pred="angyxtn_____1",cat=V,@2sgPreInd]	angyxtn_____1	Default	2s
 my_angyzyd	104	V	[pred="angyxtn_____1",cat=V,@2plPreInd]	angyxtn_____1	Default	2plPreInd	%default	v8
 my_angyzym	104	V	[pred="angyxtn_____1",cat=V,@1plPreInd]	angyxtn_____1	Default	1plPreInd	%default	v8
 my_awmd	102	V	[pred="awmdn_____1",cat=V,@2*3sgPastprog]	awmdn_____1	Default	2*3sgPastprog	%default	v24:v
+my_awmde	102	V	[pred="awmdn_____1",cat=V,@RootImpComp]	awmdn_____1	Default	RootImpComp	%default	v24:v
 my_awmdeae	102	V	[pred="awmdn_____1",cat=V,@3sgImpComp]	awmdn_____1	Default	3sgImpComp	%default	v24:v
 my_awmdeam	102	V	[pred="awmdn_____1",cat=V,@1sgImpComp]	awmdn_____1	Default	1sgImpComp	%default	v24:v
 my_awmdean	102	V	[pred="awmdn_____1",cat=V,@2*3plImpComp]	awmdn_____1	Default	2*3plImpComp	%default	v24:v
@@ -7837,6 +7838,7 @@ my_ālwdy	104	V	[pred="ālwdn_____1",cat=V,@2sgPastprog]	ālwdn_____1	Default	2s
 my_ālwdyd	104	V	[pred="ālwdn_____1",cat=V,@2plPastprog]	ālwdn_____1	Default	2plPastprog	%default	v6
 my_ālwdym	104	V	[pred="ālwdn_____1",cat=V,@1plPastprog]	ālwdn_____1	Default	1plPastprog	%default	v6
 my_āmd	208	V	[pred="āmdn_____1",cat=V,@2*3sgPastprog]	āmdn_____1	Default	2*3sgPastprog	%default	v24:v
+my_āmde	208	V	[pred="āmdn_____1",cat=V,@RootImpComp]	āmdn_____1	Default	RootImpComp	%default	v24:v
 my_āmdeae	208	V	[pred="āmdn_____1",cat=V,@3sgImpComp]	āmdn_____1	Default	3sgImpComp	%default	v24:v
 my_āmdeam	208	V	[pred="āmdn_____1",cat=V,@1sgImpComp]	āmdn_____1	Default	1sgImpComp	%default	v24:v
 my_āmdean	208	V	[pred="āmdn_____1",cat=V,@2*3plImpComp]	āmdn_____1	Default	2*3plImpComp	%default	v24:v
@@ -20371,3 +20373,4 @@ zystym	112	V	[pred="zystn_____1",cat=V,@1plPreterit]	zystn_____1	Default	1plPret
 šwynde	230	V	[pred="šstn_____1",cat=V,@partPres]	šstn_____1	Default	partPres	%default	v16
 šynan	214	V	[pred="nšstn_____2",cat=V,@gerPres]	nšstn_____2	Default	gerPres	%default	v23
 šynnde	214	V	[pred="nšstn_____2",cat=V,@partPres]	nšstn_____2	Default	partPres	%default	v23
+byā   208     V       [pred="āmdn_____1",cat=V,@imperNorm] āmdn_____1      Default ImperNorm    %default        v24:v

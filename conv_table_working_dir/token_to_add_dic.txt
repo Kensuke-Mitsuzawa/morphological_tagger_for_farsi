@@ -1,0 +1,30 @@
+辞書に登録予定の単語	備考
+gf	gttnの口語形
+čydn	摘む　カテゴリ不明	
+rystn	動詞のカテゴリ不明のため
+twn	twanstnの口語形の現在分詞
+kwbydn	たたく
+ŕaym	直立の
+slmany	床屋　カテゴリ不明
+pltyky	カテゴリ不明
+xwšbaš	名詞と形容詞の両方の意味があるっぽいため（両方ともに登録も検討）
+ptpt	ADJそれともN?両方ともも検討，
+yal	lの子音で終わってかつ，atが語尾につく名詞屈折辞は現在のところ，辞書にない？どのカテゴリー？
+
+辞書に登録済みの語	備考
+dndwn	N5:c
+šykm	N1:c
+šykar	N1:c
+lwne	N5:v
+xwne	N5:v
+zmstwn	N5:c
+embwne	N6
+palapal	N1:c
+bza	N5:v
+bzbza	N5:v
+āŕajan	N5:c
+dwne	N5:v
+danedane	N5:v
+barkalle	OHにinvとして追加
+awww	INTに追加
+barwn	N5:c

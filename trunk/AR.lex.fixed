@@ -241,6 +241,8 @@ almntjbyn	100	AR	[pred="almntjbyn_____1",cat=AR]	almntjbyn_____1	Default		%defau
 almntjbyn aledaç almedyyn syma	100	AR	[pred="almntjbyn aledaç almedyyn syma_____1",cat=AR]	almntjbyn aledaç almedyyn syma_____1	Default		%default	inv
 almnàđ	100	AR	[pred="almnàđ_____1",cat=AR]	almnàđ_____1	Default		%default	inv
 almqwl	100	AR	[pred="almqwl_____1",cat=AR]	almqwl_____1	Default		%default	inv
+almŕwl	100	AR	[pred="almŕwl_____1",cat=AR]	almŕwl_____1	Default		%default	inv
+almqwl	100	AR	[pred="almqwl_____1",cat=AR]	almqwl_____1	Default		%default	inv
 almr°	100	AR	[pred="almr°_____1",cat=AR]	almr°_____1	Default		%default	inv
 almrħmç	100	AR	[pred="almrħmç_____1",cat=AR]	almrħmç_____1	Default		%default	inv
 almslmyn	100	AR	[pred="almslmyn_____1",cat=AR]	almslmyn_____1	Default		%default	inv
@@ -280,12 +282,28 @@ alnjaç	100	AR	[pred="alnjaç_____1",cat=AR]	alnjaç_____1	Default		%default	inv
 alnsa°	100	AR	[pred="alnsa°_____1",cat=AR]	alnsa°_____1	Default		%default	inv
 alnşr	100	AR	[pred="alnşr_____1",cat=AR]	alnşr_____1	Default		%default	inv
 alqaflwn	100	AR	[pred="alqaflwn_____1",cat=AR]	alqaflwn_____1	Default		%default	inv
+alŕaflwn	100	AR	[pred="alŕaflwn_____1",cat=AR]	alŕaflwn_____1	Default		%default	inv
+alqaflwn	100	AR	[pred="alqaflwn_____1",cat=AR]	alqaflwn_____1	Default		%default	inv
+alqbar	100	AR	[pred="alqbar_____1",cat=AR]	alqbar_____1	Default		%default	inv
+alŕbar	100	AR	[pred="alŕbar_____1",cat=AR]	alŕbar_____1	Default		%default	inv
 alqbar	100	AR	[pred="alqbar_____1",cat=AR]	alqbar_____1	Default		%default	inv
 alqdaç	100	AR	[pred="alqdaç_____1",cat=AR]	alqdaç_____1	Default		%default	inv
+alŕdaç	100	AR	[pred="alŕdaç_____1",cat=AR]	alŕdaç_____1	Default		%default	inv
+alqdaç	100	AR	[pred="alqdaç_____1",cat=AR]	alqdaç_____1	Default		%default	inv
+alqdyr	100	AR	[pred="alqdyr_____1",cat=AR]	alqdyr_____1	Default		%default	inv
+alŕdyr	100	AR	[pred="alŕdyr_____1",cat=AR]	alŕdyr_____1	Default		%default	inv
 alqdyr	100	AR	[pred="alqdyr_____1",cat=AR]	alqdyr_____1	Default		%default	inv
 alqmam	100	AR	[pred="alqmam_____1",cat=AR]	alqmam_____1	Default		%default	inv
+alŕmam	100	AR	[pred="alŕmam_____1",cat=AR]	alŕmam_____1	Default		%default	inv
+alqmam	100	AR	[pred="alqmam_____1",cat=AR]	alqmam_____1	Default		%default	inv
+alqmrfan	100	AR	[pred="alqmrfan_____1",cat=AR]	alqmrfan_____1	Default		%default	inv
+alŕmrfan	100	AR	[pred="alŕmrfan_____1",cat=AR]	alŕmrfan_____1	Default		%default	inv
 alqmrfan	100	AR	[pred="alqmrfan_____1",cat=AR]	alqmrfan_____1	Default		%default	inv
 alqna	100	AR	[pred="alqna_____1",cat=AR]	alqna_____1	Default		%default	inv
+alŕna	100	AR	[pred="alŕna_____1",cat=AR]	alŕna_____1	Default		%default	inv
+alqna	100	AR	[pred="alqna_____1",cat=AR]	alqna_____1	Default		%default	inv
+alqrź	300	AR	[pred="alqrź_____1",cat=AR]	alqrź_____1	Default		%default	inv
+alŕrź	300	AR	[pred="alŕrź_____1",cat=AR]	alŕrź_____1	Default		%default	inv
 alqrź	300	AR	[pred="alqrź_____1",cat=AR]	alqrź_____1	Default		%default	inv
 alrbanywn	100	AR	[pred="alrbanywn_____1",cat=AR]	alrbanywn_____1	Default		%default	inv
 alrjal	100	AR	[pred="alrjal_____1",cat=AR]	alrjal_____1	Default		%default	inv
@@ -436,7 +454,13 @@ anħr	100	AR	[pred="anħr_____1",cat=AR]	anħr_____1	Default		%default	inv
 anşb	100	AR	[pred="anşb_____1",cat=AR]	anşb_____1	Default		%default	inv
 anẓr	100	AR	[pred="anẓr_____1",cat=AR]	anẓr_____1	Default		%default	inv
 aqfrlwsxe	100	AR	[pred="aqfrlwsxe_____1",cat=AR]	aqfrlwsxe_____1	Default		%default	inv
+aŕfrlwsxe	100	AR	[pred="aŕfrlwsxe_____1",cat=AR]	aŕfrlwsxe_____1	Default		%default	inv
+aqfrlwsxe	100	AR	[pred="aqfrlwsxe_____1",cat=AR]	aqfrlwsxe_____1	Default		%default	inv
 aqfrly	100	AR	[pred="aqfrly_____1",cat=AR]	aqfrly_____1	Default		%default	inv
+aŕfrly	100	AR	[pred="aŕfrly_____1",cat=AR]	aŕfrly_____1	Default		%default	inv
+aqfrly	100	AR	[pred="aqfrly_____1",cat=AR]	aqfrly_____1	Default		%default	inv
+aqnya°	100	AR	[pred="aqnya°_____1",cat=AR]	aqnya°_____1	Default		%default	inv
+aŕnya°	100	AR	[pred="aŕnya°_____1",cat=AR]	aŕnya°_____1	Default		%default	inv
 aqnya°	100	AR	[pred="aqnya°_____1",cat=AR]	aqnya°_____1	Default		%default	inv
 arad	100	AR	[pred="arad_____1",cat=AR]	arad_____1	Default		%default	inv
 arb'yn	300	AR	[pred="arb'yn_____1",cat=AR]	arb'yn_____1	Default		%default	inv
@@ -453,6 +477,8 @@ asme	100	AR	[pred="asme_____1",cat=AR]	asme_____1	Default		%default	inv
 astare	100	AR	[pred="astare_____1",cat=AR]	astare_____1	Default		%default	inv
 astjb	100	AR	[pred="astjb_____1",cat=AR]	astjb_____1	Default		%default	inv
 astnţàe	100	AR	[pred="astnţàe_____1",cat=AR]	astnţàe_____1	Default		%default	inv
+astqfralle	300	AR	[pred="astqfralle_____1",cat=AR]	astqfralle_____1	Default		%default	inv
+astŕfralle	300	AR	[pred="astŕfralle_____1",cat=AR]	astŕfralle_____1	Default		%default	inv
 astqfralle	300	AR	[pred="astqfralle_____1",cat=AR]	astqfralle_____1	Default		%default	inv
 astrny	100	AR	[pred="astrny_____1",cat=AR]	astrny_____1	Default		%default	inv
 astħfẓwa	100	AR	[pred="astħfẓwa_____1",cat=AR]	astħfẓwa_____1	Default		%default	inv
@@ -517,7 +543,11 @@ aàymwa	100	AR	[pred="aàymwa_____1",cat=AR]	aàymwa_____1	Default		%default	inv
 aàţar	300	AR	[pred="aàţar_____1",cat=AR]	aàţar_____1	Default		%default	inv
 aş	100	AR	[pred="aş_____1",cat=AR]	aş_____1	Default		%default	inv
 aşbq	100	AR	[pred="aşbq_____1",cat=AR]	aşbq_____1	Default		%default	inv
+aşbŕ	100	AR	[pred="aşbŕ_____1",cat=AR]	aşbŕ_____1	Default		%default	inv
+aşbq	100	AR	[pred="aşbq_____1",cat=AR]	aşbq_____1	Default		%default	inv
 aşbr	100	AR	[pred="aşbr_____1",cat=AR]	aşbr_____1	Default		%default	inv
+aşqr	300	AR	[pred="aşqr_____1",cat=AR]	aşqr_____1	Default		%default	inv
+aşŕr	300	AR	[pred="aşŕr_____1",cat=AR]	aşŕr_____1	Default		%default	inv
 aşqr	300	AR	[pred="aşqr_____1",cat=AR]	aşqr_____1	Default		%default	inv
 aşħabe	100	AR	[pred="aşħabe_____1",cat=AR]	aşħabe_____1	Default		%default	inv
 aš'r	100	AR	[pred="aš'r_____1",cat=AR]	aš'r_____1	Default		%default	inv
@@ -554,6 +584,8 @@ balm'rwf	100	AR	[pred="balm'rwf_____1",cat=AR]	balm'rwf_____1	Default		%default	
 balmlk	100	AR	[pred="balmlk_____1",cat=AR]	balmlk_____1	Default		%default	inv
 balmr°	100	AR	[pred="balmr°_____1",cat=AR]	balmr°_____1	Default		%default	inv
 balmúmnyn	100	AR	[pred="balmúmnyn_____1",cat=AR]	balmúmnyn_____1	Default		%default	inv
+balqmź	100	AR	[pred="balqmź_____1",cat=AR]	balqmź_____1	Default		%default	inv
+balŕmź	100	AR	[pred="balŕmź_____1",cat=AR]	balŕmź_____1	Default		%default	inv
 balqmź	100	AR	[pred="balqmź_____1",cat=AR]	balqmź_____1	Default		%default	inv
 balsnd	100	AR	[pred="balsnd_____1",cat=AR]	balsnd_____1	Default		%default	inv
 balswad	100	AR	[pred="balswad_____1",cat=AR]	balswad_____1	Default		%default	inv
@@ -685,6 +717,10 @@ fanma	100	AR	[pred="fanma_____1",cat=AR]	fanma_____1	Default		%default	inv
 fantewa	100	AR	[pred="fantewa_____1",cat=AR]	fantewa_____1	Default		%default	inv
 fanàlbwa	100	AR	[pred="fanàlbwa_____1",cat=AR]	fanàlbwa_____1	Default		%default	inv
 faqfrly	100	AR	[pred="faqfrly_____1",cat=AR]	faqfrly_____1	Default		%default	inv
+faŕfrly	100	AR	[pred="faŕfrly_____1",cat=AR]	faŕfrly_____1	Default		%default	inv
+faqfrly	100	AR	[pred="faqfrly_____1",cat=AR]	faqfrly_____1	Default		%default	inv
+faqfrly ay	100	AR	[pred="faqfrly ay_____1",cat=AR]	faqfrly ay_____1	Default		%default	inv
+faŕfrly ay	100	AR	[pred="faŕfrly ay_____1",cat=AR]	faŕfrly ay_____1	Default		%default	inv
 faqfrly ay	100	AR	[pred="faqfrly ay_____1",cat=AR]	faqfrly ay_____1	Default		%default	inv
 farebwn	100	AR	[pred="farebwn_____1",cat=AR]	farebwn_____1	Default		%default	inv
 fastjbtm	100	AR	[pred="fastjbtm_____1",cat=AR]	fastjbtm_____1	Default		%default	inv
@@ -863,6 +899,8 @@ lay'lmwn	100	AR	[pred="lay'lmwn_____1",cat=AR]	lay'lmwn_____1	Default		%default	
 layftnwn	100	AR	[pred="layftnwn_____1",cat=AR]	layftnwn_____1	Default		%default	inv
 laynal	100	AR	[pred="laynal_____1",cat=AR]	laynal_____1	Default		%default	inv
 layqfr	100	AR	[pred="layqfr_____1",cat=AR]	layqfr_____1	Default		%default	inv
+layŕfr	100	AR	[pred="layŕfr_____1",cat=AR]	layŕfr_____1	Default		%default	inv
+layqfr	100	AR	[pred="layqfr_____1",cat=AR]	layqfr_____1	Default		%default	inv
 laystxfnk	100	AR	[pred="laystxfnk_____1",cat=AR]	laystxfnk_____1	Default		%default	inv
 laywànwn	100	AR	[pred="laywànwn_____1",cat=AR]	laywànwn_____1	Default		%default	inv
 lazwajk	100	AR	[pred="lazwajk_____1",cat=AR]	lazwajk_____1	Default		%default	inv
@@ -903,12 +941,18 @@ lnfse	100	AR	[pred="lnfse_____1",cat=AR]	lnfse_____1	Default		%default	inv
 lnfsk	100	AR	[pred="lnfsk_____1",cat=AR]	lnfsk_____1	Default		%default	inv
 lnàź	100	AR	[pred="lnàź_____1",cat=AR]	lnàź_____1	Default		%default	inv
 lqđàdwne	100	AR	[pred="lqđàdwne_____1",cat=AR]	lqđàdwne_____1	Default		%default	inv
+lŕđàdwne	100	AR	[pred="lŕđàdwne_____1",cat=AR]	lŕđàdwne_____1	Default		%default	inv
+lqđàdwne	100	AR	[pred="lqđàdwne_____1",cat=AR]	lqđàdwne_____1	Default		%default	inv
+lqźbea	100	AR	[pred="lqźbea_____1",cat=AR]	lqźbea_____1	Default		%default	inv
+lŕźbea	100	AR	[pred="lŕźbea_____1",cat=AR]	lŕźbea_____1	Default		%default	inv
 lqźbea	100	AR	[pred="lqźbea_____1",cat=AR]	lqźbea_____1	Default		%default	inv
 lrbk	100	AR	[pred="lrbk_____1",cat=AR]	lrbk_____1	Default		%default	inv
 lrjale	100	AR	[pred="lrjale_____1",cat=AR]	lrjale_____1	Default		%default	inv
 lrsalç	100	AR	[pred="lrsalç_____1",cat=AR]	lrsalç_____1	Default		%default	inv
 lrźa	100	AR	[pred="lrźa_____1",cat=AR]	lrźa_____1	Default		%default	inv
 lrźaea	100	AR	[pred="lrźaea_____1",cat=AR]	lrźaea_____1	Default		%default	inv
+lsan alqyb	100	AR	[pred="lsan alqyb_____1",cat=AR]	lsan alqyb_____1	Default		%default	inv
+lsan alŕyb	100	AR	[pred="lsan alŕyb_____1",cat=AR]	lsan alŕyb_____1	Default		%default	inv
 lsan alqyb	100	AR	[pred="lsan alqyb_____1",cat=AR]	lsan alqyb_____1	Default		%default	inv
 lst	100	AR	[pred="lst_____1",cat=AR]	lst_____1	Default		%default	inv
 lstn	100	AR	[pred="lstn_____1",cat=AR]	lstn_____1	Default		%default	inv
@@ -921,6 +965,10 @@ lwmwa	100	AR	[pred="lwmwa_____1",cat=AR]	lwmwa_____1	Default		%default	inv
 ly	100	AR	[pred="ly_____1",cat=AR]	ly_____1	Default		%default	inv
 ly'bdwn	100	AR	[pred="ly'bdwn_____1",cat=AR]	ly'bdwn_____1	Default		%default	inv
 lyqfr	100	AR	[pred="lyqfr_____1",cat=AR]	lyqfr_____1	Default		%default	inv
+lyŕfr	100	AR	[pred="lyŕfr_____1",cat=AR]	lyŕfr_____1	Default		%default	inv
+lyqfr	100	AR	[pred="lyqfr_____1",cat=AR]	lyqfr_____1	Default		%default	inv
+lyqfrlk	100	AR	[pred="lyqfrlk_____1",cat=AR]	lyqfrlk_____1	Default		%default	inv
+lyŕfrlk	100	AR	[pred="lyŕfrlk_____1",cat=AR]	lyŕfrlk_____1	Default		%default	inv
 lyqfrlk	100	AR	[pred="lyqfrlk_____1",cat=AR]	lyqfrlk_____1	Default		%default	inv
 lyst	300	AR	[pred="lyst_____1",cat=AR]	lyst_____1	Default		%default	inv
 lytny	100	AR	[pred="lytny_____1",cat=AR]	lytny_____1	Default		%default	inv
@@ -952,6 +1000,8 @@ matàdm	100	AR	[pred="matàdm_____1",cat=AR]	matàdm_____1	Default		%default	inv
 ma°	100	AR	[pred="ma°_____1",cat=AR]	ma°_____1	Default		%default	inv
 mađa	100	AR	[pred="mađa_____1",cat=AR]	mađa_____1	Default		%default	inv
 ma½	100	AR	[pred="ma½_____1",cat=AR]	ma½_____1	Default		%default	inv
+mblq	300	AR	[pred="mblq_____1",cat=AR]	mblq_____1	Default		%default	inv
+mblŕ	300	AR	[pred="mblŕ_____1",cat=AR]	mblŕ_____1	Default		%default	inv
 mblq	300	AR	[pred="mblq_____1",cat=AR]	mblq_____1	Default		%default	inv
 mbyn	300	AR	[pred="mbyn_____1",cat=AR]	mbyn_____1	Default		%default	inv
 mbšra	100	AR	[pred="mbšra_____1",cat=AR]	mbšra_____1	Default		%default	inv
@@ -1017,6 +1067,8 @@ njybe	100	AR	[pred="njybe_____1",cat=AR]	njybe_____1	Default		%default	inv
 njzy	100	AR	[pred="njzy_____1",cat=AR]	njzy_____1	Default		%default	inv
 nmske	100	AR	[pred="nmske_____1",cat=AR]	nmske_____1	Default		%default	inv
 nrqb	100	AR	[pred="nrqb_____1",cat=AR]	nrqb_____1	Default		%default	inv
+nrŕb	100	AR	[pred="nrŕb_____1",cat=AR]	nrŕb_____1	Default		%default	inv
+nrqb	100	AR	[pred="nrqb_____1",cat=AR]	nrqb_____1	Default		%default	inv
 nswskm	100	AR	[pred="nswskm_____1",cat=AR]	nswskm_____1	Default		%default	inv
 nsá	100	AR	[pred="nsá_____1",cat=AR]	nsá_____1	Default		%default	inv
 nwaey	100	AR	[pred="nwaey_____1",cat=AR]	nwaey_____1	Default		%default	inv
@@ -1035,13 +1087,31 @@ nşr mn alle w ftħ àryb	100	AR	[pred="nşr mn alle w ftħ àryb_____1",cat=AR]
 nşralmúmnyn	100	AR	[pred="nşralmúmnyn_____1",cat=AR]	nşralmúmnyn_____1	Default		%default	inv
 nţ'	100	AR	[pred="nţ'_____1",cat=AR]	nţ'_____1	Default		%default	inv
 qda½	100	AR	[pred="qda½_____1",cat=AR]	qda½_____1	Default		%default	inv
+ŕda½	100	AR	[pred="ŕda½_____1",cat=AR]	ŕda½_____1	Default		%default	inv
+qda½	100	AR	[pred="qda½_____1",cat=AR]	qda½_____1	Default		%default	inv
+qfr	100	AR	[pred="qfr_____1",cat=AR]	qfr_____1	Default		%default	inv
+ŕfr	100	AR	[pred="ŕfr_____1",cat=AR]	ŕfr_____1	Default		%default	inv
 qfr	100	AR	[pred="qfr_____1",cat=AR]	qfr_____1	Default		%default	inv
 qfralle	100	AR	[pred="qfralle_____1",cat=AR]	qfralle_____1	Default		%default	inv
+ŕfralle	100	AR	[pred="ŕfralle_____1",cat=AR]	ŕfralle_____1	Default		%default	inv
+qfralle	100	AR	[pred="qfralle_____1",cat=AR]	qfralle_____1	Default		%default	inv
+qfrana	100	AR	[pred="qfrana_____1",cat=AR]	qfrana_____1	Default		%default	inv
+ŕfrana	100	AR	[pred="ŕfrana_____1",cat=AR]	ŕfrana_____1	Default		%default	inv
 qfrana	100	AR	[pred="qfrana_____1",cat=AR]	qfrana_____1	Default		%default	inv
 qfre	100	AR	[pred="qfre_____1",cat=AR]	qfre_____1	Default		%default	inv
+ŕfre	100	AR	[pred="ŕfre_____1",cat=AR]	ŕfre_____1	Default		%default	inv
+qfre	100	AR	[pred="qfre_____1",cat=AR]	qfre_____1	Default		%default	inv
+qrfy	100	AR	[pred="qrfy_____1",cat=AR]	qrfy_____1	Default		%default	inv
+ŕrfy	100	AR	[pred="ŕrfy_____1",cat=AR]	ŕrfy_____1	Default		%default	inv
 qrfy	100	AR	[pred="qrfy_____1",cat=AR]	qrfy_____1	Default		%default	inv
 qryb	300	AR	[pred="qryb_____1",cat=AR]	qryb_____1	Default		%default	inv
+ŕryb	300	AR	[pred="ŕryb_____1",cat=AR]	ŕryb_____1	Default		%default	inv
+qryb	300	AR	[pred="qryb_____1",cat=AR]	qryb_____1	Default		%default	inv
 qšawç	100	AR	[pred="qšawç_____1",cat=AR]	qšawç_____1	Default		%default	inv
+ŕšawç	100	AR	[pred="ŕšawç_____1",cat=AR]	ŕšawç_____1	Default		%default	inv
+qšawç	100	AR	[pred="qšawç_____1",cat=AR]	qšawç_____1	Default		%default	inv
+qţy	100	AR	[pred="qţy_____1",cat=AR]	qţy_____1	Default		%default	inv
+ŕţy	100	AR	[pred="ŕţy_____1",cat=AR]	ŕţy_____1	Default		%default	inv
 qţy	100	AR	[pred="qţy_____1",cat=AR]	qţy_____1	Default		%default	inv
 rakawn	100	AR	[pred="rakawn_____1",cat=AR]	rakawn_____1	Default		%default	inv
 rayy	100	AR	[pred="rayy_____1",cat=AR]	rayy_____1	Default		%default	inv
@@ -1054,6 +1124,8 @@ rdy	300	AR	[pred="rdy_____1",cat=AR]	rdy_____1	Default		%default	inv
 rjal	300	AR	[pred="rjal_____1",cat=AR]	rjal_____1	Default		%default	inv
 rjale	300	AR	[pred="rjale_____1",cat=AR]	rjale_____1	Default		%default	inv
 rjalea	100	AR	[pred="rjalea_____1",cat=AR]	rjalea_____1	Default		%default	inv
+rqbe	100	AR	[pred="rqbe_____1",cat=AR]	rqbe_____1	Default		%default	inv
+rŕbe	100	AR	[pred="rŕbe_____1",cat=AR]	rŕbe_____1	Default		%default	inv
 rqbe	100	AR	[pred="rqbe_____1",cat=AR]	rqbe_____1	Default		%default	inv
 rsalate	100	AR	[pred="rsalate_____1",cat=AR]	rsalate_____1	Default		%default	inv
 rsalte	100	AR	[pred="rsalte_____1",cat=AR]	rsalte_____1	Default		%default	inv
@@ -1150,6 +1222,8 @@ tntşf	100	AR	[pred="tntşf_____1",cat=AR]	tntşf_____1	Default		%default	inv
 tnđr	100	AR	[pred="tnđr_____1",cat=AR]	tnđr_____1	Default		%default	inv
 tnàđwa	100	AR	[pred="tnàđwa_____1",cat=AR]	tnàđwa_____1	Default		%default	inv
 tnşrwa	100	AR	[pred="tnşrwa_____1",cat=AR]	tnşrwa_____1	Default		%default	inv
+tqtnm	100	AR	[pred="tqtnm_____1",cat=AR]	tqtnm_____1	Default		%default	inv
+tŕtnm	100	AR	[pred="tŕtnm_____1",cat=AR]	tŕtnm_____1	Default		%default	inv
 tqtnm	100	AR	[pred="tqtnm_____1",cat=AR]	tqtnm_____1	Default		%default	inv
 trdn	100	AR	[pred="trdn_____1",cat=AR]	trdn_____1	Default		%default	inv
 trźy	100	AR	[pred="trźy_____1",cat=AR]	trźy_____1	Default		%default	inv
@@ -1274,6 +1348,10 @@ yatwn	100	AR	[pred="yatwn_____1",cat=AR]	yatwn_____1	Default		%default	inv
 yb'd	100	AR	[pred="yb'd_____1",cat=AR]	yb'd_____1	Default		%default	inv
 ybdl	100	AR	[pred="ybdl_____1",cat=AR]	ybdl_____1	Default		%default	inv
 yblq	100	AR	[pred="yblq_____1",cat=AR]	yblq_____1	Default		%default	inv
+yblŕ	100	AR	[pred="yblŕ_____1",cat=AR]	yblŕ_____1	Default		%default	inv
+yblq	100	AR	[pred="yblq_____1",cat=AR]	yblq_____1	Default		%default	inv
+yblqe	100	AR	[pred="yblqe_____1",cat=AR]	yblqe_____1	Default		%default	inv
+yblŕe	100	AR	[pred="yblŕe_____1",cat=AR]	yblŕe_____1	Default		%default	inv
 yblqe	100	AR	[pred="yblqe_____1",cat=AR]	yblqe_____1	Default		%default	inv
 ybşrwn	100	AR	[pred="ybşrwn_____1",cat=AR]	ybşrwn_____1	Default		%default	inv
 ydf'e	100	AR	[pred="ydf'e_____1",cat=AR]	ydf'e_____1	Default		%default	inv
@@ -1294,11 +1372,19 @@ yld	100	AR	[pred="yld_____1",cat=AR]	yld_____1	Default		%default	inv
 ymkç	100	AR	[pred="ymkç_____1",cat=AR]	ymkç_____1	Default		%default	inv
 ymssem	100	AR	[pred="ymssem_____1",cat=AR]	ymssem_____1	Default		%default	inv
 ynbqy	100	AR	[pred="ynbqy_____1",cat=AR]	ynbqy_____1	Default		%default	inv
+ynbŕy	100	AR	[pred="ynbŕy_____1",cat=AR]	ynbŕy_____1	Default		%default	inv
+ynbqy	100	AR	[pred="ynbqy_____1",cat=AR]	ynbqy_____1	Default		%default	inv
 ynf'	100	AR	[pred="ynf'_____1",cat=AR]	ynf'_____1	Default		%default	inv
 ynşrkm	100	AR	[pred="ynşrkm_____1",cat=AR]	ynşrkm_____1	Default		%default	inv
 ynţà	100	AR	[pred="ynţà_____1",cat=AR]	ynţà_____1	Default		%default	inv
 yqfre;	100	AR	[pred="yqfre;_____1",cat=AR]	yqfre;_____1	Default		%default	inv
+yŕfre;	100	AR	[pred="yŕfre;_____1",cat=AR]	yŕfre;_____1	Default		%default	inv
+yqfre;	100	AR	[pred="yqfre;_____1",cat=AR]	yqfre;_____1	Default		%default	inv
 yqtalny	100	AR	[pred="yqtalny_____1",cat=AR]	yqtalny_____1	Default		%default	inv
+yŕtalny	100	AR	[pred="yŕtalny_____1",cat=AR]	yŕtalny_____1	Default		%default	inv
+yqtalny	100	AR	[pred="yqtalny_____1",cat=AR]	yqtalny_____1	Default		%default	inv
+yqźb	100	AR	[pred="yqźb_____1",cat=AR]	yqźb_____1	Default		%default	inv
+yŕźb	100	AR	[pred="yŕźb_____1",cat=AR]	yŕźb_____1	Default		%default	inv
 yqźb	100	AR	[pred="yqźb_____1",cat=AR]	yqźb_____1	Default		%default	inv
 yr	100	AR	[pred="yr_____1",cat=AR]	yr_____1	Default		%default	inv
 yrsl	100	AR	[pred="yrsl_____1",cat=AR]	yrsl_____1	Default		%default	inv
@@ -1462,6 +1548,8 @@ zyntea	100	AR	[pred="zyntea_____1",cat=AR]	zyntea_____1	Default		%default	inv
 şma½	100	AR	[pred="şma½_____1",cat=AR]	şma½_____1	Default		%default	inv
 şnfan	100	AR	[pred="şnfan_____1",cat=AR]	şnfan_____1	Default		%default	inv
 şqyra	100	AR	[pred="şqyra_____1",cat=AR]	şqyra_____1	Default		%default	inv
+şŕyra	100	AR	[pred="şŕyra_____1",cat=AR]	şŕyra_____1	Default		%default	inv
+şqyra	100	AR	[pred="şqyra_____1",cat=AR]	şqyra_____1	Default		%default	inv
 şraţ	300	AR	[pred="şraţ_____1",cat=AR]	şraţ_____1	Default		%default	inv
 şxwr	100	AR	[pred="şxwr_____1",cat=AR]	şxwr_____1	Default		%default	inv
 şye	100	AR	[pred="şye_____1",cat=AR]	şye_____1	Default		%default	inv
@@ -1493,6 +1581,8 @@ zyntea	100	AR	[pred="zyntea_____1",cat=AR]	zyntea_____1	Default		%default	inv
 ţalb	300	AR	[pred="ţalb_____1",cat=AR]	ţalb_____1	Default		%default	inv
 ţlab	300	AR	[pred="ţlab_____1",cat=AR]	ţlab_____1	Default		%default	inv
 ţlaàe	100	AR	[pred="ţlaàe_____1",cat=AR]	ţlaàe_____1	Default		%default	inv
+ţqy	100	AR	[pred="ţqy_____1",cat=AR]	ţqy_____1	Default		%default	inv
+ţŕy	100	AR	[pred="ţŕy_____1",cat=AR]	ţŕy_____1	Default		%default	inv
 ţqy	100	AR	[pred="ţqy_____1",cat=AR]	ţqy_____1	Default		%default	inv
 ţyb alle	100	AR	[pred="ţyb alle_____1",cat=AR]	ţyb alle_____1	Default		%default	inv
 źarba	100	AR	[pred="źarba_____1",cat=AR]	źarba_____1	Default		%default	inv

@@ -6,6 +6,7 @@ ala	300	INTs	[pred="ala_____3",cat=INTs]	ala_____3	Default		%default	inv
 aley	300	INTexcl	[pred="aley_____1",cat=INTexcl]	aley_____1	Default		%default	inv
 awew	100	INT	[pred="awew_____1",cat=INT]	awew_____1	Default		%default	inv
 awewwm	100	INT	[pred="awewwm_____1",cat=INT]	awewwm_____1	Default		%default	inv
+awww	100	INTs	[pred="awww_____1",cat=INTs]	awww_____1	Default		%default	inv
 ay	300	INTexcl	[pred="ay_____1",cat=INTexcl]	ay_____1	Default		%default	inv
 ay way	100	INT	[pred="ay way_____1",cat=INT]	ay way_____1	Default		%default	inv
 ayea	100	INTexcl	[pred="ayea_____1",cat=INTexcl]	ayea_____1	Default		%default	inv

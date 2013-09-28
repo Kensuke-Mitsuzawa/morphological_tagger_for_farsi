@@ -1,0 +1,4915 @@
+  <table name="v1" canonical_tag="*10*inf" rads="..*yd">
+    <!-- les verbes réguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -yd à la fin du radical 2 -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form prefix="b" suffix="«" tag="imperNorm"/>
+    <form prefix="b" suffix="«yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="«" tag="ProhibNorm"/>
+    <form prefix="n" suffix="«yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="«" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="«yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="«nde" tag="partPres"/>
+
+    <form suffix="«an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="«m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="«y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="«d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="«ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="«yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="«nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="«e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="«n" tag="2*3plPreIndFam"/>
+
+
+
+    <form prefix="nmy_" suffix="«m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="«y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="«d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="«ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="«yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="«nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="«e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="«n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="«m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="«y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="«d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="«ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="«yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="«nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="«e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="«n" tag="3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="«m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="«y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="«d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="«ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="«yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="«nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="«e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="«n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <!-- II. Verbes irréguliers -->
+
+  <!-- A. Verbes irréguliers avec radicaux 2 en -d -->
+
+
+  <!-- 1) Verbes -nd et et 2) Verbes en -rd-->
+
+<table name="v2" canonical_tag="*10*inf" rads="..*[nr]d">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -nd ou -rd à la fin du radical 2 et respectivement de -n et -r à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form prefix="b" suffix=":" tag="imperNorm"/>
+    <form prefix="b" suffix=":yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix=":" tag="ProhibNorm"/>
+    <form prefix="n" suffix=":yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix=":" tag="ProhibNormForm"/>
+    <form prefix="m" suffix=":yd" tag="ProhibNormFormpl"/>
+
+
+    <form suffix=":nde" tag="partPres"/>
+
+    <form suffix=":an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix=":m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix=":y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix=":d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix=":ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix=":yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix=":nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix=":e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix=":n" tag="2*3plPreIndFam"/>
+
+
+
+    <form prefix="nmy_" suffix=":m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix=":y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix=":d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix=":ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix=":yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix=":nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix=":e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix=":n" tag="3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix=":m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix=":y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix=":d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix=":ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix=":yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix=":nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix=":e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix=":n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix=":m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix=":y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix=":d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix=":ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix=":yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix=":nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix=":e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix=":n" tag="3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+  <table name="v3" canonical_tag="*10*inf" rads="..*rd">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -rd à la fin du radical 2 et de -ar à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="¨" tag="imperNorm"/>
+    <form prefix="b" suffix="¨yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="¨" tag="ProhibNorm"/>
+    <form prefix="n" suffix="¨yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="¨" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="¨yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="¨nde" tag="partPres"/>
+
+    <form suffix="¨an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="¨m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="¨y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="¨d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="¨ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="¨yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="¨nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="¨e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="¨n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="¨m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¨y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¨d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¨ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="¨yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="¨nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="¨e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="¨n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="¨m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="¨y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="¨d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="¨ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="¨yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="¨nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="¨e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="¨n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="¨m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="¨y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="¨d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="¨ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="¨yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="¨nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="¨e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="¨n" tag="3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <!-- 3) Verbes en -ad -->
+
+  <table name="v4" canonical_tag="*10*inf" rads="..*ad">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -ad à la fin du radical 2 -->
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form prefix="b" suffix="~" tag="imperNorm"/>
+    <form prefix="b" suffix="~yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="~" tag="ProhibNorm"/>
+    <form prefix="n" suffix="~yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="~" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="~yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="~nde" tag="partPres"/>
+
+    <form suffix="~an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="~m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="~y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="~d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="~ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="~yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="~nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="~e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="~n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="~m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="~y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="~d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="~ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="~yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="~nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="~e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="~n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="~m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="~y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="~d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="~ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="~yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="~nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="~e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="~n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="~m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="~y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="~d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="~ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="~yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="~nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="~e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="~n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <table name="v5" canonical_tag="*10*inf" rads="..*ad">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -ad à la fin du radical 2 et des lettres -a ou -ay à la fin du radical 1 -->
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix=":" tag="imperNorm"/>
+    <form prefix="b" suffix="°yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix=":" tag="ProhibNorm"/>
+    <form prefix="n" suffix="°yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix=":" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="°yd" tag="ProhibNormFormpl"/>
+
+    <form suffix=":°nde" tag="partPres"/>
+
+    <form suffix=":°an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="°m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="°y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="°d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="°ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="°yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="°nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="°e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="°n" tag="2*3plPreIndFam"/>
+
+
+
+    <form prefix="nmy_" suffix="°m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="°y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="°d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="°ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="°yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="°nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="°e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="°n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="°m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="°y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="°d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="°ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="°yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="°nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="°e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="°n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="°m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="°y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="°d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="°ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="°yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="°nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="°e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="°n" tag="3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <!-- 4) Verbes en -wd -->
+
+
+  <table name="v6" canonical_tag="*10*inf" rads="..*wd">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -wd à la fin du radical 2 et des lettres -a ou -ay à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="#" tag="imperNorm"/>
+    <form prefix="b" suffix="§yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="#" tag="ProhibNorm"/>
+    <form prefix="n" suffix="§yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="#" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="§yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="§nde" tag="partPres"/>
+
+    <form suffix="§an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="§m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="§y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="§d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="§ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="§yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="§nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="§e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="§n" tag="2*3plPreIndFam"/>
+
+
+
+    <form prefix="nmy_" suffix="§m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="§y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="§d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="§ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="§yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="§nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="§e" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="§n" tag="2*3plPreIndNeg"/>
+
+
+    <form prefix="b" suffix="§m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="§y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="§d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="§ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="§yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="§nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="§e" tag="2*3sgPreSubjFam"/>
+    <form prefix="b" suffix="§n" tag="2*3plPreSubjFam"/>
+
+
+
+    <form prefix="n" suffix="§m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="§y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="§d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="§ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="§yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="§nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="§e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="§n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <!-- 5) Verbes en -yd -->
+
+
+  <table name="v7" canonical_tag="*10*inf" rads="(z|..*y)d">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -yd à la fin du radical 2 et de -yn à la fin du radical 1 -->
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form prefix="b" suffix="·" tag="imperNorm"/>
+    <form prefix="b" suffix="·yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="·" tag="ProhibNorm"/>
+    <form prefix="n" suffix="·yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="·" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="·yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="·nde" tag="partPres"/>
+
+    <form suffix="·an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="·m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="·y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="·d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="·ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="·yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="·nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="·e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="·n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="·m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="·y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="·d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="·ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="·yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="·nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="·e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="·n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="·m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="·y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="·d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="·ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="·yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="·nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="·e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="·n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="·m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="·y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="·d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="·ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="·yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="·nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="·e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="·n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+
+  <!-- B. Verbes irréguliers avec radicaux 2 en - t -->
+
+
+  <!-- 1) Verbes en -xt -->
+
+
+  <table name="v8" canonical_tag="*10*inf" rads="..*xt">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -xt à la fin du radical 2 et de -z à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form prefix="b" suffix="€" tag="imperNorm"/>
+    <form prefix="b" suffix="€yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="€" tag="ProhibNorm"/>
+    <form prefix="n" suffix="€yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="€" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="€yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="€nde" tag="partPres"/>
+
+    <form suffix="€an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="€m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="€y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="€d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="€ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="€yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="€nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="€e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="€n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="€m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="€y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="€d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="€ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="€yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="€nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="€e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="€n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="€m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="€y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="€d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="€ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="€yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="€nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="€e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="€n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="€m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="€y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="€d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="€ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="€yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="€nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="€e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="€n" tag="2*3plPreSubjNegFam"/>
+
+
+  </table>
+
+
+
+
+  <!-- 2) Verbes en -št -->
+
+
+  <table name="v9" canonical_tag="*10*inf" rads="..*št">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -št à la fin du radical 2 et de -r à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form prefix="b" suffix="»" tag="imperNorm"/>
+    <form prefix="b" suffix="»yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="»" tag="ProhibNorm"/>
+    <form prefix="n" suffix="»yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="»" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="»yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="»nde" tag="partPres"/>
+
+    <form suffix="»an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="»m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="»y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="»d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="»ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="»yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="»nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="»e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="»n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="»m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="»y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="»d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="»ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="»yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="»nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="»e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="»n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="»m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="»y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="»d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="»ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="»yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="»nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="»e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="»n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="»m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="»y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="»d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="»ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="»yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="»nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="»e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="»n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+  <table name="v10" canonical_tag="*10*inf" rads="..*št">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -št à la finale du radical 2 et de -rd à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="≤" tag="imperNorm"/>
+    <form prefix="b" suffix="≤yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="≤" tag="ProhibNorm"/>
+    <form prefix="n" suffix="≤yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="≤" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="≤yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="≤nde" tag="partPres"/>
+
+    <form suffix="≤an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="≤m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="≤y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="≤d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="≤ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="≤yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="≤nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="≤e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="≤n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="≤m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="≤y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="≤d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="≤ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="≤yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="≤nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="≤e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="≤n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="≤m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="≤y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="≤d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="≤ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="≤yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="≤nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="≤e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="≤n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="≤m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="≤y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="≤d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="≤ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="≤yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="≤nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="≤e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="≤n" tag="3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+
+  <table name="v11" canonical_tag="*10*inf" rads="..*št">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -št  à la fin du radical 2 et de -ys à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form prefix="b" suffix="↕" tag="imperNorm"/>
+    <form prefix="b" suffix="↕yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="↕" tag="ProhibNorm"/>
+    <form prefix="n" suffix="↕yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="↕" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="↕yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="↕nde" tag="partPres"/>
+
+    <form suffix="↕an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="↕m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="↕y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="↕d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="↕ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="↕yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="↕nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="↕e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="↕n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="↕m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↕y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↕d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↕ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="↕yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="↕nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="↕e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="↕n" tag="2*3plPreIndNegFam"/>
+
+
+
+    <form prefix="b" suffix="↕m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="↕y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="↕d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="↕ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="↕yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="↕nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="↕e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="↕n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="↕m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="↕y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="↕d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="↕ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="↕yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="↕nd" tag="3plPreSubjNeg"/>
+
+
+    <form prefix="n" suffix="↕e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="↕n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+  <!-- 3) Verbes en -st -->
+
+
+  <table name="v12" canonical_tag="*10*inf" rads="..*st">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -st à la fin du radical 2 et de rien ou -y à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="↓" tag="imperNorm"/>
+    <form prefix="b" suffix="←yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="↓" tag="ProhibNorm"/>
+    <form prefix="n" suffix="←yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="↓" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="←yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="←nde" tag="partPres"/>
+
+    <form suffix="←an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="←m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="←y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="←d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="←ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="←yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="←nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="←e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="←n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="←m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="←y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="←d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="←ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="←yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="←nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="←e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="←n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="←m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="←y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="←d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="←ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="←yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="←nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="←e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="←n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="←m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="←y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="←d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="←ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="←yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="←nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="←e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="←n" tag="2*3plPreSubjNegFam"/>
+
+
+  </table>
+
+
+  <table name="v13" canonical_tag="*10*inf" rads="..*st">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -st à la fin du radical 2 et de -h à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+
+    <form prefix="b" suffix="↑" tag="imperNorm"/>
+    <form prefix="b" suffix="↑yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="↑" tag="ProhibNorm"/>
+    <form prefix="n" suffix="↑yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="↑" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="↑yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="↑nde" tag="partPres"/>
+
+    <form suffix="↑an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="↑m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="↑y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="↑d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="↑ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="↑yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="↑nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="↑e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="↑n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="↑m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↑y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↑d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↑ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="↑yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="↑nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="↑e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="↑n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="↑m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="↑y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="↑d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="↑ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="↑yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="↑nd" tag="2*3plPreSubj"/>
+    <form prefix="b" suffix="↑e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="↑n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="↑m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="↑y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="↑d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="↑ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="↑yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="↑nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="↑e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="↑n" tag="2*3plPreSubjNegFam"/>
+
+
+  </table>
+
+  <table name="v14" canonical_tag="*10*inf" rads="..*st">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -st à la fin du radical 2 et de -nd à la fin du radical 1 -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="→" tag="imperNorm"/>
+    <form prefix="b" suffix="→yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="→" tag="ProhibNorm"/>
+    <form prefix="n" suffix="→yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="→" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="→yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="→nde" tag="partPres"/>
+
+    <form suffix="→an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="→m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="→y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="→d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="→ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="→yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="→nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="→e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="→n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="→m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="→y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="→d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="→ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="→yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="→nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="→e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="→n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="→m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="→y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="→d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="→ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="→yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="→nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="→e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="→n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="→m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="→y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="→d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="→ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="→yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="→nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="→e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="→n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+  <table name="v15" canonical_tag="*10*inf" rads="..*st">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -st à la fin du radical 2 et de rien à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="©" tag="imperNorm"/>
+    <form prefix="b" suffix="©yd" tag="imperNormpl"/>
+
+
+    <form prefix="n" suffix="©" tag="ProhibNorm"/>
+    <form prefix="n" suffix="©yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="©" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="©yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="©nde" tag="partPres"/>
+
+    <form suffix="©an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="©m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="©y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="©d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="©ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="©yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="©nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="©e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="©n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="©m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="©y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="©d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="©ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="©yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="©nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="©e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="©n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="©m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="©y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="©d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="©ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="©yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="©nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="©e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="©n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="©m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="©y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="©d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="©ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="©yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="©nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="©e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="©n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <table name="v16" canonical_tag="*10*inf" rads="..*st">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -st à la fin du radical 2 et de -w ou -wy à la fin du radical 1 -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="¹" tag="imperNorm"/>
+    <form prefix="b" suffix="²yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="¹" tag="ProhibNorm"/>
+    <form prefix="n" suffix="²yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="¹" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="²yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="²nde" tag="partPres"/>
+
+    <form suffix="²an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="²m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="²y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="²d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="²ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="²yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="²nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="²e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="²n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="²m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="²y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="²d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="²ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="²yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="²nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="²e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="²n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="²m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="²y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="²d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="²ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="²yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="²nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="²e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="²n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="²m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="²y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="²d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="²ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="²yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="²nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="²e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="²n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+  <table name="v17" canonical_tag="*10*inf" rads="..*st">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -st à la fin du radical 2 et de -wr à la fin du radical 1 -->
+    <!-- Il s'agit de la variante familière de v16 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="³" tag="imperNorm"/>
+    <form prefix="b" suffix="³yd" tag="imperNormpl"/>
+
+
+    <form prefix="n" suffix="³" tag="ProhibNorm"/>
+    <form prefix="n" suffix="³yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="³" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="³yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="³nde" tag="partPres"/>
+
+    <form suffix="³an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="³m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="³y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="³d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="³ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="³yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="³nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="³e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="³n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="³m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="³y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="³d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="³ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="³yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="³nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="³e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="³n" tag="2*3plPreIndNeg"/>
+
+
+    <form prefix="b" suffix="³m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="³y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="³d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="³ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="³yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="³nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="³e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="³n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="³m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="³y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="³d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="³ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="³yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="³nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="³e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="³n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+
+  <!-- 4) Verbes en -ft -->
+
+  <table name="v18" canonical_tag="*10*inf" rads="..*ft">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -ft à la fin du radical 2 et de -b à la fin du radical 1 -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+
+    <form prefix="b" suffix="¬" tag="imperNorm"/>
+    <form prefix="b" suffix="¬yd" tag="imperNormpl"/>
+
+
+    <form prefix="n" suffix="¬" tag="ProhibNorm"/>
+    <form prefix="n" suffix="¬yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="¬" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="¬yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="¬nde" tag="partPres"/>
+
+    <form suffix="¬an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="¬m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="¬y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="¬d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="¬ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="¬yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="¬nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="¬e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="¬n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="¬m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¬y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¬d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¬ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="¬yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="¬nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="¬e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="¬n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="¬m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="¬y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="¬d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="¬ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="¬yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="¬nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="¬e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="¬n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="¬m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="¬y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="¬d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="¬ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="¬yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="¬nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="¬e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="¬n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <table name="v19" canonical_tag="*10*inf" rads="..*ft">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -ft à la fin du radical 2 et de -wb à la fin du radical 1 -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+
+    <form prefix="b" suffix="¿" tag="imperNorm"/>
+    <form prefix="b" suffix="yd" tag="imperNormpl"/>
+
+
+    <form prefix="n" suffix="¿" tag="ProhibNorm"/>
+    <form prefix="n" suffix="¿yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="¿" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="¿yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="¿nde" tag="partPres"/>
+
+    <form suffix="¿an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="¿m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="¿y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="¿d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="¿ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="¿yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="¿nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="¿e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="¿n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="¿m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¿y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¿d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="¿ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="¿yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="¿nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="¿e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="¿n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="¿m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="¿y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="¿d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="¿ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="¿yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="¿nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="¿e" tag="3sgPreSubjFFam"/>
+    <form prefix="b" suffix="¿n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="¿m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="¿y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="¿d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="¿ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="¿yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="¿nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="¿e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="¿n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+  <table name="v20" canonical_tag="*10*inf" rads="..*ft">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -ft à la fin du radical 2 et de rien à la fin du radical 1 -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="×" tag="imperNorm"/>
+    <form prefix="b" suffix="×yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="×" tag="ProhibNorm"/>
+    <form prefix="n" suffix="×yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="×" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="×yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="×nde" tag="partPres"/>
+
+    <form suffix="×an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="×m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="×y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="×d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="×ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="×yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="×nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="×e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="×n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="×m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="×y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="×d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="×ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="×yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="×nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="×e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="×n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="×m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="×y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="×d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="×ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="×yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="×nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="×e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="×n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="×m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="×y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="×d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="×ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="×yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="×nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="×e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="×n" tag="2*3plPreSubjNegFam"/>
+
+
+  </table>
+
+  <table name="v21" canonical_tag="*10*inf" rads="..*ft">
+    <!-- les verbes irréguliers dont le radical du passé (2) se distingue du radical du présent (1) par la présence des lettres -ft à la fin du radical 2 et de -w à la fin du radical 1 -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="÷" tag="imperNorm"/>
+    <form prefix="b" suffix="÷yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="÷" tag="ProhibNorm"/>
+    <form prefix="n" suffix="÷yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="÷" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="÷yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="÷nde" tag="partPres"/>
+
+    <form suffix="÷an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="÷m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="÷y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="÷d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="÷ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="÷yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="÷nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="÷e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="÷n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="÷m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="÷y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="÷d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="÷ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="÷yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="÷nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="÷e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="÷n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="÷m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="÷y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="÷d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="÷ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="÷yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="÷nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="÷e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="÷n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="÷m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="÷y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="÷d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="÷ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="÷yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="÷nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="÷e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="÷n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+  <!-- III. Les exceptions -->
+
+  <table name="v22" canonical_tag="*10*inf" rads="..*[dt]">
+    <!-- les verbes irréguliers qui présentent des formes de radicaux 1 et 2 isolées -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="↙" tag="imperNorm"/>
+    <form prefix="b" suffix="↙yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="↙" tag="ProhibNorm"/>
+    <form prefix="n" suffix="↙yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="↙" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="↙yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="↙nde" tag="partPres"/>
+
+    <form suffix="↙an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="↙m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="↙y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="↙d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="↙ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="↙yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="↙nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="↙e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="↙n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="↙m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↙y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↙d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="↙ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="↙yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="↙nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="↙e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="↙n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="↙m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="↙y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="↙d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="↙ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="↙yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="↙nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="↙e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="↙n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="↙m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="↙y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="↙d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="↙ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="↙yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="↙nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="↙e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="↙n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <table name="v23" canonical_tag="*10*inf" rads="..*[dt]">
+    <!-- variantes familières des verbes irréguliers qui présentent des formes de radicaux 1 et 2 isolées -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="£" tag="imperNorm"/>
+    <form prefix="b" suffix="£yd" tag="imperNormpl"/>
+
+
+    <form prefix="n" suffix="£" tag="ProhibNorm"/>
+    <form prefix="n" suffix="£yd" tag="ProhibNormpl"/>
+
+    <!--     <form prefix="m" suffix="£" tag="ProhibNormForm"/> -->
+    <!--     <form prefix="m" suffix="£yd" tag="ProhibNormFormpl"/> -->
+
+    <form suffix="£nde" tag="partPres"/>
+
+    <form suffix="£an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="£m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="£y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="£d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="£ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="£yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="£nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="£e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="£n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="£m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="£y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="£d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="£ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="£yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="£nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="£e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="£n" tag="2*3plPreIndNegFam"/>
+
+
+    <form prefix="b" suffix="£m" tag="1sgPreSubj"/>
+    <form prefix="b" suffix="£y" tag="2sgPreSubj"/>
+    <form prefix="b" suffix="£d" tag="2*3sgPreSubj"/>
+    <form prefix="b" suffix="£ym" tag="1plPreSubj"/>
+    <form prefix="b" suffix="£yd" tag="2plPreSubj"/>
+    <form prefix="b" suffix="£nd" tag="2*3plPreSubj"/>
+
+    <form prefix="b" suffix="£e" tag="3sgPreSubjFam"/>
+    <form prefix="b" suffix="£n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="£m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="£y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="£d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="£ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="£yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="£nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="£e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="£n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+  <table name="v24" canonical_tag="*10*inf" rads="..*[dt]">
+    <!-- les verbes irréguliers qui présentent des formes de radicaux 1 et 2 isolées et un -y supplémentaire devant certaines formes constituées à partir du radical 1-->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgPastprog"/>
+    <form prefix="my_" suffix="y" tag="2sgPastprog"/>
+    <form prefix="my_" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="my_" suffix="ym" tag="1plPastprog"/>
+    <form prefix="my_" suffix="yd" tag="2plPastprog"/>
+    <form prefix="my_" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form prefix="my_" suffix="eam" tag="1sgImpComp"/>
+    <form prefix="my_" suffix="eay" tag="2sgImpComp"/>
+    <form prefix="my_" suffix="east" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="eaym" tag="1plImpComp"/>
+    <form prefix="my_" suffix="eayd" tag="2plImpComp"/>
+    <form prefix="my_" suffix="eand" tag="3plImpComp"/>
+
+    <form prefix="my_" suffix="eae" tag="3sgImpComp"/>
+    <form prefix="my_" suffix="ean" tag="2*3plImpComp"/> <!-- Fam??? -->
+
+
+    <form prefix="nmy_" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="nmy_" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="nmy_" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="nmy_" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+
+    <form prefix="b" suffix="♣" tag="imperNorm"/>
+    <form prefix="b" suffix="♠yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="♣" tag="ProhibNorm"/>
+    <form prefix="n" suffix="♠yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="♣" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="♠yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="♠nde" tag="partPres"/>
+
+    <form suffix="♠an" tag="gerPres"/>
+
+
+    <form prefix="my_" suffix="♠m" tag="1sgPreInd" show="#"/>
+    <form prefix="my_" suffix="♠y" tag="2sgPreInd"/>
+    <form prefix="my_" suffix="♠d" tag="2*3sgPreInd"/>
+    <form prefix="my_" suffix="♠ym" tag="1plPreInd"/>
+    <form prefix="my_" suffix="♠yd" tag="2plPreInd"/>
+    <form prefix="my_" suffix="♠nd" tag="2*3plPreInd"/>
+
+    <form prefix="my_" suffix="♠e" tag="3sgPreIndFam"/>
+    <form prefix="my_" suffix="♠n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="nmy_" suffix="♠m" tag="1sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="♠y" tag="2sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="♠d" tag="3sgPreIndNeg"/>
+    <form prefix="nmy_" suffix="♠ym" tag="1plPreIndNeg"/>
+    <form prefix="nmy_" suffix="♠yd" tag="2plPreIndNeg"/>
+    <form prefix="nmy_" suffix="♠nd" tag="3plPreIndNeg"/>
+
+    <form prefix="nmy_" suffix="♠e" tag="3sgPreIndNegFam"/>
+    <form prefix="nmy_" suffix="♠n" tag="2*3plPreIndNegFam"/>
+
+    <form prefix="b" suffix="♠m" tag="1sgPreSubj" var="c"/>
+    <form prefix="b" suffix="♠y" tag="2sgPreSubj" var="c"/>
+    <form prefix="b" suffix="♠d" tag="2*3sgPreSubj" var="c"/>
+    <form prefix="b" suffix="♠ym" tag="1plPreSubj" var="c"/>
+    <form prefix="b" suffix="♠yd" tag="2plPreSubj" var="c"/>
+    <form prefix="b" suffix="♠nd" tag="2*3plPreSubj" var="c"/>
+ 
+   <form prefix="by" suffix="♠m" tag="1sgPreSubj" var="v"/>
+    <form prefix="by" suffix="♠y" tag="2sgPreSubj" var="v"/>
+    <form prefix="by" suffix="♠d" tag="2*3sgPreSubj" var="v"/>
+    <form prefix="by" suffix="♠ym" tag="1plPreSubj" var="v"/>
+    <form prefix="by" suffix="♠yd" tag="2plPreSubj" var="v"/>
+    <form prefix="by" suffix="♠nd" tag="2*3plPreSubj" var="v"/>
+
+    <form prefix="b" suffix="♠e" tag="3sgPreSubjFam" var="c"/>
+    <form prefix="b" suffix="♠n" tag="2*3plPreSubjFam" var="c"/>
+
+    <form prefix="by" suffix="♠e" tag="3sgPreSubjFam" var="v"/>
+    <form prefix="by" suffix="♠n" tag="2*3plPreSubjFam" var="v"/>
+
+
+    <form prefix="n" suffix="♠m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="♠y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="♠d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="♠ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="♠yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="♠nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="♠e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="♠n" tag="2*3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+
+  <table name="v25" canonical_tag="*10*inf" rads=".*bwd">
+    <!-- le verbe être bwdn -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgIrrel"/>
+    <form prefix="my_" suffix="y" tag="2sgIrrel"/>
+    <form prefix="my_" suffix="" tag="2*3sgIrrel"/>
+    <form prefix="my_" suffix="ym" tag="1plIrrel"/>
+    <form prefix="my_" suffix="yd" tag="2plIrrel"/>
+    <form prefix="my_" suffix="nd" tag="2*3plIrrel"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plIrrelFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgIrrelNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgIrrelNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgIrrelNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plIrrelNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plIrrelNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plIrrelNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="2*3plIrrelNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+
+
+    <form prefix="" suffix="♫" tag="imperNorm"/>
+    <form prefix="" suffix="♫yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="♫" tag="ProhibNorm"/>
+    <form prefix="n" suffix="♫yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="♫" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="♫yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="♫nde" tag="partPres"/>
+
+    <form suffix="♫an" tag="gerPres"/>
+
+
+    <form prefix="" suffix="♪m" tag="1sgPreInd" show="#"/>
+    <form prefix="" suffix="♪y" tag="2sgPreInd"/>
+    <form prefix="" suffix="♪" tag="2*3sgPreInd"/>
+    <form prefix="" suffix="♪ym" tag="1plPreInd"/>
+    <form prefix="" suffix="♪yd" tag="2plPreInd"/>
+    <form prefix="" suffix="♪nd" tag="2*3plPreInd"/>
+
+    <form prefix="" suffix="♪e" tag="2*3sgPreIndFam"/>
+    <form prefix="" suffix="♪n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="" suffix="◄m" tag="1sgPreIndNeg"/>
+    <form prefix="" suffix="◄y" tag="2sgPreIndNeg"/>
+    <form prefix="" suffix="◄" tag="3sgPreIndNeg"/>
+    <form prefix="" suffix="◄ym" tag="1plPreIndNeg"/>
+    <form prefix="" suffix="◄yd" tag="2plPreIndNeg"/>
+    <form prefix="" suffix="◄nd" tag="3plPreIndNeg"/>
+
+    <form prefix="" suffix="◄e" tag="3sgPreIndNegFam"/>
+    <form prefix="" suffix="◄n" tag="3plPreIndNegFam"/>
+
+
+    <form prefix="my_" suffix="♫m" tag="1sgPreIndNegLitt"/>
+    <form prefix="my_" suffix="♫y" tag="2sgPreIndNegLitt"/>
+    <form prefix="my_" suffix="♫d" tag="3sgPreIndNegLitt"/>
+    <form prefix="my_" suffix="♫ym" tag="1plPreIndNegLitt"/>
+    <form prefix="my_" suffix="♫yd" tag="2plPreIndNegLitt"/>
+    <form prefix="my_" suffix="♫nd" tag="3plPreIndNegLitt"/>
+
+    <form prefix="nmy_" suffix="♫m" tag="1sgPreIndNegLitt"/>
+    <form prefix="nmy_" suffix="♫y" tag="2sgPreIndNegLitt"/>
+    <form prefix="nmy_" suffix="♫d" tag="3sgPreIndNegLitt"/>
+    <form prefix="nmy_" suffix="♫ym" tag="1plPreIndNegLitt"/>
+    <form prefix="nmy_" suffix="♫yd" tag="2plPreIndNegLitt"/>
+    <form prefix="nmy_" suffix="♫nd" tag="3plPreIndNegLitt"/>
+
+
+    <form prefix="" suffix="♫m" tag="1sgPreSubj"/>
+    <form prefix="" suffix="♫y" tag="2sgPreSubj"/>
+    <form prefix="" suffix="♫d" tag="2*3sgPreSubj"/>
+    <form prefix="" suffix="♫ym" tag="1plPreSubj"/>
+    <form prefix="" suffix="♫yd" tag="2plPreSubj"/>
+    <form prefix="" suffix="♫nd" tag="2*3plPreSubj"/>
+
+    <form prefix="" suffix="♫e" tag="2*3sgPreSubjFam"/>
+    <form prefix="" suffix="♫n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="♫m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="♫y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="♫d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="♫ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="♫yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="♫nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="♫e" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="♫n" tag="2*3plPreSubjNeg"/>
+
+
+    <form prefix="" suffix="►" tag="3sg.Opt"/>
+    <form prefix="" suffix="►a" tag="3plPreSubjNeg"/>
+
+
+  </table>
+
+  <table name="v26" canonical_tag="*10*inf" rads=".*dašt">
+    <!-- le verbe avoir daštn -->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form prefix="" suffix="m" tag="1sgPastprog"/>
+    <form prefix="" suffix="y" tag="2sgPastprog"/>
+    <form prefix="" suffix="" tag="2*3sgPastprog"/>
+    <form prefix="" suffix="ym" tag="1plPastprog"/>
+    <form prefix="" suffix="yd" tag="2plPastprog"/>
+    <form prefix="" suffix="nd" tag="2*3plPastprog"/>
+
+    <form prefix="" suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="n" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="n" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form prefix="my_" suffix="m" tag="1sgIrreel"/>
+    <form prefix="my_" suffix="y" tag="2sgIrreel"/>
+    <form prefix="my_" suffix="" tag="2*3sgIrreel"/>
+    <form prefix="my_" suffix="ym" tag="1plIrreel"/>
+    <form prefix="my_" suffix="yd" tag="2plIrreel"/>
+    <form prefix="my_" suffix="nd" tag="2*3plIrreel"/>
+
+    <form prefix="my_" suffix="n" tag="2*3plIrreelFam"/>
+
+
+    <form prefix="nmy_" suffix="m" tag="1sgIrreelNeg"/>
+    <form prefix="nmy_" suffix="i" tag="2sgIrreelNeg"/>
+    <form prefix="nmy_" suffix="" tag="3sgIrreelNeg"/>
+    <form prefix="nmy_" suffix="ym" tag="1plIrreelNeg"/>
+    <form prefix="nmy_" suffix="yd" tag="2plIrreelNeg"/>
+    <form prefix="nmy_" suffix="nd" tag="3plIrreelNeg"/>
+
+    <form prefix="nmy_" suffix="n" tag="3plIrreelNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+    <form prefix="n" suffix="eae" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ean" tag="2*3plPreparfNegFam"/>
+
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+
+    <form prefix="n" suffix="♦" tag="ProhibNorm"/>
+    <form prefix="n" suffix="♦yd" tag="ProhibNormpl"/>
+
+    <form prefix="m" suffix="♦" tag="ProhibNormForm"/>
+    <form prefix="m" suffix="♦yd" tag="ProhibNormFormpl"/>
+
+    <form suffix="♦nde" tag="partPres"/>
+
+    <form suffix="♦an" tag="gerPres"/>
+
+
+    <form prefix="" suffix="♦m" tag="1sgPreInd" show="#"/>
+    <form prefix="" suffix="♦y" tag="2sgPreInd"/>
+    <form prefix="" suffix="♦d" tag="2*3sgPreInd"/>
+    <form prefix="" suffix="♦ym" tag="1plPreInd"/>
+    <form prefix="" suffix="♦yd" tag="2plPreInd"/>
+    <form prefix="" suffix="♦nd" tag="2*3plPreInd"/>
+
+    <form prefix="" suffix="♦e" tag="2*3sgPreIndFam"/>
+    <form prefix="" suffix="♦n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="n" suffix="♦m" tag="1sgPreIndNeg"/>
+    <form prefix="n" suffix="♦y" tag="2sgPreIndNeg"/>
+    <form prefix="n" suffix="♦d" tag="3sgPreIndNeg"/>
+    <form prefix="n" suffix="♦ym" tag="1plPreIndNeg"/>
+    <form prefix="n" suffix="♦yd" tag="2plPreIndNeg"/>
+    <form prefix="n" suffix="♦nd" tag="3plPreIndNeg"/>
+
+
+  </table>
+
+  <table name="v27" canonical_tag="*10*inf" rads=".*xwast">
+    <!-- autres auxiliaires :  vouloir xwastn comme auxiliaire du futur-->
+
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+
+
+    <form prefix="" suffix="☼m" tag="1sgPreInd" show="#"/>
+    <form prefix="" suffix="☼y" tag="2sgPreInd"/>
+    <form prefix="" suffix="☼d" tag="2*3sgPreInd"/>
+    <form prefix="" suffix="☼ym" tag="1plPreInd"/>
+    <form prefix="" suffix="☼yd" tag="2plPreInd"/>
+    <form prefix="" suffix="☼nd" tag="2*3plPreInd"/>
+
+    <form prefix="" suffix="☼e" tag="2*3sgPreIndFam"/>
+    <form prefix="" suffix="☼n" tag="2*3plPreIndFam"/>
+
+
+    <form prefix="n" suffix="☼m" tag="1sgPreIndNeg"/>
+    <form prefix="n" suffix="☼y" tag="2sgPreIndNeg"/>
+    <form prefix="n" suffix="☼d" tag="3sgPreIndNeg"/>
+    <form prefix="n" suffix="☼ym" tag="1plPreIndNeg"/>
+    <form prefix="n" suffix="☼yd" tag="2plPreIndNeg"/>
+    <form prefix="n" suffix="☼nd" tag="3plPreIndNeg"/>
+
+    <form prefix="n" suffix="☼e" tag="3sgPreIndNegFam"/>
+    <form prefix="n" suffix="☼n" tag="2*3plPreIndNegFam"/>
+
+
+  </table>
+
+ <table name="v28" canonical_tag="*10*inf" rads="..*">
+    <!-- complex predicates without prefixes -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form  suffix="m" tag="1sgPastprog"/>
+    <form  suffix="y" tag="2sgPastprog"/>
+    <form  suffix="" tag="2*3sgPastprog"/>
+    <form  suffix="ym" tag="1plPastprog"/>
+    <form  suffix="yd" tag="2plPastprog"/>
+    <form  suffix="nd" tag="2*3plPastprog"/>
+
+    <form  suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="n" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="n" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form  suffix="eam" tag="1sgImpComp"/>
+    <form  suffix="eay" tag="2sgImpComp"/>
+    <form  suffix="east" tag="3sgImpComp"/>
+    <form  suffix="eaym" tag="1plImpComp"/>
+    <form  suffix="eayd" tag="2plImpComp"/>
+    <form  suffix="eand" tag="3plImpComp"/>
+
+    <form  suffix="eae" tag="3sgImpComp"/>
+    <form  suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="n" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="n" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="n" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="n" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="n" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form  suffix="¢" tag="imperNorm"/>
+    <form  suffix="¢yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="¢" tag="ProhibNorm"/>
+    <form prefix="n" suffix="¢yd" tag="ProhibNormpl"/>
+
+    <form  suffix="¢" tag="ProhibNormForm"/>
+    <form  suffix="¢yd" tag="ProhibNormFormpl"/>
+
+
+    <form suffix="¢nde" tag="partPres"/>
+
+    <form suffix="¢an" tag="gerPres"/>
+
+
+    <form  suffix="¢m" tag="1sgPreInd" show="#"/>
+    <form  suffix="¢y" tag="2sgPreInd"/>
+    <form  suffix="¢d" tag="2*3sgPreInd"/>
+    <form  suffix="¢ym" tag="1plPreInd"/>
+    <form  suffix="¢yd" tag="2plPreInd"/>
+    <form  suffix="¢nd" tag="2*3plPreInd"/>
+
+    <form  suffix="¢e" tag="3sgPreIndFam"/>
+    <form  suffix="¢n" tag="2*3plPreIndFam"/>
+
+
+
+    <form prefix="n" suffix="¢m" tag="1sgPreIndNeg"/>
+    <form prefix="n" suffix="¢y" tag="2sgPreIndNeg"/>
+    <form prefix="n" suffix="¢d" tag="3sgPreIndNeg"/>
+    <form prefix="n" suffix="¢ym" tag="1plPreIndNeg"/>
+    <form prefix="n" suffix="¢yd" tag="2plPreIndNeg"/>
+    <form prefix="n" suffix="¢nd" tag="3plPreIndNeg"/>
+
+    <form prefix="n" suffix="¢e" tag="3sgPreIndNegFam"/>
+    <form prefix="n" suffix="¢n" tag="3plPreIndNegFam"/>
+
+
+    <form  suffix="¢m" tag="1sgPreSubj"/>
+    <form  suffix="¢y" tag="2sgPreSubj"/>
+    <form  suffix="¢d" tag="2*3sgPreSubj"/>
+    <form  suffix="¢ym" tag="1plPreSubj"/>
+    <form  suffix="¢yd" tag="2plPreSubj"/>
+    <form  suffix="¢nd" tag="2*3plPreSubj"/>
+
+    <form  suffix="¢e" tag="3sgPreSubjFam"/>
+    <form  suffix="¢n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="¢m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="¢y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="¢d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="¢ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="¢yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="¢nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="¢e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="¢n" tag="3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+
+ <table name="v29" canonical_tag="*10*inf" rads="..*">
+    <!-- complex predicates without prefixes -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+    <form suffix="" tag="infApocope"/>
+
+    <form suffix="e" tag="partPas"/>
+    <form prefix="n" suffix="e" tag="partPasNeg"/>
+
+    <form suffix="ny" tag="partOblig"/>
+
+    <form suffix="m" tag="1sgPreterit"/>
+    <form suffix="y" tag="2sgPreterit"/>
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form suffix="ym" tag="1plPreterit"/>
+    <form suffix="yd" tag="2plPreterit"/>
+    <form suffix="nd" tag="2*3plPreterit"/>
+
+    <form suffix="n" tag="2*3plPreteritFam"/>
+
+    <form prefix="n" suffix="m" tag="1sgPreteritNeg"/>
+    <form prefix="n" suffix="y" tag="2sgPreteritNeg"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPreteritNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPreteritNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPreteritNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPreteritNegFam"/>
+
+
+    <form  suffix="m" tag="1sgPastprog"/>
+    <form  suffix="y" tag="2sgPastprog"/>
+    <form  suffix="" tag="2*3sgPastprog"/>
+    <form  suffix="ym" tag="1plPastprog"/>
+    <form  suffix="yd" tag="2plPastprog"/>
+    <form  suffix="nd" tag="2*3plPastprog"/>
+
+    <form  suffix="n" tag="2*3plPastprogFam"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPastprogNeg"/>
+    <form prefix="n" suffix="i" tag="2sgPastprogNeg"/>
+    <form prefix="n" suffix="" tag="3sgPastprogNeg"/>
+    <form prefix="n" suffix="ym" tag="1plPastprogNeg"/>
+    <form prefix="n" suffix="yd" tag="2plPastprogNeg"/>
+    <form prefix="n" suffix="nd" tag="3plPastprogNeg"/>
+
+    <form prefix="n" suffix="n" tag="2*3plPastprogNegFam"/>
+
+
+    <form suffix="eam" tag="1sgPreparf"/>
+    <form suffix="ey" tag="2sgPreparf"/>
+    <form suffix="east" tag="3sgPreparf"/>
+    <form suffix="eaym" tag="1plPreparf"/>
+    <form suffix="eayd" tag="2plPreparf"/>
+    <form suffix="eand" tag="3plPreparf"/>
+
+    <form suffix="m" tag="1sgPreparfFam"/>
+    <form suffix="y" tag="2sgPreparfFam"/>
+    <form suffix="st" tag="3sgPreparfFam"/>
+    <form suffix="ym" tag="1plPreparfFam"/>
+    <form suffix="yd" tag="2plPreparfFam"/>
+    <form suffix="nd" tag="3plPreparfFam"/>
+
+    <form suffix="e" tag="3sgPreparfFam"/>
+    <form suffix="n" tag="2*3plPreparfFam"/>
+
+
+
+    <form prefix="n" suffix="eam" tag="1sgPreparfNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgPreparfNeg"/>
+    <form prefix="n" suffix="east" tag="3sgPreparfNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plPreparfNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plPreparfNeg"/>
+    <form prefix="n" suffix="eand" tag="3plPreparfNeg"/>
+
+
+    <form prefix="n" suffix="m" tag="1sgPreparfNegFam"/>
+    <form prefix="n" suffix="y" tag="2sgPreparfNegFam"/>
+    <form prefix="n" suffix="st" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="ym" tag="1plPreparfNegFam"/>
+    <form prefix="n" suffix="yd" tag="2plPreparfNegFam"/>
+    <form prefix="n" suffix="nd" tag="3plPreparfNegFam"/>
+
+    <form prefix="n" suffix="e" tag="3sgPreparfNegFam"/>
+    <form prefix="n" suffix="n" tag="2*3plPreparfNegFam"/>
+
+    <form  suffix="eam" tag="1sgImpComp"/>
+    <form  suffix="eay" tag="2sgImpComp"/>
+    <form  suffix="east" tag="3sgImpComp"/>
+    <form  suffix="eaym" tag="1plImpComp"/>
+    <form  suffix="eayd" tag="2plImpComp"/>
+    <form  suffix="eand" tag="3plImpComp"/>
+
+    <form  suffix="eae" tag="3sgImpComp"/>
+    <form  suffix="ean" tag="2*3plImpComp"/>
+
+
+    <form prefix="n" suffix="eam" tag="1sgImpCompNeg"/>
+    <form prefix="n" suffix="eay" tag="2sgImpCompNeg"/>
+    <form prefix="n" suffix="east" tag="3sgImpCompNeg"/>
+    <form prefix="n" suffix="eaym" tag="1plImpCompNeg"/>
+    <form prefix="n" suffix="eayd" tag="2plImpCompNeg"/>
+    <form prefix="n" suffix="eand" tag="3plImpCompNeg"/>
+
+    <form prefix="n" suffix="eae" tag="3sgImpCompNeg"/>
+    <form prefix="n" suffix="ean" tag="2*3plImpCompNeg"/>
+
+
+    <form  suffix="√" tag="imperNorm"/>
+    <form  suffix="√yd" tag="imperNormpl"/>
+
+    <form prefix="n" suffix="√" tag="ProhibNorm"/>
+    <form prefix="n" suffix="√yd" tag="ProhibNormpl"/>
+
+    <form  suffix="√" tag="ProhibNormForm"/>
+    <form  suffix="√yd" tag="ProhibNormFormpl"/>
+
+
+    <form suffix="√nde" tag="partPres"/>
+
+    <form suffix="√an" tag="gerPres"/>
+
+
+    <form  suffix="√m" tag="1sgPreInd" show="#"/>
+    <form  suffix="√y" tag="2sgPreInd"/>
+    <form  suffix="√d" tag="2*3sgPreInd"/>
+    <form  suffix="√ym" tag="1plPreInd"/>
+    <form  suffix="√yd" tag="2plPreInd"/>
+    <form  suffix="√nd" tag="2*3plPreInd"/>
+
+    <form  suffix="√e" tag="3sgPreIndFam"/>
+    <form  suffix="√n" tag="2*3plPreIndFam"/>
+
+
+
+    <form prefix="n" suffix="√m" tag="1sgPreIndNeg"/>
+    <form prefix="n" suffix="√y" tag="2sgPreIndNeg"/>
+    <form prefix="n" suffix="√d" tag="3sgPreIndNeg"/>
+    <form prefix="n" suffix="√ym" tag="1plPreIndNeg"/>
+    <form prefix="n" suffix="√yd" tag="2plPreIndNeg"/>
+    <form prefix="n" suffix="√nd" tag="3plPreIndNeg"/>
+
+    <form prefix="n" suffix="√e" tag="3sgPreIndNegFam"/>
+    <form prefix="n" suffix="√n" tag="3plPreIndNegFam"/>
+
+
+    <form  suffix="√m" tag="1sgPreSubj"/>
+    <form  suffix="√y" tag="2sgPreSubj"/>
+    <form  suffix="√d" tag="2*3sgPreSubj"/>
+    <form  suffix="√ym" tag="1plPreSubj"/>
+    <form  suffix="√yd" tag="2plPreSubj"/>
+    <form  suffix="√nd" tag="2*3plPreSubj"/>
+
+    <form  suffix="√e" tag="3sgPreSubjFam"/>
+    <form  suffix="√n" tag="2*3plPreSubjFam"/>
+
+
+    <form prefix="n" suffix="√m" tag="1sgPreSubjNeg"/>
+    <form prefix="n" suffix="√y" tag="2sgPreSubjNeg"/>
+    <form prefix="n" suffix="√d" tag="3sgPreSubjNeg"/>
+    <form prefix="n" suffix="√ym" tag="1plPreSubjNeg"/>
+    <form prefix="n" suffix="√yd" tag="2plPreSubjNeg"/>
+    <form prefix="n" suffix="√nd" tag="3plPreSubjNeg"/>
+
+    <form prefix="n" suffix="√e" tag="3sgPreSubjNegFam"/>
+    <form prefix="n" suffix="√n" tag="3plPreSubjNegFam"/>
+
+
+
+  </table>
+
+
+<table name="v-aux" canonical_tag="*10*inf" rads="..*">
+    <!-- auxiliaries -->
+
+    <form suffix="n" tag="*10*inf" show="#"/>
+
+    <form suffix="" tag="2*3sgPreterit"/>
+    <form prefix="n" suffix="" tag="3sgPreteritNeg"/>
+
+    <form prefix="my_" suffix="" tag="3sgPastprog"/>
+    <form prefix="nmy_" suffix="" tag="3sgPastprogNeg"/>
+
+    <form prefix="my_" suffix="∆d" tag="3sgPreInd"/>
+    <form suffix="∆d" tag="3sgPreInd"/>
+
+    <form prefix="nmy_" suffix="∆d" tag="3sgPreIndNeg"/>
+    <form prefix="n_" suffix="∆d" tag="3sgPreIndNeg"/>
+
+    <form prefix="b" suffix="∆d" tag="2*3sgPreSubj"/>
+    <form prefix="n" suffix="∆d" tag="3sgPreSubjNeg"/>
+
+
+  </table>
+/description>

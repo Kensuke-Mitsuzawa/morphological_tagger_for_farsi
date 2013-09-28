@@ -1,4 +1,6 @@
 'deay	100	PROquindef	[pred="'deay_____1",cat=PROquindef]	'deay_____1	Default		%default	inv
+'deay	100	PROŕuindef	[pred="'deay_____1",cat=PROŕuindef]	'deay_____1	Default		%default	inv
+'deay	100	PROquindef	[pred="'deay_____1",cat=PROquindef]	'deay_____1	Default		%default	inv
 _m	200	PROpers	[pred="mn_____1",cat=PROpers]	mn_____1	Default		%default	inv
 _man	266	PROpers	[pred="ma_____1",cat=PROpers]	ma_____1	Default		%default	inv
 _t	266	PROpers	[pred="tw_____1",cat=PROpers]	tw_____1	Default		%default	inv
@@ -18,6 +20,10 @@ _šan	100	PROdem	[pred="ān_ea_____1",cat=PROdem]	ān_ea_____1	Default		%default
 an	300	PROdem	[pred="an_____1",cat=PROdem]	an_____1	Default		%default	inv
 ana	100	PROdem	[pred="ana_____1",cat=PROdem]	ana_____1	Default		%default	inv
 aqlb	300	PROdem	[pred="aqlb_____1",cat=PROdem]	aqlb_____1	Default		%default	inv
+aŕlb	300	PROdem	[pred="aŕlb_____1",cat=PROdem]	aŕlb_____1	Default		%default	inv
+aqlb	300	PROdem	[pred="aqlb_____1",cat=PROdem]	aqlb_____1	Default		%default	inv
+aqlbšan	100	PROindef	[pred="aqlbšan_____1",cat=PROindef]	aqlbšan_____1	Default		%default	inv
+aŕlbšan	100	PROindef	[pred="aŕlbšan_____1",cat=PROindef]	aŕlbšan_____1	Default		%default	inv
 aqlbšan	100	PROindef	[pred="aqlbšan_____1",cat=PROindef]	aqlbšan_____1	Default		%default	inv
 aw	266	PROpers	[pred="aw_____1",cat=PROpers]	aw_____1	Default		%default	inv
 awly	300	PROdem	[pred="awly_____1",cat=PROdem]	awly_____1	Default		%default	inv
@@ -60,17 +66,39 @@ aynčnyn	300	PROdem	[pred="aynčnyn_____2",cat=PROdem]	aynčnyn_____2	Default		%
 aynţwr	110	PROdem	[pred="aynţwr___MTE__1",cat=PROdem]	aynţwr___MTE__1	Default		%default	inv
 ayšan	166	PROpers	[pred="ayšan_____1",cat=PROpers]	ayšan_____1	Default		%default	inv
 b'źy	400	PROquindef	[pred="b'źy_____1",cat=PROquindef]	b'źy_____1	Default		%default	inv
+b'źy	400	PROŕuindef	[pred="b'źy_____1",cat=PROŕuindef]	b'źy_____1	Default		%default	inv
+b'źy	400	PROquindef	[pred="b'źy_____1",cat=PROquindef]	b'źy_____1	Default		%default	inv
+b'źy šan	100	PROquindef	[pred="b'źy šan_____1",cat=PROquindef]	b'źy šan_____1	Default		%default	inv
+b'źy šan	100	PROŕuindef	[pred="b'źy šan_____1",cat=PROŕuindef]	b'źy šan_____1	Default		%default	inv
 b'źy šan	100	PROquindef	[pred="b'źy šan_____1",cat=PROquindef]	b'źy šan_____1	Default		%default	inv
 b'źy_ea	100	PROquindef	[pred="b'źy_ea_____1",cat=PROquindef]	b'źy_ea_____1	Default		%default	inv
+b'źy_ea	100	PROŕuindef	[pred="b'źy_ea_____1",cat=PROŕuindef]	b'źy_ea_____1	Default		%default	inv
+b'źy_ea	100	PROquindef	[pred="b'źy_ea_____1",cat=PROquindef]	b'źy_ea_____1	Default		%default	inv
+b'źy_eayš	100	PROquindef	[pred="b'źy_eayš_____1",cat=PROquindef]	b'źy_eayš_____1	Default		%default	inv
+b'źy_eayš	100	PROŕuindef	[pred="b'źy_eayš_____1",cat=PROŕuindef]	b'źy_eayš_____1	Default		%default	inv
 b'źy_eayš	100	PROquindef	[pred="b'źy_eayš_____1",cat=PROquindef]	b'źy_eayš_____1	Default		%default	inv
 b'źyeayšan	100	PROquindef	[pred="b'źyeayšan_____1",cat=PROquindef]	b'źyeayšan_____1	Default		%default	inv
+b'źyeayšan	100	PROŕuindef	[pred="b'źyeayšan_____1",cat=PROŕuindef]	b'źyeayšan_____1	Default		%default	inv
+b'źyeayšan	100	PROquindef	[pred="b'źyeayšan_____1",cat=PROquindef]	b'źyeayšan_____1	Default		%default	inv
+b'źyšan	100	PROquindef	[pred="b'źyšan_____1",cat=PROquindef]	b'źyšan_____1	Default		%default	inv
+b'źyšan	100	PROŕuindef	[pred="b'źyšan_____1",cat=PROŕuindef]	b'źyšan_____1	Default		%default	inv
 b'źyšan	100	PROquindef	[pred="b'źyšan_____1",cat=PROquindef]	b'źyšan_____1	Default		%default	inv
 beman	300	PROdem	[pred="beman_____1",cat=PROdem]	beman_____1	Default		%default	inv
 bnde	300	PROpers	[pred="bnde_____1",cat=PROpers]	bnde_____1	Default		%default	inv
 brxy	400	PROquindef	[pred="brxy_____1",cat=PROquindef]	brxy_____1	Default		%default	inv
+brxy	400	PROŕuindef	[pred="brxy_____1",cat=PROŕuindef]	brxy_____1	Default		%default	inv
+brxy	400	PROquindef	[pred="brxy_____1",cat=PROquindef]	brxy_____1	Default		%default	inv
+brxy_ea	100	PROquindef	[pred="brxy_ea_____1",cat=PROquindef]	brxy_ea_____1	Default		%default	inv
+brxy_ea	100	PROŕuindef	[pred="brxy_ea_____1",cat=PROŕuindef]	brxy_ea_____1	Default		%default	inv
 brxy_ea	100	PROquindef	[pred="brxy_ea_____1",cat=PROquindef]	brxy_ea_____1	Default		%default	inv
 bsyary	300	PROquindef	[pred="bsyary_____1",cat=PROquindef]	bsyary_____1	Default		%default	inv
+bsyary	300	PROŕuindef	[pred="bsyary_____1",cat=PROŕuindef]	bsyary_____1	Default		%default	inv
+bsyary	300	PROquindef	[pred="bsyary_____1",cat=PROquindef]	bsyary_____1	Default		%default	inv
 byštršan	100	PROquindef	[pred="byštršan_____1",cat=PROquindef]	byštršan_____1	Default		%default	inv
+byštršan	100	PROŕuindef	[pred="byštršan_____1",cat=PROŕuindef]	byštršan_____1	Default		%default	inv
+byštršan	100	PROquindef	[pred="byštršan_____1",cat=PROquindef]	byštršan_____1	Default		%default	inv
+bàye	400	PROquindef	[pred="bàye_____1",cat=PROquindef]	bàye_____1	Default		%default	inv
+bàye	400	PROŕuindef	[pred="bàye_____1",cat=PROŕuindef]	bàye_____1	Default		%default	inv
 bàye	400	PROquindef	[pred="bàye_____1",cat=PROquindef]	bàye_____1	Default		%default	inv
 dgran	100	PROindef	[pred="dgran_____1",cat=PROindef]	dgran_____1	Default		%default	inv
 dgry	100	PROindef	[pred="dgry_____1",cat=PROindef]	dgry_____1	Default		%default	inv
@@ -90,12 +118,28 @@ emanja	200	PROdem	[pred="emanja_____1",cat=PROdem]	emanja_____1	Default		%defaul
 emany	100	PROdem	[pred="emany_____1",cat=PROdem]	emany_____1	Default		%default	inv
 emdygr	400	PROindef	[pred="emdygr_____1",cat=PROindef]	emdygr_____1	Default		%default	inv
 eme	400	PROquindef	[pred="eme_____1",cat=PROquindef]	eme_____1	Default		%default	inv
+eme	400	PROŕuindef	[pred="eme_____1",cat=PROŕuindef]	eme_____1	Default		%default	inv
+eme	400	PROquindef	[pred="eme_____1",cat=PROquindef]	eme_____1	Default		%default	inv
+eme aš	100	PROquindef	[pred="eme aš_____1",cat=PROquindef]	eme aš_____1	Default		%default	inv
+eme aš	100	PROŕuindef	[pred="eme aš_____1",cat=PROŕuindef]	eme aš_____1	Default		%default	inv
 eme aš	100	PROquindef	[pred="eme aš_____1",cat=PROquindef]	eme aš_____1	Default		%default	inv
 eme man	100	PROquindef	[pred="eme man_____1",cat=PROquindef]	eme man_____1	Default		%default	inv
+eme man	100	PROŕuindef	[pred="eme man_____1",cat=PROŕuindef]	eme man_____1	Default		%default	inv
+eme man	100	PROquindef	[pred="eme man_____1",cat=PROquindef]	eme man_____1	Default		%default	inv
+eme tan	100	PROquindef	[pred="eme tan_____1",cat=PROquindef]	eme tan_____1	Default		%default	inv
+eme tan	100	PROŕuindef	[pred="eme tan_____1",cat=PROŕuindef]	eme tan_____1	Default		%default	inv
 eme tan	100	PROquindef	[pred="eme tan_____1",cat=PROquindef]	eme tan_____1	Default		%default	inv
 eme šan	100	PROquindef	[pred="eme šan_____1",cat=PROquindef]	eme šan_____1	Default		%default	inv
+eme šan	100	PROŕuindef	[pred="eme šan_____1",cat=PROŕuindef]	eme šan_____1	Default		%default	inv
+eme šan	100	PROquindef	[pred="eme šan_____1",cat=PROquindef]	eme šan_____1	Default		%default	inv
+emgan	300	PROquindef	[pred="emgan_____1",cat=PROquindef]	emgan_____1	Default		%default	inv
+emgan	300	PROŕuindef	[pred="emgan_____1",cat=PROŕuindef]	emgan_____1	Default		%default	inv
 emgan	300	PROquindef	[pred="emgan_____1",cat=PROquindef]	emgan_____1	Default		%default	inv
 emgy	400	PROquindef	[pred="emgy_____1",cat=PROquindef]	emgy_____1	Default		%default	inv
+emgy	400	PROŕuindef	[pred="emgy_____1",cat=PROŕuindef]	emgy_____1	Default		%default	inv
+emgy	400	PROquindef	[pred="emgy_____1",cat=PROquindef]	emgy_____1	Default		%default	inv
+emgy šan	100	PROquindef	[pred="emgy šan_____1",cat=PROquindef]	emgy šan_____1	Default		%default	inv
+emgy šan	100	PROŕuindef	[pred="emgy šan_____1",cat=PROŕuindef]	emgy šan_____1	Default		%default	inv
 emgy šan	100	PROquindef	[pred="emgy šan_____1",cat=PROquindef]	emgy šan_____1	Default		%default	inv
 emw	100	PROindef	[pred="emw_____1",cat=PROindef]	emw_____1	Default		%default	inv
 emyn	400	PROindef	[pred="emyn_____1",cat=PROindef]	emyn_____1	Default		%default	inv
@@ -106,20 +150,50 @@ emyngwne	100	PROindef	[pred="emyngwne_____1",cat=PROindef]	emyngwne_____1	Defaul
 emynm	100	PROindef	[pred="emynm_____1",cat=PROindef]	emynm_____1	Default		%default	inv
 emynàdr	110	PROdem	[pred="emynàdr___MTE__1",cat=PROdem]	emynàdr___MTE__1	Default		%default	inv
 erkdam	200	PROquant	[pred="erkdam_____1",cat=PROquant]	erkdam_____1	Default		%default	inv
+erkdam	200	PROŕuant	[pred="erkdam_____1",cat=PROŕuant]	erkdam_____1	Default		%default	inv
+erkdam	200	PROquant	[pred="erkdam_____1",cat=PROquant]	erkdam_____1	Default		%default	inv
+erke	100	PROquant	[pred="erke_____1",cat=PROquant]	erke_____1	Default		%default	inv
+erke	100	PROŕuant	[pred="erke_____1",cat=PROŕuant]	erke_____1	Default		%default	inv
 erke	100	PROquant	[pred="erke_____1",cat=PROquant]	erke_____1	Default		%default	inv
 erks	100	PROquant	[pred="erks_____1",cat=PROquant]	erks_____1	Default		%default	inv
+erks	100	PROŕuant	[pred="erks_____1",cat=PROŕuant]	erks_____1	Default		%default	inv
+erks	100	PROquant	[pred="erks_____1",cat=PROquant]	erks_____1	Default		%default	inv
+eryk	110	PROquant	[pred="eryk___MTE__1",cat=PROquant]	eryk___MTE__1	Default		%default	inv
+eryk	110	PROŕuant	[pred="eryk___MTE__1",cat=PROŕuant]	eryk___MTE__1	Default		%default	inv
 eryk	110	PROquant	[pred="eryk___MTE__1",cat=PROquant]	eryk___MTE__1	Default		%default	inv
 erānče	200	PROindef	[pred="erānče_____1",cat=PROindef]	erānče_____1	Default		%default	inv
 erče	110	PROquant	[pred="erče___MTE__1",cat=PROquant]	erče___MTE__1	Default		%default	inv
+erče	110	PROŕuant	[pred="erče___MTE__1",cat=PROŕuant]	erče___MTE__1	Default		%default	inv
+erče	110	PROquant	[pred="erče___MTE__1",cat=PROquant]	erče___MTE__1	Default		%default	inv
+eyč	110	PROquant	[pred="eyč___MTE__1",cat=PROquant]	eyč___MTE__1	Default		%default	inv
+eyč	110	PROŕuant	[pred="eyč___MTE__1",cat=PROŕuant]	eyč___MTE__1	Default		%default	inv
 eyč	110	PROquant	[pred="eyč___MTE__1",cat=PROquant]	eyč___MTE__1	Default		%default	inv
 eyč kdam	200	PROquant	[pred="eyč kdam_____1",cat=PROquant]	eyč kdam_____1	Default		%default	inv
+eyč kdam	200	PROŕuant	[pred="eyč kdam_____1",cat=PROŕuant]	eyč kdam_____1	Default		%default	inv
+eyč kdam	200	PROquant	[pred="eyč kdam_____1",cat=PROquant]	eyč kdam_____1	Default		%default	inv
+eyč ks	100	PROquant	[pred="eyč ks_____1",cat=PROquant]	eyč ks_____1	Default		%default	inv
+eyč ks	100	PROŕuant	[pred="eyč ks_____1",cat=PROŕuant]	eyč ks_____1	Default		%default	inv
 eyč ks	100	PROquant	[pred="eyč ks_____1",cat=PROquant]	eyč ks_____1	Default		%default	inv
 eyč yk	200	PROquant	[pred="eyč yk_____1",cat=PROquant]	eyč yk_____1	Default		%default	inv
+eyč yk	200	PROŕuant	[pred="eyč yk_____1",cat=PROŕuant]	eyč yk_____1	Default		%default	inv
+eyč yk	200	PROquant	[pred="eyč yk_____1",cat=PROquant]	eyč yk_____1	Default		%default	inv
+eyč_ks	100	PROquant	[pred="eyč_ks_____1",cat=PROquant]	eyč_ks_____1	Default		%default	inv
+eyč_ks	100	PROŕuant	[pred="eyč_ks_____1",cat=PROŕuant]	eyč_ks_____1	Default		%default	inv
 eyč_ks	100	PROquant	[pred="eyč_ks_____1",cat=PROquant]	eyč_ks_____1	Default		%default	inv
 eyčkdam	300	PROquant	[pred="eyčkdam_____1",cat=PROquant]	eyčkdam_____1	Default		%default	inv
+eyčkdam	300	PROŕuant	[pred="eyčkdam_____1",cat=PROŕuant]	eyčkdam_____1	Default		%default	inv
+eyčkdam	300	PROquant	[pred="eyčkdam_____1",cat=PROquant]	eyčkdam_____1	Default		%default	inv
+eyčks	300	PROquant	[pred="eyčks_____1",cat=PROquant]	eyčks_____1	Default		%default	inv
+eyčks	300	PROŕuant	[pred="eyčks_____1",cat=PROŕuant]	eyčks_____1	Default		%default	inv
 eyčks	300	PROquant	[pred="eyčks_____1",cat=PROquant]	eyčks_____1	Default		%default	inv
 eyčy	400	PROquant	[pred="eyčy_____1",cat=PROquant]	eyčy_____1	Default		%default	inv
+eyčy	400	PROŕuant	[pred="eyčy_____1",cat=PROŕuant]	eyčy_____1	Default		%default	inv
+eyčy	400	PROquant	[pred="eyčy_____1",cat=PROquant]	eyčy_____1	Default		%default	inv
 eyčyk	300	PROquant	[pred="eyčyk_____1",cat=PROquant]	eyčyk_____1	Default		%default	inv
+eyčyk	300	PROŕuant	[pred="eyčyk_____1",cat=PROŕuant]	eyčyk_____1	Default		%default	inv
+eyčyk	300	PROquant	[pred="eyčyk_____1",cat=PROquant]	eyčyk_____1	Default		%default	inv
+eyšky	100	PROquant	[pred="eyšky_____1",cat=PROquant]	eyšky_____1	Default		%default	inv
+eyšky	100	PROŕuant	[pred="eyšky_____1",cat=PROŕuant]	eyšky_____1	Default		%default	inv
 eyšky	100	PROquant	[pred="eyšky_____1",cat=PROquant]	eyšky_____1	Default		%default	inv
 flan	300	PROindef	[pred="flan_____1",cat=PROindef]	flan_____1	Default		%default	inv
 flan bn flan	100	PROindef	[pred="flan bn flan_____1",cat=PROindef]	flan bn flan_____1	Default		%default	inv
@@ -134,6 +208,8 @@ kdam yk	110	PROinter	[pred="kdam yk___MTE__1",cat=PROinter]	kdam yk___MTE__1	Def
 kdamyk	100	PROinter	[pred="kdamyk_____1",cat=PROinter]	kdamyk_____1	Default		%default	inv
 kdamyk	100	PROinter	[pred="kdamyk_____2",cat=PROinter]	kdamyk_____2	Default		%default	inv
 kja	110	PROinter	[pred="kja___MTE__1",cat=PROinter]	kja___MTE__1	Default		%default	inv
+klye	300	PROquant	[pred="klye_____1",cat=PROquant]	klye_____1	Default		%default	inv
+klye	300	PROŕuant	[pred="klye_____1",cat=PROŕuant]	klye_____1	Default		%default	inv
 klye	300	PROquant	[pred="klye_____1",cat=PROquant]	klye_____1	Default		%default	inv
 ky	300	PROinter	[pred="ky_____1",cat=PROinter]	ky_____1	Default		%default	inv
 ky	300	PROinter	[pred="ky_____2",cat=PROinter]	ky_____2	Default		%default	inv
@@ -150,11 +226,21 @@ mra	100	PROpers	[pred="mra_____1",cat=PROpers]	mra_____1	Default		%default	inv
 mšaralye	300	PROindef	[pred="mšaralye_____1",cat=PROindef]	mšaralye_____1	Default		%default	inv
 nmwne ay	100	PROindef	[pred="nmwne ay_____1",cat=PROindef]	nmwne ay_____1	Default		%default	inv
 qyre	110	PROindef	[pred="qyre___MTE__1",cat=PROindef]	qyre___MTE__1	Default		%default	inv
+ŕyre	110	PROindef	[pred="ŕyre___MTE__1",cat=PROindef]	ŕyre___MTE__1	Default		%default	inv
+qyre	110	PROindef	[pred="qyre___MTE__1",cat=PROindef]	qyre___MTE__1	Default		%default	inv
 swmy	100	PROnum	[pred="swmy_____1",cat=PROnum]	swmy_____1	Default		%default	inv
 t=w	100	PROpers	[pred="t=w_____1",cat=PROpers]	t=w_____1	Default		%default	inv
 tk tk	100	PROquant	[pred="tk tk_____1",cat=PROquant]	tk tk_____1	Default		%default	inv
+tk tk	100	PROŕuant	[pred="tk tk_____1",cat=PROŕuant]	tk tk_____1	Default		%default	inv
+tk tk	100	PROquant	[pred="tk tk_____1",cat=PROquant]	tk tk_____1	Default		%default	inv
+tmama	100	PROquant	[pred="tmama_____1",cat=PROquant]	tmama_____1	Default		%default	inv
+tmama	100	PROŕuant	[pred="tmama_____1",cat=PROŕuant]	tmama_____1	Default		%default	inv
 tmama	100	PROquant	[pred="tmama_____1",cat=PROquant]	tmama_____1	Default		%default	inv
 tmamš	100	PROquant	[pred="tmamš_____1",cat=PROquant]	tmamš_____1	Default		%default	inv
+tmamš	100	PROŕuant	[pred="tmamš_____1",cat=PROŕuant]	tmamš_____1	Default		%default	inv
+tmamš	100	PROquant	[pred="tmamš_____1",cat=PROquant]	tmamš_____1	Default		%default	inv
+tmamšan	100	PROquant	[pred="tmamšan_____1",cat=PROquant]	tmamšan_____1	Default		%default	inv
+tmamšan	100	PROŕuant	[pred="tmamšan_____1",cat=PROŕuant]	tmamšan_____1	Default		%default	inv
 tmamšan	100	PROquant	[pred="tmamšan_____1",cat=PROquant]	tmamšan_____1	Default		%default	inv
 tra	100	PROpers	[pred="tra_____1",cat=PROpers]	tra_____1	Default		%default	inv
 tw	266	PROpers	[pred="tw_____1",cat=PROpers]	tw_____1	Default		%default	inv
@@ -181,7 +267,11 @@ yky	100	PROrecip	[pred="yky_____1",cat=PROrecip]	yky_____1	Default		%default	inv
 yky aš	100	PROrecip	[pred="yky aš_____1",cat=PROrecip]	yky aš_____1	Default		%default	inv
 yky šan	100	PROrecip	[pred="yky šan_____1",cat=PROrecip]	yky šan_____1	Default		%default	inv
 ykyš	100	PROquindef	[pred="ykyš_____1",cat=PROquindef]	ykyš_____1	Default		%default	inv
+ykyš	100	PROŕuindef	[pred="ykyš_____1",cat=PROŕuindef]	ykyš_____1	Default		%default	inv
+ykyš	100	PROquindef	[pred="ykyš_____1",cat=PROquindef]	ykyš_____1	Default		%default	inv
 ykyš	100	PROrecip	[pred="ykyš_____2",cat=PROrecip]	ykyš_____2	Default		%default	inv
+ykyšan	100	PROquindef	[pred="ykyšan_____1",cat=PROquindef]	ykyšan_____1	Default		%default	inv
+ykyšan	100	PROŕuindef	[pred="ykyšan_____1",cat=PROŕuindef]	ykyšan_____1	Default		%default	inv
 ykyšan	100	PROquindef	[pred="ykyšan_____1",cat=PROquindef]	ykyšan_____1	Default		%default	inv
 ykyšan	100	PROrecip	[pred="ykyšan_____2",cat=PROrecip]	ykyšan_____2	Default		%default	inv
 ān	200	PROdem	[pred="ān_____1",cat=PROdem]	ān_____1	Default		%default	inv
