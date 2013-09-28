@@ -8,7 +8,8 @@ V_out=codecs.open('V.lex.fixed', 'w', 'utf-8');
 
 #You can write Path inflections from here
 
-bya_rule=u'byā   208     V       [pred="āmdn_____1",cat=V,@imperNorm] āmdn_____1      Default ImperNorm    %default        v24:v\n'
+bya_rule=u'byā\t100\tV\t[pred="āmdn_____1",cat=V,@imperNorm] āmdn_____1\tDefault ImperNorm\t%default\tv24:v\n'
 V_lex+=bya_rule;
+
 
 V_out.write(V_lex)

@@ -1,12 +1,23 @@
 #! /user/bin/python
 #-*- coding:utf-8 -*-
 __author__='Kensuke Mitsuzawa';
-__date__='2013/09/14';
+__date__='2013/09/28';
 
 import json, codecs, sys, subprocess;
 
 def load_json_file(path):
-    f=codecs.open(path, 'r', 'utf-8');
+    after_inf_dictionary={};
+    #高速読み込みに向けて改良中
+    '''
+    with codecs.open(path, 'r', 'utf-8') as f:
+        for tuple_line in f:
+            tuple_line=tuple_line.strip(u'\n');
+            print [tuple_line]
+            inf_tuple=json.load(tuple_line);
+            after_inf_dictionary.setdefault(inf_tuple[0], inf_tuple[1]);
+    print after_inf_dictionary; 
+    '''
+    f=codecs.open('./lex_json', 'r', 'utf-8');
     after_inf_dictionary=json.load(f)
     return after_inf_dictionary;
 
@@ -16,7 +27,7 @@ def do_tag(after_inf_dictionary, corpus):
         tags=[];
         stems=[];
         pos_tags=[];
-        tokens=sentence_data['tokens'];
+        tokens=sentence_data['after_conv_tokens'];
         for token in tokens:
             tag=[];
             stem=[];
@@ -43,7 +54,7 @@ def do_tag(after_inf_dictionary, corpus):
     return new_corpus;
 
 def main(file_path):
-    corpus_json=codecs.open(file_path, 'r', 'utf-8');
+    corpus_json=codecs.open('test_corpus/json_after_conv_table/e1998t0001.xml', 'r', 'utf-8');
     corpus=json.load(corpus_json);
     after_inf_dictionary=load_json_file('./lex_json'); 
     new_corpus=do_tag(after_inf_dictionary, corpus);

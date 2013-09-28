@@ -7,9 +7,10 @@ kwbydn	たたく
 ŕaym	直立の
 slmany	床屋　カテゴリ不明
 pltyky	カテゴリ不明
-xwšbaš	名詞と形容詞の両方の意味があるっぽいため（両方ともに登録も検討）
+
 ptpt	ADJそれともN?両方ともも検討，
 yal	lの子音で終わってかつ，atが語尾につく名詞屈折辞は現在のところ，辞書にない？どのカテゴリー？
+drāwrdn	現在のカテゴリーに存在していない
 
 辞書に登録済みの語	備考
 dndwn	N5:c
@@ -28,3 +29,4 @@ danedane	N5:v
 barkalle	OHにinvとして追加
 awww	INTに追加
 barwn	N5:c
+xwšbaši	ADJとして登録	

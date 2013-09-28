@@ -1,7 +1,7 @@
 #! /usr/bin/python
 # -*- coding:utf-8
 __author__='Kensuke Mitsuzawa';
-__date__='2013/09/24';
+__date__='2013/09/28';
 
 import re, os, codecs, sys, glob, json;
 
@@ -60,6 +60,15 @@ def main():
     #lex_files=['./trunk/V.lex.fixed'];
     for f in lex_files:
         after_inf_dictionary=load_lex_file(f, after_inf_dictionary);
+   
+    #高速読み込みに向けて改良中
+    """
+    with codecs.open('lex_json', 'w', 'utf-8') as f: 
+        for key in after_inf_dictionary:
+            out_tuple=(key, after_inf_dictionary[key]);
+            json.dump(out_tuple, f,  ensure_ascii=False);
+            f.write(u'\n');
+            """
     with codecs.open('lex_json', 'w', 'utf-8') as f:
         json.dump(after_inf_dictionary, f, indent=4, ensure_ascii=False)
 

@@ -173,6 +173,6 @@ zystn	v15	112;Lemma;V;;cat=V;%default		# Known to the PPD: zysty, zyst, zyan, zy
 šstn	v16	230;Lemma;V;;cat=V;%default		# Known to the PPD: šstny, nšstm, šstn, šst, nšstn, nšst, nšste, šste, šsty, bšw
 štaftn	v18	106;Lemma;V;;cat=V;%default		# Known to the PPD: štaban, štaftn
 štaftn	v21	104;Lemma;V;;cat=V;%default		# Known to the PPD: štaftn
-
+drāwrdn	v9	104;Lemma;V;;cat=V;%default		# Known to the PPD: 
 
 baystn	v-aux	100;Lemma;VAUX;;cat=VAUX;%default		# manually added
