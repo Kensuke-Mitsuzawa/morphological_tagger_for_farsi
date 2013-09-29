@@ -66,12 +66,12 @@ def main(file_path):
     num_null=0;
     num_all_tag=0;
     for token in new_corpus:
-        num_token+=len(token['tokens']);
+        num_token+=len(token['after_conv_tokens']);
         for tags in token['morph_tag']:
             if tags==[None]:
                 num_null+=1;
-            
-            num_all_tag+=len(tags);
+            else: 
+                num_all_tag+=len(tags);
 
     coverage=float(num_token-num_null) / num_token;
     ambiguity=float(num_all_tag) / num_token;
