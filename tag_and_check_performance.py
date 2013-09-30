@@ -3,7 +3,7 @@
 __author__='Kensuke Mitsuzawa';
 __date__='2013/09/28';
 
-import json, codecs, sys, subprocess;
+import json, codecs, sys, subprocess, sys, os;
 
 def load_json_file(path):
     after_inf_dictionary={};
@@ -54,11 +54,13 @@ def do_tag(after_inf_dictionary, corpus):
     return new_corpus;
 
 def main(file_path):
-    corpus_json=codecs.open('test_corpus/json_after_conv_table/e1998t0001.xml', 'r', 'utf-8');
+    corpus_path=sys.argv[1];
+    corpus_json=codecs.open(corpus_path, 'r', 'utf-8');
     corpus=json.load(corpus_json);
     after_inf_dictionary=load_json_file('./lex_json'); 
     new_corpus=do_tag(after_inf_dictionary, corpus);
-    with codecs.open('taged.json', 'w', 'utf-8') as f:
+    file_name=os.path.split(corpus_path)[-1];
+    with codecs.open('./test_corpus/taged_corpus/'+file_name, 'w', 'utf-8') as f:
         json.dump(new_corpus, f, indent=4, ensure_ascii=False);
 
     #nullの数を数える，全tokenの数を数える

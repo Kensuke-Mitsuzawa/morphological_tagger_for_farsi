@@ -1,7 +1,7 @@
 #! /usr/bin/python
 #-*- coding:utf-8 -*-
 
-import codecs, re, json;
+import codecs, re, json, os, sys;
 
 table_map={};
 with codecs.open('conv_table_working_dir/file_in_progress/manual_editing_3rd_run.tsv', 'r', 'utf-8') as table_lines:
@@ -33,7 +33,8 @@ with codecs.open('conv_table_working_dir/file_in_progress/manual_editing_3rd_run
 
 
 
-corpus_json=codecs.open('test_corpus/json/e1998t0001.xml', 'r', 'utf-8');
+corpus_path=sys.argv[1];
+corpus_json=codecs.open(corpus_path, 'r', 'utf-8');
 corpus=json.load(corpus_json);
 
 for sentence in corpus:
@@ -58,5 +59,6 @@ for sentence in corpus:
         pass;
 
 
-with codecs.open('test_corpus/json_after_conv_table/e1998t0001.xml', 'w', 'utf-8') as f:
+file_name=os.path.split(corpus_path)[-1];
+with codecs.open('./test_corpus/json_after_conv_table/'+file_name, 'w', 'utf-8') as f:
     json.dump(corpus, f, indent=4, ensure_ascii=False);

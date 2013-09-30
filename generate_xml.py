@@ -7,7 +7,7 @@ __date__='2013/09/29';
 from xml.etree.ElementTree import Element, SubElement, Comment, tostring
 from xml.etree import ElementTree
 from xml.dom import minidom
-import codecs, re, json;
+import codecs, re, json, sys, os;
 
 def prettify(elem):
     """Return a pretty-printed XML string for the Element.
@@ -22,7 +22,7 @@ def load_corpus_json(corpus_path):
         corpus=json.load(f);
     return corpus;
 
-def generate_xml(corpus):
+def generate_xml(corpus, file_name):
 
     top=Element('instance');
 
@@ -133,16 +133,17 @@ def generate_xml(corpus):
                 morph_i.text='null';
 
     xml_data=prettify(top)
-    with codecs.open('./test_corpus/xml/taged.xml', 'w', 'utf-8') as f:
+    with codecs.open('./test_corpus/xml/'+file_name, 'w', 'utf-8') as f:
         f.write(xml_data);
 
 
 def main():
-    corpus_path='./taged.json'
+    corpus_path=sys.argv[1];
 
     corpus=load_corpus_json(corpus_path)
+    file_name=os.path.split(corpus_path)[-1];
 
-    generate_xml(corpus);
+    generate_xml(corpus, file_name);
 
 if __name__=='__main__':
 
