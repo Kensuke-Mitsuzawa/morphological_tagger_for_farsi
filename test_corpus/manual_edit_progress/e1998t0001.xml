@@ -1004,7 +1004,6 @@
 					<morph_15>
 						Sing
 					</morph_15>
-					<!--いまここまでみた-->
 				</position_15>
 				<position_16>
 					<token_16>
@@ -1113,6 +1112,7 @@
 					</pos_23>
 					<stem_23>
 						sr_____1 sr_____2
+						どっちのsrだ・・？
 					</stem_23>
 					<morph_23>
 						SingPers3s SingPers3s
@@ -1155,6 +1155,7 @@
 					</pos_26>
 					<stem_26>
 						ba½_____1 ba_____1
+						これはバグ
 					</stem_26>
 					<morph_26>
 						 inv
@@ -1165,14 +1166,15 @@
 						yk
 					</token_27>
 					<pos_27>
-						DETquant DETŕuant DETquant
+						DETquant
 					</pos_27>
 					<stem_27>
-						yk_____1 yk_____1 yk_____1
+						yk_____1
 					</stem_27>
 					<morph_27>
-						inv inv inv
+						inv
 					</morph_27>
+					<!-- ここまでみた -->
 				</position_27>
 				<position_28>
 					<token_28>

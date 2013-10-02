@@ -1,7 +1,7 @@
 #! /user/bin/python
 #-*- coding:utf-8 -*-
 __author__='Kensuke Mitsuzawa';
-__date__='2013/09/28';
+__date__='2013/10/01';
 
 import json, codecs, sys, subprocess, sys, os;
 
@@ -27,28 +27,35 @@ def do_tag(after_inf_dictionary, corpus):
         tags=[];
         stems=[];
         pos_tags=[];
+        categories=[];
         tokens=sentence_data['after_conv_tokens'];
         for token in tokens:
             tag=[];
             stem=[];
             pos_perlex=[];
+            category=[];
             if token in after_inf_dictionary:
                 for items in after_inf_dictionary[token]:
                     pos_perlex.append(items[1]); 
                     stem.append(items[2]);
                     tag.append(items[3]);
+                    category.append(items[-1]); 
+
             else:
                 tag.append(None);
                 stem.append(None);
-                pos_perlex.append(None); 
+                pos_perlex.append(None);
+                category.append(None);
 
             tags.append(tag);
             stems.append(stem); 
             pos_tags.append(pos_perlex);
+            categories.append(category);
 
         sentence_data.setdefault('morph_tag', tags);
         sentence_data.setdefault('stem', stems);
         sentence_data.setdefault('pos_perlex', pos_tags);
+        sentence_data.setdefault('category', categories);
 
         new_corpus.append(sentence_data);
     return new_corpus;

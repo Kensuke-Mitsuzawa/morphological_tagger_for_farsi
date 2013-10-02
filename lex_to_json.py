@@ -1,7 +1,7 @@
 #! /usr/bin/python
 # -*- coding:utf-8
 __author__='Kensuke Mitsuzawa';
-__date__='2013/09/28';
+__date__='2013/10/03';
 
 import re, os, codecs, sys, glob, json;
 
@@ -22,6 +22,7 @@ def load_lex_file(f, after_inf_dictionary):
             POS=items[2]
             stem=items[4]
             tag=u'inv'
+            category=items[-1].strip(u'\n');
 
         else:
             items=line.split(u'\t');
@@ -29,7 +30,8 @@ def load_lex_file(f, after_inf_dictionary):
             POS=items[2]
             stem=items[4]
             tag=items[6]
-        extracted_information=(after_inf_word, POS, stem, tag);
+            category=items[-1].strip(u'\n');
+        extracted_information=(after_inf_word, POS, stem, tag, category);
         
         if after_inf_word in after_inf_dictionary:
             after_inf_dictionary[after_inf_word].append(extracted_information); 

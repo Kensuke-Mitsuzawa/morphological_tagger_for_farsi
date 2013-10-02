@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
 
 __author__='Kensuke Mitsuzawa';
-__date__='2013/09/29';
+__date__='2013/10/03';
 
 from xml.etree.ElementTree import Element, SubElement, Comment, tostring
 from xml.etree import ElementTree
@@ -10,7 +10,8 @@ from xml.dom import minidom
 import codecs, re, json, sys, os;
 
 def prettify(elem):
-    """Return a pretty-printed XML string for the Element.
+    """
+    Return a pretty-printed XML string for the Element.
     """
     rough_string = ElementTree.tostring(elem, 'utf-8')
     reparsed = minidom.parseString(rough_string)
@@ -131,6 +132,14 @@ def generate_xml(corpus, file_name):
 
             else:
                 morph_i.text='null';
+
+            category_i=SubElement(position_node, 'category_{}'.format(i));
+            if sentence['category'][i]!=[None]:
+                format_category=u' '.join(sentence['category'][i]);
+                category_i.text=format_category;
+
+            else:
+                category_i.text='null';
 
     xml_data=prettify(top)
     with codecs.open('./test_corpus/xml/'+file_name, 'w', 'utf-8') as f:
