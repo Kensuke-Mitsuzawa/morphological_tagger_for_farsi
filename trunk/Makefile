@@ -761,7 +761,6 @@ constr.pl: constructions $(alexinatoolsdir)/constructions_builder.pl
 	@echo Building $@; \
 	cat $< | perl constr.pl | $(alexinatoolsdir)/lex_generator.pl \
 	$(PRERECODING) \
-	| iconv -f UTF-8 -t $(LEX_ENCODING) \
 	> $@
 
 %.flt: %.lex

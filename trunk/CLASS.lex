@@ -1,0 +1,11 @@
+'dd	300	CLASSsing	[pred="'dd_____1",cat=CLASSsing]	'dd_____1	Default		%default	inv
+dane	300	CLASSsing	[pred="dane_____1",cat=CLASSsing]	dane_____1	Default		%default	inv
+dstgae	300	CLASSsing	[pred="dstgae_____1",cat=CLASSsing]	dstgae_____1	Default		%default	inv
+frwnd	300	CLASSsing	[pred="frwnd_____1",cat=CLASSsing]	frwnd_____1	Default		%default	inv
+fŕre	300	CLASSsing	[pred="fŕre_____1",cat=CLASSsing]	fŕre_____1	Default		%default	inv
+nfr	300	CLASSsing	[pred="nfr_____1",cat=CLASSsing]	nfr_____1	Default		%default	inv
+ra`s	300	CLASSsing	[pred="ra`s_____1",cat=CLASSsing]	ra`s_____1	Default		%default	inv
+ras	300	CLASSsing	[pred="ras_____1",cat=CLASSsing]	ras_____1	Default		%default	inv
+rdyf	300	CLASSsing	[pred="rdyf_____1",cat=CLASSsing]	rdyf_____1	Default		%default	inv
+ta	300	CLASSpl	[pred="ta_____1",cat=CLASSpl]	ta_____1	Default		%default	inv
+ŕlm	300	CLASSsing	[pred="ŕlm_____1",cat=CLASSsing]	ŕlm_____1	Default		%default	inv

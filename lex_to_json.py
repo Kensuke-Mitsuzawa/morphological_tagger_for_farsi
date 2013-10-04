@@ -1,14 +1,14 @@
 #! /usr/bin/python
 # -*- coding:utf-8
 __author__='Kensuke Mitsuzawa';
-__date__='2013/10/03';
+__date__='2013/10/04';
 
 import re, os, codecs, sys, glob, json;
 
 def get_files(dir_name):
     lex_files=[];
     for root, dirs, files in os.walk(dir_name):
-        for f in glob.glob(os.path.join(root, '*.lex.fixed')):
+        for f in glob.glob(os.path.join(root, '*.lex')):
             lex_files.append(f);
     return lex_files;
 
