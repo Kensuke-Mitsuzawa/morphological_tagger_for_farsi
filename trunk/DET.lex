@@ -100,10 +100,10 @@ xyly	300	DETquant	[pred="xyly_____1",cat=DETquant]	xyly_____1	Default		%default	
 yazde	100	DETquant	[pred="yazde_____1",cat=DETquant]	yazde_____1	Default		%default	inv
 ygane	300	DETquant	[pred="ygane___one__1",cat=DETquant]	ygane___one__1	Default		%default	inv
 yk	300	DETquant	[pred="yk_____1",cat=DETquant]	yk_____1	Default		%default	inv
-ân	100	DETdem	[pred="ân_____1",cat=DETdem]	ân_____1	Default		%default	inv
-ân_ea	100	DETdem	[pred="ân_ea_____1",cat=DETdem]	ân_ea_____1	Default		%default	inv
-ânčnan	200	DETdem	[pred="ânčnan_____1",cat=DETdem]	ânčnan_____1	Default		%default	inv
-ânčnyn	100	DETdem	[pred="ânčnyn_____1",cat=DETdem]	ânčnyn_____1	Default		%default	inv
+ān	100	DETdem	[pred="ān_____1",cat=DETdem]	ān_____1	Default		%default	inv
+ān_ea	100	DETdem	[pred="ān_ea_____1",cat=DETdem]	ān_ea_____1	Default		%default	inv
+ānčnan	200	DETdem	[pred="ānčnan_____1",cat=DETdem]	ānčnan_____1	Default		%default	inv
+ānčnyn	100	DETdem	[pred="ānčnyn_____1",cat=DETdem]	ānčnyn_____1	Default		%default	inv
 če	100	DETinter	[pred="če_____1",cat=DETinter]	če_____1	Default		%default	inv
 čear	100	DETquant	[pred="čear_____1",cat=DETquant]	čear_____1	Default		%default	inv
 čnan	300	DETdem	[pred="čnan_____1",cat=DETdem]	čnan_____1	Default		%default	inv
@@ -117,13 +117,13 @@ yk	300	DETquant	[pred="yk_____1",cat=DETquant]	yk_____1	Default		%default	inv
 čy	300	DETinter	[pred="čy_____1",cat=DETinter]	čy_____1	Default		%default	inv
 čŕdr	100	DETinter	[pred="čŕdr_____1",cat=DETinter]	čŕdr_____1	Default		%default	inv
 đre ay	100	DETquant	[pred="đre ay_____1",cat=DETquant]	đre ay_____1	Default		%default	inv
-łdakçr	200	DETquant	[pred="łdakçr_____1",cat=DETquant]	łdakçr_____1	Default		%default	inv
-łdaŕl	200	DETquant	[pred="łdaŕl_____1",cat=DETquant]	łdaŕl_____1	Default		%default	inv
-łdaŕly	100	DETquant	[pred="łdaŕly_____1",cat=DETquant]	łdaŕly_____1	Default		%default	inv
-łdwd	200	DETquant	[pred="łdwd_____1",cat=DETquant]	łdwd_____1	Default		%default	inv
-łdwda	100	DETquant	[pred="łdwda_____1",cat=DETquant]	łdwda_____1	Default		%default	inv
-łdwda˝	100	DETquant	[pred="łdwda˝_____1",cat=DETquant]	łdwda˝_____1	Default		%default	inv
-łwaly	200	DETquant	[pred="łwaly_____1",cat=DETquant]	łwaly_____1	Default		%default	inv
+ħdakçr	200	DETquant	[pred="ħdakçr_____1",cat=DETquant]	ħdakçr_____1	Default		%default	inv
+ħdaŕl	200	DETquant	[pred="ħdaŕl_____1",cat=DETquant]	ħdaŕl_____1	Default		%default	inv
+ħdaŕly	100	DETquant	[pred="ħdaŕly_____1",cat=DETquant]	ħdaŕly_____1	Default		%default	inv
+ħdwd	200	DETquant	[pred="ħdwd_____1",cat=DETquant]	ħdwd_____1	Default		%default	inv
+ħdwda	100	DETquant	[pred="ħdwda_____1",cat=DETquant]	ħdwda_____1	Default		%default	inv
+ħdwda˝	100	DETquant	[pred="ħdwda˝_____1",cat=DETquant]	ħdwda˝_____1	Default		%default	inv
+ħwaly	200	DETquant	[pred="ħwaly_____1",cat=DETquant]	ħwaly_____1	Default		%default	inv
 ŕbyl	300	DETquant	[pred="ŕbyl_____1",cat=DETquant]	ŕbyl_____1	Default		%default	inv
 ŕryb	300	DETquant	[pred="ŕryb_____1",cat=DETquant]	ŕryb_____1	Default		%default	inv
 ŕsmty	100	DETquant	[pred="ŕsmty_____1",cat=DETquant]	ŕsmty_____1	Default		%default	inv

@@ -20,7 +20,7 @@ azbyn	110	P	[pred="azbyn___MTE__1",cat=P]	azbyn___MTE__1	Default		%default	inv
 azfrţ	110	P	[pred="azfrţ___MTE__1",cat=P]	azfrţ___MTE__1	Default		%default	inv
 azjanb	110	P	[pred="azjanb___MTE__1",cat=P]	azjanb___MTE__1	Default		%default	inv
 azjmle	110	P	[pred="azjmle___MTE__1",cat=P]	azjmle___MTE__1	Default		%default	inv
-azlłaż	110	P	[pred="azlłaż___MTE__1",cat=P]	azlłaż___MTE__1	Default		%default	inv
+azlħaẓ	110	P	[pred="azlħaẓ___MTE__1",cat=P]	azlħaẓ___MTE__1	Default		%default	inv
 azm	100	P	[pred="azm_____1",cat=P]	azm_____1	Default		%default	inv
 azmyan	110	P	[pred="azmyan___MTE__1",cat=P]	azmyan___MTE__1	Default		%default	inv
 azsr	110	P	[pred="azsr___MTE__1",cat=P]	azsr___MTE__1	Default		%default	inv
@@ -69,10 +69,10 @@ be jet	100	Ppn	[pred="be jet_____1",cat=Ppn]	be jet_____1	Default		%default	inv
 be jz	200	Ppp	[pred="be jz_____1",cat=Ppp]	be jz_____1	Default		%default	inv
 be jz	100	P	[pred="be jz_____2",cat=P]	be jz_____2	Default		%default	inv
 be knar	110	Ppn	[pred="be knar___MTE__1",cat=Ppn]	be knar___MTE__1	Default		%default	inv
-be mnżwr	110	Ppn	[pred="be mnżwr___MTE__1",cat=Ppn]	be mnżwr___MTE__1	Default		%default	inv
+be mnẓwr	110	Ppn	[pred="be mnẓwr___MTE__1",cat=Ppn]	be mnẓwr___MTE__1	Default		%default	inv
 be myan	110	Ppn	[pred="be myan___MTE__1",cat=Ppn]	be myan___MTE__1	Default		%default	inv
 be mçabe	110	Ppn	[pred="be mçabe___MTE__1",cat=Ppn]	be mçabe___MTE__1	Default		%default	inv
-be młź	200	Ppn	[pred="be młź_____1",cat=Ppn]	be młź_____1	Default		%default	inv
+be mħź	200	Ppn	[pred="be mħź_____1",cat=Ppn]	be mħź_____1	Default		%default	inv
 be nsbt	110	Ppn	[pred="be nsbt___MTE__1",cat=Ppn]	be nsbt___MTE__1	Default		%default	inv
 be nzd	100	Ppn	[pred="be nzd_____1",cat=Ppn]	be nzd_____1	Default		%default	inv
 be nzdš	100	Ppn	[pred="be nzdš_____1",cat=Ppn]	be nzdš_____1	Default		%default	inv
@@ -138,7 +138,7 @@ brrwy	100	P	[pred="brrwy_____1",cat=P]	brrwy_____1	Default		%default	inv
 brsr	110	P	[pred="brsr___MTE__1",cat=P]	brsr___MTE__1	Default		%default	inv
 brwn	300	P	[pred="brwn_____1",cat=P]	brwn_____1	Default		%default	inv
 brxlaf	110	P	[pred="brxlaf___MTE__1",cat=P]	brxlaf___MTE__1	Default		%default	inv
-brłsb	110	P	[pred="brłsb___MTE__1",cat=P]	brłsb___MTE__1	Default		%default	inv
+brħsb	110	P	[pred="brħsb___MTE__1",cat=P]	brħsb___MTE__1	Default		%default	inv
 brš	300	P	[pred="brš_____1",cat=P]	brš_____1	Default		%default	inv
 brţbŕ	110	P	[pred="brţbŕ___MTE__1",cat=P]	brţbŕ___MTE__1	Default		%default	inv
 brźd	110	P	[pred="brźd___MTE__1",cat=P]	brźd___MTE__1	Default		%default	inv
@@ -164,14 +164,14 @@ dr ps	100	Ppn	[pred="dr ps_____1",cat=Ppn]	dr ps_____1	Default		%default	inv
 dr pyš	100	Ppn	[pred="dr pyš_____1",cat=Ppn]	dr pyš_____1	Default		%default	inv
 dr pšt	100	Ppn	[pred="dr pšt_____1",cat=Ppn]	dr pšt_____1	Default		%default	inv
 dr twy	100	Ppn	[pred="dr twy_____1",cat=Ppn]	dr twy_____1	Default		%default	inv
-dr tłt	100	Ppn	[pred="dr tłt_____1",cat=Ppn]	dr tłt_____1	Default		%default	inv
+dr tħt	100	Ppn	[pred="dr tħt_____1",cat=Ppn]	dr tħt_____1	Default		%default	inv
 dr wsţ	110	Ppn	[pred="dr wsţ___MTE__1",cat=Ppn]	dr wsţ___MTE__1	Default		%default	inv
 dr xdmt	100	Ppn	[pred="dr xdmt_____1",cat=Ppn]	dr xdmt_____1	Default		%default	inv
 dr xlal	100	Ppn	[pred="dr xlal_____1",cat=Ppn]	dr xlal_____1	Default		%default	inv
 dr xşwş	100	Ppn	[pred="dr xşwş_____1",cat=Ppn]	dr xşwş_____1	Default		%default	inv
 dr zmyne	100	Ppn	[pred="dr zmyne_____1",cat=Ppn]	dr zmyne_____1	Default		%default	inv
 dr zyr	100	Ppn	[pred="dr zyr_____1",cat=Ppn]	dr zyr_____1	Default		%default	inv
-dr łyn	100	Ppn	[pred="dr łyn_____1",cat=Ppn]	dr łyn_____1	Default		%default	inv
+dr ħyn	100	Ppn	[pred="dr ħyn_____1",cat=Ppn]	dr ħyn_____1	Default		%default	inv
 dr ŕbal	100	Ppn	[pred="dr ŕbal_____1",cat=Ppn]	dr ŕbal_____1	Default		%default	inv
 dr źmn	100	Ppn	[pred="dr źmn_____1",cat=Ppn]	dr źmn_____1	Default		%default	inv
 dr'rź	110	P	[pred="dr'rź___MTE__1",cat=P]	dr'rź___MTE__1	Default		%default	inv
@@ -204,7 +204,7 @@ dryn	100	P	[pred="dryn_____1",cat=P]	dryn_____1	Default		%default	inv
 drzyr	110	P	[pred="drzyr___MTE__1",cat=P]	drzyr___MTE__1	Default		%default	inv
 drşwrt	110	P	[pred="drşwrt___MTE__1",cat=P]	drşwrt___MTE__1	Default		%default	inv
 drţy	110	P	[pred="drţy___MTE__1",cat=P]	drţy___MTE__1	Default		%default	inv
-drżrf	110	P	[pred="drżrf___MTE__1",cat=P]	drżrf___MTE__1	Default		%default	inv
+drẓrf	110	P	[pred="drẓrf___MTE__1",cat=P]	drẓrf___MTE__1	Default		%default	inv
 dwr	110	P	[pred="dwr___MTE__1",cat=P]	dwr___MTE__1	Default		%default	inv
 dwr ta dwr	100	P	[pred="dwr ta dwr_____1",cat=P]	dwr ta dwr_____1	Default		%default	inv
 dwrwbr	300	P	[pred="dwrwbr_____1",cat=P]	dwrwbr_____1	Default		%default	inv
@@ -246,16 +246,16 @@ maŕbl	300	P	[pred="maŕbl_____1",cat=P]	maŕbl_____1	Default		%default	inv
 mbny br	110	Pnp	[pred="mbny br___MTE__1",cat=Pnp]	mbny br___MTE__1	Default		%default	inv
 md	110	P	[pred="md___MTE__1",cat=P]	md___MTE__1	Default		%default	inv
 mgr	110	P	[pred="mgr___MTE__1",cat=P]	mgr___MTE__1	Default		%default	inv
-mn łyç	100	P	[pred="mn łyç_____1",cat=P]	mn łyç_____1	Default		%default	inv
+mn ħyç	100	P	[pred="mn ħyç_____1",cat=P]	mn ħyç_____1	Default		%default	inv
 myan	400	P	[pred="myan_____1",cat=P]	myan_____1	Default		%default	inv
 mçl	400	P	[pred="mçl_____1",cat=P]	mçl_____1	Default		%default	inv
-młź	200	P	[pred="młź_____1",cat=P]	młź_____1	Default		%default	inv
+mħź	200	P	[pred="mħź_____1",cat=P]	mħź_____1	Default		%default	inv
 mŕabl	400	P	[pred="mŕabl_____1",cat=P]	mŕabl_____1	Default		%default	inv
 nbš	300	P	[pred="nbš_____1",cat=P]	nbš_____1	Default		%default	inv
 nsbt be	200	Pnp	[pred="nsbt be_____1",cat=Pnp]	nsbt be_____1	Default		%default	inv
 nzd	400	P	[pred="nzd_____1",cat=P]	nzd_____1	Default		%default	inv
 nzdyk	400	P	[pred="nzdyk_____1",cat=P]	nzdyk_____1	Default		%default	inv
-nżyr	110	P	[pred="nżyr___MTE__1",cat=P]	nżyr___MTE__1	Default		%default	inv
+nẓyr	110	P	[pred="nẓyr___MTE__1",cat=P]	nẓyr___MTE__1	Default		%default	inv
 payyn	110	P	[pred="payyn___MTE__1",cat=P]	payyn___MTE__1	Default		%default	inv
 pelw	110	P	[pred="pelw___MTE__1",cat=P]	pelw___MTE__1	Default		%default	inv
 pelwy	300	P	[pred="pelwy_____1",cat=P]	pelwy_____1	Default		%default	inv
@@ -297,8 +297,8 @@ twy	300	P	[pred="twy_____1",cat=P]	twy_____1	Default		%default	inv
 twy	300	P	[pred="twy_____2",cat=P]	twy_____2	Default		%default	inv
 twyš	100	P	[pred="twyš_____1",cat=P]	twyš_____1	Default		%default	inv
 twš	300	P	[pred="twš_____1",cat=P]	twš_____1	Default		%default	inv
-tłt	300	P	[pred="tłt_____1",cat=P]	tłt_____1	Default		%default	inv
-tłt	300	P	[pred="tłt_____2",cat=P]	tłt_____2	Default		%default	inv
+tħt	300	P	[pred="tħt_____1",cat=P]	tħt_____1	Default		%default	inv
+tħt	300	P	[pred="tħt_____2",cat=P]	tħt_____2	Default		%default	inv
 ward	100	P	[pred="ward_____1",cat=P]	ward_____1	Default		%default	inv
 wase	100	P	[pred="wase_____1",cat=P]	wase_____1	Default		%default	inv
 wray	100	P	[pred="wray_____1",cat=P]	wray_____1	Default		%default	inv
@@ -315,15 +315,15 @@ zw	100	P	[pred="zw_____1",cat=P]	zw_____1	Default		%default	inv
 zyr	200	P	[pred="zyr_____1",cat=P]	zyr_____1	Default		%default	inv
 zyr	200	P	[pred="zyr_____2",cat=P]	zyr_____2	Default		%default	inv
 čwn	400	P	[pred="čwn_____1",cat=P]	čwn_____1	Default		%default	inv
-łwl	300	P	[pred="łwl_____1",cat=P]	łwl_____1	Default		%default	inv
-łyn	200	P	[pred="łyn_____1",cat=P]	łyn_____1	Default		%default	inv
+ħwl	300	P	[pred="ħwl_____1",cat=P]	ħwl_____1	Default		%default	inv
+ħyn	200	P	[pred="ħyn_____1",cat=P]	ħyn_____1	Default		%default	inv
 ŕbl	110	P	[pred="ŕbl___MTE__1",cat=P]	ŕbl___MTE__1	Default		%default	inv
 ŕbl az	200	Pnp	[pred="ŕbl az_____1",cat=Pnp]	ŕbl az_____1	Default		%default	inv
-şwrtłsab	200	P	[pred="şwrtłsab_____1",cat=P]	şwrtłsab_____1	Default		%default	inv
+şwrtħsab	200	P	[pred="şwrtħsab_____1",cat=P]	şwrtħsab_____1	Default		%default	inv
 šbye	110	P	[pred="šbye___MTE__1",cat=P]	šbye___MTE__1	Default		%default	inv
 ţbŕ	110	P	[pred="ţbŕ___MTE__1",cat=P]	ţbŕ___MTE__1	Default		%default	inv
 ţrf	110	P	[pred="ţrf___MTE__1",cat=P]	ţrf___MTE__1	Default		%default	inv
 ţy	400	P	[pred="ţy_____1",cat=P]	ţy_____1	Default		%default	inv
 źd	300	P	[pred="źd_____1",cat=P]	źd_____1	Default		%default	inv
 źmn	300	P	[pred="źmn_____1",cat=P]	źmn_____1	Default		%default	inv
-żrf	110	P	[pred="żrf___MTE__1",cat=P]	żrf___MTE__1	Default		%default	inv
+ẓrf	110	P	[pred="ẓrf___MTE__1",cat=P]	ẓrf___MTE__1	Default		%default	inv

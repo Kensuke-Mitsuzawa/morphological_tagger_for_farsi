@@ -11,13 +11,13 @@ ay	300	INTexcl	[pred="ay_____1",cat=INTexcl]	ay_____1	Default		%default	inv
 ay way	100	INT	[pred="ay way_____1",cat=INT]	ay way_____1	Default		%default	inv
 ayea	100	INTexcl	[pred="ayea_____1",cat=INTexcl]	ayea_____1	Default		%default	inv
 aywalle	300	INT	[pred="aywalle_____1",cat=INT]	aywalle_____1	Default		%default	inv
-ałsnt	200	INTs	[pred="ałsnt_____1",cat=INTs]	ałsnt_____1	Default		%default	inv
+aħsnt	200	INTs	[pred="aħsnt_____1",cat=INTs]	aħsnt_____1	Default		%default	inv
 baralea	100	INTs	[pred="baralea_____1",cat=INTs]	baralea_____1	Default		%default	inv
 bary	100	INTs	[pred="bary_____1",cat=INTs]	bary_____1	Default		%default	inv
 bb'y	100	INT	[pred="bb'y_____1",cat=INT]	bb'y_____1	Default		%default	inv
 ble	300	INTs	[pred="ble_____1",cat=INTs]	ble_____1	Default		%default	inv
 bly	300	INTs	[pred="bly_____1",cat=INTs]	bly_____1	Default		%default	inv
-bsm alle alrłmn alrłym	100	INTs	[pred="bsm alle alrłmn alrłym_____1",cat=INTs]	bsm alle alrłmn alrłym_____1	Default		%default	inv
+bsm alle alrħmn alrħym	100	INTs	[pred="bsm alle alrħmn alrħym_____1",cat=INTs]	bsm alle alrħmn alrħym_____1	Default		%default	inv
 bsme t'aly	100	INTs	[pred="bsme t'aly_____1",cat=INTs]	bsme t'aly_____1	Default		%default	inv
 by yma	100	INTs	[pred="by yma_____1",cat=INTs]	by yma_____1	Default		%default	inv
 by ymy ye	100	INTs	[pred="by ymy ye_____1",cat=INTs]	by ymy ye_____1	Default		%default	inv
@@ -48,7 +48,7 @@ nxyr	300	INTs	[pred="nxyr_____1",cat=INTs]	nxyr_____1	Default		%default	inv
 prwrdgara	100	INTexcl	[pred="prwrdgara_____1",cat=INTexcl]	prwrdgara_____1	Default		%default	inv
 r k	100	INTs	[pred="r k_____1",cat=INTs]	r k_____1	Default		%default	inv
 rebra	100	INTexcl	[pred="rebra_____1",cat=INTexcl]	rebra_____1	Default		%default	inv
-sbłan alle	100	INTs	[pred="sbłan alle_____1",cat=INTs]	sbłan alle_____1	Default		%default	inv
+sbħan alle	100	INTs	[pred="sbħan alle_____1",cat=INTs]	sbħan alle_____1	Default		%default	inv
 slam	300	INTs	[pred="slam_____1",cat=INTs]	slam_____1	Default		%default	inv
 w alle a'lm	100	INTs	[pred="w alle a'lm_____1",cat=INTs]	w alle a'lm_____1	Default		%default	inv
 walle	300	INTexcl	[pred="walle_____1",cat=INTexcl]	walle_____1	Default		%default	inv
@@ -60,7 +60,7 @@ xb	300	INTs	[pred="xb_____2",cat=INTs]	xb_____2	Default		%default	inv
 xdawnda	100	INTexcl	[pred="xdawnda_____1",cat=INTexcl]	xdawnda_____1	Default		%default	inv
 xdaya	100	INTexcl	[pred="xdaya_____1",cat=INTexcl]	xdaya_____1	Default		%default	inv
 xdaya	100	INTs	[pred="xdaya_____2",cat=INTs]	xdaya_____2	Default		%default	inv
-xdałafż	100	INTs	[pred="xdałafż_____1",cat=INTs]	xdałafż_____1	Default		%default	inv
+xdaħafẓ	100	INTs	[pred="xdaħafẓ_____1",cat=INTs]	xdaħafẓ_____1	Default		%default	inv
 xlaşe	300	INTs	[pred="xlaşe_____1",cat=INTs]	xlaşe_____1	Default		%default	inv
 xwša	300	INTexcl	[pred="xwša_____1",cat=INTexcl]	xwša_____1	Default		%default	inv
 xyr	300	INTs	[pred="xyr_____1",cat=INTs]	xyr_____1	Default		%default	inv
@@ -70,24 +70,24 @@ zea ze	100	INTexcl	[pred="zea ze_____1",cat=INTexcl]	zea ze_____1	Default		%defa
 zey	100	INT	[pred="zey_____1",cat=INT]	zey_____1	Default		%default	inv
 znde bad	100	INTs	[pred="znde bad_____1",cat=INTs]	znde bad_____1	Default		%default	inv
 znear	300	INTs	[pred="znear_____1",cat=INTs]	znear_____1	Default		%default	inv
-âaw w w w	100	INT	[pred="âaw w w w_____1",cat=INT]	âaw w w w_____1	Default		%default	inv
-âe	200	INT	[pred="âe_____1",cat=INT]	âe_____1	Default		%default	inv
-âean	200	INT	[pred="âean_____1",cat=INT]	âean_____1	Default		%default	inv
-âeay	200	INT	[pred="âeay_____1",cat=INT]	âeay_____1	Default		%default	inv
-âeay	200	INTexcl	[pred="âeay_____2",cat=INTexcl]	âeay_____2	Default		%default	inv
-âmyn ya rb al'almyn	100	INTs	[pred="âmyn ya rb al'almyn_____1",cat=INTs]	âmyn ya rb al'almyn_____1	Default		%default	inv
-âre	200	INTs	[pred="âre_____1",cat=INTs]	âre_____1	Default		%default	inv
-âry	200	INTs	[pred="âry_____1",cat=INTs]	âry_____1	Default		%default	inv
-âwe	100	INT	[pred="âwe_____1",cat=INT]	âwe_____1	Default		%default	inv
-âx	200	INT	[pred="âx_____1",cat=INT]	âx_____1	Default		%default	inv
-ây	200	INT	[pred="ây_____1",cat=INT]	ây_____1	Default		%default	inv
-ây	200	INTexcl	[pred="ây_____2",cat=INTexcl]	ây_____2	Default		%default	inv
-âŕa	200	INTexcl	[pred="âŕa_____1",cat=INTexcl]	âŕa_____1	Default		%default	inv
-łafża	100	INTexcl	[pred="łafża_____1",cat=INTexcl]	łafża_____1	Default		%default	inv
-łaš lle	100	INT	[pred="łaš lle_____1",cat=INT]	łaš lle_____1	Default		%default	inv
-łyf	200	INT	[pred="łyf_____1",cat=INT]	łyf_____1	Default		%default	inv
-şbł bxyr	100	INTs	[pred="şbł bxyr_____1",cat=INTs]	şbł bxyr_____1	Default		%default	inv
-şdâfryn	100	INTs	[pred="şdâfryn_____1",cat=INTs]	şdâfryn_____1	Default		%default	inv
+āaw w w w	100	INT	[pred="āaw w w w_____1",cat=INT]	āaw w w w_____1	Default		%default	inv
+āe	200	INT	[pred="āe_____1",cat=INT]	āe_____1	Default		%default	inv
+āean	200	INT	[pred="āean_____1",cat=INT]	āean_____1	Default		%default	inv
+āeay	200	INT	[pred="āeay_____1",cat=INT]	āeay_____1	Default		%default	inv
+āeay	200	INTexcl	[pred="āeay_____2",cat=INTexcl]	āeay_____2	Default		%default	inv
+āmyn ya rb al'almyn	100	INTs	[pred="āmyn ya rb al'almyn_____1",cat=INTs]	āmyn ya rb al'almyn_____1	Default		%default	inv
+āre	200	INTs	[pred="āre_____1",cat=INTs]	āre_____1	Default		%default	inv
+āry	200	INTs	[pred="āry_____1",cat=INTs]	āry_____1	Default		%default	inv
+āwe	100	INT	[pred="āwe_____1",cat=INT]	āwe_____1	Default		%default	inv
+āx	200	INT	[pred="āx_____1",cat=INT]	āx_____1	Default		%default	inv
+āy	200	INT	[pred="āy_____1",cat=INT]	āy_____1	Default		%default	inv
+āy	200	INTexcl	[pred="āy_____2",cat=INTexcl]	āy_____2	Default		%default	inv
+āŕa	200	INTexcl	[pred="āŕa_____1",cat=INTexcl]	āŕa_____1	Default		%default	inv
+ħafẓa	100	INTexcl	[pred="ħafẓa_____1",cat=INTexcl]	ħafẓa_____1	Default		%default	inv
+ħaš lle	100	INT	[pred="ħaš lle_____1",cat=INT]	ħaš lle_____1	Default		%default	inv
+ħyf	200	INT	[pred="ħyf_____1",cat=INT]	ħyf_____1	Default		%default	inv
+şbħ bxyr	100	INTs	[pred="şbħ bxyr_____1",cat=INTs]	şbħ bxyr_____1	Default		%default	inv
+şdāfryn	100	INTs	[pred="şdāfryn_____1",cat=INTs]	şdāfryn_____1	Default		%default	inv
 šb bxyr	100	INTs	[pred="šb bxyr_____1",cat=INTs]	šb bxyr_____1	Default		%default	inv
 šenšaea	100	INTexcl	[pred="šenšaea_____1",cat=INTexcl]	šenšaea_____1	Default		%default	inv
 šeryara	100	INTexcl	[pred="šeryara_____1",cat=INTexcl]	šeryara_____1	Default		%default	inv

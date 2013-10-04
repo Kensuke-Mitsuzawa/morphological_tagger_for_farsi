@@ -48,14 +48,14 @@ alsalwadwrt	100	PN	[pred="alsalwadwr_____1",cat=PN,@SingPers2s]	alsalwadwr_____1
 alsalwadwrtan	100	PN	[pred="alsalwadwr_____1",cat=PN,@SingPers2p]	alsalwadwr_____1	Default	SingPers2p	%default	N2:c
 alsalwadwrš	100	PN	[pred="alsalwadwr_____1",cat=PN,@SingPers3s]	alsalwadwr_____1	Default	SingPers3s	%default	N2:c
 alsalwadwršan	100	PN	[pred="alsalwadwr_____1",cat=PN,@SingPers3p]	alsalwadwr_____1	Default	SingPers3p	%default	N2:c
-amarat mtłde 'rby	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@Sing]	amarat mtłde 'rby_____1	Default	Sing	%default	N2:v
-amarat mtłde 'rby_am	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@SingPers1s]	amarat mtłde 'rby_____1	Default	SingPers1s	%default	N2:v
-amarat mtłde 'rby_at	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@SingPers2s]	amarat mtłde 'rby_____1	Default	SingPers2s	%default	N2:v
-amarat mtłde 'rby_aš	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@SingPers3s]	amarat mtłde 'rby_____1	Default	SingPers3s	%default	N2:v
-amarat mtłde 'rby_y	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@SingEzafe]	amarat mtłde 'rby_____1	Default	SingEzafe	%default	N2:v
-amarat mtłde 'rbyman	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@SingPers1p]	amarat mtłde 'rby_____1	Default	SingPers1p	%default	N2:v
-amarat mtłde 'rbytan	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@SingPers2p]	amarat mtłde 'rby_____1	Default	SingPers2p	%default	N2:v
-amarat mtłde 'rbyšan	100	PN	[pred="amarat mtłde 'rby_____1",cat=PN,@SingPers3p]	amarat mtłde 'rby_____1	Default	SingPers3p	%default	N2:v
+amarat mtħde 'rby	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@Sing]	amarat mtħde 'rby_____1	Default	Sing	%default	N2:v
+amarat mtħde 'rby_am	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@SingPers1s]	amarat mtħde 'rby_____1	Default	SingPers1s	%default	N2:v
+amarat mtħde 'rby_at	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@SingPers2s]	amarat mtħde 'rby_____1	Default	SingPers2s	%default	N2:v
+amarat mtħde 'rby_aš	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@SingPers3s]	amarat mtħde 'rby_____1	Default	SingPers3s	%default	N2:v
+amarat mtħde 'rby_y	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@SingEzafe]	amarat mtħde 'rby_____1	Default	SingEzafe	%default	N2:v
+amarat mtħde 'rbyman	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@SingPers1p]	amarat mtħde 'rby_____1	Default	SingPers1p	%default	N2:v
+amarat mtħde 'rbytan	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@SingPers2p]	amarat mtħde 'rby_____1	Default	SingPers2p	%default	N2:v
+amarat mtħde 'rbyšan	100	PN	[pred="amarat mtħde 'rby_____1",cat=PN,@SingPers3p]	amarat mtħde 'rby_____1	Default	SingPers3p	%default	N2:v
 andwnzy	100	PN	[pred="andwnzy_____1",cat=PN,@Sing]	andwnzy_____1	Default	Sing	%default	N2:v
 andwnzy_am	100	PN	[pred="andwnzy_____1",cat=PN,@SingPers1s]	andwnzy_____1	Default	SingPers1s	%default	N2:v
 andwnzy_at	100	PN	[pred="andwnzy_____1",cat=PN,@SingPers2s]	andwnzy_____1	Default	SingPers2s	%default	N2:v
@@ -164,14 +164,14 @@ awkraynt	100	PN	[pred="awkrayn_____1",cat=PN,@SingPers2s]	awkrayn_____1	Default	
 awkrayntan	100	PN	[pred="awkrayn_____1",cat=PN,@SingPers2p]	awkrayn_____1	Default	SingPers2p	%default	N2:c
 awkraynš	100	PN	[pred="awkrayn_____1",cat=PN,@SingPers3s]	awkrayn_____1	Default	SingPers3s	%default	N2:c
 awkraynšan	100	PN	[pred="awkrayn_____1",cat=PN,@SingPers3p]	awkrayn_____1	Default	SingPers3p	%default	N2:c
-ayalat mtłde âmryka	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@Sing]	ayalat mtłde âmryka_____1	Default	Sing	%default	N2:v
-ayalat mtłde âmrykay	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@SingEzafe]	ayalat mtłde âmryka_____1	Default	SingEzafe	%default	N2:v
-ayalat mtłde âmrykaym	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@SingPers1s]	ayalat mtłde âmryka_____1	Default	SingPers1s	%default	N2:v
-ayalat mtłde âmrykayman	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@SingPers1p]	ayalat mtłde âmryka_____1	Default	SingPers1p	%default	N2:v
-ayalat mtłde âmrykayt	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@SingPers2s]	ayalat mtłde âmryka_____1	Default	SingPers2s	%default	N2:v
-ayalat mtłde âmrykaytan	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@SingPers2p]	ayalat mtłde âmryka_____1	Default	SingPers2p	%default	N2:v
-ayalat mtłde âmrykayš	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@SingPers3s]	ayalat mtłde âmryka_____1	Default	SingPers3s	%default	N2:v
-ayalat mtłde âmrykayšan	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN,@SingPers3p]	ayalat mtłde âmryka_____1	Default	SingPers3p	%default	N2:v
+ayalat mtħde āmryka	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@Sing]	ayalat mtħde āmryka_____1	Default	Sing	%default	N2:v
+ayalat mtħde āmrykay	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@SingEzafe]	ayalat mtħde āmryka_____1	Default	SingEzafe	%default	N2:v
+ayalat mtħde āmrykaym	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@SingPers1s]	ayalat mtħde āmryka_____1	Default	SingPers1s	%default	N2:v
+ayalat mtħde āmrykayman	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@SingPers1p]	ayalat mtħde āmryka_____1	Default	SingPers1p	%default	N2:v
+ayalat mtħde āmrykayt	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@SingPers2s]	ayalat mtħde āmryka_____1	Default	SingPers2s	%default	N2:v
+ayalat mtħde āmrykaytan	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@SingPers2p]	ayalat mtħde āmryka_____1	Default	SingPers2p	%default	N2:v
+ayalat mtħde āmrykayš	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@SingPers3s]	ayalat mtħde āmryka_____1	Default	SingPers3s	%default	N2:v
+ayalat mtħde āmrykayšan	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN,@SingPers3p]	ayalat mtħde āmryka_____1	Default	SingPers3p	%default	N2:v
 ayran	100	PN	[pred="ayran_____1",cat=PN,@Sing]	ayran_____1	Default	Sing	%default	N2:c
 ayranm	100	PN	[pred="ayran_____1",cat=PN,@SingPers1s]	ayran_____1	Default	SingPers1s	%default	N2:c
 ayranman	100	PN	[pred="ayran_____1",cat=PN,@SingPers1p]	ayran_____1	Default	SingPers1p	%default	N2:c
@@ -334,13 +334,13 @@ bwtswanayt	100	PN	[pred="bwtswana_____1",cat=PN,@SingPers2s]	bwtswana_____1	Defa
 bwtswanaytan	100	PN	[pred="bwtswana_____1",cat=PN,@SingPers2p]	bwtswana_____1	Default	SingPers2p	%default	N2:v
 bwtswanayš	100	PN	[pred="bwtswana_____1",cat=PN,@SingPers3s]	bwtswana_____1	Default	SingPers3s	%default	N2:v
 bwtswanayšan	100	PN	[pred="bwtswana_____1",cat=PN,@SingPers3p]	bwtswana_____1	Default	SingPers3p	%default	N2:v
-błryn	100	PN	[pred="błryn_____1",cat=PN,@Sing]	błryn_____1	Default	Sing	%default	N2:c
-błrynm	100	PN	[pred="błryn_____1",cat=PN,@SingPers1s]	błryn_____1	Default	SingPers1s	%default	N2:c
-błrynman	100	PN	[pred="błryn_____1",cat=PN,@SingPers1p]	błryn_____1	Default	SingPers1p	%default	N2:c
-błrynt	100	PN	[pred="błryn_____1",cat=PN,@SingPers2s]	błryn_____1	Default	SingPers2s	%default	N2:c
-błryntan	100	PN	[pred="błryn_____1",cat=PN,@SingPers2p]	błryn_____1	Default	SingPers2p	%default	N2:c
-błrynš	100	PN	[pred="błryn_____1",cat=PN,@SingPers3s]	błryn_____1	Default	SingPers3s	%default	N2:c
-błrynšan	100	PN	[pred="błryn_____1",cat=PN,@SingPers3p]	błryn_____1	Default	SingPers3p	%default	N2:c
+bħryn	100	PN	[pred="bħryn_____1",cat=PN,@Sing]	bħryn_____1	Default	Sing	%default	N2:c
+bħrynm	100	PN	[pred="bħryn_____1",cat=PN,@SingPers1s]	bħryn_____1	Default	SingPers1s	%default	N2:c
+bħrynman	100	PN	[pred="bħryn_____1",cat=PN,@SingPers1p]	bħryn_____1	Default	SingPers1p	%default	N2:c
+bħrynt	100	PN	[pred="bħryn_____1",cat=PN,@SingPers2s]	bħryn_____1	Default	SingPers2s	%default	N2:c
+bħryntan	100	PN	[pred="bħryn_____1",cat=PN,@SingPers2p]	bħryn_____1	Default	SingPers2p	%default	N2:c
+bħrynš	100	PN	[pred="bħryn_____1",cat=PN,@SingPers3s]	bħryn_____1	Default	SingPers3s	%default	N2:c
+bħrynšan	100	PN	[pred="bħryn_____1",cat=PN,@SingPers3p]	bħryn_____1	Default	SingPers3p	%default	N2:c
 danmark	100	PN	[pred="danmark_____1",cat=PN,@Sing]	danmark_____1	Default	Sing	%default	N2:c
 danmarkm	100	PN	[pred="danmark_____1",cat=PN,@SingPers1s]	danmark_____1	Default	SingPers1s	%default	N2:c
 danmarkman	100	PN	[pred="danmark_____1",cat=PN,@SingPers1p]	danmark_____1	Default	SingPers1p	%default	N2:c
@@ -474,14 +474,14 @@ gwyant	100	PN	[pred="gwyan_____1",cat=PN,@SingPers2s]	gwyan_____1	Default	SingPe
 gwyantan	100	PN	[pred="gwyan_____1",cat=PN,@SingPers2p]	gwyan_____1	Default	SingPers2p	%default	N2:c
 gwyanš	100	PN	[pred="gwyan_____1",cat=PN,@SingPers3s]	gwyan_____1	Default	SingPers3s	%default	N2:c
 gwyanšan	100	PN	[pred="gwyan_____1",cat=PN,@SingPers3p]	gwyan_____1	Default	SingPers3p	%default	N2:c
-gwâtmala	100	PN	[pred="gwâtmala_____1",cat=PN,@Sing]	gwâtmala_____1	Default	Sing	%default	N2:v
-gwâtmalay	100	PN	[pred="gwâtmala_____1",cat=PN,@SingEzafe]	gwâtmala_____1	Default	SingEzafe	%default	N2:v
-gwâtmalaym	100	PN	[pred="gwâtmala_____1",cat=PN,@SingPers1s]	gwâtmala_____1	Default	SingPers1s	%default	N2:v
-gwâtmalayman	100	PN	[pred="gwâtmala_____1",cat=PN,@SingPers1p]	gwâtmala_____1	Default	SingPers1p	%default	N2:v
-gwâtmalayt	100	PN	[pred="gwâtmala_____1",cat=PN,@SingPers2s]	gwâtmala_____1	Default	SingPers2s	%default	N2:v
-gwâtmalaytan	100	PN	[pred="gwâtmala_____1",cat=PN,@SingPers2p]	gwâtmala_____1	Default	SingPers2p	%default	N2:v
-gwâtmalayš	100	PN	[pred="gwâtmala_____1",cat=PN,@SingPers3s]	gwâtmala_____1	Default	SingPers3s	%default	N2:v
-gwâtmalayšan	100	PN	[pred="gwâtmala_____1",cat=PN,@SingPers3p]	gwâtmala_____1	Default	SingPers3p	%default	N2:v
+gwātmala	100	PN	[pred="gwātmala_____1",cat=PN,@Sing]	gwātmala_____1	Default	Sing	%default	N2:v
+gwātmalay	100	PN	[pred="gwātmala_____1",cat=PN,@SingEzafe]	gwātmala_____1	Default	SingEzafe	%default	N2:v
+gwātmalaym	100	PN	[pred="gwātmala_____1",cat=PN,@SingPers1s]	gwātmala_____1	Default	SingPers1s	%default	N2:v
+gwātmalayman	100	PN	[pred="gwātmala_____1",cat=PN,@SingPers1p]	gwātmala_____1	Default	SingPers1p	%default	N2:v
+gwātmalayt	100	PN	[pred="gwātmala_____1",cat=PN,@SingPers2s]	gwātmala_____1	Default	SingPers2s	%default	N2:v
+gwātmalaytan	100	PN	[pred="gwātmala_____1",cat=PN,@SingPers2p]	gwātmala_____1	Default	SingPers2p	%default	N2:v
+gwātmalayš	100	PN	[pred="gwātmala_____1",cat=PN,@SingPers3s]	gwātmala_____1	Default	SingPers3s	%default	N2:v
+gwātmalayšan	100	PN	[pred="gwātmala_____1",cat=PN,@SingPers3p]	gwātmala_____1	Default	SingPers3p	%default	N2:v
 gyne	100	PN	[pred="gyne_____1",cat=PN,@Sing]	gyne_____1	Default	Sing	%default	N2:v
 gyne astwayy	100	PN	[pred="gyne astwayy_____1",cat=PN,@Sing]	gyne astwayy_____1	Default	Sing	%default	N2:v
 gyne astwayy_am	100	PN	[pred="gyne astwayy_____1",cat=PN,@SingPers1s]	gyne astwayy_____1	Default	SingPers1s	%default	N2:v
@@ -535,13 +535,13 @@ jmewry xlŕ čynt	100	PN	[pred="jmewry xlŕ čyn_____1",cat=PN,@SingPers2s]	jmew
 jmewry xlŕ čyntan	100	PN	[pred="jmewry xlŕ čyn_____1",cat=PN,@SingPers2p]	jmewry xlŕ čyn_____1	Default	SingPers2p	%default	N2:c
 jmewry xlŕ čynš	100	PN	[pred="jmewry xlŕ čyn_____1",cat=PN,@SingPers3s]	jmewry xlŕ čyn_____1	Default	SingPers3s	%default	N2:c
 jmewry xlŕ čynšan	100	PN	[pred="jmewry xlŕ čyn_____1",cat=PN,@SingPers3p]	jmewry xlŕ čyn_____1	Default	SingPers3p	%default	N2:c
-jmewry âđrbayjan	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN,@Sing]	jmewry âđrbayjan_____1	Default	Sing	%default	N2:c
-jmewry âđrbayjanm	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN,@SingPers1s]	jmewry âđrbayjan_____1	Default	SingPers1s	%default	N2:c
-jmewry âđrbayjanman	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN,@SingPers1p]	jmewry âđrbayjan_____1	Default	SingPers1p	%default	N2:c
-jmewry âđrbayjant	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN,@SingPers2s]	jmewry âđrbayjan_____1	Default	SingPers2s	%default	N2:c
-jmewry âđrbayjantan	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN,@SingPers2p]	jmewry âđrbayjan_____1	Default	SingPers2p	%default	N2:c
-jmewry âđrbayjanš	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN,@SingPers3s]	jmewry âđrbayjan_____1	Default	SingPers3s	%default	N2:c
-jmewry âđrbayjanšan	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN,@SingPers3p]	jmewry âđrbayjan_____1	Default	SingPers3p	%default	N2:c
+jmewry āđrbayjan	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN,@Sing]	jmewry āđrbayjan_____1	Default	Sing	%default	N2:c
+jmewry āđrbayjanm	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN,@SingPers1s]	jmewry āđrbayjan_____1	Default	SingPers1s	%default	N2:c
+jmewry āđrbayjanman	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN,@SingPers1p]	jmewry āđrbayjan_____1	Default	SingPers1p	%default	N2:c
+jmewry āđrbayjant	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN,@SingPers2s]	jmewry āđrbayjan_____1	Default	SingPers2s	%default	N2:c
+jmewry āđrbayjantan	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN,@SingPers2p]	jmewry āđrbayjan_____1	Default	SingPers2p	%default	N2:c
+jmewry āđrbayjanš	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN,@SingPers3s]	jmewry āđrbayjan_____1	Default	SingPers3s	%default	N2:c
+jmewry āđrbayjanšan	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN,@SingPers3p]	jmewry āđrbayjan_____1	Default	SingPers3p	%default	N2:c
 jmewry čk	100	PN	[pred="jmewry čk_____1",cat=PN,@Sing]	jmewry čk_____1	Default	Sing	%default	N2:c
 jmewry čkm	100	PN	[pred="jmewry čk_____1",cat=PN,@SingPers1s]	jmewry čk_____1	Default	SingPers1s	%default	N2:c
 jmewry čkman	100	PN	[pred="jmewry čk_____1",cat=PN,@SingPers1p]	jmewry čk_____1	Default	SingPers1p	%default	N2:c
@@ -948,13 +948,13 @@ nyjryetan	100	PN	[pred="nyjrye_____1",cat=PN,@SingPers2p]	nyjrye_____1	Default	S
 nyjryešan	100	PN	[pred="nyjrye_____1",cat=PN,@SingPers3p]	nyjrye_____1	Default	SingPers3p	%default	N2:v
 nyjrš	100	PN	[pred="nyjr_____1",cat=PN,@SingPers3s]	nyjr_____1	Default	SingPers3s	%default	N2:c
 nyjršan	100	PN	[pred="nyjr_____1",cat=PN,@SingPers3p]	nyjr_____1	Default	SingPers3p	%default	N2:c
-nykaragwâ	100	PN	[pred="nykaragwâ_____1",cat=PN,@Sing]	nykaragwâ_____1	Default	Sing	%default	N2:c
-nykaragwâm	100	PN	[pred="nykaragwâ_____1",cat=PN,@SingPers1s]	nykaragwâ_____1	Default	SingPers1s	%default	N2:c
-nykaragwâman	100	PN	[pred="nykaragwâ_____1",cat=PN,@SingPers1p]	nykaragwâ_____1	Default	SingPers1p	%default	N2:c
-nykaragwât	100	PN	[pred="nykaragwâ_____1",cat=PN,@SingPers2s]	nykaragwâ_____1	Default	SingPers2s	%default	N2:c
-nykaragwâtan	100	PN	[pred="nykaragwâ_____1",cat=PN,@SingPers2p]	nykaragwâ_____1	Default	SingPers2p	%default	N2:c
-nykaragwâš	100	PN	[pred="nykaragwâ_____1",cat=PN,@SingPers3s]	nykaragwâ_____1	Default	SingPers3s	%default	N2:c
-nykaragwâšan	100	PN	[pred="nykaragwâ_____1",cat=PN,@SingPers3p]	nykaragwâ_____1	Default	SingPers3p	%default	N2:c
+nykaragwā	100	PN	[pred="nykaragwā_____1",cat=PN,@Sing]	nykaragwā_____1	Default	Sing	%default	N2:c
+nykaragwām	100	PN	[pred="nykaragwā_____1",cat=PN,@SingPers1s]	nykaragwā_____1	Default	SingPers1s	%default	N2:c
+nykaragwāman	100	PN	[pred="nykaragwā_____1",cat=PN,@SingPers1p]	nykaragwā_____1	Default	SingPers1p	%default	N2:c
+nykaragwāt	100	PN	[pred="nykaragwā_____1",cat=PN,@SingPers2s]	nykaragwā_____1	Default	SingPers2s	%default	N2:c
+nykaragwātan	100	PN	[pred="nykaragwā_____1",cat=PN,@SingPers2p]	nykaragwā_____1	Default	SingPers2p	%default	N2:c
+nykaragwāš	100	PN	[pred="nykaragwā_____1",cat=PN,@SingPers3s]	nykaragwā_____1	Default	SingPers3s	%default	N2:c
+nykaragwāšan	100	PN	[pred="nykaragwā_____1",cat=PN,@SingPers3p]	nykaragwā_____1	Default	SingPers3p	%default	N2:c
 pakstan	100	PN	[pred="pakstan_____1",cat=PN,@Sing]	pakstan_____1	Default	Sing	%default	N2:c
 pakstanm	100	PN	[pred="pakstan_____1",cat=PN,@SingPers1s]	pakstan_____1	Default	SingPers1s	%default	N2:c
 pakstanman	100	PN	[pred="pakstan_____1",cat=PN,@SingPers1p]	pakstan_____1	Default	SingPers1p	%default	N2:c
@@ -1041,14 +1041,14 @@ rwsye_y	100	PN	[pred="rwsye_____1",cat=PN,@SingEzafe]	rwsye_____1	Default	SingEz
 rwsyeman	100	PN	[pred="rwsye_____1",cat=PN,@SingPers1p]	rwsye_____1	Default	SingPers1p	%default	N2:v
 rwsyetan	100	PN	[pred="rwsye_____1",cat=PN,@SingPers2p]	rwsye_____1	Default	SingPers2p	%default	N2:v
 rwsyešan	100	PN	[pred="rwsye_____1",cat=PN,@SingPers3p]	rwsye_____1	Default	SingPers3p	%default	N2:v
-samwây qrby	100	PN	[pred="samwây qrby_____1",cat=PN,@Sing]	samwây qrby_____1	Default	Sing	%default	N2:v
-samwây qrby_am	100	PN	[pred="samwây qrby_____1",cat=PN,@SingPers1s]	samwây qrby_____1	Default	SingPers1s	%default	N2:v
-samwây qrby_at	100	PN	[pred="samwây qrby_____1",cat=PN,@SingPers2s]	samwây qrby_____1	Default	SingPers2s	%default	N2:v
-samwây qrby_aš	100	PN	[pred="samwây qrby_____1",cat=PN,@SingPers3s]	samwây qrby_____1	Default	SingPers3s	%default	N2:v
-samwây qrby_y	100	PN	[pred="samwây qrby_____1",cat=PN,@SingEzafe]	samwây qrby_____1	Default	SingEzafe	%default	N2:v
-samwây qrbyman	100	PN	[pred="samwây qrby_____1",cat=PN,@SingPers1p]	samwây qrby_____1	Default	SingPers1p	%default	N2:v
-samwây qrbytan	100	PN	[pred="samwây qrby_____1",cat=PN,@SingPers2p]	samwây qrby_____1	Default	SingPers2p	%default	N2:v
-samwây qrbyšan	100	PN	[pred="samwây qrby_____1",cat=PN,@SingPers3p]	samwây qrby_____1	Default	SingPers3p	%default	N2:v
+samwāy qrby	100	PN	[pred="samwāy qrby_____1",cat=PN,@Sing]	samwāy qrby_____1	Default	Sing	%default	N2:v
+samwāy qrby_am	100	PN	[pred="samwāy qrby_____1",cat=PN,@SingPers1s]	samwāy qrby_____1	Default	SingPers1s	%default	N2:v
+samwāy qrby_at	100	PN	[pred="samwāy qrby_____1",cat=PN,@SingPers2s]	samwāy qrby_____1	Default	SingPers2s	%default	N2:v
+samwāy qrby_aš	100	PN	[pred="samwāy qrby_____1",cat=PN,@SingPers3s]	samwāy qrby_____1	Default	SingPers3s	%default	N2:v
+samwāy qrby_y	100	PN	[pred="samwāy qrby_____1",cat=PN,@SingEzafe]	samwāy qrby_____1	Default	SingEzafe	%default	N2:v
+samwāy qrbyman	100	PN	[pred="samwāy qrby_____1",cat=PN,@SingPers1p]	samwāy qrby_____1	Default	SingPers1p	%default	N2:v
+samwāy qrbytan	100	PN	[pred="samwāy qrby_____1",cat=PN,@SingPers2p]	samwāy qrby_____1	Default	SingPers2p	%default	N2:v
+samwāy qrbyšan	100	PN	[pred="samwāy qrby_____1",cat=PN,@SingPers3p]	samwāy qrby_____1	Default	SingPers3p	%default	N2:v
 san marynw	100	PN	[pred="san marynw_____1",cat=PN,@Sing]	san marynw_____1	Default	Sing	%default	N2:v
 san marynwy	100	PN	[pred="san marynw_____1",cat=PN,@SingEzafe]	san marynw_____1	Default	SingEzafe	%default	N2:v
 san marynwym	100	PN	[pred="san marynw_____1",cat=PN,@SingPers1s]	san marynw_____1	Default	SingPers1s	%default	N2:v
@@ -1064,13 +1064,13 @@ sa´wtwme w prnsypt	100	PN	[pred="sa´wtwme w prnsyp_____1",cat=PN,@SingPers2s]	
 sa´wtwme w prnsyptan	100	PN	[pred="sa´wtwme w prnsyp_____1",cat=PN,@SingPers2p]	sa´wtwme w prnsyp_____1	Default	SingPers2p	%default	N2:c
 sa´wtwme w prnsypš	100	PN	[pred="sa´wtwme w prnsyp_____1",cat=PN,@SingPers3s]	sa´wtwme w prnsyp_____1	Default	SingPers3s	%default	N2:c
 sa´wtwme w prnsypšan	100	PN	[pred="sa´wtwme w prnsyp_____1",cat=PN,@SingPers3p]	sa´wtwme w prnsyp_____1	Default	SingPers3p	%default	N2:c
-sałl 'aj	100	PN	[pred="sałl 'aj_____1",cat=PN,@Sing]	sałl 'aj_____1	Default	Sing	%default	N2:c
-sałl 'ajm	100	PN	[pred="sałl 'aj_____1",cat=PN,@SingPers1s]	sałl 'aj_____1	Default	SingPers1s	%default	N2:c
-sałl 'ajman	100	PN	[pred="sałl 'aj_____1",cat=PN,@SingPers1p]	sałl 'aj_____1	Default	SingPers1p	%default	N2:c
-sałl 'ajt	100	PN	[pred="sałl 'aj_____1",cat=PN,@SingPers2s]	sałl 'aj_____1	Default	SingPers2s	%default	N2:c
-sałl 'ajtan	100	PN	[pred="sałl 'aj_____1",cat=PN,@SingPers2p]	sałl 'aj_____1	Default	SingPers2p	%default	N2:c
-sałl 'ajš	100	PN	[pred="sałl 'aj_____1",cat=PN,@SingPers3s]	sałl 'aj_____1	Default	SingPers3s	%default	N2:c
-sałl 'ajšan	100	PN	[pred="sałl 'aj_____1",cat=PN,@SingPers3p]	sałl 'aj_____1	Default	SingPers3p	%default	N2:c
+saħl 'aj	100	PN	[pred="saħl 'aj_____1",cat=PN,@Sing]	saħl 'aj_____1	Default	Sing	%default	N2:c
+saħl 'ajm	100	PN	[pred="saħl 'aj_____1",cat=PN,@SingPers1s]	saħl 'aj_____1	Default	SingPers1s	%default	N2:c
+saħl 'ajman	100	PN	[pred="saħl 'aj_____1",cat=PN,@SingPers1p]	saħl 'aj_____1	Default	SingPers1p	%default	N2:c
+saħl 'ajt	100	PN	[pred="saħl 'aj_____1",cat=PN,@SingPers2s]	saħl 'aj_____1	Default	SingPers2s	%default	N2:c
+saħl 'ajtan	100	PN	[pred="saħl 'aj_____1",cat=PN,@SingPers2p]	saħl 'aj_____1	Default	SingPers2p	%default	N2:c
+saħl 'ajš	100	PN	[pred="saħl 'aj_____1",cat=PN,@SingPers3s]	saħl 'aj_____1	Default	SingPers3s	%default	N2:c
+saħl 'ajšan	100	PN	[pred="saħl 'aj_____1",cat=PN,@SingPers3p]	saħl 'aj_____1	Default	SingPers3p	%default	N2:c
 sngal	100	PN	[pred="sngal_____1",cat=PN,@Sing]	sngal_____1	Default	Sing	%default	N2:c
 sngalm	100	PN	[pred="sngal_____1",cat=PN,@SingPers1s]	sngal_____1	Default	SingPers1s	%default	N2:c
 sngalman	100	PN	[pred="sngal_____1",cat=PN,@SingPers1p]	sngal_____1	Default	SingPers1p	%default	N2:c
@@ -1325,70 +1325,70 @@ zymbabweman	100	PN	[pred="zymbabwe_____1",cat=PN,@SingPers1p]	zymbabwe_____1	Def
 zymbabwetan	100	PN	[pred="zymbabwe_____1",cat=PN,@SingPers2p]	zymbabwe_____1	Default	SingPers2p	%default	N2:v
 zymbabwešan	100	PN	[pred="zymbabwe_____1",cat=PN,@SingPers3p]	zymbabwe_____1	Default	SingPers3p	%default	N2:v
 z´yr	100	PN	[pred="jmewry xlŕ kngw_____1",cat=PN]	jmewry xlŕ kngw_____1	Default		%default	N2:c
-âfryŕay jnwby	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@Sing]	âfryŕay jnwby_____1	Default	Sing	%default	N2:v
-âfryŕay jnwby_am	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@SingPers1s]	âfryŕay jnwby_____1	Default	SingPers1s	%default	N2:v
-âfryŕay jnwby_at	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@SingPers2s]	âfryŕay jnwby_____1	Default	SingPers2s	%default	N2:v
-âfryŕay jnwby_aš	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@SingPers3s]	âfryŕay jnwby_____1	Default	SingPers3s	%default	N2:v
-âfryŕay jnwby_y	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@SingEzafe]	âfryŕay jnwby_____1	Default	SingEzafe	%default	N2:v
-âfryŕay jnwbyman	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@SingPers1p]	âfryŕay jnwby_____1	Default	SingPers1p	%default	N2:v
-âfryŕay jnwbytan	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@SingPers2p]	âfryŕay jnwby_____1	Default	SingPers2p	%default	N2:v
-âfryŕay jnwbyšan	100	PN	[pred="âfryŕay jnwby_____1",cat=PN,@SingPers3p]	âfryŕay jnwby_____1	Default	SingPers3p	%default	N2:v
-âfryŕay mrkzy	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@Sing]	âfryŕay mrkzy_____1	Default	Sing	%default	N2:v
-âfryŕay mrkzy_am	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@SingPers1s]	âfryŕay mrkzy_____1	Default	SingPers1s	%default	N2:v
-âfryŕay mrkzy_at	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@SingPers2s]	âfryŕay mrkzy_____1	Default	SingPers2s	%default	N2:v
-âfryŕay mrkzy_aš	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@SingPers3s]	âfryŕay mrkzy_____1	Default	SingPers3s	%default	N2:v
-âfryŕay mrkzy_y	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@SingEzafe]	âfryŕay mrkzy_____1	Default	SingEzafe	%default	N2:v
-âfryŕay mrkzyman	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@SingPers1p]	âfryŕay mrkzy_____1	Default	SingPers1p	%default	N2:v
-âfryŕay mrkzytan	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@SingPers2p]	âfryŕay mrkzy_____1	Default	SingPers2p	%default	N2:v
-âfryŕay mrkzyšan	100	PN	[pred="âfryŕay mrkzy_____1",cat=PN,@SingPers3p]	âfryŕay mrkzy_____1	Default	SingPers3p	%default	N2:v
-âlbany	100	PN	[pred="âlbany_____1",cat=PN,@Sing]	âlbany_____1	Default	Sing	%default	N2:v
-âlbany_am	100	PN	[pred="âlbany_____1",cat=PN,@SingPers1s]	âlbany_____1	Default	SingPers1s	%default	N2:v
-âlbany_at	100	PN	[pred="âlbany_____1",cat=PN,@SingPers2s]	âlbany_____1	Default	SingPers2s	%default	N2:v
-âlbany_aš	100	PN	[pred="âlbany_____1",cat=PN,@SingPers3s]	âlbany_____1	Default	SingPers3s	%default	N2:v
-âlbany_y	100	PN	[pred="âlbany_____1",cat=PN,@SingEzafe]	âlbany_____1	Default	SingEzafe	%default	N2:v
-âlbanyman	100	PN	[pred="âlbany_____1",cat=PN,@SingPers1p]	âlbany_____1	Default	SingPers1p	%default	N2:v
-âlbanytan	100	PN	[pred="âlbany_____1",cat=PN,@SingPers2p]	âlbany_____1	Default	SingPers2p	%default	N2:v
-âlbanyšan	100	PN	[pred="âlbany_____1",cat=PN,@SingPers3p]	âlbany_____1	Default	SingPers3p	%default	N2:v
-âlman	100	PN	[pred="âlman_____1",cat=PN,@Sing]	âlman_____1	Default	Sing	%default	N2:c
-âlmanm	100	PN	[pred="âlman_____1",cat=PN,@SingPers1s]	âlman_____1	Default	SingPers1s	%default	N2:c
-âlmanman	100	PN	[pred="âlman_____1",cat=PN,@SingPers1p]	âlman_____1	Default	SingPers1p	%default	N2:c
-âlmant	100	PN	[pred="âlman_____1",cat=PN,@SingPers2s]	âlman_____1	Default	SingPers2s	%default	N2:c
-âlmantan	100	PN	[pred="âlman_____1",cat=PN,@SingPers2p]	âlman_____1	Default	SingPers2p	%default	N2:c
-âlmanš	100	PN	[pred="âlman_____1",cat=PN,@SingPers3s]	âlman_____1	Default	SingPers3s	%default	N2:c
-âlmanšan	100	PN	[pred="âlman_____1",cat=PN,@SingPers3p]	âlman_____1	Default	SingPers3p	%default	N2:c
-âmryka	100	PN	[pred="ayalat mtłde âmryka_____1",cat=PN]	ayalat mtłde âmryka_____1	Default		%default	N2:v
-ândwra	100	PN	[pred="ândwra_____1",cat=PN,@Sing]	ândwra_____1	Default	Sing	%default	N2:v
-ândwray	100	PN	[pred="ândwra_____1",cat=PN,@SingEzafe]	ândwra_____1	Default	SingEzafe	%default	N2:v
-ândwraym	100	PN	[pred="ândwra_____1",cat=PN,@SingPers1s]	ândwra_____1	Default	SingPers1s	%default	N2:v
-ândwrayman	100	PN	[pred="ândwra_____1",cat=PN,@SingPers1p]	ândwra_____1	Default	SingPers1p	%default	N2:v
-ândwrayt	100	PN	[pred="ândwra_____1",cat=PN,@SingPers2s]	ândwra_____1	Default	SingPers2s	%default	N2:v
-ândwraytan	100	PN	[pred="ândwra_____1",cat=PN,@SingPers2p]	ândwra_____1	Default	SingPers2p	%default	N2:v
-ândwrayš	100	PN	[pred="ândwra_____1",cat=PN,@SingPers3s]	ândwra_____1	Default	SingPers3s	%default	N2:v
-ândwrayšan	100	PN	[pred="ândwra_____1",cat=PN,@SingPers3p]	ândwra_____1	Default	SingPers3p	%default	N2:v
-ângwla	100	PN	[pred="ângwla_____1",cat=PN,@Sing]	ângwla_____1	Default	Sing	%default	N2:v
-ângwlay	100	PN	[pred="ângwla_____1",cat=PN,@SingEzafe]	ângwla_____1	Default	SingEzafe	%default	N2:v
-ângwlaym	100	PN	[pred="ângwla_____1",cat=PN,@SingPers1s]	ângwla_____1	Default	SingPers1s	%default	N2:v
-ângwlayman	100	PN	[pred="ângwla_____1",cat=PN,@SingPers1p]	ângwla_____1	Default	SingPers1p	%default	N2:v
-ângwlayt	100	PN	[pred="ângwla_____1",cat=PN,@SingPers2s]	ângwla_____1	Default	SingPers2s	%default	N2:v
-ângwlaytan	100	PN	[pred="ângwla_____1",cat=PN,@SingPers2p]	ângwla_____1	Default	SingPers2p	%default	N2:v
-ângwlayš	100	PN	[pred="ângwla_____1",cat=PN,@SingPers3s]	ângwla_____1	Default	SingPers3s	%default	N2:v
-ângwlayšan	100	PN	[pred="ângwla_____1",cat=PN,@SingPers3p]	ângwla_____1	Default	SingPers3p	%default	N2:v
-ântygwa w barbwda	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@Sing]	ântygwa w barbwda_____1	Default	Sing	%default	N2:v
-ântygwa w barbwday	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@SingEzafe]	ântygwa w barbwda_____1	Default	SingEzafe	%default	N2:v
-ântygwa w barbwdaym	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@SingPers1s]	ântygwa w barbwda_____1	Default	SingPers1s	%default	N2:v
-ântygwa w barbwdayman	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@SingPers1p]	ântygwa w barbwda_____1	Default	SingPers1p	%default	N2:v
-ântygwa w barbwdayt	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@SingPers2s]	ântygwa w barbwda_____1	Default	SingPers2s	%default	N2:v
-ântygwa w barbwdaytan	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@SingPers2p]	ântygwa w barbwda_____1	Default	SingPers2p	%default	N2:v
-ântygwa w barbwdayš	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@SingPers3s]	ântygwa w barbwda_____1	Default	SingPers3s	%default	N2:v
-ântygwa w barbwdayšan	100	PN	[pred="ântygwa w barbwda_____1",cat=PN,@SingPers3p]	ântygwa w barbwda_____1	Default	SingPers3p	%default	N2:v
-âržantyn	100	PN	[pred="âržantyn_____1",cat=PN,@Sing]	âržantyn_____1	Default	Sing	%default	N2:c
-âržantynm	100	PN	[pred="âržantyn_____1",cat=PN,@SingPers1s]	âržantyn_____1	Default	SingPers1s	%default	N2:c
-âržantynman	100	PN	[pred="âržantyn_____1",cat=PN,@SingPers1p]	âržantyn_____1	Default	SingPers1p	%default	N2:c
-âržantynt	100	PN	[pred="âržantyn_____1",cat=PN,@SingPers2s]	âržantyn_____1	Default	SingPers2s	%default	N2:c
-âržantyntan	100	PN	[pred="âržantyn_____1",cat=PN,@SingPers2p]	âržantyn_____1	Default	SingPers2p	%default	N2:c
-âržantynš	100	PN	[pred="âržantyn_____1",cat=PN,@SingPers3s]	âržantyn_____1	Default	SingPers3s	%default	N2:c
-âržantynšan	100	PN	[pred="âržantyn_____1",cat=PN,@SingPers3p]	âržantyn_____1	Default	SingPers3p	%default	N2:c
-âđrbayjan	100	PN	[pred="jmewry âđrbayjan_____1",cat=PN]	jmewry âđrbayjan_____1	Default		%default	N2:c
+āfryŕay jnwby	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@Sing]	āfryŕay jnwby_____1	Default	Sing	%default	N2:v
+āfryŕay jnwby_am	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@SingPers1s]	āfryŕay jnwby_____1	Default	SingPers1s	%default	N2:v
+āfryŕay jnwby_at	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@SingPers2s]	āfryŕay jnwby_____1	Default	SingPers2s	%default	N2:v
+āfryŕay jnwby_aš	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@SingPers3s]	āfryŕay jnwby_____1	Default	SingPers3s	%default	N2:v
+āfryŕay jnwby_y	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@SingEzafe]	āfryŕay jnwby_____1	Default	SingEzafe	%default	N2:v
+āfryŕay jnwbyman	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@SingPers1p]	āfryŕay jnwby_____1	Default	SingPers1p	%default	N2:v
+āfryŕay jnwbytan	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@SingPers2p]	āfryŕay jnwby_____1	Default	SingPers2p	%default	N2:v
+āfryŕay jnwbyšan	100	PN	[pred="āfryŕay jnwby_____1",cat=PN,@SingPers3p]	āfryŕay jnwby_____1	Default	SingPers3p	%default	N2:v
+āfryŕay mrkzy	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@Sing]	āfryŕay mrkzy_____1	Default	Sing	%default	N2:v
+āfryŕay mrkzy_am	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@SingPers1s]	āfryŕay mrkzy_____1	Default	SingPers1s	%default	N2:v
+āfryŕay mrkzy_at	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@SingPers2s]	āfryŕay mrkzy_____1	Default	SingPers2s	%default	N2:v
+āfryŕay mrkzy_aš	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@SingPers3s]	āfryŕay mrkzy_____1	Default	SingPers3s	%default	N2:v
+āfryŕay mrkzy_y	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@SingEzafe]	āfryŕay mrkzy_____1	Default	SingEzafe	%default	N2:v
+āfryŕay mrkzyman	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@SingPers1p]	āfryŕay mrkzy_____1	Default	SingPers1p	%default	N2:v
+āfryŕay mrkzytan	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@SingPers2p]	āfryŕay mrkzy_____1	Default	SingPers2p	%default	N2:v
+āfryŕay mrkzyšan	100	PN	[pred="āfryŕay mrkzy_____1",cat=PN,@SingPers3p]	āfryŕay mrkzy_____1	Default	SingPers3p	%default	N2:v
+ālbany	100	PN	[pred="ālbany_____1",cat=PN,@Sing]	ālbany_____1	Default	Sing	%default	N2:v
+ālbany_am	100	PN	[pred="ālbany_____1",cat=PN,@SingPers1s]	ālbany_____1	Default	SingPers1s	%default	N2:v
+ālbany_at	100	PN	[pred="ālbany_____1",cat=PN,@SingPers2s]	ālbany_____1	Default	SingPers2s	%default	N2:v
+ālbany_aš	100	PN	[pred="ālbany_____1",cat=PN,@SingPers3s]	ālbany_____1	Default	SingPers3s	%default	N2:v
+ālbany_y	100	PN	[pred="ālbany_____1",cat=PN,@SingEzafe]	ālbany_____1	Default	SingEzafe	%default	N2:v
+ālbanyman	100	PN	[pred="ālbany_____1",cat=PN,@SingPers1p]	ālbany_____1	Default	SingPers1p	%default	N2:v
+ālbanytan	100	PN	[pred="ālbany_____1",cat=PN,@SingPers2p]	ālbany_____1	Default	SingPers2p	%default	N2:v
+ālbanyšan	100	PN	[pred="ālbany_____1",cat=PN,@SingPers3p]	ālbany_____1	Default	SingPers3p	%default	N2:v
+ālman	100	PN	[pred="ālman_____1",cat=PN,@Sing]	ālman_____1	Default	Sing	%default	N2:c
+ālmanm	100	PN	[pred="ālman_____1",cat=PN,@SingPers1s]	ālman_____1	Default	SingPers1s	%default	N2:c
+ālmanman	100	PN	[pred="ālman_____1",cat=PN,@SingPers1p]	ālman_____1	Default	SingPers1p	%default	N2:c
+ālmant	100	PN	[pred="ālman_____1",cat=PN,@SingPers2s]	ālman_____1	Default	SingPers2s	%default	N2:c
+ālmantan	100	PN	[pred="ālman_____1",cat=PN,@SingPers2p]	ālman_____1	Default	SingPers2p	%default	N2:c
+ālmanš	100	PN	[pred="ālman_____1",cat=PN,@SingPers3s]	ālman_____1	Default	SingPers3s	%default	N2:c
+ālmanšan	100	PN	[pred="ālman_____1",cat=PN,@SingPers3p]	ālman_____1	Default	SingPers3p	%default	N2:c
+āmryka	100	PN	[pred="ayalat mtħde āmryka_____1",cat=PN]	ayalat mtħde āmryka_____1	Default		%default	N2:v
+āndwra	100	PN	[pred="āndwra_____1",cat=PN,@Sing]	āndwra_____1	Default	Sing	%default	N2:v
+āndwray	100	PN	[pred="āndwra_____1",cat=PN,@SingEzafe]	āndwra_____1	Default	SingEzafe	%default	N2:v
+āndwraym	100	PN	[pred="āndwra_____1",cat=PN,@SingPers1s]	āndwra_____1	Default	SingPers1s	%default	N2:v
+āndwrayman	100	PN	[pred="āndwra_____1",cat=PN,@SingPers1p]	āndwra_____1	Default	SingPers1p	%default	N2:v
+āndwrayt	100	PN	[pred="āndwra_____1",cat=PN,@SingPers2s]	āndwra_____1	Default	SingPers2s	%default	N2:v
+āndwraytan	100	PN	[pred="āndwra_____1",cat=PN,@SingPers2p]	āndwra_____1	Default	SingPers2p	%default	N2:v
+āndwrayš	100	PN	[pred="āndwra_____1",cat=PN,@SingPers3s]	āndwra_____1	Default	SingPers3s	%default	N2:v
+āndwrayšan	100	PN	[pred="āndwra_____1",cat=PN,@SingPers3p]	āndwra_____1	Default	SingPers3p	%default	N2:v
+āngwla	100	PN	[pred="āngwla_____1",cat=PN,@Sing]	āngwla_____1	Default	Sing	%default	N2:v
+āngwlay	100	PN	[pred="āngwla_____1",cat=PN,@SingEzafe]	āngwla_____1	Default	SingEzafe	%default	N2:v
+āngwlaym	100	PN	[pred="āngwla_____1",cat=PN,@SingPers1s]	āngwla_____1	Default	SingPers1s	%default	N2:v
+āngwlayman	100	PN	[pred="āngwla_____1",cat=PN,@SingPers1p]	āngwla_____1	Default	SingPers1p	%default	N2:v
+āngwlayt	100	PN	[pred="āngwla_____1",cat=PN,@SingPers2s]	āngwla_____1	Default	SingPers2s	%default	N2:v
+āngwlaytan	100	PN	[pred="āngwla_____1",cat=PN,@SingPers2p]	āngwla_____1	Default	SingPers2p	%default	N2:v
+āngwlayš	100	PN	[pred="āngwla_____1",cat=PN,@SingPers3s]	āngwla_____1	Default	SingPers3s	%default	N2:v
+āngwlayšan	100	PN	[pred="āngwla_____1",cat=PN,@SingPers3p]	āngwla_____1	Default	SingPers3p	%default	N2:v
+āntygwa w barbwda	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@Sing]	āntygwa w barbwda_____1	Default	Sing	%default	N2:v
+āntygwa w barbwday	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@SingEzafe]	āntygwa w barbwda_____1	Default	SingEzafe	%default	N2:v
+āntygwa w barbwdaym	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@SingPers1s]	āntygwa w barbwda_____1	Default	SingPers1s	%default	N2:v
+āntygwa w barbwdayman	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@SingPers1p]	āntygwa w barbwda_____1	Default	SingPers1p	%default	N2:v
+āntygwa w barbwdayt	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@SingPers2s]	āntygwa w barbwda_____1	Default	SingPers2s	%default	N2:v
+āntygwa w barbwdaytan	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@SingPers2p]	āntygwa w barbwda_____1	Default	SingPers2p	%default	N2:v
+āntygwa w barbwdayš	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@SingPers3s]	āntygwa w barbwda_____1	Default	SingPers3s	%default	N2:v
+āntygwa w barbwdayšan	100	PN	[pred="āntygwa w barbwda_____1",cat=PN,@SingPers3p]	āntygwa w barbwda_____1	Default	SingPers3p	%default	N2:v
+āržantyn	100	PN	[pred="āržantyn_____1",cat=PN,@Sing]	āržantyn_____1	Default	Sing	%default	N2:c
+āržantynm	100	PN	[pred="āržantyn_____1",cat=PN,@SingPers1s]	āržantyn_____1	Default	SingPers1s	%default	N2:c
+āržantynman	100	PN	[pred="āržantyn_____1",cat=PN,@SingPers1p]	āržantyn_____1	Default	SingPers1p	%default	N2:c
+āržantynt	100	PN	[pred="āržantyn_____1",cat=PN,@SingPers2s]	āržantyn_____1	Default	SingPers2s	%default	N2:c
+āržantyntan	100	PN	[pred="āržantyn_____1",cat=PN,@SingPers2p]	āržantyn_____1	Default	SingPers2p	%default	N2:c
+āržantynš	100	PN	[pred="āržantyn_____1",cat=PN,@SingPers3s]	āržantyn_____1	Default	SingPers3s	%default	N2:c
+āržantynšan	100	PN	[pred="āržantyn_____1",cat=PN,@SingPers3p]	āržantyn_____1	Default	SingPers3p	%default	N2:c
+āđrbayjan	100	PN	[pred="jmewry āđrbayjan_____1",cat=PN]	jmewry āđrbayjan_____1	Default		%default	N2:c
 čad	100	PN	[pred="čad_____1",cat=PN,@Sing]	čad_____1	Default	Sing	%default	N2:c
 čadm	100	PN	[pred="čad_____1",cat=PN,@SingPers1s]	čad_____1	Default	SingPers1s	%default	N2:c
 čadman	100	PN	[pred="čad_____1",cat=PN,@SingPers1p]	čad_____1	Default	SingPers1p	%default	N2:c

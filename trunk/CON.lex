@@ -3,28 +3,28 @@
 'lawe br ayn	100	ADV	[pred="'lawe br ayn_____1",cat=ADV]	'lawe br ayn_____1	Default		%default	inv
 'lawe br ayn ke	100	CONJsubord	[pred="'lawe br ayn ke_____1",cat=CONJsubord]	'lawe br ayn ke_____1	Default		%default	inv
 'lawe br aynke	100	ADV	[pred="'lawe br aynke_____1",cat=ADV]	'lawe br aynke_____1	Default		%default	inv
-'lawe br ân	100	ADV	[pred="'lawe br ân_____1",cat=ADV]	'lawe br ân_____1	Default		%default	inv
-'lawe br ân ke	100	CONJsubord	[pred="'lawe br ân ke_____1",cat=CONJsubord]	'lawe br ân ke_____1	Default		%default	inv
+'lawe br ān	100	ADV	[pred="'lawe br ān_____1",cat=ADV]	'lawe br ān_____1	Default		%default	inv
+'lawe br ān ke	100	CONJsubord	[pred="'lawe br ān ke_____1",cat=CONJsubord]	'lawe br ān ke_____1	Default		%default	inv
 'lawe brayn	100	ADV	[pred="'lawe brayn_____1",cat=ADV]	'lawe brayn_____1	Default		%default	inv
 'lawe braynke	110	ADV	[pred="'lawe braynke___MTE__1",cat=ADV]	'lawe braynke___MTE__1	Default		%default	inv
-'lawe brân	100	ADV	[pred="'lawe brân_____1",cat=ADV]	'lawe brân_____1	Default		%default	inv
-'lawe brân ke	100	CONJsubord	[pred="'lawe brân ke_____1",cat=CONJsubord]	'lawe brân ke_____1	Default		%default	inv
-'lawe brânke	100	ADV	[pred="'lawe brânke_____1",cat=ADV]	'lawe brânke_____1	Default		%default	inv
+'lawe brān	100	ADV	[pred="'lawe brān_____1",cat=ADV]	'lawe brān_____1	Default		%default	inv
+'lawe brān ke	100	CONJsubord	[pred="'lawe brān ke_____1",cat=CONJsubord]	'lawe brān ke_____1	Default		%default	inv
+'lawe brānke	100	ADV	[pred="'lawe brānke_____1",cat=ADV]	'lawe brānke_____1	Default		%default	inv
 'ly alxşwş	100	ADV	[pred="'ly alxşwş_____1",cat=ADV]	'ly alxşwş_____1	Default		%default	inv
-'ly ay łal	100	ADV	[pred="'ly ay łal_____1",cat=ADV]	'ly ay łal_____1	Default		%default	inv
+'ly ay ħal	100	ADV	[pred="'ly ay ħal_____1",cat=ADV]	'ly ay ħal_____1	Default		%default	inv
 'ly rqm	100	ADV	[pred="'ly rqm_____1",cat=ADV]	'ly rqm_____1	Default		%default	inv
 'ly rqm ayn ke	100	CONJsubord	[pred="'ly rqm ayn ke_____1",cat=CONJsubord]	'ly rqm ayn ke_____1	Default		%default	inv
-'ly rqm ân ke	100	CONJsubord	[pred="'ly rqm ân ke_____1",cat=CONJsubord]	'ly rqm ân ke_____1	Default		%default	inv
+'ly rqm ān ke	100	CONJsubord	[pred="'ly rqm ān ke_____1",cat=CONJsubord]	'ly rqm ān ke_____1	Default		%default	inv
 'lyeđa	300	ADV	[pred="'lyeđa_____1",cat=ADV]	'lyeđa_____1	Default		%default	inv
 'lyrqm	300	ADV	[pred="'lyrqm_____1",cat=ADV]	'lyrqm_____1	Default		%default	inv
-'lyrqm ân ke	100	CONJsubord	[pred="'lyrqm ân ke_____1",cat=CONJsubord]	'lyrqm ân ke_____1	Default		%default	inv
-'lyrqm ânke	100	ADV	[pred="'lyrqm ânke_____1",cat=ADV]	'lyrqm ânke_____1	Default		%default	inv
+'lyrqm ān ke	100	CONJsubord	[pred="'lyrqm ān ke_____1",cat=CONJsubord]	'lyrqm ān ke_____1	Default		%default	inv
+'lyrqm ānke	100	ADV	[pred="'lyrqm ānke_____1",cat=ADV]	'lyrqm ānke_____1	Default		%default	inv
 'mla	100	ADV	[pred="'mla_____1",cat=ADV]	'mla_____1	Default		%default	inv
 _i ke	100	ADVrel	[pred="_i ke_____1",cat=ADVrel]	_i ke_____1	Default		%default	inv
 a gr	100	ADVcond	[pred="a gr_____1",cat=ADVcond]	a gr_____1	Default		%default	inv
 abtda	300	ADV	[pred="abtda_____1",cat=ADV]	abtda_____1	Default		%default	inv
 afzwn br ayn	100	ADV	[pred="afzwn br ayn_____1",cat=ADV]	afzwn br ayn_____1	Default		%default	inv
-afzwn brân	100	ADV	[pred="afzwn brân_____1",cat=ADV]	afzwn brân_____1	Default		%default	inv
+afzwn brān	100	ADV	[pred="afzwn brān_____1",cat=ADV]	afzwn brān_____1	Default		%default	inv
 age	100	ADVcond	[pred="age_____1",cat=ADVcond]	age_____1	Default		%default	inv
 agr	300	ADVcond	[pred="agr_____1",cat=ADVcond]	agr_____1	Default		%default	inv
 agr ke	110	CONJsubord	[pred="agr ke_____1",cat=CONJsubord]	agr ke_____1	Default		%default	inv
@@ -49,7 +49,7 @@ az ayn myan	100	ADV	[pred="az ayn myan_____1",cat=ADV]	az ayn myan_____1	Default
 az ayn regđr	100	ADV	[pred="az ayn regđr_____1",cat=ADV]	az ayn regđr_____1	Default		%default	inv
 az ayn rwy	100	ADV	[pred="az ayn rwy_____1",cat=ADV]	az ayn rwy_____1	Default		%default	inv
 az aynea gđšte	100	ADV	[pred="az aynea gđšte_____1",cat=ADV]	az aynea gđšte_____1	Default		%default	inv
-az ber ân ke	100	CONJsubord	[pred="az ber ân ke_____1",cat=CONJsubord]	az ber ân ke_____1	Default		%default	inv
+az ber ān ke	100	CONJsubord	[pred="az ber ān ke_____1",cat=CONJsubord]	az ber ān ke_____1	Default		%default	inv
 az bs ke	100	CONJsubord	[pred="az bs ke_____1",cat=CONJsubord]	az bs ke_____1	Default		%default	inv
 az dygr swy	100	ADV	[pred="az dygr swy_____1",cat=ADV]	az dygr swy_____1	Default		%default	inv
 az emyn rw	100	ADV	[pred="az emyn rw_____1",cat=ADV]	az emyn rw_____1	Default		%default	inv
@@ -59,15 +59,15 @@ az sway	100	ADV	[pred="az sway_____1",cat=ADV]	az sway_____1	Default		%default	i
 az swyy	100	ADV	[pred="az swyy_____1",cat=ADV]	az swyy_____1	Default		%default	inv
 az yk sw	100	ADV	[pred="az yk sw_____1",cat=ADV]	az yk sw_____1	Default		%default	inv
 az yk ţrf	100	ADV	[pred="az yk ţrf_____1",cat=ADV]	az yk ţrf_____1	Default		%default	inv
-az ân gđšte	100	ADV	[pred="az ân gđšte_____1",cat=ADV]	az ân gđšte_____1	Default		%default	inv
-az ân jet ke	100	CONJsubord	[pred="az ân jet ke_____1",cat=CONJsubord]	az ân jet ke_____1	Default		%default	inv
-az ân jmle	100	ADV	[pred="az ân jmle_____1",cat=ADV]	az ân jmle_____1	Default		%default	inv
-az ân rw	100	ADV	[pred="az ân rw_____1",cat=ADV]	az ân rw_____1	Default		%default	inv
-az ân rw ke	100	CONJsubord	[pred="az ân rw ke_____1",cat=CONJsubord]	az ân rw ke_____1	Default		%default	inv
-az ân ŕbl	100	ADV	[pred="az ân ŕbl_____1",cat=ADV]	az ân ŕbl_____1	Default		%default	inv
-az ân ţrf	100	ADV	[pred="az ân ţrf_____1",cat=ADV]	az ân ţrf_____1	Default		%default	inv
-az ânjaay ke	100	CONJsubord	[pred="az ânjaay ke_____1",cat=CONJsubord]	az ânjaay ke_____1	Default		%default	inv
-az ânjaayke	100	CONJ	[pred="az ânjaayke_____1",cat=CONJ]	az ânjaayke_____1	Default		%default	inv
+az ān gđšte	100	ADV	[pred="az ān gđšte_____1",cat=ADV]	az ān gđšte_____1	Default		%default	inv
+az ān jet ke	100	CONJsubord	[pred="az ān jet ke_____1",cat=CONJsubord]	az ān jet ke_____1	Default		%default	inv
+az ān jmle	100	ADV	[pred="az ān jmle_____1",cat=ADV]	az ān jmle_____1	Default		%default	inv
+az ān rw	100	ADV	[pred="az ān rw_____1",cat=ADV]	az ān rw_____1	Default		%default	inv
+az ān rw ke	100	CONJsubord	[pred="az ān rw ke_____1",cat=CONJsubord]	az ān rw ke_____1	Default		%default	inv
+az ān ŕbl	100	ADV	[pred="az ān ŕbl_____1",cat=ADV]	az ān ŕbl_____1	Default		%default	inv
+az ān ţrf	100	ADV	[pred="az ān ţrf_____1",cat=ADV]	az ān ţrf_____1	Default		%default	inv
+az ānjaay ke	100	CONJsubord	[pred="az ānjaay ke_____1",cat=CONJsubord]	az ānjaay ke_____1	Default		%default	inv
+az ānjaayke	100	CONJ	[pred="az ānjaayke_____1",cat=CONJ]	az ānjaayke_____1	Default		%default	inv
 az ţrf dygr	100	ADV	[pred="az ţrf dygr_____1",cat=ADV]	az ţrf dygr_____1	Default		%default	inv
 az ţrfy	100	ADV	[pred="az ţrfy_____1",cat=ADV]	az ţrfy_____1	Default		%default	inv
 az ţrfy dygr	100	ADV	[pred="az ţrfy dygr_____1",cat=ADV]	az ţrfy dygr_____1	Default		%default	inv
@@ -78,20 +78,20 @@ azayn rw	100	CONJsubord	[pred="azayn rw_____1",cat=CONJsubord]	azayn rw_____1	De
 azbs ke	110	ADV	[pred="azbs ke___MTE__1",cat=ADV]	azbs ke___MTE__1	Default		%default	inv
 azswy dygr	100	ADVcoord	[pred="azswy dygr_____1",cat=ADVcoord]	azswy dygr_____1	Default		%default	inv
 azynke	100	CONJ	[pred="azynke_____1",cat=CONJ]	azynke_____1	Default		%default	inv
-azân jake	100	CONJ	[pred="azân jake_____1",cat=CONJ]	azân jake_____1	Default		%default	inv
-azân rw	100	ADV	[pred="azân rw_____1",cat=ADV]	azân rw_____1	Default		%default	inv
-azânjaayke	100	CONJ	[pred="azânjaayke_____1",cat=CONJ]	azânjaayke_____1	Default		%default	inv
-azânjake	200	CONJ	[pred="azânjake_____1",cat=CONJ]	azânjake_____1	Default		%default	inv
-azânjayy ke	100	CONJsubord	[pred="azânjayy ke_____1",cat=CONJsubord]	azânjayy ke_____1	Default		%default	inv
+azān jake	100	CONJ	[pred="azān jake_____1",cat=CONJ]	azān jake_____1	Default		%default	inv
+azān rw	100	ADV	[pred="azān rw_____1",cat=ADV]	azān rw_____1	Default		%default	inv
+azānjaayke	100	CONJ	[pred="azānjaayke_____1",cat=CONJ]	azānjaayke_____1	Default		%default	inv
+azānjake	200	CONJ	[pred="azānjake_____1",cat=CONJ]	azānjake_____1	Default		%default	inv
+azānjayy ke	100	CONJsubord	[pred="azānjayy ke_____1",cat=CONJsubord]	azānjayy ke_____1	Default		%default	inv
 azţrfy	100	ADV	[pred="azţrfy_____1",cat=ADV]	azţrfy_____1	Default		%default	inv
 b'bart dygr	100	ADVcoord	[pred="b'bart dygr_____1",cat=ADVcoord]	b'bart dygr_____1	Default		%default	inv
 b'barty dygr	100	ADVcoord	[pred="b'barty dygr_____1",cat=ADV]	b'barty dygr_____1	Default		%default	inv
 b'd	300	ADVcoord	[pred="b'd_____1",cat=ADVcoord]	b'd_____1	Default		%default	inv
 b'd az ayn ke	100	CONJsubord	[pred="b'd az ayn ke_____1",cat=CONJsubord]	b'd az ayn ke_____1	Default		%default	inv
 b'd az aynke	100	CONJ	[pred="b'd az aynke_____1",cat=CONJ]	b'd az aynke_____1	Default		%default	inv
-b'd az ân	100	ADV	[pred="b'd az ân_____1",cat=ADV]	b'd az ân_____1	Default		%default	inv
-b'd az ân ke	100	CONJsubord	[pred="b'd az ân ke_____1",cat=CONJsubord]	b'd az ân ke_____1	Default		%default	inv
-b'd az ânke	100	CONJ	[pred="b'd az ânke_____1",cat=CONJ]	b'd az ânke_____1	Default		%default	inv
+b'd az ān	100	ADV	[pred="b'd az ān_____1",cat=ADV]	b'd az ān_____1	Default		%default	inv
+b'd az ān ke	100	CONJsubord	[pred="b'd az ān ke_____1",cat=CONJsubord]	b'd az ān ke_____1	Default		%default	inv
+b'd az ānke	100	CONJ	[pred="b'd az ānke_____1",cat=CONJ]	b'd az ānke_____1	Default		%default	inv
 b'dea	300	ADV	[pred="b'dea_____1",cat=ADV]	b'dea_____1	Default		%default	inv
 b'ks	100	ADV	[pred="b'ks_____1",cat=ADV]	b'ks_____1	Default		%default	inv
 b'lawe	100	ADVcoord	[pred="b'lawe_____1",cat=ADVcoord]	b'lawe_____1	Default		%default	inv
@@ -103,15 +103,15 @@ ba ayneme	100	ADV	[pred="ba ayneme_____1",cat=ADV]	ba ayneme_____1	Default		%def
 ba aynke	100	CONJ	[pred="ba aynke_____1",cat=CONJ]	ba aynke_____1	Default		%default	inv
 ba twje be ayn ke	100	CONJsubord	[pred="ba twje be ayn ke_____1",cat=CONJsubord]	ba twje be ayn ke_____1	Default		%default	inv
 ba twje be aynke	100	CONJ	[pred="ba twje be aynke_____1",cat=CONJ]	ba twje be aynke_____1	Default		%default	inv
-ba twje be ânke	100	CONJ	[pred="ba twje be ânke_____1",cat=CONJ]	ba twje be ânke_____1	Default		%default	inv
+ba twje be ānke	100	CONJ	[pred="ba twje be ānke_____1",cat=CONJ]	ba twje be ānke_____1	Default		%default	inv
 ba wjwd ayn	100	ADV	[pred="ba wjwd ayn_____1",cat=ADV]	ba wjwd ayn_____1	Default		%default	inv
-ba wjwd ân ke	100	CONJsubord	[pred="ba wjwd ân ke_____1",cat=CONJsubord]	ba wjwd ân ke_____1	Default		%default	inv
-ba wjwd ânke	100	CONJ	[pred="ba wjwd ânke_____1",cat=CONJ]	ba wjwd ânke_____1	Default		%default	inv
+ba wjwd ān ke	100	CONJsubord	[pred="ba wjwd ān ke_____1",cat=CONJsubord]	ba wjwd ān ke_____1	Default		%default	inv
+ba wjwd ānke	100	CONJ	[pred="ba wjwd ānke_____1",cat=CONJ]	ba wjwd ānke_____1	Default		%default	inv
 ba wjwdy ke	100	CONJsubord	[pred="ba wjwdy ke_____1",cat=CONJsubord]	ba wjwdy ke_____1	Default		%default	inv
-ba ân ke	100	CONJsubord	[pred="ba ân ke_____1",cat=CONJsubord]	ba ân ke_____1	Default		%default	inv
-ba ânke	100	CONJ	[pred="ba ânke_____1",cat=CONJ]	ba ânke_____1	Default		%default	inv
+ba ān ke	100	CONJsubord	[pred="ba ān ke_____1",cat=CONJsubord]	ba ān ke_____1	Default		%default	inv
+ba ānke	100	CONJ	[pred="ba ānke_____1",cat=CONJ]	ba ānke_____1	Default		%default	inv
 baayn wjwd	100	ADV	[pred="baayn wjwd_____1",cat=ADV]	baayn wjwd_____1	Default		%default	inv
-baayn łal	100	ADV	[pred="baayn łal_____1",cat=ADV]	baayn łal_____1	Default		%default	inv
+baayn ħal	100	ADV	[pred="baayn ħal_____1",cat=ADV]	baayn ħal_____1	Default		%default	inv
 bal'ks	300	ADV	[pred="bal'ks_____1",cat=ADV]	bal'ks_____1	Default		%default	inv
 balaxre	300	ADV	[pred="balaxre_____1",cat=ADV]	balaxre_____1	Default		%default	inv
 balaxş	300	ADV	[pred="balaxş_____1",cat=ADV]	balaxş_____1	Default		%default	inv
@@ -122,7 +122,7 @@ bastçna°	100	ADV	[pred="bastçna°_____1",cat=ADV]	bastçna°_____1	Default		%
 bawjwdayn ke	100	CONJsubord	[pred="bawjwdayn ke_____1",cat=CONJsubord]	bawjwdayn ke_____1	Default		%default	inv
 bawjwdaynke	110	ADV	[pred="bawjwdaynke___MTE__1",cat=ADV]	bawjwdaynke___MTE__1	Default		%default	inv
 bawjwdy ke	100	CONJsubord	[pred="bawjwdy ke_____1",cat=CONJsubord]	bawjwdy ke_____1	Default		%default	inv
-bawjwdânke	110	ADV	[pred="bawjwdânke___MTE__1",cat=ADV]	bawjwdânke___MTE__1	Default		%default	inv
+bawjwdānke	110	ADV	[pred="bawjwdānke___MTE__1",cat=ADV]	bawjwdānke___MTE__1	Default		%default	inv
 bayn trtyb	100	ADV	[pred="bayn trtyb_____1",cat=ADV]	bayn trtyb_____1	Default		%default	inv
 baźafe	100	ADV	[pred="baźafe_____1",cat=ADV]	baźafe_____1	Default		%default	inv
 bdan san ke	100	CONJsubord	[pred="bdan san ke_____1",cat=CONJsubord]	bdan san ke_____1	Default		%default	inv
@@ -130,13 +130,13 @@ bdangwne ke	100	CONJsubord	[pred="bdangwne ke_____1",cat=CONJsubord]	bdangwne ke
 bdw	300	ADV	[pred="bdw_____1",cat=ADV]	bdw_____1	Default		%default	inv
 bdwn ayn ke	100	CONJsubord	[pred="bdwn ayn ke_____1",cat=CONJsubord]	bdwn ayn ke_____1	Default		%default	inv
 bdwn aynke	100	CONJ	[pred="bdwn aynke_____1",cat=CONJ]	bdwn aynke_____1	Default		%default	inv
-bdwn ân ke	100	CONJsubord	[pred="bdwn ân ke_____1",cat=CONJsubord]	bdwn ân ke_____1	Default		%default	inv
+bdwn ān ke	100	CONJsubord	[pred="bdwn ān ke_____1",cat=CONJsubord]	bdwn ān ke_____1	Default		%default	inv
 bdyn dlyl	100	ADV	[pred="bdyn dlyl_____1",cat=ADV]	bdyn dlyl_____1	Default		%default	inv
 bdyn gwne	100	ADV	[pred="bdyn gwne_____1",cat=ADV]	bdyn gwne_____1	Default		%default	inv
 bdyn gwne ke	100	CONJsubord	[pred="bdyn gwne ke_____1",cat=CONJsubord]	bdyn gwne ke_____1	Default		%default	inv
 bdyn jet	100	ADV	[pred="bdyn jet_____1",cat=ADV]	bdyn jet_____1	Default		%default	inv
-bdyn lłaż	100	ADV	[pred="bdyn lłaż_____1",cat=ADV]	bdyn lłaż_____1	Default		%default	inv
-bdyn mnżwr	100	ADV	[pred="bdyn mnżwr_____1",cat=ADV]	bdyn mnżwr_____1	Default		%default	inv
+bdyn lħaẓ	100	ADV	[pred="bdyn lħaẓ_____1",cat=ADV]	bdyn lħaẓ_____1	Default		%default	inv
+bdyn mnẓwr	100	ADV	[pred="bdyn mnẓwr_____1",cat=ADV]	bdyn mnẓwr_____1	Default		%default	inv
 bdyn san	100	ADV	[pred="bdyn san_____1",cat=ADV]	bdyn san_____1	Default		%default	inv
 bdyn trtyb	100	ADV	[pred="bdyn trtyb_____1",cat=ADV]	bdyn trtyb_____1	Default		%default	inv
 bdyn trtyb ke	100	CONJsubord	[pred="bdyn trtyb ke_____1",cat=CONJsubord]	bdyn trtyb ke_____1	Default		%default	inv
@@ -166,39 +166,39 @@ be dygr sxn	100	ADV	[pred="be dygr sxn_____1",cat=ADV]	be dygr sxn_____1	Default
 be emyn 'lt	100	ADV	[pred="be emyn 'lt_____1",cat=ADV]	be emyn 'lt_____1	Default		%default	inv
 be emyn dlyl	100	ADV	[pred="be emyn dlyl_____1",cat=ADV]	be emyn dlyl_____1	Default		%default	inv
 be emyn jet	100	ADV	[pred="be emyn jet_____1",cat=ADV]	be emyn jet_____1	Default		%default	inv
-be emyn mnżwr	100	ADV	[pred="be emyn mnżwr_____1",cat=ADV]	be emyn mnżwr_____1	Default		%default	inv
+be emyn mnẓwr	100	ADV	[pred="be emyn mnẓwr_____1",cat=ADV]	be emyn mnẓwr_____1	Default		%default	inv
 be emyn san	100	ADV	[pred="be emyn san_____1",cat=ADV]	be emyn san_____1	Default		%default	inv
 be er rwy	100	ADV	[pred="be er rwy_____1",cat=ADV]	be er rwy_____1	Default		%default	inv
 be er şwrt	100	ADV	[pred="be er şwrt_____1",cat=ADV]	be er şwrt_____1	Default		%default	inv
-be erłal	100	ADV	[pred="be erłal_____1",cat=ADV]	be erłal_____1	Default		%default	inv
+be erħal	100	ADV	[pred="be erħal_____1",cat=ADV]	be erħal_____1	Default		%default	inv
 be jay ayn ke	100	CONJsubord	[pred="be jay ayn ke_____1",cat=CONJsubord]	be jay ayn ke_____1	Default		%default	inv
-be jay ânke	200	CONJ	[pred="be jay ânke_____1",cat=CONJ]	be jay ânke_____1	Default		%default	inv
+be jay ānke	200	CONJ	[pred="be jay ānke_____1",cat=CONJ]	be jay ānke_____1	Default		%default	inv
 be jz ayn ke	100	CONJsubord	[pred="be jz ayn ke_____1",cat=CONJsubord]	be jz ayn ke_____1	Default		%default	inv
-be lłażayn ke	100	CONJsubord	[pred="be lłażayn ke_____1",cat=CONJsubord]	be lłażayn ke_____1	Default		%default	inv
-be mjrd ân ke	100	CONJsubord	[pred="be mjrd ân ke_____1",cat=CONJsubord]	be mjrd ân ke_____1	Default		%default	inv
-be młź ayn ke	100	CONJsubord	[pred="be młź ayn ke_____1",cat=CONJsubord]	be młź ayn ke_____1	Default		%default	inv
-be młź aynke	110	ADV	[pred="be młź aynke___MTE__1",cat=ADV]	be młź aynke___MTE__1	Default		%default	inv
-be młź ânke	110	ADV	[pred="be młź ânke___MTE__1",cat=ADV]	be młź ânke___MTE__1	Default		%default	inv
+be lħaẓayn ke	100	CONJsubord	[pred="be lħaẓayn ke_____1",cat=CONJsubord]	be lħaẓayn ke_____1	Default		%default	inv
+be mjrd ān ke	100	CONJsubord	[pred="be mjrd ān ke_____1",cat=CONJsubord]	be mjrd ān ke_____1	Default		%default	inv
+be mħź ayn ke	100	CONJsubord	[pred="be mħź ayn ke_____1",cat=CONJsubord]	be mħź ayn ke_____1	Default		%default	inv
+be mħź aynke	110	ADV	[pred="be mħź aynke___MTE__1",cat=ADV]	be mħź aynke___MTE__1	Default		%default	inv
+be mħź ānke	110	ADV	[pred="be mħź ānke___MTE__1",cat=ADV]	be mħź ānke___MTE__1	Default		%default	inv
 be nagae	100	ADV	[pred="be nagae_____1",cat=ADV]	be nagae_____1	Default		%default	inv
-be nłwy ke	100	CONJsubord	[pred="be nłwy ke_____1",cat=CONJsubord]	be nłwy ke_____1	Default		%default	inv
+be nħwy ke	100	CONJsubord	[pred="be nħwy ke_____1",cat=CONJsubord]	be nħwy ke_____1	Default		%default	inv
 be rqm ayn ke	100	CONJsubord	[pred="be rqm ayn ke_____1",cat=CONJsubord]	be rqm ayn ke_____1	Default		%default	inv
-be rqm ân ke	100	CONJsubord	[pred="be rqm ân ke_____1",cat=CONJsubord]	be rqm ân ke_____1	Default		%default	inv
+be rqm ān ke	100	CONJsubord	[pred="be rqm ān ke_____1",cat=CONJsubord]	be rqm ān ke_____1	Default		%default	inv
 be sxn dygr	100	ADV	[pred="be sxn dygr_____1",cat=ADV]	be sxn dygr_____1	Default		%default	inv
 be tb'	100	ADV	[pred="be tb'_____1",cat=ADV]	be tb'_____1	Default		%default	inv
 be trtyb	100	ADV	[pred="be trtyb_____1",cat=ADV]	be trtyb_____1	Default		%default	inv
 be wyže	100	ADV	[pred="be wyže_____1",cat=ADV]	be wyže_____1	Default		%default	inv
 be wyže ayn ke	100	CONJsubord	[pred="be wyže ayn ke_____1",cat=CONJsubord]	be wyže ayn ke_____1	Default		%default	inv
-be wyže ânke	100	CONJ	[pred="be wyže ânke_____1",cat=CONJ]	be wyže ânke_____1	Default		%default	inv
+be wyže ānke	100	CONJ	[pred="be wyže ānke_____1",cat=CONJ]	be wyže ānke_____1	Default		%default	inv
 be xaţraynke	110	ADV	[pred="be xaţraynke___MTE__1",cat=ADV]	be xaţraynke___MTE__1	Default		%default	inv
-be xaţrânke	110	ADV	[pred="be xaţrânke___MTE__1",cat=ADV]	be xaţrânke___MTE__1	Default		%default	inv
+be xaţrānke	110	ADV	[pred="be xaţrānke___MTE__1",cat=ADV]	be xaţrānke___MTE__1	Default		%default	inv
 be xşwş	100	ADV	[pred="be xşwş_____1",cat=ADV]	be xşwş_____1	Default		%default	inv
 be şwrty ke	100	CONJsubord	[pred="be şwrty ke_____1",cat=CONJsubord]	be şwrty ke_____1	Default		%default	inv
-be šrţ ânke	100	CONJ	[pred="be šrţ ânke_____1",cat=CONJ]	be šrţ ânke_____1	Default		%default	inv
+be šrţ ānke	100	CONJ	[pred="be šrţ ānke_____1",cat=CONJ]	be šrţ ānke_____1	Default		%default	inv
 be šrţy ke	110	ADV	[pred="be šrţy ke___MTE__1",cat=ADV]	be šrţy ke___MTE__1	Default		%default	inv
 be ţwr kly	100	ADV	[pred="be ţwr kly_____1",cat=ADV]	be ţwr kly_____1	Default		%default	inv
 be ţwry ke	200	CONJsubord	[pred="be ţwry ke_____1",cat=CONJsubord]	be ţwry ke_____1	Default		%default	inv
-ber łal	100	ADV	[pred="ber łal_____1",cat=ADV]	ber łal_____1	Default		%default	inv
-berłal	100	ADV	[pred="berłal_____1",cat=ADV]	berłal_____1	Default		%default	inv
+ber ħal	100	ADV	[pred="ber ħal_____1",cat=ADV]	ber ħal_____1	Default		%default	inv
+berħal	100	ADV	[pred="berħal_____1",cat=ADV]	berħal_____1	Default		%default	inv
 bgwne ay ke	100	CONJsubord	[pred="bgwne ay ke_____1",cat=CONJsubord]	bgwne ay ke_____1	Default		%default	inv
 bjay ayn ke	100	CONJsubord	[pred="bjay ayn ke_____1",cat=CONJsubord]	bjay ayn ke_____1	Default		%default	inv
 bjz	300	ADV	[pred="bjz_____1",cat=ADV]	bjz_____1	Default		%default	inv
@@ -215,28 +215,28 @@ bray ayn ke	100	CONJsubord	[pred="bray ayn ke_____1",cat=CONJsubord]	bray ayn ke
 bray aynke	100	CONJ	[pred="bray aynke_____1",cat=CONJ]	bray aynke_____1	Default		%default	inv
 bray emyn	200	ADV	[pred="bray emyn_____1",cat=ADV]	bray emyn_____1	Default		%default	inv
 bray mçal	100	ADV	[pred="bray mçal_____1",cat=ADV]	bray mçal_____1	Default		%default	inv
-bray ân ke	100	CONJsubord	[pred="bray ân ke_____1",cat=CONJsubord]	bray ân ke_____1	Default		%default	inv
-bray ânke	100	CONJ	[pred="bray ânke_____1",cat=CONJ]	bray ânke_____1	Default		%default	inv
+bray ān ke	100	CONJsubord	[pred="bray ān ke_____1",cat=CONJsubord]	bray ān ke_____1	Default		%default	inv
+bray ānke	100	CONJ	[pred="bray ānke_____1",cat=CONJ]	bray ānke_____1	Default		%default	inv
 brayn asas	100	ADV	[pred="brayn asas_____1",cat=ADV]	brayn asas_____1	Default		%default	inv
 brqm	100	ADV	[pred="brqm_____1",cat=ADV]	brqm_____1	Default		%default	inv
 brqm ayn ke	100	CONJsubord	[pred="brqm ayn ke_____1",cat=CONJsubord]	brqm ayn ke_____1	Default		%default	inv
 brxlaf	200	ADV	[pred="brxlaf_____1",cat=ADV]	brxlaf_____1	Default		%default	inv
 bwyže	300	ADV	[pred="bwyže_____1",cat=ADV]	bwyže_____1	Default		%default	inv
 bwyže ayn ke	100	CONJsubord	[pred="bwyže ayn ke_____1",cat=CONJsubord]	bwyže ayn ke_____1	Default		%default	inv
-bwyže ân ke	100	CONJsubord	[pred="bwyže ân ke_____1",cat=CONJsubord]	bwyže ân ke_____1	Default		%default	inv
+bwyže ān ke	100	CONJsubord	[pred="bwyže ān ke_____1",cat=CONJsubord]	bwyže ān ke_____1	Default		%default	inv
 bxaţr ayn ke	100	CONJsubord	[pred="bxaţr ayn ke_____1",cat=CONJsubord]	bxaţr ayn ke_____1	Default		%default	inv
 bxşwş	300	ADV	[pred="bxşwş_____1",cat=ADV]	bxşwş_____1	Default		%default	inv
-by ânke	100	CONJ	[pred="by ânke_____1",cat=CONJ]	by ânke_____1	Default		%default	inv
-błmdalle	200	ADV	[pred="błmdalle_____1",cat=ADV]	błmdalle_____1	Default		%default	inv
+by ānke	100	CONJ	[pred="by ānke_____1",cat=CONJ]	by ānke_____1	Default		%default	inv
+bħmdalle	200	ADV	[pred="bħmdalle_____1",cat=ADV]	bħmdalle_____1	Default		%default	inv
 bţwr kl	100	ADV	[pred="bţwr kl_____1",cat=ADV]	bţwr kl_____1	Default		%default	inv
 bţwr kly	100	ADV	[pred="bţwr kly_____1",cat=ADV]	bţwr kly_____1	Default		%default	inv
 bţwrkly	100	ADV	[pred="bţwrkly_____1",cat=ADV]	bţwrkly_____1	Default		%default	inv
 bţwry ke	100	CONJsubord	[pred="bţwry ke_____1",cat=CONJsubord]	bţwry ke_____1	Default		%default	inv
-dgr ânke	100	CONJ	[pred="dgr ânke_____1",cat=CONJ]	dgr ânke_____1	Default		%default	inv
+dgr ānke	100	CONJ	[pred="dgr ānke_____1",cat=CONJ]	dgr ānke_____1	Default		%default	inv
 dr 'ml	100	ADV	[pred="dr 'ml_____1",cat=ADV]	dr 'ml_____1	Default		%default	inv
 dr 'wź	100	ADV	[pred="dr 'wź_____1",cat=ADV]	dr 'wź_____1	Default		%default	inv
-dr 'yn ân ke	100	CONJsubord	[pred="dr 'yn ân ke_____1",cat=CONJsubord]	dr 'yn ân ke_____1	Default		%default	inv
-dr 'yn łalyke	100	CONJ	[pred="dr 'yn łalyke_____1",cat=CONJ]	dr 'yn łalyke_____1	Default		%default	inv
+dr 'yn ān ke	100	CONJsubord	[pred="dr 'yn ān ke_____1",cat=CONJsubord]	dr 'yn ān ke_____1	Default		%default	inv
+dr 'yn ħalyke	100	CONJ	[pred="dr 'yn ħalyke_____1",cat=CONJ]	dr 'yn ħalyke_____1	Default		%default	inv
 dr adame	100	ADV	[pred="dr adame_____1",cat=ADV]	dr adame_____1	Default		%default	inv
 dr artbaţ ba	100	ADV	[pred="dr artbaţ ba_____1",cat=ADV]	dr artbaţ ba_____1	Default		%default	inv
 dr ayn artbaţ	100	ADV	[pred="dr ayn artbaţ_____1",cat=ADV]	dr ayn artbaţ_____1	Default		%default	inv
@@ -244,9 +244,9 @@ dr ayn açna	100	ADV	[pred="dr ayn açna_____1",cat=ADV]	dr ayn açna_____1	Defa
 dr ayn rasta	100	ADV	[pred="dr ayn rasta_____1",cat=ADV]	dr ayn rasta_____1	Default		%default	inv
 dr aynke	100	CONJ	[pred="dr aynke_____1",cat=CONJ]	dr aynke_____1	Default		%default	inv
 dr aşl	100	ADV	[pred="dr aşl_____1",cat=ADV]	dr aşl_____1	Default		%default	inv
-dr er łal	100	ADV	[pred="dr er łal_____1",cat=ADV]	dr er łal_____1	Default		%default	inv
+dr er ħal	100	ADV	[pred="dr er ħal_____1",cat=ADV]	dr er ħal_____1	Default		%default	inv
 dr er şwrt	100	ADV	[pred="dr er şwrt_____1",cat=ADV]	dr er şwrt_____1	Default		%default	inv
-dr erłal	100	ADV	[pred="dr erłal_____1",cat=ADV]	dr erłal_____1	Default		%default	inv
+dr erħal	100	ADV	[pred="dr erħal_____1",cat=ADV]	dr erħal_____1	Default		%default	inv
 dr kl	100	ADV	[pred="dr kl_____1",cat=ADV]	dr kl_____1	Default		%default	inv
 dr mjmw'	100	ADV	[pred="dr mjmw'_____1",cat=ADV]	dr mjmw'_____1	Default		%default	inv
 dr mŕabl	100	ADV	[pred="dr mŕabl_____1",cat=ADV]	dr mŕabl_____1	Default		%default	inv
@@ -256,29 +256,29 @@ dr payan	100	ADV	[pred="dr payan_____1",cat=ADV]	dr payan_____1	Default		%defaul
 dr qyr ayn şwrt	100	ADV	[pred="dr qyr ayn şwrt_____1",cat=ADV]	dr qyr ayn şwrt_____1	Default		%default	inv
 dr waŕ'	100	ADV	[pred="dr waŕ'_____1",cat=ADV]	dr waŕ'_____1	Default		%default	inv
 dr waŕ='	100	ADV	[pred="dr waŕ='_____1",cat=ADV]	dr waŕ='_____1	Default		%default	inv
-dr ân şwrt	100	ADV	[pred="dr ân şwrt_____1",cat=ADV]	dr ân şwrt_____1	Default		%default	inv
-dr âqaz	100	ADV	[pred="dr âqaz_____1",cat=ADV]	dr âqaz_____1	Default		%default	inv
-dr âxr	100	ADV	[pred="dr âxr_____1",cat=ADV]	dr âxr_____1	Default		%default	inv
-dr łŕyŕt	100	ADV	[pred="dr łŕyŕt_____1",cat=ADV]	dr łŕyŕt_____1	Default		%default	inv
+dr ān şwrt	100	ADV	[pred="dr ān şwrt_____1",cat=ADV]	dr ān şwrt_____1	Default		%default	inv
+dr āqaz	100	ADV	[pred="dr āqaz_____1",cat=ADV]	dr āqaz_____1	Default		%default	inv
+dr āxr	100	ADV	[pred="dr āxr_____1",cat=ADV]	dr āxr_____1	Default		%default	inv
+dr ħŕyŕt	100	ADV	[pred="dr ħŕyŕt_____1",cat=ADV]	dr ħŕyŕt_____1	Default		%default	inv
 dr şwrty	100	ADVcond	[pred="dr şwrty_____1",cat=ADVcond]	dr şwrty_____1	Default		%default	inv
 dr źmn	100	ADV	[pred="dr źmn_____1",cat=ADV]	dr źmn_____1	Default		%default	inv
-dr'yn łal	100	ADV	[pred="dr'yn łal_____1",cat=ADV]	dr'yn łal_____1	Default		%default	inv
-dr'yn łal ke	100	CONJsubord	[pred="dr'yn łal ke_____1",cat=CONJsubord]	dr'yn łal ke_____1	Default		%default	inv
+dr'yn ħal	100	ADV	[pred="dr'yn ħal_____1",cat=ADV]	dr'yn ħal_____1	Default		%default	inv
+dr'yn ħal ke	100	CONJsubord	[pred="dr'yn ħal ke_____1",cat=CONJsubord]	dr'yn ħal ke_____1	Default		%default	inv
 drayn bare	100	ADV	[pred="drayn bare_____1",cat=ADV]	drayn bare_____1	Default		%default	inv
 drayn myan	100	ADV	[pred="drayn myan_____1",cat=ADV]	drayn myan_____1	Default		%default	inv
 drayn rabţe	100	ADV	[pred="drayn rabţe_____1",cat=ADV]	drayn rabţe_____1	Default		%default	inv
-drayn łal	100	ADV	[pred="drayn łal_____1",cat=ADV]	drayn łal_____1	Default		%default	inv
+drayn ħal	100	ADV	[pred="drayn ħal_____1",cat=ADV]	drayn ħal_____1	Default		%default	inv
 drayn şwrt	100	ADV	[pred="drayn şwrt_____1",cat=ADV]	drayn şwrt_____1	Default		%default	inv
 dremyn rabţe	100	ADV	[pred="dremyn rabţe_____1",cat=ADV]	dremyn rabţe_____1	Default		%default	inv
-dremyn łal	100	ADV	[pred="dremyn łal_____1",cat=ADV]	dremyn łal_____1	Default		%default	inv
-drerłal	100	ADV	[pred="drerłal_____1",cat=ADV]	drerłal_____1	Default		%default	inv
+dremyn ħal	100	ADV	[pred="dremyn ħal_____1",cat=ADV]	dremyn ħal_____1	Default		%default	inv
+drerħal	100	ADV	[pred="drerħal_____1",cat=ADV]	drerħal_____1	Default		%default	inv
 drmjmw'	100	ADV	[pred="drmjmw'_____1",cat=ADV]	drmjmw'_____1	Default		%default	inv
 drqyrayn şwrt	110	ADV	[pred="drqyrayn şwrt___MTE__1",cat=ADV]	drqyrayn şwrt___MTE__1	Default		%default	inv
 drwaŕ'	300	ADV	[pred="drwaŕ'_____1",cat=ADV]	drwaŕ'_____1	Default		%default	inv
-drân şwrt	100	ADV	[pred="drân şwrt_____1",cat=ADV]	drân şwrt_____1	Default		%default	inv
-drłaly ke	100	CONJsubord	[pred="drłaly ke_____1",cat=CONJsubord]	drłaly ke_____1	Default		%default	inv
-drłalyke	100	CONJ	[pred="drłalyke_____1",cat=CONJ]	drłalyke_____1	Default		%default	inv
-drłŕyŕt	100	ADV	[pred="drłŕyŕt_____1",cat=ADV]	drłŕyŕt_____1	Default		%default	inv
+drān şwrt	100	ADV	[pred="drān şwrt_____1",cat=ADV]	drān şwrt_____1	Default		%default	inv
+drħaly ke	100	CONJsubord	[pred="drħaly ke_____1",cat=CONJsubord]	drħaly ke_____1	Default		%default	inv
+drħalyke	100	CONJ	[pred="drħalyke_____1",cat=CONJ]	drħalyke_____1	Default		%default	inv
+drħŕyŕt	100	ADV	[pred="drħŕyŕt_____1",cat=ADV]	drħŕyŕt_____1	Default		%default	inv
 drşwrty	100	ADV	[pred="drşwrty_____1",cat=ADV]	drşwrty_____1	Default		%default	inv
 drşwrty ke	100	ADVcond	[pred="drşwrty ke_____1",cat=ADVcond]	drşwrty ke_____1	Default		%default	inv
 drşwrty ke	200	CONJsubord	[pred="drşwrty ke_____2",cat=CONJsubord]	drşwrty ke_____2	Default		%default	inv
@@ -308,7 +308,7 @@ emčyn	100	ADV	[pred="emčyn_____1",cat=ADV]	emčyn_____1	Default		%default	inv
 engamy ke	100	CONJsubord	[pred="engamy ke_____1",cat=CONJsubord]	engamy ke_____1	Default		%default	inv
 er gae	100	ADV	[pred="er gae_____1",cat=ADV]	er gae_____1	Default		%default	inv
 er wŕt	100	ADV	[pred="er wŕt_____1",cat=ADV]	er wŕt_____1	Default		%default	inv
-er âyne	100	ADV	[pred="er âyne_____1",cat=ADV]	er âyne_____1	Default		%default	inv
+er āyne	100	ADV	[pred="er āyne_____1",cat=ADV]	er āyne_____1	Default		%default	inv
 er če ke	100	CONJsubord	[pred="er če ke_____1",cat=CONJsubord]	er če ke_____1	Default		%default	inv
 er čnd	100	ADV	[pred="er čnd_____1",cat=ADV]	er čnd_____1	Default		%default	inv
 er čnd em ke	100	CONJsubord	[pred="er čnd em ke_____1",cat=CONJsubord]	er čnd em ke_____1	Default		%default	inv
@@ -330,7 +330,7 @@ grt	100	ADVcond	[pred="grt_____1",cat=ADVcond]	grt_____1	Default		%default	inv
 grče	300	ADVcond	[pred="grče_____1",cat=ADVcond]	grče_____1	Default		%default	inv
 grče	400	ADV	[pred="grče_____2",cat=ADV]	grče_____2	Default		%default	inv
 gw ayn ke	100	CONJsubord	[pred="gw ayn ke_____1",cat=CONJsubord]	gw ayn ke_____1	Default		%default	inv
-gw ân ke	100	CONJsubord	[pred="gw ân ke_____1",cat=CONJsubord]	gw ân ke_____1	Default		%default	inv
+gw ān ke	100	CONJsubord	[pred="gw ān ke_____1",cat=CONJsubord]	gw ān ke_____1	Default		%default	inv
 gway	100	ADV	[pred="gway_____1",cat=ADV]	gway_____1	Default		%default	inv
 gyrm	100	ADVcond	[pred="gyrm_____1",cat=ADVcond]	gyrm_____1	Default		%default	inv
 gđšte az	100	ADV	[pred="gđšte az_____1",cat=ADV]	gđšte az_____1	Default		%default	inv
@@ -371,8 +371,8 @@ madamyke	100	CONJ	[pred="madamyke_____1",cat=CONJ]	madamyke_____1	Default		%defa
 mannd	110	ADV	[pred="mannd___MTE__1",cat=ADV]	mannd___MTE__1	Default		%default	inv
 mgr	300	ADV	[pred="mgr_____1",cat=ADV]	mgr_____1	Default		%default	inv
 mgr ayn ke	100	CONJsubord	[pred="mgr ayn ke_____1",cat=CONJsubord]	mgr ayn ke_____1	Default		%default	inv
-mgr ân ke	100	CONJsubord	[pred="mgr ân ke_____1",cat=CONJsubord]	mgr ân ke_____1	Default		%default	inv
-mgr ânke	100	ADVcond	[pred="mgr ânke_____1",cat=ADVcond]	mgr ânke_____1	Default		%default	inv
+mgr ān ke	100	CONJsubord	[pred="mgr ān ke_____1",cat=CONJsubord]	mgr ān ke_____1	Default		%default	inv
+mgr ānke	100	ADVcond	[pred="mgr ānke_____1",cat=ADVcond]	mgr ānke_____1	Default		%default	inv
 mn jmle	100	ADV	[pred="mn jmle_____1",cat=ADV]	mn jmle_____1	Default		%default	inv
 mnjmle	300	ADV	[pred="mnjmle_____1",cat=ADV]	mnjmle_____1	Default		%default	inv
 mntea	400	ADV	[pred="mntea_____1",cat=ADV]	mntea_____1	Default		%default	inv
@@ -382,25 +382,25 @@ mr	100	ADV	[pred="mr_____1",cat=ADV]	mr_____1	Default		%default	inv
 mwŕ'y	100	ADV	[pred="mwŕ'y_____1",cat=ADV]	mwŕ'y_____1	Default		%default	inv
 mwŕ'y ke	100	CONJsubord	[pred="mwŕ'y ke_____1",cat=CONJsubord]	mwŕ'y ke_____1	Default		%default	inv
 mçl ayn ke	100	CONJsubord	[pred="mçl ayn ke_____1",cat=CONJsubord]	mçl ayn ke_____1	Default		%default	inv
-mšrwţ br ân ke	100	ADVcond	[pred="mšrwţ br ân ke_____1",cat=ADVcond]	mšrwţ br ân ke_____1	Default		%default	inv
+mšrwţ br ān ke	100	ADVcond	[pred="mšrwţ br ān ke_____1",cat=ADVcond]	mšrwţ br ān ke_____1	Default		%default	inv
 nagean	300	ADV	[pred="nagean_____1",cat=ADV]	nagean_____1	Default		%default	inv
 nagzyr	300	ADV	[pred="nagzyr_____1",cat=ADV]	nagzyr_____1	Default		%default	inv
 ne	400	ADV	[pred="ne_____1",cat=ADV]	ne_____1	Default		%default	inv
 ne aynke	110	ADV	[pred="ne aynke___MTE__1",cat=ADV]	ne aynke___MTE__1	Default		%default	inv
 ne fŕţ	200	ADV	[pred="ne fŕţ_____1",cat=ADV]	ne fŕţ_____1	Default		%default	inv
 ne tnea	200	ADV	[pred="ne tnea_____1",cat=ADV]	ne tnea_____1	Default		%default	inv
-ne ân ke	100	CONJsubord	[pred="ne ân ke_____1",cat=CONJsubord]	ne ân ke_____1	Default		%default	inv
+ne ān ke	100	CONJsubord	[pred="ne ān ke_____1",cat=CONJsubord]	ne ān ke_____1	Default		%default	inv
 neayt ayn ke	100	CONJsubord	[pred="neayt ayn ke_____1",cat=CONJsubord]	neayt ayn ke_____1	Default		%default	inv
 nyz	400	ADV	[pred="nyz_____1",cat=ADV]	nyz_____1	Default		%default	inv
 ps	100	ADVcoord	[pred="ps_____1",cat=ADVcoord]	ps_____1	Default		%default	inv
 ps az ayn ke	100	CONJsubord	[pred="ps az ayn ke_____1",cat=CONJsubord]	ps az ayn ke_____1	Default		%default	inv
 ps az aynke	100	CONJ	[pred="ps az aynke_____1",cat=CONJ]	ps az aynke_____1	Default		%default	inv
-ps az ân	100	ADV	[pred="ps az ân_____1",cat=ADV]	ps az ân_____1	Default		%default	inv
-ps azânke	100	CONJ	[pred="ps azânke_____1",cat=CONJ]	ps azânke_____1	Default		%default	inv
-pyš az ân	100	ADV	[pred="pyš az ân_____1",cat=ADV]	pyš az ân_____1	Default		%default	inv
+ps az ān	100	ADV	[pred="ps az ān_____1",cat=ADV]	ps az ān_____1	Default		%default	inv
+ps azānke	100	CONJ	[pred="ps azānke_____1",cat=CONJ]	ps azānke_____1	Default		%default	inv
+pyš az ān	100	ADV	[pred="pyš az ān_____1",cat=ADV]	pyš az ān_____1	Default		%default	inv
 pyš azayn	100	ADV	[pred="pyš azayn_____1",cat=ADV]	pyš azayn_____1	Default		%default	inv
 pyš azaynke	100	CONJ	[pred="pyš azaynke_____1",cat=CONJ]	pyš azaynke_____1	Default		%default	inv
-pyš azânke	100	CONJ	[pred="pyš azânke_____1",cat=CONJ]	pyš azânke_____1	Default		%default	inv
+pyš azānke	100	CONJ	[pred="pyš azānke_____1",cat=CONJ]	pyš azānke_____1	Default		%default	inv
 qyr	300	ADV	[pred="qyr_____1",cat=ADV]	qyr_____1	Default		%default	inv
 qyr az	100	ADV	[pred="qyr az_____1",cat=ADV]	qyr az_____1	Default		%default	inv
 rab'a	100	ADV	[pred="rab'a_____1",cat=ADV]	rab'a_____1	Default		%default	inv
@@ -415,14 +415,14 @@ ta jaay ke	100	CONJsubord	[pred="ta jaay ke_____1",cat=CONJsubord]	ta jaay ke___
 ta jaayke	100	CONJ	[pred="ta jaayke_____1",cat=CONJ]	ta jaayke_____1	Default		%default	inv
 ta jayy ke	100	CONJsubord	[pred="ta jayy ke_____1",cat=CONJsubord]	ta jayy ke_____1	Default		%default	inv
 ta wŕty ke	100	CONJsubord	[pred="ta wŕty ke_____1",cat=CONJsubord]	ta wŕty ke_____1	Default		%default	inv
-ta ân ke	100	CONJsubord	[pred="ta ân ke_____1",cat=CONJsubord]	ta ân ke_____1	Default		%default	inv
-ta ânja ke	100	CONJsubord	[pred="ta ânja ke_____1",cat=CONJsubord]	ta ânja ke_____1	Default		%default	inv
-ta ânke	100	CONJ	[pred="ta ânke_____1",cat=CONJ]	ta ânke_____1	Default		%default	inv
+ta ān ke	100	CONJsubord	[pred="ta ān ke_____1",cat=CONJsubord]	ta ān ke_____1	Default		%default	inv
+ta ānja ke	100	CONJsubord	[pred="ta ānja ke_____1",cat=CONJsubord]	ta ānja ke_____1	Default		%default	inv
+ta ānke	100	CONJ	[pred="ta ānke_____1",cat=CONJ]	ta ānke_____1	Default		%default	inv
 taaynke	110	ADV	[pred="taaynke___MTE__1",cat=ADV]	taaynke___MTE__1	Default		%default	inv
 tawŕty	110	ADV	[pred="tawŕty___MTE__1",cat=ADV]	tawŕty___MTE__1	Default		%default	inv
 taze	300	ADV	[pred="taze_____1",cat=ADV]	taze_____1	Default		%default	inv
 tazmany ke	100	CONJsubord	[pred="tazmany ke_____1",cat=CONJsubord]	tazmany ke_____1	Default		%default	inv
-taânjake	110	ADV	[pred="taânjake___MTE__1",cat=ADV]	taânjake___MTE__1	Default		%default	inv
+taānjake	110	ADV	[pred="taānjake___MTE__1",cat=ADV]	taānjake___MTE__1	Default		%default	inv
 w	400	ADVcoord	[pred="w_____1",cat=ADVcoord]	w_____1	Default		%default	inv
 w ala	100	ADV	[pred="w ala_____1",cat=ADV]	w ala_____1	Default		%default	inv
 w grne	100	ADV	[pred="w grne_____1",cat=ADV]	w grne_____1	Default		%default	inv
@@ -443,7 +443,7 @@ wrne	100	ADV	[pred="wrne_____1",cat=ADV]	wrne_____1	Default		%default	inv
 wya	100	ADV	[pred="wya_____1",cat=ADV]	wya_____1	Default		%default	inv
 wyn	100	ADV	[pred="wyn_____1",cat=ADV]	wyn_____1	Default		%default	inv
 wz	300	ADV	[pred="wz_____1",cat=ADV]	wz_____1	Default		%default	inv
-wz ân rw	100	ADV	[pred="wz ân rw_____1",cat=ADV]	wz ân rw_____1	Default		%default	inv
+wz ān rw	100	ADV	[pred="wz ān rw_____1",cat=ADV]	wz ān rw_____1	Default		%default	inv
 wzan	300	ADV	[pred="wzan_____1",cat=ADV]	wzan_____1	Default		%default	inv
 wŕt	110	ADV	[pred="wŕt___MTE__1",cat=ADV]	wŕt___MTE__1	Default		%default	inv
 wŕty	100	CONJsubord	[pred="wŕty_____1",cat=CONJsubord]	wŕty_____1	Default		%default	inv
@@ -456,7 +456,7 @@ y'ny ke	400	CONJsubord	[pred="y'ny ke_____1",cat=CONJsubord]	y'ny ke_____1	Defau
 ya	200	ADVcoord	[pred="ya_____1",cat=ADVcoord]	ya_____1	Default		%default	inv
 ya ayn ke	100	CONJsubord	[pred="ya ayn ke_____1",cat=CONJsubord]	ya ayn ke_____1	Default		%default	inv
 ya aynke	100	CONJ	[pred="ya aynke_____1",cat=CONJ]	ya aynke_____1	Default		%default	inv
-ya ânke	100	CONJ	[pred="ya ânke_____1",cat=CONJ]	ya ânke_____1	Default		%default	inv
+ya ānke	100	CONJ	[pred="ya ānke_____1",cat=CONJ]	ya ānke_____1	Default		%default	inv
 z	300	ADV	[pred="z_____1",cat=ADV]	z_____1	Default		%default	inv
 zanke	100	CONJ	[pred="zanke_____1",cat=CONJ]	zanke_____1	Default		%default	inv
 zmany ke	200	CONJsubord	[pred="zmany ke_____1",cat=CONJsubord]	zmany ke_____1	Default		%default	inv
@@ -465,33 +465,33 @@ zmn	100	ADV	[pred="zmn_____1",cat=ADV]	zmn_____1	Default		%default	inv
 zyn	300	ADV	[pred="zyn_____1",cat=ADV]	zyn_____1	Default		%default	inv
 zyra	400	CONJsubord	[pred="zyra_____1",cat=CONJsubord]	zyra_____1	Default		%default	inv
 zyra ke	100	CONJsubord	[pred="zyra ke_____1",cat=CONJsubord]	zyra ke_____1	Default		%default	inv
-ân em	100	ADV	[pred="ân em_____1",cat=ADV]	ân em_____1	Default		%default	inv
-ân gae	100	ADV	[pred="ân gae_____1",cat=ADV]	ân gae_____1	Default		%default	inv
-ân gae ke	100	CONJsubord	[pred="ân gae ke_____1",cat=CONJsubord]	ân gae ke_____1	Default		%default	inv
-ân gwne ke	100	CONJsubord	[pred="ân gwne ke_____1",cat=CONJsubord]	ân gwne ke_____1	Default		%default	inv
-ân ke	100	CONJsubord	[pred="ân ke_____1",cat=CONJsubord]	ân ke_____1	Default		%default	inv
-ân san ke	100	CONJsubord	[pred="ân san ke_____1",cat=CONJsubord]	ân san ke_____1	Default		%default	inv
-ân wŕt	100	ADV	[pred="ân wŕt_____1",cat=ADV]	ân wŕt_____1	Default		%default	inv
-ân čnan ke	100	CONJsubord	[pred="ân čnan ke_____1",cat=CONJsubord]	ân čnan ke_____1	Default		%default	inv
-ân čnanke	110	ADV	[pred="ân čnanke___MTE__1",cat=ADV]	ân čnanke___MTE__1	Default		%default	inv
-ân čnany ke	100	CONJsubord	[pred="ân čnany ke_____1",cat=CONJsubord]	ân čnany ke_____1	Default		%default	inv
-ânem	100	ADV	[pred="ânem_____1",cat=ADV]	ânem_____1	Default		%default	inv
-ângae	200	ADV	[pred="ângae_____1",cat=ADV]	ângae_____1	Default		%default	inv
-ângwne ke	100	CONJsubord	[pred="ângwne ke_____1",cat=CONJsubord]	ângwne ke_____1	Default		%default	inv
-ânjaayke	100	CONJ	[pred="ânjaayke_____1",cat=CONJ]	ânjaayke_____1	Default		%default	inv
-ânjayyke	100	CONJ	[pred="ânjayyke_____1",cat=CONJ]	ânjayyke_____1	Default		%default	inv
-ânke	200	CONJsubord	[pred="ânke_____1",cat=CONJsubord]	ânke_____1	Default		%default	inv
-ânwŕt	200	ADV	[pred="ânwŕt_____1",cat=ADV]	ânwŕt_____1	Default		%default	inv
-ânčnan ke	100	CONJsubord	[pred="ânčnan ke_____1",cat=CONJsubord]	ânčnan ke_____1	Default		%default	inv
-ânčnanke	100	CONJ	[pred="ânčnanke_____1",cat=CONJ]	ânčnanke_____1	Default		%default	inv
-ânţwr	200	ADV	[pred="ânţwr_____1",cat=ADV]	ânţwr_____1	Default		%default	inv
-ânţwr ke	100	CONJsubord	[pred="ânţwr ke_____1",cat=CONJsubord]	ânţwr ke_____1	Default		%default	inv
-ânţwryke	100	CONJ	[pred="ânţwryke_____1",cat=CONJ]	ânţwryke_____1	Default		%default	inv
-âxe	100	ADV	[pred="âxe_____1",cat=ADV]	âxe_____1	Default		%default	inv
-âxr	200	ADV	[pred="âxr_____1",cat=ADV]	âxr_____1	Default		%default	inv
-âxr alamr	100	ADV	[pred="âxr alamr_____1",cat=ADV]	âxr alamr_____1	Default		%default	inv
-âxr az eme	100	ADV	[pred="âxr az eme_____1",cat=ADV]	âxr az eme_____1	Default		%default	inv
-âya	200	CONJsubord	[pred="âya_____1",cat=CONJsubord]	âya_____1	Default		%default	inv
+ān em	100	ADV	[pred="ān em_____1",cat=ADV]	ān em_____1	Default		%default	inv
+ān gae	100	ADV	[pred="ān gae_____1",cat=ADV]	ān gae_____1	Default		%default	inv
+ān gae ke	100	CONJsubord	[pred="ān gae ke_____1",cat=CONJsubord]	ān gae ke_____1	Default		%default	inv
+ān gwne ke	100	CONJsubord	[pred="ān gwne ke_____1",cat=CONJsubord]	ān gwne ke_____1	Default		%default	inv
+ān ke	100	CONJsubord	[pred="ān ke_____1",cat=CONJsubord]	ān ke_____1	Default		%default	inv
+ān san ke	100	CONJsubord	[pred="ān san ke_____1",cat=CONJsubord]	ān san ke_____1	Default		%default	inv
+ān wŕt	100	ADV	[pred="ān wŕt_____1",cat=ADV]	ān wŕt_____1	Default		%default	inv
+ān čnan ke	100	CONJsubord	[pred="ān čnan ke_____1",cat=CONJsubord]	ān čnan ke_____1	Default		%default	inv
+ān čnanke	110	ADV	[pred="ān čnanke___MTE__1",cat=ADV]	ān čnanke___MTE__1	Default		%default	inv
+ān čnany ke	100	CONJsubord	[pred="ān čnany ke_____1",cat=CONJsubord]	ān čnany ke_____1	Default		%default	inv
+ānem	100	ADV	[pred="ānem_____1",cat=ADV]	ānem_____1	Default		%default	inv
+āngae	200	ADV	[pred="āngae_____1",cat=ADV]	āngae_____1	Default		%default	inv
+āngwne ke	100	CONJsubord	[pred="āngwne ke_____1",cat=CONJsubord]	āngwne ke_____1	Default		%default	inv
+ānjaayke	100	CONJ	[pred="ānjaayke_____1",cat=CONJ]	ānjaayke_____1	Default		%default	inv
+ānjayyke	100	CONJ	[pred="ānjayyke_____1",cat=CONJ]	ānjayyke_____1	Default		%default	inv
+ānke	200	CONJsubord	[pred="ānke_____1",cat=CONJsubord]	ānke_____1	Default		%default	inv
+ānwŕt	200	ADV	[pred="ānwŕt_____1",cat=ADV]	ānwŕt_____1	Default		%default	inv
+ānčnan ke	100	CONJsubord	[pred="ānčnan ke_____1",cat=CONJsubord]	ānčnan ke_____1	Default		%default	inv
+ānčnanke	100	CONJ	[pred="ānčnanke_____1",cat=CONJ]	ānčnanke_____1	Default		%default	inv
+ānţwr	200	ADV	[pred="ānţwr_____1",cat=ADV]	ānţwr_____1	Default		%default	inv
+ānţwr ke	100	CONJsubord	[pred="ānţwr ke_____1",cat=CONJsubord]	ānţwr ke_____1	Default		%default	inv
+ānţwryke	100	CONJ	[pred="ānţwryke_____1",cat=CONJ]	ānţwryke_____1	Default		%default	inv
+āxe	100	ADV	[pred="āxe_____1",cat=ADV]	āxe_____1	Default		%default	inv
+āxr	200	ADV	[pred="āxr_____1",cat=ADV]	āxr_____1	Default		%default	inv
+āxr alamr	100	ADV	[pred="āxr alamr_____1",cat=ADV]	āxr alamr_____1	Default		%default	inv
+āxr az eme	100	ADV	[pred="āxr az eme_____1",cat=ADV]	āxr az eme_____1	Default		%default	inv
+āya	200	CONJsubord	[pred="āya_____1",cat=CONJsubord]	āya_____1	Default		%default	inv
 če	200	ADVcoord	[pred="če_____1",cat=ADVcoord]	če_____1	Default		%default	inv
 če	200	CONJsubord	[pred="če_____2",cat=CONJsubord]	če_____2	Default		%default	inv
 če aynke	100	CONJ	[pred="če aynke_____1",cat=CONJ]	če aynke_____1	Default		%default	inv
@@ -510,15 +510,15 @@ zyra ke	100	CONJsubord	[pred="zyra ke_____1",cat=CONJsubord]	zyra ke_____1	Defau
 čwn	400	CONJsubord	[pred="čwn_____1",cat=CONJsubord]	čwn_____1	Default		%default	inv
 čwn ke	100	CONJsubord	[pred="čwn ke_____1",cat=CONJsubord]	čwn ke_____1	Default		%default	inv
 čwnke	300	CONJsubord	[pred="čwnke_____1",cat=CONJsubord]	čwnke_____1	Default		%default	inv
-łal ayn ke	100	CONJsubord	[pred="łal ayn ke_____1",cat=CONJsubord]	łal ayn ke_____1	Default		%default	inv
-łal aynke	100	CONJ	[pred="łal aynke_____1",cat=CONJ]	łal aynke_____1	Default		%default	inv
-łal ân ke	100	CONJsubord	[pred="łal ân ke_____1",cat=CONJsubord]	łal ân ke_____1	Default		%default	inv
-łal ânke	100	CONJ	[pred="łal ânke_____1",cat=CONJ]	łal ânke_____1	Default		%default	inv
-łdaŕl	200	ADV	[pred="łdaŕl_____1",cat=ADV]	łdaŕl_____1	Default		%default	inv
+ħal ayn ke	100	CONJsubord	[pred="ħal ayn ke_____1",cat=CONJsubord]	ħal ayn ke_____1	Default		%default	inv
+ħal aynke	100	CONJ	[pred="ħal aynke_____1",cat=CONJ]	ħal aynke_____1	Default		%default	inv
+ħal ān ke	100	CONJsubord	[pred="ħal ān ke_____1",cat=CONJsubord]	ħal ān ke_____1	Default		%default	inv
+ħal ānke	100	CONJ	[pred="ħal ānke_____1",cat=CONJ]	ħal ānke_____1	Default		%default	inv
+ħdaŕl	200	ADV	[pred="ħdaŕl_____1",cat=ADV]	ħdaŕl_____1	Default		%default	inv
 ŕbl az ayn ke	100	CONJsubord	[pred="ŕbl az ayn ke_____1",cat=CONJsubord]	ŕbl az ayn ke_____1	Default		%default	inv
 ŕbl az aynke	100	CONJ	[pred="ŕbl az aynke_____1",cat=CONJ]	ŕbl az aynke_____1	Default		%default	inv
-ŕbl az ânke	100	CONJ	[pred="ŕbl az ânke_____1",cat=CONJ]	ŕbl az ânke_____1	Default		%default	inv
-şrfnżr az ayn ke	100	CONJsubord	[pred="şrfnżr az ayn ke_____1",cat=CONJsubord]	şrfnżr az ayn ke_____1	Default		%default	inv
+ŕbl az ānke	100	CONJ	[pred="ŕbl az ānke_____1",cat=CONJ]	ŕbl az ānke_____1	Default		%default	inv
+şrfnẓr az ayn ke	100	CONJsubord	[pred="şrfnẓr az ayn ke_____1",cat=CONJsubord]	şrfnẓr az ayn ke_____1	Default		%default	inv
 şwrtyke	100	CONJ	[pred="şwrtyke_____1",cat=CONJ]	şwrtyke_____1	Default		%default	inv
 šgft aynke	100	CONJ	[pred="šgft aynke_____1",cat=CONJ]	šgft aynke_____1	Default		%default	inv
 ţwry ke	100	CONJsubord	[pred="ţwry ke_____1",cat=CONJsubord]	ţwry ke_____1	Default		%default	inv
@@ -526,4 +526,4 @@ zyra ke	100	CONJsubord	[pred="zyra ke_____1",cat=CONJsubord]	zyra ke_____1	Defau
 ţy	110	ADV	[pred="ţy___MTE__1",cat=ADV]	ţy___MTE__1	Default		%default	inv
 źmn ayn ke	100	CONJsubord	[pred="źmn ayn ke_____1",cat=CONJsubord]	źmn ayn ke_____1	Default		%default	inv
 źmn aynke	100	CONJ	[pred="źmn aynke_____1",cat=CONJ]	źmn aynke_____1	Default		%default	inv
-źmn ân ke	100	CONJsubord	[pred="źmn ân ke_____1",cat=CONJsubord]	źmn ân ke_____1	Default		%default	inv
+źmn ān ke	100	CONJsubord	[pred="źmn ān ke_____1",cat=CONJsubord]	źmn ān ke_____1	Default		%default	inv

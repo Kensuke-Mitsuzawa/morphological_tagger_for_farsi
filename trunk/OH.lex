@@ -13,9 +13,9 @@ xdaya	100	INTexcl	[pred="xdaya_____1",cat=INTexcl]	xdaya_____1	Default		%default
 xwša	300	INTexcl	[pred="xwša_____1",cat=INTexcl]	xwša_____1	Default		%default	inv
 yarb	100	INTexcl	[pred="yarb_____1",cat=INTexcl]	yarb_____1	Default		%default	inv
 zea ze	100	INTexcl	[pred="zea ze_____1",cat=INTexcl]	zea ze_____1	Default		%default	inv
-âeay	200	INTexcl	[pred="âeay_____1",cat=INTexcl]	âeay_____1	Default		%default	inv
-ây	200	INTexcl	[pred="ây_____1",cat=INTexcl]	ây_____1	Default		%default	inv
-âŕa	200	INTexcl	[pred="âŕa_____1",cat=INTexcl]	âŕa_____1	Default		%default	inv
-łafża	100	INTexcl	[pred="łafża_____1",cat=INTexcl]	łafża_____1	Default		%default	inv
+āeay	200	INTexcl	[pred="āeay_____1",cat=INTexcl]	āeay_____1	Default		%default	inv
+āy	200	INTexcl	[pred="āy_____1",cat=INTexcl]	āy_____1	Default		%default	inv
+āŕa	200	INTexcl	[pred="āŕa_____1",cat=INTexcl]	āŕa_____1	Default		%default	inv
+ħafẓa	100	INTexcl	[pred="ħafẓa_____1",cat=INTexcl]	ħafẓa_____1	Default		%default	inv
 šenšaea	100	INTexcl	[pred="šenšaea_____1",cat=INTexcl]	šenšaea_____1	Default		%default	inv
 šeryara	100	INTexcl	[pred="šeryara_____1",cat=INTexcl]	šeryara_____1	Default		%default	inv

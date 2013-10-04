@@ -95,11 +95,11 @@ az nw	100	ADV	[pred="az nw_____1",cat=ADV]	az nw_____1	Default		%default	ADV1
 azŕrarm'lwm	110	ADV	[pred="azŕrarm'lwm___MTE__1",cat=ADV]	azŕrarm'lwm___MTE__1	Default		%default	ADV1
 açbata	100	ADV	[pred="açbata˝_____1",cat=ADV]	açbata˝_____1	Default		%default	ADV2
 açbata˝	100	ADV	[pred="açbata˝_____1",cat=ADV]	açbata˝_____1	Default		%default	ADV2
-ałmŕane	110	ADV	[pred="ałmŕane___MTE__1",cat=ADV]	ałmŕane___MTE__1	Default		%default	ADV1
-ałtmala	300	ADV	[pred="ałtmala˝_____1",cat=ADV]	ałtmala˝_____1	Default		%default	ADV2
-ałtmala˝	300	ADV	[pred="ałtmala˝_____1",cat=ADV]	ałtmala˝_____1	Default		%default	ADV2
-ałtyaţa	300	ADV	[pred="ałtyaţa˝_____1",cat=ADV]	ałtyaţa˝_____1	Default		%default	ADV2
-ałtyaţa˝	300	ADV	[pred="ałtyaţa˝_____1",cat=ADV]	ałtyaţa˝_____1	Default		%default	ADV2
+aħmŕane	110	ADV	[pred="aħmŕane___MTE__1",cat=ADV]	aħmŕane___MTE__1	Default		%default	ADV1
+aħtmala	300	ADV	[pred="aħtmala˝_____1",cat=ADV]	aħtmala˝_____1	Default		%default	ADV2
+aħtmala˝	300	ADV	[pred="aħtmala˝_____1",cat=ADV]	aħtmala˝_____1	Default		%default	ADV2
+aħtyaţa	300	ADV	[pred="aħtyaţa˝_____1",cat=ADV]	aħtyaţa˝_____1	Default		%default	ADV2
+aħtyaţa˝	300	ADV	[pred="aħtyaţa˝_____1",cat=ADV]	aħtyaţa˝_____1	Default		%default	ADV2
 aŕla	300	ADV	[pred="aŕla˝_____1",cat=ADV]	aŕla˝_____1	Default		%default	ADV2
 aŕla˝	300	ADV	[pred="aŕla˝_____1",cat=ADV]	aŕla˝_____1	Default		%default	ADV2
 aŕşy	100	ADV	[pred="aŕşy_____1",cat=ADV]	aŕşy_____1	Default		%default	ADV1
@@ -107,22 +107,22 @@ aşla	400	ADV	[pred="aşla˝_____1",cat=ADV]	aşla˝_____1	Default		%default	ADV
 aşla˝	400	ADV	[pred="aşla˝_____1",cat=ADV]	aşla˝_____1	Default		%default	ADV2
 aşwla	400	ADV	[pred="aşwla˝_____1",cat=ADV]	aşwla˝_____1	Default		%default	ADV2
 aşwla˝	400	ADV	[pred="aşwla˝_____1",cat=ADV]	aşwla˝_____1	Default		%default	ADV2
-aşţlała	300	ADV	[pred="aşţlała˝_____1",cat=ADV]	aşţlała˝_____1	Default		%default	ADV2
-aşţlała˝	300	ADV	[pred="aşţlała˝_____1",cat=ADV]	aşţlała˝_____1	Default		%default	ADV2
+aşţlaħa	300	ADV	[pred="aşţlaħa˝_____1",cat=ADV]	aşţlaħa˝_____1	Default		%default	ADV2
+aşţlaħa˝	300	ADV	[pred="aşţlaħa˝_____1",cat=ADV]	aşţlaħa˝_____1	Default		%default	ADV2
 aštbae	110	ADV	[pred="aštbae___MTE__1",cat=ADV]	aštbae___MTE__1	Default		%default	ADV1
 aštbaea	400	ADV	[pred="aštbaea˝_____1",cat=ADV]	aštbaea˝_____1	Default		%default	ADV2
 aštbaea˝	400	ADV	[pred="aštbaea˝_____1",cat=ADV]	aštbaea˝_____1	Default		%default	ADV2
 b'd	110	ADV	[pred="b'd___MTE__1",cat=ADV]	b'd___MTE__1	Default		%default	ADV1
 b'da	300	ADV	[pred="b'da˝_____1",cat=ADV]	b'da˝_____1	Default		%default	ADV2
-b'dazżer	110	ADV	[pred="b'dazżer___MTE__1",cat=ADV]	b'dazżer___MTE__1	Default		%default	ADV1
+b'dazẓer	110	ADV	[pred="b'dazẓer___MTE__1",cat=ADV]	b'dazẓer___MTE__1	Default		%default	ADV1
 b'da˝	300	ADV	[pred="b'da˝_____1",cat=ADV]	b'da˝_____1	Default		%default	ADV2
 b'źa	300	ADV	[pred="b'źa˝_____1",cat=ADV]	b'źa˝_____1	Default		%default	ADV2
 b'źa˝	300	ADV	[pred="b'źa˝_____1",cat=ADV]	b'źa˝_____1	Default		%default	ADV2
 ba	100	ADV	[pred="ba˝_____1",cat=ADV]	ba˝_____1	Default		%default	ADV2
-ba ayn łal	110	ADV	[pred="ba ayn łal___MTE__1",cat=ADV]	ba ayn łal___MTE__1	Default		%default	ADV1
+ba ayn ħal	110	ADV	[pred="ba ayn ħal___MTE__1",cat=ADV]	ba ayn ħal___MTE__1	Default		%default	ADV1
 baayn eme	110	ADV	[pred="baayn eme___MTE__1",cat=ADV]	baayn eme___MTE__1	Default		%default	ADV1
 baayn wjwd	110	ADV	[pred="baayn wjwd___MTE__1",cat=ADV]	baayn wjwd___MTE__1	Default		%default	ADV1
-baayn łal	110	ADV	[pred="baayn łal___MTE__1",cat=ADV]	baayn łal___MTE__1	Default		%default	ADV1
+baayn ħal	110	ADV	[pred="baayn ħal___MTE__1",cat=ADV]	baayn ħal___MTE__1	Default		%default	ADV1
 bala	110	ADV	[pred="bala___MTE__1",cat=ADV]	bala___MTE__1	Default		%default	ADV1
 balaxre	110	ADV	[pred="balaxre___MTE__1",cat=ADV]	balaxre___MTE__1	Default		%default	ADV1
 banzakt	110	ADV	[pred="banzakt___MTE__1",cat=ADV]	banzakt___MTE__1	Default		%default	ADV1
@@ -148,13 +148,13 @@ be be be	100	ADV	[pred="be be be_____1",cat=ADV]	be be be_____1	Default		%defaul
 be df'at	100	ADV	[pred="be df'at_____1",cat=ADV]	be df'at_____1	Default		%default	ADV1
 be emyn jet	110	ADV	[pred="be emyn jet___MTE__1",cat=ADV]	be emyn jet___MTE__1	Default		%default	ADV1
 be emyn trtyb	110	ADV	[pred="be emyn trtyb___MTE__1",cat=ADV]	be emyn trtyb___MTE__1	Default		%default	ADV1
-be erłal	110	ADV	[pred="be erłal___MTE__1",cat=ADV]	be erłal___MTE__1	Default		%default	ADV1
+be erħal	110	ADV	[pred="be erħal___MTE__1",cat=ADV]	be erħal___MTE__1	Default		%default	ADV1
 be eyč wje	110	ADV	[pred="be eyč wje___MTE__1",cat=ADV]	be eyč wje___MTE__1	Default		%default	ADV1
 be krat	100	ADV	[pred="be krat_____1",cat=ADV]	be krat_____1	Default		%default	ADV1
 be ndrt	110	ADV	[pred="be ndrt___MTE__1",cat=ADV]	be ndrt___MTE__1	Default		%default	ADV1
 be wyže	110	ADV	[pred="be wyže___MTE__1",cat=ADV]	be wyže___MTE__1	Default		%default	ADV1
 be ţwrkly	110	ADV	[pred="be ţwrkly___MTE__1",cat=ADV]	be ţwrkly___MTE__1	Default		%default	ADV1
-berłal	110	ADV	[pred="berłal___MTE__1",cat=ADV]	berłal___MTE__1	Default		%default	ADV1
+berħal	110	ADV	[pred="berħal___MTE__1",cat=ADV]	berħal___MTE__1	Default		%default	ADV1
 bet zde	110	ADV	[pred="bet zde___MTE__1",cat=ADV]	bet zde___MTE__1	Default		%default	ADV1
 bkr	110	ADV	[pred="bkr___MTE__1",cat=ADV]	bkr___MTE__1	Default		%default	ADV1
 bkrat	100	ADV	[pred="bkrat_____1",cat=ADV]	bkrat_____1	Default		%default	ADV1
@@ -174,13 +174,13 @@ by drng	110	ADV	[pred="by drng___MTE__1",cat=ADV]	by drng___MTE__1	Default		%def
 by ewa	110	ADV	[pred="by ewa___MTE__1",cat=ADV]	by ewa___MTE__1	Default		%default	ADV1
 by gman	110	ADV	[pred="by gman___MTE__1",cat=ADV]	by gman___MTE__1	Default		%default	ADV1
 by jwab	110	ADV	[pred="by jwab___MTE__1",cat=ADV]	by jwab___MTE__1	Default		%default	ADV1
-by młaba	110	ADV	[pred="by młaba___MTE__1",cat=ADV]	by młaba___MTE__1	Default		%default	ADV1
+by mħaba	110	ADV	[pred="by mħaba___MTE__1",cat=ADV]	by mħaba___MTE__1	Default		%default	ADV1
 by mŕdme	110	ADV	[pred="by mŕdme___MTE__1",cat=ADV]	by mŕdme___MTE__1	Default		%default	ADV1
 by neayt	110	ADV	[pred="by neayt___MTE__1",cat=ADV]	by neayt___MTE__1	Default		%default	ADV1
 by twje	110	ADV	[pred="by twje___MTE__1",cat=ADV]	by twje___MTE__1	Default		%default	ADV1
 by wŕfe	110	ADV	[pred="by wŕfe___MTE__1",cat=ADV]	by wŕfe___MTE__1	Default		%default	ADV1
 by xyal	110	ADV	[pred="by xyal___MTE__1",cat=ADV]	by xyal___MTE__1	Default		%default	ADV1
-by łrkt	110	ADV	[pred="by łrkt___MTE__1",cat=ADV]	by łrkt___MTE__1	Default		%default	ADV1
+by ħrkt	110	ADV	[pred="by ħrkt___MTE__1",cat=ADV]	by ħrkt___MTE__1	Default		%default	ADV1
 by şda	110	ADV	[pred="by şda___MTE__1",cat=ADV]	by şda___MTE__1	Default		%default	ADV1
 by šk	110	ADV	[pred="by šk___MTE__1",cat=ADV]	by šk___MTE__1	Default		%default	ADV1
 byewde	110	ADV	[pred="byewde___MTE__1",cat=ADV]	byewde___MTE__1	Default		%default	ADV1
@@ -200,15 +200,15 @@ da´ma˝	110	ADV	[pred="da´ma˝___MTE__1",cat=ADV]	da´ma˝___MTE__1	Default		%
 df'ta	300	ADV	[pred="df'ta˝_____1",cat=ADV]	df'ta˝_____1	Default		%default	ADV2
 df'ta˝	300	ADV	[pred="df'ta˝_____1",cat=ADV]	df'ta˝_____1	Default		%default	ADV2
 dgrbare	100	ADV	[pred="dgrbare_____1",cat=ADV]	dgrbare_____1	Default		%default	ADV1
-dr'yn łal	110	ADV	[pred="dr'yn łal___MTE__1",cat=ADV]	dr'yn łal___MTE__1	Default		%default	ADV1
+dr'yn ħal	110	ADV	[pred="dr'yn ħal___MTE__1",cat=ADV]	dr'yn ħal___MTE__1	Default		%default	ADV1
 drayn şwrt	110	ADV	[pred="drayn şwrt___MTE__1",cat=ADV]	drayn şwrt___MTE__1	Default		%default	ADV1
 draz	110	ADV	[pred="draz___MTE__1",cat=ADV]	draz___MTE__1	Default		%default	ADV1
 drbst	110	ADV	[pred="drbst___MTE__1",cat=ADV]	drbst___MTE__1	Default		%default	ADV1
 drst	110	ADV	[pred="drst___MTE__1",cat=ADV]	drst___MTE__1	Default		%default	ADV1
 dryq	300	ADV	[pred="dryq_____1",cat=ADV]	dryq_____1	Default		%default	ADV1
 dryqa	300	ADV	[pred="dryqa_____1",cat=ADV]	dryqa_____1	Default		%default	ADV1
-drân şwrt	110	ADV	[pred="drân şwrt___MTE__1",cat=ADV]	drân şwrt___MTE__1	Default		%default	ADV1
-drłal łaźr	110	ADV	[pred="drłal łaźr___MTE__1",cat=ADV]	drłal łaźr___MTE__1	Default		%default	ADV1
+drān şwrt	110	ADV	[pred="drān şwrt___MTE__1",cat=ADV]	drān şwrt___MTE__1	Default		%default	ADV1
+drħal ħaźr	110	ADV	[pred="drħal ħaźr___MTE__1",cat=ADV]	drħal ħaźr___MTE__1	Default		%default	ADV1
 drźmn	110	ADV	[pred="drźmn___MTE__1",cat=ADV]	drźmn___MTE__1	Default		%default	ADV1
 dst km	110	ADV	[pred="dst km___leastwise__1",cat=ADV]	dst km___leastwise__1	Default		%default	ADV1
 dst nxwrde	110	ADV	[pred="dst nxwrde___MTE__1",cat=ADV]	dst nxwrde___MTE__1	Default		%default	ADV1
@@ -369,16 +369,16 @@ mjana˝	300	ADV	[pred="mjana˝_____1",cat=ADV]	mjana˝_____1	Default		%default	A
 mjdda	100	ADV	[pred="mjdda_____1",cat=ADV]	mjdda_____1	Default		%default	ADV1
 mjdda	400	ADV	[pred="mjdda˝_____1",cat=ADV]	mjdda˝_____1	Default		%default	ADV2
 mjdda˝	400	ADV	[pred="mjdda˝_____1",cat=ADV]	mjdda˝_____1	Default		%default	ADV2
-mjrwł	110	ADV	[pred="mjrwł___MTE__1",cat=ADV]	mjrwł___MTE__1	Default		%default	ADV1
+mjrwħ	110	ADV	[pred="mjrwħ___MTE__1",cat=ADV]	mjrwħ___MTE__1	Default		%default	ADV1
 mkrr	300	ADV	[pred="mkrr_____1",cat=ADV]	mkrr_____1	Default		%default	ADV1
 mkrra	300	ADV	[pred="mkrra˝_____1",cat=ADV]	mkrra˝_____1	Default		%default	ADV2
 mkrra˝	300	ADV	[pred="mkrra˝_____1",cat=ADV]	mkrra˝_____1	Default		%default	ADV2
 mltmsane	110	ADV	[pred="mltmsane___MTE__1",cat=ADV]	mltmsane___MTE__1	Default		%default	ADV1
-mntażra	100	ADV	[pred="mntażra˝_____1",cat=ADV]	mntażra˝_____1	Default		%default	ADV2
-mntażra˝	100	ADV	[pred="mntażra˝_____1",cat=ADV]	mntażra˝_____1	Default		%default	ADV2
-mntżr	110	ADV	[pred="mntżr___MTE__1",cat=ADV]	mntżr___MTE__1	Default		%default	ADV1
-mnłşra	300	ADV	[pred="mnłşra˝_____1",cat=ADV]	mnłşra˝_____1	Default		%default	ADV2
-mnłşra˝	300	ADV	[pred="mnłşra˝_____1",cat=ADV]	mnłşra˝_____1	Default		%default	ADV2
+mntaẓra	100	ADV	[pred="mntaẓra˝_____1",cat=ADV]	mntaẓra˝_____1	Default		%default	ADV2
+mntaẓra˝	100	ADV	[pred="mntaẓra˝_____1",cat=ADV]	mntaẓra˝_____1	Default		%default	ADV2
+mntẓr	110	ADV	[pred="mntẓr___MTE__1",cat=ADV]	mntẓr___MTE__1	Default		%default	ADV1
+mnħşra	300	ADV	[pred="mnħşra˝_____1",cat=ADV]	mnħşra˝_____1	Default		%default	ADV2
+mnħşra˝	300	ADV	[pred="mnħşra˝_____1",cat=ADV]	mnħşra˝_____1	Default		%default	ADV2
 mnţŕa	300	ADV	[pred="mnţŕa˝_____1",cat=ADV]	mnţŕa˝_____1	Default		%default	ADV2
 mnţŕa˝	300	ADV	[pred="mnţŕa˝_____1",cat=ADV]	mnţŕa˝_____1	Default		%default	ADV2
 mnţŕy	110	ADV	[pred="mnţŕy___MTE__1",cat=ADV]	mnţŕy___MTE__1	Default		%default	ADV1
@@ -406,8 +406,8 @@ mtwalya	300	ADV	[pred="mtwalya˝_____1",cat=ADV]	mtwalya˝_____1	Default		%defau
 mtwalya˝	300	ADV	[pred="mtwalya˝_____1",cat=ADV]	mtwalya˝_____1	Default		%default	ADV2
 mtwaź'ane	110	ADV	[pred="mtwaź'ane___MTE__1",cat=ADV]	mtwaź'ane___MTE__1	Default		%default	ADV1
 mtásfane	400	ADV	[pred="mtásfane_____1",cat=ADV]	mtásfane_____1	Default		%default	ADV1
-mtłda	110	ADV	[pred="mtłda˝___MTE__1",cat=ADV]	mtłda˝___MTE__1	Default		%default	ADV2
-mtłda˝	110	ADV	[pred="mtłda˝___MTE__1",cat=ADV]	mtłda˝___MTE__1	Default		%default	ADV2
+mtħda	110	ADV	[pred="mtħda˝___MTE__1",cat=ADV]	mtħda˝___MTE__1	Default		%default	ADV2
+mtħda˝	110	ADV	[pred="mtħda˝___MTE__1",cat=ADV]	mtħda˝___MTE__1	Default		%default	ADV2
 mtŕabla	300	ADV	[pred="mtŕabla˝_____1",cat=ADV]	mtŕabla˝_____1	Default		%default	ADV2
 mtŕabla˝	300	ADV	[pred="mtŕabla˝_____1",cat=ADV]	mtŕabla˝_____1	Default		%default	ADV2
 mwzwn	110	ADV	[pred="mwzwn___MTE__1",cat=ADV]	mwzwn___MTE__1	Default		%default	ADV1
@@ -426,11 +426,11 @@ mçla˝	300	ADV	[pred="mçla˝_____1",cat=ADV]	mçla˝_____1	Default		%default	A
 múkda	300	ADV	[pred="múkda˝_____1",cat=ADV]	múkda˝_____1	Default		%default	ADV2
 múkda˝	300	ADV	[pred="múkda˝_____1",cat=ADV]	múkda˝_____1	Default		%default	ADV2
 múçr	110	ADV	[pred="múçr___MTE__1",cat=ADV]	múçr___MTE__1	Default		%default	ADV1
-młfwż	110	ADV	[pred="młfwż___MTE__1",cat=ADV]	młfwż___MTE__1	Default		%default	ADV1
-młkm	110	ADV	[pred="młkm___MTE__1",cat=ADV]	młkm___MTE__1	Default		%default	ADV1
-młtaţane	110	ADV	[pred="młtaţane___MTE__1",cat=ADV]	młtaţane___MTE__1	Default		%default	ADV1
-młtmla	300	ADV	[pred="młtmla˝_____1",cat=ADV]	młtmla˝_____1	Default		%default	ADV2
-młtmla˝	300	ADV	[pred="młtmla˝_____1",cat=ADV]	młtmla˝_____1	Default		%default	ADV2
+mħfwẓ	110	ADV	[pred="mħfwẓ___MTE__1",cat=ADV]	mħfwẓ___MTE__1	Default		%default	ADV1
+mħkm	110	ADV	[pred="mħkm___MTE__1",cat=ADV]	mħkm___MTE__1	Default		%default	ADV1
+mħtaţane	110	ADV	[pred="mħtaţane___MTE__1",cat=ADV]	mħtaţane___MTE__1	Default		%default	ADV1
+mħtmla	300	ADV	[pred="mħtmla˝_____1",cat=ADV]	mħtmla˝_____1	Default		%default	ADV2
+mħtmla˝	300	ADV	[pred="mħtmla˝_____1",cat=ADV]	mħtmla˝_____1	Default		%default	ADV2
 mşra	300	ADV	[pred="mşra˝_____1",cat=ADV]	mşra˝_____1	Default		%default	ADV2
 mşra˝	300	ADV	[pred="mşra˝_____1",cat=ADV]	mşra˝_____1	Default		%default	ADV2
 mšt mšt	110	ADV	[pred="mšt mšt___MTE__1",cat=ADV]	mšt mšt___MTE__1	Default		%default	ADV1
@@ -453,8 +453,8 @@ nadyde	110	ADV	[pred="nadyde___MTE__1",cat=ADV]	nadyde___MTE__1	Default		%defaul
 nagean	110	ADV	[pred="nagean___MTE__1",cat=ADV]	nagean___MTE__1	Default		%default	ADV1
 nageany	110	ADV	[pred="nageany___MTE__1",cat=ADV]	nageany___MTE__1	Default		%default	ADV1
 naxwaste	110	ADV	[pred="naxwaste___MTE__1",cat=ADV]	naxwaste___MTE__1	Default		%default	ADV1
-naxwdâgae	110	ADV	[pred="naxwdâgae___MTE__1",cat=ADV]	naxwdâgae___MTE__1	Default		%default	ADV1
-naâgaeane	110	ADV	[pred="naâgaeane___MTE__1",cat=ADV]	naâgaeane___MTE__1	Default		%default	ADV1
+naxwdāgae	110	ADV	[pred="naxwdāgae___MTE__1",cat=ADV]	naxwdāgae___MTE__1	Default		%default	ADV1
+naāgaeane	110	ADV	[pred="naāgaeane___MTE__1",cat=ADV]	naāgaeane___MTE__1	Default		%default	ADV1
 načara	100	ADV	[pred="načara˝_____1",cat=ADV]	načara˝_____1	Default		%default	ADV2
 načara˝	100	ADV	[pred="načara˝_____1",cat=ADV]	načara˝_____1	Default		%default	ADV2
 naŕş	110	ADV	[pred="naŕş___MTE__1",cat=ADV]	naŕş___MTE__1	Default		%default	ADV1
@@ -480,8 +480,8 @@ nzdyk	110	ADV	[pred="nzdyk___MTE__1",cat=ADV]	nzdyk___MTE__1	Default		%default	A
 nŕ nŕ knan	110	ADV	[pred="nŕ nŕ knan___MTE__1",cat=ADV]	nŕ nŕ knan___MTE__1	Default		%default	ADV1
 nŕda	300	ADV	[pred="nŕda˝_____1",cat=ADV]	nŕda˝_____1	Default		%default	ADV2
 nŕda˝	300	ADV	[pred="nŕda˝_____1",cat=ADV]	nŕda˝_____1	Default		%default	ADV2
-nżmyftwra	100	ADV	[pred="nżmyftwra˝_____1",cat=ADV]	nżmyftwra˝_____1	Default		%default	ADV2
-nżmyftwra˝	100	ADV	[pred="nżmyftwra˝_____1",cat=ADV]	nżmyftwra˝_____1	Default		%default	ADV2
+nẓmyftwra	100	ADV	[pred="nẓmyftwra˝_____1",cat=ADV]	nẓmyftwra˝_____1	Default		%default	ADV2
+nẓmyftwra˝	100	ADV	[pred="nẓmyftwra˝_____1",cat=ADV]	nẓmyftwra˝_____1	Default		%default	ADV2
 payyn	400	ADV	[pred="payyn_____1",cat=ADV]	payyn_____1	Default		%default	ADV1
 payyn tr	100	ADV	[pred="payyn tr_____1",cat=ADV]	payyn tr_____1	Default		%default	ADV1
 pnean	110	ADV	[pred="pnean___MTE__1",cat=ADV]	pnean___MTE__1	Default		%default	ADV1
@@ -500,14 +500,14 @@ qrqrknan	110	ADV	[pred="qrqrknan___MTE__1",cat=ADV]	qrqrknan___MTE__1	Default		%
 qryzy	110	ADV	[pred="qryzy___MTE__1",cat=ADV]	qryzy___MTE__1	Default		%default	ADV1
 qyrmstŕym	110	ADV	[pred="qyrmstŕym___MTE__1",cat=ADV]	qyrmstŕym___MTE__1	Default		%default	ADV1
 rast	110	ADV	[pred="rast___MTE__1",cat=ADV]	rast___MTE__1	Default		%default	ADV1
-rałt	110	ADV	[pred="rałt___MTE__1",cat=ADV]	rałt___MTE__1	Default		%default	ADV1
+raħt	110	ADV	[pred="raħt___MTE__1",cat=ADV]	raħt___MTE__1	Default		%default	ADV1
 rk	110	ADV	[pred="rk___MTE__1",cat=ADV]	rk___MTE__1	Default		%default	ADV1
 rsma	300	ADV	[pred="rsma˝_____1",cat=ADV]	rsma˝_____1	Default		%default	ADV2
 rsma˝	300	ADV	[pred="rsma˝_____1",cat=ADV]	rsma˝_____1	Default		%default	ADV2
 rsmy	110	ADV	[pred="rsmy___MTE__1",cat=ADV]	rsmy___MTE__1	Default		%default	ADV1
 rwz	110	ADV	[pred="rwz___MTE__1",cat=ADV]	rwz___MTE__1	Default		%default	ADV1
-rwła	300	ADV	[pred="rwła˝_____1",cat=ADV]	rwła˝_____1	Default		%default	ADV2
-rwła˝	300	ADV	[pred="rwła˝_____1",cat=ADV]	rwła˝_____1	Default		%default	ADV2
+rwħa	300	ADV	[pred="rwħa˝_____1",cat=ADV]	rwħa˝_____1	Default		%default	ADV2
+rwħa˝	300	ADV	[pred="rwħa˝_____1",cat=ADV]	rwħa˝_____1	Default		%default	ADV2
 rwšn	110	ADV	[pred="rwšn___MTE__1",cat=ADV]	rwšn___MTE__1	Default		%default	ADV1
 rása	100	ADV	[pred="rása˝_____1",cat=ADV]	rása˝_____1	Default		%default	ADV2
 rása˝	100	ADV	[pred="rása˝_____1",cat=ADV]	rása˝_____1	Default		%default	ADV2
@@ -532,7 +532,7 @@ t'bda	300	ADV	[pred="t'bda˝_____1",cat=ADV]	t'bda˝_____1	Default		%default	ADV
 t'bda˝	300	ADV	[pred="t'bda˝_____1",cat=ADV]	t'bda˝_____1	Default		%default	ADV2
 t'mda	400	ADV	[pred="t'mda˝_____1",cat=ADV]	t'mda˝_____1	Default		%default	ADV2
 t'mda˝	400	ADV	[pred="t'mda˝_____1",cat=ADV]	t'mda˝_____1	Default		%default	ADV2
-tabe łal	110	ADV	[pred="tabe łal___MTE__1",cat=ADV]	tabe łal___MTE__1	Default		%default	ADV1
+tabe ħal	110	ADV	[pred="tabe ħal___MTE__1",cat=ADV]	tabe ħal___MTE__1	Default		%default	ADV1
 taze	110	ADV	[pred="taze___MTE__1",cat=ADV]	taze___MTE__1	Default		%default	ADV1
 tdryj	300	ADV	[pred="tdryj_____1",cat=ADV]	tdryj_____1	Default		%default	ADV1
 tdryja	300	ADV	[pred="tdryja˝_____1",cat=ADV]	tdryja˝_____1	Default		%default	ADV2
@@ -541,9 +541,9 @@ tfşyla	100	ADV	[pred="tfşyla˝_____1",cat=ADV]	tfşyla˝_____1	Default		%defau
 tfşyla˝	100	ADV	[pred="tfşyla˝_____1",cat=ADV]	tfşyla˝_____1	Default		%default	ADV2
 tk tk	100	ADV	[pred="tk tk_____1",cat=ADV]	tk tk_____1	Default		%default	ADV1
 tk wtwk	110	ADV	[pred="tk wtwk___MTE__1",cat=ADV]	tk wtwk___MTE__1	Default		%default	ADV1
-tlwyła	300	ADV	[pred="tlwyła˝_____1",cat=ADV]	tlwyła˝_____1	Default		%default	ADV2
-tlwyła˝	300	ADV	[pred="tlwyła˝_____1",cat=ADV]	tlwyła˝_____1	Default		%default	ADV2
-tlwyły	110	ADV	[pred="tlwyły___MTE__1",cat=ADV]	tlwyły___MTE__1	Default		%default	ADV1
+tlwyħa	300	ADV	[pred="tlwyħa˝_____1",cat=ADV]	tlwyħa˝_____1	Default		%default	ADV2
+tlwyħa˝	300	ADV	[pred="tlwyħa˝_____1",cat=ADV]	tlwyħa˝_____1	Default		%default	ADV2
+tlwyħy	110	ADV	[pred="tlwyħy___MTE__1",cat=ADV]	tlwyħy___MTE__1	Default		%default	ADV1
 tmam wŕt	110	ADV	[pred="tmam wŕt___MTE__1",cat=ADV]	tmam wŕt___MTE__1	Default		%default	ADV1
 tmama	300	ADV	[pred="tmama˝_____1",cat=ADV]	tmama˝_____1	Default		%default	ADV2
 tmama˝	300	ADV	[pred="tmama˝_____1",cat=ADV]	tmama˝_____1	Default		%default	ADV2
@@ -552,35 +552,35 @@ tndtnd	110	ADV	[pred="tndtnd___MTE__1",cat=ADV]	tndtnd___MTE__1	Default		%defaul
 tnea	400	ADV	[pred="tnea_____1",cat=ADV]	tnea_____1	Default		%default	ADV1
 tng	110	ADV	[pred="tng___MTE__1",cat=ADV]	tng___MTE__1	Default		%default	ADV1
 tngatng	110	ADV	[pred="tngatng___MTE__1",cat=ADV]	tngatng___MTE__1	Default		%default	ADV1
-trjyła	100	ADV	[pred="trjyła˝_____1",cat=ADV]	trjyła˝_____1	Default		%default	ADV2
-trjyła˝	100	ADV	[pred="trjyła˝_____1",cat=ADV]	trjyła˝_____1	Default		%default	ADV2
+trjyħa	100	ADV	[pred="trjyħa˝_____1",cat=ADV]	trjyħa˝_____1	Default		%default	ADV2
+trjyħa˝	100	ADV	[pred="trjyħa˝_____1",cat=ADV]	trjyħa˝_____1	Default		%default	ADV2
 twáma	100	ADV	[pred="twáma˝_____1",cat=ADV]	twáma˝_____1	Default		%default	ADV2
 twáma˝	100	ADV	[pred="twáma˝_____1",cat=ADV]	twáma˝_____1	Default		%default	ADV2
 túama	100	ADV	[pred="túama˝_____1",cat=ADV]	túama˝_____1	Default		%default	ADV2
 túama˝	100	ADV	[pred="túama˝_____1",cat=ADV]	túama˝_____1	Default		%default	ADV2
-tłŕyŕa	300	ADV	[pred="tłŕyŕa˝_____1",cat=ADV]	tłŕyŕa˝_____1	Default		%default	ADV2
-tłŕyŕa˝	300	ADV	[pred="tłŕyŕa˝_____1",cat=ADV]	tłŕyŕa˝_____1	Default		%default	ADV2
+tħŕyŕa	300	ADV	[pred="tħŕyŕa˝_____1",cat=ADV]	tħŕyŕa˝_____1	Default		%default	ADV2
+tħŕyŕa˝	300	ADV	[pred="tħŕyŕa˝_____1",cat=ADV]	tħŕyŕa˝_____1	Default		%default	ADV2
 tŕryba	110	ADV	[pred="tŕryba˝___almost__1",cat=ADV]	tŕryba˝___almost__1	Default		%default	ADV2
 tŕryba˝	110	ADV	[pred="tŕryba˝___almost__1",cat=ADV]	tŕryba˝___almost__1	Default		%default	ADV2
 tşadfa	400	ADV	[pred="tşadfa˝_____1",cat=ADV]	tşadfa˝_____1	Default		%default	ADV2
 tşadfa˝	400	ADV	[pred="tşadfa˝_____1",cat=ADV]	tşadfa˝_____1	Default		%default	ADV2
 tşadfy	110	ADV	[pred="tşadfy___MTE__1",cat=ADV]	tşadfy___MTE__1	Default		%default	ADV1
-tşryła	300	ADV	[pred="tşryła˝_____1",cat=ADV]	tşryła˝_____1	Default		%default	ADV2
-tşryła˝	300	ADV	[pred="tşryła˝_____1",cat=ADV]	tşryła˝_____1	Default		%default	ADV2
+tşryħa	300	ADV	[pred="tşryħa˝_____1",cat=ADV]	tşryħa˝_____1	Default		%default	ADV2
+tşryħa˝	300	ADV	[pred="tşryħa˝_____1",cat=ADV]	tşryħa˝_____1	Default		%default	ADV2
 way	300	ADV	[pred="way_____1",cat=ADV]	way_____1	Default		%default	ADV1
 waŕ'a	110	ADV	[pred="waŕ'a˝___MTE__1",cat=ADV]	waŕ'a˝___MTE__1	Default		%default	ADV2
 waŕ'a˝	110	ADV	[pred="waŕ'a˝___MTE__1",cat=ADV]	waŕ'a˝___MTE__1	Default		%default	ADV2
 waŕ'y	110	ADV	[pred="waŕ'y___MTE__1",cat=ADV]	waŕ'y___MTE__1	Default		%default	ADV1
-waźł	110	ADV	[pred="waźł___MTE__1",cat=ADV]	waźł___MTE__1	Default		%default	ADV1
+waźħ	110	ADV	[pred="waźħ___MTE__1",cat=ADV]	waźħ___MTE__1	Default		%default	ADV1
 wb'da	100	ADV	[pred="wb'da˝_____1",cat=ADV]	wb'da˝_____1	Default		%default	ADV2
 wb'da˝	100	ADV	[pred="wb'da˝_____1",cat=ADV]	wb'da˝_____1	Default		%default	ADV2
 wjdana	300	ADV	[pred="wjdana˝_____1",cat=ADV]	wjdana˝_____1	Default		%default	ADV2
 wjdana˝	300	ADV	[pred="wjdana˝_____1",cat=ADV]	wjdana˝_____1	Default		%default	ADV2
 wsţ	110	ADV	[pred="wsţ___MTE__1",cat=ADV]	wsţ___MTE__1	Default		%default	ADV1
-wła	100	ADV	[pred="wła˝_____1",cat=ADV]	wła˝_____1	Default		%default	ADV2
-wła˝	100	ADV	[pred="wła˝_____1",cat=ADV]	wła˝_____1	Default		%default	ADV2
-włšt zde	110	ADV	[pred="włšt zde___MTE__1",cat=ADV]	włšt zde___MTE__1	Default		%default	ADV1
-włšyane	110	ADV	[pred="włšyane___MTE__1",cat=ADV]	włšyane___MTE__1	Default		%default	ADV1
+wħa	100	ADV	[pred="wħa˝_____1",cat=ADV]	wħa˝_____1	Default		%default	ADV2
+wħa˝	100	ADV	[pred="wħa˝_____1",cat=ADV]	wħa˝_____1	Default		%default	ADV2
+wħšt zde	110	ADV	[pred="wħšt zde___MTE__1",cat=ADV]	wħšt zde___MTE__1	Default		%default	ADV1
+wħšyane	110	ADV	[pred="wħšyane___MTE__1",cat=ADV]	wħšyane___MTE__1	Default		%default	ADV1
 xarj	110	ADV	[pred="xarj___MTE__1",cat=ADV]	xarj___MTE__1	Default		%default	ADV1
 xbrdar	110	ADV	[pred="xbrdar___MTE__1",cat=ADV]	xbrdar___MTE__1	Default		%default	ADV1
 xlaşe	110	ADV	[pred="xlaşe___MTE__1",cat=ADV]	xlaşe___MTE__1	Default		%default	ADV1
@@ -589,7 +589,7 @@ xlŕta˝	100	ADV	[pred="xlŕta˝_____1",cat=ADV]	xlŕta˝_____1	Default		%defaul
 xnde knan	110	ADV	[pred="xnde knan___MTE__1",cat=ADV]	xnde knan___MTE__1	Default		%default	ADV1
 xraman	110	ADV	[pred="xraman___MTE__1",cat=ADV]	xraman___MTE__1	Default		%default	ADV1
 xrdxrd	110	ADV	[pred="xrdxrd___MTE__1",cat=ADV]	xrdxrd___MTE__1	Default		%default	ADV1
-xwab âlwd	110	ADV	[pred="xwab âlwd___MTE__1",cat=ADV]	xwab âlwd___MTE__1	Default		%default	ADV1
+xwab ālwd	110	ADV	[pred="xwab ālwd___MTE__1",cat=ADV]	xwab ālwd___MTE__1	Default		%default	ADV1
 xwb	110	ADV	[pred="xwb___MTE__1",cat=ADV]	xwb___MTE__1	Default		%default	ADV1
 xwdbe xwd	110	ADV	[pred="xwdbe xwd___MTE__1",cat=ADV]	xwdbe xwd___MTE__1	Default		%default	ADV1
 xwnsrd	110	ADV	[pred="xwnsrd___MTE__1",cat=ADV]	xwnsrd___MTE__1	Default		%default	ADV1
@@ -621,30 +621,30 @@ zyrčšmy	110	ADV	[pred="zyrčšmy___MTE__1",cat=ADV]	zyrčšmy___MTE__1	Default
 çalça˝	300	ADV	[pred="çalça˝_____1",cat=ADV]	çalça˝_____1	Default		%default	ADV2
 çanya	300	ADV	[pred="çanya˝_____1",cat=ADV]	çanya˝_____1	Default		%default	ADV2
 çanya˝	300	ADV	[pred="çanya˝_____1",cat=ADV]	çanya˝_____1	Default		%default	ADV2
-âeme	100	ADV	[pred="âeme_____1",cat=ADV]	âeme_____1	Default		%default	ADV1
-âeste	110	ADV	[pred="âeste___MTE__1",cat=ADV]	âeste___MTE__1	Default		%default	ADV1
-âeste âeste	110	ADV	[pred="âeste âeste___MTE__1",cat=ADV]	âeste âeste___MTE__1	Default		%default	ADV1
-âgaeane	110	ADV	[pred="âgaeane___MTE__1",cat=ADV]	âgaeane___MTE__1	Default		%default	ADV1
-ân ja	100	ADV	[pred="ân ja_____1",cat=ADV]	ân ja_____1	Default		%default	ADV1
-ân wŕt	110	ADV	[pred="ân wŕt___MTE__1",cat=ADV]	ân wŕt___MTE__1	Default		%default	ADV1
-ân čnan	110	ADV	[pred="ân čnan___MTE__1",cat=ADV]	ân čnan___MTE__1	Default		%default	ADV1
-ân ŕdr	110	ADV	[pred="ân ŕdr___MTE__1",cat=ADV]	ân ŕdr___MTE__1	Default		%default	ADV1
-ângae	110	ADV	[pred="ângae___MTE__1",cat=ADV]	ângae___MTE__1	Default		%default	ADV1
-ânja	200	ADV	[pred="ânja_____1",cat=ADV]	ânja_____1	Default		%default	ADV1
-ânjay	100	ADV	[pred="ânjay_____1",cat=ADV]	ânjay_____1	Default		%default	ADV1
-ânjayy	100	ADV	[pred="ânjayy_____1",cat=ADV]	ânjayy_____1	Default		%default	ADV1
-ânwŕt	200	ADV	[pred="ânwŕt_____1",cat=ADV]	ânwŕt_____1	Default		%default	ADV1
-ânčnan	200	ADV	[pred="ânčnan_____1",cat=ADV]	ânčnan_____1	Default		%default	ADV1
-ânčnyn	100	ADV	[pred="ânčnyn_____1",cat=ADV]	ânčnyn_____1	Default		%default	ADV1
-ânŕdr	300	ADV	[pred="ânŕdr_____1",cat=ADV]	ânŕdr_____1	Default		%default	ADV1
-ânţwr	200	ADV	[pred="ânţwr_____1",cat=ADV]	ânţwr_____1	Default		%default	ADV1
-âram	110	ADV	[pred="âram___MTE__1",cat=ADV]	âram___MTE__1	Default		%default	ADV1
-âxrsr	110	ADV	[pred="âxrsr___MTE__1",cat=ADV]	âxrsr___MTE__1	Default		%default	ADV1
-âya	110	ADV	[pred="âya___MTE__1",cat=ADV]	âya___MTE__1	Default		%default	ADV1
-âzad	110	ADV	[pred="âzad___MTE__1",cat=ADV]	âzad___MTE__1	Default		%default	ADV1
-âzadane	110	ADV	[pred="âzadane___MTE__1",cat=ADV]	âzadane___MTE__1	Default		%default	ADV1
-âškar	110	ADV	[pred="âškar___MTE__1",cat=ADV]	âškar___MTE__1	Default		%default	ADV1
-âškara	110	ADV	[pred="âškara___MTE__1",cat=ADV]	âškara___MTE__1	Default		%default	ADV1
+āeme	100	ADV	[pred="āeme_____1",cat=ADV]	āeme_____1	Default		%default	ADV1
+āeste	110	ADV	[pred="āeste___MTE__1",cat=ADV]	āeste___MTE__1	Default		%default	ADV1
+āeste āeste	110	ADV	[pred="āeste āeste___MTE__1",cat=ADV]	āeste āeste___MTE__1	Default		%default	ADV1
+āgaeane	110	ADV	[pred="āgaeane___MTE__1",cat=ADV]	āgaeane___MTE__1	Default		%default	ADV1
+ān ja	100	ADV	[pred="ān ja_____1",cat=ADV]	ān ja_____1	Default		%default	ADV1
+ān wŕt	110	ADV	[pred="ān wŕt___MTE__1",cat=ADV]	ān wŕt___MTE__1	Default		%default	ADV1
+ān čnan	110	ADV	[pred="ān čnan___MTE__1",cat=ADV]	ān čnan___MTE__1	Default		%default	ADV1
+ān ŕdr	110	ADV	[pred="ān ŕdr___MTE__1",cat=ADV]	ān ŕdr___MTE__1	Default		%default	ADV1
+āngae	110	ADV	[pred="āngae___MTE__1",cat=ADV]	āngae___MTE__1	Default		%default	ADV1
+ānja	200	ADV	[pred="ānja_____1",cat=ADV]	ānja_____1	Default		%default	ADV1
+ānjay	100	ADV	[pred="ānjay_____1",cat=ADV]	ānjay_____1	Default		%default	ADV1
+ānjayy	100	ADV	[pred="ānjayy_____1",cat=ADV]	ānjayy_____1	Default		%default	ADV1
+ānwŕt	200	ADV	[pred="ānwŕt_____1",cat=ADV]	ānwŕt_____1	Default		%default	ADV1
+ānčnan	200	ADV	[pred="ānčnan_____1",cat=ADV]	ānčnan_____1	Default		%default	ADV1
+ānčnyn	100	ADV	[pred="ānčnyn_____1",cat=ADV]	ānčnyn_____1	Default		%default	ADV1
+ānŕdr	300	ADV	[pred="ānŕdr_____1",cat=ADV]	ānŕdr_____1	Default		%default	ADV1
+ānţwr	200	ADV	[pred="ānţwr_____1",cat=ADV]	ānţwr_____1	Default		%default	ADV1
+āram	110	ADV	[pred="āram___MTE__1",cat=ADV]	āram___MTE__1	Default		%default	ADV1
+āxrsr	110	ADV	[pred="āxrsr___MTE__1",cat=ADV]	āxrsr___MTE__1	Default		%default	ADV1
+āya	110	ADV	[pred="āya___MTE__1",cat=ADV]	āya___MTE__1	Default		%default	ADV1
+āzad	110	ADV	[pred="āzad___MTE__1",cat=ADV]	āzad___MTE__1	Default		%default	ADV1
+āzadane	110	ADV	[pred="āzadane___MTE__1",cat=ADV]	āzadane___MTE__1	Default		%default	ADV1
+āškar	110	ADV	[pred="āškar___MTE__1",cat=ADV]	āškar___MTE__1	Default		%default	ADV1
+āškara	110	ADV	[pred="āškara___MTE__1",cat=ADV]	āškara___MTE__1	Default		%default	ADV1
 če	200	ADV	[pred="če_____1",cat=ADV]	če_____1	Default		%default	ADV1
 če 'jb	100	ADV	[pred="če 'jb_____1",cat=ADV]	če 'jb_____1	Default		%default	ADV1
 če gwne	110	ADV	[pred="če gwne___MTE__1",cat=ADV]	če gwne___MTE__1	Default		%default	ADV1
@@ -667,27 +667,27 @@ zyrčšmy	110	ADV	[pred="zyrčšmy___MTE__1",cat=ADV]	zyrčšmy___MTE__1	Default
 đre đre	110	ADV	[pred="đre đre___MTE__1",cat=ADV]	đre đre___MTE__1	Default		%default	ADV1
 đyla	300	ADV	[pred="đyla˝_____1",cat=ADV]	đyla˝_____1	Default		%default	ADV2
 đyla˝	300	ADV	[pred="đyla˝_____1",cat=ADV]	đyla˝_____1	Default		%default	ADV2
-łal	110	ADV	[pred="łal___MTE__1",cat=ADV]	łal___MTE__1	Default		%default	ADV1
-łala	110	ADV	[pred="łala___MTE__1",cat=ADV]	łala___MTE__1	Default		%default	ADV1
-łdakçr	110	ADV	[pred="łdakçr___maximum__1",cat=ADV]	łdakçr___maximum__1	Default		%default	ADV1
-łdaŕl	110	ADV	[pred="łdaŕl___minimum__1",cat=ADV]	łdaŕl___minimum__1	Default		%default	ADV1
-łdwda	110	ADV	[pred="łdwda˝___about__1",cat=ADV]	łdwda˝___about__1	Default		%default	ADV2
-łdwda˝	110	ADV	[pred="łdwda˝___about__1",cat=ADV]	łdwda˝___about__1	Default		%default	ADV2
-łkma	300	ADV	[pred="łkma˝_____1",cat=ADV]	łkma˝_____1	Default		%default	ADV2
-łkma˝	300	ADV	[pred="łkma˝_____1",cat=ADV]	łkma˝_____1	Default		%default	ADV2
-łl nšde	110	ADV	[pred="łl nšde___MTE__1",cat=ADV]	łl nšde___MTE__1	Default		%default	ADV1
-łsaby	110	ADV	[pred="łsaby___MTE__1",cat=ADV]	łsaby___MTE__1	Default		%default	ADV1
-łtma	300	ADV	[pred="łtma˝_____1",cat=ADV]	łtma˝_____1	Default		%default	ADV2
-łtma˝	300	ADV	[pred="łtma˝_____1",cat=ADV]	łtma˝_____1	Default		%default	ADV2
-łwl włwš	110	ADV	[pred="łwl włwš___MTE__1",cat=ADV]	łwl włwš___MTE__1	Default		%default	ADV1
-łyf	200	ADV	[pred="łyf_____1",cat=ADV]	łyf_____1	Default		%default	ADV1
-łyrt zde	110	ADV	[pred="łyrt zde___MTE__1",cat=ADV]	łyrt zde___MTE__1	Default		%default	ADV1
-łŕa	300	ADV	[pred="łŕa˝_____1",cat=ADV]	łŕa˝_____1	Default		%default	ADV2
-łŕa˝	300	ADV	[pred="łŕa˝_____1",cat=ADV]	łŕa˝_____1	Default		%default	ADV2
-łŕyŕta	300	ADV	[pred="łŕyŕta˝_____1",cat=ADV]	łŕyŕta˝_____1	Default		%default	ADV2
-łŕyŕta˝	300	ADV	[pred="łŕyŕta˝_____1",cat=ADV]	łŕyŕta˝_____1	Default		%default	ADV2
-łźwra	300	ADV	[pred="łźwra˝_____1",cat=ADV]	łźwra˝_____1	Default		%default	ADV2
-łźwra˝	300	ADV	[pred="łźwra˝_____1",cat=ADV]	łźwra˝_____1	Default		%default	ADV2
+ħal	110	ADV	[pred="ħal___MTE__1",cat=ADV]	ħal___MTE__1	Default		%default	ADV1
+ħala	110	ADV	[pred="ħala___MTE__1",cat=ADV]	ħala___MTE__1	Default		%default	ADV1
+ħdakçr	110	ADV	[pred="ħdakçr___maximum__1",cat=ADV]	ħdakçr___maximum__1	Default		%default	ADV1
+ħdaŕl	110	ADV	[pred="ħdaŕl___minimum__1",cat=ADV]	ħdaŕl___minimum__1	Default		%default	ADV1
+ħdwda	110	ADV	[pred="ħdwda˝___about__1",cat=ADV]	ħdwda˝___about__1	Default		%default	ADV2
+ħdwda˝	110	ADV	[pred="ħdwda˝___about__1",cat=ADV]	ħdwda˝___about__1	Default		%default	ADV2
+ħkma	300	ADV	[pred="ħkma˝_____1",cat=ADV]	ħkma˝_____1	Default		%default	ADV2
+ħkma˝	300	ADV	[pred="ħkma˝_____1",cat=ADV]	ħkma˝_____1	Default		%default	ADV2
+ħl nšde	110	ADV	[pred="ħl nšde___MTE__1",cat=ADV]	ħl nšde___MTE__1	Default		%default	ADV1
+ħsaby	110	ADV	[pred="ħsaby___MTE__1",cat=ADV]	ħsaby___MTE__1	Default		%default	ADV1
+ħtma	300	ADV	[pred="ħtma˝_____1",cat=ADV]	ħtma˝_____1	Default		%default	ADV2
+ħtma˝	300	ADV	[pred="ħtma˝_____1",cat=ADV]	ħtma˝_____1	Default		%default	ADV2
+ħwl wħwš	110	ADV	[pred="ħwl wħwš___MTE__1",cat=ADV]	ħwl wħwš___MTE__1	Default		%default	ADV1
+ħyf	200	ADV	[pred="ħyf_____1",cat=ADV]	ħyf_____1	Default		%default	ADV1
+ħyrt zde	110	ADV	[pred="ħyrt zde___MTE__1",cat=ADV]	ħyrt zde___MTE__1	Default		%default	ADV1
+ħŕa	300	ADV	[pred="ħŕa˝_____1",cat=ADV]	ħŕa˝_____1	Default		%default	ADV2
+ħŕa˝	300	ADV	[pred="ħŕa˝_____1",cat=ADV]	ħŕa˝_____1	Default		%default	ADV2
+ħŕyŕta	300	ADV	[pred="ħŕyŕta˝_____1",cat=ADV]	ħŕyŕta˝_____1	Default		%default	ADV2
+ħŕyŕta˝	300	ADV	[pred="ħŕyŕta˝_____1",cat=ADV]	ħŕyŕta˝_____1	Default		%default	ADV2
+ħźwra	300	ADV	[pred="ħźwra˝_____1",cat=ADV]	ħźwra˝_____1	Default		%default	ADV2
+ħźwra˝	300	ADV	[pred="ħźwra˝_____1",cat=ADV]	ħźwra˝_____1	Default		%default	ADV2
 ŕa'dta	300	ADV	[pred="ŕa'dta˝_____1",cat=ADV]	ŕa'dta˝_____1	Default		%default	ADV2
 ŕa'dta˝	300	ADV	[pred="ŕa'dta˝_____1",cat=ADV]	ŕa'dta˝_____1	Default		%default	ADV2
 ŕanwna	300	ADV	[pred="ŕanwna˝_____1",cat=ADV]	ŕanwna˝_____1	Default		%default	ADV2
@@ -710,14 +710,14 @@ zyrčšmy	110	ADV	[pred="zyrčšmy___MTE__1",cat=ADV]	zyrčšmy___MTE__1	Default
 şadŕane	110	ADV	[pred="şadŕane___MTE__1",cat=ADV]	şadŕane___MTE__1	Default		%default	ADV1
 şaf	110	ADV	[pred="şaf___MTE__1",cat=ADV]	şaf___MTE__1	Default		%default	ADV1
 şbwrane	110	ADV	[pred="şbwrane___MTE__1",cat=ADV]	şbwrane___MTE__1	Default		%default	ADV1
-şbł	110	ADV	[pred="şbł___MTE__1",cat=ADV]	şbł___MTE__1	Default		%default	ADV1
-şrałta	300	ADV	[pred="şrałta˝_____1",cat=ADV]	şrałta˝_____1	Default		%default	ADV2
-şrałta˝	300	ADV	[pred="şrałta˝_____1",cat=ADV]	şrałta˝_____1	Default		%default	ADV2
+şbħ	110	ADV	[pred="şbħ___MTE__1",cat=ADV]	şbħ___MTE__1	Default		%default	ADV1
+şraħta	300	ADV	[pred="şraħta˝_____1",cat=ADV]	şraħta˝_____1	Default		%default	ADV2
+şraħta˝	300	ADV	[pred="şraħta˝_____1",cat=ADV]	şraħta˝_____1	Default		%default	ADV2
 şrf	110	ADV	[pred="şrf___MTE__1",cat=ADV]	şrf___MTE__1	Default		%default	ADV1
 şrfa	400	ADV	[pred="şrfa˝_____1",cat=ADV]	şrfa˝_____1	Default		%default	ADV2
 şrfa˝	400	ADV	[pred="şrfa˝_____1",cat=ADV]	şrfa˝_____1	Default		%default	ADV2
-şryła	300	ADV	[pred="şryła˝_____1",cat=ADV]	şryła˝_____1	Default		%default	ADV2
-şryła˝	300	ADV	[pred="şryła˝_____1",cat=ADV]	şryła˝_____1	Default		%default	ADV2
+şryħa	300	ADV	[pred="şryħa˝_____1",cat=ADV]	şryħa˝_____1	Default		%default	ADV2
+şryħa˝	300	ADV	[pred="şryħa˝_____1",cat=ADV]	şryħa˝_____1	Default		%default	ADV2
 šayd	400	ADV	[pred="šayd_____1",cat=ADV]	šayd_____1	Default		%default	ADV1
 šb	110	ADV	[pred="šb___MTE__1",cat=ADV]	šb___MTE__1	Default		%default	ADV1
 šbane	110	ADV	[pred="šbane___MTE__1",cat=ADV]	šbane___MTE__1	Default		%default	ADV1
@@ -739,5 +739,5 @@ zyrčšmy	110	ADV	[pred="zyrčšmy___MTE__1",cat=ADV]	zyrčšmy___MTE__1	Default
 źmny	110	ADV	[pred="źmny___MTE__1",cat=ADV]	źmny___MTE__1	Default		%default	ADV1
 źrwrta	300	ADV	[pred="źrwrta˝_____1",cat=ADV]	źrwrta˝_____1	Default		%default	ADV2
 źrwrta˝	300	ADV	[pred="źrwrta˝_____1",cat=ADV]	źrwrta˝_____1	Default		%default	ADV2
-żaera	300	ADV	[pred="żaera˝_____1",cat=ADV]	żaera˝_____1	Default		%default	ADV2
-żaera˝	300	ADV	[pred="żaera˝_____1",cat=ADV]	żaera˝_____1	Default		%default	ADV2
+ẓaera	300	ADV	[pred="ẓaera˝_____1",cat=ADV]	ẓaera˝_____1	Default		%default	ADV2
+ẓaera˝	300	ADV	[pred="ẓaera˝_____1",cat=ADV]	ẓaera˝_____1	Default		%default	ADV2

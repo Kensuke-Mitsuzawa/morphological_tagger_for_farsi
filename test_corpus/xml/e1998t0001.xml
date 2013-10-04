@@ -371,16 +371,16 @@
 						ħyaţ
 					</token_5>
 					<pos_5>
-						null
+						N
 					</pos_5>
 					<stem_5>
-						null
+						ħyaţ_____1
 					</stem_5>
 					<morph_5>
-						null
+						Sing
 					</morph_5>
 					<category_5>
-						null
+						N5:c
 					</category_5>
 				</position_5>
 				<position_6>
@@ -608,16 +608,16 @@
 						ħyaţš
 					</token_5>
 					<pos_5>
-						null
+						N
 					</pos_5>
 					<stem_5>
-						null
+						ħyaţ_____1
 					</stem_5>
 					<morph_5>
-						null
+						SingPers3s
 					</morph_5>
 					<category_5>
-						null
+						N5:c
 					</category_5>
 				</position_5>
 				<position_6>
@@ -2574,16 +2574,16 @@
 						āmdy
 					</token_1>
 					<pos_1>
-						null
+						V V
 					</pos_1>
 					<stem_1>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_1>
 					<morph_1>
-						null
+						2sgPreparfFam 2sgPreterit
 					</morph_1>
 					<category_1>
-						null
+						v24:v v24:v
 					</category_1>
 				</position_1>
 				<position_2>
@@ -3470,16 +3470,16 @@
 						āmd
 					</token_0>
 					<pos_0>
-						null
+						V V
 					</pos_0>
 					<stem_0>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_0>
 					<morph_0>
-						null
+						2*3sgPreterit infApocope
 					</morph_0>
 					<category_0>
-						null
+						v24:v v24:v
 					</category_0>
 				</position_0>
 				<position_1>
@@ -3504,16 +3504,16 @@
 						āmd
 					</token_2>
 					<pos_2>
-						null
+						V V
 					</pos_2>
 					<stem_2>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_2>
 					<morph_2>
-						null
+						2*3sgPreterit infApocope
 					</morph_2>
 					<category_2>
-						null
+						v24:v v24:v
 					</category_2>
 				</position_2>
 				<position_3>
@@ -3538,16 +3538,16 @@
 						āmd
 					</token_4>
 					<pos_4>
-						null
+						V V
 					</pos_4>
 					<stem_4>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_4>
 					<morph_4>
-						null
+						2*3sgPreterit infApocope
 					</morph_4>
 					<category_4>
-						null
+						v24:v v24:v
 					</category_4>
 				</position_4>
 				<position_5>
@@ -4401,16 +4401,16 @@
 						āmdn
 					</token_1>
 					<pos_1>
-						null
+						V V V
 					</pos_1>
 					<stem_1>
-						null
+						āmdn_____1 āmdn_____1 āmdn_____1
 					</stem_1>
 					<morph_1>
-						null
+						*10*inf 2*3plPreparfFam 2*3plPreteritFam
 					</morph_1>
 					<category_1>
-						null
+						v24:v v24:v v24:v
 					</category_1>
 				</position_1>
 				<position_2>
@@ -5111,16 +5111,16 @@
 						āmd
 					</token_0>
 					<pos_0>
-						null
+						V V
 					</pos_0>
 					<stem_0>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_0>
 					<morph_0>
-						null
+						2*3sgPreterit infApocope
 					</morph_0>
 					<category_0>
-						null
+						v24:v v24:v
 					</category_0>
 				</position_0>
 				<position_1>
@@ -5145,16 +5145,16 @@
 						āmd
 					</token_2>
 					<pos_2>
-						null
+						V V
 					</pos_2>
 					<stem_2>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_2>
 					<morph_2>
-						null
+						2*3sgPreterit infApocope
 					</morph_2>
 					<category_2>
-						null
+						v24:v v24:v
 					</category_2>
 				</position_2>
 				<position_3>
@@ -5315,16 +5315,16 @@
 						āŕa
 					</token_12>
 					<pos_12>
-						null
+						INTexcl N INTexcl
 					</pos_12>
 					<stem_12>
-						null
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_12>
 					<morph_12>
-						null
+						inv Sing inv
 					</morph_12>
 					<category_12>
-						null
+						inv N1:v inv
 					</category_12>
 				</position_12>
 				<position_13>
@@ -5382,16 +5382,16 @@
 						āŕa
 					</token_0>
 					<pos_0>
-						null
+						INTexcl N INTexcl
 					</pos_0>
 					<stem_0>
-						null
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_0>
 					<morph_0>
-						null
+						inv Sing inv
 					</morph_0>
 					<category_0>
-						null
+						inv N1:v inv
 					</category_0>
 				</position_0>
 				<position_1>
@@ -5416,16 +5416,16 @@
 						āmd
 					</token_2>
 					<pos_2>
-						null
+						V V
 					</pos_2>
 					<stem_2>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_2>
 					<morph_2>
-						null
+						2*3sgPreterit infApocope
 					</morph_2>
 					<category_2>
-						null
+						v24:v v24:v
 					</category_2>
 				</position_2>
 				<position_3>
@@ -5603,16 +5603,16 @@
 						āmdy
 					</token_13>
 					<pos_13>
-						null
+						V V
 					</pos_13>
 					<stem_13>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_13>
 					<morph_13>
-						null
+						2sgPreparfFam 2sgPreterit
 					</morph_13>
 					<category_13>
-						null
+						v24:v v24:v
 					</category_13>
 				</position_13>
 				<position_14>
@@ -6548,16 +6548,16 @@
 						āmd
 					</token_0>
 					<pos_0>
-						null
+						V V
 					</pos_0>
 					<stem_0>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_0>
 					<morph_0>
-						null
+						2*3sgPreterit infApocope
 					</morph_0>
 					<category_0>
-						null
+						v24:v v24:v
 					</category_0>
 				</position_0>
 				<position_1>
@@ -6582,16 +6582,16 @@
 						āmd
 					</token_2>
 					<pos_2>
-						null
+						V V
 					</pos_2>
 					<stem_2>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_2>
 					<morph_2>
-						null
+						2*3sgPreterit infApocope
 					</morph_2>
 					<category_2>
-						null
+						v24:v v24:v
 					</category_2>
 				</position_2>
 				<position_3>
@@ -6616,16 +6616,16 @@
 						āmd
 					</token_4>
 					<pos_4>
-						null
+						V V
 					</pos_4>
 					<stem_4>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_4>
 					<morph_4>
-						null
+						2*3sgPreterit infApocope
 					</morph_4>
 					<category_4>
-						null
+						v24:v v24:v
 					</category_4>
 				</position_4>
 				<position_5>
@@ -6904,16 +6904,16 @@
 						āmdn
 					</token_9>
 					<pos_9>
-						null
+						V V V
 					</pos_9>
 					<stem_9>
-						null
+						āmdn_____1 āmdn_____1 āmdn_____1
 					</stem_9>
 					<morph_9>
-						null
+						*10*inf 2*3plPreparfFam 2*3plPreteritFam
 					</morph_9>
 					<category_9>
-						null
+						v24:v v24:v v24:v
 					</category_9>
 				</position_9>
 				<position_10>
@@ -8023,16 +8023,16 @@
 						ānea
 					</token_41>
 					<pos_41>
-						null
+						PROpers
 					</pos_41>
 					<stem_41>
-						null
+						ānea___MTE__1
 					</stem_41>
 					<morph_41>
-						null
+						inv
 					</morph_41>
 					<category_41>
-						null
+						inv
 					</category_41>
 				</position_41>
 				<position_42>
@@ -8142,16 +8142,16 @@
 						ānea
 					</token_48>
 					<pos_48>
-						null
+						PROpers
 					</pos_48>
 					<stem_48>
-						null
+						ānea___MTE__1
 					</stem_48>
 					<morph_48>
-						null
+						inv
 					</morph_48>
 					<category_48>
-						null
+						inv
 					</category_48>
 				</position_48>
 				<position_49>
@@ -10171,16 +10171,16 @@
 						āmd
 					</token_7>
 					<pos_7>
-						null
+						V V
 					</pos_7>
 					<stem_7>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_7>
 					<morph_7>
-						null
+						2*3sgPreterit infApocope
 					</morph_7>
 					<category_7>
-						null
+						v24:v v24:v
 					</category_7>
 				</position_7>
 				<position_8>
@@ -10205,16 +10205,16 @@
 						āmd
 					</token_9>
 					<pos_9>
-						null
+						V V
 					</pos_9>
 					<stem_9>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_9>
 					<morph_9>
-						null
+						2*3sgPreterit infApocope
 					</morph_9>
 					<category_9>
-						null
+						v24:v v24:v
 					</category_9>
 				</position_9>
 				<position_10>
@@ -10239,16 +10239,16 @@
 						āmd
 					</token_11>
 					<pos_11>
-						null
+						V V
 					</pos_11>
 					<stem_11>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_11>
 					<morph_11>
-						null
+						2*3sgPreterit infApocope
 					</morph_11>
 					<category_11>
-						null
+						v24:v v24:v
 					</category_11>
 				</position_11>
 				<position_12>
@@ -10273,16 +10273,16 @@
 						āmd
 					</token_13>
 					<pos_13>
-						null
+						V V
 					</pos_13>
 					<stem_13>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_13>
 					<morph_13>
-						null
+						2*3sgPreterit infApocope
 					</morph_13>
 					<category_13>
-						null
+						v24:v v24:v
 					</category_13>
 				</position_13>
 				<position_14>
@@ -10341,16 +10341,16 @@
 						āŕa
 					</token_17>
 					<pos_17>
-						null
+						INTexcl N INTexcl
 					</pos_17>
 					<stem_17>
-						null
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_17>
 					<morph_17>
-						null
+						inv Sing inv
 					</morph_17>
 					<category_17>
-						null
+						inv N1:v inv
 					</category_17>
 				</position_17>
 				<position_18>
@@ -10408,16 +10408,16 @@
 						āŕa
 					</token_0>
 					<pos_0>
-						null
+						INTexcl N INTexcl
 					</pos_0>
 					<stem_0>
-						null
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_0>
 					<morph_0>
-						null
+						inv Sing inv
 					</morph_0>
 					<category_0>
-						null
+						inv N1:v inv
 					</category_0>
 				</position_0>
 				<position_1>
@@ -11151,16 +11151,16 @@
 						āmd
 					</token_10>
 					<pos_10>
-						null
+						V V
 					</pos_10>
 					<stem_10>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_10>
 					<morph_10>
-						null
+						2*3sgPreterit infApocope
 					</morph_10>
 					<category_10>
-						null
+						v24:v v24:v
 					</category_10>
 				</position_10>
 				<position_11>
@@ -11185,16 +11185,16 @@
 						āmd
 					</token_12>
 					<pos_12>
-						null
+						V V
 					</pos_12>
 					<stem_12>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_12>
 					<morph_12>
-						null
+						2*3sgPreterit infApocope
 					</morph_12>
 					<category_12>
-						null
+						v24:v v24:v
 					</category_12>
 				</position_12>
 				<position_13>
@@ -11219,16 +11219,16 @@
 						āmd
 					</token_14>
 					<pos_14>
-						null
+						V V
 					</pos_14>
 					<stem_14>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_14>
 					<morph_14>
-						null
+						2*3sgPreterit infApocope
 					</morph_14>
 					<category_14>
-						null
+						v24:v v24:v
 					</category_14>
 				</position_14>
 				<position_15>
@@ -11236,16 +11236,16 @@
 						āmd
 					</token_15>
 					<pos_15>
-						null
+						V V
 					</pos_15>
 					<stem_15>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_15>
 					<morph_15>
-						null
+						2*3sgPreterit infApocope
 					</morph_15>
 					<category_15>
-						null
+						v24:v v24:v
 					</category_15>
 				</position_15>
 				<position_16>
@@ -11304,16 +11304,16 @@
 						āŕa
 					</token_19>
 					<pos_19>
-						null
+						INTexcl N INTexcl
 					</pos_19>
 					<stem_19>
-						null
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_19>
 					<morph_19>
-						null
+						inv Sing inv
 					</morph_19>
 					<category_19>
-						null
+						inv N1:v inv
 					</category_19>
 				</position_19>
 				<position_20>
@@ -11371,16 +11371,16 @@
 						āŕa
 					</token_0>
 					<pos_0>
-						null
+						INTexcl N INTexcl
 					</pos_0>
 					<stem_0>
-						null
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_0>
 					<morph_0>
-						null
+						inv Sing inv
 					</morph_0>
 					<category_0>
-						null
+						inv N1:v inv
 					</category_0>
 				</position_0>
 				<position_1>
@@ -12064,16 +12064,16 @@
 						āmd
 					</token_7>
 					<pos_7>
-						null
+						V V
 					</pos_7>
 					<stem_7>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_7>
 					<morph_7>
-						null
+						2*3sgPreterit infApocope
 					</morph_7>
 					<category_7>
-						null
+						v24:v v24:v
 					</category_7>
 				</position_7>
 				<position_8>
@@ -12098,16 +12098,16 @@
 						āmd
 					</token_9>
 					<pos_9>
-						null
+						V V
 					</pos_9>
 					<stem_9>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_9>
 					<morph_9>
-						null
+						2*3sgPreterit infApocope
 					</morph_9>
 					<category_9>
-						null
+						v24:v v24:v
 					</category_9>
 				</position_9>
 				<position_10>
@@ -12132,16 +12132,16 @@
 						āmd
 					</token_11>
 					<pos_11>
-						null
+						V V
 					</pos_11>
 					<stem_11>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_11>
 					<morph_11>
-						null
+						2*3sgPreterit infApocope
 					</morph_11>
 					<category_11>
-						null
+						v24:v v24:v
 					</category_11>
 				</position_11>
 				<position_12>
@@ -12166,16 +12166,16 @@
 						āmd
 					</token_13>
 					<pos_13>
-						null
+						V V
 					</pos_13>
 					<stem_13>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_13>
 					<morph_13>
-						null
+						2*3sgPreterit infApocope
 					</morph_13>
 					<category_13>
-						null
+						v24:v v24:v
 					</category_13>
 				</position_13>
 				<position_14>
@@ -12234,16 +12234,16 @@
 						āŕa
 					</token_17>
 					<pos_17>
-						null
+						INTexcl N INTexcl
 					</pos_17>
 					<stem_17>
-						null
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_17>
 					<morph_17>
-						null
+						inv Sing inv
 					</morph_17>
 					<category_17>
-						null
+						inv N1:v inv
 					</category_17>
 				</position_17>
 				<position_18>
@@ -13432,16 +13432,16 @@
 						āmdn
 					</token_5>
 					<pos_5>
-						null
+						V V V
 					</pos_5>
 					<stem_5>
-						null
+						āmdn_____1 āmdn_____1 āmdn_____1
 					</stem_5>
 					<morph_5>
-						null
+						*10*inf 2*3plPreparfFam 2*3plPreteritFam
 					</morph_5>
 					<category_5>
-						null
+						v24:v v24:v v24:v
 					</category_5>
 				</position_5>
 				<position_6>
@@ -13737,16 +13737,16 @@
 						āmdnd
 					</token_14>
 					<pos_14>
-						null
+						V V
 					</pos_14>
 					<stem_14>
-						null
+						āmdn_____1 āmdn_____1
 					</stem_14>
 					<morph_14>
-						null
+						2*3plPreterit 3plPreparfFam
 					</morph_14>
 					<category_14>
-						null
+						v24:v v24:v
 					</category_14>
 				</position_14>
 				<position_15>

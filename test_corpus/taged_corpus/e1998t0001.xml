@@ -223,7 +223,7 @@
                 "inv"
             ], 
             [
-                null
+                "N5:c"
             ], 
             [
                 "v26", 
@@ -277,7 +277,7 @@
                 "DETquant"
             ], 
             [
-                null
+                "N"
             ], 
             [
                 "V", 
@@ -332,7 +332,7 @@
                 "yk_____1"
             ], 
             [
-                null
+                "ħyaţ_____1"
             ], 
             [
                 "daštn_____1", 
@@ -405,7 +405,7 @@
                 "inv"
             ], 
             [
-                null
+                "Sing"
             ], 
             [
                 "2*3sgPastprog", 
@@ -471,7 +471,7 @@
                 "inv"
             ], 
             [
-                null
+                "N5:c"
             ], 
             [
                 "v26", 
@@ -520,7 +520,7 @@
                 "PROdem"
             ], 
             [
-                null
+                "N"
             ], 
             [
                 "V", 
@@ -570,7 +570,7 @@
                 "ayn_____1"
             ], 
             [
-                null
+                "ħyaţ_____1"
             ], 
             [
                 "daštn_____1", 
@@ -638,7 +638,7 @@
                 "inv"
             ], 
             [
-                null
+                "SingPers3s"
             ], 
             [
                 "2*3sgPastprog", 
@@ -2652,7 +2652,8 @@
                 "N5:c"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -2684,7 +2685,8 @@
                 "N"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "CONJsubord"
@@ -2717,7 +2719,8 @@
                 "xwb_____2"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "ke_____1"
@@ -2763,7 +2766,8 @@
                 "Sing"
             ], 
             [
-                null
+                "2sgPreparfFam", 
+                "2sgPreterit"
             ], 
             [
                 "inv"
@@ -3615,19 +3619,22 @@
     {
         "category": [
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -3722,19 +3729,22 @@
         ], 
         "pos_perlex": [
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
@@ -3830,19 +3840,22 @@
         "after_conv_sentence": "āmd w āmd w āmd w byše_ay  ra rd krd w baqy ra rd krd w dšty ra rd krd w ta rsyd be yk grg .", 
         "stem": [
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
@@ -3971,19 +3984,22 @@
         "persian_sentence": " اومد و اومد و اومد و بیشه ای  رو رد کرد و باغی رو رد کرد و دشتی رو رد کرد و تا رسید به یه گرگه.", 
         "morph_tag": [
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
@@ -4574,7 +4590,9 @@
                 "v22"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -4606,7 +4624,9 @@
                 "V"
             ], 
             [
-                null
+                "V", 
+                "V", 
+                "V"
             ], 
             [
                 "CONJsubord"
@@ -4639,7 +4659,9 @@
                 "gftn_____2"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "ke_____1"
@@ -4685,7 +4707,9 @@
                 "infApocope"
             ], 
             [
-                null
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam"
             ], 
             [
                 "inv"
@@ -5335,13 +5359,15 @@
     {
         "category": [
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -5383,7 +5409,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "N1:v", 
+                "inv"
             ], 
             [
                 "N15:c", 
@@ -5395,13 +5423,15 @@
         ], 
         "pos_perlex": [
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
@@ -5443,7 +5473,9 @@
                 "P"
             ], 
             [
-                null
+                "INTexcl", 
+                "N", 
+                "INTexcl"
             ], 
             [
                 "N", 
@@ -5456,13 +5488,15 @@
         "after_conv_sentence": "āmd w āmd w baz msaftra ţy krd , ta rsyd be āŕa šyr .", 
         "stem": [
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
@@ -5504,7 +5538,9 @@
                 "be_____1"
             ], 
             [
-                null
+                "āŕa_____1", 
+                "āŕa_____1", 
+                "āŕa_____1"
             ], 
             [
                 "šyr_____1", 
@@ -5538,13 +5574,15 @@
         "persian_sentence": " اومد و اومد و باز مسافتی رو طی کرد، تا رسید به آقا شیره.", 
         "morph_tag": [
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
@@ -5586,7 +5624,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing", 
@@ -5617,14 +5657,17 @@
     {
         "category": [
             [
-                null
+                "inv", 
+                "N1:v", 
+                "inv"
             ], 
             [
                 "N15:c", 
                 "N5:c"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "ADJ:c", 
@@ -5676,7 +5719,8 @@
                 "v28"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -5704,14 +5748,17 @@
         ], 
         "pos_perlex": [
             [
-                null
+                "INTexcl", 
+                "N", 
+                "INTexcl"
             ], 
             [
                 "N", 
                 "N"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADJ", 
@@ -5763,7 +5810,8 @@
                 "V"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
@@ -5792,14 +5840,17 @@
         "after_conv_sentence": "āŕa šyr āmd byrwn w gft ke ay xale pyr zn xwb šd āmdy w mn darm az grsngy my_myrm .", 
         "stem": [
             [
-                null
+                "āŕa_____1", 
+                "āŕa_____1", 
+                "āŕa_____1"
             ], 
             [
                 "šyr_____1", 
                 "šyr_____2"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "byrwn_____1", 
@@ -5851,7 +5902,8 @@
                 "šdn_____2"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
@@ -5906,14 +5958,17 @@
         "persian_sentence": " آقا شیره اومد بیرون و گفت که ای خاله پیر زن خوب شد اومدی و من دارم از گشنگی میمیرم.", 
         "morph_tag": [
             [
-                null
+                "inv", 
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing", 
                 "Sing"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "", 
@@ -5965,7 +6020,8 @@
                 "infApocope"
             ], 
             [
-                null
+                "2sgPreparfFam", 
+                "2sgPreterit"
             ], 
             [
                 "inv"
@@ -6893,19 +6949,22 @@
     {
         "category": [
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -6932,19 +6991,22 @@
         ], 
         "pos_perlex": [
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
@@ -6972,19 +7034,22 @@
         "after_conv_sentence": "āmd w āmd w āmd w rsyd be xwnۀ dxtrš .", 
         "stem": [
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
@@ -7028,19 +7093,22 @@
         "persian_sentence": " اومد و اومد و اومد و رسید به خونۀ دخترش.", 
         "morph_tag": [
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
@@ -7118,7 +7186,9 @@
                 null
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -7271,7 +7341,9 @@
                 null
             ], 
             [
-                null
+                "V", 
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
@@ -7425,7 +7497,9 @@
                 null
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
@@ -7619,7 +7693,9 @@
                 null
             ], 
             [
-                null
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam"
             ], 
             [
                 "inv"
@@ -7933,7 +8009,7 @@
                 "N5:c"
             ], 
             [
-                null
+                "inv"
             ], 
             [
                 "inv", 
@@ -7958,7 +8034,7 @@
                 "N5:c"
             ], 
             [
-                null
+                "inv"
             ], 
             [
                 "N5:c", 
@@ -8159,7 +8235,7 @@
                 "N"
             ], 
             [
-                null
+                "PROpers"
             ], 
             [
                 "P", 
@@ -8184,7 +8260,7 @@
                 "N"
             ], 
             [
-                null
+                "PROpers"
             ], 
             [
                 "N", 
@@ -8386,7 +8462,7 @@
                 "kmk_____1"
             ], 
             [
-                null
+                "ānea___MTE__1"
             ], 
             [
                 "tw_____1", 
@@ -8411,7 +8487,7 @@
                 "kmk_____1"
             ], 
             [
-                null
+                "ānea___MTE__1"
             ], 
             [
                 "krd_____1", 
@@ -8678,7 +8754,7 @@
                 "Sing"
             ], 
             [
-                null
+                "inv"
             ], 
             [
                 "inv", 
@@ -8703,7 +8779,7 @@
                 "Sing"
             ], 
             [
-                null
+                "inv"
             ], 
             [
                 "Sing", 
@@ -10624,25 +10700,29 @@
                 "v2"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv", 
@@ -10658,7 +10738,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "N1:v", 
+                "inv"
             ], 
             [
                 "N15:c", 
@@ -10692,25 +10774,29 @@
                 "V"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "CLASSpl", 
@@ -10726,7 +10812,9 @@
                 "P"
             ], 
             [
-                null
+                "INTexcl", 
+                "N", 
+                "INTexcl"
             ], 
             [
                 "N", 
@@ -10761,25 +10849,29 @@
                 "xwrdn_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "ta_____1", 
@@ -10795,7 +10887,9 @@
                 "be_____1"
             ], 
             [
-                null
+                "āŕa_____1", 
+                "āŕa_____1", 
+                "āŕa_____1"
             ], 
             [
                 "šyr_____1", 
@@ -10855,25 +10949,29 @@
                 "2*3sgPreInd"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv", 
@@ -10889,7 +10987,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing", 
@@ -10925,7 +11025,9 @@
     {
         "category": [
             [
-                null
+                "inv", 
+                "N1:v", 
+                "inv"
             ], 
             [
                 "N15:c", 
@@ -10976,7 +11078,9 @@
         ], 
         "pos_perlex": [
             [
-                null
+                "INTexcl", 
+                "N", 
+                "INTexcl"
             ], 
             [
                 "N", 
@@ -11028,7 +11132,9 @@
         "after_conv_sentence": "āŕa šyr gft ay kdwql bzn tw ndydy yk pyre zn ?", 
         "stem": [
             [
-                null
+                "āŕa_____1", 
+                "āŕa_____1", 
+                "āŕa_____1"
             ], 
             [
                 "šyr_____1", 
@@ -11097,7 +11203,9 @@
         "persian_sentence": " آقا شیره گفت ای کدوقل بزن تو ندیدی یه پیره زن؟", 
         "morph_tag": [
             [
-                null
+                "inv", 
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing", 
@@ -11608,22 +11716,26 @@
                 null
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv", 
@@ -11639,7 +11751,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "N1:v", 
+                "inv"
             ], 
             [
                 "N5:c"
@@ -11684,22 +11798,26 @@
                 null
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "CLASSpl", 
@@ -11715,7 +11833,9 @@
                 "P"
             ], 
             [
-                null
+                "INTexcl", 
+                "N", 
+                "INTexcl"
             ], 
             [
                 "N"
@@ -11761,22 +11881,26 @@
                 null
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "ta_____1", 
@@ -11792,7 +11916,9 @@
                 "be_____1"
             ], 
             [
-                null
+                "āŕa_____1", 
+                "āŕa_____1", 
+                "āŕa_____1"
             ], 
             [
                 "grg_____1"
@@ -11865,22 +11991,26 @@
                 null
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv", 
@@ -11896,7 +12026,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing"
@@ -11933,7 +12065,9 @@
     {
         "category": [
             [
-                null
+                "inv", 
+                "N1:v", 
+                "inv"
             ], 
             [
                 "N5:c"
@@ -11989,7 +12123,9 @@
         ], 
         "pos_perlex": [
             [
-                null
+                "INTexcl", 
+                "N", 
+                "INTexcl"
             ], 
             [
                 "N"
@@ -12046,7 +12182,9 @@
         "after_conv_sentence": "āŕa grg gftn ke kdw ql bzn šma ndydy yk pyr zn ?", 
         "stem": [
             [
-                null
+                "āŕa_____1", 
+                "āŕa_____1", 
+                "āŕa_____1"
             ], 
             [
                 "grg_____1"
@@ -12121,7 +12259,9 @@
         "persian_sentence": " آقا گرگه گفتش که کدو قل بزن شما ندیدی یک پیر زن؟", 
         "morph_tag": [
             [
-                null
+                "inv", 
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing"
@@ -12615,25 +12755,29 @@
                 null
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv", 
@@ -12649,7 +12793,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "N1:v", 
+                "inv"
             ], 
             [
                 "N5:c"
@@ -12686,25 +12832,29 @@
                 null
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "CLASSpl", 
@@ -12720,7 +12870,9 @@
                 "P"
             ], 
             [
-                null
+                "INTexcl", 
+                "N", 
+                "INTexcl"
             ], 
             [
                 "N"
@@ -12758,25 +12910,29 @@
                 null
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "ta_____1", 
@@ -12792,7 +12948,9 @@
                 "be_____1"
             ], 
             [
-                null
+                "āŕa_____1", 
+                "āŕa_____1", 
+                "āŕa_____1"
             ], 
             [
                 "šqal_____1"
@@ -12855,25 +13013,29 @@
                 null
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "inv", 
@@ -12889,7 +13051,9 @@
                 "inv"
             ], 
             [
-                null
+                "inv", 
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing"
@@ -14063,7 +14227,9 @@
                 null
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "ADJ:c", 
@@ -14097,7 +14263,9 @@
                 null
             ], 
             [
-                null
+                "V", 
+                "V", 
+                "V"
             ], 
             [
                 "ADJ", 
@@ -14132,7 +14300,9 @@
                 null
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 "byrwn_____1", 
@@ -14180,7 +14350,9 @@
                 null
             ], 
             [
-                null
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam"
             ], 
             [
                 "", 
@@ -14262,7 +14434,8 @@
                 "inv"
             ], 
             [
-                null
+                "v24:v", 
+                "v24:v"
             ], 
             [
                 "inv"
@@ -14355,7 +14528,8 @@
                 "ADVcoord"
             ], 
             [
-                null
+                "V", 
+                "V"
             ], 
             [
                 "DELM"
@@ -14449,7 +14623,8 @@
                 "w_____1"
             ], 
             [
-                null
+                "āmdn_____1", 
+                "āmdn_____1"
             ], 
             [
                 ",_____1"
@@ -14570,7 +14745,8 @@
                 "inv"
             ], 
             [
-                null
+                "2*3plPreterit", 
+                "3plPreparfFam"
             ], 
             [
                 "inv"

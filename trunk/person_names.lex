@@ -16,7 +16,7 @@
 'bas 'bdy	100	PN	[pred="'bas 'bdy___Abbas Abdi__1",cat=PN]	'bas 'bdy___Abbas Abdi__1	Default		%default	inv
 'bas 'lyzade	100	PN	[pred="'bas 'lyzade_____1",cat=PN]	'bas 'lyzade_____1	Default		%default	inv
 'bas 'ţar	100	PN	[pred="'bas 'ţar___Abbas (photographer)__1",cat=PN]	'bas 'ţar___Abbas (photographer)__1	Default		%default	inv
-'bas amyrantáżam	100	PN	[pred="'bas amyrantáżam___Abbas Amir-Entezam__1",cat=PN]	'bas amyrantáżam___Abbas Amir-Entezam__1	Default		%default	inv
+'bas amyrantáẓam	100	PN	[pred="'bas amyrantáẓam___Abbas Amir-Entezam__1",cat=PN]	'bas amyrantáẓam___Abbas Amir-Entezam__1	Default		%default	inv
 'bas aŕbal aštyany	100	PN	[pred="'bas aŕbal aštyany_____1",cat=PN]	'bas aŕbal aštyany_____1	Default		%default	inv
 'bas babayy	100	PN	[pred="'bas babayy_____1",cat=PN]	'bas babayy_____1	Default		%default	inv
 'bas bn 'ly	100	PN	[pred="'bas bn 'ly___Al-Abbas ibn Ali__1",cat=PN]	'bas bn 'ly___Al-Abbas ibn Ali__1	Default		%default	inv
@@ -32,7 +32,7 @@
 'bas ms'wdy	100	PN	[pred="'bas ms'wdy_____1",cat=PN]	'bas ms'wdy_____1	Default		%default	inv
 'bas mylany	100	PN	[pred="'bas mylany___Abbas Milani__1",cat=PN]	'bas mylany___Abbas Milani__1	Default		%default	inv
 'bas myrza	100	PN	[pred="'bas myrza___Abbas Mirza__1",cat=PN]	'bas myrza___Abbas Mirza__1	Default		%default	inv
-'bas młmdy	100	PN	[pred="'bas młmdy___Abbas Mohammadi__1",cat=PN]	'bas młmdy___Abbas Mohammadi__1	Default		%default	inv
+'bas mħmdy	100	PN	[pred="'bas mħmdy___Abbas Mohammadi__1",cat=PN]	'bas mħmdy___Abbas Mohammadi__1	Default		%default	inv
 'bas mşdŕ	100	PN	[pred="'bas mşdŕ_____1",cat=PN]	'bas mşdŕ_____1	Default		%default	inv
 'bas n'lbndyan	100	PN	[pred="'bas n'lbndyan_____1",cat=PN]	'bas n'lbndyan_____1	Default		%default	inv
 'bas palyzdar	100	PN	[pred="'bas palyzdar___Abbas Palizdar__1",cat=PN]	'bas palyzdar___Abbas Palizdar__1	Default		%default	inv
@@ -41,13 +41,13 @@
 'bas slymy nmyn	100	PN	[pred="'bas slymy nmyn_____1",cat=PN]	'bas slymy nmyn_____1	Default		%default	inv
 'bas smakar	100	PN	[pred="'bas smakar_____1",cat=PN]	'bas smakar_____1	Default		%default	inv
 'bas srxab	100	PN	[pred="'bas srxab_____1",cat=PN]	'bas srxab_____1	Default		%default	inv
-'bas słab	100	PN	[pred="'bas słab_____1",cat=PN]	'bas słab_____1	Default		%default	inv
+'bas sħab	100	PN	[pred="'bas sħab_____1",cat=PN]	'bas sħab_____1	Default		%default	inv
 'bas wsym afndy	100	PN	[pred="'bas wsym afndy_____1",cat=PN]	'bas wsym afndy_____1	Default		%default	inv
 'bas xlyly	100	PN	[pred="'bas xlyly_____1",cat=PN]	'bas xlyly_____1	Default		%default	inv
 'bas ymyny_šryf	100	PN	[pred="'bas ymyny_šryf_____1",cat=PN]	'bas ymyny_šryf_____1	Default		%default	inv
 'bas zryab xwyy	100	PN	[pred="'bas zryab xwyy___Abbas Zaryab Khoi__1",cat=PN]	'bas zryab xwyy___Abbas Zaryab Khoi__1	Default		%default	inv
-'bas âŕayy	100	PN	[pred="'bas âŕayy___Abbas Aghaei__1",cat=PN]	'bas âŕayy___Abbas Aghaei__1	Default		%default	inv
-'bas łkym_zade	100	PN	[pred="'bas łkym_zade_____1",cat=PN]	'bas łkym_zade_____1	Default		%default	inv
+'bas āŕayy	100	PN	[pred="'bas āŕayy___Abbas Aghaei__1",cat=PN]	'bas āŕayy___Abbas Aghaei__1	Default		%default	inv
+'bas ħkym_zade	100	PN	[pred="'bas ħkym_zade_____1",cat=PN]	'bas ħkym_zade_____1	Default		%default	inv
 'bas ŕadry	100	PN	[pred="'bas ŕadry_____1",cat=PN]	'bas ŕadry_____1	Default		%default	inv
 'bas şadŕy	100	PN	[pred="'bas şadŕy_____1",cat=PN]	'bas şadŕy_____1	Default		%default	inv
 'bas şfary	100	PN	[pred="'bas şfary_____1",cat=PN]	'bas şfary_____1	Default		%default	inv
@@ -57,7 +57,7 @@
 'basŕly glša´yan	100	PN	[pred="'basŕly glša´yan_____1",cat=PN]	'basŕly glša´yan_____1	Default		%default	inv
 'basŕly qfary_frd	100	PN	[pred="'basŕly qfary_frd_____1",cat=PN]	'basŕly qfary_frd_____1	Default		%default	inv
 'basŕly rnjbr	100	PN	[pred="'basŕly rnjbr_____1",cat=PN]	'basŕly rnjbr_____1	Default		%default	inv
-'bd almn'm şalł 'lY al'zY	100	PN	[pred="'bd almn'm şalł 'lY al'zY_____1",cat=PN]	'bd almn'm şalł 'lY al'zY_____1	Default		%default	inv
+'bd almn'm şalħ 'lY al'zY	100	PN	[pred="'bd almn'm şalħ 'lY al'zY_____1",cat=PN]	'bd almn'm şalħ 'lY al'zY_____1	Default		%default	inv
 'bdal'ly bazrgan	100	PN	[pred="'bdal'ly bazrgan_____1",cat=PN]	'bdal'ly bazrgan_____1	Default		%default	inv
 'bdal'ly dstqyb	100	PN	[pred="'bdal'ly dstqyb_____1",cat=PN]	'bdal'ly dstqyb_____1	Default		%default	inv
 'bdal'ly emaywn	100	PN	[pred="'bdal'ly emaywn_____1",cat=PN]	'bdal'ly emaywn_____1	Default		%default	inv
@@ -68,22 +68,22 @@
 'bdal'zyz mwlwdy	100	PN	[pred="'bdal'zyz mwlwdy_____1",cat=PN]	'bdal'zyz mwlwdy_____1	Default		%default	inv
 'bdal'zyz rntysy	100	PN	[pred="'bdal'zyz rntysy___Abdel Aziz al-Rantissi__1",cat=PN]	'bdal'zyz rntysy___Abdel Aziz al-Rantissi__1	Default		%default	inv
 'bdal'zyz slymy	100	PN	[pred="'bdal'zyz slymy_____1",cat=PN]	'bdal'zyz slymy_____1	Default		%default	inv
-'bdal'zyz łkym	100	PN	[pred="'bdal'zyz łkym___Abdul Aziz al-Hakim__1",cat=PN]	'bdal'zyz łkym___Abdul Aziz al-Hakim__1	Default		%default	inv
-'bdal'żym rźayy	100	PN	[pred="'bdal'żym rźayy_____1",cat=PN]	'bdal'żym rźayy_____1	Default		%default	inv
-'bdalałd memnd	100	PN	[pred="'bdalałd memnd___Abdul Ahad Momand__1",cat=PN]	'bdalałd memnd___Abdul Ahad Momand__1	Default		%default	inv
-'bdalftał slţany	100	PN	[pred="'bdalftał slţany___Abdolfattah Soltani__1",cat=PN]	'bdalftał slţany___Abdolfattah Soltani__1	Default		%default	inv
+'bdal'zyz ħkym	100	PN	[pred="'bdal'zyz ħkym___Abdul Aziz al-Hakim__1",cat=PN]	'bdal'zyz ħkym___Abdul Aziz al-Hakim__1	Default		%default	inv
+'bdal'ẓym rźayy	100	PN	[pred="'bdal'ẓym rźayy_____1",cat=PN]	'bdal'ẓym rźayy_____1	Default		%default	inv
+'bdalaħd memnd	100	PN	[pred="'bdalaħd memnd___Abdul Ahad Momand__1",cat=PN]	'bdalaħd memnd___Abdul Ahad Momand__1	Default		%default	inv
+'bdalftaħ slţany	100	PN	[pred="'bdalftaħ slţany___Abdolfattah Soltani__1",cat=PN]	'bdalftaħ slţany___Abdolfattah Soltani__1	Default		%default	inv
 'bdaljbar ŕeary	100	PN	[pred="'bdaljbar ŕeary_____1",cat=PN]	'bdaljbar ŕeary_____1	Default		%default	inv
 'bdalkrym eašmy_nžad	100	PN	[pred="'bdalkrym eašmy_nžad_____1",cat=PN]	'bdalkrym eašmy_nžad_____1	Default		%default	inv
 'bdalkrym ršydyan	100	PN	[pred="'bdalkrym ršydyan_____1",cat=PN]	'bdalkrym ršydyan_____1	Default		%default	inv
 'bdalkrym srwš	100	PN	[pred="'bdalkrym srwš___Abdolkarim Soroush__1",cat=PN]	'bdalkrym srwš___Abdolkarim Soroush__1	Default		%default	inv
 'bdalkrym tmna	100	PN	[pred="'bdalkrym tmna_____1",cat=PN]	'bdalkrym tmna_____1	Default		%default	inv
-'bdalkrym łkmt yqmayy	100	PN	[pred="'bdalkrym łkmt yqmayy_____1",cat=PN]	'bdalkrym łkmt yqmayy_____1	Default		%default	inv
+'bdalkrym ħkmt yqmayy	100	PN	[pred="'bdalkrym ħkmt yqmayy_____1",cat=PN]	'bdalkrym ħkmt yqmayy_____1	Default		%default	inv
 'bdalkrym ŕasm	100	PN	[pred="'bdalkrym ŕasm___Abd al-Karim Qasim__1",cat=PN]	'bdalkrym ŕasm___Abd al-Karim Qasim__1	Default		%default	inv
 'bdalkrym ŕryb	100	PN	[pred="'bdalkrym ŕryb_____1",cat=PN]	'bdalkrym ŕryb_____1	Default		%default	inv
 'bdalle 'bdalle	100	PN	[pred="'bdalle 'bdalle___Abdullah Abdullah__1",cat=PN]	'bdalle 'bdalle___Abdullah Abdullah__1	Default		%default	inv
 'bdalle anwar	100	PN	[pred="'bdalle anwar_____1",cat=PN]	'bdalle anwar_____1	Default		%default	inv
 'bdalle awjalan	100	PN	[pred="'bdalle awjalan___Abdullah Öcalan__1",cat=PN]	'bdalle awjalan___Abdullah Öcalan__1	Default		%default	inv
-'bdalle ałmd bdawy	100	PN	[pred="'bdalle ałmd bdawy___Abdullah Ahmad Badawi__1",cat=PN]	'bdalle ałmd bdawy___Abdullah Ahmad Badawi__1	Default		%default	inv
+'bdalle aħmd bdawy	100	PN	[pred="'bdalle aħmd bdawy___Abdullah Ahmad Badawi__1",cat=PN]	'bdalle aħmd bdawy___Abdullah Ahmad Badawi__1	Default		%default	inv
 'bdalle bn 'bdal'zyz	100	PN	[pred="'bdalle bn 'bdal'zyz___Abdullah of Saudi Arabia__1",cat=PN]	'bdalle bn 'bdal'zyz___Abdullah of Saudi Arabia__1	Default		%default	inv
 'bdalle bn jbryn	100	PN	[pred="'bdalle bn jbryn___Abdullah Abdah Rahman Jabrin__1",cat=PN]	'bdalle bn jbryn___Abdullah Abdah Rahman Jabrin__1	Default		%default	inv
 'bdalle dwamy	100	PN	[pred="'bdalle dwamy___Abdollah Davami__1",cat=PN]	'bdalle dwamy___Abdollah Davami__1	Default		%default	inv
@@ -96,7 +96,7 @@
 'bdalle metdy	100	PN	[pred="'bdalle metdy_____1",cat=PN]	'bdalle metdy_____1	Default		%default	inv
 'bdalle mstwfy	100	PN	[pred="'bdalle mstwfy_____1",cat=PN]	'bdalle mstwfy_____1	Default		%default	inv
 'bdalle mwmny	100	PN	[pred="'bdalle mwmny_____1",cat=PN]	'bdalle mwmny_____1	Default		%default	inv
-'bdalle mwłd	100	PN	[pred="'bdalle mwłd___Abdollah Movahed__1",cat=PN]	'bdalle mwłd___Abdollah Movahed__1	Default		%default	inv
+'bdalle mwħd	100	PN	[pred="'bdalle mwħd___Abdollah Movahed__1",cat=PN]	'bdalle mwħd___Abdollah Movahed__1	Default		%default	inv
 'bdalle nwrayy	100	PN	[pred="'bdalle nwrayy_____1",cat=PN]	'bdalle nwrayy_____1	Default		%default	inv
 'bdalle nwry	100	PN	[pred="'bdalle nwry___Abdollah Nouri__1",cat=PN]	'bdalle nwry___Abdollah Nouri__1	Default		%default	inv
 'bdalle rmźan_zade	100	PN	[pred="'bdalle rmźan_zade___Abdollah Ramezanzadeh__1",cat=PN]	'bdalle rmźan_zade___Abdollah Ramezanzadeh__1	Default		%default	inv
@@ -107,14 +107,14 @@
 'bdallţyf kšyš	100	PN	[pred="'bdallţyf kšyš___Abdel Kechiche__1",cat=PN]	'bdallţyf kšyš___Abdel Kechiche__1	Default		%default	inv
 'bdalmjyd arf'y	100	PN	[pred="'bdalmjyd arf'y_____1",cat=PN]	'bdalmjyd arf'y_____1	Default		%default	inv
 'bdalmjyd ţalŕany	100	PN	[pred="'bdalmjyd ţalŕany_____1",cat=PN]	'bdalmjyd ţalŕany_____1	Default		%default	inv
-'bdalmłmd ayty	100	PN	[pred="'bdalmłmd ayty_____1",cat=PN]	'bdalmłmd ayty_____1	Default		%default	inv
-'bdalmłmd š'rany	100	PN	[pred="'bdalmłmd š'rany_____1",cat=PN]	'bdalmłmd š'rany_____1	Default		%default	inv
+'bdalmħmd ayty	100	PN	[pred="'bdalmħmd ayty_____1",cat=PN]	'bdalmħmd ayty_____1	Default		%default	inv
+'bdalmħmd š'rany	100	PN	[pred="'bdalmħmd š'rany_____1",cat=PN]	'bdalmħmd š'rany_____1	Default		%default	inv
 'bdalrzaŕ bqayry	100	PN	[pred="'bdalrzaŕ bqayry_____1",cat=PN]	'bdalrzaŕ bqayry_____1	Default		%default	inv
-'bdalrłman ŕasmlw	100	PN	[pred="'bdalrłman ŕasmlw___Abdul Rahman Ghassemlou__1",cat=PN]	'bdalrłman ŕasmlw___Abdul Rahman Ghassemlou__1	Default		%default	inv
-'bdalrłman şwfy	100	PN	[pred="'bdalrłman şwfy___Abd al-Rahman al-Sufi__1",cat=PN]	'bdalrłman şwfy___Abd al-Rahman al-Sufi__1	Default		%default	inv
-'bdalrłmn framrzy	100	PN	[pred="'bdalrłmn framrzy_____1",cat=PN]	'bdalrłmn framrzy_____1	Default		%default	inv
-'bdalrłmn šrfkndy	100	PN	[pred="'bdalrłmn šrfkndy___Abdurrahman Sharafkandi__1",cat=PN]	'bdalrłmn šrfkndy___Abdurrahman Sharafkandi__1	Default		%default	inv
-'bdalrłym sarban	100	PN	[pred="'bdalrłym sarban___Sarban__1",cat=PN]	'bdalrłym sarban___Sarban__1	Default		%default	inv
+'bdalrħman ŕasmlw	100	PN	[pred="'bdalrħman ŕasmlw___Abdul Rahman Ghassemlou__1",cat=PN]	'bdalrħman ŕasmlw___Abdul Rahman Ghassemlou__1	Default		%default	inv
+'bdalrħman şwfy	100	PN	[pred="'bdalrħman şwfy___Abd al-Rahman al-Sufi__1",cat=PN]	'bdalrħman şwfy___Abd al-Rahman al-Sufi__1	Default		%default	inv
+'bdalrħmn framrzy	100	PN	[pred="'bdalrħmn framrzy_____1",cat=PN]	'bdalrħmn framrzy_____1	Default		%default	inv
+'bdalrħmn šrfkndy	100	PN	[pred="'bdalrħmn šrfkndy___Abdurrahman Sharafkandi__1",cat=PN]	'bdalrħmn šrfkndy___Abdurrahman Sharafkandi__1	Default		%default	inv
+'bdalrħym sarban	100	PN	[pred="'bdalrħym sarban___Sarban__1",cat=PN]	'bdalrħym sarban___Sarban__1	Default		%default	inv
 'bdalrźa akbry	100	PN	[pred="'bdalrźa akbry_____1",cat=PN]	'bdalrźa akbry_____1	Default		%default	inv
 'bdalrźa kaeany	100	PN	[pred="'bdalrźa kaeany___Abdolreza Kahani__1",cat=PN]	'bdalrźa kaeany___Abdolreza Kahani__1	Default		%default	inv
 'bdalrźa tajyk	100	PN	[pred="'bdalrźa tajyk_____1",cat=PN]	'bdalrźa tajyk_____1	Default		%default	inv
@@ -123,32 +123,32 @@
 'bdalslam 'arf	100	PN	[pred="'bdalslam 'arf___Abdul Salam Arif__1",cat=PN]	'bdalslam 'arf___Abdul Salam Arif__1	Default		%default	inv
 'bdalslam deaty	100	PN	[pred="'bdalslam deaty_____1",cat=PN]	'bdalslam deaty_____1	Default		%default	inv
 'bdalwas' jbly	100	PN	[pred="'bdalwas' jbly_____1",cat=PN]	'bdalwas' jbly_____1	Default		%default	inv
-'bdalwałd bwtymar	100	PN	[pred="'bdalwałd bwtymar_____1",cat=PN]	'bdalwałd bwtymar_____1	Default		%default	inv
+'bdalwaħd bwtymar	100	PN	[pred="'bdalwaħd bwtymar_____1",cat=PN]	'bdalwaħd bwtymar_____1	Default		%default	inv
 'bdalweab byaty	100	PN	[pred="'bdalweab byaty___Abd al-Wahhab Al-Bayati__1",cat=PN]	'bdalweab byaty___Abd al-Wahhab Al-Bayati__1	Default		%default	inv
 'bdalweab šeydy	100	PN	[pred="'bdalweab šeydy___Abdolvahaab Shahidi__1",cat=PN]	'bdalweab šeydy___Abdolvahaab Shahidi__1	Default		%default	inv
-'bdalłmyd asma'yl_zey	100	PN	[pred="'bdalłmyd asma'yl_zey_____1",cat=PN]	'bdalłmyd asma'yl_zey_____1	Default		%default	inv
-'bdalłmyd dyalme	100	PN	[pred="'bdalłmyd dyalme_____1",cat=PN]	'bdalłmyd dyalme_____1	Default		%default	inv
-'bdalłmyd młtšm	100	PN	[pred="'bdalłmyd młtšm_____1",cat=PN]	'bdalłmyd młtšm_____1	Default		%default	inv
-'bdalłmyd qznwy	100	PN	[pred="'bdalłmyd qznwy_____1",cat=PN]	'bdalłmyd qznwy_____1	Default		%default	inv
-'bdalłsn brzYde	100	PN	[pred="'bdalłsn brzYde_____1",cat=PN]	'bdalłsn brzYde_____1	Default		%default	inv
-'bdalłsyn 'trty kwšaly	100	PN	[pred="'bdalłsyn 'trty kwšaly_____1",cat=PN]	'bdalłsyn 'trty kwšaly_____1	Default		%default	inv
-'bdalłsyn ežyr	100	PN	[pred="'bdalłsyn ežyr___Abdolhossein Hazhir__1",cat=PN]	'bdalłsyn ežyr___Abdolhossein Hazhir__1	Default		%default	inv
-'bdalłsyn frzad	100	PN	[pred="'bdalłsyn frzad_____1",cat=PN]	'bdalłsyn frzad_____1	Default		%default	inv
-'bdalłsyn mxtabad	100	PN	[pred="'bdalłsyn mxtabad_____1",cat=PN]	'bdalłsyn mxtabad_____1	Default		%default	inv
-'bdalłsyn myrspasy	100	PN	[pred="'bdalłsyn myrspasy_____1",cat=PN]	'bdalłsyn myrspasy_____1	Default		%default	inv
-'bdalłsyn nwayy	100	PN	[pred="'bdalłsyn nwayy_____1",cat=PN]	'bdalłsyn nwayy_____1	Default		%default	inv
-'bdalłsyn prtwy	100	PN	[pred="'bdalłsyn prtwy_____1",cat=PN]	'bdalłsyn prtwy_____1	Default		%default	inv
-'bdalłsyn spnta	100	PN	[pred="'bdalłsyn spnta___Abdolhossein Sepanta__1",cat=PN]	'bdalłsyn spnta___Abdolhossein Sepanta__1	Default		%default	inv
-'bdalłsyn srdary	100	PN	[pred="'bdalłsyn srdary___Abdol Hossein Sardari__1",cat=PN]	'bdalłsyn srdary___Abdol Hossein Sardari__1	Default		%default	inv
-'bdalłsyn tymwrtaš	100	PN	[pred="'bdalłsyn tymwrtaš___Abdolhossein Teymourtash__1",cat=PN]	'bdalłsyn tymwrtaš___Abdolhossein Teymourtash__1	Default		%default	inv
-'bdalłsyn zryn_kwb	100	PN	[pred="'bdalłsyn zryn_kwb___Abdolhossein Zarrinkoob__1",cat=PN]	'bdalłsyn zryn_kwb___Abdolhossein Zarrinkoob__1	Default		%default	inv
-'bdalłsyn âyty	100	PN	[pred="'bdalłsyn âyty_____1",cat=PN]	'bdalłsyn âyty_____1	Default		%default	inv
-'bdalły łbyby	100	PN	[pred="'bdalły łbyby___Abdul Hai Habibi__1",cat=PN]	'bdalły łbyby___Abdul Hai Habibi__1	Default		%default	inv
-'bdalłŕ	100	PN	[pred="'bdalłŕ___Abdul Haq (Afghan leader)__1",cat=PN]	'bdalłŕ___Abdul Haq (Afghan leader)__1	Default		%default	inv
+'bdalħmyd asma'yl_zey	100	PN	[pred="'bdalħmyd asma'yl_zey_____1",cat=PN]	'bdalħmyd asma'yl_zey_____1	Default		%default	inv
+'bdalħmyd dyalme	100	PN	[pred="'bdalħmyd dyalme_____1",cat=PN]	'bdalħmyd dyalme_____1	Default		%default	inv
+'bdalħmyd mħtšm	100	PN	[pred="'bdalħmyd mħtšm_____1",cat=PN]	'bdalħmyd mħtšm_____1	Default		%default	inv
+'bdalħmyd qznwy	100	PN	[pred="'bdalħmyd qznwy_____1",cat=PN]	'bdalħmyd qznwy_____1	Default		%default	inv
+'bdalħsn brzYde	100	PN	[pred="'bdalħsn brzYde_____1",cat=PN]	'bdalħsn brzYde_____1	Default		%default	inv
+'bdalħsyn 'trty kwšaly	100	PN	[pred="'bdalħsyn 'trty kwšaly_____1",cat=PN]	'bdalħsyn 'trty kwšaly_____1	Default		%default	inv
+'bdalħsyn ežyr	100	PN	[pred="'bdalħsyn ežyr___Abdolhossein Hazhir__1",cat=PN]	'bdalħsyn ežyr___Abdolhossein Hazhir__1	Default		%default	inv
+'bdalħsyn frzad	100	PN	[pred="'bdalħsyn frzad_____1",cat=PN]	'bdalħsyn frzad_____1	Default		%default	inv
+'bdalħsyn mxtabad	100	PN	[pred="'bdalħsyn mxtabad_____1",cat=PN]	'bdalħsyn mxtabad_____1	Default		%default	inv
+'bdalħsyn myrspasy	100	PN	[pred="'bdalħsyn myrspasy_____1",cat=PN]	'bdalħsyn myrspasy_____1	Default		%default	inv
+'bdalħsyn nwayy	100	PN	[pred="'bdalħsyn nwayy_____1",cat=PN]	'bdalħsyn nwayy_____1	Default		%default	inv
+'bdalħsyn prtwy	100	PN	[pred="'bdalħsyn prtwy_____1",cat=PN]	'bdalħsyn prtwy_____1	Default		%default	inv
+'bdalħsyn spnta	100	PN	[pred="'bdalħsyn spnta___Abdolhossein Sepanta__1",cat=PN]	'bdalħsyn spnta___Abdolhossein Sepanta__1	Default		%default	inv
+'bdalħsyn srdary	100	PN	[pred="'bdalħsyn srdary___Abdol Hossein Sardari__1",cat=PN]	'bdalħsyn srdary___Abdol Hossein Sardari__1	Default		%default	inv
+'bdalħsyn tymwrtaš	100	PN	[pred="'bdalħsyn tymwrtaš___Abdolhossein Teymourtash__1",cat=PN]	'bdalħsyn tymwrtaš___Abdolhossein Teymourtash__1	Default		%default	inv
+'bdalħsyn zryn_kwb	100	PN	[pred="'bdalħsyn zryn_kwb___Abdolhossein Zarrinkoob__1",cat=PN]	'bdalħsyn zryn_kwb___Abdolhossein Zarrinkoob__1	Default		%default	inv
+'bdalħsyn āyty	100	PN	[pred="'bdalħsyn āyty_____1",cat=PN]	'bdalħsyn āyty_____1	Default		%default	inv
+'bdalħy ħbyby	100	PN	[pred="'bdalħy ħbyby___Abdul Hai Habibi__1",cat=PN]	'bdalħy ħbyby___Abdul Hai Habibi__1	Default		%default	inv
+'bdalħŕ	100	PN	[pred="'bdalħŕ___Abdul Haq (Afghan leader)__1",cat=PN]	'bdalħŕ___Abdul Haq (Afghan leader)__1	Default		%default	inv
 'bdalŕadr gylany	100	PN	[pred="'bdalŕadr gylany___Abdul-Qadir Gilani__1",cat=PN]	'bdalŕadr gylany___Abdul-Qadir Gilani__1	Default		%default	inv
 'bdalŕadr mraqe_ay	100	PN	[pred="'bdalŕadr mraqe_ay_____1",cat=PN]	'bdalŕadr mraqe_ay_____1	Default		%default	inv
 'bdalşmd mrfawy	100	PN	[pred="'bdalşmd mrfawy___Samad Marfavi__1",cat=PN]	'bdalşmd mrfawy___Samad Marfavi__1	Default		%default	inv
-'bdalşmd rwłany	100	PN	[pred="'bdalşmd rwłany___Abdul Samad Rohani__1",cat=PN]	'bdalşmd rwłany___Abdul Samad Rohani__1	Default		%default	inv
+'bdalşmd rwħany	100	PN	[pred="'bdalşmd rwħany___Abdul Samad Rohani__1",cat=PN]	'bdalşmd rwħany___Abdul Samad Rohani__1	Default		%default	inv
 'bdlle kwçry	100	PN	[pred="'bdlle kwçry_____1",cat=PN]	'bdlle kwçry_____1	Default		%default	inv
 'bdy berwanfr	100	PN	[pred="'bdy berwanfr___Abdi Behravanfar__1",cat=PN]	'bdy berwanfr___Abdi Behravanfar__1	Default		%default	inv
 'bdy byg šyrazy	100	PN	[pred="'bdy byg šyrazy_____1",cat=PN]	'bdy byg šyrazy_____1	Default		%default	inv
@@ -157,11 +157,11 @@
 'byd zakany	100	PN	[pred="'byd zakany___Ubayd Zakani__1",cat=PN]	'byd zakany___Ubayd Zakani__1	Default		%default	inv
 'dnan qryfy	100	PN	[pred="'dnan qryfy_____1",cat=PN]	'dnan qryfy_____1	Default		%default	inv
 'dnan xyralle	100	PN	[pred="'dnan xyralle___Adnan Khairallah__1",cat=PN]	'dnan xyralle___Adnan Khairallah__1	Default		%default	inv
-'dnan łsn_pwr	100	PN	[pred="'dnan łsn_pwr_____1",cat=PN]	'dnan łsn_pwr_____1	Default		%default	inv
+'dnan ħsn_pwr	100	PN	[pred="'dnan ħsn_pwr_____1",cat=PN]	'dnan ħsn_pwr_____1	Default		%default	inv
 'edye	100	PN	[pred="'edye___Ahdieh__1",cat=PN]	'edye___Ahdieh__1	Default		%default	inv
 'ft tjart_čy	100	PN	[pred="'ft tjart_čy_____1",cat=PN]	'ft tjart_čy_____1	Default		%default	inv
 'lYrźa ašraŕy	100	PN	[pred="'lYrźa ašraŕy_____1",cat=PN]	'lYrźa ašraŕy_____1	Default		%default	inv
-'la młsny	100	PN	[pred="'la młsny_____1",cat=PN]	'la młsny_____1	Default		%default	inv
+'la mħsny	100	PN	[pred="'la mħsny_____1",cat=PN]	'la mħsny_____1	Default		%default	inv
 'ly 'abdy	100	PN	[pred="'ly 'abdy_____1",cat=PN]	'ly 'abdy_____1	Default		%default	inv
 'ly 'bdalley	100	PN	[pred="'ly 'bdalley_____1",cat=PN]	'ly 'bdalley_____1	Default		%default	inv
 'ly 'bdalmalky	100	PN	[pred="'ly 'bdalmalky_____1",cat=PN]	'ly 'bdalmalky_____1	Default		%default	inv
@@ -180,7 +180,7 @@
 'ly babačaey	100	PN	[pred="'ly babačaey_____1",cat=PN]	'ly babačaey_____1	Default		%default	inv
 'ly bakry	100	PN	[pred="'ly bakry_____1",cat=PN]	'ly bakry_____1	Default		%default	inv
 'ly baqban_bašy	100	PN	[pred="'ly baqban_bašy_____1",cat=PN]	'ly baqban_bašy_____1	Default		%default	inv
-'ly bn młmd smrŕndy	100	PN	[pred="'ly bn młmd smrŕndy___Ali Qushji__1",cat=PN]	'ly bn młmd smrŕndy___Ali Qushji__1	Default		%default	inv
+'ly bn mħmd smrŕndy	100	PN	[pred="'ly bn mħmd smrŕndy___Ali Qushji__1",cat=PN]	'ly bn mħmd smrŕndy___Ali Qushji__1	Default		%default	inv
 'ly byany	100	PN	[pred="'ly byany_____1",cat=PN]	'ly byany_____1	Default		%default	inv
 'ly danš	100	PN	[pred="'ly danš_____1",cat=PN]	'ly danš_____1	Default		%default	inv
 'ly dayy	100	PN	[pred="'ly dayy___Ali Daei__1",cat=PN]	'ly dayy___Ali Daei__1	Default		%default	inv
@@ -199,13 +199,13 @@
 'ly myrfţrws	100	PN	[pred="'ly myrfţrws_____1",cat=PN]	'ly myrfţrws_____1	Default		%default	inv
 'ly myry	100	PN	[pred="'ly myry_____1",cat=PN]	'ly myry_____1	Default		%default	inv
 'ly myrškal	100	PN	[pred="'ly myrškal_____1",cat=PN]	'ly myrškal_____1	Default		%default	inv
-'ly máżaery	100	PN	[pred="'ly máżaery___Ali Mazaheri__1",cat=PN]	'ly máżaery___Ali Mazaheri__1	Default		%default	inv
+'ly máẓaery	100	PN	[pred="'ly máẓaery___Ali Mazaheri__1",cat=PN]	'ly máẓaery___Ali Mazaheri__1	Default		%default	inv
 'ly múđny	100	PN	[pred="'ly múđny_____1",cat=PN]	'ly múđny_____1	Default		%default	inv
-'ly młbwb	100	PN	[pred="'ly młbwb_____1",cat=PN]	'ly młbwb_____1	Default		%default	inv
-'ly młmd terany	100	PN	[pred="'ly młmd terany_____1",cat=PN]	'ly młmd terany_____1	Default		%default	inv
-'ly młmd łydryan	100	PN	[pred="'ly młmd łydryan_____1",cat=PN]	'ly młmd łydryan_____1	Default		%default	inv
-'ly młmdy	100	PN	[pred="'ly młmdy_____1",cat=PN]	'ly młmdy_____1	Default		%default	inv
-'ly młŕŕ_nsb	100	PN	[pred="'ly młŕŕ_nsb_____1",cat=PN]	'ly młŕŕ_nsb_____1	Default		%default	inv
+'ly mħbwb	100	PN	[pred="'ly mħbwb_____1",cat=PN]	'ly mħbwb_____1	Default		%default	inv
+'ly mħmd terany	100	PN	[pred="'ly mħmd terany_____1",cat=PN]	'ly mħmd terany_____1	Default		%default	inv
+'ly mħmd ħydryan	100	PN	[pred="'ly mħmd ħydryan_____1",cat=PN]	'ly mħmd ħydryan_____1	Default		%default	inv
+'ly mħmdy	100	PN	[pred="'ly mħmdy_____1",cat=PN]	'ly mħmdy_____1	Default		%default	inv
+'ly mħŕŕ_nsb	100	PN	[pred="'ly mħŕŕ_nsb_____1",cat=PN]	'ly mħŕŕ_nsb_____1	Default		%default	inv
 'ly mşfa	100	PN	[pred="'ly mşfa___Ali Mosaffa__1",cat=PN]	'ly mşfa___Ali Mosaffa__1	Default		%default	inv
 'ly mškyny	100	PN	[pred="'ly mškyny___Ali Meshkini__1",cat=PN]	'ly mškyny___Ali Meshkini__1	Default		%default	inv
 'ly nşyryan	100	PN	[pred="'ly nşyryan___Ali Nassirian__1",cat=PN]	'ly nşyryan___Ali Nassirian__1	Default		%default	inv
@@ -227,10 +227,10 @@
 'ly xakpwr	100	PN	[pred="'ly xakpwr_____1",cat=PN]	'ly xakpwr_____1	Default		%default	inv
 'ly yzdany	100	PN	[pred="'ly yzdany_____1",cat=PN]	'ly yzdany_____1	Default		%default	inv
 'ly zaedy	100	PN	[pred="'ly zaedy_____1",cat=PN]	'ly zaedy_____1	Default		%default	inv
-'ly đbyły	100	PN	[pred="'ly đbyły_____1",cat=PN]	'ly đbyły_____1	Default		%default	inv
-'ly łakmy	100	PN	[pred="'ly łakmy_____1",cat=PN]	'ly łakmy_____1	Default		%default	inv
-'ly łatmy	100	PN	[pred="'ly łatmy___Ali Hatami__1",cat=PN]	'ly łatmy___Ali Hatami__1	Default		%default	inv
-'ly łsn almjyd	100	PN	[pred="'ly łsn almjyd___Ali Hassan al-Majid__1",cat=PN]	'ly łsn almjyd___Ali Hassan al-Majid__1	Default		%default	inv
+'ly đbyħy	100	PN	[pred="'ly đbyħy_____1",cat=PN]	'ly đbyħy_____1	Default		%default	inv
+'ly ħakmy	100	PN	[pred="'ly ħakmy_____1",cat=PN]	'ly ħakmy_____1	Default		%default	inv
+'ly ħatmy	100	PN	[pred="'ly ħatmy___Ali Hatami__1",cat=PN]	'ly ħatmy___Ali Hatami__1	Default		%default	inv
+'ly ħsn almjyd	100	PN	[pred="'ly ħsn almjyd___Ali Hassan al-Majid__1",cat=PN]	'ly ħsn almjyd___Ali Hassan al-Majid__1	Default		%default	inv
 'ly ŕrban_zade	100	PN	[pred="'ly ŕrban_zade_____1",cat=PN]	'ly ŕrban_zade_____1	Default		%default	inv
 'ly şadŕy	100	PN	[pred="'ly şadŕy_____1",cat=PN]	'ly şadŕy_____1	Default		%default	inv
 'ly şmdpwr	100	PN	[pred="'ly şmdpwr_____1",cat=PN]	'ly şmdpwr_____1	Default		%default	inv
@@ -249,7 +249,7 @@
 'ly_akbr m'yn_fr	100	PN	[pred="'ly_akbr m'yn_fr_____1",cat=PN]	'ly_akbr m'yn_fr_____1	Default		%default	inv
 'ly_akbr medy_pwr dekrdy	100	PN	[pred="'ly_akbr medy_pwr dekrdy_____1",cat=PN]	'ly_akbr medy_pwr dekrdy_____1	Default		%default	inv
 'ly_akbr mwswy xw´yny	100	PN	[pred="'ly_akbr mwswy xw´yny___Ali-Akbar Mousavi Khoeini__1",cat=PN]	'ly_akbr mwswy xw´yny___Ali-Akbar Mousavi Khoeini__1	Default		%default	inv
-'ly_akbr młtšmy_pwr	100	PN	[pred="'ly_akbr młtšmy_pwr___Ali Akbar Mohtashamipur__1",cat=PN]	'ly_akbr młtšmy_pwr___Ali Akbar Mohtashamipur__1	Default		%default	inv
+'ly_akbr mħtšmy_pwr	100	PN	[pred="'ly_akbr mħtšmy_pwr___Ali Akbar Mohtashamipur__1",cat=PN]	'ly_akbr mħtšmy_pwr___Ali Akbar Mohtashamipur__1	Default		%default	inv
 'ly_akbr s'ydy syrjany	100	PN	[pred="'ly_akbr s'ydy syrjany___Ali-Akbar Sa'idi Sirjani__1",cat=PN]	'ly_akbr s'ydy syrjany___Ali-Akbar Sa'idi Sirjani__1	Default		%default	inv
 'ly_akbr wlayty	100	PN	[pred="'ly_akbr wlayty___Ali Akbar Velayati__1",cat=PN]	'ly_akbr wlayty___Ali Akbar Velayati__1	Default		%default	inv
 'ly_akbr şn'ty	100	PN	[pred="'ly_akbr şn'ty_____1",cat=PN]	'ly_akbr şn'ty_____1	Default		%default	inv
@@ -259,10 +259,10 @@
 'ly_aşqr bdy'_zadgan	100	PN	[pred="'ly_aşqr bdy'_zadgan_____1",cat=PN]	'ly_aşqr bdy'_zadgan_____1	Default		%default	inv
 'ly_ašrf drwyšyan	100	PN	[pred="'ly_ašrf drwyšyan___Ali Ashraf Darvishian__1",cat=PN]	'ly_ašrf drwyšyan___Ali Ashraf Darvishian__1	Default		%default	inv
 'ly_ašrf şadŕy	100	PN	[pred="'ly_ašrf şadŕy_____1",cat=PN]	'ly_ašrf şadŕy_____1	Default		%default	inv
-'ly_młmd afqany	100	PN	[pred="'ly_młmd afqany___Ali Mohammad Afghani__1",cat=PN]	'ly_młmd afqany___Ali Mohammad Afghani__1	Default		%default	inv
-'ly_młmd ayzdy	100	PN	[pred="'ly_młmd ayzdy_____1",cat=PN]	'ly_młmd ayzdy_____1	Default		%default	inv
-'ly_młmd xadm myçaŕ	100	PN	[pred="'ly_młmd xadm myçaŕ_____1",cat=PN]	'ly_młmd xadm myçaŕ_____1	Default		%default	inv
-'ly_młmd łŕ_šnas	100	PN	[pred="'ly_młmd łŕ_šnas_____1",cat=PN]	'ly_młmd łŕ_šnas_____1	Default		%default	inv
+'ly_mħmd afqany	100	PN	[pred="'ly_mħmd afqany___Ali Mohammad Afghani__1",cat=PN]	'ly_mħmd afqany___Ali Mohammad Afghani__1	Default		%default	inv
+'ly_mħmd ayzdy	100	PN	[pred="'ly_mħmd ayzdy_____1",cat=PN]	'ly_mħmd ayzdy_____1	Default		%default	inv
+'ly_mħmd xadm myçaŕ	100	PN	[pred="'ly_mħmd xadm myçaŕ_____1",cat=PN]	'ly_mħmd xadm myçaŕ_____1	Default		%default	inv
+'ly_mħmd ħŕ_šnas	100	PN	[pred="'ly_mħmd ħŕ_šnas_____1",cat=PN]	'ly_mħmd ħŕ_šnas_____1	Default		%default	inv
 'ly_rźa 'ţaran	100	PN	[pred="'ly_rźa 'ţaran_____1",cat=PN]	'ly_rźa 'ţaran_____1	Default		%default	inv
 'ly_rźa azmndyan	100	PN	[pred="'ly_rźa azmndyan_____1",cat=PN]	'ly_rźa azmndyan_____1	Default		%default	inv
 'ly_rźa bešty	100	PN	[pred="'ly_rźa bešty_____1",cat=PN]	'ly_rźa bešty_____1	Default		%default	inv
@@ -273,7 +273,7 @@
 'ly_rźa ŕzwe	100	PN	[pred="'ly_rźa ŕzwe_____1",cat=PN]	'ly_rźa ŕzwe_____1	Default		%default	inv
 'ly_rźa šja'_nwry	100	PN	[pred="'ly_rźa šja'_nwry_____1",cat=PN]	'ly_rźa šja'_nwry_____1	Default		%default	inv
 'ly_xan amyn aldwle	100	PN	[pred="'ly_xan amyn aldwle_____1",cat=PN]	'ly_xan amyn aldwle_____1	Default		%default	inv
-'ly_šae ałmdy	100	PN	[pred="'ly_šae ałmdy_____1",cat=PN]	'ly_šae ałmdy_____1	Default		%default	inv
+'ly_šae aħmdy	100	PN	[pred="'ly_šae aħmdy_____1",cat=PN]	'ly_šae aħmdy_____1	Default		%default	inv
 'lynŕy 'alyxany	100	PN	[pred="'lynŕy 'alyxany_____1",cat=PN]	'lynŕy 'alyxany_____1	Default		%default	inv
 'lynŕy mnzwy	100	PN	[pred="'lynŕy mnzwy_____1",cat=PN]	'lynŕy mnzwy_____1	Default		%default	inv
 'lynŕy wzyry	100	PN	[pred="'lynŕy wzyry___Ali-Naqi Vaziri__1",cat=PN]	'lynŕy wzyry___Ali-Naqi Vaziri__1	Default		%default	inv
@@ -287,12 +287,12 @@
 'lyrźa benam	100	PN	[pred="'lyrźa benam_____1",cat=PN]	'lyrźa benam_____1	Default		%default	inv
 'lyrźa dbyr	100	PN	[pred="'lyrźa dbyr___Alireza Dabir__1",cat=PN]	'lyrźa dbyr___Alireza Dabir__1	Default		%default	inv
 'lyrźa kwšk jlaly	100	PN	[pred="'lyrźa kwšk jlaly_____1",cat=PN]	'lyrźa kwšk jlaly_____1	Default		%default	inv
-'lyrźa młmd	100	PN	[pred="'lyrźa młmd___Alireza Mohammad__1",cat=PN]	'lyrźa młmd___Alireza Mohammad__1	Default		%default	inv
+'lyrźa mħmd	100	PN	[pred="'lyrźa mħmd___Alireza Mohammad__1",cat=PN]	'lyrźa mħmd___Alireza Mohammad__1	Default		%default	inv
 'lyrźa mšayxy	100	PN	[pred="'lyrźa mšayxy_____1",cat=PN]	'lyrźa mšayxy_____1	Default		%default	inv
-'lyrźa nykbxt wałdy	100	PN	[pred="'lyrźa nykbxt wałdy___Alireza Vahedi Nikbakht__1",cat=PN]	'lyrźa nykbxt wałdy___Alireza Vahedi Nikbakht__1	Default		%default	inv
+'lyrźa nykbxt waħdy	100	PN	[pred="'lyrźa nykbxt waħdy___Alireza Vahedi Nikbakht__1",cat=PN]	'lyrźa nykbxt waħdy___Alireza Vahedi Nikbakht__1	Default		%default	inv
 'lyrźa xmse	100	PN	[pred="'lyrźa xmse___Ali Reza Khamseh__1",cat=PN]	'lyrźa xmse___Ali Reza Khamseh__1	Default		%default	inv
-'lyrźa łydry	100	PN	[pred="'lyrźa łydry___Alireza Heidari__1",cat=PN]	'lyrźa łydry___Alireza Heidari__1	Default		%default	inv
-'lyrźa łŕyŕy	100	PN	[pred="'lyrźa łŕyŕy___Alireza Haghighi (footballer)__1",cat=PN]	'lyrźa łŕyŕy___Alireza Haghighi (footballer)__1	Default		%default	inv
+'lyrźa ħydry	100	PN	[pred="'lyrźa ħydry___Alireza Heidari__1",cat=PN]	'lyrźa ħydry___Alireza Heidari__1	Default		%default	inv
+'lyrźa ħŕyŕy	100	PN	[pred="'lyrźa ħŕyŕy___Alireza Haghighi (footballer)__1",cat=PN]	'lyrźa ħŕyŕy___Alireza Haghighi (footballer)__1	Default		%default	inv
 'lyxan şmdwf	100	PN	[pred="'lyxan şmdwf___Alihan Samedov__1",cat=PN]	'lyxan şmdwf___Alihan Samedov__1	Default		%default	inv
 'lyšyr nwayy	100	PN	[pred="'lyšyr nwayy___Ali-Shir Nava'i__1",cat=PN]	'lyšyr nwayy___Ali-Shir Nava'i__1	Default		%default	inv
 'm'ŕ bxary	100	PN	[pred="'m'ŕ bxary_____1",cat=PN]	'm'ŕ bxary_____1	Default		%default	inv
@@ -300,13 +300,13 @@
 'mad beawr	100	PN	[pred="'mad beawr_____1",cat=PN]	'mad beawr_____1	Default		%default	inv
 'mad mqnye	100	PN	[pred="'mad mqnye___Imad Mughniyah__1",cat=PN]	'mad mqnye___Imad Mughniyah__1	Default		%default	inv
 'mad rźa	100	PN	[pred="'mad rźa___Emad Mohammed__1",cat=PN]	'mad rźa___Emad Mohammed__1	Default		%default	inv
-'mad twłydy	100	PN	[pred="'mad twłydy_____1",cat=PN]	'mad twłydy_____1	Default		%default	inv
+'mad twħydy	100	PN	[pred="'mad twħydy_____1",cat=PN]	'mad twħydy_____1	Default		%default	inv
 'madaldyn baŕy	100	PN	[pred="'madaldyn baŕy___Emadeddin Baghi__1",cat=PN]	'madaldyn baŕy___Emadeddin Baghi__1	Default		%default	inv
 'madaldyn nsymy	100	PN	[pred="'madaldyn nsymy___Imadaddin Nasimi__1",cat=PN]	'madaldyn nsymy___Imadaddin Nasimi__1	Default		%default	inv
-'mar łkym	100	PN	[pred="'mar łkym___Ammar al-Hakim__1",cat=PN]	'mar łkym___Ammar al-Hakim__1	Default		%default	inv
+'mar ħkym	100	PN	[pred="'mar ħkym___Ammar al-Hakim__1",cat=PN]	'mar ħkym___Ammar al-Hakim__1	Default		%default	inv
 'mare mrwzy	100	PN	[pred="'mare mrwzy_____1",cat=PN]	'mare mrwzy_____1	Default		%default	inv
 'mr šryf	100	PN	[pred="'mr šryf___Omar Sharif__1",cat=PN]	'mr šryf___Omar Sharif__1	Default		%default	inv
-'mran şlały	100	PN	[pred="'mran şlały_____1",cat=PN]	'mran şlały_____1	Default		%default	inv
+'mran şlaħy	100	PN	[pred="'mran şlaħy_____1",cat=PN]	'mran şlaħy_____1	Default		%default	inv
 'mrw dyab	100	PN	[pred="'mrw dyab___Amr Diab__1",cat=PN]	'mrw dyab___Amr Diab__1	Default		%default	inv
 'mw 'bdalle karladany	100	PN	[pred="'mw 'bdalle karladany_____1",cat=PN]	'mw 'bdalle karladany_____1	Default		%default	inv
 'mw baba	100	PN	[pred="'mw baba___Ammo Baba__1",cat=PN]	'mw baba___Ammo Baba__1	Default		%default	inv
@@ -314,30 +314,30 @@
 'nayt_alle rźa	100	PN	[pred="'nayt_alle rźa___Enayatollah Reza__1",cat=PN]	'nayt_alle rźa___Enayatollah Reza__1	Default		%default	inv
 'nşry blxy	100	PN	[pred="'nşry blxy___Unsuri__1",cat=PN]	'nşry blxy___Unsuri__1	Default		%default	inv
 'rfan awlrwm	100	PN	[pred="'rfan awlrwm___Daniel Olerum__1",cat=PN]	'rfan awlrwm___Daniel Olerum__1	Default		%default	inv
-'rfan nżraeary	100	PN	[pred="'rfan nżraeary_____1",cat=PN]	'rfan nżraeary_____1	Default		%default	inv
-'rws şlł	100	PN	[pred="'rws şlł_____1",cat=PN]	'rws şlł_____1	Default		%default	inv
+'rfan nẓraeary	100	PN	[pred="'rfan nẓraeary_____1",cat=PN]	'rfan nẓraeary_____1	Default		%default	inv
+'rws şlħ	100	PN	[pred="'rws şlħ_____1",cat=PN]	'rws şlħ_____1	Default		%default	inv
 'sjdy	100	PN	[pred="'sjdy___Asjadi__1",cat=PN]	'sjdy___Asjadi__1	Default		%default	inv
-'skr młmdy tbar	100	PN	[pred="'skr młmdy tbar_____1",cat=PN]	'skr młmdy tbar_____1	Default		%default	inv
+'skr mħmdy tbar	100	PN	[pred="'skr mħmdy tbar_____1",cat=PN]	'skr mħmdy tbar_____1	Default		%default	inv
 'sl bdy'y	100	PN	[pred="'sl bdy'y_____1",cat=PN]	'sl bdy'y_____1	Default		%default	inv
-'tyŕ rłymy	100	PN	[pred="'tyŕ rłymy___Atiq Rahimi__1",cat=PN]	'tyŕ rłymy___Atiq Rahimi__1	Default		%default	inv
+'tyŕ rħymy	100	PN	[pred="'tyŕ rħymy___Atiq Rahimi__1",cat=PN]	'tyŕ rħymy___Atiq Rahimi__1	Default		%default	inv
 'wzy arad	100	PN	[pred="'wzy arad___Uzi Arad__1",cat=PN]	'wzy arad___Uzi Arad__1	Default		%default	inv
 'ydy amyn	100	PN	[pred="'ydy amyn___Idi Amin__1",cat=PN]	'ydy amyn___Idi Amin__1	Default		%default	inv
 'yn_alle j'frnžad ŕmy	100	PN	[pred="'yn_alle j'frnžad ŕmy_____1",cat=PN]	'yn_alle j'frnžad ŕmy_____1	Default		%default	inv
 'yn_alŕźat emdany	100	PN	[pred="'yn_alŕźat emdany___Ayn al-Quzat Hamadani__1",cat=PN]	'yn_alŕźat emdany___Ayn al-Quzat Hamadani__1	Default		%default	inv
-'ysy słrxyz	100	PN	[pred="'ysy słrxyz___Isa Saharkhiz__1",cat=PN]	'ysy słrxyz___Isa Saharkhiz__1	Default		%default	inv
+'ysy sħrxyz	100	PN	[pred="'ysy sħrxyz___Isa Saharkhiz__1",cat=PN]	'ysy sħrxyz___Isa Saharkhiz__1	Default		%default	inv
 'ywŕy	100	PN	[pred="'ywŕy___Ayyuqi__1",cat=PN]	'ywŕy___Ayyuqi__1	Default		%default	inv
 'zmy bšare	100	PN	[pred="'zmy bšare___Azmi Bishara__1",cat=PN]	'zmy bšare___Azmi Bishara__1	Default		%default	inv
 'zt abraeym	100	PN	[pred="'zt abraeym___Izzat Ibrahim ad-Douri__1",cat=PN]	'zt abraeym___Izzat Ibrahim ad-Douri__1	Default		%default	inv
-'zt rwł_bxš	100	PN	[pred="'zt rwł_bxš_____1",cat=PN]	'zt rwł_bxš_____1	Default		%default	inv
+'zt rwħ_bxš	100	PN	[pred="'zt rwħ_bxš_____1",cat=PN]	'zt rwħ_bxš_____1	Default		%default	inv
 'zt_alle abraeym_nžad	100	PN	[pred="'zt_alle abraeym_nžad___Ezzat Ebrahim-Nejad__1",cat=PN]	'zt_alle abraeym_nžad___Ezzat Ebrahim-Nejad__1	Default		%default	inv
-'zt_alle antżamy	100	PN	[pred="'zt_alle antżamy___Ezzatolah Entezami__1",cat=PN]	'zt_alle antżamy___Ezzatolah Entezami__1	Default		%default	inv
+'zt_alle antẓamy	100	PN	[pred="'zt_alle antẓamy___Ezzatolah Entezami__1",cat=PN]	'zt_alle antẓamy___Ezzatolah Entezami__1	Default		%default	inv
 'zt_alle fwladwnd	100	PN	[pred="'zt_alle fwladwnd_____1",cat=PN]	'zt_alle fwladwnd_____1	Default		%default	inv
 'zt_alle mŕbly	100	PN	[pred="'zt_alle mŕbly_____1",cat=PN]	'zt_alle mŕbly_____1	Default		%default	inv
 'zt_alle ngeban	100	PN	[pred="'zt_alle ngeban___Ezzat Negahban__1",cat=PN]	'zt_alle ngeban___Ezzat Negahban__1	Default		%default	inv
-'zt_alle słaby	100	PN	[pred="'zt_alle słaby___Ezzatollah Sahabi__1",cat=PN]	'zt_alle słaby___Ezzatollah Sahabi__1	Default		%default	inv
+'zt_alle sħaby	100	PN	[pred="'zt_alle sħaby___Ezzatollah Sahabi__1",cat=PN]	'zt_alle sħaby___Ezzatollah Sahabi__1	Default		%default	inv
 'zt_alle wçwŕ	100	PN	[pred="'zt_alle wçwŕ_____1",cat=PN]	'zt_alle wçwŕ_____1	Default		%default	inv
 'zt_alle_ edayt	100	PN	[pred="'zt_alle_ edayt_____1",cat=PN]	'zt_alle_ edayt_____1	Default		%default	inv
-'zyr łajy_bygf	100	PN	[pred="'zyr łajy_bygf___Uzeyir Hajibeyov__1",cat=PN]	'zyr łajy_bygf___Uzeyir Hajibeyov__1	Default		%default	inv
+'zyr ħajy_bygf	100	PN	[pred="'zyr ħajy_bygf___Uzeyir Hajibeyov__1",cat=PN]	'zyr ħajy_bygf___Uzeyir Hajibeyov__1	Default		%default	inv
 'zyz aspndar	100	PN	[pred="'zyz aspndar___Aziz Espandar__1",cat=PN]	'zyz aspndar___Aziz Espandar__1	Default		%default	inv
 'zyz aşly	100	PN	[pred="'zyz aşly___Aziz Asli__1",cat=PN]	'zyz aşly___Aziz Asli__1	Default		%default	inv
 'zyz nsyn	100	PN	[pred="'zyz nsyn___Aziz Nesin__1",cat=PN]	'zyz nsyn___Aziz Nesin__1	Default		%default	inv
@@ -359,17 +359,17 @@ Kwrš şfwy	100	PN	[pred="Kwrš şfwy_____1",cat=PN]	Kwrš şfwy_____1	Default		
 Yasmn frzan	100	PN	[pred="Yasmn frzan_____1",cat=PN]	Yasmn frzan_____1	Default		%default	inv
 Ywns amre	100	PN	[pred="Ywns amre___Yunus Emre__1",cat=PN]	Ywns amre___Yunus Emre__1	Default		%default	inv
 Ywsf ŕrźawÝ	100	PN	[pred="Ywsf ŕrźawÝ___Yusuf al-Qaradawi__1",cat=PN]	Ywsf ŕrźawÝ___Yusuf al-Qaradawi__1	Default		%default	inv
-_łbyb_alle fźaÂ´ly	100	PN	[pred="_łbyb_alle fźaÂ´ly_____1",cat=PN]	_łbyb_alle fźaÂ´ly_____1	Default		%default	inv
-a'dam şdam łsyn	100	PN	[pred="a'dam şdam łsyn___Execution of Saddam Hussein__1",cat=PN]	a'dam şdam łsyn___Execution of Saddam Hussein__1	Default		%default	inv
-a'áżm kyan_afzar	100	PN	[pred="a'áżm kyan_afzar_____1",cat=PN]	a'áżm kyan_afzar_____1	Default		%default	inv
-a'żm 'ly	100	PN	[pred="a'żm 'ly___Azam Ali__1",cat=PN]	a'żm 'ly___Azam Ali__1	Default		%default	inv
-a'żm nyrwmndrad	100	PN	[pred="a'żm nyrwmndrad_____1",cat=PN]	a'żm nyrwmndrad_____1	Default		%default	inv
-a'żm ţalŕany	100	PN	[pred="a'żm ţalŕany___Azam Taleghani__1",cat=PN]	a'żm ţalŕany___Azam Taleghani__1	Default		%default	inv
+_ħbyb_alle fźaÂ´ly	100	PN	[pred="_ħbyb_alle fźaÂ´ly_____1",cat=PN]	_ħbyb_alle fźaÂ´ly_____1	Default		%default	inv
+a'dam şdam ħsyn	100	PN	[pred="a'dam şdam ħsyn___Execution of Saddam Hussein__1",cat=PN]	a'dam şdam ħsyn___Execution of Saddam Hussein__1	Default		%default	inv
+a'áẓm kyan_afzar	100	PN	[pred="a'áẓm kyan_afzar_____1",cat=PN]	a'áẓm kyan_afzar_____1	Default		%default	inv
+a'ẓm 'ly	100	PN	[pred="a'ẓm 'ly___Azam Ali__1",cat=PN]	a'ẓm 'ly___Azam Ali__1	Default		%default	inv
+a'ẓm nyrwmndrad	100	PN	[pred="a'ẓm nyrwmndrad_____1",cat=PN]	a'ẓm nyrwmndrad_____1	Default		%default	inv
+a'ẓm ţalŕany	100	PN	[pred="a'ẓm ţalŕany___Azam Taleghani__1",cat=PN]	a'ẓm ţalŕany___Azam Taleghani__1	Default		%default	inv
 abeysyt wjajywa	100	PN	[pred="abeysyt wjajywa___Abhisit Vejjajiva__1",cat=PN]	abeysyt wjajywa___Abhisit Vejjajiva__1	Default		%default	inv
 abl gans	100	PN	[pred="abl gans_____1",cat=PN]	abl gans_____1	Default		%default	inv
 abn 'rbšae	100	PN	[pred="abn 'rbšae_____1",cat=PN]	abn 'rbšae_____1	Default		%default	inv
 abn aby şadŕ	100	PN	[pred="abn aby şadŕ_____1",cat=PN]	abn aby şadŕ_____1	Default		%default	inv
-abn aby_alłdyd	100	PN	[pred="abn aby_alłdyd_____1",cat=PN]	abn aby_alłdyd_____1	Default		%default	inv
+abn aby_alħdyd	100	PN	[pred="abn aby_alħdyd_____1",cat=PN]	abn aby_alħdyd_____1	Default		%default	inv
 abn blxy	100	PN	[pred="abn blxy_____1",cat=PN]	abn blxy_____1	Default		%default	inv
 abn bzaz ardbyly	100	PN	[pred="abn bzaz ardbyly___Safvat as-safa__1",cat=PN]	abn bzaz ardbyly___Safvat as-safa__1	Default		%default	inv
 abn eyçm	100	PN	[pred="abn eyçm___Alhazen__1",cat=PN]	abn eyçm___Alhazen__1	Default		%default	inv
@@ -385,9 +385,9 @@ abn xlkan	100	PN	[pred="abn xlkan_____1",cat=PN]	abn xlkan_____1	Default		%defau
 abn xrdadbe	100	PN	[pred="abn xrdadbe___Ibn Khordadbeh__1",cat=PN]	abn xrdadbe___Ibn Khordadbeh__1	Default		%default	inv
 abn ymyn frywmdy	100	PN	[pred="abn ymyn frywmdy_____1",cat=PN]	abn ymyn frywmdy_____1	Default		%default	inv
 abn zyle	100	PN	[pred="abn zyle_____1",cat=PN]	abn zyle_____1	Default		%default	inv
-abn łsam	100	PN	[pred="abn łsam_____1",cat=PN]	abn łsam_____1	Default		%default	inv
+abn ħsam	100	PN	[pred="abn ħsam_____1",cat=PN]	abn ħsam_____1	Default		%default	inv
 abn ŕarn razy	100	PN	[pred="abn ŕarn razy_____1",cat=PN]	abn ŕarn razy_____1	Default		%default	inv
-abn şlał emdany	100	PN	[pred="abn şlał emdany_____1",cat=PN]	abn şlał emdany_____1	Default		%default	inv
+abn şlaħ emdany	100	PN	[pred="abn şlaħ emdany_____1",cat=PN]	abn şlaħ emdany_____1	Default		%default	inv
 abraeam mzlw	100	PN	[pred="abraeam mzlw___Abraham Maslow__1",cat=PN]	abraeam mzlw___Abraham Maslow__1	Default		%default	inv
 abraeym 'zyzy	100	PN	[pred="abraeym 'zyzy_____1",cat=PN]	abraeym 'zyzy_____1	Default		%default	inv
 abraeym aşqrzade	100	PN	[pred="abraeym aşqrzade___Ebrahim Asgharzadeh__1",cat=PN]	abraeym aşqrzade___Ebrahim Asgharzadeh__1	Default		%default	inv
@@ -407,13 +407,13 @@ abraeym zal_zade	100	PN	[pred="abraeym zal_zade___Ebrahim Zalzadeh__1",cat=PN]	a
 abraeym zkzaky	100	PN	[pred="abraeym zkzaky___Ibrahim Zakzaky__1",cat=PN]	abraeym zkzaky___Ibrahim Zakzaky__1	Default		%default	inv
 abraeym zmany aštyany	100	PN	[pred="abraeym zmany aštyany_____1",cat=PN]	abraeym zmany aštyany_____1	Default		%default	inv
 abraeym čerazy	100	PN	[pred="abraeym čerazy_____1",cat=PN]	abraeym čerazy_____1	Default		%default	inv
-abraeym łatmy_kya	100	PN	[pred="abraeym łatmy_kya___Ebrahim Hatamikia__1",cat=PN]	abraeym łatmy_kya___Ebrahim Hatamikia__1	Default		%default	inv
-abraeym łŕyŕy	100	PN	[pred="abraeym łŕyŕy_____1",cat=PN]	abraeym łŕyŕy_____1	Default		%default	inv
+abraeym ħatmy_kya	100	PN	[pred="abraeym ħatmy_kya___Ebrahim Hatamikia__1",cat=PN]	abraeym ħatmy_kya___Ebrahim Hatamikia__1	Default		%default	inv
+abraeym ħŕyŕy	100	PN	[pred="abraeym ħŕyŕy_____1",cat=PN]	abraeym ħŕyŕy_____1	Default		%default	inv
 abraeym şadŕy	100	PN	[pred="abraeym şadŕy___Ebrahim Sadeghi__1",cat=PN]	abraeym şadŕy___Ebrahim Sadeghi__1	Default		%default	inv
 abraeym škwry	100	PN	[pred="abraeym škwry___Ebrahim Shakouri__1",cat=PN]	abraeym škwry___Ebrahim Shakouri__1	Default		%default	inv
 abraeym_abady	100	PN	[pred="abraeym_abady_____1",cat=PN]	abraeym_abady_____1	Default		%default	inv
 abw mnşwr matrydy	100	PN	[pred="abw mnşwr matrydy___Abu Mansur Maturidi__1",cat=PN]	abw mnşwr matrydy___Abu Mansur Maturidi__1	Default		%default	inv
-abw slyman młmd sjstany	100	PN	[pred="abw slyman młmd sjstany_____1",cat=PN]	abw slyman młmd sjstany_____1	Default		%default	inv
+abw slyman mħmd sjstany	100	PN	[pred="abw slyman mħmd sjstany_____1",cat=PN]	abw slyman mħmd sjstany_____1	Default		%default	inv
 abw'bdalle jnydy	100	PN	[pred="abw'bdalle jnydy_____1",cat=PN]	abw'bdalle jnydy_____1	Default		%default	inv
 abw'ly bl'my	100	PN	[pred="abw'ly bl'my_____1",cat=PN]	abw'ly bl'my_____1	Default		%default	inv
 abw'ly mskwye razy	100	PN	[pred="abw'ly mskwye razy_____1",cat=PN]	abw'ly mskwye razy_____1	Default		%default	inv
@@ -427,15 +427,15 @@ abwalbšr frmanfrma´yan	100	PN	[pred="abwalbšr frmanfrma´yan___Abol-Bashar Mi
 abwalfrj aşfeany	100	PN	[pred="abwalfrj aşfeany___Abu al-Faraj al-Isfahani__1",cat=PN]	abwalfrj aşfeany___Abu al-Faraj al-Isfahani__1	Default		%default	inv
 abwalfrj mlţy	100	PN	[pred="abwalfrj mlţy_____1",cat=PN]	abwalfrj mlţy_____1	Default		%default	inv
 abwalfrj sgzy	100	PN	[pred="abwalfrj sgzy_____1",cat=PN]	abwalfrj sgzy_____1	Default		%default	inv
-abwalftł aşfeany	100	PN	[pred="abwalftł aşfeany___Al-Isfahani__1",cat=PN]	abwalftł aşfeany___Al-Isfahani__1	Default		%default	inv
-abwalftł bsty	100	PN	[pred="abwalftł bsty_____1",cat=PN]	abwalftł bsty_____1	Default		%default	inv
-abwalftł sgzy	100	PN	[pred="abwalftł sgzy_____1",cat=PN]	abwalftł sgzy_____1	Default		%default	inv
+abwalftħ aşfeany	100	PN	[pred="abwalftħ aşfeany___Al-Isfahani__1",cat=PN]	abwalftħ aşfeany___Al-Isfahani__1	Default		%default	inv
+abwalftħ bsty	100	PN	[pred="abwalftħ bsty_____1",cat=PN]	abwalftħ bsty_____1	Default		%default	inv
+abwalftħ sgzy	100	PN	[pred="abwalftħ sgzy_____1",cat=PN]	abwalftħ sgzy_____1	Default		%default	inv
 abwalfźl 'bdaley	100	PN	[pred="abwalfźl 'bdaley_____1",cat=PN]	abwalfźl 'bdaley_____1	Default		%default	inv
 abwalfźl 'ţar	100	PN	[pred="abwalfźl 'ţar___Abolfazl Attar__1",cat=PN]	abwalfźl 'ţar___Abolfazl Attar__1	Default		%default	inv
 abwalfźl aylčy_byg	100	PN	[pred="abwalfźl aylčy_byg___Abülfaz Elçibay__1",cat=PN]	abwalfźl aylčy_byg___Abülfaz Elçibay__1	Default		%default	inv
 abwalfźl bl'my	100	PN	[pred="abwalfźl bl'my_____1",cat=PN]	abwalfźl bl'my_____1	Default		%default	inv
 abwalfźl byeŕy	100	PN	[pred="abwalfźl byeŕy___Abolfazl Beyhaqi__1",cat=PN]	abwalfźl byeŕy___Abolfazl Beyhaqi__1	Default		%default	inv
-abwalfźl fatł	100	PN	[pred="abwalfźl fatł_____1",cat=PN]	abwalfźl fatł_____1	Default		%default	inv
+abwalfźl fatħ	100	PN	[pred="abwalfźl fatħ_____1",cat=PN]	abwalfźl fatħ_____1	Default		%default	inv
 abwalfźl jeandar	100	PN	[pred="abwalfźl jeandar_____1",cat=PN]	abwalfźl jeandar_____1	Default		%default	inv
 abwalfźl jlyly	100	PN	[pred="abwalfźl jlyly___Abolfazl Jalili__1",cat=PN]	abwalfźl jlyly___Abolfazl Jalili__1	Default		%default	inv
 abwalfźl lsany	100	PN	[pred="abwalfźl lsany_____1",cat=PN]	abwalfźl lsany_____1	Default		%default	inv
@@ -444,56 +444,56 @@ abwalfźy nyry	100	PN	[pred="abwalfźy nyry_____1",cat=PN]	abwalfźy nyry_____1	
 abwalm'aly myr'ly šyrazy	100	PN	[pred="abwalm'aly myr'ly šyrazy_____1",cat=PN]	abwalm'aly myr'ly šyrazy_____1	Default		%default	inv
 abwalmwyd blxy	100	PN	[pred="abwalmwyd blxy_____1",cat=PN]	abwalmwyd blxy_____1	Default		%default	inv
 abwalwfay bwzjany	100	PN	[pred="abwalwfay bwzjany___Abu al-Wafa' Buzjani__1",cat=PN]	abwalwfay bwzjany___Abu al-Wafa' Buzjani__1	Default		%default	inv
-abwalłsn 'amry	100	PN	[pred="abwalłsn 'amry___Al Amiri__1",cat=PN]	abwalłsn 'amry___Al Amiri__1	Default		%default	inv
-abwalłsn aŕbal_âÄr	100	PN	[pred="abwalłsn aŕbal_âÄr_____1",cat=PN]	abwalłsn aŕbal_âÄr_____1	Default		%default	inv
-abwalłsn njfy	100	PN	[pred="abwalłsn njfy___Abolhassan Najafi__1",cat=PN]	abwalłsn njfy___Abolhassan Najafi__1	Default		%default	inv
-abwalłsn qfary	100	PN	[pred="abwalłsn qfary_____1",cat=PN]	abwalłsn qfary_____1	Default		%default	inv
-abwalłsn teamy_nžad	100	PN	[pred="abwalłsn teamy_nžad_____1",cat=PN]	abwalłsn teamy_nžad_____1	Default		%default	inv
-abwalłsn wrzy	100	PN	[pred="abwalłsn wrzy_____1",cat=PN]	abwalłsn wrzy_____1	Default		%default	inv
-abwalłsn xrŕany	100	PN	[pred="abwalłsn xrŕany_____1",cat=PN]	abwalłsn xrŕany_____1	Default		%default	inv
-abwalłsn şba	100	PN	[pred="abwalłsn şba___Abolhasan Saba__1",cat=PN]	abwalłsn şba___Abolhasan Saba__1	Default		%default	inv
-abwalłsn şdyŕy	100	PN	[pred="abwalłsn şdyŕy___Abolhassan Khan Sadighi__1",cat=PN]	abwalłsn şdyŕy___Abolhassan Khan Sadighi__1	Default		%default	inv
-abwalłsn ţbry	100	PN	[pred="abwalłsn ţbry_____1",cat=PN]	abwalłsn ţbry_____1	Default		%default	inv
+abwalħsn 'amry	100	PN	[pred="abwalħsn 'amry___Al Amiri__1",cat=PN]	abwalħsn 'amry___Al Amiri__1	Default		%default	inv
+abwalħsn aŕbal_āÄr	100	PN	[pred="abwalħsn aŕbal_āÄr_____1",cat=PN]	abwalħsn aŕbal_āÄr_____1	Default		%default	inv
+abwalħsn njfy	100	PN	[pred="abwalħsn njfy___Abolhassan Najafi__1",cat=PN]	abwalħsn njfy___Abolhassan Najafi__1	Default		%default	inv
+abwalħsn qfary	100	PN	[pred="abwalħsn qfary_____1",cat=PN]	abwalħsn qfary_____1	Default		%default	inv
+abwalħsn teamy_nžad	100	PN	[pred="abwalħsn teamy_nžad_____1",cat=PN]	abwalħsn teamy_nžad_____1	Default		%default	inv
+abwalħsn wrzy	100	PN	[pred="abwalħsn wrzy_____1",cat=PN]	abwalħsn wrzy_____1	Default		%default	inv
+abwalħsn xrŕany	100	PN	[pred="abwalħsn xrŕany_____1",cat=PN]	abwalħsn xrŕany_____1	Default		%default	inv
+abwalħsn şba	100	PN	[pred="abwalħsn şba___Abolhasan Saba__1",cat=PN]	abwalħsn şba___Abolhasan Saba__1	Default		%default	inv
+abwalħsn şdyŕy	100	PN	[pred="abwalħsn şdyŕy___Abolhassan Khan Sadighi__1",cat=PN]	abwalħsn şdyŕy___Abolhassan Khan Sadighi__1	Default		%default	inv
+abwalħsn ţbry	100	PN	[pred="abwalħsn ţbry_____1",cat=PN]	abwalħsn ţbry_____1	Default		%default	inv
 abwalŕasm asma'yl_pwr	100	PN	[pred="abwalŕasm asma'yl_pwr_____1",cat=PN]	abwalŕasm asma'yl_pwr_____1	Default		%default	inv
 abwalŕasm bxtyar	100	PN	[pred="abwalŕasm bxtyar_____1",cat=PN]	abwalŕasm bxtyar_____1	Default		%default	inv
 abwalŕasm dekrdy	100	PN	[pred="abwalŕasm dekrdy_____1",cat=PN]	abwalŕasm dekrdy_____1	Default		%default	inv
 abwalŕasm laewty	100	PN	[pred="abwalŕasm laewty___Abolqasem Lahouti__1",cat=PN]	abwalŕasm laewty___Abolqasem Lahouti__1	Default		%default	inv
 abwalŕasm mŕan'y	100	PN	[pred="abwalŕasm mŕan'y_____1",cat=PN]	abwalŕasm mŕan'y_____1	Default		%default	inv
 abwalŕasm paynde	100	PN	[pred="abwalŕasm paynde_____1",cat=PN]	abwalŕasm paynde_____1	Default		%default	inv
-abwalŕasm słab	100	PN	[pred="abwalŕasm słab_____1",cat=PN]	abwalŕasm słab_____1	Default		%default	inv
-abwalŕasm łalt	100	PN	[pred="abwalŕasm łalt_____1",cat=PN]	abwalŕasm łalt_____1	Default		%default	inv
+abwalŕasm sħab	100	PN	[pred="abwalŕasm sħab_____1",cat=PN]	abwalŕasm sħab_____1	Default		%default	inv
+abwalŕasm ħalt	100	PN	[pred="abwalŕasm ħalt_____1",cat=PN]	abwalŕasm ħalt_____1	Default		%default	inv
 abwalŕasm ţqry yqmayy	100	PN	[pred="abwalŕasm ţqry yqmayy_____1",cat=PN]	abwalŕasm ţqry yqmayy_____1	Default		%default	inv
-abwasłaŕ aţ'me	100	PN	[pred="abwasłaŕ aţ'me_____1",cat=PN]	abwasłaŕ aţ'me_____1	Default		%default	inv
-abwasłaŕ jwybary	100	PN	[pred="abwasłaŕ jwybary_____1",cat=PN]	abwasłaŕ jwybary_____1	Default		%default	inv
+abwasħaŕ aţ'me	100	PN	[pred="abwasħaŕ aţ'me_____1",cat=PN]	abwasħaŕ aţ'me_____1	Default		%default	inv
+abwasħaŕ jwybary	100	PN	[pred="abwasħaŕ jwybary_____1",cat=PN]	abwasħaŕ jwybary_____1	Default		%default	inv
 abwbkr krjy	100	PN	[pred="abwbkr krjy___Al-Karaji__1",cat=PN]	abwbkr krjy___Al-Karaji__1	Default		%default	inv
 abwbkr yŕyn	100	PN	[pred="abwbkr yŕyn_____1",cat=PN]	abwbkr yŕyn_____1	Default		%default	inv
 abwj'fr xazn xrasany	100	PN	[pred="abwj'fr xazn xrasany___Abu Ja'far al-Khazin__1",cat=PN]	abwj'fr xazn xrasany___Abu Ja'far al-Khazin__1	Default		%default	inv
 abwm'šr blxy	100	PN	[pred="abwm'šr blxy___Abu Ma'shar al-Balkhi__1",cat=PN]	abwm'šr blxy___Abu Ma'shar al-Balkhi__1	Default		%default	inv
 abwmnşwr ţaer aşfeany	100	PN	[pred="abwmnşwr ţaer aşfeany_____1",cat=PN]	abwmnşwr ţaer aşfeany_____1	Default		%default	inv
-abwmłmd 'bdalmlk bn ešam	100	PN	[pred="abwmłmd 'bdalmlk bn ešam___Ibn Hisham__1",cat=PN]	abwmłmd 'bdalmlk bn ešam___Ibn Hisham__1	Default		%default	inv
-abwmłmwd łamdbn xźr xjndy	100	PN	[pred="abwmłmwd łamdbn xźr xjndy_____1",cat=PN]	abwmłmwd łamdbn xźr xjndy_____1	Default		%default	inv
+abwmħmd 'bdalmlk bn ešam	100	PN	[pred="abwmħmd 'bdalmlk bn ešam___Ibn Hisham__1",cat=PN]	abwmħmd 'bdalmlk bn ešam___Ibn Hisham__1	Default		%default	inv
+abwmħmwd ħamdbn xźr xjndy	100	PN	[pred="abwmħmwd ħamdbn xźr xjndy_____1",cat=PN]	abwmħmwd ħamdbn xźr xjndy_____1	Default		%default	inv
 abwnwas aewazy	100	PN	[pred="abwnwas aewazy___Abu Nuwas__1",cat=PN]	abwnwas aewazy___Abu Nuwas__1	Default		%default	inv
 abwnşr faraby	100	PN	[pred="abwnşr faraby___Al-Farabi__1",cat=PN]	abwnşr faraby___Al-Farabi__1	Default		%default	inv
 abwnşr ŕmy	100	PN	[pred="abwnşr ŕmy_____1",cat=PN]	abwnşr ŕmy_____1	Default		%default	inv
 abwnźal	100	PN	[pred="abwnźal___Abu Nidal__1",cat=PN]	abwnźal___Abu Nidal__1	Default		%default	inv
 abwqanm ţbyb	100	PN	[pred="abwqanm ţbyb_____1",cat=PN]	abwqanm ţbyb_____1	Default		%default	inv
-abwryłan byrwny	100	PN	[pred="abwryłan byrwny___Abu Rayhan Biruni__1",cat=PN]	abwryłan byrwny___Abu Rayhan Biruni__1	Default		%default	inv
+abwryħan byrwny	100	PN	[pred="abwryħan byrwny___Abu Rayhan Biruni__1",cat=PN]	abwryħan byrwny___Abu Rayhan Biruni__1	Default		%default	inv
 abws'yd abwalxyr	100	PN	[pred="abws'yd abwalxyr___Abu-Sa'id Abul-Khayr__1",cat=PN]	abws'yd abwalxyr___Abu-Sa'id Abul-Khayr__1	Default		%default	inv
 abws'yd sjzy	100	PN	[pred="abws'yd sjzy___Al-Sijzi__1",cat=PN]	abws'yd sjzy___Al-Sijzi__1	Default		%default	inv
 abwsel byžn kwey	100	PN	[pred="abwsel byžn kwey_____1",cat=PN]	abwsel byžn kwey_____1	Default		%default	inv
-abwsel msyły	100	PN	[pred="abwsel msyły___Al-Jurjani__1",cat=PN]	abwsel msyły___Al-Jurjani__1	Default		%default	inv
-abwsel msyły jrjany	100	PN	[pred="abwsel msyły jrjany___Al-Masihi__1",cat=PN]	abwsel msyły jrjany___Al-Masihi__1	Default		%default	inv
+abwsel msyħy	100	PN	[pred="abwsel msyħy___Al-Jurjani__1",cat=PN]	abwsel msyħy___Al-Jurjani__1	Default		%default	inv
+abwsel msyħy jrjany	100	PN	[pred="abwsel msyħy jrjany___Al-Masihi__1",cat=PN]	abwsel msyħy jrjany___Al-Masihi__1	Default		%default	inv
 abwslyk grgany	100	PN	[pred="abwslyk grgany_____1",cat=PN]	abwslyk grgany_____1	Default		%default	inv
 abwtrab jly	100	PN	[pred="abwtrab jly_____1",cat=PN]	abwtrab jly_____1	Default		%default	inv
-abwtrab mżery	100	PN	[pred="abwtrab mżery_____1",cat=PN]	abwtrab mżery_____1	Default		%default	inv
+abwtrab mẓery	100	PN	[pred="abwtrab mẓery_____1",cat=PN]	abwtrab mẓery_____1	Default		%default	inv
 abwtrab xsrwy	100	PN	[pred="abwtrab xsrwy_____1",cat=PN]	abwtrab xsrwy_____1	Default		%default	inv
 abwxald kably	100	PN	[pred="abwxald kably_____1",cat=PN]	abwxald kably_____1	Default		%default	inv
 abwzra'e m'mry	100	PN	[pred="abwzra'e m'mry_____1",cat=PN]	abwzra'e m'mry_____1	Default		%default	inv
 abwzyd blxy	100	PN	[pred="abwzyd blxy_____1",cat=PN]	abwzyd blxy_____1	Default		%default	inv
-abwłfş sqdy	100	PN	[pred="abwłfş sqdy_____1",cat=PN]	abwłfş sqdy_____1	Default		%default	inv
-abwłnyfe dynwry	100	PN	[pred="abwłnyfe dynwry___Abu Hanifa Dinawari__1",cat=PN]	abwłnyfe dynwry___Abu Hanifa Dinawari__1	Default		%default	inv
-abwłnyfe n'man bn çabt	100	PN	[pred="abwłnyfe n'man bn çabt___Abu Hanifa__1",cat=PN]	abwłnyfe n'man bn çabt___Abu Hanifa__1	Default		%default	inv
-abwłyan twłydy	100	PN	[pred="abwłyan twłydy_____1",cat=PN]	abwłyan twłydy_____1	Default		%default	inv
+abwħfş sqdy	100	PN	[pred="abwħfş sqdy_____1",cat=PN]	abwħfş sqdy_____1	Default		%default	inv
+abwħnyfe dynwry	100	PN	[pred="abwħnyfe dynwry___Abu Hanifa Dinawari__1",cat=PN]	abwħnyfe dynwry___Abu Hanifa Dinawari__1	Default		%default	inv
+abwħnyfe n'man bn çabt	100	PN	[pred="abwħnyfe n'man bn çabt___Abu Hanifa__1",cat=PN]	abwħnyfe n'man bn çabt___Abu Hanifa__1	Default		%default	inv
+abwħyan twħydy	100	PN	[pred="abwħyan twħydy_____1",cat=PN]	abwħyan twħydy_____1	Default		%default	inv
 abwš'yb erwy	100	PN	[pred="abwš'yb erwy_____1",cat=PN]	abwš'yb erwy_____1	Default		%default	inv
 abwškwr blxy	100	PN	[pred="abwškwr blxy___Abu-Shakur Balkhi__1",cat=PN]	abwškwr blxy___Abu-Shakur Balkhi__1	Default		%default	inv
 abwţaer xsrwany	100	PN	[pred="abwţaer xsrwany_____1",cat=PN]	abwţaer xsrwany_____1	Default		%default	inv
@@ -515,7 +515,7 @@ adgar kad	100	PN	[pred="adgar kad___Edgar F. Codd__1",cat=PN]	adgar kad___Edgar 
 adgar lwrns dktrwf	100	PN	[pred="adgar lwrns dktrwf___E. L. Doctorow__1",cat=PN]	adgar lwrns dktrwf___E. L. Doctorow__1	Default		%default	inv
 adgar mwrn	100	PN	[pred="adgar mwrn___Edgar Morin__1",cat=PN]	adgar mwrn___Edgar Morin__1	Default		%default	inv
 adgar warz	100	PN	[pred="adgar warz___Edgard Varese__1",cat=PN]	adgar warz___Edgard Varese__1	Default		%default	inv
-adgar âdryan	100	PN	[pred="adgar âdryan___Edgar Adrian, 1st Baron Adrian__1",cat=PN]	adgar âdryan___Edgar Adrian, 1st Baron Adrian__1	Default		%default	inv
+adgar ādryan	100	PN	[pred="adgar ādryan___Edgar Adrian, 1st Baron Adrian__1",cat=PN]	adgar ādryan___Edgar Adrian, 1st Baron Adrian__1	Default		%default	inv
 admwnd brdw zykly	100	PN	[pred="admwnd brdw zykly___Edmund Bordeaux Szekely__1",cat=PN]	admwnd brdw zykly___Edmund Bordeaux Szekely__1	Default		%default	inv
 admwnd brk	100	PN	[pred="admwnd brk___Edmund Burke__1",cat=PN]	admwnd brk___Edmund Burke__1	Default		%default	inv
 admwnd bzyk	100	PN	[pred="admwnd bzyk___Edmond Bezik__1",cat=PN]	admwnd bzyk___Edmond Bezik__1	Default		%default	inv
@@ -564,7 +564,7 @@ adwnys	100	PN	[pred="adwnys___Adunis__1",cat=PN]	adwnys___Adunis__1	Default		%de
 adwyn as pwrtr	100	PN	[pred="adwyn as pwrtr___Edwin Stanton Porter__1",cat=PN]	adwyn as pwrtr___Edwin Stanton Porter__1	Default		%default	inv
 adwyn eabl	100	PN	[pred="adwyn eabl___Edwin Hubble__1",cat=PN]	adwyn eabl___Edwin Hubble__1	Default		%default	inv
 adwyn ewlmz	100	PN	[pred="adwyn ewlmz___Edwin Holmes__1",cat=PN]	adwyn ewlmz___Edwin Holmes__1	Default		%default	inv
-adwârd brnštayn	100	PN	[pred="adwârd brnštayn___Eduard Bernstein__1",cat=PN]	adwârd brnštayn___Eduard Bernstein__1	Default		%default	inv
+adwārd brnštayn	100	PN	[pred="adwārd brnštayn___Eduard Bernstein__1",cat=PN]	adwārd brnštayn___Eduard Bernstein__1	Default		%default	inv
 ady adamz	100	PN	[pred="ady adamz___Eddie Adams (photographer)__1",cat=PN]	ady adamz___Eddie Adams (photographer)__1	Default		%default	inv
 ady arnwld	100	PN	[pred="ady arnwld___Eddy Arnold__1",cat=PN]	ady arnwld___Eddy Arnold__1	Default		%default	inv
 ady mwrfy	100	PN	[pred="ady mwrfy___Eddie Murphy__1",cat=PN]	ady mwrfy___Eddie Murphy__1	Default		%default	inv
@@ -624,12 +624,12 @@ akbr gnjy	100	PN	[pred="akbr gnjy___Akbar Ganji__1",cat=PN]	akbr gnjy___Akbar Ga
 akbr gwdrzy	100	PN	[pred="akbr gwdrzy_____1",cat=PN]	akbr gwdrzy_____1	Default		%default	inv
 akbr m'zzy	100	PN	[pred="akbr m'zzy_____1",cat=PN]	akbr m'zzy_____1	Default		%default	inv
 akbr myçaŕyan	100	PN	[pred="akbr myçaŕyan___Akbar Misaghian__1",cat=PN]	akbr myçaŕyan___Akbar Misaghian__1	Default		%default	inv
-akbr młmdy	100	PN	[pred="akbr młmdy___Akbar Mohammadi__1",cat=PN]	akbr młmdy___Akbar Mohammadi__1	Default		%default	inv
+akbr mħmdy	100	PN	[pred="akbr mħmdy___Akbar Mohammadi__1",cat=PN]	akbr mħmdy___Akbar Mohammadi__1	Default		%default	inv
 akbr rady	100	PN	[pred="akbr rady___Akbar Radi__1",cat=PN]	akbr rady___Akbar Radi__1	Default		%default	inv
 akbr srdwzamy	100	PN	[pred="akbr srdwzamy_____1",cat=PN]	akbr srdwzamy_____1	Default		%default	inv
 akbr şqyry	100	PN	[pred="akbr şqyry___Akbar Saghiri__1",cat=PN]	akbr şqyry___Akbar Saghiri__1	Default		%default	inv
 ake_bwšy	100	PN	[pred="ake_bwšy___Akeboshi__1",cat=PN]	ake_bwšy___Akeboshi__1	Default		%default	inv
-akrm młmdy	100	PN	[pred="akrm młmdy___Akram Mohammadi__1",cat=PN]	akrm młmdy___Akram Mohammadi__1	Default		%default	inv
+akrm mħmdy	100	PN	[pred="akrm mħmdy___Akram Mohammadi__1",cat=PN]	akrm mħmdy___Akram Mohammadi__1	Default		%default	inv
 akrm pdram_nya	100	PN	[pred="akrm pdram_nya___Akram Pedramnia__1",cat=PN]	akrm pdram_nya___Akram Pedramnia__1	Default		%default	inv
 akrm yary	100	PN	[pred="akrm yary___Akram Yari__1",cat=PN]	akrm yary___Akram Yari__1	Default		%default	inv
 aksl rz	100	PN	[pred="aksl rz___Axl Rose__1",cat=PN]	aksl rz___Axl Rose__1	Default		%default	inv
@@ -638,7 +638,7 @@ aktawyw akampw	100	PN	[pred="aktawyw akampw___Octavio Ocampo__1",cat=PN]	aktawyw
 aktawyw paz	100	PN	[pred="aktawyw paz___Octavio Paz__1",cat=PN]	aktawyw paz___Octavio Paz__1	Default		%default	inv
 akwa	100	PN	[pred="akwa___Aqua (band)__1",cat=PN]	akwa___Aqua (band)__1	Default		%default	inv
 akym tamyrwf	100	PN	[pred="akym tamyrwf___Akim Tamiroff__1",cat=PN]	akym tamyrwf___Akim Tamiroff__1	Default		%default	inv
-akynw ârayy	100	PN	[pred="akynw ârayy___Akino Arai__1",cat=PN]	akynw ârayy___Akino Arai__1	Default		%default	inv
+akynw ārayy	100	PN	[pred="akynw ārayy___Akino Arai__1",cat=PN]	akynw ārayy___Akino Arai__1	Default		%default	inv
 akyra kwrwsawa	100	PN	[pred="akyra kwrwsawa___Akira Kurosawa__1",cat=PN]	akyra kwrwsawa___Akira Kurosawa__1	Default		%default	inv
 akšy kwmar	100	PN	[pred="akšy kwmar___Akshay Kumar__1",cat=PN]	akšy kwmar___Akshay Kumar__1	Default		%default	inv
 al gwr	100	PN	[pred="al gwr___Al Gore__1",cat=PN]	al gwr___Al Gore__1	Default		%default	inv
@@ -657,19 +657,19 @@ albrt kwzl	100	PN	[pred="albrt kwzl___Albrecht Kossel__1",cat=PN]	albrt kwzl___A
 albrt kyng	100	PN	[pred="albrt kyng___Albert King__1",cat=PN]	albrt kyng___Albert King__1	Default		%default	inv
 albrt lamwrys	100	PN	[pred="albrt lamwrys___Albert Lamorisse__1",cat=PN]	albrt lamwrys___Albert Lamorisse__1	Default		%default	inv
 albrt lstr lnyngr	100	PN	[pred="albrt lstr lnyngr___Albert L. Lehninger__1",cat=PN]	albrt lstr lnyngr___Albert L. Lehninger__1	Default		%default	inv
-albrt âbraeam mayklswn	100	PN	[pred="albrt âbraeam mayklswn___Albert Abraham Michelson__1",cat=PN]	albrt âbraeam mayklswn___Albert Abraham Michelson__1	Default		%default	inv
-albrt âylr	100	PN	[pred="albrt âylr___Albert Ayler__1",cat=PN]	albrt âylr___Albert Ayler__1	Default		%default	inv
+albrt ābraeam mayklswn	100	PN	[pred="albrt ābraeam mayklswn___Albert Abraham Michelson__1",cat=PN]	albrt ābraeam mayklswn___Albert Abraham Michelson__1	Default		%default	inv
+albrt āylr	100	PN	[pred="albrt āylr___Albert Ayler__1",cat=PN]	albrt āylr___Albert Ayler__1	Default		%default	inv
 albrt šwaytzr	100	PN	[pred="albrt šwaytzr___Albert Schweitzer__1",cat=PN]	albrt šwaytzr___Albert Schweitzer__1	Default		%default	inv
 albrtw fwjymwry	100	PN	[pred="albrtw fwjymwry___Alberto Fujimori__1",cat=PN]	albrtw fwjymwry___Alberto Fujimori__1	Default		%default	inv
 albrtw mwrawya	100	PN	[pred="albrtw mwrawya___Alberto Moravia__1",cat=PN]	albrtw mwrawya___Alberto Moravia__1	Default		%default	inv
 albrxt dwrr	100	PN	[pred="albrxt dwrr___Albrecht Dürer__1",cat=PN]	albrxt dwrr___Albrecht Dürer__1	Default		%default	inv
 aldad pardw	100	PN	[pred="aldad pardw_____1",cat=PN]	aldad pardw_____1	Default		%default	inv
-aldr kamara	100	PN	[pred="aldr kamara___Hélder Câmara__1",cat=PN]	aldr kamara___Hélder Câmara__1	Default		%default	inv
+aldr kamara	100	PN	[pred="aldr kamara___Hélder Cāmara__1",cat=PN]	aldr kamara___Hélder Cāmara__1	Default		%default	inv
 aldw rwsy	100	PN	[pred="aldw rwsy___Aldo Rossi__1",cat=PN]	aldw rwsy___Aldo Rossi__1	Default		%default	inv
 aldws eaksly	100	PN	[pred="aldws eaksly___Aldous Huxley__1",cat=PN]	aldws eaksly___Aldous Huxley__1	Default		%default	inv
 aleam 'ly_af	100	PN	[pred="aleam 'ly_af___Ilham Aliyev__1",cat=PN]	aleam 'ly_af___Ilham Aliyev__1	Default		%default	inv
 aleam pawe_nžad	100	PN	[pred="aleam pawe_nžad_____1",cat=PN]	aleam pawe_nžad_____1	Default		%default	inv
-aleam łmydy	100	PN	[pred="aleam łmydy_____1",cat=PN]	aleam łmydy_____1	Default		%default	inv
+aleam ħmydy	100	PN	[pred="aleam ħmydy_____1",cat=PN]	aleam ħmydy_____1	Default		%default	inv
 alee	300	PN	[pred="alee_____1",cat=PN]	alee_____1	Default		%default	inv
 alee 'źdy	100	PN	[pred="alee 'źdy_____1",cat=PN]	alee 'źdy_____1	Default		%default	inv
 alee eyks	100	PN	[pred="alee eyks_____1",cat=PN]	alee eyks_____1	Default		%default	inv
@@ -680,12 +680,12 @@ alfrd ašnytke	100	PN	[pred="alfrd ašnytke___Alfred Schnittke__1",cat=PN]	alfrd
 alfrd eyčkak	100	PN	[pred="alfrd eyčkak___Alfred Hitchcock__1",cat=PN]	alfrd eyčkak___Alfred Hitchcock__1	Default		%default	inv
 alfrd kynzy	100	PN	[pred="alfrd kynzy___Kinsey Reports__1",cat=PN]	alfrd kynzy___Kinsey Reports__1	Default		%default	inv
 alfrd maean	100	PN	[pred="alfrd maean___Alfred Thayer Mahan__1",cat=PN]	alfrd maean___Alfred Thayer Mahan__1	Default		%default	inv
-alfrd âdlr	100	PN	[pred="alfrd âdlr___Alfred Adler__1",cat=PN]	alfrd âdlr___Alfred Adler__1	Default		%default	inv
+alfrd ādlr	100	PN	[pred="alfrd ādlr___Alfred Adler__1",cat=PN]	alfrd ādlr___Alfred Adler__1	Default		%default	inv
 alfrd žan batyst lwmr	100	PN	[pred="alfrd žan batyst lwmr___Alfred Jean Baptiste Lemaire__1",cat=PN]	alfrd žan batyst lwmr___Alfred Jean Baptiste Lemaire__1	Default		%default	inv
 alfrd žary	100	PN	[pred="alfrd žary___Alfred Jarry__1",cat=PN]	alfrd žary___Alfred Jarry__1	Default		%default	inv
 alfrdw kazla	100	PN	[pred="alfrdw kazla___Alfredo Casella__1",cat=PN]	alfrdw kazla___Alfredo Casella__1	Default		%default	inv
 alfwns dwde	100	PN	[pred="alfwns dwde___Alphonse Daudet__1",cat=PN]	alfwns dwde___Alphonse Daudet__1	Default		%default	inv
-alfwnsw d âlbwkrk	100	PN	[pred="alfwnsw d âlbwkrk___Afonso de Albuquerque__1",cat=PN]	alfwnsw d âlbwkrk___Afonso de Albuquerque__1	Default		%default	inv
+alfwnsw d ālbwkrk	100	PN	[pred="alfwnsw d ālbwkrk___Afonso de Albuquerque__1",cat=PN]	alfwnsw d ālbwkrk___Afonso de Albuquerque__1	Default		%default	inv
 alfwnsw de albwkrke	100	PN	[pred="alfwnsw de albwkrke___Afonso de Albuquerque__1",cat=PN]	alfwnsw de albwkrke___Afonso de Albuquerque__1	Default		%default	inv
 alk gyns	100	PN	[pred="alk gyns___Alec Guinness__1",cat=PN]	alk gyns___Alec Guinness__1	Default		%default	inv
 alk ŕazaryan	100	PN	[pred="alk ŕazaryan_____1",cat=PN]	alk ŕazaryan_____1	Default		%default	inv
@@ -748,7 +748,7 @@ alnwr marks	100	PN	[pred="alnwr marks___Eleanor Marx__1",cat=PN]	alnwr marks___E
 alnwwy	100	PN	[pred="alnwwy___Yahya ibn Sharaf al-Nawawi__1",cat=PN]	alnwwy___Yahya ibn Sharaf al-Nawawi__1	Default		%default	inv
 alny karyndrw	100	PN	[pred="alny karyndrw___Eleni Karaindrou__1",cat=PN]	alny karyndrw___Eleni Karaindrou__1	Default		%default	inv
 alq_byg	100	PN	[pred="alq_byg___Ulugh Beg__1",cat=PN]	alq_byg___Ulugh Beg__1	Default		%default	inv
-als ârne	100	PN	[pred="als ârne___Els Aarne__1",cat=PN]	als ârne___Els Aarne__1	Default		%default	inv
+als ārne	100	PN	[pred="als ārne___Els Aarne__1",cat=PN]	als ārne___Els Aarne__1	Default		%default	inv
 alsandrw alwry	100	PN	[pred="alsandrw alwry___Alessandro Allori__1",cat=PN]	alsandrw alwry___Alessandro Allori__1	Default		%default	inv
 alsandrw barykw	100	PN	[pred="alsandrw barykw___Alessandro Baricco__1",cat=PN]	alsandrw barykw___Alessandro Baricco__1	Default		%default	inv
 alsandrw dl_pyrw	100	PN	[pred="alsandrw dl_pyrw___Alessandro Del Piero__1",cat=PN]	alsandrw dl_pyrw___Alessandro Del Piero__1	Default		%default	inv
@@ -757,7 +757,7 @@ alsandrw wlta	100	PN	[pred="alsandrw wlta___Alessandro Volta__1",cat=PN]	alsandr
 alsdyr mk_ayntayr	100	PN	[pred="alsdyr mk_ayntayr___Alasdair MacIntyre__1",cat=PN]	alsdyr mk_ayntayr___Alasdair MacIntyre__1	Default		%default	inv
 altwn jan	100	PN	[pred="altwn jan___Elton John__1",cat=PN]	altwn jan___Elton John__1	Default		%default	inv
 alwar galstrnd	100	PN	[pred="alwar galstrnd___Allvar Gullstrand__1",cat=PN]	alwar galstrnd___Allvar Gullstrand__1	Default		%default	inv
-alwar âltw	100	PN	[pred="alwar âltw___Alvar Aalto__1",cat=PN]	alwar âltw___Alvar Aalto__1	Default		%default	inv
+alwar āltw	100	PN	[pred="alwar āltw___Alvar Aalto__1",cat=PN]	alwar āltw___Alvar Aalto__1	Default		%default	inv
 alwarw syza	100	PN	[pred="alwarw syza___Álvaro Siza Vieira__1",cat=PN]	alwarw syza___Álvaro Siza Vieira__1	Default		%default	inv
 alwna bwndarnkw	100	PN	[pred="alwna bwndarnkw___Alona Bondarenko__1",cat=PN]	alwna bwndarnkw___Alona Bondarenko__1	Default		%default	inv
 alwyn taflr	100	PN	[pred="alwyn taflr___Alvin Toffler__1",cat=PN]	alwyn taflr___Alvin Toffler__1	Default		%default	inv
@@ -815,7 +815,7 @@ ama watswn	100	PN	[pred="ama watswn___Emma Watson__1",cat=PN]	ama watswn___Emma 
 ama šaplyn	100	PN	[pred="ama šaplyn___Emma Shapplin__1",cat=PN]	ama šaplyn___Emma Shapplin__1	Default		%default	inv
 amad´w mwdylyany	100	PN	[pred="amad´w mwdylyany___Amedeo Modigliani__1",cat=PN]	amad´w mwdylyany___Amedeo Modigliani__1	Default		%default	inv
 amam fxr razy	100	PN	[pred="amam fxr razy___Fakhr al-Din al-Razi__1",cat=PN]	amam fxr razy___Fakhr al-Din al-Razi__1	Default		%default	inv
-amam'ly łbyby	100	PN	[pred="amam'ly łbyby___Emam-Ali Habibi__1",cat=PN]	amam'ly łbyby___Emam-Ali Habibi__1	Default		%default	inv
+amam'ly ħbyby	100	PN	[pred="amam'ly ħbyby___Emam-Ali Habibi__1",cat=PN]	amam'ly ħbyby___Emam-Ali Habibi__1	Default		%default	inv
 amam_zade	100	PN	[pred="amam_zade___Imamzadeh__1",cat=PN]	amam_zade___Imamzadeh__1	Default		%default	inv
 amamŕly xan	100	PN	[pred="amamŕly xan___Imam-Quli Khan__1",cat=PN]	amamŕly xan___Imam-Quli Khan__1	Default		%default	inv
 aman_alle tajyk	100	PN	[pred="aman_alle tajyk_____1",cat=PN]	aman_alle tajyk_____1	Default		%default	inv
@@ -830,13 +830,13 @@ amary astawdmayr	100	PN	[pred="amary astawdmayr___Amar'e Stoudemire__1",cat=PN]	
 ambrwz byrs	100	PN	[pred="ambrwz byrs___Ambrose Bierce__1",cat=PN]	ambrwz byrs___Ambrose Bierce__1	Default		%default	inv
 ame szr	100	PN	[pred="ame szr___Aimé Césaire__1",cat=PN]	ame szr___Aimé Césaire__1	Default		%default	inv
 aml slyman 'fyfy	100	PN	[pred="aml slyman 'fyfy_____1",cat=PN]	aml slyman 'fyfy_____1	Default		%default	inv
-aml łjazy	100	PN	[pred="aml łjazy___Amal Hijazi__1",cat=PN]	aml łjazy___Amal Hijazi__1	Default		%default	inv
+aml ħjazy	100	PN	[pred="aml ħjazy___Amal Hijazi__1",cat=PN]	aml ħjazy___Amal Hijazi__1	Default		%default	inv
 amly mwrsmw	100	PN	[pred="amly mwrsmw___Amélie Mauresmo__1",cat=PN]	amly mwrsmw___Amélie Mauresmo__1	Default		%default	inv
 amlya areart	100	PN	[pred="amlya areart___Amelia Earhart__1",cat=PN]	amlya areart___Amelia Earhart__1	Default		%default	inv
 amne xanm ŕzwyny	100	PN	[pred="amne xanm ŕzwyny_____1",cat=PN]	amne xanm ŕzwyny_____1	Default		%default	inv
 amnwn ntşr	100	PN	[pred="amnwn ntşr___Amnon Netzer__1",cat=PN]	amnwn ntşr___Amnon Netzer__1	Default		%default	inv
 amrae	100	PN	[pred="amrae___Emrah Ipek__1",cat=PN]	amrae___Emrah Ipek__1	Default		%default	inv
-amre âydyn	100	PN	[pred="amre âydyn___Emre Aydin__1",cat=PN]	amre âydyn___Emre Aydin__1	Default		%default	inv
+amre āydyn	100	PN	[pred="amre āydyn___Emre Aydin__1",cat=PN]	amre āydyn___Emre Aydin__1	Default		%default	inv
 amy asmart	100	PN	[pred="amy asmart___Amy Smart__1",cat=PN]	amy asmart___Amy Smart__1	Default		%default	inv
 amy ly	100	PN	[pred="amy ly___Amy Lee__1",cat=PN]	amy ly___Amy Lee__1	Default		%default	inv
 amy rswm	100	PN	[pred="amy rswm___Emmy Rossum__1",cat=PN]	amy rswm___Emmy Rossum__1	Default		%default	inv
@@ -844,7 +844,7 @@ amy wayneaws	100	PN	[pred="amy wayneaws___Amy Winehouse__1",cat=PN]	amy wayneaws
 amyd jlyly	100	PN	[pred="amyd jlyly___Omid Djalili__1",cat=PN]	amyd jlyly___Omid Djalili__1	Default		%default	inv
 amyd krdstany	100	PN	[pred="amyd krdstany___Omid Kordestani__1",cat=PN]	amyd krdstany___Omid Kordestani__1	Default		%default	inv
 amyd mergan	100	PN	[pred="amyd mergan_____1",cat=PN]	amyd mergan_____1	Default		%default	inv
-amyd rwłany	100	PN	[pred="amyd rwłany_____1",cat=PN]	amyd rwłany_____1	Default		%default	inv
+amyd rwħany	100	PN	[pred="amyd rwħany_____1",cat=PN]	amyd rwħany_____1	Default		%default	inv
 amyd syare	100	PN	[pred="amyd syare_____1",cat=PN]	amyd syare_____1	Default		%default	inv
 amyd ţbyb_zade	100	PN	[pred="amyd ţbyb_zade_____1",cat=PN]	amyd ţbyb_zade_____1	Default		%default	inv
 amydrźa myrşyafy	100	PN	[pred="amydrźa myrşyafy_____1",cat=PN]	amydrźa myrşyafy_____1	Default		%default	inv
@@ -859,22 +859,22 @@ amyl l´wn pst	100	PN	[pred="amyl l´wn pst___Emil Leon Post__1",cat=PN]	amyl l�
 amyl nwlde	100	PN	[pred="amyl nwlde___Emil Nolde__1",cat=PN]	amyl nwlde___Emil Nolde__1	Default		%default	inv
 amyl t´wdwr kwčr	100	PN	[pred="amyl t´wdwr kwčr___Emil Theodor Kocher__1",cat=PN]	amyl t´wdwr kwčr___Emil Theodor Kocher__1	Default		%default	inv
 amyl zwla	100	PN	[pred="amyl zwla___Émile Zola__1",cat=PN]	amyl zwla___Émile Zola__1	Default		%default	inv
-amyl âdwlf wn bryng	100	PN	[pred="amyl âdwlf wn bryng___Emil Adolf von Behring__1",cat=PN]	amyl âdwlf wn bryng___Emil Adolf von Behring__1	Default		%default	inv
+amyl ādwlf wn bryng	100	PN	[pred="amyl ādwlf wn bryng___Emil Adolf von Behring__1",cat=PN]	amyl ādwlf wn bryng___Emil Adolf von Behring__1	Default		%default	inv
 amylkare pwnkyly	100	PN	[pred="amylkare pwnkyly___Amilcare Ponchielli__1",cat=PN]	amylkare pwnkyly___Amilcare Ponchielli__1	Default		%default	inv
 amyly brwnte	100	PN	[pred="amyly brwnte___Emily Brontë__1",cat=PN]	amyly brwnte___Emily Brontë__1	Default		%default	inv
 amyly dyknswn	100	PN	[pred="amyly dyknswn___Emily Dickinson__1",cat=PN]	amyly dyknswn___Emily Dickinson__1	Default		%default	inv
 amyly yang	100	PN	[pred="amyly yang___Emily Young (film director)__1",cat=PN]	amyly yang___Emily Young (film director)__1	Default		%default	inv
 amylya nrsysyans	100	PN	[pred="amylya nrsysyans_____1",cat=PN]	amylya nrsysyans_____1	Default		%default	inv
 amylyw ambaz	100	PN	[pred="amylyw ambaz_____1",cat=PN]	amylyw ambaz_____1	Default		%default	inv
-amyn ałmd razy	100	PN	[pred="amyn ałmd razy_____1",cat=PN]	amyn ałmd razy_____1	Default		%default	inv
+amyn aħmd razy	100	PN	[pred="amyn aħmd razy_____1",cat=PN]	amyn aħmd razy_____1	Default		%default	inv
 amyn fŕyry	100	PN	[pred="amyn fŕyry_____1",cat=PN]	amyn fŕyry_____1	Default		%default	inv
 amyn krd	100	PN	[pred="amyn krd_____1",cat=PN]	amyn krd_____1	Default		%default	inv
 amyn m'lwf	100	PN	[pred="amyn m'lwf___Amin Maalouf__1",cat=PN]	amyn m'lwf___Amin Maalouf__1	Default		%default	inv
 amyn nyk_fr	100	PN	[pred="amyn nyk_fr___Amin Nikfar__1",cat=PN]	amyn nyk_fr___Amin Nikfar__1	Default		%default	inv
 amyn tarx	100	PN	[pred="amyn tarx_____1",cat=PN]	amyn tarx_____1	Default		%default	inv
 amyn zndgany	100	PN	[pred="amyn zndgany_____1",cat=PN]	amyn zndgany_____1	Default		%default	inv
-amyn łyayy	100	PN	[pred="amyn łyayy___Amin Hayai__1",cat=PN]	amyn łyayy___Amin Hayai__1	Default		%default	inv
-amyn_alle andre łsyn	100	PN	[pred="amyn_alle andre łsyn___André Hossein__1",cat=PN]	amyn_alle andre łsyn___André Hossein__1	Default		%default	inv
+amyn ħyayy	100	PN	[pred="amyn ħyayy___Amin Hayai__1",cat=PN]	amyn ħyayy___Amin Hayai__1	Default		%default	inv
+amyn_alle andre ħsyn	100	PN	[pred="amyn_alle andre ħsyn___André Hossein__1",cat=PN]	amyn_alle andre ħsyn___André Hossein__1	Default		%default	inv
 amyn_alle ršydy	100	PN	[pred="amyn_alle ršydy___Aminollah Rashidi__1",cat=PN]	amyn_alle ršydy___Aminollah Rashidi__1	Default		%default	inv
 amyne pakrwan	100	PN	[pred="amyne pakrwan_____1",cat=PN]	amyne pakrwan_____1	Default		%default	inv
 amynm	100	PN	[pred="amynm___Eminem__1",cat=PN]	amynm___Eminem__1	Default		%default	inv
@@ -882,9 +882,9 @@ amyr 'šyry	100	PN	[pred="amyr 'šyry_____1",cat=PN]	amyr 'šyry_____1	Default		
 amyr baŕry	100	PN	[pred="amyr baŕry_____1",cat=PN]	amyr baŕry_____1	Default		%default	inv
 amyr krymy	100	PN	[pred="amyr krymy_____1",cat=PN]	amyr krymy_____1	Default		%default	inv
 amyr mkry	100	PN	[pred="amyr mkry___Amir Mokri__1",cat=PN]	amyr mkry___Amir Mokri__1	Default		%default	inv
-amyr młbyan	100	PN	[pred="amyr młbyan_____1",cat=PN]	amyr młbyan_____1	Default		%default	inv
+amyr mħbyan	100	PN	[pred="amyr mħbyan_____1",cat=PN]	amyr mħbyan_____1	Default		%default	inv
 amyr nadry	100	PN	[pred="amyr nadry___Amir Naderi__1",cat=PN]	amyr nadry___Amir Naderi__1	Default		%default	inv
-amyr nşrt mnŕł	100	PN	[pred="amyr nşrt mnŕł_____1",cat=PN]	amyr nşrt mnŕł_____1	Default		%default	inv
+amyr nşrt mnŕħ	100	PN	[pred="amyr nşrt mnŕħ_____1",cat=PN]	amyr nşrt mnŕħ_____1	Default		%default	inv
 amyr pazwary	100	PN	[pred="amyr pazwary_____1",cat=PN]	amyr pazwary_____1	Default		%default	inv
 amyr y'ŕwb'ly	100	PN	[pred="amyr y'ŕwb'ly_____1",cat=PN]	amyr y'ŕwb'ly_____1	Default		%default	inv
 amyr ŕl'e_nwyy	100	PN	[pred="amyr ŕl'e_nwyy___Amir Ghalenoei__1",cat=PN]	amyr ŕl'e_nwyy___Amir Ghalenoei__1	Default		%default	inv
@@ -898,15 +898,15 @@ amyrjan şbwry	100	PN	[pred="amyrjan şbwry_____1",cat=PN]	amyrjan şbwry_____1	
 amyrkbyr	100	PN	[pred="amyrkbyr___Amir Kabir__1",cat=PN]	amyrkbyr___Amir Kabir__1	Default		%default	inv
 amyrm'zy	100	PN	[pred="amyrm'zy_____1",cat=PN]	amyrm'zy_____1	Default		%default	inv
 amyrmedy bdy'	100	PN	[pred="amyrmedy bdy'_____1",cat=PN]	amyrmedy bdy'_____1	Default		%default	inv
-amyrnżam grwsy	100	PN	[pred="amyrnżam grwsy_____1",cat=PN]	amyrnżam grwsy_____1	Default		%default	inv
+amyrnẓam grwsy	100	PN	[pred="amyrnẓam grwsy_____1",cat=PN]	amyrnẓam grwsy_____1	Default		%default	inv
 amyrprwyz pwyan	100	PN	[pred="amyrprwyz pwyan_____1",cat=PN]	amyrprwyz pwyan_____1	Default		%default	inv
 amyrrźa xadm	100	PN	[pred="amyrrźa xadm___Amir Reza Khadem__1",cat=PN]	amyrrźa xadm___Amir Reza Khadem__1	Default		%default	inv
-amyrłsn čeltn	100	PN	[pred="amyrłsn čeltn_____1",cat=PN]	amyrłsn čeltn_____1	Default		%default	inv
-amyrłsyn xwršydfr	100	PN	[pred="amyrłsyn xwršydfr_____1",cat=PN]	amyrłsyn xwršydfr_____1	Default		%default	inv
-amyrłsyn âryan_pwr	100	PN	[pred="amyrłsyn âryan_pwr___Amir-Hossein Aryanpour__1",cat=PN]	amyrłsyn âryan_pwr___Amir-Hossein Aryanpour__1	Default		%default	inv
-amyrłsyn łšmt saran	100	PN	[pred="amyrłsyn łšmt saran___Amir Hossein Heshmat Saran__1",cat=PN]	amyrłsyn łšmt saran___Amir Hossein Heshmat Saran__1	Default		%default	inv
-amyrłsyn şadŕy	100	PN	[pred="amyrłsyn şadŕy___Amir Hossein Sadeghi__1",cat=PN]	amyrłsyn şadŕy___Amir Hossein Sadeghi__1	Default		%default	inv
-amyrłsyn şdyŕ	100	PN	[pred="amyrłsyn şdyŕ_____1",cat=PN]	amyrłsyn şdyŕ_____1	Default		%default	inv
+amyrħsn čeltn	100	PN	[pred="amyrħsn čeltn_____1",cat=PN]	amyrħsn čeltn_____1	Default		%default	inv
+amyrħsyn xwršydfr	100	PN	[pred="amyrħsyn xwršydfr_____1",cat=PN]	amyrħsyn xwršydfr_____1	Default		%default	inv
+amyrħsyn āryan_pwr	100	PN	[pred="amyrħsyn āryan_pwr___Amir-Hossein Aryanpour__1",cat=PN]	amyrħsyn āryan_pwr___Amir-Hossein Aryanpour__1	Default		%default	inv
+amyrħsyn ħšmt saran	100	PN	[pred="amyrħsyn ħšmt saran___Amir Hossein Heshmat Saran__1",cat=PN]	amyrħsyn ħšmt saran___Amir Hossein Heshmat Saran__1	Default		%default	inv
+amyrħsyn şadŕy	100	PN	[pred="amyrħsyn şadŕy___Amir Hossein Sadeghi__1",cat=PN]	amyrħsyn şadŕy___Amir Hossein Sadeghi__1	Default		%default	inv
+amyrħsyn şdyŕ	100	PN	[pred="amyrħsyn şdyŕ_____1",cat=PN]	amyrħsyn şdyŕ_____1	Default		%default	inv
 amyršaey sbzwary	100	PN	[pred="amyršaey sbzwary_____1",cat=PN]	amyršaey sbzwary_____1	Default		%default	inv
 amyršeab rźwyan	100	PN	[pred="amyršeab rźwyan_____1",cat=PN]	amyršeab rźwyan_____1	Default		%default	inv
 amytab bačan	100	PN	[pred="amytab bačan___Amitabh Bachchan__1",cat=PN]	amytab bačan___Amitabh Bachchan__1	Default		%default	inv
@@ -943,9 +943,9 @@ andre malrw	100	PN	[pred="andre malrw___André Malraux__1",cat=PN]	andre malrw__
 andre mary ampr	100	PN	[pred="andre mary ampr___André-Marie Ampere__1",cat=PN]	andre mary ampr___André-Marie Ampere__1	Default		%default	inv
 andre saxarwf	100	PN	[pred="andre saxarwf___Andrei Sakharov__1",cat=PN]	andre saxarwf___Andrei Sakharov__1	Default		%default	inv
 andre wayda	100	PN	[pred="andre wayda___Andrzej Wajda__1",cat=PN]	andre wayda___Andrzej Wajda__1	Default		%default	inv
-andre âqasy	100	PN	[pred="andre âqasy___Andre Agassi__1",cat=PN]	andre âqasy___Andre Agassi__1	Default		%default	inv
+andre āqasy	100	PN	[pred="andre āqasy___Andre Agassi__1",cat=PN]	andre āqasy___Andre Agassi__1	Default		%default	inv
 andre žyd	100	PN	[pred="andre žyd___André Gide__1",cat=PN]	andre žyd___André Gide__1	Default		%default	inv
-andre_â pyrlw	100	PN	[pred="andre_â pyrlw___Andrea Pirlo__1",cat=PN]	andre_â pyrlw___Andrea Pirlo__1	Default		%default	inv
+andre_ā pyrlw	100	PN	[pred="andre_ā pyrlw___Andrea Pirlo__1",cat=PN]	andre_ā pyrlw___Andrea Pirlo__1	Default		%default	inv
 andrs askwbar	100	PN	[pred="andrs askwbar___Andrés Escobar__1",cat=PN]	andrs askwbar___Andrés Escobar__1	Default		%default	inv
 andrs aynysta	100	PN	[pred="andrs aynysta___Andrés Iniesta__1",cat=PN]	andrs aynysta___Andrés Iniesta__1	Default		%default	inv
 andrs fwg rasmwsn	100	PN	[pred="andrs fwg rasmwsn___Anders Fogh Rasmussen__1",cat=PN]	andrs fwg rasmwsn___Anders Fogh Rasmussen__1	Default		%default	inv
@@ -953,7 +953,7 @@ andrs slsyws	100	PN	[pred="andrs slsyws___Anders Celsius__1",cat=PN]	andrs slsyw
 andrw danldz	100	PN	[pred="andrw danldz___Andru Donalds__1",cat=PN]	andrw danldz___Andru Donalds__1	Default		%default	inv
 andrw tnnbam	100	PN	[pred="andrw tnnbam___Andrew S. Tanenbaum__1",cat=PN]	andrw tnnbam___Andrew S. Tanenbaum__1	Default		%default	inv
 andrw wayt	100	PN	[pred="andrw wayt___Andrew Wyeth__1",cat=PN]	andrw wayt___Andrew Wyeth__1	Default		%default	inv
-andry âršawyn	100	PN	[pred="andry âršawyn___Andrei Arshavin__1",cat=PN]	andry âršawyn___Andrei Arshavin__1	Default		%default	inv
+andry āršawyn	100	PN	[pred="andry āršawyn___Andrei Arshavin__1",cat=PN]	andry āršawyn___Andrei Arshavin__1	Default		%default	inv
 andry šwčnkw	100	PN	[pred="andry šwčnkw___Andriy Shevchenko__1",cat=PN]	andry šwčnkw___Andriy Shevchenko__1	Default		%default	inv
 andrya bwčly	100	PN	[pred="andrya bwčly___Andrea Bocelli__1",cat=PN]	andrya bwčly___Andrea Bocelli__1	Default		%default	inv
 andryas brme	100	PN	[pred="andryas brme___Andreas Brehme__1",cat=PN]	andryas brme___Andreas Brehme__1	Default		%default	inv
@@ -967,7 +967,7 @@ ane_mary šyml	100	PN	[pred="ane_mary šyml___Annemarie Schimmel__1",cat=PN]	ane
 ang ly	100	PN	[pred="ang ly___Ang Lee__1",cat=PN]	ang ly___Ang Lee__1	Default		%default	inv
 angws yang	100	PN	[pred="angws yang___Angus Young__1",cat=PN]	angws yang___Angus Young__1	Default		%default	inv
 anjlyna jwly	100	PN	[pred="anjlyna jwly___Angelina Jolie__1",cat=PN]	anjlyna jwly___Angelina Jolie__1	Default		%default	inv
-anjmn łryt nswan	100	PN	[pred="anjmn łryt nswan_____1",cat=PN]	anjmn łryt nswan_____1	Default		%default	inv
+anjmn ħryt nswan	100	PN	[pred="anjmn ħryt nswan_____1",cat=PN]	anjmn ħryt nswan_____1	Default		%default	inv
 anktyl dwprwn	100	PN	[pred="anktyl dwprwn___Abraham Hyacinthe Anquetil-Duperron__1",cat=PN]	anktyl dwprwn___Abraham Hyacinthe Anquetil-Duperron__1	Default		%default	inv
 anna marya yapk	100	PN	[pred="anna marya yapk___Anna Maria Jopek__1",cat=PN]	anna marya yapk___Anna Maria Jopek__1	Default		%default	inv
 anry pwankare	100	PN	[pred="anry pwankare___Henri Poincaré__1",cat=PN]	anry pwankare___Henri Poincaré__1	Default		%default	inv
@@ -976,13 +976,13 @@ anryke ayglsyas	100	PN	[pred="anryke ayglsyas___Enrique Iglesias__1",cat=PN]	anr
 anrykw frmy	100	PN	[pred="anrykw frmy___Enrico Fermi__1",cat=PN]	anrykw frmy___Enrico Fermi__1	Default		%default	inv
 anrykw karwsw	100	PN	[pred="anrykw karwsw___Enrico Caruso__1",cat=PN]	anrykw karwsw___Enrico Caruso__1	Default		%default	inv
 anrykw masyas	100	PN	[pred="anrykw masyas___Enrico Macias__1",cat=PN]	anrykw masyas___Enrico Macias__1	Default		%default	inv
-ansl âdamz	100	PN	[pred="ansl âdamz___Ansel Adams__1",cat=PN]	ansl âdamz___Ansel Adams__1	Default		%default	inv
+ansl ādamz	100	PN	[pred="ansl ādamz___Ansel Adams__1",cat=PN]	ansl ādamz___Ansel Adams__1	Default		%default	inv
 ant bnyng	100	PN	[pred="ant bnyng___Annette Bening__1",cat=PN]	ant bnyng___Annette Bening__1	Default		%default	inv
 ant gwrdwn ryd	100	PN	[pred="ant gwrdwn ryd___Annette Gordon-Reed__1",cat=PN]	ant gwrdwn ryd___Annette Gordon-Reed__1	Default		%default	inv
 antwan dw snt_agzwpry	100	PN	[pred="antwan dw snt_agzwpry___Antoine de Saint-Exupéry__1",cat=PN]	antwan dw snt_agzwpry___Antoine de Saint-Exupéry__1	Default		%default	inv
 antwan mye	100	PN	[pred="antwan mye___Antoine Meillet__1",cat=PN]	antwan mye___Antoine Meillet__1	Default		%default	inv
 antwn brwknr	100	PN	[pred="antwn brwknr___Anton Bruckner__1",cat=PN]	antwn brwknr___Anton Bruckner__1	Default		%default	inv
-antwn ârnsky	100	PN	[pred="antwn ârnsky___Anton Arensky__1",cat=PN]	antwn ârnsky___Anton Arensky__1	Default		%default	inv
+antwn ārnsky	100	PN	[pred="antwn ārnsky___Anton Arensky__1",cat=PN]	antwn ārnsky___Anton Arensky__1	Default		%default	inv
 antwn čaytkyn	100	PN	[pred="antwn čaytkyn___Anton Chaitkin__1",cat=PN]	antwn čaytkyn___Anton Chaitkin__1	Default		%default	inv
 antwny asmyt	100	PN	[pred="antwny asmyt___Anthony Smith__1",cat=PN]	antwny asmyt___Anthony Smith__1	Default		%default	inv
 antwny eapkynz	100	PN	[pred="antwny eapkynz___Anthony Hopkins__1",cat=PN]	antwny eapkynz___Anthony Hopkins__1	Default		%default	inv
@@ -1004,7 +1004,7 @@ antwnyw tabwky	100	PN	[pred="antwnyw tabwky___Antonio Tabucchi__1",cat=PN]	antwn
 antwÂ´n žan grws	100	PN	[pred="antwÂ´n žan grws___Antoine-Jean Gros__1",cat=PN]	antwÂ´n žan grws___Antoine-Jean Gros__1	Default		%default	inv
 antşar alwzyr	100	PN	[pred="antşar alwzyr___Intissar al-Wazir__1",cat=PN]	antşar alwzyr___Intissar al-Wazir__1	Default		%default	inv
 anwr abraeym	100	PN	[pred="anwr abraeym___Anwar Ibrahim__1",cat=PN]	anwr abraeym___Anwar Ibrahim__1	Default		%default	inv
-anwr alłŕ ałdy	100	PN	[pred="anwr alłŕ ałdy_____1",cat=PN]	anwr alłŕ ałdy_____1	Default		%default	inv
+anwr alħŕ aħdy	100	PN	[pred="anwr alħŕ aħdy_____1",cat=PN]	anwr alħŕ aħdy_____1	Default		%default	inv
 anwr braem	100	PN	[pred="anwr braem___Anouar Brahem__1",cat=PN]	anwr braem___Anouar Brahem__1	Default		%default	inv
 anwr sadat	100	PN	[pred="anwr sadat___Anwar El Sadat__1",cat=PN]	anwr sadat___Anwar El Sadat__1	Default		%default	inv
 anwr xame_ay	100	PN	[pred="anwr xame_ay_____1",cat=PN]	anwr xame_ay_____1	Default		%default	inv
@@ -1012,7 +1012,7 @@ anwre dw balzak	100	PN	[pred="anwre dw balzak___Honoré de Balzac__1",cat=PN]	an
 anwry	100	PN	[pred="anwry___Anvari__1",cat=PN]	anwry___Anvari__1	Default		%default	inv
 anwše anşary	100	PN	[pred="anwše anşary___Anousheh Ansari__1",cat=PN]	anwše anşary___Anousheh Ansari__1	Default		%default	inv
 anwšyrwan arjmnd	100	PN	[pred="anwšyrwan arjmnd_____1",cat=PN]	anwšyrwan arjmnd_____1	Default		%default	inv
-anwšyrwan rwłany	100	PN	[pred="anwšyrwan rwłany___Anoushiravan Rohani__1",cat=PN]	anwšyrwan rwłany___Anoushiravan Rohani__1	Default		%default	inv
+anwšyrwan rwħany	100	PN	[pred="anwšyrwan rwħany___Anoushiravan Rohani__1",cat=PN]	anwšyrwan rwħany___Anoushiravan Rohani__1	Default		%default	inv
 any ras	100	PN	[pred="any ras___Annie Ross__1",cat=PN]	any ras___Annie Ross__1	Default		%default	inv
 any žyrardw	100	PN	[pred="any žyrardw___Annie Girardot__1",cat=PN]	any žyrardw___Annie Girardot__1	Default		%default	inv
 anya	100	PN	[pred="anya___Enya__1",cat=PN]	anya___Enya__1	Default		%default	inv
@@ -1025,7 +1025,7 @@ anyw mwrykwne	100	PN	[pred="anyw mwrykwne___Ennio Morricone__1",cat=PN]	anyw mwr
 apwlwnYws	100	PN	[pred="apwlwnYws___Apollonius of Perga__1",cat=PN]	apwlwnYws___Apollonius of Perga__1	Default		%default	inv
 apykwr	100	PN	[pred="apykwr___Epicurus__1",cat=PN]	apykwr___Epicurus__1	Default		%default	inv
 aram xačatwryan	100	PN	[pred="aram xačatwryan___Aram Khachaturian__1",cat=PN]	aram xačatwryan___Aram Khachaturian__1	Default		%default	inv
-arama´ys âŕamalyan	100	PN	[pred="arama´ys âŕamalyan_____1",cat=PN]	arama´ys âŕamalyan_____1	Default		%default	inv
+arama´ys āŕamalyan	100	PN	[pred="arama´ys āŕamalyan_____1",cat=PN]	arama´ys āŕamalyan_____1	Default		%default	inv
 aratwstn	100	PN	[pred="aratwstn___Eratosthenes__1",cat=PN]	aratwstn___Eratosthenes__1	Default		%default	inv
 arawynd adyga	100	PN	[pred="arawynd adyga___Aravind Adiga__1",cat=PN]	arawynd adyga___Aravind Adiga__1	Default		%default	inv
 ard bzrg	100	PN	[pred="ard bzrg_____1",cat=PN]	ard bzrg_____1	Default		%default	inv
@@ -1034,13 +1034,13 @@ ardlan šja'_kawe	100	PN	[pred="ardlan šja'_kawe___Ardalan Shoja Kaveh__1",cat=
 ardwan kamkar	100	PN	[pred="ardwan kamkar___Ardavan Kamkar__1",cat=PN]	ardwan kamkar___Ardavan Kamkar__1	Default		%default	inv
 ardwan rwzbe	100	PN	[pred="ardwan rwzbe_____1",cat=PN]	ardwan rwzbe_____1	Default		%default	inv
 ardšyr ayrany	100	PN	[pred="ardšyr ayrany___Ardeshir Irani__1",cat=PN]	ardšyr ayrany___Ardeshir Irani__1	Default		%default	inv
-ardšyr ałmdy	100	PN	[pred="ardšyr ałmdy_____1",cat=PN]	ardšyr ałmdy_____1	Default		%default	inv
-ardšyr frł	100	PN	[pred="ardšyr frł___Ardeshir Farah)__1",cat=PN]	ardšyr frł___Ardeshir Farah)__1	Default		%default	inv
+ardšyr aħmdy	100	PN	[pred="ardšyr aħmdy_____1",cat=PN]	ardšyr aħmdy_____1	Default		%default	inv
+ardšyr frħ	100	PN	[pred="ardšyr frħ___Ardeshir Farah)__1",cat=PN]	ardšyr frħ___Ardeshir Farah)__1	Default		%default	inv
 ardšyr kšawrz	100	PN	[pred="ardšyr kšawrz___Ardashir Keshavarz__1",cat=PN]	ardšyr kšawrz___Ardashir Keshavarz__1	Default		%default	inv
-ardšyr młşş	100	PN	[pred="ardšyr młşş___Ardeshir Mohasses__1",cat=PN]	ardšyr młşş___Ardeshir Mohasses__1	Default		%default	inv
+ardšyr mħşş	100	PN	[pred="ardšyr mħşş___Ardeshir Mohasses__1",cat=PN]	ardšyr mħşş___Ardeshir Mohasses__1	Default		%default	inv
 ardšyr rstmy	100	PN	[pred="ardšyr rstmy_____1",cat=PN]	ardšyr rstmy_____1	Default		%default	inv
 ardšyr zaedy	100	PN	[pred="ardšyr zaedy___Ardeshir Zahedi__1",cat=PN]	ardšyr zaedy___Ardeshir Zahedi__1	Default		%default	inv
-ardšyr łsyn_pwr	100	PN	[pred="ardšyr łsyn_pwr___Ardeshir Hosseinpour__1",cat=PN]	ardšyr łsyn_pwr___Ardeshir Hosseinpour__1	Default		%default	inv
+ardšyr ħsyn_pwr	100	PN	[pred="ardšyr ħsyn_pwr___Ardeshir Hosseinpour__1",cat=PN]	ardšyr ħsyn_pwr___Ardeshir Hosseinpour__1	Default		%default	inv
 arkanjlw kwrly	100	PN	[pred="arkanjlw kwrly___Arcangelo Corelli__1",cat=PN]	arkanjlw kwrly___Arcangelo Corelli__1	Default		%default	inv
 arky altwnn	100	PN	[pred="arky altwnn___Erkki Aaltonen__1",cat=PN]	arky altwnn___Erkki Aaltonen__1	Default		%default	inv
 arman	100	PN	[pred="arman_____1",cat=PN]	arman_____1	Default		%default	inv
@@ -1065,7 +1065,7 @@ arnwld enry sawyj lndwr	100	PN	[pred="arnwld enry sawyj lndwr___Arnold Henry Sav
 arnwld šwarzngr	100	PN	[pred="arnwld šwarzngr___Arnold Schwarzenegger__1",cat=PN]	arnwld šwarzngr___Arnold Schwarzenegger__1	Default		%default	inv
 arnwld šwnbrg	100	PN	[pred="arnwld šwnbrg___Arnold Schoenberg__1",cat=PN]	arnwld šwnbrg___Arnold Schoenberg__1	Default		%default	inv
 arqwan rźa´y	100	PN	[pred="arqwan rźa´y___Aravane Rezai__1",cat=PN]	arqwan rźa´y___Aravane Rezai__1	Default		%default	inv
-arslan fşyły	100	PN	[pred="arslan fşyły_____1",cat=PN]	arslan fşyły_____1	Default		%default	inv
+arslan fşyħy	100	PN	[pred="arslan fşyħy_____1",cat=PN]	arslan fşyħy_____1	Default		%default	inv
 arslan ŕasmy	100	PN	[pred="arslan ŕasmy_____1",cat=PN]	arslan ŕasmy_____1	Default		%default	inv
 arsn wngr	100	PN	[pred="arsn wngr___Arsene Wenger__1",cat=PN]	arsn wngr___Arsene Wenger__1	Default		%default	inv
 art blyky	100	PN	[pred="art blyky___Art Blakey__1",cat=PN]	art blyky___Art Blakey__1	Default		%default	inv
@@ -1093,7 +1093,7 @@ arwyn rwml	100	PN	[pred="arwyn rwml___Erwin Rommel__1",cat=PN]	arwyn rwml___Erwi
 arwyn yalwm	100	PN	[pred="arwyn yalwm___Irvin D. Yalom__1",cat=PN]	arwyn yalwm___Irvin D. Yalom__1	Default		%default	inv
 arwyn šrwdyngr	100	PN	[pred="arwyn šrwdyngr___Erwin Schrödinger__1",cat=PN]	arwyn šrwdyngr___Erwin Schrödinger__1	Default		%default	inv
 arxwţs	100	PN	[pred="arxwţs___Archytas__1",cat=PN]	arxwţs___Archytas__1	Default		%default	inv
-arya 'żymy_nžad	100	PN	[pred="arya 'żymy_nžad___Arya Aziminejad__1",cat=PN]	arya 'żymy_nžad___Arya Aziminejad__1	Default		%default	inv
+arya 'ẓymy_nžad	100	PN	[pred="arya 'ẓymy_nžad___Arya Aziminejad__1",cat=PN]	arya 'ẓymy_nžad___Arya Aziminejad__1	Default		%default	inv
 aryana aynjynyr	100	PN	[pred="aryana aynjynyr___Aryana Engineer__1",cat=PN]	aryana aynjynyr___Aryana Engineer__1	Default		%default	inv
 aryk aln krnl	100	PN	[pred="aryk aln krnl___Eric Allin Cornell__1",cat=PN]	aryk aln krnl___Eric Allin Cornell__1	Default		%default	inv
 aryk amanw´l ašmyt	100	PN	[pred="aryk amanw´l ašmyt___Éric-Emmanuel Schmitt__1",cat=PN]	aryk amanw´l ašmyt___Éric-Emmanuel Schmitt__1	Default		%default	inv
@@ -1120,8 +1120,8 @@ aryš fwn dnykn	100	PN	[pred="aryš fwn dnykn___Erich von Däniken__1",cat=PN]	a
 aryš kstnr	100	PN	[pred="aryš kstnr___Erich Kästner__1",cat=PN]	aryš kstnr___Erich Kästner__1	Default		%default	inv
 aryš lwdndwrf	100	PN	[pred="aryš lwdndwrf___Erich Ludendorff__1",cat=PN]	aryš lwdndwrf___Erich Ludendorff__1	Default		%default	inv
 arš breany	100	PN	[pred="arš breany___Arash Borhani__1",cat=PN]	arš breany___Arash Borhani__1	Default		%default	inv
-arš rłmany_pwr	100	PN	[pred="arš rłmany_pwr___Arash Rahmanipour__1",cat=PN]	arš rłmany_pwr___Arash Rahmanipour__1	Default		%default	inv
-arš łjazy	100	PN	[pred="arš łjazy___Arash Hejazi__1",cat=PN]	arš łjazy___Arash Hejazi__1	Default		%default	inv
+arš rħmany_pwr	100	PN	[pred="arš rħmany_pwr___Arash Rahmanipour__1",cat=PN]	arš rħmany_pwr___Arash Rahmanipour__1	Default		%default	inv
+arš ħjazy	100	PN	[pred="arš ħjazy___Arash Hejazi__1",cat=PN]	arš ħjazy___Arash Hejazi__1	Default		%default	inv
 arš šfa'y	100	PN	[pred="arš šfa'y_____1",cat=PN]	arš šfa'y_____1	Default		%default	inv
 aršam parsy	100	PN	[pred="aršam parsy___Arsham Parsi__1",cat=PN]	aršam parsy___Arsham Parsi__1	Default		%default	inv
 aržng amyr fźly	100	PN	[pred="aržng amyr fźly_____1",cat=PN]	aržng amyr fźly_____1	Default		%default	inv
@@ -1148,7 +1148,7 @@ askndr kwty	100	PN	[pred="askndr kwty_____1",cat=PN]	askndr kwty_____1	Default		
 askndr xtlany	100	PN	[pred="askndr xtlany___Iskandar Khatloni__1",cat=PN]	askndr xtlany___Iskandar Khatloni__1	Default		%default	inv
 askyp jymz	100	PN	[pred="askyp jymz___Skip James__1",cat=PN]	askyp jymz___Skip James__1	Default		%default	inv
 aslam bka albyf	100	PN	[pred="aslam bka albyf___Islambek Albiev__1",cat=PN]	aslam bka albyf___Islambek Albiev__1	Default		%default	inv
-aslam każmye	100	PN	[pred="aslam każmye_____1",cat=PN]	aslam każmye_____1	Default		%default	inv
+aslam kaẓmye	100	PN	[pred="aslam kaẓmye_____1",cat=PN]	aslam kaẓmye_____1	Default		%default	inv
 aslš	100	PN	[pred="aslš___Slash (musician)__1",cat=PN]	aslš___Slash (musician)__1	Default		%default	inv
 aslš	100	PN	[pred="aslš_____1",cat=PN]	aslš_____1	Default		%default	inv
 asma rsmye ţrzy	100	PN	[pred="asma rsmye ţrzy_____1",cat=PN]	asma rsmye ţrzy_____1	Default		%default	inv
@@ -1158,11 +1158,11 @@ asma'yl aštyany	100	PN	[pred="asma'yl aštyany_____1",cat=PN]	asma'yl aštyany_
 asma'yl brary	100	PN	[pred="asma'yl brary_____1",cat=PN]	asma'yl brary_____1	Default		%default	inv
 asma'yl dawrfr	100	PN	[pred="asma'yl dawrfr_____1",cat=PN]	asma'yl dawrfr_____1	Default		%default	inv
 asma'yl emty	100	PN	[pred="asma'yl emty_____1",cat=PN]	asma'yl emty_____1	Default		%default	inv
-asma'yl fşył	100	PN	[pred="asma'yl fşył_____1",cat=PN]	asma'yl fşył_____1	Default		%default	inv
+asma'yl fşyħ	100	PN	[pred="asma'yl fşyħ_____1",cat=PN]	asma'yl fşyħ_____1	Default		%default	inv
 asma'yl jrjany	100	PN	[pred="asma'yl jrjany_____1",cat=PN]	asma'yl jrjany_____1	Default		%default	inv
-asma'yl młmdy	100	PN	[pred="asma'yl młmdy_____1",cat=PN]	asma'yl młmdy_____1	Default		%default	inv
+asma'yl mħmdy	100	PN	[pred="asma'yl mħmdy_____1",cat=PN]	asma'yl mħmdy_____1	Default		%default	inv
 asma'yl ra´yn	100	PN	[pred="asma'yl ra´yn_____1",cat=PN]	asma'yl ra´yn_____1	Default		%default	inv
-asma'yl ryały	100	PN	[pred="asma'yl ryały_____1",cat=PN]	asma'yl ryały_____1	Default		%default	inv
+asma'yl ryaħy	100	PN	[pred="asma'yl ryaħy_____1",cat=PN]	asma'yl ryaħy_____1	Default		%default	inv
 asma'yl wfa yqmayy	100	PN	[pred="asma'yl wfa yqmayy_____1",cat=PN]	asma'yl wfa yqmayy_____1	Default		%default	inv
 asma'yl xwyy	100	PN	[pred="asma'yl xwyy_____1",cat=PN]	asma'yl xwyy_____1	Default		%default	inv
 asma'yl xw´y	100	PN	[pred="asma'yl xw´y_____1",cat=PN]	asma'yl xw´y_____1	Default		%default	inv
@@ -1175,7 +1175,7 @@ aspayk ly	100	PN	[pred="aspayk ly___Spike Lee__1",cat=PN]	aspayk ly___Spike Lee_
 aspnsr trysy	100	PN	[pred="aspnsr trysy___Spencer Tracy__1",cat=PN]	aspnsr trysy___Spencer Tracy__1	Default		%default	inv
 aspnsr twnYk	100	PN	[pred="aspnsr twnYk___Spencer Tunick__1",cat=PN]	aspnsr twnYk___Spencer Tunick__1	Default		%default	inv
 astad 'ysy	100	PN	[pred="astad 'ysy___Ustad Isa__1",cat=PN]	astad 'ysy___Ustad Isa__1	Default		%default	inv
-astad ałmd laewry	100	PN	[pred="astad ałmd laewry___Ustad Ahmad Lahauri__1",cat=PN]	astad ałmd laewry___Ustad Ahmad Lahauri__1	Default		%default	inv
+astad aħmd laewry	100	PN	[pred="astad aħmd laewry___Ustad Ahmad Lahauri__1",cat=PN]	astad aħmd laewry___Ustad Ahmad Lahauri__1	Default		%default	inv
 astandal	100	PN	[pred="astandal___Stendhal__1",cat=PN]	astandal___Stendhal__1	Default		%default	inv
 astanyslaw lm	100	PN	[pred="astanyslaw lm___Stanisław Lem__1",cat=PN]	astanyslaw lm___Stanisław Lem__1	Default		%default	inv
 astfan graply	100	PN	[pred="astfan graply___Stéphane Grappelli__1",cat=PN]	astfan graply___Stéphane Grappelli__1	Default		%default	inv
@@ -1215,10 +1215,10 @@ aswtlana f´wfanwa	100	PN	[pred="aswtlana f´wfanwa___Svetlana Feofanova__1",cat
 aswtlana kwzntswwa	100	PN	[pred="aswtlana kwzntswwa___Svetlana Kuznetsova__1",cat=PN]	aswtlana kwzntswwa___Svetlana Kuznetsova__1	Default		%default	inv
 asyp mandlstam	100	PN	[pred="asyp mandlstam___Osip Mandelstam__1",cat=PN]	asyp mandlstam___Osip Mandelstam__1	Default		%default	inv
 asyry laeyjy	100	PN	[pred="asyry laeyjy_____1",cat=PN]	asyry laeyjy_____1	Default		%default	inv
-asłaŕ mrdxay	100	PN	[pred="asłaŕ mrdxay___Yitzhak Mordechai__1",cat=PN]	asłaŕ mrdxay___Yitzhak Mordechai__1	Default		%default	inv
-asłaŕ mwşly	100	PN	[pred="asłaŕ mwşly_____1",cat=PN]	asłaŕ mwşly_____1	Default		%default	inv
-asłaŕ rabyn	100	PN	[pred="asłaŕ rabyn___Yitzhak Rabin__1",cat=PN]	asłaŕ rabyn___Yitzhak Rabin__1	Default		%default	inv
-asłŕ mwşly	100	PN	[pred="asłŕ mwşly_____1",cat=PN]	asłŕ mwşly_____1	Default		%default	inv
+asħaŕ mrdxay	100	PN	[pred="asħaŕ mrdxay___Yitzhak Mordechai__1",cat=PN]	asħaŕ mrdxay___Yitzhak Mordechai__1	Default		%default	inv
+asħaŕ mwşly	100	PN	[pred="asħaŕ mwşly_____1",cat=PN]	asħaŕ mwşly_____1	Default		%default	inv
+asħaŕ rabyn	100	PN	[pred="asħaŕ rabyn___Yitzhak Rabin__1",cat=PN]	asħaŕ rabyn___Yitzhak Rabin__1	Default		%default	inv
+asħŕ mwşly	100	PN	[pred="asħŕ mwşly_____1",cat=PN]	asħŕ mwşly_____1	Default		%default	inv
 atl lylyan wynyč	100	PN	[pred="atl lylyan wynyč___Ethel Lilian Voynich__1",cat=PN]	atl lylyan wynyč___Ethel Lilian Voynich__1	Default		%default	inv
 atmar lybrt	100	PN	[pred="atmar lybrt___Ottmar Liebert__1",cat=PN]	atmar lybrt___Ottmar Liebert__1	Default		%default	inv
 atsw nakamwra	100	PN	[pred="atsw nakamwra_____1",cat=PN]	atsw nakamwra_____1	Default		%default	inv
@@ -1278,8 +1278,8 @@ awwn wylswn	100	PN	[pred="awwn wylswn___Owen Wilson__1",cat=PN]	awwn wylswn___Ow
 awyd mjtbayy	100	PN	[pred="awyd mjtbayy___Avid Modjtabai__1",cat=PN]	awyd mjtbayy___Avid Modjtabai__1	Default		%default	inv
 awyw gfn	100	PN	[pred="awyw gfn___Aviv Geffen__1",cat=PN]	awyw gfn___Aviv Geffen__1	Default		%default	inv
 awzlm tkyn	100	PN	[pred="awzlm tkyn___Özlem Tekin__1",cat=PN]	awzlm tkyn___Özlem Tekin__1	Default		%default	inv
-awłdaldyn krmany	100	PN	[pred="awłdaldyn krmany_____1",cat=PN]	awłdaldyn krmany_____1	Default		%default	inv
-awłdy mraqe_ay	100	PN	[pred="awłdy mraqe_ay___Awhadi Maraghai__1",cat=PN]	awłdy mraqe_ay___Awhadi Maraghai__1	Default		%default	inv
+awħdaldyn krmany	100	PN	[pred="awħdaldyn krmany_____1",cat=PN]	awħdaldyn krmany_____1	Default		%default	inv
+awħdy mraqe_ay	100	PN	[pred="awħdy mraqe_ay___Awhadi Maraghai__1",cat=PN]	awħdy mraqe_ay___Awhadi Maraghai__1	Default		%default	inv
 awŕtay aqayf	100	PN	[pred="awŕtay aqayf_____1",cat=PN]	awŕtay aqayf_____1	Default		%default	inv
 awžn ayzayy	100	PN	[pred="awžn ayzayy___Eugene Ysaye__1",cat=PN]	awžn ayzayy___Eugene Ysaye__1	Default		%default	inv
 awžn wywle lwdwk	100	PN	[pred="awžn wywle lwdwk_____1",cat=PN]	awžn wywle lwdwk_____1	Default		%default	inv
@@ -1287,13 +1287,13 @@ awžn ywnskw	100	PN	[pred="awžn ywnskw___Eugene Ionesco__1",cat=PN]	awžn ywnsk
 axy frj znjany	100	PN	[pred="axy frj znjany_____1",cat=PN]	axy frj znjany_____1	Default		%default	inv
 axy_nw'm nyny	100	PN	[pred="axy_nw'm nyny___Achinoam Nini__1",cat=PN]	axy_nw'm nyny___Achinoam Nini__1	Default		%default	inv
 ay by wayt	100	PN	[pred="ay by wayt___E. B. White__1",cat=PN]	ay by wayt___E. B. White__1	Default		%default	inv
-ay. ar. rłman	100	PN	[pred="ay. ar. rłman___A. R. Rahman__1",cat=PN]	ay. ar. rłman___A. R. Rahman__1	Default		%default	inv
+ay. ar. rħman	100	PN	[pred="ay. ar. rħman___A. R. Rahman__1",cat=PN]	ay. ar. rħman___A. R. Rahman__1	Default		%default	inv
 ay.ay. kamyngz	100	PN	[pred="ay.ay. kamyngz___E. E. Cummings__1",cat=PN]	ay.ay. kamyngz___E. E. Cummings__1	Default		%default	inv
 ayan eyl	100	PN	[pred="ayan eyl___Ian Hill__1",cat=PN]	ayan eyl___Ian Hill__1	Default		%default	inv
 ayan gylan	100	PN	[pred="ayan gylan___Ian Gillan__1",cat=PN]	ayan gylan___Ian Gillan__1	Default		%default	inv
 ayan mk_ywwn	100	PN	[pred="ayan mk_ywwn___Ian McEwan__1",cat=PN]	ayan mk_ywwn___Ian McEwan__1	Default		%default	inv
 ayan pys	100	PN	[pred="ayan pys___Ian Paice__1",cat=PN]	ayan pys___Ian Paice__1	Default		%default	inv
-ayan łrşy 'ly	100	PN	[pred="ayan łrşy 'ly___Ayaan Hirsi Ali__1",cat=PN]	ayan łrşy 'ly___Ayaan Hirsi Ali__1	Default		%default	inv
+ayan ħrşy 'ly	100	PN	[pred="ayan ħrşy 'ly___Ayaan Hirsi Ali__1",cat=PN]	ayan ħrşy 'ly___Ayaan Hirsi Ali__1	Default		%default	inv
 ayaz mţlb_af	100	PN	[pred="ayaz mţlb_af___Ayaz Mütallibov__1",cat=PN]	ayaz mţlb_af___Ayaz Mütallibov__1	Default		%default	inv
 aybrw gwndš	100	PN	[pred="aybrw gwndš___Ebru Gündeş__1",cat=PN]	aybrw gwndš___Ebru Gündeş__1	Default		%default	inv
 ayby natan	100	PN	[pred="ayby natan___Abie Nathan__1",cat=PN]	ayby natan___Abie Nathan__1	Default		%default	inv
@@ -1308,7 +1308,7 @@ aygwr dyakwnwf	100	PN	[pred="aygwr dyakwnwf___Igor Diakonov__1",cat=PN]	aygwr dy
 aykr kasyas	100	PN	[pred="aykr kasyas___Iker Casillas__1",cat=PN]	aykr kasyas___Iker Casillas__1	Default		%default	inv
 ayla dykmn	100	PN	[pred="ayla dykmn___Ayla Dikmen__1",cat=PN]	ayla dykmn___Ayla Dikmen__1	Default		%default	inv
 aylan pape	100	PN	[pred="aylan pape___Ilan Pappé__1",cat=PN]	aylan pape___Ilan Pappé__1	Default		%default	inv
-aylan łlymy	100	PN	[pred="aylan łlymy___Ilan Halimi__1",cat=PN]	aylan łlymy___Ilan Halimi__1	Default		%default	inv
+aylan ħlymy	100	PN	[pred="aylan ħlymy___Ilan Halimi__1",cat=PN]	aylan ħlymy___Ilan Halimi__1	Default		%default	inv
 aylar dyanty ly	100	PN	[pred="aylar dyanty ly___Aylar Lie__1",cat=PN]	aylar dyanty ly___Aylar Lie__1	Default		%default	inv
 aylay kan	100	PN	[pred="aylay kan___Ely Jacques Kahn__1",cat=PN]	aylay kan___Ely Jacques Kahn__1	Default		%default	inv
 aylay wytny	100	PN	[pred="aylay wytny___Eli Whitney, Jr .__1",cat=PN]	aylay wytny___Eli Whitney, Jr .__1	Default		%default	inv
@@ -1354,7 +1354,7 @@ ayrj krymy	100	PN	[pred="ayrj krymy_____1",cat=PN]	ayrj krymy_____1	Default		%de
 ayrj mlkpwr	100	PN	[pred="ayrj mlkpwr___Iraj Malekpour__1",cat=PN]	ayrj mlkpwr___Iraj Malekpour__1	Default		%default	inv
 ayrj myrza	100	PN	[pred="ayrj myrza___Iraj Mirza__1",cat=PN]	ayrj myrza___Iraj Mirza__1	Default		%default	inv
 ayrj mţbw'y	100	PN	[pred="ayrj mţbw'y_____1",cat=PN]	ayrj mţbw'y_____1	Default		%default	inv
-ayrj nażryan	100	PN	[pred="ayrj nażryan_____1",cat=PN]	ayrj nażryan_____1	Default		%default	inv
+ayrj naẓryan	100	PN	[pred="ayrj naẓryan_____1",cat=PN]	ayrj naẓryan_____1	Default		%default	inv
 ayrj pzškzad	100	PN	[pred="ayrj pzškzad___Iraj Pezeshkzad__1",cat=PN]	ayrj pzškzad___Iraj Pezeshkzad__1	Default		%default	inv
 ayrj rad	100	PN	[pred="ayrj rad___Iraj Rad__1",cat=PN]	ayrj rad___Iraj Rad__1	Default		%default	inv
 ayrj ŕadry	100	PN	[pred="ayrj ŕadry___Iraj Ghaderi__1",cat=PN]	ayrj ŕadry___Iraj Ghaderi__1	Default		%default	inv
@@ -1366,13 +1366,13 @@ ayrwyng gyl	100	PN	[pred="ayrwyng gyl___Irving Gill__1",cat=PN]	ayrwyng gyl___Ir
 aysl tymwrzade	100	PN	[pred="aysl tymwrzade___Aysel Teymurzadeh__1",cat=PN]	aysl tymwrzade___Aysel Teymurzadeh__1	Default		%default	inv
 aytalw kalwynw	100	PN	[pred="aytalw kalwynw___Italo Calvino__1",cat=PN]	aytalw kalwynw___Italo Calvino__1	Default		%default	inv
 aytn eak	100	PN	[pred="aytn eak___Ethan Hawke__1",cat=PN]	aytn eak___Ethan Hawke__1	Default		%default	inv
-aytsłaŕ prlman	100	PN	[pred="aytsłaŕ prlman___Itzhak Perlman__1",cat=PN]	aytsłaŕ prlman___Itzhak Perlman__1	Default		%default	inv
+aytsħaŕ prlman	100	PN	[pred="aytsħaŕ prlman___Itzhak Perlman__1",cat=PN]	aytsħaŕ prlman___Itzhak Perlman__1	Default		%default	inv
 ayw sn lwran	100	PN	[pred="ayw sn lwran___Yves Saint Laurent (designer)__1",cat=PN]	ayw sn lwran___Yves Saint Laurent (designer)__1	Default		%default	inv
 aywan gwndwlyč	100	PN	[pred="aywan gwndwlyč___Ivan GunduliÄ__1",cat=PN]	aywan gwndwlyč___Ivan GunduliÄ__1	Default		%default	inv
 aywan ptrwwyč pawlf	100	PN	[pred="aywan ptrwwyč pawlf___Ivan Pavlov__1",cat=PN]	aywan ptrwwyč pawlf___Ivan Pavlov__1	Default		%default	inv
 aywan rbrwf	100	PN	[pred="aywan rbrwf___Ivan Rebroff__1",cat=PN]	aywan rbrwf___Ivan Rebroff__1	Default		%default	inv
 aywan twrgnyf	100	PN	[pred="aywan twrgnyf___Ivan Turgenev__1",cat=PN]	aywan twrgnyf___Ivan Turgenev__1	Default		%default	inv
-aywan âlksandrwwyč gančarwf	100	PN	[pred="aywan âlksandrwwyč gančarwf___Ivan Goncharov__1",cat=PN]	aywan âlksandrwwyč gančarwf___Ivan Goncharov__1	Default		%default	inv
+aywan ālksandrwwyč gančarwf	100	PN	[pred="aywan ālksandrwwyč gančarwf___Ivan Goncharov__1",cat=PN]	aywan ālksandrwwyč gančarwf___Ivan Goncharov__1	Default		%default	inv
 aywan čndlr	100	PN	[pred="aywan čndlr___Evan Chandler__1",cat=PN]	aywan čndlr___Evan Chandler__1	Default		%default	inv
 aywana brlyč mažwranyč	100	PN	[pred="aywana brlyč mažwranyč___Ivana Brlić-Mažuranić__1",cat=PN]	aywana brlyč mažwranyč___Ivana Brlić-Mažuranić__1	Default		%default	inv
 aywana lynč	100	PN	[pred="aywana lynč___Evanna Lynch__1",cat=PN]	aywana lynč___Evanna Lynch__1	Default		%default	inv
@@ -1386,7 +1386,7 @@ ayzak babl	100	PN	[pred="ayzak babl___Isaak Babel__1",cat=PN]	ayzak babl___Isaak
 ayzak bšwys syngr	100	PN	[pred="ayzak bšwys syngr___Isaac Bashevis Singer__1",cat=PN]	ayzak bšwys syngr___Isaac Bashevis Singer__1	Default		%default	inv
 ayzak eyz	100	PN	[pred="ayzak eyz___Isaac Hayes__1",cat=PN]	ayzak eyz___Isaac Hayes__1	Default		%default	inv
 ayzak nywtn	100	PN	[pred="ayzak nywtn___Isaac Newton__1",cat=PN]	ayzak nywtn___Isaac Newton__1	Default		%default	inv
-ayzak âsymwf	100	PN	[pred="ayzak âsymwf___Isaac Asimov__1",cat=PN]	ayzak âsymwf___Isaac Asimov__1	Default		%default	inv
+ayzak āsymwf	100	PN	[pred="ayzak āsymwf___Isaac Asimov__1",cat=PN]	ayzak āsymwf___Isaac Asimov__1	Default		%default	inv
 ayzaya brlyn	100	PN	[pred="ayzaya brlyn___Isaiah Berlin__1",cat=PN]	ayzaya brlyn___Isaiah Berlin__1	Default		%default	inv
 ayzdbanw	100	PN	[pred="ayzdbanw_____1",cat=PN]	ayzdbanw_____1	Default		%default	inv
 ayzwmy šykybw	100	PN	[pred="ayzwmy šykybw___Izumi Shikibu__1",cat=PN]	ayzwmy šykybw___Izumi Shikibu__1	Default		%default	inv
@@ -1394,12 +1394,12 @@ ayzydwr ayzak raby	100	PN	[pred="ayzydwr ayzak raby___Isidor Isaac Rabi__1",cat=
 ayšwarya ray	100	PN	[pred="ayšwarya ray___Aishwarya Rai__1",cat=PN]	ayšwarya ray___Aishwarya Rai__1	Default		%default	inv
 ayšyrw myzwky	100	PN	[pred="ayšyrw myzwky___Ichirou Mizuki__1",cat=PN]	ayšyrw myzwky___Ichirou Mizuki__1	Default		%default	inv
 azad azadpwr	100	PN	[pred="azad azadpwr___Asiatic Warriors__1",cat=PN]	azad azadpwr___Asiatic Warriors__1	Default		%default	inv
-azad łbšy	100	PN	[pred="azad łbšy_____1",cat=PN]	azad łbšy_____1	Default		%default	inv
+azad ħbšy	100	PN	[pred="azad ħbšy_____1",cat=PN]	azad ħbšy_____1	Default		%default	inv
 azade mŕşwdy	100	PN	[pred="azade mŕşwdy_____1",cat=PN]	azade mŕşwdy_____1	Default		%default	inv
 azade şmdy	100	PN	[pred="azade şmdy_____1",cat=PN]	azade şmdy_____1	Default		%default	inv
 azra pawnd	100	PN	[pred="azra pawnd___Ezra Pound__1",cat=PN]	azra pawnd___Ezra Pound__1	Default		%default	inv
 azrŕy erwy	100	PN	[pred="azrŕy erwy_____1",cat=PN]	azrŕy erwy_____1	Default		%default	inv
-azyta łajyan	100	PN	[pred="azyta łajyan___Azita Hajian__1",cat=PN]	azyta łajyan___Azita Hajian__1	Default		%default	inv
+azyta ħajyan	100	PN	[pred="azyta ħajyan___Azita Hajian__1",cat=PN]	azyta ħajyan___Azita Hajian__1	Default		%default	inv
 a´wrypyds	100	PN	[pred="a´wrypyds___Euripides__1",cat=PN]	a´wrypyds___Euripides__1	Default		%default	inv
 aÄr šywa	100	PN	[pred="aÄr šywa_____1",cat=PN]	aÄr šywa_____1	Default		%default	inv
 açyr axsykty	100	PN	[pred="açyr axsykty_____1",cat=PN]	açyr axsykty_____1	Default		%default	inv
@@ -1407,108 +1407,108 @@ ađr andamy	100	PN	[pred="ađr andamy_____1",cat=PN]	ađr andamy_____1	Default		
 ađr danšy	100	PN	[pred="ađr danšy_____1",cat=PN]	ađr danšy_____1	Default		%default	inv
 ađr nfysy	100	PN	[pred="ađr nfysy___Azar Nafisi__1",cat=PN]	ađr nfysy___Azar Nafisi__1	Default		%default	inv
 ađry ţwsy	100	PN	[pred="ađry ţwsy___Azari Tusi__1",cat=PN]	ađry ţwsy___Azari Tusi__1	Default		%default	inv
-ałd pazaj	100	PN	[pred="ałd pazaj_____1",cat=PN]	ałd pazaj_____1	Default		%default	inv
-ałd łsyny	100	PN	[pred="ałd łsyny_____1",cat=PN]	ałd łsyny_____1	Default		%default	inv
-ałmd 'bady	100	PN	[pred="ałmd 'bady___Ahmad Ebadi__1",cat=PN]	ałmd 'bady___Ahmad Ebadi__1	Default		%default	inv
-ałmd 'zyzy	100	PN	[pred="ałmd 'zyzy_____1",cat=PN]	ałmd 'zyzy_____1	Default		%default	inv
-ałmd abn łnbl	100	PN	[pred="ałmd abn łnbl___Ahmad ibn Hanbal__1",cat=PN]	ałmd abn łnbl___Ahmad ibn Hanbal__1	Default		%default	inv
-ałmd akbrpwr	100	PN	[pred="ałmd akbrpwr___Ahmad Akbarpour__1",cat=PN]	ałmd akbrpwr___Ahmad Akbarpour__1	Default		%default	inv
-ałmd aram	100	PN	[pred="ałmd aram_____1",cat=PN]	ałmd aram_____1	Default		%default	inv
-ałmd arean	100	PN	[pred="ałmd arean_____1",cat=PN]	ałmd arean_____1	Default		%default	inv
-ałmd atš	100	PN	[pred="ałmd atš_____1",cat=PN]	ałmd atš_____1	Default		%default	inv
-ałmd axwt	100	PN	[pred="ałmd axwt_____1",cat=PN]	ałmd axwt_____1	Default		%default	inv
-ałmd ađry ŕmy	100	PN	[pred="ałmd ađry ŕmy___Ahmad Azari Qomi__1",cat=PN]	ałmd ađry ŕmy___Ahmad Azari Qomi__1	Default		%default	inv
-ałmd aŕ_damsky	100	PN	[pred="ałmd aŕ_damsky___Ahmad Agdamski__1",cat=PN]	ałmd aŕ_damsky___Ahmad Agdamski__1	Default		%default	inv
-ałmd aŕalw	100	PN	[pred="ałmd aŕalw_____1",cat=PN]	ałmd aŕalw_____1	Default		%default	inv
-ałmd aŕbal	100	PN	[pred="ałmd aŕbal_____1",cat=PN]	ałmd aŕbal_____1	Default		%default	inv
-ałmd aŕtdary	100	PN	[pred="ałmd aŕtdary_____1",cat=PN]	ałmd aŕtdary_____1	Default		%default	inv
-ałmd ašrf	100	PN	[pred="ałmd ašrf_____1",cat=PN]	ałmd ašrf_____1	Default		%default	inv
-ałmd baţby	100	PN	[pred="ałmd baţby___Ahmad Batebi__1",cat=PN]	ałmd baţby___Ahmad Batebi__1	Default		%default	inv
-ałmd bemnyar	100	PN	[pred="ałmd bemnyar_____1",cat=PN]	ałmd bemnyar_____1	Default		%default	inv
-ałmd bn bla	100	PN	[pred="ałmd bn bla___Ahmed Ben Bella__1",cat=PN]	ałmd bn bla___Ahmed Ben Bella__1	Default		%default	inv
-ałmd bn młmd srxsy	100	PN	[pred="ałmd bn młmd srxsy_____1",cat=PN]	ałmd bn młmd srxsy_____1	Default		%default	inv
-ałmd bn yłyy blađry	100	PN	[pred="ałmd bn yłyy blađry___Ahmad ibn Yahya al-Baladhuri__1",cat=PN]	ałmd bn yłyy blađry___Ahmad ibn Yahya al-Baladhuri__1	Default		%default	inv
-ałmd bn š'yb nsaÂ´y	100	PN	[pred="ałmd bn š'yb nsaÂ´y_____1",cat=PN]	ałmd bn š'yb nsaÂ´y_____1	Default		%default	inv
-ałmd bn ţyb srxsy	100	PN	[pred="ałmd bn ţyb srxsy_____1",cat=PN]	ałmd bn ţyb srxsy_____1	Default		%default	inv
-ałmd bwrŕany	100	PN	[pred="ałmd bwrŕany___Ahmad Bourghani__1",cat=PN]	ałmd bwrŕany___Ahmad Bourghani__1	Default		%default	inv
-ałmd bygdly	100	PN	[pred="ałmd bygdly_____1",cat=PN]	ałmd bygdly_____1	Default		%default	inv
-ałmd byršk	100	PN	[pred="ałmd byršk_____1",cat=PN]	ałmd byršk_____1	Default		%default	inv
-ałmd dawdaqlw	100	PN	[pred="ałmd dawdaqlw___Ahmet Davutoglu__1",cat=PN]	ałmd dawdaqlw___Ahmet Davutoglu__1	Default		%default	inv
-ałmd frdyd	100	PN	[pred="ałmd frdyd___Ahmad Fardid__1",cat=PN]	ałmd frdyd___Ahmad Fardid__1	Default		%default	inv
-ałmd glčyn m'any	100	PN	[pred="ałmd glčyn m'any_____1",cat=PN]	ałmd glčyn m'any_____1	Default		%default	inv
-ałmd glšyry	100	PN	[pred="ałmd glšyry_____1",cat=PN]	ałmd glšyry_____1	Default		%default	inv
-ałmd jam	100	PN	[pred="ałmd jam___Sheikh Ahmad-e Jami__1",cat=PN]	ałmd jam___Sheikh Ahmad-e Jami__1	Default		%default	inv
-ałmd jmal	100	PN	[pred="ałmd jmal___Ahmad Jamal__1",cat=PN]	ałmd jmal___Ahmad Jamal__1	Default		%default	inv
-ałmd jwad	100	PN	[pred="ałmd jwad___Ahmad Javad__1",cat=PN]	ałmd jwad___Ahmad Javad__1	Default		%default	inv
-ałmd kaya	100	PN	[pred="ałmd kaya___Ahmet Kaya__1",cat=PN]	ałmd kaya___Ahmet Kaya__1	Default		%default	inv
-ałmd krymy łkak	100	PN	[pred="ałmd krymy łkak___Ahmad Karimi-Hakkak__1",cat=PN]	ałmd krymy łkak___Ahmad Karimi-Hakkak__1	Default		%default	inv
-ałmd kwša	100	PN	[pred="ałmd kwša_____1",cat=PN]	ałmd kwša_____1	Default		%default	inv
-ałmd mfty_ zade	100	PN	[pred="ałmd mfty_ zade___Ahmad Moftizadeh__1",cat=PN]	ałmd mfty_ zade___Ahmad Moftizadeh__1	Default		%default	inv
-ałmd mntżry	100	PN	[pred="ałmd mntżry_____1",cat=PN]	ałmd mntżry_____1	Default		%default	inv
-ałmd mnzwy	100	PN	[pred="ałmd mnzwy_____1",cat=PN]	ałmd mnzwy_____1	Default		%default	inv
-ałmd mnšy ŕmy	100	PN	[pred="ałmd mnšy ŕmy_____1",cat=PN]	ałmd mnšy ŕmy_____1	Default		%default	inv
-ałmd mtyn dftry	100	PN	[pred="ałmd mtyn dftry___Ahmad Matin-Daftari__1",cat=PN]	ałmd mtyn dftry___Ahmad Matin-Daftari__1	Default		%default	inv
-ałmd mwmn_zade	100	PN	[pred="ałmd mwmn_zade___Ahmad Momenzadeh__1",cat=PN]	ałmd mwmn_zade___Ahmad Momenzadeh__1	Default		%default	inv
-ałmd myr'la´y	100	PN	[pred="ałmd myr'la´y_____1",cat=PN]	ałmd myr'la´y_____1	Default		%default	inv
-ałmd młmwd	100	PN	[pred="ałmd młmwd___Ahmad Mahmoud__1",cat=PN]	ałmd młmwd___Ahmad Mahmoud__1	Default		%default	inv
-ałmd mţr	100	PN	[pred="ałmd mţr_____1",cat=PN]	ałmd mţr_____1	Default		%default	inv
-ałmd naţŕy	100	PN	[pred="ałmd naţŕy_____1",cat=PN]	ałmd naţŕy_____1	Default		%default	inv
-ałmd nażrzade krmany	100	PN	[pred="ałmd nażrzade krmany_____1",cat=PN]	ałmd nażrzade krmany_____1	Default		%default	inv
-ałmd nfysy	100	PN	[pred="ałmd nfysy_____1",cat=PN]	ałmd nfysy_____1	Default		%default	inv
-ałmd njdt szr	100	PN	[pred="ałmd njdt szr___Ahmet Necdet Sezer__1",cat=PN]	ałmd njdt szr___Ahmet Necdet Sezer__1	Default		%default	inv
-ałmd njfy	100	PN	[pred="ałmd njfy_____1",cat=PN]	ałmd njfy_____1	Default		%default	inv
-ałmd pžman	100	PN	[pred="ałmd pžman___Ahmad Pejman__1",cat=PN]	ałmd pžman___Ahmad Pejman__1	Default		%default	inv
-ałmd qlamy	100	PN	[pred="ałmd qlamy_____1",cat=PN]	ałmd qlamy_____1	Default		%default	inv
-ałmd rswl_zade	100	PN	[pred="ałmd rswl_zade_____1",cat=PN]	ałmd rswl_zade_____1	Default		%default	inv
-ałmd rźa drwyš	100	PN	[pred="ałmd rźa drwyš_____1",cat=PN]	ałmd rźa drwyš_____1	Default		%default	inv
-ałmd s'dat	100	PN	[pred="ałmd s'dat___Ahmad Sa'adat__1",cat=PN]	ałmd s'dat___Ahmad Sa'adat__1	Default		%default	inv
-ałmd smy'y	100	PN	[pred="ałmd smy'y_____1",cat=PN]	ałmd smy'y_____1	Default		%default	inv
-ałmd swkarnw	100	PN	[pred="ałmd swkarnw___Sukarno__1",cat=PN]	ałmd swkarnw___Sukarno__1	Default		%default	inv
-ałmd syf	100	PN	[pred="ałmd syf_____1",cat=PN]	ałmd syf_____1	Default		%default	inv
-ałmd twkly	100	PN	[pred="ałmd twkly___Ahmad Tavakkoli__1",cat=PN]	ałmd twkly___Ahmad Tavakkoli__1	Default		%default	inv
-ałmd xan mlk sasany	100	PN	[pred="ałmd xan mlk sasany_____1",cat=PN]	ałmd xan mlk sasany_____1	Default		%default	inv
-ałmd xlyly	100	PN	[pred="ałmd xlyly_____1",cat=PN]	ałmd xlyly_____1	Default		%default	inv
-ałmd yasyn	100	PN	[pred="ałmd yasyn___Ahmed Yassin__1",cat=PN]	ałmd yasyn___Ahmed Yassin__1	Default		%default	inv
-ałmd znjany m'şwmy	100	PN	[pred="ałmd znjany m'şwmy_____1",cat=PN]	ałmd znjany m'şwmy_____1	Default		%default	inv
-ałmd zydabady	100	PN	[pred="ałmd zydabady___Ahmad Zeidabadi__1",cat=PN]	ałmd zydabady___Ahmad Zeidabadi__1	Default		%default	inv
-ałmd člby	100	PN	[pred="ałmd člby___Ahmed Chalabi__1",cat=PN]	ałmd člby___Ahmed Chalabi__1	Default		%default	inv
-ałmd ŕabl	100	PN	[pred="ałmd ŕabl_____1",cat=PN]	ałmd ŕabl_____1	Default		%default	inv
-ałmd ŕerman	100	PN	[pred="ałmd ŕerman___Ahmad Ghahreman__1",cat=PN]	ałmd ŕerman___Ahmad Ghahreman__1	Default		%default	inv
-ałmd şdr łaj syd jwady	100	PN	[pred="ałmd şdr łaj syd jwady_____1",cat=PN]	ałmd şdr łaj syd jwady_____1	Default		%default	inv
-ałmd šamlw	100	PN	[pred="ałmd šamlw___Ahmad Shamlou__1",cat=PN]	ałmd šamlw___Ahmad Shamlou__1	Default		%default	inv
-ałmd šamlw mšedy	100	PN	[pred="ałmd šamlw mšedy_____1",cat=PN]	ałmd šamlw mšedy_____1	Default		%default	inv
-ałmd šymy	100	PN	[pred="ałmd šymy_____1",cat=PN]	ałmd šymy_____1	Default		%default	inv
-ałmd šyrzad	100	PN	[pred="ałmd šyrzad___Ahmad Shirzad__1",cat=PN]	ałmd šyrzad___Ahmad Shirzad__1	Default		%default	inv
-ałmd ţalby_nžad	100	PN	[pred="ałmd ţalby_nžad_____1",cat=PN]	ałmd ţalby_nžad_____1	Default		%default	inv
-ałmd źya° ms'wd	100	PN	[pred="ałmd źya° ms'wd___Ahmad Zia Massoud__1",cat=PN]	ałmd źya° ms'wd___Ahmad Zia Massoud__1	Default		%default	inv
-ałmd żaer	100	PN	[pred="ałmd żaer___Ahmad Zahir__1",cat=PN]	ałmd żaer___Ahmad Zahir__1	Default		%default	inv
-ałmdrźa 'abdzade	100	PN	[pred="ałmdrźa 'abdzade___Ahmad Reza Abedzadeh__1",cat=PN]	ałmdrźa 'abdzade___Ahmad Reza Abedzadeh__1	Default		%default	inv
-ałmdrźa ałmdy	100	PN	[pred="ałmdrźa ałmdy___Ahmadreza Ahmadi__1",cat=PN]	ałmdrźa ałmdy___Ahmadreza Ahmadi__1	Default		%default	inv
-ałmdrźa drwyš	100	PN	[pred="ałmdrźa drwyš_____1",cat=PN]	ałmdrźa drwyš_____1	Default		%default	inv
-ałmdrźa dryayy	100	PN	[pred="ałmdrźa dryayy_____1",cat=PN]	ałmdrźa dryayy_____1	Default		%default	inv
-ałmdsyr mejwr	100	PN	[pred="ałmdsyr mejwr_____1",cat=PN]	ałmdsyr mejwr_____1	Default		%default	inv
-ałmdšae ms'wd	100	PN	[pred="ałmdšae ms'wd___Ahmad Shah Massoud__1",cat=PN]	ałmdšae ms'wd___Ahmad Shah Massoud__1	Default		%default	inv
-ałsan ftałyan	100	PN	[pred="ałsan ftałyan___Ehsan Fatahian__1",cat=PN]	ałsan ftałyan___Ehsan Fatahian__1	Default		%default	inv
-ałsan jamy	100	PN	[pred="ałsan jamy___Ehsan Jami__1",cat=PN]	ałsan jamy___Ehsan Jami__1	Default		%default	inv
-ałsan meajršja'y	100	PN	[pred="ałsan meajršja'y___Ehsan Mohajer Shojaei__1",cat=PN]	ałsan meajršja'y___Ehsan Mohajer Shojaei__1	Default		%default	inv
-ałsan nraŕy	100	PN	[pred="ałsan nraŕy___Ehsan Naraghi__1",cat=PN]	ałsan nraŕy___Ehsan Naraghi__1	Default		%default	inv
-ałsan xrsndy	100	PN	[pred="ałsan xrsndy___Ehsan Khorsandi__1",cat=PN]	ałsan xrsndy___Ehsan Khorsandi__1	Default		%default	inv
-ałsan xwaje amyry	100	PN	[pred="ałsan xwaje amyry___Ehsan Khajeh Amiri__1",cat=PN]	ałsan xwaje amyry___Ehsan Khajeh Amiri__1	Default		%default	inv
-ałsan yaršaţr	100	PN	[pred="ałsan yaršaţr___Ehsan Yarshater__1",cat=PN]	ałsan yaršaţr___Ehsan Yarshater__1	Default		%default	inv
-ałsan łaj_şfy	100	PN	[pred="ałsan łaj_şfy___Ehsan Hajsafi__1",cat=PN]	ałsan łaj_şfy___Ehsan Hajsafi__1	Default		%default	inv
-ałsan łdady	100	PN	[pred="ałsan łdady___Ehsan Haddadi__1",cat=PN]	ałsan łdady___Ehsan Haddadi__1	Default		%default	inv
-ałsan ŕaÂ´m_mŕamy	100	PN	[pred="ałsan ŕaÂ´m_mŕamy___Ehsan Ghaem-Maghami__1",cat=PN]	ałsan ŕaÂ´m_mŕamy___Ehsan Ghaem-Maghami__1	Default		%default	inv
-ałwly systany	100	PN	[pred="ałwly systany_____1",cat=PN]	ałwly systany_____1	Default		%default	inv
+aħd pazaj	100	PN	[pred="aħd pazaj_____1",cat=PN]	aħd pazaj_____1	Default		%default	inv
+aħd ħsyny	100	PN	[pred="aħd ħsyny_____1",cat=PN]	aħd ħsyny_____1	Default		%default	inv
+aħmd 'bady	100	PN	[pred="aħmd 'bady___Ahmad Ebadi__1",cat=PN]	aħmd 'bady___Ahmad Ebadi__1	Default		%default	inv
+aħmd 'zyzy	100	PN	[pred="aħmd 'zyzy_____1",cat=PN]	aħmd 'zyzy_____1	Default		%default	inv
+aħmd abn ħnbl	100	PN	[pred="aħmd abn ħnbl___Ahmad ibn Hanbal__1",cat=PN]	aħmd abn ħnbl___Ahmad ibn Hanbal__1	Default		%default	inv
+aħmd akbrpwr	100	PN	[pred="aħmd akbrpwr___Ahmad Akbarpour__1",cat=PN]	aħmd akbrpwr___Ahmad Akbarpour__1	Default		%default	inv
+aħmd aram	100	PN	[pred="aħmd aram_____1",cat=PN]	aħmd aram_____1	Default		%default	inv
+aħmd arean	100	PN	[pred="aħmd arean_____1",cat=PN]	aħmd arean_____1	Default		%default	inv
+aħmd atš	100	PN	[pred="aħmd atš_____1",cat=PN]	aħmd atš_____1	Default		%default	inv
+aħmd axwt	100	PN	[pred="aħmd axwt_____1",cat=PN]	aħmd axwt_____1	Default		%default	inv
+aħmd ađry ŕmy	100	PN	[pred="aħmd ađry ŕmy___Ahmad Azari Qomi__1",cat=PN]	aħmd ađry ŕmy___Ahmad Azari Qomi__1	Default		%default	inv
+aħmd aŕ_damsky	100	PN	[pred="aħmd aŕ_damsky___Ahmad Agdamski__1",cat=PN]	aħmd aŕ_damsky___Ahmad Agdamski__1	Default		%default	inv
+aħmd aŕalw	100	PN	[pred="aħmd aŕalw_____1",cat=PN]	aħmd aŕalw_____1	Default		%default	inv
+aħmd aŕbal	100	PN	[pred="aħmd aŕbal_____1",cat=PN]	aħmd aŕbal_____1	Default		%default	inv
+aħmd aŕtdary	100	PN	[pred="aħmd aŕtdary_____1",cat=PN]	aħmd aŕtdary_____1	Default		%default	inv
+aħmd ašrf	100	PN	[pred="aħmd ašrf_____1",cat=PN]	aħmd ašrf_____1	Default		%default	inv
+aħmd baţby	100	PN	[pred="aħmd baţby___Ahmad Batebi__1",cat=PN]	aħmd baţby___Ahmad Batebi__1	Default		%default	inv
+aħmd bemnyar	100	PN	[pred="aħmd bemnyar_____1",cat=PN]	aħmd bemnyar_____1	Default		%default	inv
+aħmd bn bla	100	PN	[pred="aħmd bn bla___Ahmed Ben Bella__1",cat=PN]	aħmd bn bla___Ahmed Ben Bella__1	Default		%default	inv
+aħmd bn mħmd srxsy	100	PN	[pred="aħmd bn mħmd srxsy_____1",cat=PN]	aħmd bn mħmd srxsy_____1	Default		%default	inv
+aħmd bn yħyy blađry	100	PN	[pred="aħmd bn yħyy blađry___Ahmad ibn Yahya al-Baladhuri__1",cat=PN]	aħmd bn yħyy blađry___Ahmad ibn Yahya al-Baladhuri__1	Default		%default	inv
+aħmd bn š'yb nsaÂ´y	100	PN	[pred="aħmd bn š'yb nsaÂ´y_____1",cat=PN]	aħmd bn š'yb nsaÂ´y_____1	Default		%default	inv
+aħmd bn ţyb srxsy	100	PN	[pred="aħmd bn ţyb srxsy_____1",cat=PN]	aħmd bn ţyb srxsy_____1	Default		%default	inv
+aħmd bwrŕany	100	PN	[pred="aħmd bwrŕany___Ahmad Bourghani__1",cat=PN]	aħmd bwrŕany___Ahmad Bourghani__1	Default		%default	inv
+aħmd bygdly	100	PN	[pred="aħmd bygdly_____1",cat=PN]	aħmd bygdly_____1	Default		%default	inv
+aħmd byršk	100	PN	[pred="aħmd byršk_____1",cat=PN]	aħmd byršk_____1	Default		%default	inv
+aħmd dawdaqlw	100	PN	[pred="aħmd dawdaqlw___Ahmet Davutoglu__1",cat=PN]	aħmd dawdaqlw___Ahmet Davutoglu__1	Default		%default	inv
+aħmd frdyd	100	PN	[pred="aħmd frdyd___Ahmad Fardid__1",cat=PN]	aħmd frdyd___Ahmad Fardid__1	Default		%default	inv
+aħmd glčyn m'any	100	PN	[pred="aħmd glčyn m'any_____1",cat=PN]	aħmd glčyn m'any_____1	Default		%default	inv
+aħmd glšyry	100	PN	[pred="aħmd glšyry_____1",cat=PN]	aħmd glšyry_____1	Default		%default	inv
+aħmd jam	100	PN	[pred="aħmd jam___Sheikh Ahmad-e Jami__1",cat=PN]	aħmd jam___Sheikh Ahmad-e Jami__1	Default		%default	inv
+aħmd jmal	100	PN	[pred="aħmd jmal___Ahmad Jamal__1",cat=PN]	aħmd jmal___Ahmad Jamal__1	Default		%default	inv
+aħmd jwad	100	PN	[pred="aħmd jwad___Ahmad Javad__1",cat=PN]	aħmd jwad___Ahmad Javad__1	Default		%default	inv
+aħmd kaya	100	PN	[pred="aħmd kaya___Ahmet Kaya__1",cat=PN]	aħmd kaya___Ahmet Kaya__1	Default		%default	inv
+aħmd krymy ħkak	100	PN	[pred="aħmd krymy ħkak___Ahmad Karimi-Hakkak__1",cat=PN]	aħmd krymy ħkak___Ahmad Karimi-Hakkak__1	Default		%default	inv
+aħmd kwša	100	PN	[pred="aħmd kwša_____1",cat=PN]	aħmd kwša_____1	Default		%default	inv
+aħmd mfty_ zade	100	PN	[pred="aħmd mfty_ zade___Ahmad Moftizadeh__1",cat=PN]	aħmd mfty_ zade___Ahmad Moftizadeh__1	Default		%default	inv
+aħmd mntẓry	100	PN	[pred="aħmd mntẓry_____1",cat=PN]	aħmd mntẓry_____1	Default		%default	inv
+aħmd mnzwy	100	PN	[pred="aħmd mnzwy_____1",cat=PN]	aħmd mnzwy_____1	Default		%default	inv
+aħmd mnšy ŕmy	100	PN	[pred="aħmd mnšy ŕmy_____1",cat=PN]	aħmd mnšy ŕmy_____1	Default		%default	inv
+aħmd mtyn dftry	100	PN	[pred="aħmd mtyn dftry___Ahmad Matin-Daftari__1",cat=PN]	aħmd mtyn dftry___Ahmad Matin-Daftari__1	Default		%default	inv
+aħmd mwmn_zade	100	PN	[pred="aħmd mwmn_zade___Ahmad Momenzadeh__1",cat=PN]	aħmd mwmn_zade___Ahmad Momenzadeh__1	Default		%default	inv
+aħmd myr'la´y	100	PN	[pred="aħmd myr'la´y_____1",cat=PN]	aħmd myr'la´y_____1	Default		%default	inv
+aħmd mħmwd	100	PN	[pred="aħmd mħmwd___Ahmad Mahmoud__1",cat=PN]	aħmd mħmwd___Ahmad Mahmoud__1	Default		%default	inv
+aħmd mţr	100	PN	[pred="aħmd mţr_____1",cat=PN]	aħmd mţr_____1	Default		%default	inv
+aħmd naţŕy	100	PN	[pred="aħmd naţŕy_____1",cat=PN]	aħmd naţŕy_____1	Default		%default	inv
+aħmd naẓrzade krmany	100	PN	[pred="aħmd naẓrzade krmany_____1",cat=PN]	aħmd naẓrzade krmany_____1	Default		%default	inv
+aħmd nfysy	100	PN	[pred="aħmd nfysy_____1",cat=PN]	aħmd nfysy_____1	Default		%default	inv
+aħmd njdt szr	100	PN	[pred="aħmd njdt szr___Ahmet Necdet Sezer__1",cat=PN]	aħmd njdt szr___Ahmet Necdet Sezer__1	Default		%default	inv
+aħmd njfy	100	PN	[pred="aħmd njfy_____1",cat=PN]	aħmd njfy_____1	Default		%default	inv
+aħmd pžman	100	PN	[pred="aħmd pžman___Ahmad Pejman__1",cat=PN]	aħmd pžman___Ahmad Pejman__1	Default		%default	inv
+aħmd qlamy	100	PN	[pred="aħmd qlamy_____1",cat=PN]	aħmd qlamy_____1	Default		%default	inv
+aħmd rswl_zade	100	PN	[pred="aħmd rswl_zade_____1",cat=PN]	aħmd rswl_zade_____1	Default		%default	inv
+aħmd rźa drwyš	100	PN	[pred="aħmd rźa drwyš_____1",cat=PN]	aħmd rźa drwyš_____1	Default		%default	inv
+aħmd s'dat	100	PN	[pred="aħmd s'dat___Ahmad Sa'adat__1",cat=PN]	aħmd s'dat___Ahmad Sa'adat__1	Default		%default	inv
+aħmd smy'y	100	PN	[pred="aħmd smy'y_____1",cat=PN]	aħmd smy'y_____1	Default		%default	inv
+aħmd swkarnw	100	PN	[pred="aħmd swkarnw___Sukarno__1",cat=PN]	aħmd swkarnw___Sukarno__1	Default		%default	inv
+aħmd syf	100	PN	[pred="aħmd syf_____1",cat=PN]	aħmd syf_____1	Default		%default	inv
+aħmd twkly	100	PN	[pred="aħmd twkly___Ahmad Tavakkoli__1",cat=PN]	aħmd twkly___Ahmad Tavakkoli__1	Default		%default	inv
+aħmd xan mlk sasany	100	PN	[pred="aħmd xan mlk sasany_____1",cat=PN]	aħmd xan mlk sasany_____1	Default		%default	inv
+aħmd xlyly	100	PN	[pred="aħmd xlyly_____1",cat=PN]	aħmd xlyly_____1	Default		%default	inv
+aħmd yasyn	100	PN	[pred="aħmd yasyn___Ahmed Yassin__1",cat=PN]	aħmd yasyn___Ahmed Yassin__1	Default		%default	inv
+aħmd znjany m'şwmy	100	PN	[pred="aħmd znjany m'şwmy_____1",cat=PN]	aħmd znjany m'şwmy_____1	Default		%default	inv
+aħmd zydabady	100	PN	[pred="aħmd zydabady___Ahmad Zeidabadi__1",cat=PN]	aħmd zydabady___Ahmad Zeidabadi__1	Default		%default	inv
+aħmd člby	100	PN	[pred="aħmd člby___Ahmed Chalabi__1",cat=PN]	aħmd člby___Ahmed Chalabi__1	Default		%default	inv
+aħmd ŕabl	100	PN	[pred="aħmd ŕabl_____1",cat=PN]	aħmd ŕabl_____1	Default		%default	inv
+aħmd ŕerman	100	PN	[pred="aħmd ŕerman___Ahmad Ghahreman__1",cat=PN]	aħmd ŕerman___Ahmad Ghahreman__1	Default		%default	inv
+aħmd şdr ħaj syd jwady	100	PN	[pred="aħmd şdr ħaj syd jwady_____1",cat=PN]	aħmd şdr ħaj syd jwady_____1	Default		%default	inv
+aħmd šamlw	100	PN	[pred="aħmd šamlw___Ahmad Shamlou__1",cat=PN]	aħmd šamlw___Ahmad Shamlou__1	Default		%default	inv
+aħmd šamlw mšedy	100	PN	[pred="aħmd šamlw mšedy_____1",cat=PN]	aħmd šamlw mšedy_____1	Default		%default	inv
+aħmd šymy	100	PN	[pred="aħmd šymy_____1",cat=PN]	aħmd šymy_____1	Default		%default	inv
+aħmd šyrzad	100	PN	[pred="aħmd šyrzad___Ahmad Shirzad__1",cat=PN]	aħmd šyrzad___Ahmad Shirzad__1	Default		%default	inv
+aħmd ţalby_nžad	100	PN	[pred="aħmd ţalby_nžad_____1",cat=PN]	aħmd ţalby_nžad_____1	Default		%default	inv
+aħmd źya° ms'wd	100	PN	[pred="aħmd źya° ms'wd___Ahmad Zia Massoud__1",cat=PN]	aħmd źya° ms'wd___Ahmad Zia Massoud__1	Default		%default	inv
+aħmd ẓaer	100	PN	[pred="aħmd ẓaer___Ahmad Zahir__1",cat=PN]	aħmd ẓaer___Ahmad Zahir__1	Default		%default	inv
+aħmdrźa 'abdzade	100	PN	[pred="aħmdrźa 'abdzade___Ahmad Reza Abedzadeh__1",cat=PN]	aħmdrźa 'abdzade___Ahmad Reza Abedzadeh__1	Default		%default	inv
+aħmdrźa aħmdy	100	PN	[pred="aħmdrźa aħmdy___Ahmadreza Ahmadi__1",cat=PN]	aħmdrźa aħmdy___Ahmadreza Ahmadi__1	Default		%default	inv
+aħmdrźa drwyš	100	PN	[pred="aħmdrźa drwyš_____1",cat=PN]	aħmdrźa drwyš_____1	Default		%default	inv
+aħmdrźa dryayy	100	PN	[pred="aħmdrźa dryayy_____1",cat=PN]	aħmdrźa dryayy_____1	Default		%default	inv
+aħmdsyr mejwr	100	PN	[pred="aħmdsyr mejwr_____1",cat=PN]	aħmdsyr mejwr_____1	Default		%default	inv
+aħmdšae ms'wd	100	PN	[pred="aħmdšae ms'wd___Ahmad Shah Massoud__1",cat=PN]	aħmdšae ms'wd___Ahmad Shah Massoud__1	Default		%default	inv
+aħsan ftaħyan	100	PN	[pred="aħsan ftaħyan___Ehsan Fatahian__1",cat=PN]	aħsan ftaħyan___Ehsan Fatahian__1	Default		%default	inv
+aħsan jamy	100	PN	[pred="aħsan jamy___Ehsan Jami__1",cat=PN]	aħsan jamy___Ehsan Jami__1	Default		%default	inv
+aħsan meajršja'y	100	PN	[pred="aħsan meajršja'y___Ehsan Mohajer Shojaei__1",cat=PN]	aħsan meajršja'y___Ehsan Mohajer Shojaei__1	Default		%default	inv
+aħsan nraŕy	100	PN	[pred="aħsan nraŕy___Ehsan Naraghi__1",cat=PN]	aħsan nraŕy___Ehsan Naraghi__1	Default		%default	inv
+aħsan xrsndy	100	PN	[pred="aħsan xrsndy___Ehsan Khorsandi__1",cat=PN]	aħsan xrsndy___Ehsan Khorsandi__1	Default		%default	inv
+aħsan xwaje amyry	100	PN	[pred="aħsan xwaje amyry___Ehsan Khajeh Amiri__1",cat=PN]	aħsan xwaje amyry___Ehsan Khajeh Amiri__1	Default		%default	inv
+aħsan yaršaţr	100	PN	[pred="aħsan yaršaţr___Ehsan Yarshater__1",cat=PN]	aħsan yaršaţr___Ehsan Yarshater__1	Default		%default	inv
+aħsan ħaj_şfy	100	PN	[pred="aħsan ħaj_şfy___Ehsan Hajsafi__1",cat=PN]	aħsan ħaj_şfy___Ehsan Hajsafi__1	Default		%default	inv
+aħsan ħdady	100	PN	[pred="aħsan ħdady___Ehsan Haddadi__1",cat=PN]	aħsan ħdady___Ehsan Haddadi__1	Default		%default	inv
+aħsan ŕaÂ´m_mŕamy	100	PN	[pred="aħsan ŕaÂ´m_mŕamy___Ehsan Ghaem-Maghami__1",cat=PN]	aħsan ŕaÂ´m_mŕamy___Ehsan Ghaem-Maghami__1	Default		%default	inv
+aħwly systany	100	PN	[pred="aħwly systany_____1",cat=PN]	aħwly systany_____1	Default		%default	inv
 aŕa abraeym ŕmy	100	PN	[pred="aŕa abraeym ŕmy_____1",cat=PN]	aŕa abraeym ŕmy_____1	Default		%default	inv
-aŕa myrza młmd'ly aşfeany	100	PN	[pred="aŕa myrza młmd'ly aşfeany_____1",cat=PN]	aŕa myrza młmd'ly aşfeany_____1	Default		%default	inv
-aŕa qlamłsyn	100	PN	[pred="aŕa qlamłsyn_____1",cat=PN]	aŕa qlamłsyn_____1	Default		%default	inv
-aŕa łsynŕly	100	PN	[pred="aŕa łsynŕly___Mirza Hossein-Qoli__1",cat=PN]	aŕa łsynŕly___Mirza Hossein-Qoli__1	Default		%default	inv
+aŕa myrza mħmd'ly aşfeany	100	PN	[pred="aŕa myrza mħmd'ly aşfeany_____1",cat=PN]	aŕa myrza mħmd'ly aşfeany_____1	Default		%default	inv
+aŕa qlamħsyn	100	PN	[pred="aŕa qlamħsyn_____1",cat=PN]	aŕa qlamħsyn_____1	Default		%default	inv
+aŕa ħsynŕly	100	PN	[pred="aŕa ħsynŕly___Mirza Hossein-Qoli__1",cat=PN]	aŕa ħsynŕly___Mirza Hossein-Qoli__1	Default		%default	inv
 aŕa'ly_akbr xan fraeany	100	PN	[pred="aŕa'ly_akbr xan fraeany_____1",cat=PN]	aŕa'ly_akbr xan fraeany_____1	Default		%default	inv
 aŕamyrk	100	PN	[pred="aŕamyrk_____1",cat=PN]	aŕamyrk_____1	Default		%default	inv
 aŕbal laewry	100	PN	[pred="aŕbal laewry___Muhammad Iqbal__1",cat=PN]	aŕbal laewry___Muhammad Iqbal__1	Default		%default	inv
 aŕlyds	100	PN	[pred="aŕlyds___Euclid__1",cat=PN]	aŕlyds___Euclid__1	Default		%default	inv
 aşf_'ly zrdary	100	PN	[pred="aşf_'ly zrdary___Asif Ali Zardari__1",cat=PN]	aşf_'ly zrdary___Asif Ali Zardari__1	Default		%default	inv
-aşlał_ţlban ayran	100	PN	[pred="aşlał_ţlban ayran___Iranian reform movement__1",cat=PN]	aşlał_ţlban ayran___Iranian reform movement__1	Default		%default	inv
+aşlaħ_ţlban ayran	100	PN	[pred="aşlaħ_ţlban ayran___Iranian reform movement__1",cat=PN]	aşlaħ_ţlban ayran___Iranian reform movement__1	Default		%default	inv
 aşqr 'bdalley	100	PN	[pred="aşqr 'bdalley_____1",cat=PN]	aşqr 'bdalley_____1	Default		%default	inv
 aşqr abraeymy	100	PN	[pred="aşqr abraeymy___Asghar Ebrahimi__1",cat=PN]	aşqr abraeymy___Asghar Ebrahimi__1	Default		%default	inv
 aşqr adyby	100	PN	[pred="aşqr adyby_____1",cat=PN]	aşqr adyby_____1	Default		%default	inv
@@ -1529,7 +1529,7 @@ ašr	100	PN	[pred="ašr___Usher (entertainer)__1",cat=PN]	ašr___Usher (entertai
 ašr prz	100	PN	[pred="ašr prz___Asher Peres__1",cat=PN]	ašr prz___Asher Peres__1	Default		%default	inv
 ašrf deŕany	100	PN	[pred="ašrf deŕany___Ashraf Dehghani__1",cat=PN]	ašrf deŕany___Ashraf Dehghani__1	Default		%default	inv
 ašrf pelwy	100	PN	[pred="ašrf pelwy___Princess Ashraf Pahlavi__1",cat=PN]	ašrf pelwy___Princess Ashraf Pahlavi__1	Default		%default	inv
-ašrf qny ałmdzy	100	PN	[pred="ašrf qny ałmdzy___Ashraf Ghani Ahmadzai__1",cat=PN]	ašrf qny ałmdzy___Ashraf Ghani Ahmadzai__1	Default		%default	inv
+ašrf qny aħmdzy	100	PN	[pred="ašrf qny aħmdzy___Ashraf Ghani Ahmadzai__1",cat=PN]	ašrf qny aħmdzy___Ashraf Ghani Ahmadzai__1	Default		%default	inv
 ašrf rby'y	100	PN	[pred="ašrf rby'y_____1",cat=PN]	ašrf rby'y_____1	Default		%default	inv
 aštfan afnbrg	100	PN	[pred="aštfan afnbrg___Stefan Effenberg__1",cat=PN]	aštfan afnbrg___Stefan Effenberg__1	Default		%default	inv
 aštfany eayntzman	100	PN	[pred="aštfany eayntzman___Stefanie Heinzmann__1",cat=PN]	aštfany eayntzman___Stefanie Heinzmann__1	Default		%default	inv
@@ -1552,13 +1552,13 @@ babaţaer	100	PN	[pred="babaţaer___Baba Taher__1",cat=PN]	babaţaer___Baba Tahe
 babk afšar	100	PN	[pred="babk afšar_____1",cat=PN]	babk afšar_____1	Default		%default	inv
 babk amyn tfršy	100	PN	[pred="babk amyn tfršy___Babak Amin Tafreshi__1",cat=PN]	babk amyn tfršy___Babak Amin Tafreshi__1	Default		%default	inv
 babk asma'yly	100	PN	[pred="babk asma'yly_____1",cat=PN]	babk asma'yly_____1	Default		%default	inv
-babk ałmdy	100	PN	[pred="babk ałmdy_____1",cat=PN]	babk ałmdy_____1	Default		%default	inv
+babk aħmdy	100	PN	[pred="babk aħmdy_____1",cat=PN]	babk aħmdy_____1	Default		%default	inv
 babk aţmynany	100	PN	[pred="babk aţmynany_____1",cat=PN]	babk aţmynany_____1	Default		%default	inv
 babk byat	100	PN	[pred="babk byat_____1",cat=PN]	babk byat_____1	Default		%default	inv
 babk neryn	100	PN	[pred="babk neryn_____1",cat=PN]	babk neryn_____1	Default		%default	inv
 babk prwyz	100	PN	[pred="babk prwyz_____1",cat=PN]	babk prwyz_____1	Default		%default	inv
 babk rstmy	100	PN	[pred="babk rstmy_____1",cat=PN]	babk rstmy_____1	Default		%default	inv
-babk ryały_pwr	100	PN	[pred="babk ryały_pwr_____1",cat=PN]	babk ryały_pwr_____1	Default		%default	inv
+babk ryaħy_pwr	100	PN	[pred="babk ryaħy_pwr_____1",cat=PN]	babk ryaħy_pwr_____1	Default		%default	inv
 babk txty	100	PN	[pred="babk txty_____1",cat=PN]	babk txty_____1	Default		%default	inv
 baby alzwrç	100	PN	[pred="baby alzwrç___Bobby Ellsworth__1",cat=PN]	baby alzwrç___Bobby Ellsworth__1	Default		%default	inv
 baby fyšr	100	PN	[pred="baby fyšr___Bobby Fischer__1",cat=PN]	baby fyšr___Bobby Fischer__1	Default		%default	inv
@@ -1587,8 +1587,8 @@ bartwlwm´w dyas	100	PN	[pred="bartwlwm´w dyas___Bartolomeu Dias__1",cat=PN]	ba
 barwn eawsmn	100	PN	[pred="barwn eawsmn___Baron Haussmann__1",cat=PN]	barwn eawsmn___Baron Haussmann__1	Default		%default	inv
 barwx gldštayn	100	PN	[pred="barwx gldštayn___Baruch Goldstein__1",cat=PN]	barwx gldštayn___Baruch Goldstein__1	Default		%default	inv
 baryš mančw	100	PN	[pred="baryš mančw___Bariş Manço__1",cat=PN]	baryš mančw___Bariş Manço__1	Default		%default	inv
-baryš âkarsw	100	PN	[pred="baryš âkarsw___Bariş Akarsu__1",cat=PN]	baryš âkarsw___Bariş Akarsu__1	Default		%default	inv
-barzan łsn pwr	100	PN	[pred="barzan łsn pwr_____1",cat=PN]	barzan łsn pwr_____1	Default		%default	inv
+baryš ākarsw	100	PN	[pred="baryš ākarsw___Bariş Akarsu__1",cat=PN]	baryš ākarsw___Bariş Akarsu__1	Default		%default	inv
+barzan ħsn pwr	100	PN	[pred="barzan ħsn pwr_____1",cat=PN]	barzan ħsn pwr_____1	Default		%default	inv
 bastr kytwn	100	PN	[pred="bastr kytwn___Buster Keaton__1",cat=PN]	bastr kytwn___Buster Keaton__1	Default		%default	inv
 bastyan šwayn_aštaygr	100	PN	[pred="bastyan šwayn_aštaygr___Bastian Schweinsteiger__1",cat=PN]	bastyan šwayn_aštaygr___Bastian Schweinsteiger__1	Default		%default	inv
 baz aldryn	100	PN	[pred="baz aldryn___Buzz Aldrin__1",cat=PN]	baz aldryn___Buzz Aldrin__1	Default		%default	inv
@@ -1597,7 +1597,7 @@ baŕr ayt_alle_zade šyrazy	100	PN	[pred="baŕr ayt_alle_zade šyrazy_____1",cat
 baŕr m'yn	100	PN	[pred="baŕr m'yn___Baqer Moin__1",cat=PN]	baŕr m'yn___Baqer Moin__1	Default		%default	inv
 baŕr mwmny	100	PN	[pred="baŕr mwmny_____1",cat=PN]	baŕr mwmny_____1	Default		%default	inv
 baŕr pream	100	PN	[pred="baŕr pream_____1",cat=PN]	baŕr pream_____1	Default		%default	inv
-baŕy rłym_zade	100	PN	[pred="baŕy rłym_zade_____1",cat=PN]	baŕy rłym_zade_____1	Default		%default	inv
+baŕy rħym_zade	100	PN	[pred="baŕy rħym_zade_____1",cat=PN]	baŕy rħym_zade_____1	Default		%default	inv
 bbe bywl	100	PN	[pred="bbe bywl___Bebe Buell__1",cat=PN]	bbe bywl___Bebe Buell__1	Default		%default	inv
 bdr jajrmy	100	PN	[pred="bdr jajrmy_____1",cat=PN]	bdr jajrmy_____1	Default		%default	inv
 bdr čačy	100	PN	[pred="bdr čačy_____1",cat=PN]	bdr čačy_____1	Default		%default	inv
@@ -1608,10 +1608,10 @@ bdry wzyry	100	PN	[pred="bdry wzyry_____1",cat=PN]	bdry wzyry_____1	Default		%de
 bdryš asmtana	100	PN	[pred="bdryš asmtana___Bedřich Smetana__1",cat=PN]	bdryš asmtana___Bedřich Smetana__1	Default		%default	inv
 bdy'_alzman emdany	100	PN	[pred="bdy'_alzman emdany_____1",cat=PN]	bdy'_alzman emdany_____1	Default		%default	inv
 bdy'_alzman frwzanfr	100	PN	[pred="bdy'_alzman frwzanfr___Badiozzaman Forouzanfar__1",cat=PN]	bdy'_alzman frwzanfr___Badiozzaman Forouzanfar__1	Default		%default	inv
-be âđyn	100	PN	[pred="be âđyn_____1",cat=PN]	be âđyn_____1	Default		%default	inv
+be āđyn	100	PN	[pred="be āđyn_____1",cat=PN]	be āđyn_____1	Default		%default	inv
 beadr 'bdy	100	PN	[pred="beadr 'bdy___Bahador Abdi__1",cat=PN]	beadr 'bdy___Bahador Abdi__1	Default		%default	inv
 bear arjmnd	100	PN	[pred="bear arjmnd_____1",cat=PN]	bear arjmnd_____1	Default		%default	inv
-bear mwłd bšyry	100	PN	[pred="bear mwłd bšyry_____1",cat=PN]	bear mwłd bšyry_____1	Default		%default	inv
+bear mwħd bšyry	100	PN	[pred="bear mwħd bšyry_____1",cat=PN]	bear mwħd bšyry_____1	Default		%default	inv
 bear swmx	100	PN	[pred="bear swmx___Bahar Soomekh__1",cat=PN]	bear swmx___Bahar Soomekh__1	Default		%default	inv
 bear şadŕy	100	PN	[pred="bear şadŕy_____1",cat=PN]	bear şadŕy_____1	Default		%default	inv
 beare afšar	100	PN	[pred="beare afšar_____1",cat=PN]	beare afšar_____1	Default		%default	inv
@@ -1633,7 +1633,7 @@ bemn mery	100	PN	[pred="bemn mery_____1",cat=PN]	bemn mery_____1	Default		%defau
 bemn mfyd	100	PN	[pred="bemn mfyd___Bahman_Mofid__1",cat=PN]	bemn mfyd___Bahman_Mofid__1	Default		%default	inv
 bemn nyrwmnd	100	PN	[pred="bemn nyrwmnd_____1",cat=PN]	bemn nyrwmnd_____1	Default		%default	inv
 bemn ŕbady	100	PN	[pred="bemn ŕbady___Bahman Ghobadi__1",cat=PN]	bemn ŕbady___Bahman Ghobadi__1	Default		%default	inv
-bemn şalł_nya	100	PN	[pred="bemn şalł_nya___Bahman Salehnia__1",cat=PN]	bemn şalł_nya___Bahman Salehnia__1	Default		%default	inv
+bemn şalħ_nya	100	PN	[pred="bemn şalħ_nya___Bahman Salehnia__1",cat=PN]	bemn şalħ_nya___Bahman Salehnia__1	Default		%default	inv
 bemn š'le_wr	100	PN	[pred="bemn š'le_wr___Bahman Sholevar__1",cat=PN]	bemn š'le_wr___Bahman Sholevar__1	Default		%default	inv
 bemnyar	100	PN	[pred="bemnyar___Bahmanyar__1",cat=PN]	bemnyar___Bahmanyar__1	Default		%default	inv
 benam ađrmjydy	100	PN	[pred="benam ađrmjydy_____1",cat=PN]	benam ađrmjydy_____1	Default		%default	inv
@@ -1641,7 +1641,7 @@ benam sraj	100	PN	[pred="benam sraj___Behnam Seraj__1",cat=PN]	benam sraj___Behn
 benaz 'lypwr gskry	100	PN	[pred="benaz 'lypwr gskry_____1",cat=PN]	benaz 'lypwr gskry_____1	Default		%default	inv
 benaz şraf_pwr	100	PN	[pred="benaz şraf_pwr___Behnaz Sarafpour__1",cat=PN]	benaz şraf_pwr___Behnaz Sarafpour__1	Default		%default	inv
 benwš bxtyary	100	PN	[pred="benwš bxtyary___Behnoosh Bakhtiari__1",cat=PN]	benwš bxtyary___Behnoosh Bakhtiari__1	Default		%default	inv
-beram 'áżymy	100	PN	[pred="beram 'áżymy_____1",cat=PN]	beram 'áżymy_____1	Default		%default	inv
+beram 'áẓymy	100	PN	[pred="beram 'áẓymy_____1",cat=PN]	beram 'áẓymy_____1	Default		%default	inv
 beram afźly	100	PN	[pred="beram afźly___Bahram Afzali__1",cat=PN]	beram afźly___Bahram Afzali__1	Default		%default	inv
 beram ardbyly	100	PN	[pred="beram ardbyly_____1",cat=PN]	beram ardbyly_____1	Default		%default	inv
 beram byźayy	100	PN	[pred="beram byźayy___Bahram Bayzai__1",cat=PN]	beram byźayy___Bahram Bayzai__1	Default		%default	inv
@@ -1652,7 +1652,7 @@ beram mrady	100	PN	[pred="beram mrady_____1",cat=PN]	beram mrady_____1	Default		
 beram mšyry	100	PN	[pred="beram mšyry_____1",cat=PN]	beram mšyry_____1	Default		%default	inv
 beram radan	100	PN	[pred="beram radan___Bahram Radan__1",cat=PN]	beram radan___Bahram Radan__1	Default		%default	inv
 beram şadŕy	100	PN	[pred="beram şadŕy_____1",cat=PN]	beram şadŕy_____1	Default		%default	inv
-beram šae_młmdlw	100	PN	[pred="beram šae_młmdlw_____1",cat=PN]	beram šae_młmdlw_____1	Default		%default	inv
+beram šae_mħmdlw	100	PN	[pred="beram šae_mħmdlw_____1",cat=PN]	beram šae_mħmdlw_____1	Default		%default	inv
 beramy srxsy	100	PN	[pred="beramy srxsy_____1",cat=PN]	beramy srxsy_____1	Default		%default	inv
 berwz afxmy	100	PN	[pred="berwz afxmy_____1",cat=PN]	berwz afxmy_____1	Default		%default	inv
 berwz almasyan	100	PN	[pred="berwz almasyan_____1",cat=PN]	berwz almasyan_____1	Default		%default	inv
@@ -1664,7 +1664,7 @@ berwze	100	PN	[pred="berwze_____1",cat=PN]	berwze_____1	Default		%default	inv
 bewmyl erabal	100	PN	[pred="bewmyl erabal___Bohumil Hrabal__1",cat=PN]	bewmyl erabal___Bohumil Hrabal__1	Default		%default	inv
 bezad dadaš zade	100	PN	[pred="bezad dadaš zade_____1",cat=PN]	bezad dadaš zade_____1	Default		%default	inv
 bezad fraeany	100	PN	[pred="bezad fraeany___Behzad Farahani__1",cat=PN]	bezad fraeany___Behzad Farahani__1	Default		%default	inv
-bezad młmdy	100	PN	[pred="bezad młmdy_____1",cat=PN]	bezad młmdy_____1	Default		%default	inv
+bezad mħmdy	100	PN	[pred="bezad mħmdy_____1",cat=PN]	bezad mħmdy_____1	Default		%default	inv
 bezad nbwy	100	PN	[pred="bezad nbwy___Behzad Nabavi__1",cat=PN]	bezad nbwy___Behzad Nabavi__1	Default		%default	inv
 bezad rnjbran	100	PN	[pred="bezad rnjbran_____1",cat=PN]	bezad rnjbran_____1	Default		%default	inv
 bezad rźwy	100	PN	[pred="bezad rźwy___Behzad Razavi__1",cat=PN]	bezad rźwy___Behzad Razavi__1	Default		%default	inv
@@ -1685,7 +1685,7 @@ bn kyngzly	100	PN	[pred="bn kyngzly___Ben Kingsley__1",cat=PN]	bn kyngzly___Ben 
 bn šalwm brnanky	100	PN	[pred="bn šalwm brnanky___Ben Bernanke__1",cat=PN]	bn šalwm brnanky___Ben Bernanke__1	Default		%default	inv
 bndar razy	100	PN	[pred="bndar razy_____1",cat=PN]	bndar razy_____1	Default		%default	inv
 bndytw krwče	100	PN	[pred="bndytw krwče___Benedetto Croce__1",cat=PN]	bndytw krwče___Benedetto Croce__1	Default		%default	inv
-bnfše łjazy	100	PN	[pred="bnfše łjazy_____1",cat=PN]	bnfše łjazy_____1	Default		%default	inv
+bnfše ħjazy	100	PN	[pred="bnfše ħjazy_____1",cat=PN]	bnfše ħjazy_____1	Default		%default	inv
 bnjamyn brytn	100	PN	[pred="bnjamyn brytn___Benjamin Britten__1",cat=PN]	bnjamyn brytn___Benjamin Britten__1	Default		%default	inv
 bnjamyn enry latrwb	100	PN	[pred="bnjamyn enry latrwb___Benjamin Henry Latrobe__1",cat=PN]	bnjamyn enry latrwb___Benjamin Henry Latrobe__1	Default		%default	inv
 bnt larsn	100	PN	[pred="bnt larsn___Bent Larsen__1",cat=PN]	bnt larsn___Bent Larsen__1	Default		%default	inv
@@ -1717,7 +1717,7 @@ brayan syngr	100	PN	[pred="brayan syngr___Bryan Singer__1",cat=PN]	brayan syngr_
 brd pyt	100	PN	[pred="brd pyt___Brad Pitt__1",cat=PN]	brd pyt___Brad Pitt__1	Default		%default	inv
 brd walst	100	PN	[pred="brd walst___Brad Walst__1",cat=PN]	brd walst___Brad Walst__1	Default		%default	inv
 brean_aldyn rbany	100	PN	[pred="brean_aldyn rbany___Burhanuddin Rabbani__1",cat=PN]	brean_aldyn rbany___Burhanuddin Rabbani__1	Default		%default	inv
-brem ałmd şalł	100	PN	[pred="brem ałmd şalł_____1",cat=PN]	brem ałmd şalł_____1	Default		%default	inv
+brem aħmd şalħ	100	PN	[pred="brem aħmd şalħ_____1",cat=PN]	brem aħmd şalħ_____1	Default		%default	inv
 brj'ly ardbyly	100	PN	[pred="brj'ly ardbyly_____1",cat=PN]	brj'ly ardbyly_____1	Default		%default	inv
 brmanyds	100	PN	[pred="brmanyds___Parmenides__1",cat=PN]	brmanyds___Parmenides__1	Default		%default	inv
 brnar dywmd	100	PN	[pred="brnar dywmd___Bernard Diomede__1",cat=PN]	brnar dywmd___Bernard Diomede__1	Default		%default	inv
@@ -1787,8 +1787,8 @@ bxtyar sjady	100	PN	[pred="bxtyar sjady___Bakhtiar Sajjadi__1",cat=PN]	bxtyar sj
 bxtyšw'	100	PN	[pred="bxtyšw'___Bukhtishu__1",cat=PN]	bxtyšw'___Bukhtishu__1	Default		%default	inv
 by.by. kyng	100	PN	[pred="by.by. kyng___B .B. King__1",cat=PN]	by.by. kyng___B .B. King__1	Default		%default	inv
 by_by mrym bxtyary	100	PN	[pred="by_by mrym bxtyary_____1",cat=PN]	by_by mrym bxtyary_____1	Default		%default	inv
-by_by_xanm astrâbady	100	PN	[pred="by_by_xanm astrâbady___Bibi Khanoom Astarabadi__1",cat=PN]	by_by_xanm astrâbady___Bibi Khanoom Astarabadi__1	Default		%default	inv
-by_náżyr bwtw	100	PN	[pred="by_náżyr bwtw___Benazir Bhutto__1",cat=PN]	by_náżyr bwtw___Benazir Bhutto__1	Default		%default	inv
+by_by_xanm astrābady	100	PN	[pred="by_by_xanm astrābady___Bibi Khanoom Astarabadi__1",cat=PN]	by_by_xanm astrābady___Bibi Khanoom Astarabadi__1	Default		%default	inv
+by_náẓyr bwtw	100	PN	[pred="by_náẓyr bwtw___Benazir Bhutto__1",cat=PN]	by_náẓyr bwtw___Benazir Bhutto__1	Default		%default	inv
 by_yarne astras_trwp	100	PN	[pred="by_yarne astras_trwp___Bjarne Stroustrup__1",cat=PN]	by_yarne astras_trwp___Bjarne Stroustrup__1	Default		%default	inv
 byanse	100	PN	[pred="byanse___Beyoncé Knowles__1",cat=PN]	byanse___Beyoncé Knowles__1	Default		%default	inv
 bydl šyrazy	100	PN	[pred="bydl šyrazy_____1",cat=PN]	bydl šyrazy_____1	Default		%default	inv
@@ -1815,7 +1815,7 @@ byly šyean	100	PN	[pred="byly šyean___Billy Sheehan__1",cat=PN]	byly šyean___
 byrng kwedamny	100	PN	[pred="byrng kwedamny_____1",cat=PN]	byrng kwedamny_____1	Default		%default	inv
 byta badran	100	PN	[pred="byta badran_____1",cat=PN]	byta badran_____1	Default		%default	inv
 byta frey	100	PN	[pred="byta frey___Bita Farrahi__1",cat=PN]	byta frey___Bita Farrahi__1	Default		%default	inv
-byta słrxyz	100	PN	[pred="byta słrxyz_____1",cat=PN]	byta słrxyz_____1	Default		%default	inv
+byta sħrxyz	100	PN	[pred="byta sħrxyz_____1",cat=PN]	byta sħrxyz_____1	Default		%default	inv
 byta twkly	100	PN	[pred="byta twkly_____1",cat=PN]	byta twkly_____1	Default		%default	inv
 byźay ardbyly	100	PN	[pred="byźay ardbyly_____1",cat=PN]	byźay ardbyly_____1	Default		%default	inv
 byžn amkanyan	100	PN	[pred="byžn amkanyan___Bizhan Emkanian__1",cat=PN]	byžn amkanyan___Bizhan Emkanian__1	Default		%default	inv
@@ -1830,9 +1830,9 @@ byžn njdy	100	PN	[pred="byžn njdy_____1",cat=PN]	byžn njdy_____1	Default		%de
 byžn trŕy	100	PN	[pred="byžn trŕy_____1",cat=PN]	byžn trŕy_____1	Default		%default	inv
 byžn đwalfŕarnsb	100	PN	[pred="byžn đwalfŕarnsb___Bijan Zolfagharnasab__1",cat=PN]	byžn đwalfŕarnsb___Bijan Zolfagharnasab__1	Default		%default	inv
 bzrg 'lwy	100	PN	[pred="bzrg 'lwy___Bozorg Alavi__1",cat=PN]	bzrg 'lwy___Bozorg Alavi__1	Default		%default	inv
-bzrg młmwdy	100	PN	[pred="bzrg młmwdy_____1",cat=PN]	bzrg młmwdy_____1	Default		%default	inv
+bzrg mħmwdy	100	PN	[pred="bzrg mħmwdy_____1",cat=PN]	bzrg mħmwdy_____1	Default		%default	inv
 bzrgmer	100	PN	[pred="bzrgmer___Bozorgmehr__1",cat=PN]	bzrgmer___Bozorgmehr__1	Default		%default	inv
-bzrgmer łsyn_pwr	100	PN	[pred="bzrgmer łsyn_pwr_____1",cat=PN]	bzrgmer łsyn_pwr_____1	Default		%default	inv
+bzrgmer ħsyn_pwr	100	PN	[pred="bzrgmer ħsyn_pwr_____1",cat=PN]	bzrgmer ħsyn_pwr_____1	Default		%default	inv
 b´ate awze	100	PN	[pred="b´ate awze___Beate Uhse-Rotermund__1",cat=PN]	b´ate awze___Beate Uhse-Rotermund__1	Default		%default	inv
 bŕraţ	100	PN	[pred="bŕraţ___Hippocrates__1",cat=PN]	bŕraţ___Hippocrates__1	Default		%default	inv
 bšar asd	100	PN	[pred="bšar asd___Bashar al-Assad__1",cat=PN]	bšar asd___Bashar al-Assad__1	Default		%default	inv
@@ -1851,7 +1851,7 @@ daly partn	100	PN	[pred="daly partn___Dolly Parton__1",cat=PN]	daly partn___Doll
 dalyda	100	PN	[pred="dalyda___Dalida__1",cat=PN]	dalyda___Dalida__1	Default		%default	inv
 damynyk prsl	100	PN	[pred="damynyk prsl___Dominic Purcell__1",cat=PN]	damynyk prsl___Dominic Purcell__1	Default		%default	inv
 dan enly	100	PN	[pred="dan enly___Don Henley__1",cat=PN]	dan enly___Don Henley__1	Default		%default	inv
-dan łalwts	100	PN	[pred="dan łalwts___Dan Halutz__1",cat=PN]	dan łalwts___Dan Halutz__1	Default		%default	inv
+dan ħalwts	100	PN	[pred="dan ħalwts___Dan Halutz__1",cat=PN]	dan ħalwts___Dan Halutz__1	Default		%default	inv
 dana awlmrt	100	PN	[pred="dana awlmrt___Dana Olmert__1",cat=PN]	dana awlmrt___Dana Olmert__1	Default		%default	inv
 dana brgr	100	PN	[pred="dana brgr___Dana Berger__1",cat=PN]	dana brgr___Dana Berger__1	Default		%default	inv
 dankmar adlr	100	PN	[pred="dankmar adlr___Dankmar Adler__1",cat=PN]	dankmar adlr___Dankmar Adler__1	Default		%default	inv
@@ -1900,13 +1900,13 @@ dastan_nwysan m'aşr afqanstan	100	PN	[pred="dastan_nwysan m'aşr afqanstan_____
 dastan_srayan ayrany	100	PN	[pred="dastan_srayan ayrany_____1",cat=PN]	dastan_srayan ayrany_____1	Default		%default	inv
 dasty aspryngfyld	100	PN	[pred="dasty aspryngfyld___Dusty Springfield__1",cat=PN]	dasty aspryngfyld___Dusty Springfield__1	Default		%default	inv
 dastyn eafmn	100	PN	[pred="dastyn eafmn___Dustin Hoffman__1",cat=PN]	dastyn eafmn___Dustin Hoffman__1	Default		%default	inv
-dawd fyrły	100	PN	[pred="dawd fyrły_____1",cat=PN]	dawd fyrły_____1	Default		%default	inv
+dawd fyrħy	100	PN	[pred="dawd fyrħy_____1",cat=PN]	dawd fyrħy_____1	Default		%default	inv
 dawd međbye	100	PN	[pred="dawd međbye___Davood Mahzabihe__1",cat=PN]	dawd međbye___Davood Mahzabihe__1	Default		%default	inv
 dawd qfarzadgan	100	PN	[pred="dawd qfarzadgan_____1",cat=PN]	dawd qfarzadgan_____1	Default		%default	inv
 dawwd asdy	100	PN	[pred="dawwd asdy_____1",cat=PN]	dawwd asdy_____1	Default		%default	inv
-dawwd ałmdy_nžad	100	PN	[pred="dawwd ałmdy_nžad_____1",cat=PN]	dawwd ałmdy_nžad_____1	Default		%default	inv
+dawwd aħmdy_nžad	100	PN	[pred="dawwd aħmdy_nžad_____1",cat=PN]	dawwd aħmdy_nžad_____1	Default		%default	inv
 dawwd bebwdy	100	PN	[pred="dawwd bebwdy_____1",cat=PN]	dawwd bebwdy_____1	Default		%default	inv
-dawwd bn 'ly żaery	100	PN	[pred="dawwd bn 'ly żaery_____1",cat=PN]	dawwd bn 'ly żaery_____1	Default		%default	inv
+dawwd bn 'ly ẓaery	100	PN	[pred="dawwd bn 'ly ẓaery_____1",cat=PN]	dawwd bn 'ly ẓaery_____1	Default		%default	inv
 dawwd danš j'fry	100	PN	[pred="dawwd danš j'fry_____1",cat=PN]	dawwd danš j'fry_____1	Default		%default	inv
 dawwd dwmyry gnjy	100	PN	[pred="dawwd dwmyry gnjy_____1",cat=PN]	dawwd dwmyry gnjy_____1	Default		%default	inv
 dawwd gnje_ay	100	PN	[pred="dawwd gnje_ay_____1",cat=PN]	dawwd gnje_ay_____1	Default		%default	inv
@@ -1957,14 +1957,14 @@ dny ayalwn	100	PN	[pred="dny ayalwn___Danny Ayalon__1",cat=PN]	dny ayalwn___Dann
 dny bwyl	100	PN	[pred="dny bwyl___Danny Boyle__1",cat=PN]	dny bwyl___Danny Boyle__1	Default		%default	inv
 dny dydrw	100	PN	[pred="dny dydrw___Denis Diderot__1",cat=PN]	dny dydrw___Denis Diderot__1	Default		%default	inv
 dny papn	100	PN	[pred="dny papn___Denis Papin__1",cat=PN]	dny papn___Denis Papin__1	Default		%default	inv
-dny âlwz	100	PN	[pred="dny âlwz___Dani Alves__1",cat=PN]	dny âlwz___Dani Alves__1	Default		%default	inv
+dny ālwz	100	PN	[pred="dny ālwz___Dani Alves__1",cat=PN]	dny ālwz___Dani Alves__1	Default		%default	inv
 dnyl endlr	100	PN	[pred="dnyl endlr___Daniel Handler__1",cat=PN]	dnyl endlr___Daniel Handler__1	Default		%default	inv
 dnyl kryg	100	PN	[pred="dnyl kryg___Daniel Craig__1",cat=PN]	dnyl kryg___Daniel Craig__1	Default		%default	inv
 dnyl rdklyf	100	PN	[pred="dnyl rdklyf___Daniel Radcliffe__1",cat=PN]	dnyl rdklyf___Daniel Radcliffe__1	Default		%default	inv
 dnys ryčy	100	PN	[pred="dnys ryčy___Dennis Ritchie__1",cat=PN]	dnys ryčy___Dennis Ritchie__1	Default		%default	inv
 dnyz člyk	100	PN	[pred="dnyz člyk___Bendeniz__1",cat=PN]	dnyz člyk___Bendeniz__1	Default		%default	inv
 dnzl wašngtn	100	PN	[pred="dnzl wašngtn___Denzel Washington__1",cat=PN]	dnzl wašngtn___Denzel Washington__1	Default		%default	inv
-dre myrłydr	100	PN	[pred="dre myrłydr_____1",cat=PN]	dre myrłydr_____1	Default		%default	inv
+dre myrħydr	100	PN	[pred="dre myrħydr_____1",cat=PN]	dre myrħydr_____1	Default		%default	inv
 drk kwyt	100	PN	[pred="drk kwyt___Dirk Kuyt__1",cat=PN]	drk kwyt___Dirk Kuyt__1	Default		%default	inv
 drk nwytsky	100	PN	[pred="drk nwytsky___Dirk Nowitzki__1",cat=PN]	drk nwytsky___Dirk Nowitzki__1	Default		%default	inv
 drn šan	100	PN	[pred="drn šan___Darren shan__1",cat=PN]	drn šan___Darren shan__1	Default		%default	inv
@@ -1977,9 +1977,9 @@ dryftrz	100	PN	[pred="dryftrz___The Drifters__1",cat=PN]	dryftrz___The Drifters_
 dryk šrynyan	100	PN	[pred="dryk šrynyan___Derek Sherinian__1",cat=PN]	dryk šrynyan___Derek Sherinian__1	Default		%default	inv
 dw fw	100	PN	[pred="dw fw___Du Fu__1",cat=PN]	dw fw___Du Fu__1	Default		%default	inv
 dwayt eawrd	100	PN	[pred="dwayt eawrd___Dwight Howard__1",cat=PN]	dwayt eawrd___Dwight Howard__1	Default		%default	inv
-dwayt âyzneawr	100	PN	[pred="dwayt âyzneawr___Dwight D. Eisenhower__1",cat=PN]	dwayt âyzneawr___Dwight D. Eisenhower__1	Default		%default	inv
+dwayt āyzneawr	100	PN	[pred="dwayt āyzneawr___Dwight D. Eisenhower__1",cat=PN]	dwayt āyzneawr___Dwight D. Eisenhower__1	Default		%default	inv
 dwk alyngtwn	100	PN	[pred="dwk alyngtwn___Duke Ellington__1",cat=PN]	dwk alyngtwn___Duke Ellington__1	Default		%default	inv
-dwlt rłmanyan	100	PN	[pred="dwlt rłmanyan_____1",cat=PN]	dwlt rłmanyan_____1	Default		%default	inv
+dwlt rħmanyan	100	PN	[pred="dwlt rħmanyan_____1",cat=PN]	dwlt rħmanyan_____1	Default		%default	inv
 dwmynyk dw wylpn	100	PN	[pred="dwmynyk dw wylpn___Dominique de Villepin__1",cat=PN]	dwmynyk dw wylpn___Dominique de Villepin__1	Default		%default	inv
 dwmynyka sybwlkwwa	100	PN	[pred="dwmynyka sybwlkwwa___Dominika Cibulková__1",cat=PN]	dwmynyka sybwlkwwa___Dominika Cibulková__1	Default		%default	inv
 dwnald bartlmy	100	PN	[pred="dwnald bartlmy___Donald Barthelme__1",cat=PN]	dwnald bartlmy___Donald Barthelme__1	Default		%default	inv
@@ -2055,9 +2055,9 @@ eabyl 'lyf	100	PN	[pred="eabyl 'lyf_____1",cat=PN]	eabyl 'lyf_____1	Default		%de
 eady 'amry	100	PN	[pred="eady 'amry_____1",cat=PN]	eady 'amry_____1	Default		%default	inv
 eady 'ŕyly	100	PN	[pred="eady 'ŕyly___Hadi Aghily__1",cat=PN]	eady 'ŕyly___Hadi Aghily__1	Default		%default	inv
 eady aslamy	100	PN	[pred="eady aslamy_____1",cat=PN]	eady aslamy_____1	Default		%default	inv
-eady mntżry mŕdm	100	PN	[pred="eady mntżry mŕdm_____1",cat=PN]	eady mntżry mŕdm_____1	Default		%default	inv
+eady mntẓry mŕdm	100	PN	[pred="eady mntẓry mŕdm_____1",cat=PN]	eady mntẓry mŕdm_____1	Default		%default	inv
 eady nwrwzy	100	PN	[pred="eady nwrwzy___Hadi Norouzi__1",cat=PN]	eady nwrwzy___Hadi Norouzi__1	Default		%default	inv
-eady nžadłsynyan	100	PN	[pred="eady nžadłsynyan_____1",cat=PN]	eady nžadłsynyan_____1	Default		%default	inv
+eady nžadħsynyan	100	PN	[pred="eady nžadħsynyan_____1",cat=PN]	eady nžadħsynyan_____1	Default		%default	inv
 eady qfary	100	PN	[pred="eady qfary___Hadi Ghaffari__1",cat=PN]	eady qfary___Hadi Ghaffari__1	Default		%default	inv
 eady sa'y	100	PN	[pred="eady sa'y___Hadi Saei__1",cat=PN]	eady sa'y___Hadi Saei__1	Default		%default	inv
 eady sperzad	100	PN	[pred="eady sperzad___Hadi Sepehrzad__1",cat=PN]	eady sperzad___Hadi Sepehrzad__1	Default		%default	inv
@@ -2071,7 +2071,7 @@ eale afšar	100	PN	[pred="eale afšar___Haleh Afshar, Baroness Afshar__1",cat=PN
 eale asfndyary	100	PN	[pred="eale asfndyary___Haleh Esfandiari__1",cat=PN]	eale asfndyary___Haleh Esfandiari__1	Default		%default	inv
 ealwk lwnt	100	PN	[pred="ealwk lwnt_____1",cat=PN]	ealwk lwnt_____1	Default		%default	inv
 ealy eantr	100	PN	[pred="ealy eantr___Holly Hunter__1",cat=PN]	ealy eantr___Holly Hunter__1	Default		%default	inv
-ealy jw´l âzmnt	100	PN	[pred="ealy jw´l âzmnt___Haley Joel Osment__1",cat=PN]	ealy jw´l âzmnt___Haley Joel Osment__1	Default		%default	inv
+ealy jw´l āzmnt	100	PN	[pred="ealy jw´l āzmnt___Haley Joel Osment__1",cat=PN]	ealy jw´l āzmnt___Haley Joel Osment__1	Default		%default	inv
 eamfry bwgart	100	PN	[pred="eamfry bwgart___Humphrey Bogart__1",cat=PN]	eamfry bwgart___Humphrey Bogart__1	Default		%default	inv
 eamfry dywy	100	PN	[pred="eamfry dywy___Humphry Davy__1",cat=PN]	eamfry dywy___Humphry Davy__1	Default		%default	inv
 ean eay jyn	100	PN	[pred="ean eay jyn___Han Hye-jin__1",cat=PN]	ean eay jyn___Han Hye-jin__1	Default		%default	inv
@@ -2093,7 +2093,7 @@ eans eaynryš šdr	100	PN	[pred="eans eaynryš šdr_____1",cat=PN]	eans eaynryš
 eans ewlayn	100	PN	[pred="eans ewlayn___Hans Hollein__1",cat=PN]	eans ewlayn___Hans Hollein__1	Default		%default	inv
 eans g´wrg šwartznbk	100	PN	[pred="eans g´wrg šwartznbk___Hans-Georg Schwarzenbeck__1",cat=PN]	eans g´wrg šwartznbk___Hans-Georg Schwarzenbeck__1	Default		%default	inv
 eans klr	100	PN	[pred="eans klr___Hans Keller__1",cat=PN]	eans klr___Hans Keller__1	Default		%default	inv
-eans krystyan ândrsn	100	PN	[pred="eans krystyan ândrsn___Hans Christian Andersen__1",cat=PN]	eans krystyan ândrsn___Hans Christian Andersen__1	Default		%default	inv
+eans krystyan āndrsn	100	PN	[pred="eans krystyan āndrsn___Hans Christian Andersen__1",cat=PN]	eans krystyan āndrsn___Hans Christian Andersen__1	Default		%default	inv
 eans krystyn awrstd	100	PN	[pred="eans krystyn awrstd___Hans Christian Orsted__1",cat=PN]	eans krystyn awrstd___Hans Christian Orsted__1	Default		%default	inv
 eans kwrnlyws	100	PN	[pred="eans kwrnlyws___Hans Cornelius__1",cat=PN]	eans kwrnlyws___Hans Cornelius__1	Default		%default	inv
 eans mayr	100	PN	[pred="eans mayr___Hannes Meyer__1",cat=PN]	eans mayr___Hannes Meyer__1	Default		%default	inv
@@ -2154,7 +2154,7 @@ elna paparazyw	100	PN	[pred="elna paparazyw___Elena Paparizou__1",cat=PN]	elna p
 ely bry	100	PN	[pred="ely bry___Halle Berry__1",cat=PN]	ely bry___Halle Berry__1	Default		%default	inv
 ema naţŕ	100	PN	[pred="ema naţŕ_____1",cat=PN]	ema naţŕ_____1	Default		%default	inv
 ema rwsta	100	PN	[pred="ema rwsta___Homa Rousta__1",cat=PN]	ema rwsta___Homa Rousta__1	Default		%default	inv
-ema łsyny	100	PN	[pred="ema łsyny___Homa Hosseini__1",cat=PN]	ema łsyny___Homa Hosseini__1	Default		%default	inv
+ema ħsyny	100	PN	[pred="ema ħsyny___Homa Hosseini__1",cat=PN]	ema ħsyny___Homa Hosseini__1	Default		%default	inv
 emam tbryzy	100	PN	[pred="emam tbryzy___Homam-e Tabrizi__1",cat=PN]	emam tbryzy___Homam-e Tabrizi__1	Default		%default	inv
 emay šyrazy	100	PN	[pred="emay šyrazy_____1",cat=PN]	emay šyrazy_____1	Default		%default	inv
 emaywn	300	PN	[pred="emaywn_____1",cat=PN]	emaywn_____1	Default		%default	inv
@@ -2228,7 +2228,7 @@ ew jyntaÂ´w	100	PN	[pred="ew jyntaÂ´w___Hu Jintao__1",cat=PN]	ew jyntaÂ´w_
 ewang šyan fan	100	PN	[pred="ewang šyan fan___Huang Xianfan__1",cat=PN]	ewang šyan fan___Huang Xianfan__1	Default		%default	inv
 ewans twmanyan	100	PN	[pred="ewans twmanyan___Hovhannes Tumanyan__1",cat=PN]	ewans twmanyan___Hovhannes Tumanyan__1	Default		%default	inv
 ewans šyraz	100	PN	[pred="ewans šyraz___Hovhannes Shiraz__1",cat=PN]	ewans šyraz___Hovhannes Shiraz__1	Default		%default	inv
-ewar mla młmd	100	PN	[pred="ewar mla młmd___Hawar Mulla Mohammed__1",cat=PN]	ewar mla młmd___Hawar Mulla Mohammed__1	Default		%default	inv
+ewar mla mħmd	100	PN	[pred="ewar mla mħmd___Hawar Mulla Mohammed__1",cat=PN]	ewar mla mħmd___Hawar Mulla Mohammed__1	Default		%default	inv
 eward baskrwyl	100	PN	[pred="eward baskrwyl___Howard Baskerville__1",cat=PN]	eward baskrwyl___Howard Baskerville__1	Default		%default	inv
 eward eywz	100	PN	[pred="eward eywz___Howard Hughes__1",cat=PN]	eward eywz___Howard Hughes__1	Default		%default	inv
 eward zyn	100	PN	[pred="eward zyn___Howard Zinn__1",cat=PN]	eward zyn___Howard Zinn__1	Default		%default	inv
@@ -2245,7 +2245,7 @@ ewras	100	PN	[pred="ewras___Horace__1",cat=PN]	ewras___Horace__1	Default		%defau
 ewras mk_kwy	100	PN	[pred="ewras mk_kwy___Horace McCoy__1",cat=PN]	ewras mk_kwy___Horace McCoy__1	Default		%default	inv
 ewrst kwelr	100	PN	[pred="ewrst kwelr___Horst Köhler__1",cat=PN]	ewrst kwelr___Horst Köhler__1	Default		%default	inv
 ewryšyw nlswn	100	PN	[pred="ewryšyw nlswn___Horatio Nelson, 1st Viscount Nelson__1",cat=PN]	ewryšyw nlswn___Horatio Nelson, 1st Viscount Nelson__1	Default		%default	inv
-ewzan młmwd	100	PN	[pred="ewzan młmwd___Houzan Mahmoud__1",cat=PN]	ewzan młmwd___Houzan Mahmoud__1	Default		%default	inv
+ewzan mħmwd	100	PN	[pred="ewzan mħmwd___Houzan Mahmoud__1",cat=PN]	ewzan mħmwd___Houzan Mahmoud__1	Default		%default	inv
 ewšng 'ţaryan	100	PN	[pred="ewšng 'ţaryan_____1",cat=PN]	ewšng 'ţaryan_____1	Default		%default	inv
 ewšng abteaj	100	PN	[pred="ewšng abteaj___Hushang Ebtehaj__1",cat=PN]	ewšng abteaj___Hushang Ebtehaj__1	Default		%default	inv
 ewšng ayrany	100	PN	[pred="ewšng ayrany_____1",cat=PN]	ewšng ayrany_____1	Default		%default	inv
@@ -2257,10 +2257,10 @@ ewšng mntşry	100	PN	[pred="ewšng mntşry_____1",cat=PN]	ewšng mntşry_____1	
 ewšng mrady krmany	100	PN	[pred="ewšng mrady krmany___Houshang Moradi Kermani__1",cat=PN]	ewšng mrady krmany___Houshang Moradi Kermani__1	Default		%default	inv
 ewšng qyaçy_nžad	100	PN	[pred="ewšng qyaçy_nžad_____1",cat=PN]	ewšng qyaçy_nžad_____1	Default		%default	inv
 ewšng sarng	100	PN	[pred="ewšng sarng_____1",cat=PN]	ewšng sarng_____1	Default		%default	inv
-ewšng syłwn	100	PN	[pred="ewšng syłwn___Hooshang Seyhoun__1",cat=PN]	ewšng syłwn___Hooshang Seyhoun__1	Default		%default	inv
+ewšng syħwn	100	PN	[pred="ewšng syħwn___Hooshang Seyhoun__1",cat=PN]	ewšng syħwn___Hooshang Seyhoun__1	Default		%default	inv
 ewšng xanšŕaŕy	100	PN	[pred="ewšng xanšŕaŕy_____1",cat=PN]	ewšng xanšŕaŕy_____1	Default		%default	inv
 ewšng şdyŕ	100	PN	[pred="ewšng şdyŕ_____1",cat=PN]	ewšng şdyŕ_____1	Default		%default	inv
-ewšng żryf	100	PN	[pred="ewšng żryf___Houshang Zarif__1",cat=PN]	ewšng żryf___Houshang Zarif__1	Default		%default	inv
+ewšng ẓryf	100	PN	[pred="ewšng ẓryf___Houshang Zarif__1",cat=PN]	ewšng ẓryf___Houshang Zarif__1	Default		%default	inv
 ewšyar xyam	100	PN	[pred="ewšyar xyam_____1",cat=PN]	ewšyar xyam_____1	Default		%default	inv
 ewšyar zybary	100	PN	[pred="ewšyar zybary___Hoshyar Zebari__1",cat=PN]	ewšyar zybary___Hoshyar Zebari__1	Default		%default	inv
 eyalmar šaxt	100	PN	[pred="eyalmar šaxt___Hjalmar Schacht__1",cat=PN]	eyalmar šaxt___Hjalmar Schacht__1	Default		%default	inv
@@ -2291,7 +2291,7 @@ ežbr yzdany	100	PN	[pred="ežbr yzdany_____1",cat=PN]	ežbr yzdany_____1	Defaul
 ežyr darywš	100	PN	[pred="ežyr darywš___Hajir Darioush__1",cat=PN]	ežyr darywš___Hajir Darioush__1	Default		%default	inv
 ežyr plasčy	100	PN	[pred="ežyr plasčy_____1",cat=PN]	ežyr plasčy_____1	Default		%default	inv
 fabyn bartz	100	PN	[pred="fabyn bartz___Fabien Barthez__1",cat=PN]	fabyn bartz___Fabien Barthez__1	Default		%default	inv
-fabyw janwâryw	100	PN	[pred="fabyw janwâryw___Januário__1",cat=PN]	fabyw janwâryw___Januário__1	Default		%default	inv
+fabyw janwāryw	100	PN	[pred="fabyw janwāryw___Januário__1",cat=PN]	fabyw janwāryw___Januário__1	Default		%default	inv
 fabyw kanawarw	100	PN	[pred="fabyw kanawarw___Fabio Cannavaro__1",cat=PN]	fabyw kanawarw___Fabio Cannavaro__1	Default		%default	inv
 fabyw kaplw	100	PN	[pred="fabyw kaplw___Fabio Capello__1",cat=PN]	fabyw kaplw___Fabio Capello__1	Default		%default	inv
 fara fast	100	PN	[pred="fara fast___Farrah Fawcett__1",cat=PN]	fara fast___Farrah Fawcett__1	Default		%default	inv
@@ -2311,7 +2311,7 @@ faţme gwdrzy	100	PN	[pred="faţme gwdrzy_____1",cat=PN]	faţme gwdrzy_____1	Def
 faţme jwady	100	PN	[pred="faţme jwady___Fatemeh Javadi__1",cat=PN]	faţme jwady___Fatemeh Javadi__1	Default		%default	inv
 faţme krwby	100	PN	[pred="faţme krwby___Fatemeh Karroubi__1",cat=PN]	faţme krwby___Fatemeh Karroubi__1	Default		%default	inv
 faţme m'tmdarya	100	PN	[pred="faţme m'tmdarya___Fatemeh Motamed-Aria__1",cat=PN]	faţme m'tmdarya___Fatemeh Motamed-Aria__1	Default		%default	inv
-faţme m'şwme	100	PN	[pred="faţme m'şwme___Fatima bint Musâ__1",cat=PN]	faţme m'şwme___Fatima bint Musâ__1	Default		%default	inv
+faţme m'şwme	100	PN	[pred="faţme m'şwme___Fatima bint Musā__1",cat=PN]	faţme m'şwme___Fatima bint Musā__1	Default		%default	inv
 faţme mrnysy	100	PN	[pred="faţme mrnysy___Fatema Mernissi__1",cat=PN]	faţme mrnysy___Fatema Mernissi__1	Default		%default	inv
 faţme pelwy	100	PN	[pred="faţme pelwy_____1",cat=PN]	faţme pelwy_____1	Default		%default	inv
 faţme rak'y	100	PN	[pred="faţme rak'y_____1",cat=PN]	faţme rak'y_____1	Default		%default	inv
@@ -2319,14 +2319,14 @@ faţme rebr	100	PN	[pred="faţme rebr_____1",cat=PN]	faţme rebr_____1	Default		
 faţme rjb_pwr	100	PN	[pred="faţme rjb_pwr_____1",cat=PN]	faţme rjb_pwr_____1	Default		%default	inv
 faţme rjby	100	PN	[pred="faţme rjby_____1",cat=PN]	faţme rjby_____1	Default		%default	inv
 faţme smsarpwr	100	PN	[pred="faţme smsarpwr_____1",cat=PN]	faţme smsarpwr_____1	Default		%default	inv
-faţme syał	100	PN	[pred="faţme syał_____1",cat=PN]	faţme syał_____1	Default		%default	inv
-faţme łŕyŕt_jw	100	PN	[pred="faţme łŕyŕt_jw___Fatemeh Haghighatjou__1",cat=PN]	faţme łŕyŕt_jw___Fatemeh Haghighatjou__1	Default		%default	inv
+faţme syaħ	100	PN	[pred="faţme syaħ_____1",cat=PN]	faţme syaħ_____1	Default		%default	inv
+faţme ħŕyŕt_jw	100	PN	[pred="faţme ħŕyŕt_jw___Fatemeh Haghighatjou__1",cat=PN]	faţme ħŕyŕt_jw___Fatemeh Haghighatjou__1	Default		%default	inv
 faźl xdadad	100	PN	[pred="faźl xdadad_____1",cat=PN]	faźl xdadad_____1	Default		%default	inv
 fdrykw flyny	100	PN	[pred="fdrykw flyny___Federico Fellini__1",cat=PN]	fdrykw flyny___Federico Fellini__1	Default		%default	inv
 fdrykw garsya lwrka	100	PN	[pred="fdrykw garsya lwrka___Federico García Lorca__1",cat=PN]	fdrykw garsya lwrka___Federico García Lorca__1	Default		%default	inv
 fed bn 'bdal'zyz	100	PN	[pred="fed bn 'bdal'zyz___Fahd of Saudi Arabia__1",cat=PN]	fed bn 'bdal'zyz___Fahd of Saudi Arabia__1	Default		%default	inv
 feyme rastkar	100	PN	[pred="feyme rastkar_____1",cat=PN]	feyme rastkar_____1	Default		%default	inv
-feyme slłšwr	100	PN	[pred="feyme slłšwr_____1",cat=PN]	feyme slłšwr_____1	Default		%default	inv
+feyme slħšwr	100	PN	[pred="feyme slħšwr_____1",cat=PN]	feyme slħšwr_____1	Default		%default	inv
 fkrt amyrwf	100	PN	[pred="fkrt amyrwf___Fikret Amirov__1",cat=PN]	fkrt amyrwf___Fikret Amirov__1	Default		%default	inv
 flawya pnta	100	PN	[pred="flawya pnta___Flavia Pennetta__1",cat=PN]	flawya pnta___Flavia Pennetta__1	Default		%default	inv
 flwran ašmyt	100	PN	[pred="flwran ašmyt___Florent Schmitt__1",cat=PN]	flwran ašmyt___Florent Schmitt__1	Default		%default	inv
@@ -2339,7 +2339,7 @@ framrz aşlany	100	PN	[pred="framrz aşlany___Faramarz Aslani__1",cat=PN]	framrz
 framrz paywr	100	PN	[pred="framrz paywr___Faramarz Payvar__1",cat=PN]	framrz paywr___Faramarz Payvar__1	Default		%default	inv
 framrz rfy'_pwr	100	PN	[pred="framrz rfy'_pwr_____1",cat=PN]	framrz rfy'_pwr_____1	Default		%default	inv
 framrz wysy	100	PN	[pred="framrz wysy_____1",cat=PN]	framrz wysy_____1	Default		%default	inv
-framrz âšnay ŕasmy	100	PN	[pred="framrz âšnay ŕasmy_____1",cat=PN]	framrz âšnay ŕasmy_____1	Default		%default	inv
+framrz āšnay ŕasmy	100	PN	[pred="framrz āšnay ŕasmy_____1",cat=PN]	framrz āšnay ŕasmy_____1	Default		%default	inv
 framrz ŕrybyan	100	PN	[pred="framrz ŕrybyan___Faramarz Gharibian__1",cat=PN]	framrz ŕrybyan___Faramarz Gharibian__1	Default		%default	inv
 frank atsw	100	PN	[pred="frank atsw___Franck Atsou__1",cat=PN]	frank atsw___Franck Atsou__1	Default		%default	inv
 frank awkanr	100	PN	[pred="frank awkanr___Frank O'Connor__1",cat=PN]	frank awkanr___Frank O'Connor__1	Default		%default	inv
@@ -2417,15 +2417,15 @@ fread brdbar	100	PN	[pred="fread brdbar_____1",cat=PN]	fread brdbar_____1	Defaul
 fread drya	100	PN	[pred="fread drya___Farhad Darya__1",cat=PN]	fread drya___Farhad Darya__1	Default		%default	inv
 fread fxraldyny	100	PN	[pred="fread fxraldyny___Farhad Fakhreddini__1",cat=PN]	fread fxraldyny___Farhad Fakhreddini__1	Default		%default	inv
 fread j'fry	100	PN	[pred="fread j'fry_____1",cat=PN]	fread j'fry_____1	Default		%default	inv
-fread każmy	100	PN	[pred="fread każmy___Farhad Kazemi__1",cat=PN]	fread każmy___Farhad Kazemi__1	Default		%default	inv
+fread kaẓmy	100	PN	[pred="fread kaẓmy___Farhad Kazemi__1",cat=PN]	fread kaẓmy___Farhad Kazemi__1	Default		%default	inv
 fread merad	100	PN	[pred="fread merad___Farhad Mehrad__1",cat=PN]	fread merad___Farhad Mehrad__1	Default		%default	inv
 fread mjydy	100	PN	[pred="fread mjydy___Farhad Majidi__1",cat=PN]	fread mjydy___Farhad Majidi__1	Default		%default	inv
 fread qbrayy	100	PN	[pred="fread qbrayy_____1",cat=PN]	fread qbrayy_____1	Default		%default	inv
 fread rebr	100	PN	[pred="fread rebr___Farhad Rahbar__1",cat=PN]	fread rebr___Farhad Rahbar__1	Default		%default	inv
 fread warste	100	PN	[pred="fread warste_____1",cat=PN]	fread warste_____1	Default		%default	inv
 fread xyrxwae	100	PN	[pred="fread xyrxwae___Farhad Kheirkhah__1",cat=PN]	fread xyrxwae___Farhad Kheirkhah__1	Default		%default	inv
-fread łsn_zade	100	PN	[pred="fread łsn_zade_____1",cat=PN]	fread łsn_zade_____1	Default		%default	inv
-fread łydry gwran	100	PN	[pred="fread łydry gwran_____1",cat=PN]	fread łydry gwran_____1	Default		%default	inv
+fread ħsn_zade	100	PN	[pred="fread ħsn_zade_____1",cat=PN]	fread ħsn_zade_____1	Default		%default	inv
+fread ħydry gwran	100	PN	[pred="fread ħydry gwran_____1",cat=PN]	fread ħydry gwran_____1	Default		%default	inv
 fread ŕa´myan	100	PN	[pred="fread ŕa´myan_____1",cat=PN]	fread ŕa´myan_____1	Default		%default	inv
 fread şfy_nya	100	PN	[pred="fread şfy_nya___Farhad Safinia__1",cat=PN]	fread şfy_nya___Farhad Safinia__1	Default		%default	inv
 freng m'yry	100	PN	[pred="freng m'yry_____1",cat=PN]	freng m'yry_____1	Default		%default	inv
@@ -2436,12 +2436,12 @@ freng šyrazÝ	100	PN	[pred="freng šyrazÝ_____1",cat=PN]	freng šyrazÝ_____1	
 frj fwde	100	PN	[pred="frj fwde___Farag Foda__1",cat=PN]	frj fwde___Farag Foda__1	Default		%default	inv
 frj srkwey	100	PN	[pred="frj srkwey_____1",cat=PN]	frj srkwey_____1	Default		%default	inv
 frj_alle beramy	100	PN	[pred="frj_alle beramy_____1",cat=PN]	frj_alle beramy_____1	Default		%default	inv
-frj_alle slłšwr	100	PN	[pred="frj_alle slłšwr_____1",cat=PN]	frj_alle slłšwr_____1	Default		%default	inv
+frj_alle slħšwr	100	PN	[pred="frj_alle slħšwr_____1",cat=PN]	frj_alle slħšwr_____1	Default		%default	inv
 frnandw arabal	100	PN	[pred="frnandw arabal___Fernando Arrabal__1",cat=PN]	frnandw arabal___Fernando Arrabal__1	Default		%default	inv
 frnandw martyn	100	PN	[pred="frnandw martyn___Fernando Martín Espina__1",cat=PN]	frnandw martyn___Fernando Martín Espina__1	Default		%default	inv
 frnandw twrs	100	PN	[pred="frnandw twrs___Fernando Torres__1",cat=PN]	frnandw twrs___Fernando Torres__1	Default		%default	inv
-frnaz fşyły	100	PN	[pred="frnaz fşyły___Farnaz Fassihi__1",cat=PN]	frnaz fşyły___Farnaz Fassihi__1	Default		%default	inv
-frnaz naáżrzade krmany	100	PN	[pred="frnaz naáżrzade krmany_____1",cat=PN]	frnaz naáżrzade krmany_____1	Default		%default	inv
+frnaz fşyħy	100	PN	[pred="frnaz fşyħy___Farnaz Fassihi__1",cat=PN]	frnaz fşyħy___Farnaz Fassihi__1	Default		%default	inv
+frnaz naáẓrzade krmany	100	PN	[pred="frnaz naáẓrzade krmany_____1",cat=PN]	frnaz naáẓrzade krmany_____1	Default		%default	inv
 frngys ygangy	100	PN	[pred="frngys ygangy_____1",cat=PN]	frngys ygangy_____1	Default		%default	inv
 frnsys byn kwbyn	100	PN	[pred="frnsys byn kwbyn___Frances Bean Cobain__1",cat=PN]	frnsys byn kwbyn___Frances Bean Cobain__1	Default		%default	inv
 frwd fwladwnd	100	PN	[pred="frwd fwladwnd___Frood Fouladvand__1",cat=PN]	frwd fwladwnd___Frood Fouladvand__1	Default		%default	inv
@@ -2459,7 +2459,7 @@ frx tmymy	100	PN	[pred="frx tmymy_____1",cat=PN]	frx tmymy_____1	Default		%defau
 frx_lŕa ewšmnd	100	PN	[pred="frx_lŕa ewšmnd_____1",cat=PN]	frx_lŕa ewšmnd_____1	Default		%default	inv
 frx_rw parsa	100	PN	[pred="frx_rw parsa___Farrokhroo Parsa__1",cat=PN]	frx_rw parsa___Farrokhroo Parsa__1	Default		%default	inv
 frxnde aŕayy	100	PN	[pred="frxnde aŕayy_____1",cat=PN]	frxnde aŕayy_____1	Default		%default	inv
-frxnde łajy_zade	100	PN	[pred="frxnde łajy_zade_____1",cat=PN]	frxnde łajy_zade_____1	Default		%default	inv
+frxnde ħajy_zade	100	PN	[pred="frxnde ħajy_zade_____1",cat=PN]	frxnde ħajy_zade_____1	Default		%default	inv
 frxy systany	100	PN	[pred="frxy systany___Farrukhi Sistani__1",cat=PN]	frxy systany___Farrukhi Sistani__1	Default		%default	inv
 fryar šyrzad	100	PN	[pred="fryar šyrzad___Faryar Shirzad__1",cat=PN]	fryar šyrzad___Faryar Shirzad__1	Default		%default	inv
 fryba kler	100	PN	[pred="fryba kler_____1",cat=PN]	fryba kler_____1	Default		%default	inv
@@ -2472,10 +2472,10 @@ frybrz mrady	100	PN	[pred="frybrz mrady_____1",cat=PN]	frybrz mrady_____1	Defaul
 frybrz şeba	100	PN	[pred="frybrz şeba___Fariborz Sahba__1",cat=PN]	frybrz şeba___Fariborz Sahba__1	Default		%default	inv
 fryd frjad	100	PN	[pred="fryd frjad___Farid Farjad__1",cat=PN]	fryd frjad___Farid Farjad__1	Default		%default	inv
 fryd zland	100	PN	[pred="fryd zland___Farid Zaland__1",cat=PN]	fryd zland___Farid Zaland__1	Default		%default	inv
-fryd ła´ry_nžad	100	PN	[pred="fryd ła´ry_nžad_____1",cat=PN]	fryd ła´ry_nžad_____1	Default		%default	inv
+fryd ħa´ry_nžad	100	PN	[pred="fryd ħa´ry_nžad_____1",cat=PN]	fryd ħa´ry_nžad_____1	Default		%default	inv
 fryda kalw	100	PN	[pred="fryda kalw___Frida Kahlo__1",cat=PN]	fryda kalw___Frida Kahlo__1	Default		%default	inv
 frydaldyn sjzy	100	PN	[pred="frydaldyn sjzy_____1",cat=PN]	frydaldyn sjzy_____1	Default		%default	inv
-frydaldyn łdad 'adl	100	PN	[pred="frydaldyn łdad 'adl_____1",cat=PN]	frydaldyn łdad 'adl_____1	Default		%default	inv
+frydaldyn ħdad 'adl	100	PN	[pred="frydaldyn ħdad 'adl_____1",cat=PN]	frydaldyn ħdad 'adl_____1	Default		%default	inv
 fryde lašayy	100	PN	[pred="fryde lašayy___Farideh Lashai__1",cat=PN]	fryde lašayy___Farideh Lashai__1	Default		%default	inv
 fryde mašyny	100	PN	[pred="fryde mašyny_____1",cat=PN]	fryde mašyny_____1	Default		%default	inv
 fryde medwy damqany	100	PN	[pred="fryde medwy damqany_____1",cat=PN]	fryde medwy damqany_____1	Default		%default	inv
@@ -2529,18 +2529,18 @@ frzad frzyn	100	PN	[pred="frzad frzyn___Farzad Farzin__1",cat=PN]	frzad frzyn___
 frzad gwdrzy	100	PN	[pred="frzad gwdrzy___Farzad goodarzi__1",cat=PN]	frzad gwdrzy___Farzad goodarzi__1	Default		%default	inv
 frzad jšny	100	PN	[pred="frzad jšny_____1",cat=PN]	frzad jšny_____1	Default		%default	inv
 frzad slymy	100	PN	[pred="frzad slymy_____1",cat=PN]	frzad slymy_____1	Default		%default	inv
-frzad łsny	100	PN	[pred="frzad łsny_____1",cat=PN]	frzad łsny_____1	Default		%default	inv
+frzad ħsny	100	PN	[pred="frzad ħsny_____1",cat=PN]	frzad ħsny_____1	Default		%default	inv
 frzane Krm_pwr	100	PN	[pred="frzane Krm_pwr_____1",cat=PN]	frzane Krm_pwr_____1	Default		%default	inv
 frzane kably	100	PN	[pred="frzane kably___Farzaneh Kaboli__1",cat=PN]	frzane kably___Farzaneh Kaboli__1	Default		%default	inv
 frzane taÂ´ydy	100	PN	[pred="frzane taÂ´ydy___Farzaneh Ta'idi__1",cat=PN]	frzane taÂ´ydy___Farzaneh Ta'idi__1	Default		%default	inv
 frzane wrŕa xadm	100	PN	[pred="frzane wrŕa xadm_____1",cat=PN]	frzane wrŕa xadm_____1	Default		%default	inv
 frzane ţaery	100	PN	[pred="frzane ţaery_____1",cat=PN]	frzane ţaery_____1	Default		%default	inv
 frzyn fxr yasry	100	PN	[pred="frzyn fxr yasry___Farzin Fakhr Yaseri__1",cat=PN]	frzyn fxr yasry___Farzin Fakhr Yaseri__1	Default		%default	inv
-frł krymy	100	PN	[pred="frł krymy___Farah Karimi__1",cat=PN]	frł krymy___Farah Karimi__1	Default		%default	inv
-frł nwtaš	100	PN	[pred="frł nwtaš_____1",cat=PN]	frł nwtaš_____1	Default		%default	inv
-frł pelwy	100	PN	[pred="frł pelwy___Farah Pahlavi__1",cat=PN]	frł pelwy___Farah Pahlavi__1	Default		%default	inv
-frł_bxš stwdy nmyn	100	PN	[pred="frł_bxš stwdy nmyn_____1",cat=PN]	frł_bxš stwdy nmyn_____1	Default		%default	inv
-frłnaz mnafy żaer	100	PN	[pred="frłnaz mnafy żaer_____1",cat=PN]	frłnaz mnafy żaer_____1	Default		%default	inv
+frħ krymy	100	PN	[pred="frħ krymy___Farah Karimi__1",cat=PN]	frħ krymy___Farah Karimi__1	Default		%default	inv
+frħ nwtaš	100	PN	[pred="frħ nwtaš_____1",cat=PN]	frħ nwtaš_____1	Default		%default	inv
+frħ pelwy	100	PN	[pred="frħ pelwy___Farah Pahlavi__1",cat=PN]	frħ pelwy___Farah Pahlavi__1	Default		%default	inv
+frħ_bxš stwdy nmyn	100	PN	[pred="frħ_bxš stwdy nmyn_____1",cat=PN]	frħ_bxš stwdy nmyn_____1	Default		%default	inv
+frħnaz mnafy ẓaer	100	PN	[pred="frħnaz mnafy ẓaer_____1",cat=PN]	frħnaz mnafy ẓaer_____1	Default		%default	inv
 frşt_aldwle šyrazy	100	PN	[pred="frşt_aldwle šyrazy_____1",cat=PN]	frşt_aldwle šyrazy_____1	Default		%default	inv
 fršad mwmny	100	PN	[pred="fršad mwmny_____1",cat=PN]	fršad mwmny_____1	Default		%default	inv
 fršad pyws	100	PN	[pred="fršad pyws___Farshad Pious__1",cat=PN]	fršad pyws___Farshad Pious__1	Default		%default	inv
@@ -2553,15 +2553,15 @@ fršyd krymy	100	PN	[pred="fršyd krymy___Farshid Karimi__1",cat=PN]	fršyd krym
 fršyd mwswy	100	PN	[pred="fršyd mwswy___Farshid Moussavi__1",cat=PN]	fršyd mwswy___Farshid Moussavi__1	Default		%default	inv
 ftane	100	PN	[pred="ftane_____1",cat=PN]	ftane_____1	Default		%default	inv
 ftane	100	PN	[pred="ftane_____2",cat=PN]	ftane_____2	Default		%default	inv
-ftane łaj sydjwady	100	PN	[pred="ftane łaj sydjwady_____1",cat=PN]	ftane łaj sydjwady_____1	Default		%default	inv
+ftane ħaj sydjwady	100	PN	[pred="ftane ħaj sydjwady_____1",cat=PN]	ftane ħaj sydjwady_____1	Default		%default	inv
 fts walr	100	PN	[pred="fts walr___Fats Waller__1",cat=PN]	fts walr___Fats Waller__1	Default		%default	inv
-ftł'ly awysy	100	PN	[pred="ftł'ly awysy___Fathali Oveisi__1",cat=PN]	ftł'ly awysy___Fathali Oveisi__1	Default		%default	inv
-ftł'ly xan daqstany	100	PN	[pred="ftł'ly xan daqstany_____1",cat=PN]	ftł'ly xan daqstany_____1	Default		%default	inv
-ftł'ly_xan şbay kašany	100	PN	[pred="ftł'ly_xan şbay kašany_____1",cat=PN]	ftł'ly_xan şbay kašany_____1	Default		%default	inv
-ftł_'ly şba	100	PN	[pred="ftł_'ly şba_____1",cat=PN]	ftł_'ly şba_____1	Default		%default	inv
-ftł_alle amyd njf_abady	100	PN	[pred="ftł_alle amyd njf_abady_____1",cat=PN]	ftł_alle amyd njf_abady_____1	Default		%default	inv
-ftł_alle by_nYaz	100	PN	[pred="ftł_alle by_nYaz_____1",cat=PN]	ftł_alle by_nYaz_____1	Default		%default	inv
-ftły šŕaŕy	100	PN	[pred="ftły šŕaŕy___Fathi Shaqaqi__1",cat=PN]	ftły šŕaŕy___Fathi Shaqaqi__1	Default		%default	inv
+ftħ'ly awysy	100	PN	[pred="ftħ'ly awysy___Fathali Oveisi__1",cat=PN]	ftħ'ly awysy___Fathali Oveisi__1	Default		%default	inv
+ftħ'ly xan daqstany	100	PN	[pred="ftħ'ly xan daqstany_____1",cat=PN]	ftħ'ly xan daqstany_____1	Default		%default	inv
+ftħ'ly_xan şbay kašany	100	PN	[pred="ftħ'ly_xan şbay kašany_____1",cat=PN]	ftħ'ly_xan şbay kašany_____1	Default		%default	inv
+ftħ_'ly şba	100	PN	[pred="ftħ_'ly şba_____1",cat=PN]	ftħ_'ly şba_____1	Default		%default	inv
+ftħ_alle amyd njf_abady	100	PN	[pred="ftħ_alle amyd njf_abady_____1",cat=PN]	ftħ_alle amyd njf_abady_____1	Default		%default	inv
+ftħ_alle by_nYaz	100	PN	[pred="ftħ_alle by_nYaz_____1",cat=PN]	ftħ_alle by_nYaz_____1	Default		%default	inv
+ftħy šŕaŕy	100	PN	[pred="ftħy šŕaŕy___Fathi Shaqaqi__1",cat=PN]	ftħy šŕaŕy___Fathi Shaqaqi__1	Default		%default	inv
 fwad mşţfy slţany	100	PN	[pred="fwad mşţfy slţany___Foad Mostafa Soltani__1",cat=PN]	fwad mşţfy slţany___Foad Mostafa Soltani__1	Default		%default	inv
 fwad pašayy	100	PN	[pred="fwad pašayy_____1",cat=PN]	fwad pašayy_____1	Default		%default	inv
 fwlk brnadwt	100	PN	[pred="fwlk brnadwt___Folke Bernadotte__1",cat=PN]	fwlk brnadwt___Folke Bernadotte__1	Default		%default	inv
@@ -2572,15 +2572,15 @@ fwzye kwfy	100	PN	[pred="fwzye kwfy_____1",cat=PN]	fwzye kwfy_____1	Default		%de
 fwŕy yzdy	100	PN	[pred="fwŕy yzdy_____1",cat=PN]	fwŕy yzdy_____1	Default		%default	inv
 fxr ayran 'nŕa	100	PN	[pred="fxr ayran 'nŕa_____1",cat=PN]	fxr ayran 'nŕa_____1	Default		%default	inv
 fxr zman	100	PN	[pred="fxr zman___Fakhar Zaman__1",cat=PN]	fxr zman___Fakhar Zaman__1	Default		%default	inv
-fxr'żmy arqwn	100	PN	[pred="fxr'żmy arqwn_____1",cat=PN]	fxr'żmy arqwn_____1	Default		%default	inv
+fxr'ẓmy arqwn	100	PN	[pred="fxr'ẓmy arqwn_____1",cat=PN]	fxr'ẓmy arqwn_____1	Default		%default	inv
 fxrafaŕ parsa	100	PN	[pred="fxrafaŕ parsa_____1",cat=PN]	fxrafaŕ parsa_____1	Default		%default	inv
-fxraldYn łjazy	100	PN	[pred="fxraldYn łjazy_____1",cat=PN]	fxraldYn łjazy_____1	Default		%default	inv
+fxraldYn ħjazy	100	PN	[pred="fxraldYn ħjazy_____1",cat=PN]	fxraldYn ħjazy_____1	Default		%default	inv
 fxraldwle	100	PN	[pred="fxraldwle_____1",cat=PN]	fxraldwle_____1	Default		%default	inv
 fxraldyn 'raŕy	100	PN	[pred="fxraldyn 'raŕy___Fakhr-al-Din Iraqi__1",cat=PN]	fxraldyn 'raŕy___Fakhr-al-Din Iraqi__1	Default		%default	inv
 fxraldyn as'd grgany	100	PN	[pred="fxraldyn as'd grgany___Fakhruddin As'ad Gurgani__1",cat=PN]	fxraldyn as'd grgany___Fakhruddin As'ad Gurgani__1	Default		%default	inv
 fxraldyn bxary	100	PN	[pred="fxraldyn bxary_____1",cat=PN]	fxraldyn bxary_____1	Default		%default	inv
 fxraldyn fxraldyny	100	PN	[pred="fxraldyn fxraldyny_____1",cat=PN]	fxraldyn fxraldyny_____1	Default		%default	inv
-fxralsadat młtšmy_pwr	100	PN	[pred="fxralsadat młtšmy_pwr_____1",cat=PN]	fxralsadat młtšmy_pwr_____1	Default		%default	inv
+fxralsadat mħtšmy_pwr	100	PN	[pred="fxralsadat mħtšmy_pwr_____1",cat=PN]	fxralsadat mħtšmy_pwr_____1	Default		%default	inv
 fxry xwrwš	100	PN	[pred="fxry xwrwš_____1",cat=PN]	fxry xwrwš_____1	Default		%default	inv
 fydl kastrw	100	PN	[pred="fydl kastrw___Fidel Castro__1",cat=PN]	fydl kastrw___Fidel Castro__1	Default		%default	inv
 fydl ramws	100	PN	[pred="fydl ramws___Fidel V. Ramos__1",cat=PN]	fydl ramws___Fidel V. Ramos__1	Default		%default	inv
@@ -2601,7 +2601,7 @@ fylyp symwr eafmn	100	PN	[pred="fylyp symwr eafmn___Philip Seymour Hoffman__1",c
 fylyp zymbardw	100	PN	[pred="fylyp zymbardw___Philip Zimbardo__1",cat=PN]	fylyp zymbardw___Philip Zimbardo__1	Default		%default	inv
 fylys akrmn	100	PN	[pred="fylys akrmn_____1",cat=PN]	fylys akrmn_____1	Default		%default	inv
 fynkwrmakws	100	PN	[pred="fynkwrmakws___Fincormachus__1",cat=PN]	fynkwrmakws___Fincormachus__1	Default		%default	inv
-fyrwz bejt młmdy	100	PN	[pred="fyrwz bejt młmdy_____1",cat=PN]	fyrwz bejt młmdy_____1	Default		%default	inv
+fyrwz bejt mħmdy	100	PN	[pred="fyrwz bejt mħmdy_____1",cat=PN]	fyrwz bejt mħmdy_____1	Default		%default	inv
 fyrwz gandy	100	PN	[pred="fyrwz gandy___Feroze Gandhi__1",cat=PN]	fyrwz gandy___Feroze Gandhi__1	Default		%default	inv
 fyrwz krymy	100	PN	[pred="fyrwz krymy___Firouz Karimi__1",cat=PN]	fyrwz krymy___Firouz Karimi__1	Default		%default	inv
 fyrwz mšrŕy	100	PN	[pred="fyrwz mšrŕy_____1",cat=PN]	fyrwz mšrŕy_____1	Default		%default	inv
@@ -2615,14 +2615,14 @@ fywdwr tywtčf	100	PN	[pred="fywdwr tywtčf___Fyodor Tyutchev__1",cat=PN]	fywdwr
 fywna apl	100	PN	[pred="fywna apl___Fiona Apple__1",cat=PN]	fywna apl___Fiona Apple__1	Default		%default	inv
 fyçaqwrs	100	PN	[pred="fyçaqwrs___Pythagoras__1",cat=PN]	fyçaqwrs___Pythagoras__1	Default		%default	inv
 fyź alle lţyf	100	PN	[pred="fyź alle lţyf___Fauziah Latiff__1",cat=PN]	fyź alle lţyf___Fauziah Latiff__1	Default		%default	inv
-fyź ałmd	100	PN	[pred="fyź ałmd___Faiz Ahmad__1",cat=PN]	fyź ałmd___Faiz Ahmad__1	Default		%default	inv
+fyź aħmd	100	PN	[pred="fyź aħmd___Faiz Ahmad__1",cat=PN]	fyź aħmd___Faiz Ahmad__1	Default		%default	inv
 f´wdwr dastaywsky	100	PN	[pred="f´wdwr dastaywsky___Fyodor Dostoyevsky__1",cat=PN]	f´wdwr dastaywsky___Fyodor Dostoyevsky__1	Default		%default	inv
 fŕye slţany	100	PN	[pred="fŕye slţany_____1",cat=PN]	fŕye slţany_____1	Default		%default	inv
 fŕyee slţany	100	PN	[pred="fŕyee slţany_____1",cat=PN]	fŕyee slţany_____1	Default		%default	inv
 fŕyr nby	100	PN	[pred="fŕyr nby_____1",cat=PN]	fŕyr nby_____1	Default		%default	inv
 fźl bn šađan	100	PN	[pred="fźl bn šađan_____1",cat=PN]	fźl bn šađan_____1	Default		%default	inv
 fźl_alle sawjy	100	PN	[pred="fźl_alle sawjy_____1",cat=PN]	fźl_alle sawjy_____1	Default		%default	inv
-fźl_ałmd pyman	100	PN	[pred="fźl_ałmd pyman_____1",cat=PN]	fźl_ałmd pyman_____1	Default		%default	inv
+fźl_aħmd pyman	100	PN	[pred="fźl_aħmd pyman_____1",cat=PN]	fźl_aħmd pyman_____1	Default		%default	inv
 gabryl batystwta	100	PN	[pred="gabryl batystwta___Gabriel Batistuta__1",cat=PN]	gabryl batystwta___Gabriel Batistuta__1	Default		%default	inv
 gabryl danyl farneayt	100	PN	[pred="gabryl danyl farneayt___Daniel Gabriel Fahrenheit__1",cat=PN]	gabryl danyl farneayt___Daniel Gabriel Fahrenheit__1	Default		%default	inv
 gabryl fwre	100	PN	[pred="gabryl fwre___Gabriel Fauré__1",cat=PN]	gabryl fwre___Gabriel Fauré__1	Default		%default	inv
@@ -2756,13 +2756,13 @@ j'fr mdrs şadŕy	100	PN	[pred="j'fr mdrs şadŕy___Jaafar Modarres-Sadeghi__1",
 j'fr merad	100	PN	[pred="j'fr merad_____1",cat=PN]	j'fr merad_____1	Default		%default	inv
 j'fr pnaey	100	PN	[pred="j'fr pnaey___Jafar Panahi__1",cat=PN]	j'fr pnaey___Jafar Panahi__1	Default		%default	inv
 j'fr rswly	100	PN	[pred="j'fr rswly_____1",cat=PN]	j'fr rswly_____1	Default		%default	inv
-j'fr sbłany	100	PN	[pred="j'fr sbłany_____1",cat=PN]	j'fr sbłany_____1	Default		%default	inv
+j'fr sbħany	100	PN	[pred="j'fr sbħany_____1",cat=PN]	j'fr sbħany_____1	Default		%default	inv
 j'fr ŕly şdry	100	PN	[pred="j'fr ŕly şdry_____1",cat=PN]	j'fr ŕly şdry_____1	Default		%default	inv
 j'fr š'ar	100	PN	[pred="j'fr š'ar_____1",cat=PN]	j'fr š'ar_____1	Default		%default	inv
 j'fr šery	100	PN	[pred="j'fr šery_____1",cat=PN]	j'fr šery_____1	Default		%default	inv
 j'fr šjwny	100	PN	[pred="j'fr šjwny_____1",cat=PN]	j'fr šjwny_____1	Default		%default	inv
 jabr 'bas_zade	100	PN	[pred="jabr 'bas_zade_____1",cat=PN]	jabr 'bas_zade_____1	Default		%default	inv
-jabr bn łyan	100	PN	[pred="jabr bn łyan___Geber__1",cat=PN]	jabr bn łyan___Geber__1	Default		%default	inv
+jabr bn ħyan	100	PN	[pred="jabr bn ħyan___Geber__1",cat=PN]	jabr bn ħyan___Geber__1	Default		%default	inv
 jabr ŕasm'ly	100	PN	[pred="jabr ŕasm'ly___Jaber Qasemali__1",cat=PN]	jabr ŕasm'ly___Jaber Qasemali__1	Default		%default	inv
 jakwb zwma	100	PN	[pred="jakwb zwma___Jacob Zuma__1",cat=PN]	jakwb zwma___Jacob Zuma__1	Default		%default	inv
 jakwmw bala	100	PN	[pred="jakwmw bala_____1",cat=PN]	jakwmw bala_____1	Default		%default	inv
@@ -2879,7 +2879,7 @@ jbran twyny	100	PN	[pred="jbran twyny___Gebran Tueni__1",cat=PN]	jbran twyny___G
 jbran xlyl jbran	100	PN	[pred="jbran xlyl jbran___Khalil Gibran__1",cat=PN]	jbran xlyl jbran___Khalil Gibran__1	Default		%default	inv
 jean dr pwst grdw	100	PN	[pred="jean dr pwst grdw___The Universe in a Nutshell__1",cat=PN]	jean dr pwst grdw___The Universe in a Nutshell__1	Default		%default	inv
 jean_mlk xatwn	100	PN	[pred="jean_mlk xatwn_____1",cat=PN]	jean_mlk xatwn_____1	Default		%default	inv
-jean_âra bygm	100	PN	[pred="jean_âra bygm___Jahanara Begum Sahib__1",cat=PN]	jean_âra bygm___Jahanara Begum Sahib__1	Default		%default	inv
+jean_āra bygm	100	PN	[pred="jean_āra bygm___Jahanara Begum Sahib__1",cat=PN]	jean_āra bygm___Jahanara Begum Sahib__1	Default		%default	inv
 jeanbxš pazwky	100	PN	[pred="jeanbxš pazwky_____1",cat=PN]	jeanbxš pazwky_____1	Default		%default	inv
 jeangyr almasy	100	PN	[pred="jeangyr almasy_____1",cat=PN]	jeangyr almasy_____1	Default		%default	inv
 jeangyr frwer	100	PN	[pred="jeangyr frwer___Jahangir Forouhar__1",cat=PN]	jeangyr frwer___Jahangir Forouhar__1	Default		%default	inv
@@ -2889,7 +2889,7 @@ jeangyr rzmy	100	PN	[pred="jeangyr rzmy___Jahangir Razmi__1",cat=PN]	jeangyr rzm
 jeangyrxan ŕšŕayy	100	PN	[pred="jeangyrxan ŕšŕayy_____1",cat=PN]	jeangyrxan ŕšŕayy_____1	Default		%default	inv
 jeangyrxan šyrazy	100	PN	[pred="jeangyrxan šyrazy___Jahangir-Khan Sur-e-Esrafil__1",cat=PN]	jeangyrxan šyrazy___Jahangir-Khan Sur-e-Esrafil__1	Default		%default	inv
 jeanjw j'fry	100	PN	[pred="jeanjw j'fry_____1",cat=PN]	jeanjw j'fry_____1	Default		%default	inv
-jeanšae şalł	100	PN	[pred="jeanšae şalł_____1",cat=PN]	jeanšae şalł_____1	Default		%default	inv
+jeanšae şalħ	100	PN	[pred="jeanšae şalħ_____1",cat=PN]	jeanšae şalħ_____1	Default		%default	inv
 jf bk	100	PN	[pred="jf bk___Jeff Beck__1",cat=PN]	jf bk___Jeff Beck__1	Default		%default	inv
 jf bryjz	100	PN	[pred="jf bryjz___Jeff Bridges__1",cat=PN]	jf bryjz___Jeff Bridges__1	Default		%default	inv
 jf bwkly	100	PN	[pred="jf bwkly___Jeff Buckley__1",cat=PN]	jf bwkly___Jeff Buckley__1	Default		%default	inv
@@ -2911,7 +2911,7 @@ jkswn pwlak	100	PN	[pred="jkswn pwlak___Jackson Pollock__1",cat=PN]	jkswn pwlak_
 jky čan	100	PN	[pred="jky čan___Jackie Chan__1",cat=PN]	jky čan___Jackie Chan__1	Default		%default	inv
 jlal akbry	100	PN	[pred="jlal akbry___Jalal Akbari__1",cat=PN]	jlal akbry___Jalal Akbari__1	Default		%default	inv
 jlal akramy	100	PN	[pred="jlal akramy_____1",cat=PN]	jlal akramy_____1	Default		%default	inv
-jlal al_ałmd	100	PN	[pred="jlal al_ałmd___Jalal Al-e-Ahmad__1",cat=PN]	jlal al_ałmd___Jalal Al-e-Ahmad__1	Default		%default	inv
+jlal al_aħmd	100	PN	[pred="jlal al_aħmd___Jalal Al-e-Ahmad__1",cat=PN]	jlal al_aħmd___Jalal Al-e-Ahmad__1	Default		%default	inv
 jlal aldyn ema´y	100	PN	[pred="jlal aldyn ema´y___Jalal Homaei__1",cat=PN]	jlal aldyn ema´y___Jalal Homaei__1	Default		%default	inv
 jlal emty	100	PN	[pred="jlal emty_____1",cat=PN]	jlal emty_____1	Default		%default	inv
 jlal jlaly_zade	100	PN	[pred="jlal jlaly_zade_____1",cat=PN]	jlal jlaly_zade_____1	Default		%default	inv
@@ -2922,11 +2922,11 @@ jlal ţalbany	100	PN	[pred="jlal ţalbany___Jalal Talabani__1",cat=PN]	jlal ţal
 jlal ţalby	100	PN	[pred="jlal ţalby___Jalal Talebi__1",cat=PN]	jlal ţalby___Jalal Talebi__1	Default		%default	inv
 jlal_aldyn fŕye aymany	100	PN	[pred="jlal_aldyn fŕye aymany_____1",cat=PN]	jlal_aldyn fŕye aymany_____1	Default		%default	inv
 jlal_aldyn kzazy	100	PN	[pred="jlal_aldyn kzazy_____1",cat=PN]	jlal_aldyn kzazy_____1	Default		%default	inv
-jlal_aldyn młmd blxy	100	PN	[pred="jlal_aldyn młmd blxy___Rumi__1",cat=PN]	jlal_aldyn młmd blxy___Rumi__1	Default		%default	inv
+jlal_aldyn mħmd blxy	100	PN	[pred="jlal_aldyn mħmd blxy___Rumi__1",cat=PN]	jlal_aldyn mħmd blxy___Rumi__1	Default		%default	inv
 jlal_aldyn terany	100	PN	[pred="jlal_aldyn terany_____1",cat=PN]	jlal_aldyn terany_____1	Default		%default	inv
 jlal_aldyn ţaery aşfeany	100	PN	[pred="jlal_aldyn ţaery aşfeany___Jalal Al-Din Taheri__1",cat=PN]	jlal_aldyn ţaery aşfeany___Jalal Al-Din Taheri__1	Default		%default	inv
 jlyl dwstxwae	100	PN	[pred="jlyl dwstxwae_____1",cat=PN]	jlyl dwstxwae_____1	Default		%default	inv
-jlyl młmdŕly_zade	100	PN	[pred="jlyl młmdŕly_zade___Jalil Mammadguluzadeh__1",cat=PN]	jlyl młmdŕly_zade___Jalil Mammadguluzadeh__1	Default		%default	inv
+jlyl mħmdŕly_zade	100	PN	[pred="jlyl mħmdŕly_zade___Jalil Mammadguluzadeh__1",cat=PN]	jlyl mħmdŕly_zade___Jalil Mammadguluzadeh__1	Default		%default	inv
 jlyl zland	100	PN	[pred="jlyl zland___Jalil Zaland__1",cat=PN]	jlyl zland___Jalil Zaland__1	Default		%default	inv
 jlyl źya°pwr	100	PN	[pred="jlyl źya°pwr___Jalil Ziapour__1",cat=PN]	jlyl źya°pwr___Jalil Ziapour__1	Default		%default	inv
 jm	100	PN	[pred="jm___Jem (singer)__1",cat=PN]	jm___Jem (singer)__1	Default		%default	inv
@@ -2941,7 +2941,7 @@ jmal myrşadŕy	100	PN	[pred="jmal myrşadŕy___Jamal Mirsadeghi__1",cat=PN]	jma
 jmal wfayy	100	PN	[pred="jmal wfayy_____1",cat=PN]	jmal wfayy_____1	Default		%default	inv
 jmal šwrje	100	PN	[pred="jmal šwrje_____1",cat=PN]	jmal šwrje_____1	Default		%default	inv
 jmal_aldyn 'bdalrzaŕ aşfeany	100	PN	[pred="jmal_aldyn 'bdalrzaŕ aşfeany_____1",cat=PN]	jmal_aldyn 'bdalrzaŕ aşfeany_____1	Default		%default	inv
-jmal_aldyn wa'ż aşfeany	100	PN	[pred="jmal_aldyn wa'ż aşfeany_____1",cat=PN]	jmal_aldyn wa'ż aşfeany_____1	Default		%default	inv
+jmal_aldyn wa'ẓ aşfeany	100	PN	[pred="jmal_aldyn wa'ẓ aşfeany_____1",cat=PN]	jmal_aldyn wa'ẓ aşfeany_____1	Default		%default	inv
 jmyl şdŕy zeawy	100	PN	[pred="jmyl şdŕy zeawy___Jamil Sidqi al-Zahawi__1",cat=PN]	jmyl şdŕy zeawy___Jamil Sidqi al-Zahawi__1	Default		%default	inv
 jmyle	100	PN	[pred="jmyle_____1",cat=PN]	jmyle_____1	Default		%default	inv
 jmyle bwpaša	100	PN	[pred="jmyle bwpaša_____1",cat=PN]	jmyle bwpaša_____1	Default		%default	inv
@@ -3000,7 +3000,7 @@ jry garsya	100	PN	[pred="jry garsya___Jerry Garcia__1",cat=PN]	jry garsya___Jerr
 jry kntrl	100	PN	[pred="jry kntrl___Jerry Cantrell__1",cat=PN]	jry kntrl___Jerry Cantrell__1	Default		%default	inv
 jry lw´ys	100	PN	[pred="jry lw´ys___Jerry Lewis__1",cat=PN]	jry lw´ys___Jerry Lewis__1	Default		%default	inv
 jry malygn	100	PN	[pred="jry malygn___Gerry Mulligan__1",cat=PN]	jry malygn___Gerry Mulligan__1	Default		%default	inv
-jry âdamz	100	PN	[pred="jry âdamz___Gerry Adams__1",cat=PN]	jry âdamz___Gerry Adams__1	Default		%default	inv
+jry ādamz	100	PN	[pred="jry ādamz___Gerry Adams__1",cat=PN]	jry ādamz___Gerry Adams__1	Default		%default	inv
 jrzy kwzynsky	100	PN	[pred="jrzy kwzynsky___Jerzy Kosinski__1",cat=PN]	jrzy kwzynsky___Jerzy Kosinski__1	Default		%default	inv
 jsy awnz	100	PN	[pred="jsy awnz___Jesse Owens__1",cat=PN]	jsy awnz___Jesse Owens__1	Default		%default	inv
 jsy brnard	100	PN	[pred="jsy brnard___Jessie Bernard__1",cat=PN]	jsy brnard___Jessie Bernard__1	Default		%default	inv
@@ -3022,11 +3022,11 @@ jwad 'lyzade	100	PN	[pred="jwad 'lyzade_____1",cat=PN]	jwad 'lyzade_____1	Defaul
 jwad bdy'_zade	100	PN	[pred="jwad bdy'_zade___Javad Badizadeh__1",cat=PN]	jwad bdy'_zade___Javad Badizadeh__1	Default		%default	inv
 jwad faźl	100	PN	[pred="jwad faźl_____1",cat=PN]	jwad faźl_____1	Default		%default	inv
 jwad fkwry	100	PN	[pred="jwad fkwry___Javad Fakori__1",cat=PN]	jwad fkwry___Javad Fakori__1	Default		%default	inv
-jwad kaáżmyan	100	PN	[pred="jwad kaáżmyan___Javad Kazemian__1",cat=PN]	jwad kaáżmyan___Javad Kazemian__1	Default		%default	inv
+jwad kaáẓmyan	100	PN	[pred="jwad kaáẓmyan___Javad Kazemian__1",cat=PN]	jwad kaáẓmyan___Javad Kazemian__1	Default		%default	inv
 jwad m'rwfy	100	PN	[pred="jwad m'rwfy___Javad Maroufi__1",cat=PN]	jwad m'rwfy___Javad Maroufi__1	Default		%default	inv
 jwad mjaby	100	PN	[pred="jwad mjaby___Javad Mojabi__1",cat=PN]	jwad mjaby___Javad Mojabi__1	Default		%default	inv
 jwad mnaŕby	100	PN	[pred="jwad mnaŕby_____1",cat=PN]	jwad mnaŕby_____1	Default		%default	inv
-jwad młdçy	100	PN	[pred="jwad młdçy_____1",cat=PN]	jwad młdçy_____1	Default		%default	inv
+jwad mħdçy	100	PN	[pred="jwad mħdçy_____1",cat=PN]	jwad mħdçy_____1	Default		%default	inv
 jwad nkwnam	100	PN	[pred="jwad nkwnam___Javad Nekounam__1",cat=PN]	jwad nkwnam___Javad Nekounam__1	Default		%default	inv
 jwad nwrbxš	100	PN	[pred="jwad nwrbxš___Javad Nurbakhsh__1",cat=PN]	jwad nwrbxš___Javad Nurbakhsh__1	Default		%default	inv
 jwad pzškyan	100	PN	[pred="jwad pzškyan_____1",cat=PN]	jwad pzškyan_____1	Default		%default	inv
@@ -3035,7 +3035,7 @@ jwad xyabany	100	PN	[pred="jwad xyabany_____1",cat=PN]	jwad xyabany_____1	Defaul
 jwad ysary	100	PN	[pred="jwad ysary___Javad Yasari__1",cat=PN]	jwad ysary___Javad Yasari__1	Default		%default	inv
 jwad zrynče	100	PN	[pred="jwad zrynče___Javad Zarincheh__1",cat=PN]	jwad zrynče___Javad Zarincheh__1	Default		%default	inv
 jwad đakr	100	PN	[pred="jwad đakr_____1",cat=PN]	jwad đakr_____1	Default		%default	inv
-jwad şalły	100	PN	[pred="jwad şalły___Jawad Salehi__1",cat=PN]	jwad şalły___Jawad Salehi__1	Default		%default	inv
+jwad şalħy	100	PN	[pred="jwad şalħy___Jawad Salehi__1",cat=PN]	jwad şalħy___Jawad Salehi__1	Default		%default	inv
 jwad şfa	100	PN	[pred="jwad şfa_____1",cat=PN]	jwad şfa_____1	Default		%default	inv
 jwad šmŕdry	100	PN	[pred="jwad šmŕdry___Javad_Shamaqdari__1",cat=PN]	jwad šmŕdry___Javad_Shamaqdari__1	Default		%default	inv
 jwad šryf_pwr	100	PN	[pred="jwad šryf_pwr_____1",cat=PN]	jwad šryf_pwr_____1	Default		%default	inv
@@ -3094,7 +3094,7 @@ jwrj mynwt	100	PN	[pred="jwrj mynwt___George Minot__1",cat=PN]	jwrj mynwt___Geor
 jwrj tnt	100	PN	[pred="jwrj tnt___George Tenet__1",cat=PN]	jwrj tnt___George Tenet__1	Default		%default	inv
 jwrj wašngtn gwtals	100	PN	[pred="jwrj wašngtn gwtals___George Washington Goethals__1",cat=PN]	jwrj wašngtn gwtals___George Washington Goethals__1	Default		%default	inv
 jwrj wypl	100	PN	[pred="jwrj wypl___George Whipple__1",cat=PN]	jwrj wypl___George Whipple__1	Default		%default	inv
-jwrj łbš	100	PN	[pred="jwrj łbš___George Habash__1",cat=PN]	jwrj łbš___George Habash__1	Default		%default	inv
+jwrj ħbš	100	PN	[pred="jwrj ħbš___George Habash__1",cat=PN]	jwrj ħbš___George Habash__1	Default		%default	inv
 jwrjw agambn	100	PN	[pred="jwrjw agambn___Giorgio Agamben__1",cat=PN]	jwrjw agambn___Giorgio Agamben__1	Default		%default	inv
 jwrjw napwlytanw	100	PN	[pred="jwrjw napwlytanw___Giorgio Napolitano__1",cat=PN]	jwrjw napwlytanw___Giorgio Napolitano__1	Default		%default	inv
 jwrjynyw	100	PN	[pred="jwrjynyw___Jorginho__1",cat=PN]	jwrjynyw___Jorginho__1	Default		%default	inv
@@ -3129,7 +3129,7 @@ jw´l šwmaxr	100	PN	[pred="jw´l šwmaxr___Joel Schumacher__1",cat=PN]	jw´l š
 jwÂ´l	100	PN	[pred="jwÂ´l___Jewel (singer)__1",cat=PN]	jwÂ´l___Jewel (singer)__1	Default		%default	inv
 jwÂ´l barlw	100	PN	[pred="jwÂ´l barlw___Joel Barlow__1",cat=PN]	jwÂ´l barlw___Joel Barlow__1	Default		%default	inv
 jy. dy. salynjr	100	PN	[pred="jy. dy. salynjr___J. D. Salinger__1",cat=PN]	jy. dy. salynjr___J. D. Salinger__1	Default		%default	inv
-jy. jy. âbramz	100	PN	[pred="jy. jy. âbramz___J. J. Abrams__1",cat=PN]	jy. jy. âbramz___J. J. Abrams__1	Default		%default	inv
+jy. jy. ābramz	100	PN	[pred="jy. jy. ābramz___J. J. Abrams__1",cat=PN]	jy. jy. ābramz___J. J. Abrams__1	Default		%default	inv
 jy_jy dy_agwstynw	100	PN	[pred="jy_jy dy_agwstynw___Gigi D'Agostino__1",cat=PN]	jy_jy dy_agwstynw___Gigi D'Agostino__1	Default		%default	inv
 jyan karlw mnwty	100	PN	[pred="jyan karlw mnwty___Gian Carlo Menotti__1",cat=PN]	jyan karlw mnwty___Gian Carlo Menotti__1	Default		%default	inv
 jyan lwÂ´yjy bwfwn	100	PN	[pred="jyan lwÂ´yjy bwfwn___Gianluigi Buffon__1",cat=PN]	jyan lwÂ´yjy bwfwn___Gianluigi Buffon__1	Default		%default	inv
@@ -3238,7 +3238,7 @@ karl apl	100	PN	[pred="karl apl___Karel Appel__1",cat=PN]	karl apl___Karel Appel
 karl arf	100	PN	[pred="karl arf___Carl Orff__1",cat=PN]	karl arf___Carl Orff__1	Default		%default	inv
 karl ašpytlr	100	PN	[pred="karl ašpytlr___Carl Spitteler__1",cat=PN]	karl ašpytlr___Carl Spitteler__1	Default		%default	inv
 karl dwnytz	100	PN	[pred="karl dwnytz___Karl Dönitz__1",cat=PN]	karl dwnytz___Karl Dönitz__1	Default		%default	inv
-karl dywyd ândrswn	100	PN	[pred="karl dywyd ândrswn___Carl David Anderson__1",cat=PN]	karl dywyd ândrswn___Carl David Anderson__1	Default		%default	inv
+karl dywyd āndrswn	100	PN	[pred="karl dywyd āndrswn___Carl David Anderson__1",cat=PN]	karl dywyd āndrswn___Carl David Anderson__1	Default		%default	inv
 karl eayns rwmnyge	100	PN	[pred="karl eayns rwmnyge___Karl-Heinz Rummenigge__1",cat=PN]	karl eayns rwmnyge___Karl-Heinz Rummenigge__1	Default		%default	inv
 karl eaynz aštwkeawzn	100	PN	[pred="karl eaynz aštwkeawzn___Karlheinz Stockhausen__1",cat=PN]	karl eaynz aštwkeawzn___Karlheinz Stockhausen__1	Default		%default	inv
 karl frdynand brwn	100	PN	[pred="karl frdynand brwn___Karl Ferdinand Braun__1",cat=PN]	karl frdynand brwn___Karl Ferdinand Braun__1	Default		%default	inv
@@ -3297,21 +3297,21 @@ katryna wn bwra	100	PN	[pred="katryna wn bwra___Katharina Luther__1",cat=PN]	kat
 kawe 'ly pwr	100	PN	[pred="kawe 'ly pwr_____1",cat=PN]	kawe 'ly pwr_____1	Default		%default	inv
 kawe glstan	100	PN	[pred="kawe glstan___Kaveh Golestan__1",cat=PN]	kawe glstan___Kaveh Golestan__1	Default		%default	inv
 kawe meraby	100	PN	[pred="kawe meraby___Kaveh Mehrabi__1",cat=PN]	kawe meraby___Kaveh Mehrabi__1	Default		%default	inv
-kawe máżfry	100	PN	[pred="kawe máżfry_____1",cat=PN]	kawe máżfry_____1	Default		%default	inv
+kawe máẓfry	100	PN	[pred="kawe máẓfry_____1",cat=PN]	kawe máẓfry_____1	Default		%default	inv
 kawe yqmayy	100	PN	[pred="kawe yqmayy___Kaveh Yaghmaei__1",cat=PN]	kawe yqmayy___Kaveh Yaghmaei__1	Default		%default	inv
 kawe zaedy	100	PN	[pred="kawe zaedy___Caveh Zahedi__1",cat=PN]	kawe zaedy___Caveh Zahedi__1	Default		%default	inv
 kay eansn	100	PN	[pred="kay eansn___Kai Hansen__1",cat=PN]	kay eansn___Kai Hansen__1	Default		%default	inv
 kayly mynwg	100	PN	[pred="kayly mynwg___Kylie Minogue__1",cat=PN]	kayly mynwg___Kylie Minogue__1	Default		%default	inv
 kazw´w ayšy_gwrw	100	PN	[pred="kazw´w ayšy_gwrw___Kazuo Ishiguro__1",cat=PN]	kazw´w ayšy_gwrw___Kazuo Ishiguro__1	Default		%default	inv
-kaáżm člypa	100	PN	[pred="kaáżm člypa_____1",cat=PN]	kaáżm člypa_____1	Default		%default	inv
+kaáẓm člypa	100	PN	[pred="kaáẓm člypa_____1",cat=PN]	kaáẓm člypa_____1	Default		%default	inv
 kažymyž nwak	100	PN	[pred="kažymyž nwak___Kazimierz Nowak__1",cat=PN]	kažymyž nwak___Kazimierz Nowak__1	Default		%default	inv
-każm alsaer	100	PN	[pred="każm alsaer___Kathem Al Saher__1",cat=PN]	każm alsaer___Kathem Al Saher__1	Default		%default	inv
-każm ežyrazad	100	PN	[pred="każm ežyrazad___Kazem HajirAzad__1",cat=PN]	każm ežyrazad___Kazem HajirAzad__1	Default		%default	inv
-każm rjby	100	PN	[pred="każm rjby_____1",cat=PN]	każm rjby_____1	Default		%default	inv
-każm samy krmany	100	PN	[pred="każm samy krmany___Kazem Sami__1",cat=PN]	każm samy krmany___Kazem Sami__1	Default		%default	inv
+kaẓm alsaer	100	PN	[pred="kaẓm alsaer___Kathem Al Saher__1",cat=PN]	kaẓm alsaer___Kathem Al Saher__1	Default		%default	inv
+kaẓm ežyrazad	100	PN	[pred="kaẓm ežyrazad___Kazem HajirAzad__1",cat=PN]	kaẓm ežyrazad___Kazem HajirAzad__1	Default		%default	inv
+kaẓm rjby	100	PN	[pred="kaẓm rjby_____1",cat=PN]	kaẓm rjby_____1	Default		%default	inv
+kaẓm samy krmany	100	PN	[pred="kaẓm samy krmany___Kazem Sami__1",cat=PN]	kaẓm samy krmany___Kazem Sami__1	Default		%default	inv
 kbra s'ydy	100	PN	[pred="kbra s'ydy_____1",cat=PN]	kbra s'ydy_____1	Default		%default	inv
 klara ztkyn	100	PN	[pred="klara ztkyn___Clara Zetkin__1",cat=PN]	klara ztkyn___Clara Zetkin__1	Default		%default	inv
-klara âbkar	100	PN	[pred="klara âbkar_____1",cat=PN]	klara âbkar_____1	Default		%default	inv
+klara ābkar	100	PN	[pred="klara ābkar_____1",cat=PN]	klara ābkar_____1	Default		%default	inv
 klark gybl	100	PN	[pred="klark gybl___Clark Gable__1",cat=PN]	klark gybl___Clark Gable__1	Default		%default	inv
 klawdya lynks	100	PN	[pred="klawdya lynks___Claudia Lynx__1",cat=PN]	klawdya lynks___Claudia Lynx__1	Default		%default	inv
 klawdya swbrwn	100	PN	[pred="klawdya swbrwn___Claudia Soberón__1",cat=PN]	klawdya swbrwn___Claudia Soberón__1	Default		%default	inv
@@ -3349,7 +3349,7 @@ kmal xjndy	100	PN	[pred="kmal xjndy_____1",cat=PN]	kmal xjndy_____1	Default		%de
 kmal ţrawty	100	PN	[pred="kmal ţrawty_____1",cat=PN]	kmal ţrawty_____1	Default		%default	inv
 kmal_aldyn asma'yl	100	PN	[pred="kmal_aldyn asma'yl_____1",cat=PN]	kmal_aldyn asma'yl_____1	Default		%default	inv
 kmal_aldyn aşfeany	100	PN	[pred="kmal_aldyn aşfeany_____1",cat=PN]	kmal_aldyn aşfeany_____1	Default		%default	inv
-kmal_aldyn bezad	100	PN	[pred="kmal_aldyn bezad___Kamâl ud-Din Behzad__1",cat=PN]	kmal_aldyn bezad___Kamâl ud-Din Behzad__1	Default		%default	inv
+kmal_aldyn bezad	100	PN	[pred="kmal_aldyn bezad___Kamāl ud-Din Behzad__1",cat=PN]	kmal_aldyn bezad___Kamāl ud-Din Behzad__1	Default		%default	inv
 kmal_aldyn jnab	100	PN	[pred="kmal_aldyn jnab___Kamaloddin Jenab__1",cat=PN]	kmal_aldyn jnab___Kamaloddin Jenab__1	Default		%default	inv
 kmal_almlk	100	PN	[pred="kmal_almlk___Kamal-ol-molk__1",cat=PN]	kmal_almlk___Kamal-ol-molk__1	Default		%default	inv
 kmnd amyrslymany	100	PN	[pred="kmnd amyrslymany_____1",cat=PN]	kmnd amyrslymany_____1	Default		%default	inv
@@ -3364,7 +3364,7 @@ knnbal adrly	100	PN	[pred="knnbal adrly___Cannonball Adderley__1",cat=PN]	knnbal
 knnysa bkle	100	PN	[pred="knnysa bkle___Kenenisa Bekele__1",cat=PN]	knnysa bkle___Kenenisa Bekele__1	Default		%default	inv
 knrad adnawr	100	PN	[pred="knrad adnawr___Konrad Adenauer__1",cat=PN]	knrad adnawr___Konrad Adenauer__1	Default		%default	inv
 knstantyn astanyslawsky	100	PN	[pred="knstantyn astanyslawsky___Constantin Stanislavski__1",cat=PN]	knstantyn astanyslawsky___Constantin Stanislavski__1	Default		%default	inv
-knstantyn brankwzy	100	PN	[pred="knstantyn brankwzy___Constantin Brâncuşi__1",cat=PN]	knstantyn brankwzy___Constantin Brâncuşi__1	Default		%default	inv
+knstantyn brankwzy	100	PN	[pred="knstantyn brankwzy___Constantin Brāncuşi__1",cat=PN]	knstantyn brankwzy___Constantin Brāncuşi__1	Default		%default	inv
 knstantyn kawafy	100	PN	[pred="knstantyn kawafy___Constantine P. Cavafy__1",cat=PN]	knstantyn kawafy___Constantine P. Cavafy__1	Default		%default	inv
 knstantyn symwnwf	100	PN	[pred="knstantyn symwnwf___Konstantin Simonov__1",cat=PN]	knstantyn symwnwf___Konstantin Simonov__1	Default		%default	inv
 knstantyn tsywlkwfsky	100	PN	[pred="knstantyn tsywlkwfsky___Konstantin Tsiolkovsky__1",cat=PN]	knstantyn tsywlkwfsky___Konstantin Tsiolkovsky__1	Default		%default	inv
@@ -3373,7 +3373,7 @@ knt wylsn	100	PN	[pred="knt wylsn___Kenneth G. Wilson__1",cat=PN]	knt wylsn___Ke
 knwt eamswn	100	PN	[pred="knwt eamswn___Knut Hamsun__1",cat=PN]	knwt eamswn___Knut Hamsun__1	Default		%default	inv
 kny jy	100	PN	[pred="kny jy___Kenny G__1",cat=PN]	kny jy___Kenny G__1	Default		%default	inv
 kny rajrz	100	PN	[pred="kny rajrz___Kenny Rogers__1",cat=PN]	kny rajrz___Kenny Rogers__1	Default		%default	inv
-knza frł	100	PN	[pred="knza frł___Kenza Farah__1",cat=PN]	knza frł___Kenza Farah__1	Default		%default	inv
+knza frħ	100	PN	[pred="knza frħ___Kenza Farah__1",cat=PN]	knza frħ___Kenza Farah__1	Default		%default	inv
 knzabwrw aw´e	100	PN	[pred="knzabwrw aw´e___Kenzaburo Oe__1",cat=PN]	knzabwrw aw´e___Kenzaburo Oe__1	Default		%default	inv
 knzw tange	100	PN	[pred="knzw tange___Kenzo Tange__1",cat=PN]	knzw tange___Kenzo Tange__1	Default		%default	inv
 kramt_alle danšyan	100	PN	[pred="kramt_alle danšyan_____1",cat=PN]	kramt_alle danšyan_____1	Default		%default	inv
@@ -3385,7 +3385,7 @@ krt kwbyn	100	PN	[pred="krt kwbyn___Kurt Cobain__1",cat=PN]	krt kwbyn___Kurt Cob
 kry an mws	100	PN	[pred="kry an mws___Carrie-Anne Moss__1",cat=PN]	kry an mws___Carrie-Anne Moss__1	Default		%default	inv
 kry grant	100	PN	[pred="kry grant___Cary Grant__1",cat=PN]	kry grant___Cary Grant__1	Default		%default	inv
 kry kyng	100	PN	[pred="kry kyng___Kerry King__1",cat=PN]	kry kyng___Kerry King__1	Default		%default	inv
-kry ândrwwd	100	PN	[pred="kry ândrwwd___Carrie Underwood__1",cat=PN]	kry ândrwwd___Carrie Underwood__1	Default		%default	inv
+kry āndrwwd	100	PN	[pred="kry āndrwwd___Carrie Underwood__1",cat=PN]	kry āndrwwd___Carrie Underwood__1	Default		%default	inv
 kryg alwwd	100	PN	[pred="kryg alwwd___Craig Ellwood__1",cat=PN]	kryg alwwd___Craig Ellwood__1	Default		%default	inv
 krym 'bdaljbar	100	PN	[pred="krym 'bdaljbar___Kareem Abdul-Jabbar__1",cat=PN]	krym 'bdaljbar___Kareem Abdul-Jabbar__1	Default		%default	inv
 krym amamy	100	PN	[pred="krym amamy___Karim Emami__1",cat=PN]	krym amamy___Karim Emami__1	Default		%default	inv
@@ -3436,11 +3436,11 @@ krystyn ewygns	100	PN	[pred="krystyn ewygns___Christiaan Huygens__1",cat=PN]	kry
 krystyn tysr	100	PN	[pred="krystyn tysr___Christian Tissier__1",cat=PN]	krystyn tysr___Christian Tissier__1	Default		%default	inv
 krystyna apl_gyt	100	PN	[pred="krystyna apl_gyt___Christina Applegate__1",cat=PN]	krystyna apl_gyt___Christina Applegate__1	Default		%default	inv
 krystyna frnandz	100	PN	[pred="krystyna frnandz___Cristina Fernández de Kirchner__1",cat=PN]	krystyna frnandz___Cristina Fernández de Kirchner__1	Default		%default	inv
-krystyna âgylra	100	PN	[pred="krystyna âgylra___Christina Aguilera__1",cat=PN]	krystyna âgylra___Christina Aguilera__1	Default		%default	inv
+krystyna āgylra	100	PN	[pred="krystyna āgylra___Christina Aguilera__1",cat=PN]	krystyna āgylra___Christina Aguilera__1	Default		%default	inv
 ksry šrfy	100	PN	[pred="ksry šrfy_____1",cat=PN]	ksry šrfy_____1	Default		%default	inv
 kt dlwna	100	PN	[pred="kt dlwna___Kat DeLuna__1",cat=PN]	kt dlwna___Kat DeLuna__1	Default		%default	inv
 ktaywn amyrabraeymy	100	PN	[pred="ktaywn amyrabraeymy_____1",cat=PN]	ktaywn amyrabraeymy_____1	Default		%default	inv
-ktaywn ryały	100	PN	[pred="ktaywn ryały_____1",cat=PN]	ktaywn ryały_____1	Default		%default	inv
+ktaywn ryaħy	100	PN	[pred="ktaywn ryaħy_____1",cat=PN]	ktaywn ryaħy_____1	Default		%default	inv
 kte ašmyt klwytz	100	PN	[pred="kte ašmyt klwytz___Käthe Kollwitz__1",cat=PN]	kte ašmyt klwytz___Käthe Kollwitz__1	Default		%default	inv
 ktlyn eana	100	PN	[pred="ktlyn eana___Kathleen Hanna__1",cat=PN]	ktlyn eana___Kathleen Hanna__1	Default		%default	inv
 kty mlwa	100	PN	[pred="kty mlwa___Katie Melua__1",cat=PN]	kty mlwa___Katie Melua__1	Default		%default	inv
@@ -3466,7 +3466,7 @@ kwrwš yqmayy	100	PN	[pred="kwrwš yqmayy___Kourosh Yaghmaei__1",cat=PN]	kwrwš 
 kwrwš şfwy	100	PN	[pred="kwrwš şfwy_____1",cat=PN]	kwrwš şfwy_____1	Default		%default	inv
 kwrwš šyše_gran	100	PN	[pred="kwrwš šyše_gran_____1",cat=PN]	kwrwš šyše_gran_____1	Default		%default	inv
 kwrš asdy	100	PN	[pred="kwrš asdy_____1",cat=PN]	kwrš asdy_____1	Default		%default	inv
-kwrš ftły wajargae	100	PN	[pred="kwrš ftły wajargae_____1",cat=PN]	kwrš ftły wajargae_____1	Default		%default	inv
+kwrš ftħy wajargae	100	PN	[pred="kwrš ftħy wajargae_____1",cat=PN]	kwrš ftħy wajargae_____1	Default		%default	inv
 kwrš kwčk	100	PN	[pred="kwrš kwčk___Cyrus the Younger__1",cat=PN]	kwrš kwčk___Cyrus the Younger__1	Default		%default	inv
 kwsta gawras	100	PN	[pred="kwsta gawras___Costa Gavras__1",cat=PN]	kwsta gawras___Costa Gavras__1	Default		%default	inv
 kwyn aspysy	100	PN	[pred="kwyn aspysy___Kevin Spacey__1",cat=PN]	kwyn aspysy___Kevin Spacey__1	Default		%default	inv
@@ -3489,7 +3489,7 @@ kyanw rywz	100	PN	[pred="kyanw rywz___Keanu Reeves__1",cat=PN]	kyanw rywz___Kean
 kyanwš 'yary	100	PN	[pred="kyanwš 'yary___Kianoush Ayyari__1",cat=PN]	kyanwš 'yary___Kianoush Ayyari__1	Default		%default	inv
 kyanwš rmźany	100	PN	[pred="kyanwš rmźany_____1",cat=PN]	kyanwš rmźany_____1	Default		%default	inv
 kyanwš snjry	100	PN	[pred="kyanwš snjry___Kianush Sanjari__1",cat=PN]	kyanwš snjry___Kianush Sanjari__1	Default		%default	inv
-kyawš şałb nsŕ	100	PN	[pred="kyawš şałb nsŕ_____1",cat=PN]	kyawš şałb nsŕ_____1	Default		%default	inv
+kyawš şaħb nsŕ	100	PN	[pred="kyawš şaħb nsŕ_____1",cat=PN]	kyawš şaħb nsŕ_____1	Default		%default	inv
 kyean kler	100	PN	[pred="kyean kler___Kayhan Kalhor__1",cat=PN]	kyean kler___Kayhan Kalhor__1	Default		%default	inv
 kykawws razy	100	PN	[pred="kykawws razy_____1",cat=PN]	kykawws razy_____1	Default		%default	inv
 kykawws yakyde	100	PN	[pred="kykawws yakyde_____1",cat=PN]	kykawws yakyde_____1	Default		%default	inv
@@ -3523,12 +3523,12 @@ kywan sakt	100	PN	[pred="kywan sakt___Kayvan Saket__1",cat=PN]	kywan sakt___Kayv
 kywmrç mlk_mţy'y	100	PN	[pred="kywmrç mlk_mţy'y_____1",cat=PN]	kywmrç mlk_mţy'y_____1	Default		%default	inv
 kywmrç mnšy_zade	100	PN	[pred="kywmrç mnšy_zade_____1",cat=PN]	kywmrç mnšy_zade_____1	Default		%default	inv
 kywmrç ms'wdy	100	PN	[pred="kywmrç ms'wdy_____1",cat=PN]	kywmrç ms'wdy_____1	Default		%default	inv
-kywmrç pwrałmd	100	PN	[pred="kywmrç pwrałmd___Kiomars Pourahmad__1",cat=PN]	kywmrç pwrałmd___Kiomars Pourahmad__1	Default		%default	inv
-kywmrç łydr	100	PN	[pred="kywmrç łydr_____1",cat=PN]	kywmrç łydr_____1	Default		%default	inv
+kywmrç pwraħmd	100	PN	[pred="kywmrç pwraħmd___Kiomars Pourahmad__1",cat=PN]	kywmrç pwraħmd___Kiomars Pourahmad__1	Default		%default	inv
+kywmrç ħydr	100	PN	[pred="kywmrç ħydr_____1",cat=PN]	kywmrç ħydr_____1	Default		%default	inv
 kywmrç şabry fwmny	100	PN	[pred="kywmrç şabry fwmny___Kioumars Saberi Foumani__1",cat=PN]	kywmrç şabry fwmny___Kioumars Saberi Foumani__1	Default		%default	inv
 kywn myry	100	PN	[pred="kywn myry___Kyeon Mi-ri__1",cat=PN]	kywn myry___Kyeon Mi-ri__1	Default		%default	inv
 kywšy kwrwsawa	100	PN	[pred="kywšy kwrwsawa___Kiyoshi Kurosawa__1",cat=PN]	kywšy kwrwsawa___Kiyoshi Kurosawa__1	Default		%default	inv
-kyxsrw pwrnażry	100	PN	[pred="kyxsrw pwrnażry_____1",cat=PN]	kyxsrw pwrnażry_____1	Default		%default	inv
+kyxsrw pwrnaẓry	100	PN	[pred="kyxsrw pwrnaẓry_____1",cat=PN]	kyxsrw pwrnaẓry_____1	Default		%default	inv
 kyç alyswn	100	PN	[pred="kyç alyswn___Keith Ellison (politician)__1",cat=PN]	kyç alyswn___Keith Ellison (politician)__1	Default		%default	inv
 kyšw kwrwkawa	100	PN	[pred="kyšw kwrwkawa___Kisho Kurokawa__1",cat=PN]	kyšw kwrwkawa___Kisho Kurokawa__1	Default		%default	inv
 l'ya zngne	100	PN	[pred="l'ya zngne_____1",cat=PN]	l'ya zngne_____1	Default		%default	inv
@@ -3631,7 +3631,7 @@ lw´ys baragan	100	PN	[pred="lw´ys baragan___Luis Barragán__1",cat=PN]	lw´ys 
 lw´ys bwnw´l	100	PN	[pred="lw´ys bwnw´l___Luis Bunuel__1",cat=PN]	lw´ys bwnw´l___Luis Bunuel__1	Default		%default	inv
 lw´ys fygw	100	PN	[pred="lw´ys fygw___Luís Figo__1",cat=PN]	lw´ys fygw___Luís Figo__1	Default		%default	inv
 lw´ys karwl	100	PN	[pred="lw´ys karwl___Lewis Carroll__1",cat=PN]	lw´ys karwl___Lewis Carroll__1	Default		%default	inv
-lw´ys waltr âlwarz	100	PN	[pred="lw´ys waltr âlwarz___Luis Walter Alvarez__1",cat=PN]	lw´ys waltr âlwarz___Luis Walter Alvarez__1	Default		%default	inv
+lw´ys waltr ālwarz	100	PN	[pred="lw´ys waltr ālwarz___Luis Walter Alvarez__1",cat=PN]	lw´ys waltr ālwarz___Luis Walter Alvarez__1	Default		%default	inv
 lw´yza laswn	100	PN	[pred="lw´yza laswn___Louisa Lawson__1",cat=PN]	lw´yza laswn___Louisa Lawson__1	Default		%default	inv
 lw´yzyana rd	100	PN	[pred="lw´yzyana rd___Louisiana Red__1",cat=PN]	lw´yzyana rd___Louisiana Red__1	Default		%default	inv
 lwÂ´Ys aYnasYw lwla dasYlwa	100	PN	[pred="lwÂ´Ys aYnasYw lwla dasYlwa___Luiz Inácio Lula da Silva__1",cat=PN]	lwÂ´Ys aYnasYw lwla dasYlwa___Luiz Inácio Lula da Silva__1	Default		%default	inv
@@ -3652,7 +3652,7 @@ ly rayan	100	PN	[pred="ly rayan___Lee Ryan__1",cat=PN]	ly rayan___Lee Ryan__1	De
 ly wan klyf	100	PN	[pred="ly wan klyf___Lee Van Cleef__1",cat=PN]	ly wan klyf___Lee Van Cleef__1	Default		%default	inv
 ly ya png	100	PN	[pred="ly ya png___Li Yapeng__1",cat=PN]	ly ya png___Li Yapeng__1	Default		%default	inv
 ly ywng a´e	100	PN	[pred="ly ywng a´e___Lee Young Ae__1",cat=PN]	ly ywng a´e___Lee Young Ae__1	Default		%default	inv
-ly_ly âln	100	PN	[pred="ly_ly âln___Lily Allen__1",cat=PN]	ly_ly âln___Lily Allen__1	Default		%default	inv
+ly_ly āln	100	PN	[pred="ly_ly āln___Lily Allen__1",cat=PN]	ly_ly āln___Lily Allen__1	Default		%default	inv
 ly_pw	100	PN	[pred="ly_pw___Li Bai__1",cat=PN]	ly_pw___Li Bai__1	Default		%default	inv
 lyam aykn	100	PN	[pred="lyam aykn___Liam Aiken__1",cat=PN]	lyam aykn___Liam Aiken__1	Default		%default	inv
 lyam nyswn	100	PN	[pred="lyam nyswn___Liam Neeson__1",cat=PN]	lyam nyswn___Liam Neeson__1	Default		%default	inv
@@ -3664,7 +3664,7 @@ lydya kačw	100	PN	[pred="lydya kačw___Lydia Cacho__1",cat=PN]	lydya kačw___Ly
 lydya rwslanwwa	100	PN	[pred="lydya rwslanwwa___Lidia Ruslanova__1",cat=PN]	lydya rwslanwwa___Lidia Ruslanova__1	Default		%default	inv
 lyf knypr	100	PN	[pred="lyf knypr___Lev Knipper__1",cat=PN]	lyf knypr___Lev Knipper__1	Default		%default	inv
 lyla awtady	100	PN	[pred="lyla awtady_____1",cat=PN]	lyla awtady_____1	Default		%default	inv
-lyla ałmd	100	PN	[pred="lyla ałmd___Leila Ahmed__1",cat=PN]	lyla ałmd___Leila Ahmed__1	Default		%default	inv
+lyla aħmd	100	PN	[pred="lyla aħmd___Leila Ahmed__1",cat=PN]	lyla aħmd___Leila Ahmed__1	Default		%default	inv
 lyla bdyrbyly	100	PN	[pred="lyla bdyrbyly_____1",cat=PN]	lyla bdyrbyly_____1	Default		%default	inv
 lyla bešty	100	PN	[pred="lyla bešty_____1",cat=PN]	lyla bešty_____1	Default		%default	inv
 lyla frwer	100	PN	[pred="lyla frwer___Leila Forouhar__1",cat=PN]	lyla frwer___Leila Forouhar__1	Default		%default	inv
@@ -3674,9 +3674,9 @@ lyla pelwy	100	PN	[pred="lyla pelwy___Leila Pahlavi__1",cat=PN]	lyla pelwy___Lei
 lyla wzyry	100	PN	[pred="lyla wzyry___Leila Vaziri__1",cat=PN]	lyla wzyry___Leila Vaziri__1	Default		%default	inv
 lyla xald	100	PN	[pred="lyla xald___Leila Khaled__1",cat=PN]	lyla xald___Leila Khaled__1	Default		%default	inv
 lyla zana	100	PN	[pred="lyla zana___Leyla Zana__1",cat=PN]	lyla zana___Leyla Zana__1	Default		%default	inv
-lyla łatmy	100	PN	[pred="lyla łatmy___Leila Hatami__1",cat=PN]	lyla łatmy___Leila Hatami__1	Default		%default	inv
+lyla ħatmy	100	PN	[pred="lyla ħatmy___Leila Hatami__1",cat=PN]	lyla ħatmy___Leila Hatami__1	Default		%default	inv
 lyla şadŕy	100	PN	[pred="lyla şadŕy_____1",cat=PN]	lyla şadŕy_____1	Default		%default	inv
-lyla şrałt	100	PN	[pred="lyla şrałt_____1",cat=PN]	lyla şrałt_____1	Default		%default	inv
+lyla şraħt	100	PN	[pred="lyla şraħt_____1",cat=PN]	lyla şraħt_____1	Default		%default	inv
 lyly afšar	100	PN	[pred="lyly afšar___Lily Afshar__1",cat=PN]	lyly afšar___Lily Afshar__1	Default		%default	inv
 lyly glstan	100	PN	[pred="lyly glstan___Lili Golestan__1",cat=PN]	lyly glstan___Lili Golestan__1	Default		%default	inv
 lyly mrad	100	PN	[pred="lyly mrad___Leila Mourad__1",cat=PN]	lyly mrad___Leila Mourad__1	Default		%default	inv
@@ -3731,7 +3731,7 @@ lţf_alle enrfr	100	PN	[pred="lţf_alle enrfr_____1",cat=PN]	lţf_alle enrfr____
 lţf_alle mfxm payan	100	PN	[pred="lţf_alle mfxm payan_____1",cat=PN]	lţf_alle mfxm payan_____1	Default		%default	inv
 lţfy zade	100	PN	[pred="lţfy zade___Lotfi Asker Zadeh__1",cat=PN]	lţfy zade___Lotfi Asker Zadeh__1	Default		%default	inv
 lţfyar aymanwf	100	PN	[pred="lţfyar aymanwf___Lutfiyar Imanov__1",cat=PN]	lţfyar aymanwf___Lutfiyar Imanov__1	Default		%default	inv
-lţyf nażmy	100	PN	[pred="lţyf nażmy___Latif Nazemi__1",cat=PN]	lţyf nażmy___Latif Nazemi__1	Default		%default	inv
+lţyf naẓmy	100	PN	[pred="lţyf naẓmy___Latif Nazemi__1",cat=PN]	lţyf naẓmy___Latif Nazemi__1	Default		%default	inv
 lţyf pdram	100	PN	[pred="lţyf pdram___Abdul Latif Pedram__1",cat=PN]	lţyf pdram___Abdul Latif Pedram__1	Default		%default	inv
 lţyf şfry	100	PN	[pred="lţyf şfry_____1",cat=PN]	lţyf şfry_____1	Default		%default	inv
 lţyfe	100	PN	[pred="lţyfe___Latifa__1",cat=PN]	lţyfe___Latifa__1	Default		%default	inv
@@ -3762,7 +3762,7 @@ maks mwlr	100	PN	[pred="maks mwlr___Max Müller__1",cat=PN]	maks mwlr___Max Mül
 maks plank	100	PN	[pred="maks plank___Max Planck__1",cat=PN]	maks plank___Max Planck__1	Default		%default	inv
 maks rgr	100	PN	[pred="maks rgr___Max Reger__1",cat=PN]	maks rgr___Max Reger__1	Default		%default	inv
 maks wbr	100	PN	[pred="maks wbr___Max Weber__1",cat=PN]	maks wbr___Max Weber__1	Default		%default	inv
-maks âbramwytz	100	PN	[pred="maks âbramwytz___Max Abramovitz__1",cat=PN]	maks âbramwytz___Max Abramovitz__1	Default		%default	inv
+maks ābramwytz	100	PN	[pred="maks ābramwytz___Max Abramovitz__1",cat=PN]	maks ābramwytz___Max Abramovitz__1	Default		%default	inv
 maks šlr	100	PN	[pred="maks šlr___Max Scheler__1",cat=PN]	maks šlr___Max Scheler__1	Default		%default	inv
 maks žakwb	100	PN	[pred="maks žakwb___Max Jacob__1",cat=PN]	maks žakwb___Max Jacob__1	Default		%default	inv
 maksym gwrky	100	PN	[pred="maksym gwrky___Maxim Gorky__1",cat=PN]	maksym gwrky___Maxim Gorky__1	Default		%default	inv
@@ -3780,7 +3780,7 @@ manw´l pwyyg	100	PN	[pred="manw´l pwyyg___Manuel Puig__1",cat=PN]	manw´l pwyy
 manw´la arkwry	100	PN	[pred="manw´la arkwry___Manuela Arcuri__1",cat=PN]	manw´la arkwry___Manuela Arcuri__1	Default		%default	inv
 manwÂ´l de faya	100	PN	[pred="manwÂ´l de faya___Manuel de Falla__1",cat=PN]	manwÂ´l de faya___Manuel de Falla__1	Default		%default	inv
 many renma	100	PN	[pred="many renma_____1",cat=PN]	many renma_____1	Default		%default	inv
-many łŕyŕy	100	PN	[pred="many łŕyŕy___Mani Haghighi__1",cat=PN]	many łŕyŕy___Mani Haghighi__1	Default		%default	inv
+many ħŕyŕy	100	PN	[pred="many ħŕyŕy___Mani Haghighi__1",cat=PN]	many ħŕyŕy___Mani Haghighi__1	Default		%default	inv
 manyka jlyly	100	PN	[pred="manyka jlyly___Monika Jalili__1",cat=PN]	manyka jlyly___Monika Jalili__1	Default		%default	inv
 mara karfanya	100	PN	[pred="mara karfanya___Mara Carfagna__1",cat=PN]	mara karfanya___Mara Carfagna__1	Default		%default	inv
 margart atwwd	100	PN	[pred="margart atwwd___Margaret Atwood__1",cat=PN]	margart atwwd___Margaret Atwood__1	Default		%default	inv
@@ -3902,7 +3902,7 @@ mazyar beary	100	PN	[pred="mazyar beary___Maziar Bahari__1",cat=PN]	mazyar beary
 mazyar byžny	100	PN	[pred="mazyar byžny_____1",cat=PN]	mazyar byžny_____1	Default		%default	inv
 mazyar jbrany	100	PN	[pred="mazyar jbrany___Maz Jobrani__1",cat=PN]	mazyar jbrany___Maz Jobrani__1	Default		%default	inv
 mazyar myry	100	PN	[pred="mazyar myry___Maziar Miri__1",cat=PN]	mazyar myry___Maziar Miri__1	Default		%default	inv
-mazyar naáżmy	100	PN	[pred="mazyar naáżmy_____1",cat=PN]	mazyar naáżmy_____1	Default		%default	inv
+mazyar naáẓmy	100	PN	[pred="mazyar naáẓmy_____1",cat=PN]	mazyar naáẓmy_____1	Default		%default	inv
 mazyar nşrty	100	PN	[pred="mazyar nşrty_____1",cat=PN]	mazyar nşrty_____1	Default		%default	inv
 mazyar prtw	100	PN	[pred="mazyar prtw___Maziar Partow__1",cat=PN]	mazyar prtw___Maziar Partow__1	Default		%default	inv
 mazyar zar'	100	PN	[pred="mazyar zar'___Maziar Zare__1",cat=PN]	mazyar zar'___Maziar Zare__1	Default		%default	inv
@@ -3913,13 +3913,13 @@ mačdwnyw mlwny	100	PN	[pred="mačdwnyw mlwny___Macedonio Melloni__1",cat=PN]	ma
 maša alalykyna	100	PN	[pred="maša alalykyna_____1",cat=PN]	maša alalykyna_____1	Default		%default	inv
 mašaalle ajwdany	100	PN	[pred="mašaalle ajwdany_____1",cat=PN]	mašaalle ajwdany_____1	Default		%default	inv
 mašaalle glstany_nžad	100	PN	[pred="mašaalle glstany_nžad_____1",cat=PN]	mašaalle glstany_nžad_____1	Default		%default	inv
-mašaalle šms_alwa'żyn	100	PN	[pred="mašaalle šms_alwa'żyn___Mashallah Shamsolvaezin__1",cat=PN]	mašaalle šms_alwa'żyn___Mashallah Shamsolvaezin__1	Default		%default	inv
+mašaalle šms_alwa'ẓyn	100	PN	[pred="mašaalle šms_alwa'ẓyn___Mashallah Shamsolvaezin__1",cat=PN]	mašaalle šms_alwa'ẓyn___Mashallah Shamsolvaezin__1	Default		%default	inv
 mbrwk almkry	100	PN	[pred="mbrwk almkry___Mabrouk El Mechri__1",cat=PN]	mbrwk almkry___Mabrouk El Mechri__1	Default		%default	inv
 mdaxle znan ael sabyn	100	PN	[pred="mdaxle znan ael sabyn___The Intervention of the Sabine Women__1",cat=PN]	mdaxle znan ael sabyn___The Intervention of the Sabine Women__1	Default		%default	inv
 mdlyn prw	100	PN	[pred="mdlyn prw___Madeleine Peyroux__1",cat=PN]	mdlyn prw___Madeleine Peyroux__1	Default		%default	inv
 mdwna	100	PN	[pred="mdwna___Madonna (entertainer)__1",cat=PN]	mdwna___Madonna (entertainer)__1	Default		%default	inv
-me_lŕa mlał	100	PN	[pred="me_lŕa mlał_____1",cat=PN]	me_lŕa mlał_____1	Default		%default	inv
-meatyr młmd	100	PN	[pred="meatyr młmd___Mahathir bin Mohamad__1",cat=PN]	meatyr młmd___Mahathir bin Mohamad__1	Default		%default	inv
+me_lŕa mlaħ	100	PN	[pred="me_lŕa mlaħ_____1",cat=PN]	me_lŕa mlaħ_____1	Default		%default	inv
+meatyr mħmd	100	PN	[pred="meatyr mħmd___Mahathir bin Mohamad__1",cat=PN]	meatyr mħmd___Mahathir bin Mohamad__1	Default		%default	inv
 med 'lya	100	PN	[pred="med 'lya_____1",cat=PN]	med 'lya_____1	Default		%default	inv
 medxt şn'ty	100	PN	[pred="medxt şn'ty_____1",cat=PN]	medxt şn'ty_____1	Default		%default	inv
 medy 'raŕy	100	PN	[pred="medy 'raŕy_____1",cat=PN]	medy 'raŕy_____1	Default		%default	inv
@@ -3928,45 +3928,45 @@ medy amyrabady	100	PN	[pred="medy amyrabady___Mehdi Amirabadi__1",cat=PN]	medy a
 medy asdy	100	PN	[pred="medy asdy_____1",cat=PN]	medy asdy_____1	Default		%default	inv
 medy axwan çalç	100	PN	[pred="medy axwan çalç___Mehdi Akhavan-Sales__1",cat=PN]	medy axwan çalç___Mehdi Akhavan-Sales__1	Default		%default	inv
 medy ađryzdy	100	PN	[pred="medy ađryzdy_____1",cat=PN]	medy ađryzdy_____1	Default		%default	inv
-medy ałmdy	100	PN	[pred="medy ałmdy_____1",cat=PN]	medy ałmdy_____1	Default		%default	inv
+medy aħmdy	100	PN	[pred="medy aħmdy_____1",cat=PN]	medy aħmdy_____1	Default		%default	inv
 medy bazrgan	100	PN	[pred="medy bazrgan___Mehdi Bazargan__1",cat=PN]	medy bazrgan___Mehdi Bazargan__1	Default		%default	inv
 medy dybaj	100	PN	[pred="medy dybaj_____1",cat=PN]	medy dybaj_____1	Default		%default	inv
 medy eadwy terany	100	PN	[pred="medy eadwy terany_____1",cat=PN]	medy eadwy terany_____1	Default		%default	inv
 medy eašmy ŕrmzy	100	PN	[pred="medy eašmy ŕrmzy___Mehdi Hashemi (actor)__1",cat=PN]	medy eašmy ŕrmzy___Mehdi Hashemi (actor)__1	Default		%default	inv
 medy eašmy_nsb	100	PN	[pred="medy eašmy_nsb___Mehdi Hasheminasab__1",cat=PN]	medy eašmy_nsb___Mehdi Hasheminasab__1	Default		%default	inv
-medy ftły	100	PN	[pred="medy ftły_____1",cat=PN]	medy ftły_____1	Default		%default	inv
+medy ftħy	100	PN	[pred="medy ftħy_____1",cat=PN]	medy ftħy_____1	Default		%default	inv
 medy fxym_zade	100	PN	[pred="medy fxym_zade_____1",cat=PN]	medy fxym_zade_____1	Default		%default	inv
 medy jamy	100	PN	[pred="medy jamy___Mehdi Jami__1",cat=PN]	medy jamy___Mehdi Jami__1	Default		%default	inv
 medy krwby	100	PN	[pred="medy krwby___Mehdi Karroubi__1",cat=PN]	medy krwby___Mehdi Karroubi__1	Default		%default	inv
 medy medwy laeyjy	100	PN	[pred="medy medwy laeyjy_____1",cat=PN]	medy medwy laeyjy_____1	Default		%default	inv
 medy medwy_kya	100	PN	[pred="medy medwy_kya___Mehdi Mahdavikia__1",cat=PN]	medy medwy_kya___Mehdi Mahdavikia__1	Default		%default	inv
-medy młŕŕ	100	PN	[pred="medy młŕŕ_____1",cat=PN]	medy młŕŕ_____1	Default		%default	inv
+medy mħŕŕ	100	PN	[pred="medy mħŕŕ_____1",cat=PN]	medy mħŕŕ_____1	Default		%default	inv
 medy pakdl	100	PN	[pred="medy pakdl_____1",cat=PN]	medy pakdl_____1	Default		%default	inv
 medy pašazade	100	PN	[pred="medy pašazade___Mehdi Pashazadeh__1",cat=PN]	medy pašazade___Mehdi Pashazadeh__1	Default		%default	inv
 medy rby	100	PN	[pred="medy rby_____1",cat=PN]	medy rby_____1	Default		%default	inv
 medy rjb bygy	100	PN	[pred="medy rjb bygy_____1",cat=PN]	medy rjb bygy_____1	Default		%default	inv
 medy rjb_zade	100	PN	[pred="medy rjb_zade___Mehdi Rajabzadeh__1",cat=PN]	medy rjb_zade___Mehdi Rajabzadeh__1	Default		%default	inv
 medy rstm_pwr	100	PN	[pred="medy rstm_pwr_____1",cat=PN]	medy rstm_pwr_____1	Default		%default	inv
-medy rłmany	100	PN	[pred="medy rłmany_____1",cat=PN]	medy rłmany_____1	Default		%default	inv
+medy rħmany	100	PN	[pred="medy rħmany_____1",cat=PN]	medy rħmany_____1	Default		%default	inv
 medy rźayy	100	PN	[pred="medy rźayy_____1",cat=PN]	medy rźayy_____1	Default		%default	inv
 medy seraby	100	PN	[pred="medy seraby_____1",cat=PN]	medy seraby_____1	Default		%default	inv
 medy seyly	100	PN	[pred="medy seyly_____1",cat=PN]	medy seyly_____1	Default		%default	inv
 medy smsarzade	100	PN	[pred="medy smsarzade_____1",cat=PN]	medy smsarzade_____1	Default		%default	inv
-medy słaby	100	PN	[pred="medy słaby_____1",cat=PN]	medy słaby_____1	Default		%default	inv
+medy sħaby	100	PN	[pred="medy sħaby_____1",cat=PN]	medy sħaby_____1	Default		%default	inv
 medy takstany	100	PN	[pred="medy takstany_____1",cat=PN]	medy takstany_____1	Default		%default	inv
 medy tartar	100	PN	[pred="medy tartar___Mehdi Tartar__1",cat=PN]	medy tartar___Mehdi Tartar__1	Default		%default	inv
 medy tŕwy	100	PN	[pred="medy tŕwy___Mehdi Taghavi__1",cat=PN]	medy tŕwy___Mehdi Taghavi__1	Default		%default	inv
-medy wa'áży	100	PN	[pred="medy wa'áży___Mehdi Vaezi__1",cat=PN]	medy wa'áży___Mehdi Vaezi__1	Default		%default	inv
+medy wa'áẓy	100	PN	[pred="medy wa'áẓy___Mehdi Vaezi__1",cat=PN]	medy wa'áẓy___Mehdi Vaezi__1	Default		%default	inv
 medy xalşy	100	PN	[pred="medy xalşy_____1",cat=PN]	medy xalşy_____1	Default		%default	inv
 medy xljy	100	PN	[pred="medy xljy___Mehdi Khalaji__1",cat=PN]	medy xljy___Mehdi Khalaji__1	Default		%default	inv
 medy xz'ly	100	PN	[pred="medy xz'ly_____1",cat=PN]	medy xz'ly_____1	Default		%default	inv
 medy yzdany xrm	100	PN	[pred="medy yzdany xrm_____1",cat=PN]	medy yzdany xrm_____1	Default		%default	inv
-medy yłyy_nžad	100	PN	[pred="medy yłyy_nžad_____1",cat=PN]	medy yłyy_nžad_____1	Default		%default	inv
-medy âđr	100	PN	[pred="medy âđr_____1",cat=PN]	medy âđr_____1	Default		%default	inv
+medy yħyy_nžad	100	PN	[pred="medy yħyy_nžad_____1",cat=PN]	medy yħyy_nžad_____1	Default		%default	inv
+medy āđr	100	PN	[pred="medy āđr_____1",cat=PN]	medy āđr_____1	Default		%default	inv
 medy čmran	100	PN	[pred="medy čmran___Mehdi Chamran__1",cat=PN]	medy čmran___Mehdi Chamran__1	Default		%default	inv
-medy łajy_zade	100	PN	[pred="medy łajy_zade___Mehdi Hajizadeh__1",cat=PN]	medy łajy_zade___Mehdi Hajizadeh__1	Default		%default	inv
-medy ła´ry yzdy	100	PN	[pred="medy ła´ry yzdy___Mehdi Haeri Yazdi__1",cat=PN]	medy ła´ry yzdy___Mehdi Haeri Yazdi__1	Default		%default	inv
-medy łmydy šyrazy	100	PN	[pred="medy łmydy šyrazy___Mehdi Hamidi Shirazi__1",cat=PN]	medy łmydy šyrazy___Mehdi Hamidi Shirazi__1	Default		%default	inv
+medy ħajy_zade	100	PN	[pred="medy ħajy_zade___Mehdi Hajizadeh__1",cat=PN]	medy ħajy_zade___Mehdi Hajizadeh__1	Default		%default	inv
+medy ħa´ry yzdy	100	PN	[pred="medy ħa´ry yzdy___Mehdi Haeri Yazdi__1",cat=PN]	medy ħa´ry yzdy___Mehdi Haeri Yazdi__1	Default		%default	inv
+medy ħmydy šyrazy	100	PN	[pred="medy ħmydy šyrazy___Mehdi Hamidi Shirazi__1",cat=PN]	medy ħmydy šyrazy___Mehdi Hamidi Shirazi__1	Default		%default	inv
 medy ŕrbany	100	PN	[pred="medy ŕrbany___Mehdi Ghorbani__1",cat=PN]	medy ŕrbany___Mehdi Ghorbani__1	Default		%default	inv
 medy šyry	100	PN	[pred="medy šyry___Mehdi Shiri__1",cat=PN]	medy šyry___Mehdi Shiri__1	Default		%default	inv
 medyzade kably	100	PN	[pred="medyzade kably_____1",cat=PN]	medyzade kably_____1	Default		%default	inv
@@ -3981,13 +3981,13 @@ meran rjby	100	PN	[pred="meran rjby___Mehran Rajabi__1",cat=PN]	meran rjby___Meh
 merane meyn traby	100	PN	[pred="merane meyn traby_____1",cat=PN]	merane meyn traby_____1	Default		%default	inv
 merangyz dwltšaey	100	PN	[pred="merangyz dwltšaey_____1",cat=PN]	merangyz dwltšaey_____1	Default		%default	inv
 merangyz kar	100	PN	[pred="merangyz kar___Mehrangiz Kar__1",cat=PN]	merangyz kar___Mehrangiz Kar__1	Default		%default	inv
-merangyz mlał	100	PN	[pred="merangyz mlał_____1",cat=PN]	merangyz mlał_____1	Default		%default	inv
+merangyz mlaħ	100	PN	[pred="merangyz mlaħ_____1",cat=PN]	merangyz mlaħ_____1	Default		%default	inv
 merangyz mnwčeryan	100	PN	[pred="merangyz mnwčeryan_____1",cat=PN]	merangyz mnwčeryan_____1	Default		%default	inv
 merangyz mrwty	100	PN	[pred="merangyz mrwty_____1",cat=PN]	merangyz mrwty_____1	Default		%default	inv
 merawe šryfy_nya	100	PN	[pred="merawe šryfy_nya_____1",cat=PN]	merawe šryfy_nya_____1	Default		%default	inv
 merdad awsta	100	PN	[pred="merdad awsta_____1",cat=PN]	merdad awsta_____1	Default		%default	inv
 merdad bear	100	PN	[pred="merdad bear_____1",cat=PN]	merdad bear_____1	Default		%default	inv
-merdad flał	100	PN	[pred="merdad flał_____1",cat=PN]	merdad flał_____1	Default		%default	inv
+merdad flaħ	100	PN	[pred="merdad flaħ_____1",cat=PN]	merdad flaħ_____1	Default		%default	inv
 merdad fxymy	100	PN	[pred="merdad fxymy_____1",cat=PN]	merdad fxymy_____1	Default		%default	inv
 merdad mynawnd	100	PN	[pred="merdad mynawnd___Mehrdad Minavand__1",cat=PN]	merdad mynawnd___Mehrdad Minavand__1	Default		%default	inv
 merdad myrkyany	100	PN	[pred="merdad myrkyany_____1",cat=PN]	merdad myrkyany_____1	Default		%default	inv
@@ -4006,7 +4006,7 @@ merzad m'dnčy	100	PN	[pred="merzad m'dnčy___Mehrzad Madanchi__1",cat=PN]	merza
 meršad beramy	100	PN	[pred="meršad beramy_____1",cat=PN]	meršad beramy_____1	Default		%default	inv
 meršad karxany	100	PN	[pred="meršad karxany_____1",cat=PN]	meršad karxany_____1	Default		%default	inv
 mesa mejwr	100	PN	[pred="mesa mejwr_____1",cat=PN]	mesa mejwr_____1	Default		%default	inv
-mesa młb'ly	100	PN	[pred="mesa młb'ly_____1",cat=PN]	mesa młb'ly_____1	Default		%default	inv
+mesa mħb'ly	100	PN	[pred="mesa mħb'ly_____1",cat=PN]	mesa mħb'ly_____1	Default		%default	inv
 mesty	100	PN	[pred="mesty___Mahasti__1",cat=PN]	mesty___Mahasti__1	Default		%default	inv
 mesty gnjwy	100	PN	[pred="mesty gnjwy___Mahsati__1",cat=PN]	mesty gnjwy___Mahsati__1	Default		%default	inv
 mesty šaerxy	100	PN	[pred="mesty šaerxy___Mahasti Shahrokhi__1",cat=PN]	mesty šaerxy___Mahasti Shahrokhi__1	Default		%default	inv
@@ -4031,32 +4031,32 @@ mjd emgr	100	PN	[pred="mjd emgr_____1",cat=PN]	mjd emgr_____1	Default		%default	
 mjdalaslam	100	PN	[pred="mjdalaslam_____1",cat=PN]	mjdalaslam_____1	Default		%default	inv
 mjdaldyn bqdady	100	PN	[pred="mjdaldyn bqdady_____1",cat=PN]	mjdaldyn bqdady_____1	Default		%default	inv
 mjdalmlk synky	100	PN	[pred="mjdalmlk synky_____1",cat=PN]	mjdalmlk synky_____1	Default		%default	inv
-mjmw'e f'alan łŕwŕ bšr dr ayran	100	PN	[pred="mjmw'e f'alan łŕwŕ bšr dr ayran_____1",cat=PN]	mjmw'e f'alan łŕwŕ bšr dr ayran_____1	Default		%default	inv
-mjtba pwrmłsn	100	PN	[pred="mjtba pwrmłsn_____1",cat=PN]	mjtba pwrmłsn_____1	Default		%default	inv
+mjmw'e f'alan ħŕwŕ bšr dr ayran	100	PN	[pred="mjmw'e f'alan ħŕwŕ bšr dr ayran_____1",cat=PN]	mjmw'e f'alan ħŕwŕ bšr dr ayran_____1	Default		%default	inv
+mjtba pwrmħsn	100	PN	[pred="mjtba pwrmħsn_____1",cat=PN]	mjtba pwrmħsn_____1	Default		%default	inv
 mjtby jbary	100	PN	[pred="mjtby jbary___Mojtaba Jabari__1",cat=PN]	mjtby jbary___Mojtaba Jabari__1	Default		%default	inv
 mjtby mynwy	100	PN	[pred="mjtby mynwy_____1",cat=PN]	mjtby mynwy_____1	Default		%default	inv
 mjtby myrzade	100	PN	[pred="mjtby myrzade_____1",cat=PN]	mjtby myrzade_____1	Default		%default	inv
-mjtby rłmandwst	100	PN	[pred="mjtby rłmandwst_____1",cat=PN]	mjtby rłmandwst_____1	Default		%default	inv
+mjtby rħmandwst	100	PN	[pred="mjtby rħmandwst_____1",cat=PN]	mjtby rħmandwst_____1	Default		%default	inv
 mjtby smy'_nžad	100	PN	[pred="mjtby smy'_nžad___Mojtaba Saminejad__1",cat=PN]	mjtby smy'_nžad___Mojtaba Saminejad__1	Default		%default	inv
 mjtby xamne_ay	100	PN	[pred="mjtby xamne_ay___Mojtaba Khamenei__1",cat=PN]	mjtby xamne_ay___Mojtaba Khamenei__1	Default		%default	inv
 mjtby zar'y	100	PN	[pred="mjtby zar'y___Mojtaba Zarei__1",cat=PN]	mjtby zar'y___Mojtaba Zarei__1	Default		%default	inv
 mjtby çmre eašmy	100	PN	[pred="mjtby çmre eašmy___Mojtaba Samareh Hashemi__1",cat=PN]	mjtby çmre eašmy___Mojtaba Samareh Hashemi__1	Default		%default	inv
 mjtby šyry	100	PN	[pred="mjtby šyry___Mojtaba Shiri__1",cat=PN]	mjtby šyry___Mojtaba Shiri__1	Default		%default	inv
 mjwsy aewazy	100	PN	[pred="mjwsy aewazy___Ali ibn Abbas al-Majusi__1",cat=PN]	mjwsy aewazy___Ali ibn Abbas al-Majusi__1	Default		%default	inv
-mjyd antáżamy	100	PN	[pred="mjyd antáżamy_____1",cat=PN]	mjyd antáżamy_____1	Default		%default	inv
+mjyd antáẓamy	100	PN	[pred="mjyd antáẓamy_____1",cat=PN]	mjyd antáẓamy_____1	Default		%default	inv
 mjyd anşary	100	PN	[pred="mjyd anşary___Majead Ansari__1",cat=PN]	mjyd anşary___Majead Ansari__1	Default		%default	inv
 mjyd drxšany	100	PN	[pred="mjyd drxšany___Majid Derakhshani__1",cat=PN]	mjyd drxšany___Majid Derakhshani__1	Default		%default	inv
 mjyd jlaly	100	PN	[pred="mjyd jlaly___Majid Jalali__1",cat=PN]	mjyd jlaly___Majid Jalali__1	Default		%default	inv
 mjyd kawwsy_fr	100	PN	[pred="mjyd kawwsy_fr_____1",cat=PN]	mjyd kawwsy_fr_____1	Default		%default	inv
 mjyd mjydy	100	PN	[pred="mjyd mjydy___Majid Majidi__1",cat=PN]	mjyd mjydy___Majid Majidi__1	Default		%default	inv
-mjyd młsny	100	PN	[pred="mjyd młsny_____1",cat=PN]	mjyd młsny_____1	Default		%default	inv
-mjyd mżfry	100	PN	[pred="mjyd mżfry_____1",cat=PN]	mjyd mżfry_____1	Default		%default	inv
+mjyd mħsny	100	PN	[pred="mjyd mħsny_____1",cat=PN]	mjyd mħsny_____1	Default		%default	inv
+mjyd mẓfry	100	PN	[pred="mjyd mẓfry_____1",cat=PN]	mjyd mẓfry_____1	Default		%default	inv
 mjyd rwšngr	100	PN	[pred="mjyd rwšngr_____1",cat=PN]	mjyd rwšngr_____1	Default		%default	inv
 mjyd smy'y	100	PN	[pred="mjyd smy'y___Majid Samii__1",cat=PN]	mjyd smy'y___Majid Samii__1	Default		%default	inv
 mjyd twkly	100	PN	[pred="mjyd twkly___Majid Tavakoli__1",cat=PN]	mjyd twkly___Majid Tavakoli__1	Default		%default	inv
-mjyd wałdy_zade	100	PN	[pred="mjyd wałdy_zade_____1",cat=PN]	mjyd wałdy_zade_____1	Default		%default	inv
+mjyd waħdy_zade	100	PN	[pred="mjyd waħdy_zade_____1",cat=PN]	mjyd waħdy_zade_____1	Default		%default	inv
 mjyd wfadar	100	PN	[pred="mjyd wfadar_____1",cat=PN]	mjyd wfadar_____1	Default		%default	inv
-mjyd âey	100	PN	[pred="mjyd âey_____1",cat=PN]	mjyd âey_____1	Default		%default	inv
+mjyd āey	100	PN	[pred="mjyd āey_____1",cat=PN]	mjyd āey_____1	Default		%default	inv
 mjyd šryf	100	PN	[pred="mjyd šryf___Majid Sharif__1",cat=PN]	mjyd šryf___Majid Sharif__1	Default		%default	inv
 mjyd šryf waŕfy	100	PN	[pred="mjyd šryf waŕfy___Majid Sharif Vaghefi__1",cat=PN]	mjyd šryf waŕfy___Majid Sharif Vaghefi__1	Default		%default	inv
 mjyraldyn bylŕany	100	PN	[pred="mjyraldyn bylŕany_____1",cat=PN]	mjyraldyn bylŕany_____1	Default		%default	inv
@@ -4073,12 +4073,12 @@ ml gybswn	100	PN	[pred="ml gybswn___Mel Gibson__1",cat=PN]	ml gybswn___Mel Gibso
 mla 'bdalle faźl twny	100	PN	[pred="mla 'bdalle faźl twny_____1",cat=PN]	mla 'bdalle faźl twny_____1	Default		%default	inv
 mla 'la°almlk twny	100	PN	[pred="mla 'la°almlk twny___Mulla Alaul Maulk Tuni__1",cat=PN]	mla 'la°almlk twny___Mulla Alaul Maulk Tuni__1	Default		%default	inv
 mla 'ly kny	100	PN	[pred="mla 'ly kny_____1",cat=PN]	mla 'ly kny_____1	Default		%default	inv
-mla młmd 'ly kwxrdy	100	PN	[pred="mla młmd 'ly kwxrdy_____1",cat=PN]	mla młmd 'ly kwxrdy_____1	Default		%default	inv
+mla mħmd 'ly kwxrdy	100	PN	[pred="mla mħmd 'ly kwxrdy_____1",cat=PN]	mla mħmd 'ly kwxrdy_____1	Default		%default	inv
 mla ywsf blwky	100	PN	[pred="mla ywsf blwky_____1",cat=PN]	mla ywsf blwky_____1	Default		%default	inv
 mla zlf'ly bxtyary	100	PN	[pred="mla zlf'ly bxtyary_____1",cat=PN]	mla zlf'ly bxtyary_____1	Default		%default	inv
 mlaly jwya	100	PN	[pred="mlaly jwya___Malalai Joya__1",cat=PN]	mlaly jwya___Malalai Joya__1	Default		%default	inv
 mlaly šbnm	100	PN	[pred="mlaly šbnm_____1",cat=PN]	mlaly šbnm_____1	Default		%default	inv
-mlamłmd rby'y	100	PN	[pred="mlamłmd rby'y_____1",cat=PN]	mlamłmd rby'y_____1	Default		%default	inv
+mlamħmd rby'y	100	PN	[pred="mlamħmd rby'y_____1",cat=PN]	mlamħmd rby'y_____1	Default		%default	inv
 mlany sfka	100	PN	[pred="mlany sfka___Melanie Safka__1",cat=PN]	mlany sfka___Melanie Safka__1	Default		%default	inv
 mlany čysewlm	100	PN	[pred="mlany čysewlm___Melanie Chisholm__1",cat=PN]	mlany čysewlm___Melanie Chisholm__1	Default		%default	inv
 mlaşdray šyrazy	100	PN	[pred="mlaşdray šyrazy___Mulla Sadra__1",cat=PN]	mlaşdray šyrazy___Mulla Sadra__1	Default		%default	inv
@@ -4098,44 +4098,44 @@ mndy mwr	100	PN	[pred="mndy mwr___Mandy Moore__1",cat=PN]	mndy mwr___Mandy Moore
 mnjyk trmđy	100	PN	[pred="mnjyk trmđy_____1",cat=PN]	mnjyk trmđy_____1	Default		%default	inv
 mnla´ws	100	PN	[pred="mnla´ws___Menelaus of Alexandria__1",cat=PN]	mnla´ws___Menelaus of Alexandria__1	Default		%default	inv
 mnsyws	100	PN	[pred="mnsyws___Mencius__1",cat=PN]	mnsyws___Mencius__1	Default		%default	inv
-mntżr alzydy	100	PN	[pred="mntżr alzydy___Muntadhar al-Zaidi__1",cat=PN]	mntżr alzydy___Muntadhar al-Zaidi__1	Default		%default	inv
+mntẓr alzydy	100	PN	[pred="mntẓr alzydy___Muntadhar al-Zaidi__1",cat=PN]	mntẓr alzydy___Muntadhar al-Zaidi__1	Default		%default	inv
 mnwčer anwr	100	PN	[pred="mnwčer anwr_____1",cat=PN]	mnwčer anwr_____1	Default		%default	inv
 mnwčer asma'yly	100	PN	[pred="mnwčer asma'yly_____1",cat=PN]	mnwčer asma'yly_____1	Default		%default	inv
 mnwčer atšy	100	PN	[pred="mnwčer atšy___Manouchehr Atashi__1",cat=PN]	mnwčer atšy___Manouchehr Atashi__1	Default		%default	inv
 mnwčer aÄr	100	PN	[pred="mnwčer aÄr_____1",cat=PN]	mnwčer aÄr_____1	Default		%default	inv
-mnwčer ałtramy	100	PN	[pred="mnwčer ałtramy_____1",cat=PN]	mnwčer ałtramy_____1	Default		%default	inv
+mnwčer aħtramy	100	PN	[pred="mnwčer aħtramy_____1",cat=PN]	mnwčer aħtramy_____1	Default		%default	inv
 mnwčer emaywn_pwr	100	PN	[pred="mnwčer emaywn_pwr_____1",cat=PN]	mnwčer emaywn_pwr_____1	Default		%default	inv
-mnwčer jrał_zade	100	PN	[pred="mnwčer jrał_zade_____1",cat=PN]	mnwčer jrał_zade_____1	Default		%default	inv
+mnwčer jraħ_zade	100	PN	[pred="mnwčer jraħ_zade_____1",cat=PN]	mnwčer jraħ_zade_____1	Default		%default	inv
 mnwčer mykde	100	PN	[pred="mnwčer mykde_____1",cat=PN]	mnwčer mykde_____1	Default		%default	inv
 mnwčer mzyny	100	PN	[pred="mnwčer mzyny_____1",cat=PN]	mnwčer mzyny_____1	Default		%default	inv
-mnwčer młmdy	100	PN	[pred="mnwčer młmdy_____1",cat=PN]	mnwčer młmdy_____1	Default		%default	inv
-mnwčer młmdy rwzbeany	100	PN	[pred="mnwčer młmdy rwzbeany_____1",cat=PN]	mnwčer młmdy rwzbeany_____1	Default		%default	inv
+mnwčer mħmdy	100	PN	[pred="mnwčer mħmdy_____1",cat=PN]	mnwčer mħmdy_____1	Default		%default	inv
+mnwčer mħmdy rwzbeany	100	PN	[pred="mnwčer mħmdy rwzbeany_____1",cat=PN]	mnwčer mħmdy rwzbeany_____1	Default		%default	inv
 mnwčer nwđry	100	PN	[pred="mnwčer nwđry_____1",cat=PN]	mnwčer nwđry_____1	Default		%default	inv
 mnwčer nystany	100	PN	[pred="mnwčer nystany_____1",cat=PN]	mnwčer nystany_____1	Default		%default	inv
 mnwčer wçwŕ	100	PN	[pred="mnwčer wçwŕ_____1",cat=PN]	mnwčer wçwŕ_____1	Default		%default	inv
-mnwčer łamdy	100	PN	[pred="mnwčer łamdy_____1",cat=PN]	mnwčer łamdy_____1	Default		%default	inv
+mnwčer ħamdy	100	PN	[pred="mnwčer ħamdy_____1",cat=PN]	mnwčer ħamdy_____1	Default		%default	inv
 mnwčer šybany	100	PN	[pred="mnwčer šybany_____1",cat=PN]	mnwčer šybany_____1	Default		%default	inv
 mnwčer ţaerzade	100	PN	[pred="mnwčer ţaerzade_____1",cat=PN]	mnwčer ţaerzade_____1	Default		%default	inv
 mnwčery	100	PN	[pred="mnwčery___Manuchehri__1",cat=PN]	mnwčery___Manuchehri__1	Default		%default	inv
 mnyr wkyly	100	PN	[pred="mnyr wkyly___Monir Vakili__1",cat=PN]	mnyr wkyly___Monir Vakili__1	Default		%default	inv
 mnyraldyn byrwty	100	PN	[pred="mnyraldyn byrwty_____1",cat=PN]	mnyraldyn byrwty_____1	Default		%default	inv
-mnyre ałmd slţany	100	PN	[pred="mnyre ałmd slţany_____1",cat=PN]	mnyre ałmd slţany_____1	Default		%default	inv
+mnyre aħmd slţany	100	PN	[pred="mnyre aħmd slţany_____1",cat=PN]	mnyre aħmd slţany_____1	Default		%default	inv
 mnyre grjy	100	PN	[pred="mnyre grjy_____1",cat=PN]	mnyre grjy_____1	Default		%default	inv
 mnyrw rwany_pwr	100	PN	[pred="mnyrw rwany_pwr___Moniru Ravanipor__1",cat=PN]	mnyrw rwany_pwr___Moniru Ravanipor__1	Default		%default	inv
 mnyže dwlt	100	PN	[pred="mnyže dwlt___Manija Dawlat__1",cat=PN]	mnyže dwlt___Manija Dawlat__1	Default		%default	inv
 mnyže slymy	100	PN	[pred="mnyže slymy_____1",cat=PN]	mnyže slymy_____1	Default		%default	inv
-mnyže łkmt	100	PN	[pred="mnyže łkmt___Manijeh Hekmat__1",cat=PN]	mnyže łkmt___Manijeh Hekmat__1	Default		%default	inv
+mnyže ħkmt	100	PN	[pred="mnyže ħkmt___Manijeh Hekmat__1",cat=PN]	mnyže ħkmt___Manijeh Hekmat__1	Default		%default	inv
 mnşwr arźy	100	PN	[pred="mnşwr arźy_____1",cat=PN]	mnşwr arźy_____1	Default		%default	inv
 mnşwr asanlw	100	PN	[pred="mnşwr asanlw___Mansour Osanlou__1",cat=PN]	mnşwr asanlw___Mansour Osanlou__1	Default		%default	inv
 mnşwr awjy	100	PN	[pred="mnşwr awjy_____1",cat=PN]	mnşwr awjy_____1	Default		%default	inv
 mnşwr kwšan	100	PN	[pred="mnşwr kwšan_____1",cat=PN]	mnşwr kwšan_____1	Default		%default	inv
 mnşwr nryman	100	PN	[pred="mnşwr nryman___Mansour Nariman__1",cat=PN]	mnşwr nryman___Mansour Nariman__1	Default		%default	inv
-mnşwr pwrłydry	100	PN	[pred="mnşwr pwrłydry___Mansour Pourheidari__1",cat=PN]	mnşwr pwrłydry___Mansour Pourheidari__1	Default		%default	inv
+mnşwr pwrħydry	100	PN	[pred="mnşwr pwrħydry___Mansour Pourheidari__1",cat=PN]	mnşwr pwrħydry___Mansour Pourheidari__1	Default		%default	inv
 mnşwr spernya	100	PN	[pred="mnşwr spernya_____1",cat=PN]	mnşwr spernya_____1	Default		%default	inv
 mnşwr stary	100	PN	[pred="mnşwr stary_____1",cat=PN]	mnşwr stary_____1	Default		%default	inv
 mnşwr terany	100	PN	[pred="mnşwr terany_____1",cat=PN]	mnşwr terany_____1	Default		%default	inv
-mnşwre atładye	100	PN	[pred="mnşwre atładye_____1",cat=PN]	mnşwre atładye_____1	Default		%default	inv
-mnşwre łsyny	100	PN	[pred="mnşwre łsyny_____1",cat=PN]	mnşwre łsyny_____1	Default		%default	inv
+mnşwre atħadye	100	PN	[pred="mnşwre atħadye_____1",cat=PN]	mnşwre atħadye_____1	Default		%default	inv
+mnşwre ħsyny	100	PN	[pred="mnşwre ħsyny_____1",cat=PN]	mnşwre ħsyny_____1	Default		%default	inv
 mnşwre ŕşry	100	PN	[pred="mnşwre ŕşry_____1",cat=PN]	mnşwre ŕşry_____1	Default		%default	inv
 mnşwre šja'y	100	PN	[pred="mnşwre šja'y_____1",cat=PN]	mnşwre šja'y_____1	Default		%default	inv
 mnşwre šryf_zade	100	PN	[pred="mnşwre šryf_zade_____1",cat=PN]	mnşwre šryf_zade_____1	Default		%default	inv
@@ -4143,33 +4143,33 @@ mnše amyr	100	PN	[pred="mnše amyr___Menashe Amir__1",cat=PN]	mnše amyr___Mena
 mqrby tbryzy	100	PN	[pred="mqrby tbryzy_____1",cat=PN]	mqrby tbryzy_____1	Default		%default	inv
 mqyrT bn š'be	100	PN	[pred="mqyrT bn š'be_____1",cat=PN]	mqyrT bn š'be_____1	Default		%default	inv
 mrad freadpwr	100	PN	[pred="mrad freadpwr_____1",cat=PN]	mrad freadpwr_____1	Default		%default	inv
-mrad młmdy	100	PN	[pred="mrad młmdy___Morad Mohammadi__1",cat=PN]	mrad młmdy___Morad Mohammadi__1	Default		%default	inv
+mrad mħmdy	100	PN	[pred="mrad mħmdy___Morad Mohammadi__1",cat=PN]	mrad mħmdy___Morad Mohammadi__1	Default		%default	inv
 mrjan	300	PN	[pred="mrjan_____1",cat=PN]	mrjan_____1	Default		%default	inv
-mrjan młtšm	100	PN	[pred="mrjan młtšm_____1",cat=PN]	mrjan młtšm_____1	Default		%default	inv
-mrjan ryały	100	PN	[pred="mrjan ryały_____1",cat=PN]	mrjan ryały_____1	Default		%default	inv
+mrjan mħtšm	100	PN	[pred="mrjan mħtšm_____1",cat=PN]	mrjan mħtšm_____1	Default		%default	inv
+mrjan ryaħy	100	PN	[pred="mrjan ryaħy_____1",cat=PN]	mrjan ryaħy_____1	Default		%default	inv
 mrjan satrapy	100	PN	[pred="mrjan satrapy___Marjane Satrapi__1",cat=PN]	mrjan satrapy___Marjane Satrapi__1	Default		%default	inv
 mrjan xsrwy	100	PN	[pred="mrjan xsrwy_____1",cat=PN]	mrjan xsrwy_____1	Default		%default	inv
-mrjan šyrmłmdy	100	PN	[pred="mrjan šyrmłmdy_____1",cat=PN]	mrjan šyrmłmdy_____1	Default		%default	inv
+mrjan šyrmħmdy	100	PN	[pred="mrjan šyrmħmdy_____1",cat=PN]	mrjan šyrmħmdy_____1	Default		%default	inv
 mrjane glčyn	100	PN	[pred="mrjane glčyn_____1",cat=PN]	mrjane glčyn_____1	Default		%default	inv
-mrkz kntrl w 'dm tkçyr tslyłat	100	PN	[pred="mrkz kntrl w 'dm tkçyr tslyłat_____1",cat=PN]	mrkz kntrl w 'dm tkçyr tslyłat_____1	Default		%default	inv
+mrkz kntrl w 'dm tkçyr tslyħat	100	PN	[pred="mrkz kntrl w 'dm tkçyr tslyħat_____1",cat=PN]	mrkz kntrl w 'dm tkçyr tslyħat_____1	Default		%default	inv
 mrs kanyngeam	100	PN	[pred="mrs kanyngeam___Merce Cunningham__1",cat=PN]	mrs kanyngeam___Merce Cunningham__1	Default		%default	inv
 mrtźy alwyry	100	PN	[pred="mrtźy alwyry___Morteza Alviri__1",cat=PN]	mrtźy alwyry___Morteza Alviri__1	Default		%default	inv
-mrtźy ałmdy	100	PN	[pred="mrtźy ałmdy_____1",cat=PN]	mrtźy ałmdy_____1	Default		%default	inv
+mrtźy aħmdy	100	PN	[pred="mrtźy aħmdy_____1",cat=PN]	mrtźy aħmdy_____1	Default		%default	inv
 mrtźy aŕaterany	100	PN	[pred="mrtźy aŕaterany_____1",cat=PN]	mrtźy aŕaterany_____1	Default		%default	inv
 mrtźy kywan	100	PN	[pred="mrtźy kywan_____1",cat=PN]	mrtźy kywan_____1	Default		%default	inv
 mrtźy mmyz	100	PN	[pred="mrtźy mmyz___Morteza Momayez__1",cat=PN]	mrtźy mmyz___Morteza Momayez__1	Default		%default	inv
 mrtźy mwdb_pwr	100	PN	[pred="mrtźy mwdb_pwr_____1",cat=PN]	mrtźy mwdb_pwr_____1	Default		%default	inv
-mrtźy młjwb	100	PN	[pred="mrtźy młjwb___Morteza Mahjoub__1",cat=PN]	mrtźy młjwb___Morteza Mahjoub__1	Default		%default	inv
-mrtźy młjwby	100	PN	[pred="mrtźy młjwby___Morteza Mahjoubi__1",cat=PN]	mrtźy młjwby___Morteza Mahjoubi__1	Default		%default	inv
+mrtźy mħjwb	100	PN	[pred="mrtźy mħjwb___Morteza Mahjoub__1",cat=PN]	mrtźy mħjwb___Morteza Mahjoub__1	Default		%default	inv
+mrtźy mħjwby	100	PN	[pred="mrtźy mħjwby___Morteza Mahjoubi__1",cat=PN]	mrtźy mħjwby___Morteza Mahjoubi__1	Default		%default	inv
 mrtźy mţery	100	PN	[pred="mrtźy mţery___Morteza Motahhari__1",cat=PN]	mrtźy mţery___Morteza Motahhari__1	Default		%default	inv
 mrtźy nbwy	100	PN	[pred="mrtźy nbwy_____1",cat=PN]	mrtźy nbwy_____1	Default		%default	inv
 mrtźy ny_dawwd	100	PN	[pred="mrtźy ny_dawwd___Morteza Neydavoud__1",cat=PN]	mrtźy ny_dawwd___Morteza Neydavoud__1	Default		%default	inv
 mrtźy rawndy	100	PN	[pred="mrtźy rawndy_____1",cat=PN]	mrtźy rawndy_____1	Default		%default	inv
 mrtźy spe_wnd	100	PN	[pred="mrtźy spe_wnd___Morteza Sepahvand__1",cat=PN]	mrtźy spe_wnd___Morteza Sepahvand__1	Default		%default	inv
 mrtźy wyškayy	100	PN	[pred="mrtźy wyškayy_____1",cat=PN]	mrtźy wyškayy_____1	Default		%default	inv
-mrtźy łnane	100	PN	[pred="mrtźy łnane___Morteza Hannaneh__1",cat=PN]	mrtźy łnane___Morteza Hannaneh__1	Default		%default	inv
-mrtźy łsn_pwr frd xrašad	100	PN	[pred="mrtźy łsn_pwr frd xrašad_____1",cat=PN]	mrtźy łsn_pwr frd xrašad_____1	Default		%default	inv
-mrtźy łydry	100	PN	[pred="mrtźy łydry_____1",cat=PN]	mrtźy łydry_____1	Default		%default	inv
+mrtźy ħnane	100	PN	[pred="mrtźy ħnane___Morteza Hannaneh__1",cat=PN]	mrtźy ħnane___Morteza Hannaneh__1	Default		%default	inv
+mrtźy ħsn_pwr frd xrašad	100	PN	[pred="mrtźy ħsn_pwr frd xrašad_____1",cat=PN]	mrtźy ħsn_pwr frd xrašad_____1	Default		%default	inv
+mrtźy ħydry	100	PN	[pred="mrtźy ħydry_____1",cat=PN]	mrtźy ħydry_____1	Default		%default	inv
 mrtźy ŕly xan šamlw	100	PN	[pred="mrtźy ŕly xan šamlw_____1",cat=PN]	mrtźy ŕly xan šamlw_____1	Default		%default	inv
 mrwan brqwçy	100	PN	[pred="mrwan brqwçy___Marwan Barghouti__1",cat=PN]	mrwan brqwçy___Marwan Barghouti__1	Default		%default	inv
 mrwe šrbyny	100	PN	[pred="mrwe šrbyny___Murder of Marwa El-Sherbini__1",cat=PN]	mrwe šrbyny___Murder of Marwa El-Sherbini__1	Default		%default	inv
@@ -4200,8 +4200,8 @@ mrym rjwy	100	PN	[pred="mrym rjwy___Maryam Rajavi__1",cat=PN]	mrym rjwy___Maryam
 mrym swadkwey	100	PN	[pred="mrym swadkwey_____1",cat=PN]	mrym swadkwey_____1	Default		%default	inv
 mrym xrasany	100	PN	[pred="mrym xrasany_____1",cat=PN]	mrym xrasany_____1	Default		%default	inv
 mrym ywsf jmal	100	PN	[pred="mrym ywsf jmal___Maryam Yusuf Jamal__1",cat=PN]	mrym ywsf jmal___Maryam Yusuf Jamal__1	Default		%default	inv
-mrym łsynyan	100	PN	[pred="mrym łsynyan_____1",cat=PN]	mrym łsynyan_____1	Default		%default	inv
-mrym łydrzade	100	PN	[pred="mrym łydrzade___Maryam Heydarzadeh__1",cat=PN]	mrym łydrzade___Maryam Heydarzadeh__1	Default		%default	inv
+mrym ħsynyan	100	PN	[pred="mrym ħsynyan_____1",cat=PN]	mrym ħsynyan_____1	Default		%default	inv
+mrym ħydrzade	100	PN	[pred="mrym ħydrzade___Maryam Heydarzadeh__1",cat=PN]	mrym ħydrzade___Maryam Heydarzadeh__1	Default		%default	inv
 mrym şfy_xany	100	PN	[pred="mrym şfy_xany_____1",cat=PN]	mrym şfy_xany_____1	Default		%default	inv
 mrym šyrzad	100	PN	[pred="mrym šyrzad_____1",cat=PN]	mrym šyrzad_____1	Default		%default	inv
 mryn fyç_fwl	100	PN	[pred="mryn fyç_fwl___Marianne Faithfull__1",cat=PN]	mryn fyç_fwl___Marianne Faithfull__1	Default		%default	inv
@@ -4209,9 +4209,9 @@ mrźye	100	PN	[pred="mrźye___Marzieh__1",cat=PN]	mrźye___Marzieh__1	Default		%
 mrźye brwmnd	100	PN	[pred="mrźye brwmnd_____1",cat=PN]	mrźye brwmnd_____1	Default		%default	inv
 mrźye fryŕy	100	PN	[pred="mrźye fryŕy___Merziye Feriqi__1",cat=PN]	mrźye fryŕy___Merziye Feriqi__1	Default		%default	inv
 mrźye mškyny	100	PN	[pred="mrźye mškyny___Marzieh Meshkini__1",cat=PN]	mrźye mškyny___Marzieh Meshkini__1	Default		%default	inv
-mrźye łdydčy	100	PN	[pred="mrźye łdydčy_____1",cat=PN]	mrźye łdydčy_____1	Default		%default	inv
+mrźye ħdydčy	100	PN	[pred="mrźye ħdydčy_____1",cat=PN]	mrźye ħdydčy_____1	Default		%default	inv
 mrźye źraby	100	PN	[pred="mrźye źraby_____1",cat=PN]	mrźye źraby_____1	Default		%default	inv
-ms'wd 'ly_młmdy	100	PN	[pred="ms'wd 'ly_młmdy___Masoud Alimohammadi__1",cat=PN]	ms'wd 'ly_młmdy___Masoud Alimohammadi__1	Default		%default	inv
+ms'wd 'ly_mħmdy	100	PN	[pred="ms'wd 'ly_mħmdy___Masoud Alimohammadi__1",cat=PN]	ms'wd 'ly_mħmdy___Masoud Alimohammadi__1	Default		%default	inv
 ms'wd 'rbšaey	100	PN	[pred="ms'wd 'rbšaey___Massoud Arabshahi__1",cat=PN]	ms'wd 'rbšaey___Massoud Arabshahi__1	Default		%default	inv
 ms'wd aţrafy	100	PN	[pred="ms'wd aţrafy_____1",cat=PN]	ms'wd aţrafy_____1	Default		%default	inv
 ms'wd benwd	100	PN	[pred="ms'wd benwd___Massoud Behnoud__1",cat=PN]	ms'wd benwd___Massoud Behnoud__1	Default		%default	inv
@@ -4228,9 +4228,9 @@ ms'wd rwqny znjany	100	PN	[pred="ms'wd rwqny znjany_____1",cat=PN]	ms'wd rwqny z
 ms'wd s'd slman	100	PN	[pred="ms'wd s'd slman___Masud Sa'd Salman__1",cat=PN]	ms'wd s'd slman___Masud Sa'd Salman__1	Default		%default	inv
 ms'wd xyam	100	PN	[pred="ms'wd xyam_____1",cat=PN]	ms'wd xyam_____1	Default		%default	inv
 ms'wd zar'y	100	PN	[pred="ms'wd zar'y___Masoud Zarei__1",cat=PN]	ms'wd zar'y___Masoud Zarei__1	Default		%default	inv
-ms'wd âÄrnwš	100	PN	[pred="ms'wd âÄrnwš___Massoud Azarnoush__1",cat=PN]	ms'wd âÄrnwš___Massoud Azarnoush__1	Default		%default	inv
+ms'wd āÄrnwš	100	PN	[pred="ms'wd āÄrnwš___Massoud Azarnoush__1",cat=PN]	ms'wd āÄrnwš___Massoud Azarnoush__1	Default		%default	inv
 ms'wd čwbyn	100	PN	[pred="ms'wd čwbyn_____1",cat=PN]	ms'wd čwbyn_____1	Default		%default	inv
-ms'wd łajy axwndzade	100	PN	[pred="ms'wd łajy axwndzade___Masoud Haji Akhondzadeh__1",cat=PN]	ms'wd łajy axwndzade___Masoud Haji Akhondzadeh__1	Default		%default	inv
+ms'wd ħajy axwndzade	100	PN	[pred="ms'wd ħajy axwndzade___Masoud Haji Akhondzadeh__1",cat=PN]	ms'wd ħajy axwndzade___Masoud Haji Akhondzadeh__1	Default		%default	inv
 ms'wd şdr alaslam	100	PN	[pred="ms'wd şdr alaslam_____1",cat=PN]	ms'wd şdr alaslam_____1	Default		%default	inv
 ms'wd š'ary	100	PN	[pred="ms'wd š'ary_____1",cat=PN]	ms'wd š'ary_____1	Default		%default	inv
 ms'wd šja'y	100	PN	[pred="ms'wd šja'y___Masoud Shojaei__1",cat=PN]	ms'wd šja'y___Masoud Shojaei__1	Default		%default	inv
@@ -4242,9 +4242,9 @@ mslm maŕmayf	100	PN	[pred="mslm maŕmayf___Muslim Magomayev (composer)__1",cat=
 mslm nyšabwry	100	PN	[pred="mslm nyšabwry___Muslim ibn al-Hajjaj__1",cat=PN]	mslm nyšabwry___Muslim ibn al-Hajjaj__1	Default		%default	inv
 mstwre afšar	100	PN	[pred="mstwre afšar_____1",cat=PN]	mstwre afšar_____1	Default		%default	inv
 mstwre ardlan	100	PN	[pred="mstwre ardlan___Mastoureh Ardalan__1",cat=PN]	mstwre ardlan___Mastoureh Ardalan__1	Default		%default	inv
-msył 'ly_nžad	100	PN	[pred="msył 'ly_nžad___Masih Alinejad__1",cat=PN]	msył 'ly_nžad___Masih Alinejad__1	Default		%default	inv
-msył meajry	100	PN	[pred="msył meajry_____1",cat=PN]	msył meajry_____1	Default		%default	inv
-msyły fwšnjy	100	PN	[pred="msyły fwšnjy_____1",cat=PN]	msyły fwšnjy_____1	Default		%default	inv
+msyħ 'ly_nžad	100	PN	[pred="msyħ 'ly_nžad___Masih Alinejad__1",cat=PN]	msyħ 'ly_nžad___Masih Alinejad__1	Default		%default	inv
+msyħ meajry	100	PN	[pred="msyħ meajry_____1",cat=PN]	msyħ meajry_____1	Default		%default	inv
+msyħy fwšnjy	100	PN	[pred="msyħy fwšnjy_____1",cat=PN]	msyħy fwšnjy_____1	Default		%default	inv
 mt dymwn	100	PN	[pred="mt dymwn___Matt Damon__1",cat=PN]	mt dymwn___Matt Damon__1	Default		%default	inv
 mtyn 'zyzpwr	100	PN	[pred="mtyn 'zyzpwr_____1",cat=PN]	mtyn 'zyzpwr_____1	Default		%default	inv
 mtyw blamy	100	PN	[pred="mtyw blamy___Matthew Bellamy__1",cat=PN]	mtyw blamy___Matthew Bellamy__1	Default		%default	inv
@@ -4258,10 +4258,10 @@ mwdst mwswrgsky	100	PN	[pred="mwdst mwswrgsky___Modest Mussorgsky__1",cat=PN]	mw
 mwlana 'ašŕ systany	100	PN	[pred="mwlana 'ašŕ systany_____1",cat=PN]	mwlana 'ašŕ systany_____1	Default		%default	inv
 mwlana 'bdal'ly byrjndy	100	PN	[pred="mwlana 'bdal'ly byrjndy___Al-Birjandi__1",cat=PN]	mwlana 'bdal'ly byrjndy___Al-Birjandi__1	Default		%default	inv
 mwlana emty angwrany	100	PN	[pred="mwlana emty angwrany_____1",cat=PN]	mwlana emty angwrany_____1	Default		%default	inv
-mwlana'bdal'ly młwy ardbyly	100	PN	[pred="mwlana'bdal'ly młwy ardbyly_____1",cat=PN]	mwlana'bdal'ly młwy ardbyly_____1	Default		%default	inv
+mwlana'bdal'ly mħwy ardbyly	100	PN	[pred="mwlana'bdal'ly mħwy ardbyly_____1",cat=PN]	mwlana'bdal'ly mħwy ardbyly_____1	Default		%default	inv
 mwlwd beramyan	100	PN	[pred="mwlwd beramyan_____1",cat=PN]	mwlwd beramyan_____1	Default		%default	inv
 mwlyr	100	PN	[pred="mwlyr___Moliere__1",cat=PN]	mwlyr___Moliere__1	Default		%default	inv
-mwna młmwdnžad	100	PN	[pred="mwna młmwdnžad___Mona Mahmudnizhad__1",cat=PN]	mwna młmwdnžad___Mona Mahmudnizhad__1	Default		%default	inv
+mwna mħmwdnžad	100	PN	[pred="mwna mħmwdnžad___Mona Mahmudnizhad__1",cat=PN]	mwna mħmwdnžad___Mona Mahmudnizhad__1	Default		%default	inv
 mwnyka 'ly	100	PN	[pred="mwnyka 'ly___Monica Ali__1",cat=PN]	mwnyka 'ly___Monica Ali__1	Default		%default	inv
 mwnyka blwčy	100	PN	[pred="mwnyka blwčy___Monica Bellucci__1",cat=PN]	mwnyka blwčy___Monica Bellucci__1	Default		%default	inv
 mwrgan frymn	100	PN	[pred="mwrgan frymn___Morgan Freeman__1",cat=PN]	mwrgan frymn___Morgan Freeman__1	Default		%default	inv
@@ -4296,8 +4296,8 @@ myk jwnz	100	PN	[pred="myk jwnz___Mick Jones (The Clash)__1",cat=PN]	myk jwnz___
 myk tylwr	100	PN	[pred="myk tylwr___Mick Taylor__1",cat=PN]	myk tylwr___Mick Taylor__1	Default		%default	inv
 myka waltary	100	PN	[pred="myka waltary___Mika Waltari__1",cat=PN]	myka waltary___Mika Waltari__1	Default		%default	inv
 mykaÂ´yl n'lbndyan	100	PN	[pred="mykaÂ´yl n'lbndyan___Mikael Nalbandian__1",cat=PN]	mykaÂ´yl n'lbndyan___Mikael Nalbandian__1	Default		%default	inv
-mykl_anjlw ântwnywny	100	PN	[pred="mykl_anjlw ântwnywny___Michelangelo Antonioni__1",cat=PN]	mykl_anjlw ântwnywny___Michelangelo Antonioni__1	Default		%default	inv
-mykl_ânjlw	100	PN	[pred="mykl_ânjlw___Michelangelo__1",cat=PN]	mykl_ânjlw___Michelangelo__1	Default		%default	inv
+mykl_anjlw āntwnywny	100	PN	[pred="mykl_anjlw āntwnywny___Michelangelo Antonioni__1",cat=PN]	mykl_anjlw āntwnywny___Michelangelo Antonioni__1	Default		%default	inv
+mykl_ānjlw	100	PN	[pred="mykl_ānjlw___Michelangelo__1",cat=PN]	mykl_ānjlw___Michelangelo__1	Default		%default	inv
 myky nadal	100	PN	[pred="myky nadal_____1",cat=PN]	myky nadal_____1	Default		%default	inv
 mykys t´wdwrakys	100	PN	[pred="mykys t´wdwrakys___Mikis Theodorakis__1",cat=PN]	mykys t´wdwrakys___Mikis Theodorakis__1	Default		%default	inv
 myla kwnys	100	PN	[pred="myla kwnys___Mila Kunis__1",cat=PN]	myla kwnys___Mila Kunis__1	Default		%default	inv
@@ -4314,7 +4314,7 @@ myly balakyrf	100	PN	[pred="myly balakyrf___Mily Balakirev__1",cat=PN]	myly bala
 mymnt myr şadŕy	100	PN	[pred="mymnt myr şadŕy_____1",cat=PN]	mymnt myr şadŕy_____1	Default		%default	inv
 myn fwng ew	100	PN	[pred="myn fwng ew___Minfong Ho__1",cat=PN]	myn fwng ew___Minfong Ho__1	Default		%default	inv
 myna 'lyzade	100	PN	[pred="myna 'lyzade_____1",cat=PN]	myna 'lyzade_____1	Default		%default	inv
-myna ałdy	100	PN	[pred="myna ałdy___Mina Ahadi__1",cat=PN]	myna ałdy___Mina Ahadi__1	Default		%default	inv
+myna aħdy	100	PN	[pred="myna aħdy___Mina Ahadi__1",cat=PN]	myna aħdy___Mina Ahadi__1	Default		%default	inv
 myna kšwrkmal	100	PN	[pred="myna kšwrkmal___Meena Keshwar Kamal__1",cat=PN]	myna kšwrkmal___Meena Keshwar Kamal__1	Default		%default	inv
 myna lakany	100	PN	[pred="myna lakany_____1",cat=PN]	myna lakany_____1	Default		%default	inv
 myng ea´wčan	100	PN	[pred="myng ea´wčan___Meng Haoran__1",cat=PN]	myng ea´wčan___Meng Haoran__1	Default		%default	inv
@@ -4331,7 +4331,7 @@ myrwslaw blažwyč	100	PN	[pred="myrwslaw blažwyč___Miroslav Blažević__1",ca
 myrwslaw klwze	100	PN	[pred="myrwslaw klwze___Miroslav Klose__1",cat=PN]	myrwslaw klwze___Miroslav Klose__1	Default		%default	inv
 myryam makba	100	PN	[pred="myryam makba___Miriam Makeba__1",cat=PN]	myryam makba___Miriam Makeba__1	Default		%default	inv
 myrza 'bdalle fraeany	100	PN	[pred="myrza 'bdalle fraeany___Mirza Abdollah__1",cat=PN]	myrza 'bdalle fraeany___Mirza Abdollah__1	Default		%default	inv
-myrza 'bdalrłym ţalbwf	100	PN	[pred="myrza 'bdalrłym ţalbwf___Mirza Abdul'Rahim Talibov Tabrizi__1",cat=PN]	myrza 'bdalrłym ţalbwf___Mirza Abdul'Rahim Talibov Tabrizi__1	Default		%default	inv
+myrza 'bdalrħym ţalbwf	100	PN	[pred="myrza 'bdalrħym ţalbwf___Mirza Abdul'Rahim Talibov Tabrizi__1",cat=PN]	myrza 'bdalrħym ţalbwf___Mirza Abdul'Rahim Talibov Tabrizi__1	Default		%default	inv
 myrza 'ly_akbr şabr	100	PN	[pred="myrza 'ly_akbr şabr___Mirza Alakbar Sabir__1",cat=PN]	myrza 'ly_akbr şabr___Mirza Alakbar Sabir__1	Default		%default	inv
 myrza 'ysy xyaly	100	PN	[pred="myrza 'ysy xyaly_____1",cat=PN]	myrza 'ysy xyaly_____1	Default		%default	inv
 myrza abraeym xan 'kasbašy	100	PN	[pred="myrza abraeym xan 'kasbašy_____1",cat=PN]	myrza abraeym xan 'kasbašy_____1	Default		%default	inv
@@ -4339,41 +4339,41 @@ myrza aŕaxan krmany	100	PN	[pred="myrza aŕaxan krmany_____1",cat=PN]	myrza aŕ
 myrza babayf	100	PN	[pred="myrza babayf_____1",cat=PN]	myrza babayf_____1	Default		%default	inv
 myrza eašm amly	100	PN	[pred="myrza eašm amly___Hashem Amoli__1",cat=PN]	myrza eašm amly___Hashem Amoli__1	Default		%default	inv
 myrza eašm aštyany	100	PN	[pred="myrza eašm aštyany_____1",cat=PN]	myrza eašm aštyany_____1	Default		%default	inv
-myrza ftł'ly axwndzade	100	PN	[pred="myrza ftł'ly axwndzade___Mirza Fatali Akhundov__1",cat=PN]	myrza ftł'ly axwndzade___Mirza Fatali Akhundov__1	Default		%default	inv
-myrza ftł'ly šyrazy	100	PN	[pred="myrza ftł'ly šyrazy_____1",cat=PN]	myrza ftł'ly šyrazy_____1	Default		%default	inv
+myrza ftħ'ly axwndzade	100	PN	[pred="myrza ftħ'ly axwndzade___Mirza Fatali Akhundov__1",cat=PN]	myrza ftħ'ly axwndzade___Mirza Fatali Akhundov__1	Default		%default	inv
+myrza ftħ'ly šyrazy	100	PN	[pred="myrza ftħ'ly šyrazy_____1",cat=PN]	myrza ftħ'ly šyrazy_____1	Default		%default	inv
 myrza j'fr xan mšyraldwle	100	PN	[pred="myrza j'fr xan mšyraldwle_____1",cat=PN]	myrza j'fr xan mšyraldwle_____1	Default		%default	inv
 myrza krym_xan ršty	100	PN	[pred="myrza krym_xan ršty_____1",cat=PN]	myrza krym_xan ršty_____1	Default		%default	inv
 myrza medy astrabady	100	PN	[pred="myrza medy astrabady___Mirza Mehdi Khan Astarabadi__1",cat=PN]	myrza medy astrabady___Mirza Mehdi Khan Astarabadi__1	Default		%default	inv
 myrza mlkm xan	100	PN	[pred="myrza mlkm xan___Mirza Malkam Khan__1",cat=PN]	myrza mlkm xan___Mirza Malkam Khan__1	Default		%default	inv
-myrza młmd dawry	100	PN	[pred="myrza młmd dawry_____1",cat=PN]	myrza młmd dawry_____1	Default		%default	inv
-myrza młmd j'fr xan łŕayŕ ngar xwrmwjy	100	PN	[pred="myrza młmd j'fr xan łŕayŕ ngar xwrmwjy_____1",cat=PN]	myrza młmd j'fr xan łŕayŕ ngar xwrmwjy_____1	Default		%default	inv
-myrza młmd'ly młlaty	100	PN	[pred="myrza młmd'ly młlaty___Hajj Sayyah__1",cat=PN]	myrza młmd'ly młlaty___Hajj Sayyah__1	Default		%default	inv
-myrza młmd_'ly aşfeany	100	PN	[pred="myrza młmd_'ly aşfeany_____1",cat=PN]	myrza młmd_'ly aşfeany_____1	Default		%default	inv
-myrza młmdrźa kler	100	PN	[pred="myrza młmdrźa kler_____1",cat=PN]	myrza młmdrźa kler_____1	Default		%default	inv
-myrza młmwd wşal	100	PN	[pred="myrza młmwd wşal_____1",cat=PN]	myrza młmwd wşal_____1	Default		%default	inv
+myrza mħmd dawry	100	PN	[pred="myrza mħmd dawry_____1",cat=PN]	myrza mħmd dawry_____1	Default		%default	inv
+myrza mħmd j'fr xan ħŕayŕ ngar xwrmwjy	100	PN	[pred="myrza mħmd j'fr xan ħŕayŕ ngar xwrmwjy_____1",cat=PN]	myrza mħmd j'fr xan ħŕayŕ ngar xwrmwjy_____1	Default		%default	inv
+myrza mħmd'ly mħlaty	100	PN	[pred="myrza mħmd'ly mħlaty___Hajj Sayyah__1",cat=PN]	myrza mħmd'ly mħlaty___Hajj Sayyah__1	Default		%default	inv
+myrza mħmd_'ly aşfeany	100	PN	[pred="myrza mħmd_'ly aşfeany_____1",cat=PN]	myrza mħmd_'ly aşfeany_____1	Default		%default	inv
+myrza mħmdrźa kler	100	PN	[pred="myrza mħmdrźa kler_____1",cat=PN]	myrza mħmdrźa kler_____1	Default		%default	inv
+myrza mħmwd wşal	100	PN	[pred="myrza mħmwd wşal_____1",cat=PN]	myrza mħmwd wşal_____1	Default		%default	inv
 myrza nşralle_ na´yny	100	PN	[pred="myrza nşralle_ na´yny_____1",cat=PN]	myrza nşralle_ na´yny_____1	Default		%default	inv
 myrza qlamrźa aşfeany	100	PN	[pred="myrza qlamrźa aşfeany_____1",cat=PN]	myrza qlamrźa aşfeany_____1	Default		%default	inv
 myrza twrswn_zade	100	PN	[pred="myrza twrswn_zade___Mirzo Tursunzoda__1",cat=PN]	myrza twrswn_zade___Mirzo Tursunzoda__1	Default		%default	inv
 myrza tŕy xan kašany	100	PN	[pred="myrza tŕy xan kašany_____1",cat=PN]	myrza tŕy xan kašany_____1	Default		%default	inv
-myrza łbyb aşfeany	100	PN	[pred="myrza łbyb aşfeany_____1",cat=PN]	myrza łbyb aşfeany_____1	Default		%default	inv
-myrza łbyb_alle ršty	100	PN	[pred="myrza łbyb_alle ršty_____1",cat=PN]	myrza łbyb_alle ršty_____1	Default		%default	inv
-myrza łsn aštyany	100	PN	[pred="myrza łsn aštyany_____1",cat=PN]	myrza łsn aštyany_____1	Default		%default	inv
-myrza łsyn_xan mšyraldwle	100	PN	[pred="myrza łsyn_xan mšyraldwle_____1",cat=PN]	myrza łsyn_xan mšyraldwle_____1	Default		%default	inv
-myrza şalł šyrazy	100	PN	[pred="myrza şalł šyrazy_____1",cat=PN]	myrza şalł šyrazy_____1	Default		%default	inv
+myrza ħbyb aşfeany	100	PN	[pred="myrza ħbyb aşfeany_____1",cat=PN]	myrza ħbyb aşfeany_____1	Default		%default	inv
+myrza ħbyb_alle ršty	100	PN	[pred="myrza ħbyb_alle ršty_____1",cat=PN]	myrza ħbyb_alle ršty_____1	Default		%default	inv
+myrza ħsn aštyany	100	PN	[pred="myrza ħsn aštyany_____1",cat=PN]	myrza ħsn aštyany_____1	Default		%default	inv
+myrza ħsyn_xan mšyraldwle	100	PN	[pred="myrza ħsyn_xan mšyraldwle_____1",cat=PN]	myrza ħsyn_xan mšyraldwle_____1	Default		%default	inv
+myrza şalħ šyrazy	100	PN	[pred="myrza şalħ šyrazy_____1",cat=PN]	myrza şalħ šyrazy_____1	Default		%default	inv
 myrza šja' systany	100	PN	[pred="myrza šja' systany_____1",cat=PN]	myrza šja' systany_____1	Default		%default	inv
 myrzade 'šŕy	100	PN	[pred="myrzade 'šŕy___Mirzadeh Eshghi__1",cat=PN]	myrzade 'šŕy___Mirzadeh Eshghi__1	Default		%default	inv
-myrzamłsn łalty ardbyly	100	PN	[pred="myrzamłsn łalty ardbyly_____1",cat=PN]	myrzamłsn łalty ardbyly_____1	Default		%default	inv
+myrzamħsn ħalty ardbyly	100	PN	[pred="myrzamħsn ħalty ardbyly_____1",cat=PN]	myrzamħsn ħalty ardbyly_____1	Default		%default	inv
 myrzarźa krmany	100	PN	[pred="myrzarźa krmany___Mirza Reza Kermani__1",cat=PN]	myrzarźa krmany___Mirza Reza Kermani__1	Default		%default	inv
 myrča alyade	100	PN	[pred="myrča alyade___Mircea Eliade__1",cat=PN]	myrča alyade___Mircea Eliade__1	Default		%default	inv
-myrłsyn mwswy	100	PN	[pred="myrłsyn mwswy___Mir-Hossein Mousavi__1",cat=PN]	myrłsyn mwswy___Mir-Hossein Mousavi__1	Default		%default	inv
-myrşalł máżfrzade	100	PN	[pred="myrşalł máżfrzade_____1",cat=PN]	myrşalł máżfrzade_____1	Default		%default	inv
+myrħsyn mwswy	100	PN	[pred="myrħsyn mwswy___Mir-Hossein Mousavi__1",cat=PN]	myrħsyn mwswy___Mir-Hossein Mousavi__1	Default		%default	inv
+myrşalħ máẓfrzade	100	PN	[pred="myrşalħ máẓfrzade_____1",cat=PN]	myrşalħ máẓfrzade_____1	Default		%default	inv
 myt lwf	100	PN	[pred="myt lwf___Meat Loaf__1",cat=PN]	myt lwf___Meat Loaf__1	Default		%default	inv
 myt ramny	100	PN	[pred="myt ramny___Mitt Romney__1",cat=PN]	myt ramny___Mitt Romney__1	Default		%default	inv
 mytra alyaty	100	PN	[pred="mytra alyaty_____1",cat=PN]	mytra alyaty_____1	Default		%default	inv
 mytra dawr	100	PN	[pred="mytra dawr_____1",cat=PN]	mytra dawr_____1	Default		%default	inv
 mytra fraeany	100	PN	[pred="mytra fraeany___Mitra Farahani__1",cat=PN]	mytra fraeany___Mitra Farahani__1	Default		%default	inv
 mytra mnşwry	100	PN	[pred="mytra mnşwry_____1",cat=PN]	mytra mnşwry_____1	Default		%default	inv
-mytra łjar	100	PN	[pred="mytra łjar___Mitra Hajjar__1",cat=PN]	mytra łjar___Mitra Hajjar__1	Default		%default	inv
+mytra ħjar	100	PN	[pred="mytra ħjar___Mitra Hajjar__1",cat=PN]	mytra ħjar___Mitra Hajjar__1	Default		%default	inv
 myxayyl srgywyč aywanf	100	PN	[pred="myxayyl srgywyč aywanf_____1",cat=PN]	myxayyl srgywyč aywanf_____1	Default		%default	inv
 myxa´yl aypwlytf aywanf	100	PN	[pred="myxa´yl aypwlytf aywanf___Mikhail Ippolitov-Ivanov__1",cat=PN]	myxa´yl aypwlytf aywanf___Mikhail Ippolitov-Ivanov__1	Default		%default	inv
 myxa´yl batwynyk	100	PN	[pred="myxa´yl batwynyk___Mikhail Botvinnik__1",cat=PN]	myxa´yl batwynyk___Mikhail Botvinnik__1	Default		%default	inv
@@ -4414,365 +4414,365 @@ mzdk myrzayy	100	PN	[pred="mzdk myrzayy_____1",cat=PN]	mzdk myrzayy_____1	Defaul
 mzer najy aldlymy	100	PN	[pred="mzer najy aldlymy_____1",cat=PN]	mzer najy aldlymy_____1	Default		%default	inv
 m´yr 'zry	100	PN	[pred="m´yr 'zry_____1",cat=PN]	m´yr 'zry_____1	Default		%default	inv
 m´yr dyzngwf	100	PN	[pred="m´yr dyzngwf___Meir Dizengoff__1",cat=PN]	m´yr dyzngwf___Meir Dizengoff__1	Default		%default	inv
-młbwbe ałdgr	100	PN	[pred="młbwbe ałdgr___Mehboba Ahdyar__1",cat=PN]	młbwbe ałdgr___Mehboba Ahdyar__1	Default		%default	inv
-młbwbe byat	100	PN	[pred="młbwbe byat_____1",cat=PN]	młbwbe byat_____1	Default		%default	inv
-młbwbe mŕbly	100	PN	[pred="młbwbe mŕbly_____1",cat=PN]	młbwbe mŕbly_____1	Default		%default	inv
-młjwbe erwy	100	PN	[pred="młjwbe erwy_____1",cat=PN]	młjwbe erwy_____1	Default		%default	inv
-młmd 'abd jabry	100	PN	[pred="młmd 'abd jabry___Mohammed Abed al-Jabri__1",cat=PN]	młmd 'abd jabry___Mohammed Abed al-Jabri__1	Default		%default	inv
-młmd 'bayy xrasany	100	PN	[pred="młmd 'bayy xrasany___Mohammad Va'ez Abaee-Khorasani__1",cat=PN]	młmd 'bayy xrasany___Mohammad Va'ez Abaee-Khorasani__1	Default		%default	inv
-młmd 'bdalweab	100	PN	[pred="młmd 'bdalweab___Mohammed Abdel Wahab__1",cat=PN]	młmd 'bdalweab___Mohammed Abdel Wahab__1	Default		%default	inv
-młmd 'lwy	100	PN	[pred="młmd 'lwy___Mohammad Alavi (footballer)__1",cat=PN]	młmd 'lwy___Mohammad Alavi (footballer)__1	Default		%default	inv
-młmd 'ly	100	PN	[pred="młmd 'ly___Muhammad Ali__1",cat=PN]	młmd 'ly___Muhammad Ali__1	Default		%default	inv
-młmd 'ly 'lame włydy	100	PN	[pred="młmd 'ly 'lame włydy_____1",cat=PN]	młmd 'ly 'lame włydy_____1	Default		%default	inv
-młmd 'ly ramyn	100	PN	[pred="młmd 'ly ramyn___Mohammad-Ali Ramin__1",cat=PN]	młmd 'ly ramyn___Mohammad-Ali Ramin__1	Default		%default	inv
-młmd 'ly spanlw	100	PN	[pred="młmd 'ly spanlw___Mohammad-Ali Sepanlou__1",cat=PN]	młmd 'ly spanlw___Mohammad-Ali Sepanlou__1	Default		%default	inv
-młmd 'lyrźayy	100	PN	[pred="młmd 'lyrźayy___Mohammad Alirezaei__1",cat=PN]	młmd 'lyrźayy___Mohammad Alirezaei__1	Default		%default	inv
-młmd 'wfy	100	PN	[pred="młmd 'wfy_____1",cat=PN]	młmd 'wfy_____1	Default		%default	inv
-młmd 'zyzy	100	PN	[pred="młmd 'zyzy_____1",cat=PN]	młmd 'zyzy_____1	Default		%default	inv
-młmd 'şar tbryzy	100	PN	[pred="młmd 'şar tbryzy_____1",cat=PN]	młmd 'şar tbryzy_____1	Default		%default	inv
-młmd 'ţryanfr	100	PN	[pred="młmd 'ţryanfr___Mohammad Atrianfar__1",cat=PN]	młmd 'ţryanfr___Mohammad Atrianfar__1	Default		%default	inv
-młmd abn maje	100	PN	[pred="młmd abn maje_____1",cat=PN]	młmd abn maje_____1	Default		%default	inv
-młmd abraeym ftały	100	PN	[pred="młmd abraeym ftały_____1",cat=PN]	młmd abraeym ftały_____1	Default		%default	inv
-młmd amamy kašany	100	PN	[pred="młmd amamy kašany___Mohammed Emami-Kashani__1",cat=PN]	młmd amamy kašany___Mohammed Emami-Kashani__1	Default		%default	inv
-młmd asma'yl rźwany	100	PN	[pred="młmd asma'yl rźwany_____1",cat=PN]	młmd asma'yl rźwany_____1	Default		%default	inv
-młmd asma'yl şa´ny znjany	100	PN	[pred="młmd asma'yl şa´ny znjany_____1",cat=PN]	młmd asma'yl şa´ny znjany_____1	Default		%default	inv
-młmd awraz	100	PN	[pred="młmd awraz___Mohammad Oraz__1",cat=PN]	młmd awraz___Mohammad Oraz__1	Default		%default	inv
-młmd aywby	100	PN	[pred="młmd aywby_____1",cat=PN]	młmd aywby_____1	Default		%default	inv
-młmd azrm	100	PN	[pred="młmd azrm_____1",cat=PN]	młmd azrm_____1	Default		%default	inv
-młmd ałmdyan	100	PN	[pred="młmd ałmdyan_____1",cat=PN]	młmd ałmdyan_____1	Default		%default	inv
-młmd ałmdzade	100	PN	[pred="młmd ałmdzade___Mohammad Ahmadzadeh__1",cat=PN]	młmd ałmdzade___Mohammad Ahmadzadeh__1	Default		%default	inv
-młmd ałşayy	100	PN	[pred="młmd ałşayy_____1",cat=PN]	młmd ałşayy_____1	Default		%default	inv
-młmd aşfeany	100	PN	[pred="młmd aşfeany_____1",cat=PN]	młmd aşfeany_____1	Default		%default	inv
-młmd baŕry m'tmd	100	PN	[pred="młmd baŕry m'tmd___Mohammad Bagheri__1",cat=PN]	młmd baŕry m'tmd___Mohammad Bagheri__1	Default		%default	inv
-młmd bearlw	100	PN	[pred="młmd bearlw_____1",cat=PN]	młmd bearlw_____1	Default		%default	inv
-młmd bn 'çman	100	PN	[pred="młmd bn 'çman_____1",cat=PN]	młmd bn 'çman_____1	Default		%default	inv
-młmd bn adrys šaf'y	100	PN	[pred="młmd bn adrys šaf'y___Muhammad ibn Idris ash-Shafi`i__1",cat=PN]	młmd bn adrys šaf'y___Muhammad ibn Idris ash-Shafi`i__1	Default		%default	inv
-młmd bn aywb ţbry	100	PN	[pred="młmd bn aywb ţbry_____1",cat=PN]	młmd bn aywb ţbry_____1	Default		%default	inv
-młmd bn jryr ţbry	100	PN	[pred="młmd bn jryr ţbry___Muhammad ibn Jarir al-Tabari__1",cat=PN]	młmd bn jryr ţbry___Muhammad ibn Jarir al-Tabari__1	Default		%default	inv
-młmd bn mwsy xwarzmy	100	PN	[pred="młmd bn mwsy xwarzmy___Muhammad ibn Musâ al-Khwarizmi__1",cat=PN]	młmd bn mwsy xwarzmy___Muhammad ibn Musâ al-Khwarizmi__1	Default		%default	inv
-młmd bn xawnd šae bn młmwd	100	PN	[pred="młmd bn xawnd šae bn młmwd_____1",cat=PN]	młmd bn xawnd šae bn młmwd_____1	Default		%default	inv
-młmd bn áby łatm	100	PN	[pred="młmd bn áby łatm_____1",cat=PN]	młmd bn áby łatm_____1	Default		%default	inv
-młmd bna	100	PN	[pred="młmd bna_____1",cat=PN]	młmd bna_____1	Default		%default	inv
-młmd brŕ'y	100	PN	[pred="młmd brŕ'y_____1",cat=PN]	młmd brŕ'y_____1	Default		%default	inv
-młmd bsyje	100	PN	[pred="młmd bsyje___Mohammed Bijeh__1",cat=PN]	młmd bsyje___Mohammed Bijeh__1	Default		%default	inv
-młmd bxary	100	PN	[pred="młmd bxary___Muhammad al-Bukhari__1",cat=PN]	młmd bxary___Muhammad al-Bukhari__1	Default		%default	inv
-młmd bybak	100	PN	[pred="młmd bybak_____1",cat=PN]	młmd bybak_____1	Default		%default	inv
-młmd bzrg_nya	100	PN	[pred="młmd bzrg_nya_____1",cat=PN]	młmd bzrg_nya_____1	Default		%default	inv
-młmd bšra	100	PN	[pred="młmd bšra_____1",cat=PN]	młmd bšra_____1	Default		%default	inv
-młmd dadkan	100	PN	[pred="młmd dadkan___Mohammad Dadkan__1",cat=PN]	młmd dadkan___Mohammad Dadkan__1	Default		%default	inv
-młmd dawwdxan	100	PN	[pred="młmd dawwdxan___Mohammed Daoud Khan__1",cat=PN]	młmd dawwdxan___Mohammed Daoud Khan__1	Default		%default	inv
-młmd dbYrmŕdm	100	PN	[pred="młmd dbYrmŕdm_____1",cat=PN]	młmd dbYrmŕdm_____1	Default		%default	inv
-młmd dłlan	100	PN	[pred="młmd dłlan___Mohammed Dahlan__1",cat=PN]	młmd dłlan___Mohammed Dahlan__1	Default		%default	inv
-młmd eady kawyany	100	PN	[pred="młmd eady kawyany_____1",cat=PN]	młmd eady kawyany_____1	Default		%default	inv
-młmd emaywn	100	PN	[pred="młmd emaywn_____1",cat=PN]	młmd emaywn_____1	Default		%default	inv
-młmd frxy yzdy	100	PN	[pred="młmd frxy yzdy___Mohammad Farrokhi Yazdi__1",cat=PN]	młmd frxy yzdy___Mohammad Farrokhi Yazdi__1	Default		%default	inv
-młmd fźwly	100	PN	[pred="młmd fźwly___Fuzulî__1",cat=PN]	młmd fźwly___Fuzulî__1	Default		%default	inv
-młmd j'fr pwynde	100	PN	[pred="młmd j'fr pwynde___Mohammad-Ja'far Pouyandeh__1",cat=PN]	młmd j'fr pwynde___Mohammad-Ja'far Pouyandeh__1	Default		%default	inv
-młmd kasby	100	PN	[pred="młmd kasby_____1",cat=PN]	młmd kasby_____1	Default		%default	inv
-młmd katby	100	PN	[pred="młmd katby_____1",cat=PN]	młmd katby_____1	Default		%default	inv
-młmd każm erwy xrasany	100	PN	[pred="młmd każm erwy xrasany_____1",cat=PN]	młmd każm erwy xrasany_____1	Default		%default	inv
-młmd kyanwš_rad	100	PN	[pred="młmd kyanwš_rad_____1",cat=PN]	młmd kyanwš_rad_____1	Default		%default	inv
-młmd kčwyy	100	PN	[pred="młmd kčwyy_____1",cat=PN]	młmd kčwyy_____1	Default		%default	inv
-młmd kčw´y	100	PN	[pred="młmd kčw´y_____1",cat=PN]	młmd kčw´y_____1	Default		%default	inv
-młmd m'yn	100	PN	[pred="młmd m'yn___Mohammad Moin__1",cat=PN]	młmd m'yn___Mohammad Moin__1	Default		%default	inv
-młmd marmadwk pyktal	100	PN	[pred="młmd marmadwk pyktal___Marmaduke Pickthall__1",cat=PN]	młmd marmadwk pyktal___Marmaduke Pickthall__1	Default		%default	inv
-młmd mdbr	100	PN	[pred="młmd mdbr_____1",cat=PN]	młmd mdbr_____1	Default		%default	inv
-młmd mddpwr	100	PN	[pred="młmd mddpwr_____1",cat=PN]	młmd mddpwr_____1	Default		%default	inv
-młmd medy rbany amlšy	100	PN	[pred="młmd medy rbany amlšy___Mohammad Mahdi Rabbani Amlashi__1",cat=PN]	młmd medy rbany amlšy___Mohammad Mahdi Rabbani Amlashi__1	Default		%default	inv
-młmd merdad	100	PN	[pred="młmd merdad_____1",cat=PN]	młmd merdad_____1	Default		%default	inv
-młmd merwan	100	PN	[pred="młmd merwan_____1",cat=PN]	młmd merwan_____1	Default		%default	inv
-młmd meryar	100	PN	[pred="młmd meryar_____1",cat=PN]	młmd meryar_____1	Default		%default	inv
-młmd mftł	100	PN	[pred="młmd mftł_____1",cat=PN]	młmd mftł_____1	Default		%default	inv
-młmd mjted šbstry	100	PN	[pred="młmd mjted šbstry___Mohammad Mojtahed Shabestari__1",cat=PN]	młmd mjted šbstry___Mohammad Mojtahed Shabestari__1	Default		%default	inv
-młmd mkry	100	PN	[pred="młmd mkry___Mohammad Mokri__1",cat=PN]	młmd mkry___Mohammad Mokri__1	Default		%default	inv
-młmd mlky	100	PN	[pred="młmd mlky___Mohammad Maleki__1",cat=PN]	młmd mlky___Mohammad Maleki__1	Default		%default	inv
-młmd mntáżry	100	PN	[pred="młmd mntáżry_____1",cat=PN]	młmd mntáżry_____1	Default		%default	inv
-młmd mnşwry	100	PN	[pred="młmd mnşwry___Mohammad Mansouri__1",cat=PN]	młmd mnşwry___Mohammad Mansouri__1	Default		%default	inv
-młmd ms'wd	100	PN	[pred="młmd ms'wd_____1",cat=PN]	młmd ms'wd_____1	Default		%default	inv
-młmd mtwslany	100	PN	[pred="młmd mtwslany_____1",cat=PN]	młmd mtwslany_____1	Default		%default	inv
-młmd mwmn ŕmy	100	PN	[pred="młmd mwmn ŕmy_____1",cat=PN]	młmd mwmn ŕmy_____1	Default		%default	inv
-młmd mwswy xw´yny_ea	100	PN	[pred="młmd mwswy xw´yny_ea___Mohammad Mousavi Khoeiniha__1",cat=PN]	młmd mwswy xw´yny_ea___Mohammad Mousavi Khoeiniha__1	Default		%default	inv
-młmd mxtary	100	PN	[pred="młmd mxtary___Mohammad Mokhtari__1",cat=PN]	młmd mxtary___Mohammad Mokhtari__1	Default		%default	inv
-młmd myrnŕyby	100	PN	[pred="młmd myrnŕyby_____1",cat=PN]	młmd myrnŕyby_____1	Default		%default	inv
-młmd młmd'ly	100	PN	[pred="młmd młmd'ly_____1",cat=PN]	młmd młmd'ly_____1	Default		%default	inv
-młmd młmdy grgany	100	PN	[pred="młmd młmdy grgany_____1",cat=PN]	młmd młmdy grgany_____1	Default		%default	inv
-młmd młmdy gylany	100	PN	[pred="młmd młmdy gylany_____1",cat=PN]	młmd młmdy gylany_____1	Default		%default	inv
-młmd młtrm_pnae	100	PN	[pred="młmd młtrm_pnae_____1",cat=PN]	młmd młtrm_pnae_____1	Default		%default	inv
-młmd młŕŕy laeyjy	100	PN	[pred="młmd młŕŕy laeyjy_____1",cat=PN]	młmd młŕŕy laeyjy_____1	Default		%default	inv
-młmd mşdŕ	100	PN	[pred="młmd mşdŕ___Mohammad Mosaddegh__1",cat=PN]	młmd mşdŕ___Mohammad Mosaddegh__1	Default		%default	inv
-młmd mţy'	100	PN	[pred="młmd mţy'_____1",cat=PN]	młmd mţy'_____1	Default		%default	inv
-młmd n'ymy_pwr	100	PN	[pred="młmd n'ymy_pwr_____1",cat=PN]	młmd n'ymy_pwr_____1	Default		%default	inv
-młmd nadršae	100	PN	[pred="młmd nadršae___Mohammed Nadir Shah__1",cat=PN]	młmd nadršae___Mohammed Nadir Shah__1	Default		%default	inv
-młmd neawndyan	100	PN	[pred="młmd neawndyan_____1",cat=PN]	młmd neawndyan_____1	Default		%default	inv
-młmd nwry	100	PN	[pred="młmd nwry_____1",cat=PN]	młmd nwry_____1	Default		%default	inv
-młmd nwry 'çmanwf	100	PN	[pred="młmd nwry 'çmanwf_____1",cat=PN]	młmd nwry 'çmanwf_____1	Default		%default	inv
-młmd nwry_zad	100	PN	[pred="młmd nwry_zad_____1",cat=PN]	młmd nwry_zad_____1	Default		%default	inv
-młmd nykzady	100	PN	[pred="młmd nykzady_____1",cat=PN]	młmd nykzady_____1	Default		%default	inv
-młmd nşrty	100	PN	[pred="młmd nşrty___Mohammad Nosrati__1",cat=PN]	młmd nşrty___Mohammad Nosrati__1	Default		%default	inv
-młmd prwyn	100	PN	[pred="młmd prwyn___Mohammad Parvin__1",cat=PN]	młmd prwyn___Mohammad Parvin__1	Default		%default	inv
-młmd prwyn gnabady	100	PN	[pred="młmd prwyn gnabady_____1",cat=PN]	młmd prwyn gnabady_____1	Default		%default	inv
-młmd psr mxld sgzy	100	PN	[pred="młmd psr mxld sgzy_____1",cat=PN]	młmd psr mxld sgzy_____1	Default		%default	inv
-młmd psr wşyf sjzy	100	PN	[pred="młmd psr wşyf sjzy_____1",cat=PN]	młmd psr wşyf sjzy_____1	Default		%default	inv
-młmd pwrermzan	100	PN	[pred="młmd pwrermzan_____1",cat=PN]	młmd pwrermzan_____1	Default		%default	inv
-młmd pđyrayy	100	PN	[pred="młmd pđyrayy_____1",cat=PN]	młmd pđyrayy_____1	Default		%default	inv
-młmd qzaly	100	PN	[pred="młmd qzaly___Al-Ghazali__1",cat=PN]	młmd qzaly___Al-Ghazali__1	Default		%default	inv
-młmd rfy' aš'ry	100	PN	[pred="młmd rfy' aš'ry_____1",cat=PN]	młmd rfy' aš'ry_____1	Default		%default	inv
-młmd ršyd šyx_alaslamy krdstany	100	PN	[pred="młmd ršyd šyx_alaslamy krdstany_____1",cat=PN]	młmd ršyd šyx_alaslamy krdstany_____1	Default		%default	inv
-młmd s'yd alşłaf	100	PN	[pred="młmd s'yd alşłaf___Muhammad Saeed al-Sahhaf__1",cat=PN]	młmd s'yd alşłaf___Muhammad Saeed al-Sahhaf__1	Default		%default	inv
-młmd s'yd šryfyan	100	PN	[pred="młmd s'yd šryfyan_____1",cat=PN]	młmd s'yd šryfyan_____1	Default		%default	inv
-młmd slamty	100	PN	[pred="młmd slamty_____1",cat=PN]	młmd slamty_____1	Default		%default	inv
-młmd sweartw	100	PN	[pred="młmd sweartw___Suharto__1",cat=PN]	młmd sweartw___Suharto__1	Default		%default	inv
-młmd syswkw	100	PN	[pred="młmd syswkw___Mohamed Sissoko__1",cat=PN]	młmd syswkw___Mohamed Sissoko__1	Default		%default	inv
-młmd trmđy	100	PN	[pred="młmd trmđy_____1",cat=PN]	młmd trmđy_____1	Default		%default	inv
-młmd twsly	100	PN	[pred="młmd twsly_____1",cat=PN]	młmd twsly_____1	Default		%default	inv
-młmd tŕy bn młmd 'ly	100	PN	[pred="młmd tŕy bn młmd 'ly_____1",cat=PN]	młmd tŕy bn młmd 'ly_____1	Default		%default	inv
-młmd tŕy kenwyy	100	PN	[pred="młmd tŕy kenwyy_____1",cat=PN]	młmd tŕy kenwyy_____1	Default		%default	inv
-młmd tŕy mjydy	100	PN	[pred="młmd tŕy mjydy_____1",cat=PN]	młmd tŕy mjydy_____1	Default		%default	inv
-młmd wršwčy	100	PN	[pred="młmd wršwčy_____1",cat=PN]	młmd wršwčy_____1	Default		%default	inv
-młmd xakpwr	100	PN	[pred="młmd xakpwr_____1",cat=PN]	młmd xakpwr_____1	Default		%default	inv
-młmd xalşy_zade	100	PN	[pred="młmd xalşy_zade_____1",cat=PN]	młmd xalşy_zade_____1	Default		%default	inv
-młmd xatm	100	PN	[pred="młmd xatm_____1",cat=PN]	młmd xatm_____1	Default		%default	inv
-młmd xatmy	100	PN	[pred="młmd xatmy___Mohammad Khatami__1",cat=PN]	młmd xatmy___Mohammad Khatami__1	Default		%default	inv
-młmd xlYly	100	PN	[pred="młmd xlYly_____1",cat=PN]	młmd xlYly_____1	Default		%default	inv
-młmd xrdadyan	100	PN	[pred="młmd xrdadyan_____1",cat=PN]	młmd xrdadyan_____1	Default		%default	inv
-młmd xwš_čere	100	PN	[pred="młmd xwš_čere___Mohammad Khoshchehreh__1",cat=PN]	młmd xwš_čere___Mohammad Khoshchehreh__1	Default		%default	inv
-młmd xza'y	100	PN	[pred="młmd xza'y___Mohammad Khazaee__1",cat=PN]	młmd xza'y___Mohammad Khazaee__1	Default		%default	inv
-młmd y'ŕwby	100	PN	[pred="młmd y'ŕwby_____1",cat=PN]	młmd y'ŕwby_____1	Default		%default	inv
-młmd ywns	100	PN	[pred="młmd ywns___Muhammad Yunus__1",cat=PN]	młmd ywns___Muhammad Yunus__1	Default		%default	inv
-młmd ywsf ŕwam ałrary	100	PN	[pred="młmd ywsf ŕwam ałrary_____1",cat=PN]	młmd ywsf ŕwam ałrary_____1	Default		%default	inv
-młmd zery	100	PN	[pred="młmd zery___Mohammad Zohari__1",cat=PN]	młmd zery___Mohammad Zohari__1	Default		%default	inv
-młmd zkryay razy	100	PN	[pred="młmd zkryay razy___Muhammad ibn Zakariya al-Razi__1",cat=PN]	młmd zkryay razy___Muhammad ibn Zakariya al-Razi__1	Default		%default	inv
-młmd črmšyr	100	PN	[pred="młmd črmšyr_____1",cat=PN]	młmd črmšyr_____1	Default		%default	inv
-młmd łjazy	100	PN	[pred="młmd łjazy_____1",cat=PN]	młmd łjazy_____1	Default		%default	inv
-młmd łnyf_nžad	100	PN	[pred="młmd łnyf_nžad_____1",cat=PN]	młmd łnyf_nžad_____1	Default		%default	inv
-młmd łsyn frwqy	100	PN	[pred="młmd łsyn frwqy_____1",cat=PN]	młmd łsyn frwqy_____1	Default		%default	inv
-młmd łsyn młby	100	PN	[pred="młmd łsyn młby_____1",cat=PN]	młmd łsyn młby_____1	Default		%default	inv
-młmd łsyny	100	PN	[pred="młmd łsyny_____1",cat=PN]	młmd łsyny_____1	Default		%default	inv
-młmd łŕwŕy	100	PN	[pred="młmd łŕwŕy___Mohammad Hoqouqi__1",cat=PN]	młmd łŕwŕy___Mohammad Hoqouqi__1	Default		%default	inv
-młmd łŕyŕt	100	PN	[pred="młmd łŕyŕt_____1",cat=PN]	młmd łŕyŕt_____1	Default		%default	inv
-młmd ŕasm_zade	100	PN	[pred="młmd ŕasm_zade_____1",cat=PN]	młmd ŕasm_zade_____1	Default		%default	inv
-młmd ŕaźy	100	PN	[pred="młmd ŕaźy_____1",cat=PN]	młmd ŕaźy_____1	Default		%default	inv
-młmd ŕryb	100	PN	[pred="młmd ŕryb___Mohammad Gharib__1",cat=PN]	młmd ŕryb___Mohammad Gharib__1	Default		%default	inv
-młmd ŕwčany	100	PN	[pred="młmd ŕwčany___Mohammad Ghouchani__1",cat=PN]	młmd ŕwčany___Mohammad Ghouchani__1	Default		%default	inv
-młmd şadŕy	100	PN	[pred="młmd şadŕy___Mohammad Sadeghi__1",cat=PN]	młmd şadŕy___Mohammad Sadeghi__1	Default		%default	inv
-młmd şalł 'la	100	PN	[pred="młmd şalł 'la_____1",cat=PN]	młmd şalł 'la_____1	Default		%default	inv
-młmd şalł alŕrŕ	100	PN	[pred="młmd şalł alŕrŕ_____1",cat=PN]	młmd şalł alŕrŕ_____1	Default		%default	inv
-młmd şdyŕ kbwdwnd	100	PN	[pred="młmd şdyŕ kbwdwnd_____1",cat=PN]	młmd şdyŕ kbwdwnd_____1	Default		%default	inv
-młmd şny'_xatm	100	PN	[pred="młmd şny'_xatm_____1",cat=PN]	młmd şny'_xatm_____1	Default		%default	inv
-młmd šadany	100	PN	[pred="młmd šadany_____1",cat=PN]	młmd šadany_____1	Default		%default	inv
-młmd šae_bxty	100	PN	[pred="młmd šae_bxty_____1",cat=PN]	młmd šae_bxty_____1	Default		%default	inv
-młmd šaeyde_pwr	100	PN	[pred="młmd šaeyde_pwr___Mohammad Shahidehpour__1",cat=PN]	młmd šaeyde_pwr___Mohammad Shahidehpour__1	Default		%default	inv
-młmd šms	100	PN	[pred="młmd šms___Mohammad Shams__1",cat=PN]	młmd šms___Mohammad Shams__1	Default		%default	inv
-młmd šms lngrwdy	100	PN	[pred="młmd šms lngrwdy___Shams Langeroodi__1",cat=PN]	młmd šms lngrwdy___Shams Langeroodi__1	Default		%default	inv
-młmd šms lngrwdy	100	PN	[pred="młmd šms lngrwdy_____1",cat=PN]	młmd šms lngrwdy_____1	Default		%default	inv
-młmd šryfy n'mt_abad	100	PN	[pred="młmd šryfy n'mt_abad_____1",cat=PN]	młmd šryfy n'mt_abad_____1	Default		%default	inv
-młmd šyry	100	PN	[pred="młmd šyry_____1",cat=PN]	młmd šyry_____1	Default		%default	inv
-młmd šyx_alaslam	100	PN	[pred="młmd šyx_alaslam_____1",cat=PN]	młmd šyx_alaslam_____1	Default		%default	inv
-młmd ţbybyan	100	PN	[pred="młmd ţbybyan_____1",cat=PN]	młmd ţbybyan_____1	Default		%default	inv
-młmd źraby	100	PN	[pred="młmd źraby_____1",cat=PN]	młmd źraby_____1	Default		%default	inv
-młmd'ly abţły	100	PN	[pred="młmd'ly abţły___Mohammad-Ali Abtahi__1",cat=PN]	młmd'ly abţły___Mohammad-Ali Abtahi__1	Default		%default	inv
-młmd'ly afrašte	100	PN	[pred="młmd'ly afrašte_____1",cat=PN]	młmd'ly afrašte_____1	Default		%default	inv
-młmd'ly aslamy ndwšn	100	PN	[pred="młmd'ly aslamy ndwšn___Mohammad-Ali Eslami Nodooshan__1",cat=PN]	młmd'ly aslamy ndwšn___Mohammad-Ali Eslami Nodooshan__1	Default		%default	inv
-młmd'ly bemny	100	PN	[pred="młmd'ly bemny_____1",cat=PN]	młmd'ly bemny_____1	Default		%default	inv
-młmd'ly bny_asdy	100	PN	[pred="młmd'ly bny_asdy_____1",cat=PN]	młmd'ly bny_asdy_____1	Default		%default	inv
-młmd'ly dadxwae	100	PN	[pred="młmd'ly dadxwae_____1",cat=PN]	młmd'ly dadxwae_____1	Default		%default	inv
-młmd'ly frdyn	100	PN	[pred="młmd'ly frdyn___Mohammad Ali Fardin__1",cat=PN]	młmd'ly frdyn___Mohammad Ali Fardin__1	Default		%default	inv
-młmd'ly fyź laeyjy	100	PN	[pred="młmd'ly fyź laeyjy_____1",cat=PN]	młmd'ly fyź laeyjy_____1	Default		%default	inv
-młmd'ly jmal_zade	100	PN	[pred="młmd'ly jmal_zade___Mohammad-Ali Jamalzadeh__1",cat=PN]	młmd'ly jmal_zade___Mohammad-Ali Jamalzadeh__1	Default		%default	inv
-młmd'ly jnał	100	PN	[pred="młmd'ly jnał___Muhammad Ali Jinnah__1",cat=PN]	młmd'ly jnał___Muhammad Ali Jinnah__1	Default		%default	inv
-młmd'ly kšawrz	100	PN	[pred="młmd'ly kšawrz___Mohammad-Ali Keshavarz__1",cat=PN]	młmd'ly kšawrz___Mohammad-Ali Keshavarz__1	Default		%default	inv
-młmd'ly m'lm damqany	100	PN	[pred="młmd'ly m'lm damqany_____1",cat=PN]	młmd'ly m'lm damqany_____1	Default		%default	inv
-młmd'ly mwłdy_krmany	100	PN	[pred="młmd'ly mwłdy_krmany___Ali Movahedi-Kermani__1",cat=PN]	młmd'ly mwłdy_krmany___Ali Movahedi-Kermani__1	Default		%default	inv
-młmd'ly njfy	100	PN	[pred="młmd'ly njfy_____1",cat=PN]	młmd'ly njfy_____1	Default		%default	inv
-młmd'ly paša	100	PN	[pred="młmd'ly paša_____1",cat=PN]	młmd'ly paša_____1	Default		%default	inv
-młmd'ly rjayy	100	PN	[pred="młmd'ly rjayy___Mohammad-Ali Rajai__1",cat=PN]	młmd'ly rjayy___Mohammad-Ali Rajai__1	Default		%default	inv
-młmd'ly rłmany	100	PN	[pred="młmd'ly rłmany_____1",cat=PN]	młmd'ly rłmany_____1	Default		%default	inv
-młmd'ly wfa aşfeany	100	PN	[pred="młmd'ly wfa aşfeany_____1",cat=PN]	młmd'ly wfa aşfeany_____1	Default		%default	inv
-młmd'ly şn'tkaran	100	PN	[pred="młmd'ly şn'tkaran_____1",cat=PN]	młmd'ly şn'tkaran_____1	Default		%default	inv
-młmd'ly šae	100	PN	[pred="młmd'ly šae___Mohammad Ali Shah Qajar__1",cat=PN]	młmd'ly šae___Mohammad Ali Shah Qajar__1	Default		%default	inv
-młmd'ly šyrazy	100	PN	[pred="młmd'ly šyrazy_____1",cat=PN]	młmd'ly šyrazy_____1	Default		%default	inv
-młmd'ly ţalby	100	PN	[pred="młmd'ly ţalby_____1",cat=PN]	młmd'ly ţalby_____1	Default		%default	inv
-młmd_eašm psran	100	PN	[pred="młmd_eašm psran___Mohammad Hashem Pesaran__1",cat=PN]	młmd_eašm psran___Mohammad Hashem Pesaran__1	Default		%default	inv
-młmdabraeym bastany paryzy	100	PN	[pred="młmdabraeym bastany paryzy_____1",cat=PN]	młmdabraeym bastany paryzy_____1	Default		%default	inv
-młmdamyn myrfndrsky	100	PN	[pred="młmdamyn myrfndrsky_____1",cat=PN]	młmdamyn myrfndrsky_____1	Default		%default	inv
-młmdamyn rswlzade	100	PN	[pred="młmdamyn rswlzade_____1",cat=PN]	młmdamyn rswlzade_____1	Default		%default	inv
-młmdamyn ryały	100	PN	[pred="młmdamyn ryały___Mohammad-Amin Riahi__1",cat=PN]	młmdamyn ryały___Mohammad-Amin Riahi__1	Default		%default	inv
-młmdaşf slţanzade	100	PN	[pred="młmdaşf slţanzade_____1",cat=PN]	młmdaşf slţanzade_____1	Default		%default	inv
-młmdbaŕr laeyjy	100	PN	[pred="młmdbaŕr laeyjy_____1",cat=PN]	młmdbaŕr laeyjy_____1	Default		%default	inv
-młmdbaŕr ŕalybaf	100	PN	[pred="młmdbaŕr ŕalybaf___Mohammad Bagher Ghalibaf__1",cat=PN]	młmdbaŕr ŕalybaf___Mohammad Bagher Ghalibaf__1	Default		%default	inv
-młmdbaŕr šfty	100	PN	[pred="młmdbaŕr šfty_____1",cat=PN]	młmdbaŕr šfty_____1	Default		%default	inv
-młmdbn ywns	100	PN	[pred="młmdbn ywns_____1",cat=PN]	młmdbn ywns_____1	Default		%default	inv
-młmdbn łşar	100	PN	[pred="młmdbn łşar_____1",cat=PN]	młmdbn łşar_____1	Default		%default	inv
-młmdeady šfy'y_ea	100	PN	[pred="młmdeady šfy'y_ea_____1",cat=PN]	młmdeady šfy'y_ea_____1	Default		%default	inv
-młmdj'fr bedad	100	PN	[pred="młmdj'fr bedad_____1",cat=PN]	młmdj'fr bedad_____1	Default		%default	inv
-młmdj'fr j'fry lngrwdy	100	PN	[pred="młmdj'fr j'fry lngrwdy_____1",cat=PN]	młmdj'fr j'fry lngrwdy_____1	Default		%default	inv
-młmdj'fr yałŕy	100	PN	[pred="młmdj'fr yałŕy___Mohammad Jafar Yahaghi__1",cat=PN]	młmdj'fr yałŕy___Mohammad Jafar Yahaghi__1	Default		%default	inv
-młmdjwad akbryn	100	PN	[pred="młmdjwad akbryn_____1",cat=PN]	młmdjwad akbryn_____1	Default		%default	inv
-młmdjwad amam	100	PN	[pred="młmdjwad amam_____1",cat=PN]	młmdjwad amam_____1	Default		%default	inv
-młmdjwad baenr	100	PN	[pred="młmdjwad baenr___Mohammad-Javad Bahonar__1",cat=PN]	młmdjwad baenr___Mohammad-Javad Bahonar__1	Default		%default	inv
-młmdjwad falyzwanyan	100	PN	[pred="młmdjwad falyzwanyan_____1",cat=PN]	młmdjwad falyzwanyan_____1	Default		%default	inv
-młmdjwad laryjany	100	PN	[pred="młmdjwad laryjany___Mohammad-Javad Larijani__1",cat=PN]	młmdjwad laryjany___Mohammad-Javad Larijani__1	Default		%default	inv
-młmdkaáżm kaáżmy	100	PN	[pred="młmdkaáżm kaáżmy_____1",cat=PN]	młmdkaáżm kaáżmy_____1	Default		%default	inv
-młmdmedy aleayy	100	PN	[pred="młmdmedy aleayy___Mohammad Mehdi Elhaei__1",cat=PN]	młmdmedy aleayy___Mohammad Mehdi Elhaei__1	Default		%default	inv
-młmdmedy arbab aşfeany	100	PN	[pred="młmdmedy arbab aşfeany_____1",cat=PN]	młmdmedy arbab aşfeany_____1	Default		%default	inv
-młmdmedy fwladwnd	100	PN	[pred="młmdmedy fwladwnd_____1",cat=PN]	młmdmedy fwladwnd_____1	Default		%default	inv
-młmdmedy fŕyey	100	PN	[pred="młmdmedy fŕyey___Mohammad Mahdi Faghihi__1",cat=PN]	młmdmedy fŕyey___Mohammad Mahdi Faghihi__1	Default		%default	inv
-młmdmedy šYx_jbary	100	PN	[pred="młmdmedy šYx_jbary_____1",cat=PN]	młmdmedy šYx_jbary_____1	Default		%default	inv
-młmdmnşwr flamky	100	PN	[pred="młmdmnşwr flamky_____1",cat=PN]	młmdmnşwr flamky_____1	Default		%default	inv
-młmdnadr xYry	100	PN	[pred="młmdnadr xYry_____1",cat=PN]	młmdnadr xYry_____1	Default		%default	inv
-młmdnby waşl	100	PN	[pred="młmdnby waşl_____1",cat=PN]	młmdnby waşl_____1	Default		%default	inv
-młmdrfy' źyayy	100	PN	[pred="młmdrfy' źyayy_____1",cat=PN]	młmdrfy' źyayy_____1	Default		%default	inv
-młmdrłym ardbyly	100	PN	[pred="młmdrłym ardbyly_____1",cat=PN]	młmdrłym ardbyly_____1	Default		%default	inv
-młmdrłym axwt	100	PN	[pred="młmdrłym axwt_____1",cat=PN]	młmdrłym axwt_____1	Default		%default	inv
-młmdrźa 'arf	100	PN	[pred="młmdrźa 'arf___Mohammad-Reza Aref__1",cat=PN]	młmdrźa 'arf___Mohammad-Reza Aref__1	Default		%default	inv
-młmdrźa 'ly_zmany	100	PN	[pred="młmdrźa 'ly_zmany___Mohammad-Reza Ali-Zamani__1",cat=PN]	młmdrźa 'ly_zmany___Mohammad-Reza Ali-Zamani__1	Default		%default	inv
-młmdrźa 'lyŕly	100	PN	[pred="młmdrźa 'lyŕly_____1",cat=PN]	młmdrźa 'lyŕly_____1	Default		%default	inv
-młmdrźa askndry	100	PN	[pred="młmdrźa askndry___Mohammad-Reza Eskandari__1",cat=PN]	młmdrźa askndry___Mohammad-Reza Eskandari__1	Default		%default	inv
-młmdrźa aywany	100	PN	[pred="młmdrźa aywany_____1",cat=PN]	młmdrźa aywany_____1	Default		%default	inv
-młmdrźa aŕasy	100	PN	[pred="młmdrźa aŕasy_____1",cat=PN]	młmdrźa aŕasy_____1	Default		%default	inv
-młmdrźa bayramy	100	PN	[pred="młmdrźa bayramy_____1",cat=PN]	młmdrźa bayramy_____1	Default		%default	inv
-młmdrźa baţny	100	PN	[pred="młmdrźa baţny_____1",cat=PN]	młmdrźa baţny_____1	Default		%default	inv
-młmdrźa drwyšy	100	PN	[pred="młmdrźa drwyšy_____1",cat=PN]	młmdrźa drwyšy_____1	Default		%default	inv
-młmdrźa edayty	100	PN	[pred="młmdrźa edayty_____1",cat=PN]	młmdrźa edayty_____1	Default		%default	inv
-młmdrźa enrmnd	100	PN	[pred="młmdrźa enrmnd___Mohammad-Reza Honarmand__1",cat=PN]	młmdrźa enrmnd___Mohammad-Reza Honarmand__1	Default		%default	inv
-młmdrźa fakr	100	PN	[pred="młmdrźa fakr_____1",cat=PN]	młmdrźa fakr_____1	Default		%default	inv
-młmdrźa frwtn	100	PN	[pred="młmdrźa frwtn_____1",cat=PN]	młmdrźa frwtn_____1	Default		%default	inv
-młmdrźa fšaey	100	PN	[pred="młmdrźa fšaey_____1",cat=PN]	młmdrźa fšaey_____1	Default		%default	inv
-młmdrźa glzar	100	PN	[pred="młmdrźa glzar___Mohammad Reza Golzar__1",cat=PN]	młmdrźa glzar___Mohammad Reza Golzar__1	Default		%default	inv
-młmdrźa jlayy_pwr	100	PN	[pred="młmdrźa jlayy_pwr_____1",cat=PN]	młmdrźa jlayy_pwr_____1	Default		%default	inv
-młmdrźa katb	100	PN	[pred="młmdrźa katb_____1",cat=PN]	młmdrźa katb_____1	Default		%default	inv
-młmdrźa lţfy	100	PN	[pred="młmdrźa lţfy___Mohammad-Reza Lotfi__1",cat=PN]	młmdrźa lţfy___Mohammad-Reza Lotfi__1	Default		%default	inv
-młmdrźa mškwT aldyny	100	PN	[pred="młmdrźa mškwT aldyny_____1",cat=PN]	młmdrźa mškwT aldyny_____1	Default		%default	inv
-młmdrźa nwrwzpwr	100	PN	[pred="młmdrźa nwrwzpwr_____1",cat=PN]	młmdrźa nwrwzpwr_____1	Default		%default	inv
-młmdrźa nykfr	100	PN	[pred="młmdrźa nykfr_____1",cat=PN]	młmdrźa nykfr_____1	Default		%default	inv
-młmdrźa nŕašan	100	PN	[pred="młmdrźa nŕašan_____1",cat=PN]	młmdrźa nŕašan_____1	Default		%default	inv
-młmdrźa pelwy	100	PN	[pred="młmdrźa pelwy___Mohammad Reza Pahlavi__1",cat=PN]	młmdrźa pelwy___Mohammad Reza Pahlavi__1	Default		%default	inv
-młmdrźa pwrj'fry	100	PN	[pred="młmdrźa pwrj'fry_____1",cat=PN]	młmdrźa pwrj'fry_____1	Default		%default	inv
-młmdrźa rwdky	100	PN	[pred="młmdrźa rwdky___Mohammad Reza Roudaki__1",cat=PN]	młmdrźa rwdky___Mohammad Reza Roudaki__1	Default		%default	inv
-młmdrźa sršar	100	PN	[pred="młmdrźa sršar_____1",cat=PN]	młmdrźa sršar_____1	Default		%default	inv
-młmdrźa tajyk	100	PN	[pred="młmdrźa tajyk_____1",cat=PN]	młmdrźa tajyk_____1	Default		%default	inv
-młmdrźa twsly	100	PN	[pred="młmdrźa twsly___Mohammad-Reza Tavassoli__1",cat=PN]	młmdrźa twsly___Mohammad-Reza Tavassoli__1	Default		%default	inv
-młmdrźa xatmy	100	PN	[pred="młmdrźa xatmy___Mohammad-Reza Khatami__1",cat=PN]	młmdrźa xatmy___Mohammad-Reza Khatami__1	Default		%default	inv
-młmdrźa łafż_nya	100	PN	[pred="młmdrźa łafż_nya___Mohammad-Reza Hafeznia__1",cat=PN]	młmdrźa łafż_nya___Mohammad-Reza Hafeznia__1	Default		%default	inv
-młmdrźa łkym_zade laeyjy	100	PN	[pred="młmdrźa łkym_zade laeyjy_____1",cat=PN]	młmdrźa łkym_zade laeyjy_____1	Default		%default	inv
-młmdrźa łkymy	100	PN	[pred="młmdrźa łkymy_____1",cat=PN]	młmdrźa łkymy_____1	Default		%default	inv
-młmdrźa şfdry	100	PN	[pred="młmdrźa şfdry_____1",cat=PN]	młmdrźa şfdry_____1	Default		%default	inv
-młmdrźa šfy'y kdkny	100	PN	[pred="młmdrźa šfy'y kdkny___Mohammad-Reza Shafiei Kadkani__1",cat=PN]	młmdrźa šfy'y kdkny___Mohammad-Reza Shafiei Kadkani__1	Default		%default	inv
-młmdrźa šjryan	100	PN	[pred="młmdrźa šjryan___Mohammad-Reza Shajarian__1",cat=PN]	młmdrźa šjryan___Mohammad-Reza Shajarian__1	Default		%default	inv
-młmdrźa šryfy_nya	100	PN	[pred="młmdrźa šryfy_nya___Mohammad-Reza Sharifinia__1",cat=PN]	młmdrźa šryfy_nya___Mohammad-Reza Sharifinia__1	Default		%default	inv
-młmds'yd ašrf mazndrany	100	PN	[pred="młmds'yd ašrf mazndrany_____1",cat=PN]	młmds'yd ašrf mazndrany_____1	Default		%default	inv
-młmdtŕy bear	100	PN	[pred="młmdtŕy bear___Mohammad-Taqi Bahar__1",cat=PN]	młmdtŕy bear___Mohammad-Taqi Bahar__1	Default		%default	inv
-młmdtŕy faźl mybdy	100	PN	[pred="młmdtŕy faźl mybdy_____1",cat=PN]	młmdtŕy faźl mybdy_____1	Default		%default	inv
-młmdtŕy flsfy	100	PN	[pred="młmdtŕy flsfy_____1",cat=PN]	młmdtŕy flsfy_____1	Default		%default	inv
-młmdtŕy j'fry	100	PN	[pred="młmdtŕy j'fry___Mohammad-Taqi Ja'fari__1",cat=PN]	młmdtŕy j'fry___Mohammad-Taqi Ja'fari__1	Default		%default	inv
-młmdtŕy ms'wdye	100	PN	[pred="młmdtŕy ms'wdye_____1",cat=PN]	młmdtŕy ms'wdye_____1	Default		%default	inv
-młmdtŕy psyan	100	PN	[pred="młmdtŕy psyan___Colonel Pesian__1",cat=PN]	młmdtŕy psyan___Colonel Pesian__1	Default		%default	inv
-młmdtŕy pwrałmd jktajy	100	PN	[pred="młmdtŕy pwrałmd jktajy_____1",cat=PN]	młmdtŕy pwrałmd jktajy_____1	Default		%default	inv
-młmdtŕy xan sper	100	PN	[pred="młmdtŕy xan sper_____1",cat=PN]	młmdtŕy xan sper_____1	Default		%default	inv
-młmdtŕy xljy	100	PN	[pred="młmdtŕy xljy___Mohammad-Taghi Khalaji__1",cat=PN]	młmdtŕy xljy___Mohammad-Taghi Khalaji__1	Default		%default	inv
-młmdtŕy şdr	100	PN	[pred="młmdtŕy şdr_____1",cat=PN]	młmdtŕy şdr_____1	Default		%default	inv
-młmdtŕy šry'ty	100	PN	[pred="młmdtŕy šry'ty_____1",cat=PN]	młmdtŕy šry'ty_____1	Default		%default	inv
-młmdwly xan tnkabny	100	PN	[pred="młmdwly xan tnkabny___Mohammad-Vali Khan, Sepahsalar-e Tonekaboni__1",cat=PN]	młmdwly xan tnkabny___Mohammad-Vali Khan, Sepahsalar-e Tonekaboni__1	Default		%default	inv
-młmdwly ŕr_ny	100	PN	[pred="młmdwly ŕr_ny_____1",cat=PN]	młmdwly ŕr_ny_____1	Default		%default	inv
-młmdywsf ryaźy erwy	100	PN	[pred="młmdywsf ryaźy erwy_____1",cat=PN]	młmdywsf ryaźy erwy_____1	Default		%default	inv
-młmdłsYn na´yjy	100	PN	[pred="młmdłsYn na´yjy___Mohammad Hossein Naeiji__1",cat=PN]	młmdłsYn na´yjy___Mohammad Hossein Naeiji__1	Default		%default	inv
-młmdłsn anşary_frd	100	PN	[pred="młmdłsn anşary_frd___Mohammad Hassan Ansarifard__1",cat=PN]	młmdłsn anşary_frd___Mohammad Hassan Ansarifard__1	Default		%default	inv
-młmdłsn gnjy	100	PN	[pred="młmdłsn gnjy_____1",cat=PN]	młmdłsn gnjy_____1	Default		%default	inv
-młmdłsn qrwy kwšaly	100	PN	[pred="młmdłsn qrwy kwšaly_____1",cat=PN]	młmdłsn qrwy kwšaly_____1	Default		%default	inv
-młmdłsn šeswary	100	PN	[pred="młmdłsn šeswary_____1",cat=PN]	młmdłsn šeswary_____1	Default		%default	inv
-młmdłsyn 'adly	100	PN	[pred="młmdłsyn 'adly___Seyed Mohammad Hossein Adeli__1",cat=PN]	młmdłsyn 'adly___Seyed Mohammad Hossein Adeli__1	Default		%default	inv
-młmdłsyn beramyan	100	PN	[pred="młmdłsyn beramyan_____1",cat=PN]	młmdłsyn beramyan_____1	Default		%default	inv
-młmdłsyn ewšyarłsyny	100	PN	[pred="młmdłsyn ewšyarłsyny_____1",cat=PN]	młmdłsyn ewšyarłsyny_____1	Default		%default	inv
-młmdłsyn j'fryan	100	PN	[pred="młmdłsyn j'fryan_____1",cat=PN]	młmdłsyn j'fryan_____1	Default		%default	inv
-młmdłsyn lţyfy	100	PN	[pred="młmdłsyn lţyfy_____1",cat=PN]	młmdłsyn lţyfy_____1	Default		%default	inv
-młmdłsyn medwy ardbyly	100	PN	[pred="młmdłsyn medwy ardbyly_____1",cat=PN]	młmdłsyn medwy ardbyly_____1	Default		%default	inv
-młmdłsyn paply yzdy	100	PN	[pred="młmdłsyn paply yzdy_____1",cat=PN]	młmdłsyn paply yzdy_____1	Default		%default	inv
-młmdłsyn qrwy aşfeany	100	PN	[pred="młmdłsyn qrwy aşfeany_____1",cat=PN]	młmdłsyn qrwy aşfeany_____1	Default		%default	inv
-młmdłsyn şfar erndy	100	PN	[pred="młmdłsyn şfar erndy___Hossein Saffar Harandi__1",cat=PN]	młmdłsyn şfar erndy___Hossein Saffar Harandi__1	Default		%default	inv
-młmdłsyn şny'_xatm	100	PN	[pred="młmdłsyn şny'_xatm_____1",cat=PN]	młmdłsyn şny'_xatm_____1	Default		%default	inv
-młmdłsyn šeryar	100	PN	[pred="młmdłsyn šeryar___Mohammad-Hossein Shahriar__1",cat=PN]	młmdłsyn šeryar___Mohammad-Hossein Shahriar__1	Default		%default	inv
-młmdŕasm laeyjy ła´ry	100	PN	[pred="młmdŕasm laeyjy ła´ry_____1",cat=PN]	młmdŕasm laeyjy ła´ry_____1	Default		%default	inv
-młmdŕly šms	100	PN	[pred="młmdŕly šms_____1",cat=PN]	młmdŕly šms_____1	Default		%default	inv
-młmdŕsym feym	100	PN	[pred="młmdŕsym feym___Mohammed Fahim__1",cat=PN]	młmdŕsym feym___Mohammed Fahim__1	Default		%default	inv
-młmdşadŕ fatł	100	PN	[pred="młmdşadŕ fatł_____1",cat=PN]	młmdşadŕ fatł_____1	Default		%default	inv
-młmdşadŕ łamd	100	PN	[pred="młmdşadŕ łamd_____1",cat=PN]	młmdşadŕ łamd_____1	Default		%default	inv
-młmdşadŕ ŕaźy_zade	100	PN	[pred="młmdşadŕ ŕaźy_zade_____1",cat=PN]	młmdşadŕ ŕaźy_zade_____1	Default		%default	inv
-młmwd 'abdy	100	PN	[pred="młmwd 'abdy_____1",cat=PN]	młmwd 'abdy_____1	Default		%default	inv
-młmwd 'lyzade ţbaţbayy	100	PN	[pred="młmwd 'lyzade ţbaţbayy_____1",cat=PN]	młmwd 'lyzade ţbaţbayy_____1	Default		%default	inv
-młmwd afšar ţws	100	PN	[pred="młmwd afšar ţws_____1",cat=PN]	młmwd afšar ţws_____1	Default		%default	inv
-młmwd açbaty	100	PN	[pred="młmwd açbaty_____1",cat=PN]	młmwd açbaty_____1	Default		%default	inv
-młmwd ałmdy_nžad	100	PN	[pred="młmwd ałmdy_nžad___Mahmoud Ahmadinejad__1",cat=PN]	młmwd ałmdy_nžad___Mahmoud Ahmadinejad__1	Default		%default	inv
-młmwd bezad	100	PN	[pred="młmwd bezad___Mahmoud Behzad__1",cat=PN]	młmwd bezad___Mahmoud Behzad__1	Default		%default	inv
-młmwd bryaly	100	PN	[pred="młmwd bryaly_____1",cat=PN]	młmwd bryaly_____1	Default		%default	inv
-młmwd by_jn_xan	100	PN	[pred="młmwd by_jn_xan_____1",cat=PN]	młmwd by_jn_xan_____1	Default		%default	inv
-młmwd bşyry	100	PN	[pred="młmwd bşyry_____1",cat=PN]	młmwd bşyry_____1	Default		%default	inv
-młmwd dst pYš	100	PN	[pred="młmwd dst pYš_____1",cat=PN]	młmwd dst pYš_____1	Default		%default	inv
-młmwd dwlt_âbady	100	PN	[pred="młmwd dwlt_âbady___Mahmoud Dowlatabadi__1",cat=PN]	młmwd dwlt_âbady___Mahmoud Dowlatabadi__1	Default		%default	inv
-młmwd fkry	100	PN	[pred="młmwd fkry___Mahmoud Fekri__1",cat=PN]	młmwd fkry___Mahmoud Fekri__1	Default		%default	inv
-młmwd frščyan	100	PN	[pred="młmwd frščyan___Mahmoud Farshchian__1",cat=PN]	młmwd frščyan___Mahmoud Farshchian__1	Default		%default	inv
-młmwd kyanwš	100	PN	[pred="młmwd kyanwš_____1",cat=PN]	młmwd kyanwš_____1	Default		%default	inv
-młmwd mnşwr	100	PN	[pred="młmwd mnşwr_____1",cat=PN]	młmwd mnşwr_____1	Default		%default	inv
-młmwd mraty	100	PN	[pred="młmwd mraty_____1",cat=PN]	młmwd mraty_____1	Default		%default	inv
-młmwd mşałb	100	PN	[pred="młmwd mşałb_____1",cat=PN]	młmwd mşałb_____1	Default		%default	inv
-młmwd namjwy	100	PN	[pred="młmwd namjwy___Mahmoud Namjoo__1",cat=PN]	młmwd namjwy___Mahmoud Namjoo__1	Default		%default	inv
-młmwd pak_nyt	100	PN	[pred="młmwd pak_nyt_____1",cat=PN]	młmwd pak_nyt_____1	Default		%default	inv
-młmwd paynde lngrwdy	100	PN	[pred="młmwd paynde lngrwdy_____1",cat=PN]	młmwd paynde lngrwdy_____1	Default		%default	inv
-młmwd pwrnşry_nžad	100	PN	[pred="młmwd pwrnşry_nžad_____1",cat=PN]	młmwd pwrnşry_nžad_____1	Default		%default	inv
-młmwd qny_zade	100	PN	[pred="młmwd qny_zade_____1",cat=PN]	młmwd qny_zade_____1	Default		%default	inv
-młmwd rwł_alamyny	100	PN	[pred="młmwd rwł_alamyny_____1",cat=PN]	młmwd rwł_alamyny_____1	Default		%default	inv
-młmwd wraŕ erwy	100	PN	[pred="młmwd wraŕ erwy_____1",cat=PN]	młmwd wraŕ erwy_____1	Default		%default	inv
-młmwd xatmy	100	PN	[pred="młmwd xatmy___Mahmoud Khatami__1",cat=PN]	młmwd xatmy___Mahmoud Khatami__1	Default		%default	inv
-młmwd xwrdbyn	100	PN	[pred="młmwd xwrdbyn___Mahmoud Khordbin__1",cat=PN]	młmwd xwrdbyn___Mahmoud Khordbin__1	Default		%default	inv
-młmwd xyamy	100	PN	[pred="młmwd xyamy___Mahmoud Khayami__1",cat=PN]	młmwd xyamy___Mahmoud Khayami__1	Default		%default	inv
-młmwd łlby	100	PN	[pred="młmwd łlby_____1",cat=PN]	młmwd łlby_____1	Default		%default	inv
-młmwd łsaby	100	PN	[pred="młmwd łsaby___Mahmoud Hessaby__1",cat=PN]	młmwd łsaby___Mahmoud Hessaby__1	Default		%default	inv
-młmwd ŕndy	100	PN	[pred="młmwd ŕndy_____1",cat=PN]	młmwd ŕndy_____1	Default		%default	inv
-młmwd šbstry	100	PN	[pred="młmwd šbstry___Mahmud Shabistari__1",cat=PN]	młmwd šbstry___Mahmud Shabistari__1	Default		%default	inv
-młmwd šebazy	100	PN	[pred="młmwd šebazy_____1",cat=PN]	młmwd šebazy_____1	Default		%default	inv
-młmwd ţrzy	100	PN	[pred="młmwd ţrzy___Mahmud Tarzi__1",cat=PN]	młmwd ţrzy___Mahmud Tarzi__1	Default		%default	inv
-młmwdxan mlk_alš'ra	100	PN	[pred="młmwdxan mlk_alš'ra_____1",cat=PN]	młmwdxan mlk_alš'ra_____1	Default		%default	inv
-młrab šaerxy	100	PN	[pred="młrab šaerxy___Mehrab Shahrokhi__1",cat=PN]	młrab šaerxy___Mehrab Shahrokhi__1	Default		%default	inv
-młrm aslamy	100	PN	[pred="młrm aslamy_____1",cat=PN]	młrm aslamy_____1	Default		%default	inv
-młrm nwydkya	100	PN	[pred="młrm nwydkya___Moharram Navidkia__1",cat=PN]	młrm nwydkya___Moharram Navidkia__1	Default		%default	inv
-młrm zynal_zade	100	PN	[pred="młrm zynal_zade_____1",cat=PN]	młrm zynal_zade_____1	Default		%default	inv
-młsn abwalŕasmy	100	PN	[pred="młsn abwalŕasmy_____1",cat=PN]	młsn abwalŕasmy_____1	Default		%default	inv
-młsn amyn_zade	100	PN	[pred="młsn amyn_zade_____1",cat=PN]	młsn amyn_zade_____1	Default		%default	inv
-młsn araky	100	PN	[pred="młsn araky___Mohsen Araki__1",cat=PN]	młsn araky___Mohsen Araki__1	Default		%default	inv
-młsn armyn	100	PN	[pred="młsn armyn___Mohsen Armin__1",cat=PN]	młsn armyn___Mohsen Armin__1	Default		%default	inv
-młsn byaty_nya	100	PN	[pred="młsn byaty_nya_____1",cat=PN]	młsn byaty_nya_____1	Default		%default	inv
-młsn byranwnd	100	PN	[pred="młsn byranwnd___Mohsen Biranvand__1",cat=PN]	młsn byranwnd___Mohsen Biranvand__1	Default		%default	inv
-młsn eštrwdy	100	PN	[pred="młsn eštrwdy___Mohsen Hashtroodi__1",cat=PN]	młsn eštrwdy___Mohsen Hashtroodi__1	Default		%default	inv
-młsn fany	100	PN	[pred="młsn fany_____1",cat=PN]	młsn fany_____1	Default		%default	inv
-młsn frwqy	100	PN	[pred="młsn frwqy_____1",cat=PN]	młsn frwqy_____1	Default		%default	inv
-młsn każmy	100	PN	[pred="młsn każmy_____1",cat=PN]	młsn każmy_____1	Default		%default	inv
-młsn kramty	100	PN	[pred="młsn kramty_____1",cat=PN]	młsn kramty_____1	Default		%default	inv
-młsn kwče_baqy tbryzy	100	PN	[pred="młsn kwče_baqy tbryzy_____1",cat=PN]	młsn kwče_baqy tbryzy_____1	Default		%default	inv
-młsn medwy	100	PN	[pred="młsn medwy_____1",cat=PN]	młsn medwy_____1	Default		%default	inv
-młsn mslman	100	PN	[pred="młsn mslman___Mohsen Mosalman__1",cat=PN]	młsn mslman___Mohsen Mosalman__1	Default		%default	inv
-młsn mxmlbaf	100	PN	[pred="młsn mxmlbaf___Mohsen Makhmalbaf__1",cat=PN]	młsn mxmlbaf___Mohsen Makhmalbaf__1	Default		%default	inv
-młsn myrdamady	100	PN	[pred="młsn myrdamady___Mohsen Mirdamadi__1",cat=PN]	młsn myrdamady___Mohsen Mirdamadi__1	Default		%default	inv
-młsn myrłydr	100	PN	[pred="młsn myrłydr_____1",cat=PN]	młsn myrłydr_____1	Default		%default	inv
-młsn mşţfwy	100	PN	[pred="młsn mşţfwy___Mohsen Mostafavi__1",cat=PN]	młsn mşţfwy___Mohsen Mostafavi__1	Default		%default	inv
-młsn namjw	100	PN	[pred="młsn namjw___Mohsen Namjoo__1",cat=PN]	młsn namjw___Mohsen Namjoo__1	Default		%default	inv
-młsn rfyŕdwst	100	PN	[pred="młsn rfyŕdwst___Mohsen Rafighdoost__1",cat=PN]	młsn rfyŕdwst___Mohsen Rafighdoost__1	Default		%default	inv
-młsn rswl_af	100	PN	[pred="młsn rswl_af_____1",cat=PN]	młsn rswl_af_____1	Default		%default	inv
-młsn rźayy	100	PN	[pred="młsn rźayy___Mohsen Rezaee__1",cat=PN]	młsn rźayy___Mohsen Rezaee__1	Default		%default	inv
-młsn sazgara	100	PN	[pred="młsn sazgara___Mohsen Sazegara__1",cat=PN]	młsn sazgara___Mohsen Sazegara__1	Default		%default	inv
-młsn slymany	100	PN	[pred="młsn slymany_____1",cat=PN]	młsn slymany_____1	Default		%default	inv
-młsn trky	100	PN	[pred="młsn trky___Mohsen Torky__1",cat=PN]	młsn trky___Mohsen Torky__1	Default		%default	inv
-młsn xlyly	100	PN	[pred="młsn xlyly___Mohsen Khalili__1",cat=PN]	młsn xlyly___Mohsen Khalili__1	Default		%default	inv
-młsn ygane	100	PN	[pred="młsn ygane_____1",cat=PN]	młsn ygane_____1	Default		%default	inv
-młsn čawwšy	100	PN	[pred="młsn čawwšy___Mohsen Chavoshi__1",cat=PN]	młsn čawwšy___Mohsen Chavoshi__1	Default		%default	inv
-młsn łdady	100	PN	[pred="młsn łdady_____1",cat=PN]	młsn łdady_____1	Default		%default	inv
-młsn ŕmy	100	PN	[pred="młsn ŕmy_____1",cat=PN]	młsn ŕmy_____1	Default		%default	inv
-młsn ŕra´ty	100	PN	[pred="młsn ŕra´ty_____1",cat=PN]	młsn ŕra´ty_____1	Default		%default	inv
-młsn şfayy fraeany	100	PN	[pred="młsn şfayy fraeany___Mohsen Safaei Farahani__1",cat=PN]	młsn şfayy fraeany___Mohsen Safaei Farahani__1	Default		%default	inv
-młsn šady	100	PN	[pred="młsn šady___Mohsen Shadi__1",cat=PN]	młsn šady___Mohsen Shadi__1	Default		%default	inv
-młsn ţnabnde	100	PN	[pred="młsn ţnabnde_____1",cat=PN]	młsn ţnabnde_____1	Default		%default	inv
-młtrm askndry	100	PN	[pred="młtrm askndry___Mohtaram Eskandari__1",cat=PN]	młtrm askndry___Mohtaram Eskandari__1	Default		%default	inv
-młtšm kašany	100	PN	[pred="młtšm kašany_____1",cat=PN]	młtšm kašany_____1	Default		%default	inv
-młyţ ŕmy	100	PN	[pred="młyţ ŕmy_____1",cat=PN]	młyţ ŕmy_____1	Default		%default	inv
-młyţ ţbaţba´y	100	PN	[pred="młyţ ţbaţba´y_____1",cat=PN]	młyţ ţbaţba´y_____1	Default		%default	inv
+mħbwbe aħdgr	100	PN	[pred="mħbwbe aħdgr___Mehboba Ahdyar__1",cat=PN]	mħbwbe aħdgr___Mehboba Ahdyar__1	Default		%default	inv
+mħbwbe byat	100	PN	[pred="mħbwbe byat_____1",cat=PN]	mħbwbe byat_____1	Default		%default	inv
+mħbwbe mŕbly	100	PN	[pred="mħbwbe mŕbly_____1",cat=PN]	mħbwbe mŕbly_____1	Default		%default	inv
+mħjwbe erwy	100	PN	[pred="mħjwbe erwy_____1",cat=PN]	mħjwbe erwy_____1	Default		%default	inv
+mħmd 'abd jabry	100	PN	[pred="mħmd 'abd jabry___Mohammed Abed al-Jabri__1",cat=PN]	mħmd 'abd jabry___Mohammed Abed al-Jabri__1	Default		%default	inv
+mħmd 'bayy xrasany	100	PN	[pred="mħmd 'bayy xrasany___Mohammad Va'ez Abaee-Khorasani__1",cat=PN]	mħmd 'bayy xrasany___Mohammad Va'ez Abaee-Khorasani__1	Default		%default	inv
+mħmd 'bdalweab	100	PN	[pred="mħmd 'bdalweab___Mohammed Abdel Wahab__1",cat=PN]	mħmd 'bdalweab___Mohammed Abdel Wahab__1	Default		%default	inv
+mħmd 'lwy	100	PN	[pred="mħmd 'lwy___Mohammad Alavi (footballer)__1",cat=PN]	mħmd 'lwy___Mohammad Alavi (footballer)__1	Default		%default	inv
+mħmd 'ly	100	PN	[pred="mħmd 'ly___Muhammad Ali__1",cat=PN]	mħmd 'ly___Muhammad Ali__1	Default		%default	inv
+mħmd 'ly 'lame wħydy	100	PN	[pred="mħmd 'ly 'lame wħydy_____1",cat=PN]	mħmd 'ly 'lame wħydy_____1	Default		%default	inv
+mħmd 'ly ramyn	100	PN	[pred="mħmd 'ly ramyn___Mohammad-Ali Ramin__1",cat=PN]	mħmd 'ly ramyn___Mohammad-Ali Ramin__1	Default		%default	inv
+mħmd 'ly spanlw	100	PN	[pred="mħmd 'ly spanlw___Mohammad-Ali Sepanlou__1",cat=PN]	mħmd 'ly spanlw___Mohammad-Ali Sepanlou__1	Default		%default	inv
+mħmd 'lyrźayy	100	PN	[pred="mħmd 'lyrźayy___Mohammad Alirezaei__1",cat=PN]	mħmd 'lyrźayy___Mohammad Alirezaei__1	Default		%default	inv
+mħmd 'wfy	100	PN	[pred="mħmd 'wfy_____1",cat=PN]	mħmd 'wfy_____1	Default		%default	inv
+mħmd 'zyzy	100	PN	[pred="mħmd 'zyzy_____1",cat=PN]	mħmd 'zyzy_____1	Default		%default	inv
+mħmd 'şar tbryzy	100	PN	[pred="mħmd 'şar tbryzy_____1",cat=PN]	mħmd 'şar tbryzy_____1	Default		%default	inv
+mħmd 'ţryanfr	100	PN	[pred="mħmd 'ţryanfr___Mohammad Atrianfar__1",cat=PN]	mħmd 'ţryanfr___Mohammad Atrianfar__1	Default		%default	inv
+mħmd abn maje	100	PN	[pred="mħmd abn maje_____1",cat=PN]	mħmd abn maje_____1	Default		%default	inv
+mħmd abraeym ftaħy	100	PN	[pred="mħmd abraeym ftaħy_____1",cat=PN]	mħmd abraeym ftaħy_____1	Default		%default	inv
+mħmd amamy kašany	100	PN	[pred="mħmd amamy kašany___Mohammed Emami-Kashani__1",cat=PN]	mħmd amamy kašany___Mohammed Emami-Kashani__1	Default		%default	inv
+mħmd asma'yl rźwany	100	PN	[pred="mħmd asma'yl rźwany_____1",cat=PN]	mħmd asma'yl rźwany_____1	Default		%default	inv
+mħmd asma'yl şa´ny znjany	100	PN	[pred="mħmd asma'yl şa´ny znjany_____1",cat=PN]	mħmd asma'yl şa´ny znjany_____1	Default		%default	inv
+mħmd awraz	100	PN	[pred="mħmd awraz___Mohammad Oraz__1",cat=PN]	mħmd awraz___Mohammad Oraz__1	Default		%default	inv
+mħmd aywby	100	PN	[pred="mħmd aywby_____1",cat=PN]	mħmd aywby_____1	Default		%default	inv
+mħmd azrm	100	PN	[pred="mħmd azrm_____1",cat=PN]	mħmd azrm_____1	Default		%default	inv
+mħmd aħmdyan	100	PN	[pred="mħmd aħmdyan_____1",cat=PN]	mħmd aħmdyan_____1	Default		%default	inv
+mħmd aħmdzade	100	PN	[pred="mħmd aħmdzade___Mohammad Ahmadzadeh__1",cat=PN]	mħmd aħmdzade___Mohammad Ahmadzadeh__1	Default		%default	inv
+mħmd aħşayy	100	PN	[pred="mħmd aħşayy_____1",cat=PN]	mħmd aħşayy_____1	Default		%default	inv
+mħmd aşfeany	100	PN	[pred="mħmd aşfeany_____1",cat=PN]	mħmd aşfeany_____1	Default		%default	inv
+mħmd baŕry m'tmd	100	PN	[pred="mħmd baŕry m'tmd___Mohammad Bagheri__1",cat=PN]	mħmd baŕry m'tmd___Mohammad Bagheri__1	Default		%default	inv
+mħmd bearlw	100	PN	[pred="mħmd bearlw_____1",cat=PN]	mħmd bearlw_____1	Default		%default	inv
+mħmd bn 'çman	100	PN	[pred="mħmd bn 'çman_____1",cat=PN]	mħmd bn 'çman_____1	Default		%default	inv
+mħmd bn adrys šaf'y	100	PN	[pred="mħmd bn adrys šaf'y___Muhammad ibn Idris ash-Shafi`i__1",cat=PN]	mħmd bn adrys šaf'y___Muhammad ibn Idris ash-Shafi`i__1	Default		%default	inv
+mħmd bn aywb ţbry	100	PN	[pred="mħmd bn aywb ţbry_____1",cat=PN]	mħmd bn aywb ţbry_____1	Default		%default	inv
+mħmd bn jryr ţbry	100	PN	[pred="mħmd bn jryr ţbry___Muhammad ibn Jarir al-Tabari__1",cat=PN]	mħmd bn jryr ţbry___Muhammad ibn Jarir al-Tabari__1	Default		%default	inv
+mħmd bn mwsy xwarzmy	100	PN	[pred="mħmd bn mwsy xwarzmy___Muhammad ibn Musā al-Khwarizmi__1",cat=PN]	mħmd bn mwsy xwarzmy___Muhammad ibn Musā al-Khwarizmi__1	Default		%default	inv
+mħmd bn xawnd šae bn mħmwd	100	PN	[pred="mħmd bn xawnd šae bn mħmwd_____1",cat=PN]	mħmd bn xawnd šae bn mħmwd_____1	Default		%default	inv
+mħmd bn áby ħatm	100	PN	[pred="mħmd bn áby ħatm_____1",cat=PN]	mħmd bn áby ħatm_____1	Default		%default	inv
+mħmd bna	100	PN	[pred="mħmd bna_____1",cat=PN]	mħmd bna_____1	Default		%default	inv
+mħmd brŕ'y	100	PN	[pred="mħmd brŕ'y_____1",cat=PN]	mħmd brŕ'y_____1	Default		%default	inv
+mħmd bsyje	100	PN	[pred="mħmd bsyje___Mohammed Bijeh__1",cat=PN]	mħmd bsyje___Mohammed Bijeh__1	Default		%default	inv
+mħmd bxary	100	PN	[pred="mħmd bxary___Muhammad al-Bukhari__1",cat=PN]	mħmd bxary___Muhammad al-Bukhari__1	Default		%default	inv
+mħmd bybak	100	PN	[pred="mħmd bybak_____1",cat=PN]	mħmd bybak_____1	Default		%default	inv
+mħmd bzrg_nya	100	PN	[pred="mħmd bzrg_nya_____1",cat=PN]	mħmd bzrg_nya_____1	Default		%default	inv
+mħmd bšra	100	PN	[pred="mħmd bšra_____1",cat=PN]	mħmd bšra_____1	Default		%default	inv
+mħmd dadkan	100	PN	[pred="mħmd dadkan___Mohammad Dadkan__1",cat=PN]	mħmd dadkan___Mohammad Dadkan__1	Default		%default	inv
+mħmd dawwdxan	100	PN	[pred="mħmd dawwdxan___Mohammed Daoud Khan__1",cat=PN]	mħmd dawwdxan___Mohammed Daoud Khan__1	Default		%default	inv
+mħmd dbYrmŕdm	100	PN	[pred="mħmd dbYrmŕdm_____1",cat=PN]	mħmd dbYrmŕdm_____1	Default		%default	inv
+mħmd dħlan	100	PN	[pred="mħmd dħlan___Mohammed Dahlan__1",cat=PN]	mħmd dħlan___Mohammed Dahlan__1	Default		%default	inv
+mħmd eady kawyany	100	PN	[pred="mħmd eady kawyany_____1",cat=PN]	mħmd eady kawyany_____1	Default		%default	inv
+mħmd emaywn	100	PN	[pred="mħmd emaywn_____1",cat=PN]	mħmd emaywn_____1	Default		%default	inv
+mħmd frxy yzdy	100	PN	[pred="mħmd frxy yzdy___Mohammad Farrokhi Yazdi__1",cat=PN]	mħmd frxy yzdy___Mohammad Farrokhi Yazdi__1	Default		%default	inv
+mħmd fźwly	100	PN	[pred="mħmd fźwly___Fuzulî__1",cat=PN]	mħmd fźwly___Fuzulî__1	Default		%default	inv
+mħmd j'fr pwynde	100	PN	[pred="mħmd j'fr pwynde___Mohammad-Ja'far Pouyandeh__1",cat=PN]	mħmd j'fr pwynde___Mohammad-Ja'far Pouyandeh__1	Default		%default	inv
+mħmd kasby	100	PN	[pred="mħmd kasby_____1",cat=PN]	mħmd kasby_____1	Default		%default	inv
+mħmd katby	100	PN	[pred="mħmd katby_____1",cat=PN]	mħmd katby_____1	Default		%default	inv
+mħmd kaẓm erwy xrasany	100	PN	[pred="mħmd kaẓm erwy xrasany_____1",cat=PN]	mħmd kaẓm erwy xrasany_____1	Default		%default	inv
+mħmd kyanwš_rad	100	PN	[pred="mħmd kyanwš_rad_____1",cat=PN]	mħmd kyanwš_rad_____1	Default		%default	inv
+mħmd kčwyy	100	PN	[pred="mħmd kčwyy_____1",cat=PN]	mħmd kčwyy_____1	Default		%default	inv
+mħmd kčw´y	100	PN	[pred="mħmd kčw´y_____1",cat=PN]	mħmd kčw´y_____1	Default		%default	inv
+mħmd m'yn	100	PN	[pred="mħmd m'yn___Mohammad Moin__1",cat=PN]	mħmd m'yn___Mohammad Moin__1	Default		%default	inv
+mħmd marmadwk pyktal	100	PN	[pred="mħmd marmadwk pyktal___Marmaduke Pickthall__1",cat=PN]	mħmd marmadwk pyktal___Marmaduke Pickthall__1	Default		%default	inv
+mħmd mdbr	100	PN	[pred="mħmd mdbr_____1",cat=PN]	mħmd mdbr_____1	Default		%default	inv
+mħmd mddpwr	100	PN	[pred="mħmd mddpwr_____1",cat=PN]	mħmd mddpwr_____1	Default		%default	inv
+mħmd medy rbany amlšy	100	PN	[pred="mħmd medy rbany amlšy___Mohammad Mahdi Rabbani Amlashi__1",cat=PN]	mħmd medy rbany amlšy___Mohammad Mahdi Rabbani Amlashi__1	Default		%default	inv
+mħmd merdad	100	PN	[pred="mħmd merdad_____1",cat=PN]	mħmd merdad_____1	Default		%default	inv
+mħmd merwan	100	PN	[pred="mħmd merwan_____1",cat=PN]	mħmd merwan_____1	Default		%default	inv
+mħmd meryar	100	PN	[pred="mħmd meryar_____1",cat=PN]	mħmd meryar_____1	Default		%default	inv
+mħmd mftħ	100	PN	[pred="mħmd mftħ_____1",cat=PN]	mħmd mftħ_____1	Default		%default	inv
+mħmd mjted šbstry	100	PN	[pred="mħmd mjted šbstry___Mohammad Mojtahed Shabestari__1",cat=PN]	mħmd mjted šbstry___Mohammad Mojtahed Shabestari__1	Default		%default	inv
+mħmd mkry	100	PN	[pred="mħmd mkry___Mohammad Mokri__1",cat=PN]	mħmd mkry___Mohammad Mokri__1	Default		%default	inv
+mħmd mlky	100	PN	[pred="mħmd mlky___Mohammad Maleki__1",cat=PN]	mħmd mlky___Mohammad Maleki__1	Default		%default	inv
+mħmd mntáẓry	100	PN	[pred="mħmd mntáẓry_____1",cat=PN]	mħmd mntáẓry_____1	Default		%default	inv
+mħmd mnşwry	100	PN	[pred="mħmd mnşwry___Mohammad Mansouri__1",cat=PN]	mħmd mnşwry___Mohammad Mansouri__1	Default		%default	inv
+mħmd ms'wd	100	PN	[pred="mħmd ms'wd_____1",cat=PN]	mħmd ms'wd_____1	Default		%default	inv
+mħmd mtwslany	100	PN	[pred="mħmd mtwslany_____1",cat=PN]	mħmd mtwslany_____1	Default		%default	inv
+mħmd mwmn ŕmy	100	PN	[pred="mħmd mwmn ŕmy_____1",cat=PN]	mħmd mwmn ŕmy_____1	Default		%default	inv
+mħmd mwswy xw´yny_ea	100	PN	[pred="mħmd mwswy xw´yny_ea___Mohammad Mousavi Khoeiniha__1",cat=PN]	mħmd mwswy xw´yny_ea___Mohammad Mousavi Khoeiniha__1	Default		%default	inv
+mħmd mxtary	100	PN	[pred="mħmd mxtary___Mohammad Mokhtari__1",cat=PN]	mħmd mxtary___Mohammad Mokhtari__1	Default		%default	inv
+mħmd myrnŕyby	100	PN	[pred="mħmd myrnŕyby_____1",cat=PN]	mħmd myrnŕyby_____1	Default		%default	inv
+mħmd mħmd'ly	100	PN	[pred="mħmd mħmd'ly_____1",cat=PN]	mħmd mħmd'ly_____1	Default		%default	inv
+mħmd mħmdy grgany	100	PN	[pred="mħmd mħmdy grgany_____1",cat=PN]	mħmd mħmdy grgany_____1	Default		%default	inv
+mħmd mħmdy gylany	100	PN	[pred="mħmd mħmdy gylany_____1",cat=PN]	mħmd mħmdy gylany_____1	Default		%default	inv
+mħmd mħtrm_pnae	100	PN	[pred="mħmd mħtrm_pnae_____1",cat=PN]	mħmd mħtrm_pnae_____1	Default		%default	inv
+mħmd mħŕŕy laeyjy	100	PN	[pred="mħmd mħŕŕy laeyjy_____1",cat=PN]	mħmd mħŕŕy laeyjy_____1	Default		%default	inv
+mħmd mşdŕ	100	PN	[pred="mħmd mşdŕ___Mohammad Mosaddegh__1",cat=PN]	mħmd mşdŕ___Mohammad Mosaddegh__1	Default		%default	inv
+mħmd mţy'	100	PN	[pred="mħmd mţy'_____1",cat=PN]	mħmd mţy'_____1	Default		%default	inv
+mħmd n'ymy_pwr	100	PN	[pred="mħmd n'ymy_pwr_____1",cat=PN]	mħmd n'ymy_pwr_____1	Default		%default	inv
+mħmd nadršae	100	PN	[pred="mħmd nadršae___Mohammed Nadir Shah__1",cat=PN]	mħmd nadršae___Mohammed Nadir Shah__1	Default		%default	inv
+mħmd neawndyan	100	PN	[pred="mħmd neawndyan_____1",cat=PN]	mħmd neawndyan_____1	Default		%default	inv
+mħmd nwry	100	PN	[pred="mħmd nwry_____1",cat=PN]	mħmd nwry_____1	Default		%default	inv
+mħmd nwry 'çmanwf	100	PN	[pred="mħmd nwry 'çmanwf_____1",cat=PN]	mħmd nwry 'çmanwf_____1	Default		%default	inv
+mħmd nwry_zad	100	PN	[pred="mħmd nwry_zad_____1",cat=PN]	mħmd nwry_zad_____1	Default		%default	inv
+mħmd nykzady	100	PN	[pred="mħmd nykzady_____1",cat=PN]	mħmd nykzady_____1	Default		%default	inv
+mħmd nşrty	100	PN	[pred="mħmd nşrty___Mohammad Nosrati__1",cat=PN]	mħmd nşrty___Mohammad Nosrati__1	Default		%default	inv
+mħmd prwyn	100	PN	[pred="mħmd prwyn___Mohammad Parvin__1",cat=PN]	mħmd prwyn___Mohammad Parvin__1	Default		%default	inv
+mħmd prwyn gnabady	100	PN	[pred="mħmd prwyn gnabady_____1",cat=PN]	mħmd prwyn gnabady_____1	Default		%default	inv
+mħmd psr mxld sgzy	100	PN	[pred="mħmd psr mxld sgzy_____1",cat=PN]	mħmd psr mxld sgzy_____1	Default		%default	inv
+mħmd psr wşyf sjzy	100	PN	[pred="mħmd psr wşyf sjzy_____1",cat=PN]	mħmd psr wşyf sjzy_____1	Default		%default	inv
+mħmd pwrermzan	100	PN	[pred="mħmd pwrermzan_____1",cat=PN]	mħmd pwrermzan_____1	Default		%default	inv
+mħmd pđyrayy	100	PN	[pred="mħmd pđyrayy_____1",cat=PN]	mħmd pđyrayy_____1	Default		%default	inv
+mħmd qzaly	100	PN	[pred="mħmd qzaly___Al-Ghazali__1",cat=PN]	mħmd qzaly___Al-Ghazali__1	Default		%default	inv
+mħmd rfy' aš'ry	100	PN	[pred="mħmd rfy' aš'ry_____1",cat=PN]	mħmd rfy' aš'ry_____1	Default		%default	inv
+mħmd ršyd šyx_alaslamy krdstany	100	PN	[pred="mħmd ršyd šyx_alaslamy krdstany_____1",cat=PN]	mħmd ršyd šyx_alaslamy krdstany_____1	Default		%default	inv
+mħmd s'yd alşħaf	100	PN	[pred="mħmd s'yd alşħaf___Muhammad Saeed al-Sahhaf__1",cat=PN]	mħmd s'yd alşħaf___Muhammad Saeed al-Sahhaf__1	Default		%default	inv
+mħmd s'yd šryfyan	100	PN	[pred="mħmd s'yd šryfyan_____1",cat=PN]	mħmd s'yd šryfyan_____1	Default		%default	inv
+mħmd slamty	100	PN	[pred="mħmd slamty_____1",cat=PN]	mħmd slamty_____1	Default		%default	inv
+mħmd sweartw	100	PN	[pred="mħmd sweartw___Suharto__1",cat=PN]	mħmd sweartw___Suharto__1	Default		%default	inv
+mħmd syswkw	100	PN	[pred="mħmd syswkw___Mohamed Sissoko__1",cat=PN]	mħmd syswkw___Mohamed Sissoko__1	Default		%default	inv
+mħmd trmđy	100	PN	[pred="mħmd trmđy_____1",cat=PN]	mħmd trmđy_____1	Default		%default	inv
+mħmd twsly	100	PN	[pred="mħmd twsly_____1",cat=PN]	mħmd twsly_____1	Default		%default	inv
+mħmd tŕy bn mħmd 'ly	100	PN	[pred="mħmd tŕy bn mħmd 'ly_____1",cat=PN]	mħmd tŕy bn mħmd 'ly_____1	Default		%default	inv
+mħmd tŕy kenwyy	100	PN	[pred="mħmd tŕy kenwyy_____1",cat=PN]	mħmd tŕy kenwyy_____1	Default		%default	inv
+mħmd tŕy mjydy	100	PN	[pred="mħmd tŕy mjydy_____1",cat=PN]	mħmd tŕy mjydy_____1	Default		%default	inv
+mħmd wršwčy	100	PN	[pred="mħmd wršwčy_____1",cat=PN]	mħmd wršwčy_____1	Default		%default	inv
+mħmd xakpwr	100	PN	[pred="mħmd xakpwr_____1",cat=PN]	mħmd xakpwr_____1	Default		%default	inv
+mħmd xalşy_zade	100	PN	[pred="mħmd xalşy_zade_____1",cat=PN]	mħmd xalşy_zade_____1	Default		%default	inv
+mħmd xatm	100	PN	[pred="mħmd xatm_____1",cat=PN]	mħmd xatm_____1	Default		%default	inv
+mħmd xatmy	100	PN	[pred="mħmd xatmy___Mohammad Khatami__1",cat=PN]	mħmd xatmy___Mohammad Khatami__1	Default		%default	inv
+mħmd xlYly	100	PN	[pred="mħmd xlYly_____1",cat=PN]	mħmd xlYly_____1	Default		%default	inv
+mħmd xrdadyan	100	PN	[pred="mħmd xrdadyan_____1",cat=PN]	mħmd xrdadyan_____1	Default		%default	inv
+mħmd xwš_čere	100	PN	[pred="mħmd xwš_čere___Mohammad Khoshchehreh__1",cat=PN]	mħmd xwš_čere___Mohammad Khoshchehreh__1	Default		%default	inv
+mħmd xza'y	100	PN	[pred="mħmd xza'y___Mohammad Khazaee__1",cat=PN]	mħmd xza'y___Mohammad Khazaee__1	Default		%default	inv
+mħmd y'ŕwby	100	PN	[pred="mħmd y'ŕwby_____1",cat=PN]	mħmd y'ŕwby_____1	Default		%default	inv
+mħmd ywns	100	PN	[pred="mħmd ywns___Muhammad Yunus__1",cat=PN]	mħmd ywns___Muhammad Yunus__1	Default		%default	inv
+mħmd ywsf ŕwam aħrary	100	PN	[pred="mħmd ywsf ŕwam aħrary_____1",cat=PN]	mħmd ywsf ŕwam aħrary_____1	Default		%default	inv
+mħmd zery	100	PN	[pred="mħmd zery___Mohammad Zohari__1",cat=PN]	mħmd zery___Mohammad Zohari__1	Default		%default	inv
+mħmd zkryay razy	100	PN	[pred="mħmd zkryay razy___Muhammad ibn Zakariya al-Razi__1",cat=PN]	mħmd zkryay razy___Muhammad ibn Zakariya al-Razi__1	Default		%default	inv
+mħmd črmšyr	100	PN	[pred="mħmd črmšyr_____1",cat=PN]	mħmd črmšyr_____1	Default		%default	inv
+mħmd ħjazy	100	PN	[pred="mħmd ħjazy_____1",cat=PN]	mħmd ħjazy_____1	Default		%default	inv
+mħmd ħnyf_nžad	100	PN	[pred="mħmd ħnyf_nžad_____1",cat=PN]	mħmd ħnyf_nžad_____1	Default		%default	inv
+mħmd ħsyn frwqy	100	PN	[pred="mħmd ħsyn frwqy_____1",cat=PN]	mħmd ħsyn frwqy_____1	Default		%default	inv
+mħmd ħsyn mħby	100	PN	[pred="mħmd ħsyn mħby_____1",cat=PN]	mħmd ħsyn mħby_____1	Default		%default	inv
+mħmd ħsyny	100	PN	[pred="mħmd ħsyny_____1",cat=PN]	mħmd ħsyny_____1	Default		%default	inv
+mħmd ħŕwŕy	100	PN	[pred="mħmd ħŕwŕy___Mohammad Hoqouqi__1",cat=PN]	mħmd ħŕwŕy___Mohammad Hoqouqi__1	Default		%default	inv
+mħmd ħŕyŕt	100	PN	[pred="mħmd ħŕyŕt_____1",cat=PN]	mħmd ħŕyŕt_____1	Default		%default	inv
+mħmd ŕasm_zade	100	PN	[pred="mħmd ŕasm_zade_____1",cat=PN]	mħmd ŕasm_zade_____1	Default		%default	inv
+mħmd ŕaźy	100	PN	[pred="mħmd ŕaźy_____1",cat=PN]	mħmd ŕaźy_____1	Default		%default	inv
+mħmd ŕryb	100	PN	[pred="mħmd ŕryb___Mohammad Gharib__1",cat=PN]	mħmd ŕryb___Mohammad Gharib__1	Default		%default	inv
+mħmd ŕwčany	100	PN	[pred="mħmd ŕwčany___Mohammad Ghouchani__1",cat=PN]	mħmd ŕwčany___Mohammad Ghouchani__1	Default		%default	inv
+mħmd şadŕy	100	PN	[pred="mħmd şadŕy___Mohammad Sadeghi__1",cat=PN]	mħmd şadŕy___Mohammad Sadeghi__1	Default		%default	inv
+mħmd şalħ 'la	100	PN	[pred="mħmd şalħ 'la_____1",cat=PN]	mħmd şalħ 'la_____1	Default		%default	inv
+mħmd şalħ alŕrŕ	100	PN	[pred="mħmd şalħ alŕrŕ_____1",cat=PN]	mħmd şalħ alŕrŕ_____1	Default		%default	inv
+mħmd şdyŕ kbwdwnd	100	PN	[pred="mħmd şdyŕ kbwdwnd_____1",cat=PN]	mħmd şdyŕ kbwdwnd_____1	Default		%default	inv
+mħmd şny'_xatm	100	PN	[pred="mħmd şny'_xatm_____1",cat=PN]	mħmd şny'_xatm_____1	Default		%default	inv
+mħmd šadany	100	PN	[pred="mħmd šadany_____1",cat=PN]	mħmd šadany_____1	Default		%default	inv
+mħmd šae_bxty	100	PN	[pred="mħmd šae_bxty_____1",cat=PN]	mħmd šae_bxty_____1	Default		%default	inv
+mħmd šaeyde_pwr	100	PN	[pred="mħmd šaeyde_pwr___Mohammad Shahidehpour__1",cat=PN]	mħmd šaeyde_pwr___Mohammad Shahidehpour__1	Default		%default	inv
+mħmd šms	100	PN	[pred="mħmd šms___Mohammad Shams__1",cat=PN]	mħmd šms___Mohammad Shams__1	Default		%default	inv
+mħmd šms lngrwdy	100	PN	[pred="mħmd šms lngrwdy___Shams Langeroodi__1",cat=PN]	mħmd šms lngrwdy___Shams Langeroodi__1	Default		%default	inv
+mħmd šms lngrwdy	100	PN	[pred="mħmd šms lngrwdy_____1",cat=PN]	mħmd šms lngrwdy_____1	Default		%default	inv
+mħmd šryfy n'mt_abad	100	PN	[pred="mħmd šryfy n'mt_abad_____1",cat=PN]	mħmd šryfy n'mt_abad_____1	Default		%default	inv
+mħmd šyry	100	PN	[pred="mħmd šyry_____1",cat=PN]	mħmd šyry_____1	Default		%default	inv
+mħmd šyx_alaslam	100	PN	[pred="mħmd šyx_alaslam_____1",cat=PN]	mħmd šyx_alaslam_____1	Default		%default	inv
+mħmd ţbybyan	100	PN	[pred="mħmd ţbybyan_____1",cat=PN]	mħmd ţbybyan_____1	Default		%default	inv
+mħmd źraby	100	PN	[pred="mħmd źraby_____1",cat=PN]	mħmd źraby_____1	Default		%default	inv
+mħmd'ly abţħy	100	PN	[pred="mħmd'ly abţħy___Mohammad-Ali Abtahi__1",cat=PN]	mħmd'ly abţħy___Mohammad-Ali Abtahi__1	Default		%default	inv
+mħmd'ly afrašte	100	PN	[pred="mħmd'ly afrašte_____1",cat=PN]	mħmd'ly afrašte_____1	Default		%default	inv
+mħmd'ly aslamy ndwšn	100	PN	[pred="mħmd'ly aslamy ndwšn___Mohammad-Ali Eslami Nodooshan__1",cat=PN]	mħmd'ly aslamy ndwšn___Mohammad-Ali Eslami Nodooshan__1	Default		%default	inv
+mħmd'ly bemny	100	PN	[pred="mħmd'ly bemny_____1",cat=PN]	mħmd'ly bemny_____1	Default		%default	inv
+mħmd'ly bny_asdy	100	PN	[pred="mħmd'ly bny_asdy_____1",cat=PN]	mħmd'ly bny_asdy_____1	Default		%default	inv
+mħmd'ly dadxwae	100	PN	[pred="mħmd'ly dadxwae_____1",cat=PN]	mħmd'ly dadxwae_____1	Default		%default	inv
+mħmd'ly frdyn	100	PN	[pred="mħmd'ly frdyn___Mohammad Ali Fardin__1",cat=PN]	mħmd'ly frdyn___Mohammad Ali Fardin__1	Default		%default	inv
+mħmd'ly fyź laeyjy	100	PN	[pred="mħmd'ly fyź laeyjy_____1",cat=PN]	mħmd'ly fyź laeyjy_____1	Default		%default	inv
+mħmd'ly jmal_zade	100	PN	[pred="mħmd'ly jmal_zade___Mohammad-Ali Jamalzadeh__1",cat=PN]	mħmd'ly jmal_zade___Mohammad-Ali Jamalzadeh__1	Default		%default	inv
+mħmd'ly jnaħ	100	PN	[pred="mħmd'ly jnaħ___Muhammad Ali Jinnah__1",cat=PN]	mħmd'ly jnaħ___Muhammad Ali Jinnah__1	Default		%default	inv
+mħmd'ly kšawrz	100	PN	[pred="mħmd'ly kšawrz___Mohammad-Ali Keshavarz__1",cat=PN]	mħmd'ly kšawrz___Mohammad-Ali Keshavarz__1	Default		%default	inv
+mħmd'ly m'lm damqany	100	PN	[pred="mħmd'ly m'lm damqany_____1",cat=PN]	mħmd'ly m'lm damqany_____1	Default		%default	inv
+mħmd'ly mwħdy_krmany	100	PN	[pred="mħmd'ly mwħdy_krmany___Ali Movahedi-Kermani__1",cat=PN]	mħmd'ly mwħdy_krmany___Ali Movahedi-Kermani__1	Default		%default	inv
+mħmd'ly njfy	100	PN	[pred="mħmd'ly njfy_____1",cat=PN]	mħmd'ly njfy_____1	Default		%default	inv
+mħmd'ly paša	100	PN	[pred="mħmd'ly paša_____1",cat=PN]	mħmd'ly paša_____1	Default		%default	inv
+mħmd'ly rjayy	100	PN	[pred="mħmd'ly rjayy___Mohammad-Ali Rajai__1",cat=PN]	mħmd'ly rjayy___Mohammad-Ali Rajai__1	Default		%default	inv
+mħmd'ly rħmany	100	PN	[pred="mħmd'ly rħmany_____1",cat=PN]	mħmd'ly rħmany_____1	Default		%default	inv
+mħmd'ly wfa aşfeany	100	PN	[pred="mħmd'ly wfa aşfeany_____1",cat=PN]	mħmd'ly wfa aşfeany_____1	Default		%default	inv
+mħmd'ly şn'tkaran	100	PN	[pred="mħmd'ly şn'tkaran_____1",cat=PN]	mħmd'ly şn'tkaran_____1	Default		%default	inv
+mħmd'ly šae	100	PN	[pred="mħmd'ly šae___Mohammad Ali Shah Qajar__1",cat=PN]	mħmd'ly šae___Mohammad Ali Shah Qajar__1	Default		%default	inv
+mħmd'ly šyrazy	100	PN	[pred="mħmd'ly šyrazy_____1",cat=PN]	mħmd'ly šyrazy_____1	Default		%default	inv
+mħmd'ly ţalby	100	PN	[pred="mħmd'ly ţalby_____1",cat=PN]	mħmd'ly ţalby_____1	Default		%default	inv
+mħmd_eašm psran	100	PN	[pred="mħmd_eašm psran___Mohammad Hashem Pesaran__1",cat=PN]	mħmd_eašm psran___Mohammad Hashem Pesaran__1	Default		%default	inv
+mħmdabraeym bastany paryzy	100	PN	[pred="mħmdabraeym bastany paryzy_____1",cat=PN]	mħmdabraeym bastany paryzy_____1	Default		%default	inv
+mħmdamyn myrfndrsky	100	PN	[pred="mħmdamyn myrfndrsky_____1",cat=PN]	mħmdamyn myrfndrsky_____1	Default		%default	inv
+mħmdamyn rswlzade	100	PN	[pred="mħmdamyn rswlzade_____1",cat=PN]	mħmdamyn rswlzade_____1	Default		%default	inv
+mħmdamyn ryaħy	100	PN	[pred="mħmdamyn ryaħy___Mohammad-Amin Riahi__1",cat=PN]	mħmdamyn ryaħy___Mohammad-Amin Riahi__1	Default		%default	inv
+mħmdaşf slţanzade	100	PN	[pred="mħmdaşf slţanzade_____1",cat=PN]	mħmdaşf slţanzade_____1	Default		%default	inv
+mħmdbaŕr laeyjy	100	PN	[pred="mħmdbaŕr laeyjy_____1",cat=PN]	mħmdbaŕr laeyjy_____1	Default		%default	inv
+mħmdbaŕr ŕalybaf	100	PN	[pred="mħmdbaŕr ŕalybaf___Mohammad Bagher Ghalibaf__1",cat=PN]	mħmdbaŕr ŕalybaf___Mohammad Bagher Ghalibaf__1	Default		%default	inv
+mħmdbaŕr šfty	100	PN	[pred="mħmdbaŕr šfty_____1",cat=PN]	mħmdbaŕr šfty_____1	Default		%default	inv
+mħmdbn ywns	100	PN	[pred="mħmdbn ywns_____1",cat=PN]	mħmdbn ywns_____1	Default		%default	inv
+mħmdbn ħşar	100	PN	[pred="mħmdbn ħşar_____1",cat=PN]	mħmdbn ħşar_____1	Default		%default	inv
+mħmdeady šfy'y_ea	100	PN	[pred="mħmdeady šfy'y_ea_____1",cat=PN]	mħmdeady šfy'y_ea_____1	Default		%default	inv
+mħmdj'fr bedad	100	PN	[pred="mħmdj'fr bedad_____1",cat=PN]	mħmdj'fr bedad_____1	Default		%default	inv
+mħmdj'fr j'fry lngrwdy	100	PN	[pred="mħmdj'fr j'fry lngrwdy_____1",cat=PN]	mħmdj'fr j'fry lngrwdy_____1	Default		%default	inv
+mħmdj'fr yaħŕy	100	PN	[pred="mħmdj'fr yaħŕy___Mohammad Jafar Yahaghi__1",cat=PN]	mħmdj'fr yaħŕy___Mohammad Jafar Yahaghi__1	Default		%default	inv
+mħmdjwad akbryn	100	PN	[pred="mħmdjwad akbryn_____1",cat=PN]	mħmdjwad akbryn_____1	Default		%default	inv
+mħmdjwad amam	100	PN	[pred="mħmdjwad amam_____1",cat=PN]	mħmdjwad amam_____1	Default		%default	inv
+mħmdjwad baenr	100	PN	[pred="mħmdjwad baenr___Mohammad-Javad Bahonar__1",cat=PN]	mħmdjwad baenr___Mohammad-Javad Bahonar__1	Default		%default	inv
+mħmdjwad falyzwanyan	100	PN	[pred="mħmdjwad falyzwanyan_____1",cat=PN]	mħmdjwad falyzwanyan_____1	Default		%default	inv
+mħmdjwad laryjany	100	PN	[pred="mħmdjwad laryjany___Mohammad-Javad Larijani__1",cat=PN]	mħmdjwad laryjany___Mohammad-Javad Larijani__1	Default		%default	inv
+mħmdkaáẓm kaáẓmy	100	PN	[pred="mħmdkaáẓm kaáẓmy_____1",cat=PN]	mħmdkaáẓm kaáẓmy_____1	Default		%default	inv
+mħmdmedy aleayy	100	PN	[pred="mħmdmedy aleayy___Mohammad Mehdi Elhaei__1",cat=PN]	mħmdmedy aleayy___Mohammad Mehdi Elhaei__1	Default		%default	inv
+mħmdmedy arbab aşfeany	100	PN	[pred="mħmdmedy arbab aşfeany_____1",cat=PN]	mħmdmedy arbab aşfeany_____1	Default		%default	inv
+mħmdmedy fwladwnd	100	PN	[pred="mħmdmedy fwladwnd_____1",cat=PN]	mħmdmedy fwladwnd_____1	Default		%default	inv
+mħmdmedy fŕyey	100	PN	[pred="mħmdmedy fŕyey___Mohammad Mahdi Faghihi__1",cat=PN]	mħmdmedy fŕyey___Mohammad Mahdi Faghihi__1	Default		%default	inv
+mħmdmedy šYx_jbary	100	PN	[pred="mħmdmedy šYx_jbary_____1",cat=PN]	mħmdmedy šYx_jbary_____1	Default		%default	inv
+mħmdmnşwr flamky	100	PN	[pred="mħmdmnşwr flamky_____1",cat=PN]	mħmdmnşwr flamky_____1	Default		%default	inv
+mħmdnadr xYry	100	PN	[pred="mħmdnadr xYry_____1",cat=PN]	mħmdnadr xYry_____1	Default		%default	inv
+mħmdnby waşl	100	PN	[pred="mħmdnby waşl_____1",cat=PN]	mħmdnby waşl_____1	Default		%default	inv
+mħmdrfy' źyayy	100	PN	[pred="mħmdrfy' źyayy_____1",cat=PN]	mħmdrfy' źyayy_____1	Default		%default	inv
+mħmdrħym ardbyly	100	PN	[pred="mħmdrħym ardbyly_____1",cat=PN]	mħmdrħym ardbyly_____1	Default		%default	inv
+mħmdrħym axwt	100	PN	[pred="mħmdrħym axwt_____1",cat=PN]	mħmdrħym axwt_____1	Default		%default	inv
+mħmdrźa 'arf	100	PN	[pred="mħmdrźa 'arf___Mohammad-Reza Aref__1",cat=PN]	mħmdrźa 'arf___Mohammad-Reza Aref__1	Default		%default	inv
+mħmdrźa 'ly_zmany	100	PN	[pred="mħmdrźa 'ly_zmany___Mohammad-Reza Ali-Zamani__1",cat=PN]	mħmdrźa 'ly_zmany___Mohammad-Reza Ali-Zamani__1	Default		%default	inv
+mħmdrźa 'lyŕly	100	PN	[pred="mħmdrźa 'lyŕly_____1",cat=PN]	mħmdrźa 'lyŕly_____1	Default		%default	inv
+mħmdrźa askndry	100	PN	[pred="mħmdrźa askndry___Mohammad-Reza Eskandari__1",cat=PN]	mħmdrźa askndry___Mohammad-Reza Eskandari__1	Default		%default	inv
+mħmdrźa aywany	100	PN	[pred="mħmdrźa aywany_____1",cat=PN]	mħmdrźa aywany_____1	Default		%default	inv
+mħmdrźa aŕasy	100	PN	[pred="mħmdrźa aŕasy_____1",cat=PN]	mħmdrźa aŕasy_____1	Default		%default	inv
+mħmdrźa bayramy	100	PN	[pred="mħmdrźa bayramy_____1",cat=PN]	mħmdrźa bayramy_____1	Default		%default	inv
+mħmdrźa baţny	100	PN	[pred="mħmdrźa baţny_____1",cat=PN]	mħmdrźa baţny_____1	Default		%default	inv
+mħmdrźa drwyšy	100	PN	[pred="mħmdrźa drwyšy_____1",cat=PN]	mħmdrźa drwyšy_____1	Default		%default	inv
+mħmdrźa edayty	100	PN	[pred="mħmdrźa edayty_____1",cat=PN]	mħmdrźa edayty_____1	Default		%default	inv
+mħmdrźa enrmnd	100	PN	[pred="mħmdrźa enrmnd___Mohammad-Reza Honarmand__1",cat=PN]	mħmdrźa enrmnd___Mohammad-Reza Honarmand__1	Default		%default	inv
+mħmdrźa fakr	100	PN	[pred="mħmdrźa fakr_____1",cat=PN]	mħmdrźa fakr_____1	Default		%default	inv
+mħmdrźa frwtn	100	PN	[pred="mħmdrźa frwtn_____1",cat=PN]	mħmdrźa frwtn_____1	Default		%default	inv
+mħmdrźa fšaey	100	PN	[pred="mħmdrźa fšaey_____1",cat=PN]	mħmdrźa fšaey_____1	Default		%default	inv
+mħmdrźa glzar	100	PN	[pred="mħmdrźa glzar___Mohammad Reza Golzar__1",cat=PN]	mħmdrźa glzar___Mohammad Reza Golzar__1	Default		%default	inv
+mħmdrźa jlayy_pwr	100	PN	[pred="mħmdrźa jlayy_pwr_____1",cat=PN]	mħmdrźa jlayy_pwr_____1	Default		%default	inv
+mħmdrźa katb	100	PN	[pred="mħmdrźa katb_____1",cat=PN]	mħmdrźa katb_____1	Default		%default	inv
+mħmdrźa lţfy	100	PN	[pred="mħmdrźa lţfy___Mohammad-Reza Lotfi__1",cat=PN]	mħmdrźa lţfy___Mohammad-Reza Lotfi__1	Default		%default	inv
+mħmdrźa mškwT aldyny	100	PN	[pred="mħmdrźa mškwT aldyny_____1",cat=PN]	mħmdrźa mškwT aldyny_____1	Default		%default	inv
+mħmdrźa nwrwzpwr	100	PN	[pred="mħmdrźa nwrwzpwr_____1",cat=PN]	mħmdrźa nwrwzpwr_____1	Default		%default	inv
+mħmdrźa nykfr	100	PN	[pred="mħmdrźa nykfr_____1",cat=PN]	mħmdrźa nykfr_____1	Default		%default	inv
+mħmdrźa nŕašan	100	PN	[pred="mħmdrźa nŕašan_____1",cat=PN]	mħmdrźa nŕašan_____1	Default		%default	inv
+mħmdrźa pelwy	100	PN	[pred="mħmdrźa pelwy___Mohammad Reza Pahlavi__1",cat=PN]	mħmdrźa pelwy___Mohammad Reza Pahlavi__1	Default		%default	inv
+mħmdrźa pwrj'fry	100	PN	[pred="mħmdrźa pwrj'fry_____1",cat=PN]	mħmdrźa pwrj'fry_____1	Default		%default	inv
+mħmdrźa rwdky	100	PN	[pred="mħmdrźa rwdky___Mohammad Reza Roudaki__1",cat=PN]	mħmdrźa rwdky___Mohammad Reza Roudaki__1	Default		%default	inv
+mħmdrźa sršar	100	PN	[pred="mħmdrźa sršar_____1",cat=PN]	mħmdrźa sršar_____1	Default		%default	inv
+mħmdrźa tajyk	100	PN	[pred="mħmdrźa tajyk_____1",cat=PN]	mħmdrźa tajyk_____1	Default		%default	inv
+mħmdrźa twsly	100	PN	[pred="mħmdrźa twsly___Mohammad-Reza Tavassoli__1",cat=PN]	mħmdrźa twsly___Mohammad-Reza Tavassoli__1	Default		%default	inv
+mħmdrźa xatmy	100	PN	[pred="mħmdrźa xatmy___Mohammad-Reza Khatami__1",cat=PN]	mħmdrźa xatmy___Mohammad-Reza Khatami__1	Default		%default	inv
+mħmdrźa ħafẓ_nya	100	PN	[pred="mħmdrźa ħafẓ_nya___Mohammad-Reza Hafeznia__1",cat=PN]	mħmdrźa ħafẓ_nya___Mohammad-Reza Hafeznia__1	Default		%default	inv
+mħmdrźa ħkym_zade laeyjy	100	PN	[pred="mħmdrźa ħkym_zade laeyjy_____1",cat=PN]	mħmdrźa ħkym_zade laeyjy_____1	Default		%default	inv
+mħmdrźa ħkymy	100	PN	[pred="mħmdrźa ħkymy_____1",cat=PN]	mħmdrźa ħkymy_____1	Default		%default	inv
+mħmdrźa şfdry	100	PN	[pred="mħmdrźa şfdry_____1",cat=PN]	mħmdrźa şfdry_____1	Default		%default	inv
+mħmdrźa šfy'y kdkny	100	PN	[pred="mħmdrźa šfy'y kdkny___Mohammad-Reza Shafiei Kadkani__1",cat=PN]	mħmdrźa šfy'y kdkny___Mohammad-Reza Shafiei Kadkani__1	Default		%default	inv
+mħmdrźa šjryan	100	PN	[pred="mħmdrźa šjryan___Mohammad-Reza Shajarian__1",cat=PN]	mħmdrźa šjryan___Mohammad-Reza Shajarian__1	Default		%default	inv
+mħmdrźa šryfy_nya	100	PN	[pred="mħmdrźa šryfy_nya___Mohammad-Reza Sharifinia__1",cat=PN]	mħmdrźa šryfy_nya___Mohammad-Reza Sharifinia__1	Default		%default	inv
+mħmds'yd ašrf mazndrany	100	PN	[pred="mħmds'yd ašrf mazndrany_____1",cat=PN]	mħmds'yd ašrf mazndrany_____1	Default		%default	inv
+mħmdtŕy bear	100	PN	[pred="mħmdtŕy bear___Mohammad-Taqi Bahar__1",cat=PN]	mħmdtŕy bear___Mohammad-Taqi Bahar__1	Default		%default	inv
+mħmdtŕy faźl mybdy	100	PN	[pred="mħmdtŕy faźl mybdy_____1",cat=PN]	mħmdtŕy faźl mybdy_____1	Default		%default	inv
+mħmdtŕy flsfy	100	PN	[pred="mħmdtŕy flsfy_____1",cat=PN]	mħmdtŕy flsfy_____1	Default		%default	inv
+mħmdtŕy j'fry	100	PN	[pred="mħmdtŕy j'fry___Mohammad-Taqi Ja'fari__1",cat=PN]	mħmdtŕy j'fry___Mohammad-Taqi Ja'fari__1	Default		%default	inv
+mħmdtŕy ms'wdye	100	PN	[pred="mħmdtŕy ms'wdye_____1",cat=PN]	mħmdtŕy ms'wdye_____1	Default		%default	inv
+mħmdtŕy psyan	100	PN	[pred="mħmdtŕy psyan___Colonel Pesian__1",cat=PN]	mħmdtŕy psyan___Colonel Pesian__1	Default		%default	inv
+mħmdtŕy pwraħmd jktajy	100	PN	[pred="mħmdtŕy pwraħmd jktajy_____1",cat=PN]	mħmdtŕy pwraħmd jktajy_____1	Default		%default	inv
+mħmdtŕy xan sper	100	PN	[pred="mħmdtŕy xan sper_____1",cat=PN]	mħmdtŕy xan sper_____1	Default		%default	inv
+mħmdtŕy xljy	100	PN	[pred="mħmdtŕy xljy___Mohammad-Taghi Khalaji__1",cat=PN]	mħmdtŕy xljy___Mohammad-Taghi Khalaji__1	Default		%default	inv
+mħmdtŕy şdr	100	PN	[pred="mħmdtŕy şdr_____1",cat=PN]	mħmdtŕy şdr_____1	Default		%default	inv
+mħmdtŕy šry'ty	100	PN	[pred="mħmdtŕy šry'ty_____1",cat=PN]	mħmdtŕy šry'ty_____1	Default		%default	inv
+mħmdwly xan tnkabny	100	PN	[pred="mħmdwly xan tnkabny___Mohammad-Vali Khan, Sepahsalar-e Tonekaboni__1",cat=PN]	mħmdwly xan tnkabny___Mohammad-Vali Khan, Sepahsalar-e Tonekaboni__1	Default		%default	inv
+mħmdwly ŕr_ny	100	PN	[pred="mħmdwly ŕr_ny_____1",cat=PN]	mħmdwly ŕr_ny_____1	Default		%default	inv
+mħmdywsf ryaźy erwy	100	PN	[pred="mħmdywsf ryaźy erwy_____1",cat=PN]	mħmdywsf ryaźy erwy_____1	Default		%default	inv
+mħmdħsYn na´yjy	100	PN	[pred="mħmdħsYn na´yjy___Mohammad Hossein Naeiji__1",cat=PN]	mħmdħsYn na´yjy___Mohammad Hossein Naeiji__1	Default		%default	inv
+mħmdħsn anşary_frd	100	PN	[pred="mħmdħsn anşary_frd___Mohammad Hassan Ansarifard__1",cat=PN]	mħmdħsn anşary_frd___Mohammad Hassan Ansarifard__1	Default		%default	inv
+mħmdħsn gnjy	100	PN	[pred="mħmdħsn gnjy_____1",cat=PN]	mħmdħsn gnjy_____1	Default		%default	inv
+mħmdħsn qrwy kwšaly	100	PN	[pred="mħmdħsn qrwy kwšaly_____1",cat=PN]	mħmdħsn qrwy kwšaly_____1	Default		%default	inv
+mħmdħsn šeswary	100	PN	[pred="mħmdħsn šeswary_____1",cat=PN]	mħmdħsn šeswary_____1	Default		%default	inv
+mħmdħsyn 'adly	100	PN	[pred="mħmdħsyn 'adly___Seyed Mohammad Hossein Adeli__1",cat=PN]	mħmdħsyn 'adly___Seyed Mohammad Hossein Adeli__1	Default		%default	inv
+mħmdħsyn beramyan	100	PN	[pred="mħmdħsyn beramyan_____1",cat=PN]	mħmdħsyn beramyan_____1	Default		%default	inv
+mħmdħsyn ewšyarħsyny	100	PN	[pred="mħmdħsyn ewšyarħsyny_____1",cat=PN]	mħmdħsyn ewšyarħsyny_____1	Default		%default	inv
+mħmdħsyn j'fryan	100	PN	[pred="mħmdħsyn j'fryan_____1",cat=PN]	mħmdħsyn j'fryan_____1	Default		%default	inv
+mħmdħsyn lţyfy	100	PN	[pred="mħmdħsyn lţyfy_____1",cat=PN]	mħmdħsyn lţyfy_____1	Default		%default	inv
+mħmdħsyn medwy ardbyly	100	PN	[pred="mħmdħsyn medwy ardbyly_____1",cat=PN]	mħmdħsyn medwy ardbyly_____1	Default		%default	inv
+mħmdħsyn paply yzdy	100	PN	[pred="mħmdħsyn paply yzdy_____1",cat=PN]	mħmdħsyn paply yzdy_____1	Default		%default	inv
+mħmdħsyn qrwy aşfeany	100	PN	[pred="mħmdħsyn qrwy aşfeany_____1",cat=PN]	mħmdħsyn qrwy aşfeany_____1	Default		%default	inv
+mħmdħsyn şfar erndy	100	PN	[pred="mħmdħsyn şfar erndy___Hossein Saffar Harandi__1",cat=PN]	mħmdħsyn şfar erndy___Hossein Saffar Harandi__1	Default		%default	inv
+mħmdħsyn şny'_xatm	100	PN	[pred="mħmdħsyn şny'_xatm_____1",cat=PN]	mħmdħsyn şny'_xatm_____1	Default		%default	inv
+mħmdħsyn šeryar	100	PN	[pred="mħmdħsyn šeryar___Mohammad-Hossein Shahriar__1",cat=PN]	mħmdħsyn šeryar___Mohammad-Hossein Shahriar__1	Default		%default	inv
+mħmdŕasm laeyjy ħa´ry	100	PN	[pred="mħmdŕasm laeyjy ħa´ry_____1",cat=PN]	mħmdŕasm laeyjy ħa´ry_____1	Default		%default	inv
+mħmdŕly šms	100	PN	[pred="mħmdŕly šms_____1",cat=PN]	mħmdŕly šms_____1	Default		%default	inv
+mħmdŕsym feym	100	PN	[pred="mħmdŕsym feym___Mohammed Fahim__1",cat=PN]	mħmdŕsym feym___Mohammed Fahim__1	Default		%default	inv
+mħmdşadŕ fatħ	100	PN	[pred="mħmdşadŕ fatħ_____1",cat=PN]	mħmdşadŕ fatħ_____1	Default		%default	inv
+mħmdşadŕ ħamd	100	PN	[pred="mħmdşadŕ ħamd_____1",cat=PN]	mħmdşadŕ ħamd_____1	Default		%default	inv
+mħmdşadŕ ŕaźy_zade	100	PN	[pred="mħmdşadŕ ŕaźy_zade_____1",cat=PN]	mħmdşadŕ ŕaźy_zade_____1	Default		%default	inv
+mħmwd 'abdy	100	PN	[pred="mħmwd 'abdy_____1",cat=PN]	mħmwd 'abdy_____1	Default		%default	inv
+mħmwd 'lyzade ţbaţbayy	100	PN	[pred="mħmwd 'lyzade ţbaţbayy_____1",cat=PN]	mħmwd 'lyzade ţbaţbayy_____1	Default		%default	inv
+mħmwd afšar ţws	100	PN	[pred="mħmwd afšar ţws_____1",cat=PN]	mħmwd afšar ţws_____1	Default		%default	inv
+mħmwd açbaty	100	PN	[pred="mħmwd açbaty_____1",cat=PN]	mħmwd açbaty_____1	Default		%default	inv
+mħmwd aħmdy_nžad	100	PN	[pred="mħmwd aħmdy_nžad___Mahmoud Ahmadinejad__1",cat=PN]	mħmwd aħmdy_nžad___Mahmoud Ahmadinejad__1	Default		%default	inv
+mħmwd bezad	100	PN	[pred="mħmwd bezad___Mahmoud Behzad__1",cat=PN]	mħmwd bezad___Mahmoud Behzad__1	Default		%default	inv
+mħmwd bryaly	100	PN	[pred="mħmwd bryaly_____1",cat=PN]	mħmwd bryaly_____1	Default		%default	inv
+mħmwd by_jn_xan	100	PN	[pred="mħmwd by_jn_xan_____1",cat=PN]	mħmwd by_jn_xan_____1	Default		%default	inv
+mħmwd bşyry	100	PN	[pred="mħmwd bşyry_____1",cat=PN]	mħmwd bşyry_____1	Default		%default	inv
+mħmwd dst pYš	100	PN	[pred="mħmwd dst pYš_____1",cat=PN]	mħmwd dst pYš_____1	Default		%default	inv
+mħmwd dwlt_ābady	100	PN	[pred="mħmwd dwlt_ābady___Mahmoud Dowlatabadi__1",cat=PN]	mħmwd dwlt_ābady___Mahmoud Dowlatabadi__1	Default		%default	inv
+mħmwd fkry	100	PN	[pred="mħmwd fkry___Mahmoud Fekri__1",cat=PN]	mħmwd fkry___Mahmoud Fekri__1	Default		%default	inv
+mħmwd frščyan	100	PN	[pred="mħmwd frščyan___Mahmoud Farshchian__1",cat=PN]	mħmwd frščyan___Mahmoud Farshchian__1	Default		%default	inv
+mħmwd kyanwš	100	PN	[pred="mħmwd kyanwš_____1",cat=PN]	mħmwd kyanwš_____1	Default		%default	inv
+mħmwd mnşwr	100	PN	[pred="mħmwd mnşwr_____1",cat=PN]	mħmwd mnşwr_____1	Default		%default	inv
+mħmwd mraty	100	PN	[pred="mħmwd mraty_____1",cat=PN]	mħmwd mraty_____1	Default		%default	inv
+mħmwd mşaħb	100	PN	[pred="mħmwd mşaħb_____1",cat=PN]	mħmwd mşaħb_____1	Default		%default	inv
+mħmwd namjwy	100	PN	[pred="mħmwd namjwy___Mahmoud Namjoo__1",cat=PN]	mħmwd namjwy___Mahmoud Namjoo__1	Default		%default	inv
+mħmwd pak_nyt	100	PN	[pred="mħmwd pak_nyt_____1",cat=PN]	mħmwd pak_nyt_____1	Default		%default	inv
+mħmwd paynde lngrwdy	100	PN	[pred="mħmwd paynde lngrwdy_____1",cat=PN]	mħmwd paynde lngrwdy_____1	Default		%default	inv
+mħmwd pwrnşry_nžad	100	PN	[pred="mħmwd pwrnşry_nžad_____1",cat=PN]	mħmwd pwrnşry_nžad_____1	Default		%default	inv
+mħmwd qny_zade	100	PN	[pred="mħmwd qny_zade_____1",cat=PN]	mħmwd qny_zade_____1	Default		%default	inv
+mħmwd rwħ_alamyny	100	PN	[pred="mħmwd rwħ_alamyny_____1",cat=PN]	mħmwd rwħ_alamyny_____1	Default		%default	inv
+mħmwd wraŕ erwy	100	PN	[pred="mħmwd wraŕ erwy_____1",cat=PN]	mħmwd wraŕ erwy_____1	Default		%default	inv
+mħmwd xatmy	100	PN	[pred="mħmwd xatmy___Mahmoud Khatami__1",cat=PN]	mħmwd xatmy___Mahmoud Khatami__1	Default		%default	inv
+mħmwd xwrdbyn	100	PN	[pred="mħmwd xwrdbyn___Mahmoud Khordbin__1",cat=PN]	mħmwd xwrdbyn___Mahmoud Khordbin__1	Default		%default	inv
+mħmwd xyamy	100	PN	[pred="mħmwd xyamy___Mahmoud Khayami__1",cat=PN]	mħmwd xyamy___Mahmoud Khayami__1	Default		%default	inv
+mħmwd ħlby	100	PN	[pred="mħmwd ħlby_____1",cat=PN]	mħmwd ħlby_____1	Default		%default	inv
+mħmwd ħsaby	100	PN	[pred="mħmwd ħsaby___Mahmoud Hessaby__1",cat=PN]	mħmwd ħsaby___Mahmoud Hessaby__1	Default		%default	inv
+mħmwd ŕndy	100	PN	[pred="mħmwd ŕndy_____1",cat=PN]	mħmwd ŕndy_____1	Default		%default	inv
+mħmwd šbstry	100	PN	[pred="mħmwd šbstry___Mahmud Shabistari__1",cat=PN]	mħmwd šbstry___Mahmud Shabistari__1	Default		%default	inv
+mħmwd šebazy	100	PN	[pred="mħmwd šebazy_____1",cat=PN]	mħmwd šebazy_____1	Default		%default	inv
+mħmwd ţrzy	100	PN	[pred="mħmwd ţrzy___Mahmud Tarzi__1",cat=PN]	mħmwd ţrzy___Mahmud Tarzi__1	Default		%default	inv
+mħmwdxan mlk_alš'ra	100	PN	[pred="mħmwdxan mlk_alš'ra_____1",cat=PN]	mħmwdxan mlk_alš'ra_____1	Default		%default	inv
+mħrab šaerxy	100	PN	[pred="mħrab šaerxy___Mehrab Shahrokhi__1",cat=PN]	mħrab šaerxy___Mehrab Shahrokhi__1	Default		%default	inv
+mħrm aslamy	100	PN	[pred="mħrm aslamy_____1",cat=PN]	mħrm aslamy_____1	Default		%default	inv
+mħrm nwydkya	100	PN	[pred="mħrm nwydkya___Moharram Navidkia__1",cat=PN]	mħrm nwydkya___Moharram Navidkia__1	Default		%default	inv
+mħrm zynal_zade	100	PN	[pred="mħrm zynal_zade_____1",cat=PN]	mħrm zynal_zade_____1	Default		%default	inv
+mħsn abwalŕasmy	100	PN	[pred="mħsn abwalŕasmy_____1",cat=PN]	mħsn abwalŕasmy_____1	Default		%default	inv
+mħsn amyn_zade	100	PN	[pred="mħsn amyn_zade_____1",cat=PN]	mħsn amyn_zade_____1	Default		%default	inv
+mħsn araky	100	PN	[pred="mħsn araky___Mohsen Araki__1",cat=PN]	mħsn araky___Mohsen Araki__1	Default		%default	inv
+mħsn armyn	100	PN	[pred="mħsn armyn___Mohsen Armin__1",cat=PN]	mħsn armyn___Mohsen Armin__1	Default		%default	inv
+mħsn byaty_nya	100	PN	[pred="mħsn byaty_nya_____1",cat=PN]	mħsn byaty_nya_____1	Default		%default	inv
+mħsn byranwnd	100	PN	[pred="mħsn byranwnd___Mohsen Biranvand__1",cat=PN]	mħsn byranwnd___Mohsen Biranvand__1	Default		%default	inv
+mħsn eštrwdy	100	PN	[pred="mħsn eštrwdy___Mohsen Hashtroodi__1",cat=PN]	mħsn eštrwdy___Mohsen Hashtroodi__1	Default		%default	inv
+mħsn fany	100	PN	[pred="mħsn fany_____1",cat=PN]	mħsn fany_____1	Default		%default	inv
+mħsn frwqy	100	PN	[pred="mħsn frwqy_____1",cat=PN]	mħsn frwqy_____1	Default		%default	inv
+mħsn kaẓmy	100	PN	[pred="mħsn kaẓmy_____1",cat=PN]	mħsn kaẓmy_____1	Default		%default	inv
+mħsn kramty	100	PN	[pred="mħsn kramty_____1",cat=PN]	mħsn kramty_____1	Default		%default	inv
+mħsn kwče_baqy tbryzy	100	PN	[pred="mħsn kwče_baqy tbryzy_____1",cat=PN]	mħsn kwče_baqy tbryzy_____1	Default		%default	inv
+mħsn medwy	100	PN	[pred="mħsn medwy_____1",cat=PN]	mħsn medwy_____1	Default		%default	inv
+mħsn mslman	100	PN	[pred="mħsn mslman___Mohsen Mosalman__1",cat=PN]	mħsn mslman___Mohsen Mosalman__1	Default		%default	inv
+mħsn mxmlbaf	100	PN	[pred="mħsn mxmlbaf___Mohsen Makhmalbaf__1",cat=PN]	mħsn mxmlbaf___Mohsen Makhmalbaf__1	Default		%default	inv
+mħsn myrdamady	100	PN	[pred="mħsn myrdamady___Mohsen Mirdamadi__1",cat=PN]	mħsn myrdamady___Mohsen Mirdamadi__1	Default		%default	inv
+mħsn myrħydr	100	PN	[pred="mħsn myrħydr_____1",cat=PN]	mħsn myrħydr_____1	Default		%default	inv
+mħsn mşţfwy	100	PN	[pred="mħsn mşţfwy___Mohsen Mostafavi__1",cat=PN]	mħsn mşţfwy___Mohsen Mostafavi__1	Default		%default	inv
+mħsn namjw	100	PN	[pred="mħsn namjw___Mohsen Namjoo__1",cat=PN]	mħsn namjw___Mohsen Namjoo__1	Default		%default	inv
+mħsn rfyŕdwst	100	PN	[pred="mħsn rfyŕdwst___Mohsen Rafighdoost__1",cat=PN]	mħsn rfyŕdwst___Mohsen Rafighdoost__1	Default		%default	inv
+mħsn rswl_af	100	PN	[pred="mħsn rswl_af_____1",cat=PN]	mħsn rswl_af_____1	Default		%default	inv
+mħsn rźayy	100	PN	[pred="mħsn rźayy___Mohsen Rezaee__1",cat=PN]	mħsn rźayy___Mohsen Rezaee__1	Default		%default	inv
+mħsn sazgara	100	PN	[pred="mħsn sazgara___Mohsen Sazegara__1",cat=PN]	mħsn sazgara___Mohsen Sazegara__1	Default		%default	inv
+mħsn slymany	100	PN	[pred="mħsn slymany_____1",cat=PN]	mħsn slymany_____1	Default		%default	inv
+mħsn trky	100	PN	[pred="mħsn trky___Mohsen Torky__1",cat=PN]	mħsn trky___Mohsen Torky__1	Default		%default	inv
+mħsn xlyly	100	PN	[pred="mħsn xlyly___Mohsen Khalili__1",cat=PN]	mħsn xlyly___Mohsen Khalili__1	Default		%default	inv
+mħsn ygane	100	PN	[pred="mħsn ygane_____1",cat=PN]	mħsn ygane_____1	Default		%default	inv
+mħsn čawwšy	100	PN	[pred="mħsn čawwšy___Mohsen Chavoshi__1",cat=PN]	mħsn čawwšy___Mohsen Chavoshi__1	Default		%default	inv
+mħsn ħdady	100	PN	[pred="mħsn ħdady_____1",cat=PN]	mħsn ħdady_____1	Default		%default	inv
+mħsn ŕmy	100	PN	[pred="mħsn ŕmy_____1",cat=PN]	mħsn ŕmy_____1	Default		%default	inv
+mħsn ŕra´ty	100	PN	[pred="mħsn ŕra´ty_____1",cat=PN]	mħsn ŕra´ty_____1	Default		%default	inv
+mħsn şfayy fraeany	100	PN	[pred="mħsn şfayy fraeany___Mohsen Safaei Farahani__1",cat=PN]	mħsn şfayy fraeany___Mohsen Safaei Farahani__1	Default		%default	inv
+mħsn šady	100	PN	[pred="mħsn šady___Mohsen Shadi__1",cat=PN]	mħsn šady___Mohsen Shadi__1	Default		%default	inv
+mħsn ţnabnde	100	PN	[pred="mħsn ţnabnde_____1",cat=PN]	mħsn ţnabnde_____1	Default		%default	inv
+mħtrm askndry	100	PN	[pred="mħtrm askndry___Mohtaram Eskandari__1",cat=PN]	mħtrm askndry___Mohtaram Eskandari__1	Default		%default	inv
+mħtšm kašany	100	PN	[pred="mħtšm kašany_____1",cat=PN]	mħtšm kašany_____1	Default		%default	inv
+mħyţ ŕmy	100	PN	[pred="mħyţ ŕmy_____1",cat=PN]	mħyţ ŕmy_____1	Default		%default	inv
+mħyţ ţbaţba´y	100	PN	[pred="mħyţ ţbaţba´y_____1",cat=PN]	mħyţ ţbaţba´y_____1	Default		%default	inv
 mŕbl enrpžwe	100	PN	[pred="mŕbl enrpžwe_____1",cat=PN]	mŕbl enrpžwe_____1	Default		%default	inv
 mŕtdy şdr	100	PN	[pred="mŕtdy şdr___Muqtada al-Sadr__1",cat=PN]	mŕtdy şdr___Muqtada al-Sadr__1	Default		%default	inv
 mşţfy 'zyzy	100	PN	[pred="mşţfy 'zyzy___Mostafa Azizi__1",cat=PN]	mşţfy 'zyzy___Mostafa Azizi__1	Default		%default	inv
@@ -4786,28 +4786,28 @@ mşţfy kmal pwrtrab	100	PN	[pred="mşţfy kmal pwrtrab_____1",cat=PN]	mşţfy k
 mşţfy kwakbyan	100	PN	[pred="mşţfy kwakbyan_____1",cat=PN]	mşţfy kwakbyan_____1	Default		%default	inv
 mşţfy mlkyan	100	PN	[pred="mşţfy mlkyan___Mostafa Malekian__1",cat=PN]	mşţfy mlkyan___Mostafa Malekian__1	Default		%default	inv
 mşţfy mstwr	100	PN	[pred="mşţfy mstwr_____1",cat=PN]	mşţfy mstwr_____1	Default		%default	inv
-mşţfy mşbał_zade	100	PN	[pred="mşţfy mşbał_zade_____1",cat=PN]	mşţfy mşbał_zade_____1	Default		%default	inv
-mşţfy rłmandwst	100	PN	[pred="mşţfy rłmandwst_____1",cat=PN]	mşţfy rłmandwst_____1	Default		%default	inv
-mşţfy rłymy	100	PN	[pred="mşţfy rłymy_____1",cat=PN]	mşţfy rłymy_____1	Default		%default	inv
+mşţfy mşbaħ_zade	100	PN	[pred="mşţfy mşbaħ_zade_____1",cat=PN]	mşţfy mşbaħ_zade_____1	Default		%default	inv
+mşţfy rħmandwst	100	PN	[pred="mşţfy rħmandwst_____1",cat=PN]	mşţfy rħmandwst_____1	Default		%default	inv
+mşţfy rħymy	100	PN	[pred="mşţfy rħymy_____1",cat=PN]	mşţfy rħymy_____1	Default		%default	inv
 mşţfy taj_zade	100	PN	[pred="mşţfy taj_zade___Mostafa Tajzadeh__1",cat=PN]	mşţfy taj_zade___Mostafa Tajzadeh__1	Default		%default	inv
 mşţfy zmany	100	PN	[pred="mşţfy zmany_____1",cat=PN]	mşţfy zmany_____1	Default		%default	inv
 mşţfy şndl	100	PN	[pred="mşţfy şndl___Mustafa Sandal__1",cat=PN]	mşţfy şndl___Mustafa Sandal__1	Default		%default	inv
 mšfŕ kašany	100	PN	[pred="mšfŕ kašany_____1",cat=PN]	mšfŕ kašany_____1	Default		%default	inv
-mšfŕ każmy	100	PN	[pred="mšfŕ każmy_____1",cat=PN]	mšfŕ każmy_____1	Default		%default	inv
+mšfŕ kaẓmy	100	PN	[pred="mšfŕ kaẓmy_____1",cat=PN]	mšfŕ kaẓmy_____1	Default		%default	inv
 mšyt 'layy	100	PN	[pred="mšyt 'layy_____1",cat=PN]	mšyt 'layy_____1	Default		%default	inv
 mţy'	300	PN	[pred="mţy'_____1",cat=PN]	mţy'_____1	Default		%default	inv
 mţy'  (  ša'r )	100	PN	[pred="mţy'  (  ša'r )_____1",cat=PN]	mţy'  (  ša'r )_____1	Default		%default	inv
 mžde dŕyŕy	100	PN	[pred="mžde dŕyŕy_____1",cat=PN]	mžde dŕyŕy_____1	Default		%default	inv
 mžde šmsayy	100	PN	[pred="mžde šmsayy_____1",cat=PN]	mžde šmsayy_____1	Default		%default	inv
-mżaer mşfa	100	PN	[pred="mżaer mşfa_____1",cat=PN]	mżaer mşfa_____1	Default		%default	inv
-mżfr 'ly trbty	100	PN	[pred="mżfr 'ly trbty_____1",cat=PN]	mżfr 'ly trbty_____1	Default		%default	inv
-mżfraldyn_šae ŕajar	100	PN	[pred="mżfraldyn_šae ŕajar___Mozaffar al-Din Shah Qajar__1",cat=PN]	mżfraldyn_šae ŕajar___Mozaffar al-Din Shah Qajar__1	Default		%default	inv
-n'mt ałmdy	100	PN	[pred="n'mt ałmdy_____1",cat=PN]	n'mt ałmdy_____1	Default		%default	inv
+mẓaer mşfa	100	PN	[pred="mẓaer mşfa_____1",cat=PN]	mẓaer mşfa_____1	Default		%default	inv
+mẓfr 'ly trbty	100	PN	[pred="mẓfr 'ly trbty_____1",cat=PN]	mẓfr 'ly trbty_____1	Default		%default	inv
+mẓfraldyn_šae ŕajar	100	PN	[pred="mẓfraldyn_šae ŕajar___Mozaffar al-Din Shah Qajar__1",cat=PN]	mẓfraldyn_šae ŕajar___Mozaffar al-Din Shah Qajar__1	Default		%default	inv
+n'mt aħmdy	100	PN	[pred="n'mt aħmdy_____1",cat=PN]	n'mt aħmdy_____1	Default		%default	inv
 n'mt_alle aqasy	100	PN	[pred="n'mt_alle aqasy_____1",cat=PN]	n'mt_alle aqasy_____1	Default		%default	inv
 n'mt_alle grjy	100	PN	[pred="n'mt_alle grjy_____1",cat=PN]	n'mt_alle grjy_____1	Default		%default	inv
 n'mt_alle nşyry	100	PN	[pred="n'mt_alle nşyry___Nematollah Nassiri__1",cat=PN]	n'mt_alle nşyry___Nematollah Nassiri__1	Default		%default	inv
 n'mt_alle wly	100	PN	[pred="n'mt_alle wly___Shah Ni'matullah-i Wali__1",cat=PN]	n'mt_alle wly___Shah Ni'matullah-i Wali__1	Default		%default	inv
-n'mt_alle şalły njf_abady	100	PN	[pred="n'mt_alle şalły njf_abady___Nematollah Salehi Najafabadi__1",cat=PN]	n'mt_alle şalły njf_abady___Nematollah Salehi Najafabadi__1	Default		%default	inv
+n'mt_alle şalħy njf_abady	100	PN	[pred="n'mt_alle şalħy njf_abady___Nematollah Salehi Najafabadi__1",cat=PN]	n'mt_alle şalħy njf_abady___Nematollah Salehi Najafabadi__1	Default		%default	inv
 n'ym s'dawy	100	PN	[pred="n'ym s'dawy___Naeim Saadavi__1",cat=PN]	n'ym s'dawy___Naeim Saadavi__1	Default		%default	inv
 nad'ly emdany	100	PN	[pred="nad'ly emdany_____1",cat=PN]	nad'ly emdany_____1	Default		%default	inv
 nadar	100	PN	[pred="nadar___Nadar (photographer)__1",cat=PN]	nadar___Nadar (photographer)__1	Default		%default	inv
@@ -4815,12 +4815,12 @@ nadr abraeymy	100	PN	[pred="nadr abraeymy___Nader Ebrahimi__1",cat=PN]	nadr abra
 nadr dst_nšan	100	PN	[pred="nadr dst_nšan___Nader Dastneshan__1",cat=PN]	nadr dst_nšan___Nader Dastneshan__1	Default		%default	inv
 nadr jeanbany	100	PN	[pred="nadr jeanbany___Nader Jahanbani__1",cat=PN]	nadr jeanbany___Nader Jahanbani__1	Default		%default	inv
 nadr jeangyry	100	PN	[pred="nadr jeangyry_____1",cat=PN]	nadr jeangyry_____1	Default		%default	inv
-nadr młmdxany	100	PN	[pred="nadr młmdxany___Nader Mohammadkhani__1",cat=PN]	nadr młmdxany___Nader Mohammadkhani__1	Default		%default	inv
+nadr mħmdxany	100	PN	[pred="nadr mħmdxany___Nader Mohammadkhani__1",cat=PN]	nadr mħmdxany___Nader Mohammadkhani__1	Default		%default	inv
 nadr mšayxy	100	PN	[pred="nadr mšayxy___Nader Mashayekhi__1",cat=PN]	nadr mšayxy___Nader Mashayekhi__1	Default		%default	inv
 nadr nadrpwr	100	PN	[pred="nadr nadrpwr___Nader Naderpour__1",cat=PN]	nadr nadrpwr___Nader Naderpour__1	Default		%default	inv
 nadr rjb_pwr	100	PN	[pred="nadr rjb_pwr_____1",cat=PN]	nadr rjb_pwr_____1	Default		%default	inv
 nadr xlyly	100	PN	[pred="nadr xlyly___Nader Khalili__1",cat=PN]	nadr xlyly___Nader Khalili__1	Default		%default	inv
-nadre łkym_ aley	100	PN	[pred="nadre łkym_ aley_____1",cat=PN]	nadre łkym_ aley_____1	Default		%default	inv
+nadre ħkym_ aley	100	PN	[pred="nadre ħkym_ aley_____1",cat=PN]	nadre ħkym_ aley_____1	Default		%default	inv
 nadya anjmn	100	PN	[pred="nadya anjmn___Nadia Anjuman__1",cat=PN]	nadya anjmn___Nadia Anjuman__1	Default		%default	inv
 nadya bywrlyn	100	PN	[pred="nadya bywrlyn___Nadia Bjorlin__1",cat=PN]	nadya bywrlyn___Nadia Bjorlin__1	Default		%default	inv
 nadya kwmančy	100	PN	[pred="nadya kwmančy___Nadia Comăneci__1",cat=PN]	nadya kwmančy___Nadia Comăneci__1	Default		%default	inv
@@ -4828,7 +4828,7 @@ nadya ptrwwa	100	PN	[pred="nadya ptrwwa___Nadia Petrova__1",cat=PN]	nadya ptrwwa
 nadye fźl	100	PN	[pred="nadye fźl_____1",cat=PN]	nadye fźl_____1	Default		%default	inv
 naeyd emdany	100	PN	[pred="naeyd emdany_____1",cat=PN]	naeyd emdany_____1	Default		%default	inv
 naeyd ţbaţbayy	100	PN	[pred="naeyd ţbaţbayy_____1",cat=PN]	naeyd ţbaţbayy_____1	Default		%default	inv
-najy łkym	100	PN	[pred="najy łkym___Naji Hakim__1",cat=PN]	najy łkym___Naji Hakim__1	Default		%default	inv
+najy ħkym	100	PN	[pred="najy ħkym___Naji Hakim__1",cat=PN]	najy ħkym___Naji Hakim__1	Default		%default	inv
 namy sbzwary	100	PN	[pred="namy sbzwary_____1",cat=PN]	namy sbzwary_____1	Default		%default	inv
 namy tamaky	100	PN	[pred="namy tamaky___Nami Tamaki__1",cat=PN]	namy tamaky___Nami Tamaki__1	Default		%default	inv
 nana mwskwry	100	PN	[pred="nana mwskwry___Nana Mouskouri__1",cat=PN]	nana mwskwry___Nana Mouskouri__1	Default		%default	inv
@@ -4855,7 +4855,7 @@ nayb asdalle	100	PN	[pred="nayb asdalle_____1",cat=PN]	nayb asdalle_____1	Defaul
 nazk almla´ke	100	PN	[pred="nazk almla´ke___Nazik Al-Malaika__1",cat=PN]	nazk almla´ke___Nazik Al-Malaika__1	Default		%default	inv
 naznyn afšyn jm	100	PN	[pred="naznyn afšyn jm___Nazanin Afshin-Jam__1",cat=PN]	naznyn afšyn jm___Nazanin Afshin-Jam__1	Default		%default	inv
 naznyn bnyady	100	PN	[pred="naznyn bnyady___Nazanin Boniadi__1",cat=PN]	naznyn bnyady___Nazanin Boniadi__1	Default		%default	inv
-naznyn náżam šeydy	100	PN	[pred="naznyn náżam šeydy_____1",cat=PN]	naznyn náżam šeydy_____1	Default		%default	inv
+naznyn náẓam šeydy	100	PN	[pred="naznyn náẓam šeydy_____1",cat=PN]	naznyn náẓam šeydy_____1	Default		%default	inv
 na´le xlyl	100	PN	[pred="na´le xlyl_____1",cat=PN]	na´le xlyl_____1	Default		%default	inv
 na´wmy klayn	100	PN	[pred="na´wmy klayn___Naomi Klein__1",cat=PN]	na´wmy klayn___Naomi Klein__1	Default		%default	inv
 na´wmy kmbl	100	PN	[pred="na´wmy kmbl___Naomi Campbell__1",cat=PN]	na´wmy kmbl___Naomi Campbell__1	Default		%default	inv
@@ -4867,26 +4867,26 @@ naşr eašmy	100	PN	[pred="naşr eašmy___Nasser Hashemi__1",cat=PN]	naşr eašm
 naşr freng_fr	100	PN	[pred="naşr freng_fr_____1",cat=PN]	naşr freng_fr_____1	Default		%default	inv
 naşr katwzyan	100	PN	[pred="naşr katwzyan_____1",cat=PN]	naşr katwzyan_____1	Default		%default	inv
 naşr mlk_mţy'y	100	PN	[pred="naşr mlk_mţy'y_____1",cat=PN]	naşr mlk_mţy'y_____1	Default		%default	inv
-naşr mmdwł	100	PN	[pred="naşr mmdwł_____1",cat=PN]	naşr mmdwł_____1	Default		%default	inv
+naşr mmdwħ	100	PN	[pred="naşr mmdwħ_____1",cat=PN]	naşr mmdwħ_____1	Default		%default	inv
 naşr ms'wdy	100	PN	[pred="naşr ms'wdy_____1",cat=PN]	naşr ms'wdy_____1	Default		%default	inv
 naşr pwrpyrar	100	PN	[pred="naşr pwrpyrar___Nasser Pourpirar__1",cat=PN]	naşr pwrpyrar___Nasser Pourpirar__1	Default		%default	inv
 naşr pyrwy	100	PN	[pred="naşr pyrwy_____1",cat=PN]	naşr pyrwy_____1	Default		%default	inv
 naşr qyaçy	100	PN	[pred="naşr qyaçy_____1",cat=PN]	naşr qyaçy_____1	Default		%default	inv
 naşr rzazy	100	PN	[pred="naşr rzazy_____1",cat=PN]	naşr rzazy_____1	Default		%default	inv
-naşr sbłany	100	PN	[pred="naşr sbłany___Naser Subhani__1",cat=PN]	naşr sbłany___Naser Subhani__1	Default		%default	inv
+naşr sbħany	100	PN	[pred="naşr sbħany___Naser Subhani__1",cat=PN]	naşr sbħany___Naser Subhani__1	Default		%default	inv
 naşr tŕwayy	100	PN	[pred="naşr tŕwayy___Nasser Taghvai__1",cat=PN]	naşr tŕwayy___Nasser Taghvai__1	Default		%default	inv
 naşr xalŕy	100	PN	[pred="naşr xalŕy_____1",cat=PN]	naşr xalŕy_____1	Default		%default	inv
 naşr zrafšan	100	PN	[pred="naşr zrafšan___Nasser Zarafshan__1",cat=PN]	naşr zrafšan___Nasser Zarafshan__1	Default		%default	inv
 naşr čšm_ađr	100	PN	[pred="naşr čšm_ađr_____1",cat=PN]	naşr čšm_ađr_____1	Default		%default	inv
-naşr łjazy	100	PN	[pred="naşr łjazy___Nasser Hejazi__1",cat=PN]	naşr łjazy___Nasser Hejazi__1	Default		%default	inv
+naşr ħjazy	100	PN	[pred="naşr ħjazy___Nasser Hejazi__1",cat=PN]	naşr ħjazy___Nasser Hejazi__1	Default		%default	inv
 naşr şadŕ	100	PN	[pred="naşr şadŕ_____1",cat=PN]	naşr şadŕ_____1	Default		%default	inv
 naşr ţalb_zade	100	PN	[pred="naşr ţalb_zade_____1",cat=PN]	naşr ţalb_zade_____1	Default		%default	inv
 naşr ţemasb	100	PN	[pred="naşr ţemasb_____1",cat=PN]	naşr ţemasb_____1	Default		%default	inv
 naşraldyn šae ŕajar	100	PN	[pred="naşraldyn šae ŕajar___Naser al-Din Shah Qajar__1",cat=PN]	naşraldyn šae ŕajar___Naser al-Din Shah Qajar__1	Default		%default	inv
 naşralmlk	100	PN	[pred="naşralmlk_____1",cat=PN]	naşralmlk_____1	Default		%default	inv
 naşrxsrw	100	PN	[pred="naşrxsrw___Nasir Khusraw__1",cat=PN]	naşrxsrw___Nasir Khusraw__1	Default		%default	inv
-nażm łkmt	100	PN	[pred="nażm łkmt___Nâzim Hikmet__1",cat=PN]	nażm łkmt___Nâzim Hikmet__1	Default		%default	inv
-nażm_alaslam krmany	100	PN	[pred="nażm_alaslam krmany_____1",cat=PN]	nażm_alaslam krmany_____1	Default		%default	inv
+naẓm ħkmt	100	PN	[pred="naẓm ħkmt___Nāzim Hikmet__1",cat=PN]	naẓm ħkmt___Nāzim Hikmet__1	Default		%default	inv
+naẓm_alaslam krmany	100	PN	[pred="naẓm_alaslam krmany_____1",cat=PN]	naẓm_alaslam krmany_____1	Default		%default	inv
 nby srwry	100	PN	[pred="nby srwry_____1",cat=PN]	nby srwry_____1	Default		%default	inv
 nby_alle baŕryea	100	PN	[pred="nby_alle baŕryea___Nabiollah Bagheriha__1",cat=PN]	nby_alle baŕryea___Nabiollah Bagheriha__1	Default		%default	inv
 nbyl š'ç	100	PN	[pred="nbyl š'ç___Nabil Shaath__1",cat=PN]	nbyl š'ç___Nabil Shaath__1	Default		%default	inv
@@ -4903,8 +4903,8 @@ njf dryabndry	100	PN	[pred="njf dryabndry_____1",cat=PN]	njf dryabndry_____1	Def
 njm çany	100	PN	[pred="njm çany_____1",cat=PN]	njm çany_____1	Default		%default	inv
 njme abtyn	100	PN	[pred="njme abtyn___Najmeh Abtin__1",cat=PN]	njme abtyn___Najmeh Abtin__1	Default		%default	inv
 njwm alqanm	100	PN	[pred="njwm alqanm_____1",cat=PN]	njwm alqanm_____1	Default		%default	inv
-njyb młfwż	100	PN	[pred="njyb młfwż___Naguib Mahfouz__1",cat=PN]	njyb młfwż___Naguib Mahfouz__1	Default		%default	inv
-njyb_alle ałmdy	100	PN	[pred="njyb_alle ałmdy_____1",cat=PN]	njyb_alle ałmdy_____1	Default		%default	inv
+njyb mħfwẓ	100	PN	[pred="njyb mħfwẓ___Naguib Mahfouz__1",cat=PN]	njyb mħfwẓ___Naguib Mahfouz__1	Default		%default	inv
+njyb_alle aħmdy	100	PN	[pred="njyb_alle aħmdy_____1",cat=PN]	njyb_alle aħmdy_____1	Default		%default	inv
 nkysa	100	PN	[pred="nkysa___Nakisa__1",cat=PN]	nkysa___Nakisa__1	Default		%default	inv
 nlswn mandla	100	PN	[pred="nlswn mandla___Nelson Mandela__1",cat=PN]	nlswn mandla___Nelson Mandela__1	Default		%default	inv
 nlw wyngada	100	PN	[pred="nlw wyngada___Nelo Vingada__1",cat=PN]	nlw wyngada___Nelo Vingada__1	Default		%default	inv
@@ -4915,11 +4915,11 @@ nly mk_klang	100	PN	[pred="nly mk_klang___Nellie McClung__1",cat=PN]	nly mk_klan
 nna	100	PN	[pred="nna___Nena__1",cat=PN]	nna___Nena__1	Default		%default	inv
 nnsy lwpz	100	PN	[pred="nnsy lwpz___Nancy Lopez__1",cat=PN]	nnsy lwpz___Nancy Lopez__1	Default		%default	inv
 nqme	100	PN	[pred="nqme___Naghma__1",cat=PN]	nqme___Naghma__1	Default		%default	inv
-nrgs ftły	100	PN	[pred="nrgs ftły_____1",cat=PN]	nrgs ftły_____1	Default		%default	inv
+nrgs ftħy	100	PN	[pred="nrgs ftħy_____1",cat=PN]	nrgs ftħy_____1	Default		%default	inv
 nrgs kler	100	PN	[pred="nrgs kler_____1",cat=PN]	nrgs kler_____1	Default		%default	inv
-nrgs młmdy	100	PN	[pred="nrgs młmdy_____1",cat=PN]	nrgs młmdy_____1	Default		%default	inv
+nrgs mħmdy	100	PN	[pred="nrgs mħmdy_____1",cat=PN]	nrgs mħmdy_____1	Default		%default	inv
 nrsy grgya	100	PN	[pred="nrsy grgya_____1",cat=PN]	nrsy grgya_____1	Default		%default	inv
-nsryn m'żmy	100	PN	[pred="nsryn m'żmy_____1",cat=PN]	nsryn m'żmy_____1	Default		%default	inv
+nsryn m'ẓmy	100	PN	[pred="nsryn m'ẓmy_____1",cat=PN]	nsryn m'ẓmy_____1	Default		%default	inv
 nsryn mŕanlw	100	PN	[pred="nsryn mŕanlw_____1",cat=PN]	nsryn mŕanlw_____1	Default		%default	inv
 nsryn nas	100	PN	[pred="nsryn nas___Nesrin Nas__1",cat=PN]	nsryn nas___Nesrin Nas__1	Default		%default	inv
 nsryn stwde	100	PN	[pred="nsryn stwde_____1",cat=PN]	nsryn stwde_____1	Default		%default	inv
@@ -4947,7 +4947,7 @@ nwrmn fastr	100	PN	[pred="nwrmn fastr___Norman Foster (architect)__1",cat=PN]	nw
 nwrmn mylr	100	PN	[pred="nwrmn mylr___Norman Mailer__1",cat=PN]	nwrmn mylr___Norman Mailer__1	Default		%default	inv
 nwrmn rakwl	100	PN	[pred="nwrmn rakwl___Norman Rockwell__1",cat=PN]	nwrmn rakwl___Norman Rockwell__1	Default		%default	inv
 nwrmn wyzdwm	100	PN	[pred="nwrmn wyzdwm___Norman Wisdom__1",cat=PN]	nwrmn wyzdwm___Norman Wisdom__1	Default		%default	inv
-nwrslţan nżrbayf	100	PN	[pred="nwrslţan nżrbayf___Nursultan Nazarbayev__1",cat=PN]	nwrslţan nżrbayf___Nursultan Nazarbayev__1	Default		%default	inv
+nwrslţan nẓrbayf	100	PN	[pred="nwrslţan nẓrbayf___Nursultan Nazarbayev__1",cat=PN]	nwrslţan nẓrbayf___Nursultan Nazarbayev__1	Default		%default	inv
 nwry malky	100	PN	[pred="nwry malky___Nouri al-Maliki__1",cat=PN]	nwry malky___Nouri al-Maliki__1	Default		%default	inv
 nwryk mysakyan	100	PN	[pred="nwryk mysakyan_____1",cat=PN]	nwryk mysakyan_____1	Default		%default	inv
 nwryn m'tmd	100	PN	[pred="nwryn m'tmd_____1",cat=PN]	nwryn m'tmd_____1	Default		%default	inv
@@ -4955,12 +4955,12 @@ nwyd xanjany	100	PN	[pred="nwyd xanjany_____1",cat=PN]	nwyd xanjany_____1	Defaul
 nwyn andrwz	100	PN	[pred="nwyn andrwz___Naveen Andrews__1",cat=PN]	nwyn andrwz___Naveen Andrews__1	Default		%default	inv
 nwysndgan franswy, be trtyb alfbayy l	100	PN	[pred="nwysndgan franswy, be trtyb alfbayy l_____1",cat=PN]	nwysndgan franswy, be trtyb alfbayy l_____1	Default		%default	inv
 nwysndgan franswy, be trtyb alfbayy z	100	PN	[pred="nwysndgan franswy, be trtyb alfbayy z_____1",cat=PN]	nwysndgan franswy, be trtyb alfbayy z_____1	Default		%default	inv
-nwâ bambak	100	PN	[pred="nwâ bambak___Noah Baumbach__1",cat=PN]	nwâ bambak___Noah Baumbach__1	Default		%default	inv
+nwā bambak	100	PN	[pred="nwā bambak___Noah Baumbach__1",cat=PN]	nwā bambak___Noah Baumbach__1	Default		%default	inv
 nwđr azady	100	PN	[pred="nwđr azady___Nozar Azadi__1",cat=PN]	nwđr azady___Nozar Azadi__1	Default		%default	inv
 nwš_afryn anşary	100	PN	[pred="nwš_afryn anşary_____1",cat=PN]	nwš_afryn anşary_____1	Default		%default	inv
 nwšabe amyry	100	PN	[pred="nwšabe amyry_____1",cat=PN]	nwšabe amyry_____1	Default		%default	inv
 nwšad 'almyan	100	PN	[pred="nwšad 'almyan___Noshad Alamiyan__1",cat=PN]	nwšad 'almyan___Noshad Alamiyan__1	Default		%default	inv
-nwšyn ałmdy xrasany	100	PN	[pred="nwšyn ałmdy xrasany___Noushin Ahmadi Khorasani__1",cat=PN]	nwšyn ałmdy xrasany___Noushin Ahmadi Khorasani__1	Default		%default	inv
+nwšyn aħmdy xrasany	100	PN	[pred="nwšyn aħmdy xrasany___Noushin Ahmadi Khorasani__1",cat=PN]	nwšyn aħmdy xrasany___Noushin Ahmadi Khorasani__1	Default		%default	inv
 ny-yw	100	PN	[pred="ny-yw___Ne-Yo__1",cat=PN]	ny-yw___Ne-Yo__1	Default		%default	inv
 nyazy	100	PN	[pred="nyazy___Niyazi__1",cat=PN]	nyazy___Niyazi__1	Default		%default	inv
 nyk alywry	100	PN	[pred="nyk alywry___Nick Oliveri__1",cat=PN]	nyk alywry___Nick Oliveri__1	Default		%default	inv
@@ -4968,7 +4968,7 @@ nyk dryk	100	PN	[pred="nyk dryk___Nick Drake__1",cat=PN]	nyk dryk___Nick Drake__
 nyk kwen	100	PN	[pred="nyk kwen___Nick Cohen__1",cat=PN]	nyk kwen___Nick Cohen__1	Default		%default	inv
 nyk kyw	100	PN	[pred="nyk kyw___Nick Cave__1",cat=PN]	nyk kyw___Nick Cave__1	Default		%default	inv
 nyk mysn	100	PN	[pred="nyk mysn___Nick Mason__1",cat=PN]	nyk mysn___Nick Mason__1	Default		%default	inv
-nyk_âeng kwçr	100	PN	[pred="nyk_âeng kwçr___Nikahang Kowsar__1",cat=PN]	nyk_âeng kwçr___Nikahang Kowsar__1	Default		%default	inv
+nyk_āeng kwçr	100	PN	[pred="nyk_āeng kwçr___Nikahang Kowsar__1",cat=PN]	nyk_āeng kwçr___Nikahang Kowsar__1	Default		%default	inv
 nyklas kwprnyk	100	PN	[pred="nyklas kwprnyk___Nicolaus Copernicus__1",cat=PN]	nyklas kwprnyk___Nicolaus Copernicus__1	Default		%default	inv
 nyklas lmn	100	PN	[pred="nyklas lmn___Nicholas Lemann__1",cat=PN]	nyklas lmn___Nicholas Lemann__1	Default		%default	inv
 nyklas ry	100	PN	[pred="nyklas ry___Nicholas Ray__1",cat=PN]	nyklas ry___Nicholas Ray__1	Default		%default	inv
@@ -4999,7 +4999,7 @@ nyl daymnd	100	PN	[pred="nyl daymnd___Neil Diamond__1",cat=PN]	nyl daymnd___Neil
 nyl jwrdn	100	PN	[pred="nyl jwrdn___Neil Jordan__1",cat=PN]	nyl jwrdn___Neil Jordan__1	Default		%default	inv
 nyl saymwn	100	PN	[pred="nyl saymwn___Neil Simon__1",cat=PN]	nyl saymwn___Neil Simon__1	Default		%default	inv
 nyl yang	100	PN	[pred="nyl yang___Neil Young__1",cat=PN]	nyl yang___Neil Young__1	Default		%default	inv
-nyls enryk âbl	100	PN	[pred="nyls enryk âbl___Niels Henrik Abel__1",cat=PN]	nyls enryk âbl___Niels Henrik Abel__1	Default		%default	inv
+nyls enryk ābl	100	PN	[pred="nyls enryk ābl___Niels Henrik Abel__1",cat=PN]	nyls enryk ābl___Niels Henrik Abel__1	Default		%default	inv
 nylwfr ardlan	100	PN	[pred="nylwfr ardlan_____1",cat=PN]	nylwfr ardlan_____1	Default		%default	inv
 nylwfr byźayy	100	PN	[pred="nylwfr byźayy___Niloofar Beyzaie__1",cat=PN]	nylwfr byźayy___Niloofar Beyzaie__1	Default		%default	inv
 nylwfr lary_pwr	100	PN	[pred="nylwfr lary_pwr_____1",cat=PN]	nylwfr lary_pwr_____1	Default		%default	inv
@@ -5007,7 +5007,7 @@ nylz bwr	100	PN	[pred="nylz bwr___Niels Bohr__1",cat=PN]	nylz bwr___Niels Bohr__
 nylz rybrg fynsn	100	PN	[pred="nylz rybrg fynsn___Niels Ryberg Finsen__1",cat=PN]	nylz rybrg fynsn___Niels Ryberg Finsen__1	Default		%default	inv
 nyma akbrpwr	100	PN	[pred="nyma akbrpwr_____1",cat=PN]	nyma akbrpwr_____1	Default		%default	inv
 nyma banky	100	PN	[pred="nyma banky_____1",cat=PN]	nyma banky_____1	Default		%default	inv
-nyma flał	100	PN	[pred="nyma flał_____1",cat=PN]	nyma flał_____1	Default		%default	inv
+nyma flaħ	100	PN	[pred="nyma flaħ_____1",cat=PN]	nyma flaħ_____1	Default		%default	inv
 nyma nkysa	100	PN	[pred="nyma nkysa___Nima Nakisa__1",cat=PN]	nyma nkysa___Nima Nakisa__1	Default		%default	inv
 nyma r´ysy	100	PN	[pred="nyma r´ysy_____1",cat=PN]	nyma r´ysy_____1	Default		%default	inv
 nyma ywšyj	100	PN	[pred="nyma ywšyj___Nima Yooshij__1",cat=PN]	nyma ywšyj___Nima Yooshij__1	Default		%default	inv
@@ -5021,30 +5021,30 @@ nytan rwzn	100	PN	[pred="nytan rwzn___Nathan Rosen__1",cat=PN]	nytan rwzn___Nath
 nywywrk dalz	100	PN	[pred="nywywrk dalz___New York Dolls__1",cat=PN]	nywywrk dalz___New York Dolls__1	Default		%default	inv
 nywša źyqmy	100	PN	[pred="nywša źyqmy_____1",cat=PN]	nywša źyqmy_____1	Default		%default	inv
 nzar ŕbany	100	PN	[pred="nzar ŕbany___Nizar Qabbani__1",cat=PN]	nzar ŕbany___Nizar Qabbani__1	Default		%default	inv
-náżamy gnjwy	100	PN	[pred="náżamy gnjwy___Nezami Ganjavi__1",cat=PN]	náżamy gnjwy___Nezami Ganjavi__1	Default		%default	inv
-náżyr mankyf	100	PN	[pred="náżyr mankyf___Nazyr Mankiev__1",cat=PN]	náżyr mankyf___Nazyr Mankiev__1	Default		%default	inv
+náẓamy gnjwy	100	PN	[pred="náẓamy gnjwy___Nezami Ganjavi__1",cat=PN]	náẓamy gnjwy___Nezami Ganjavi__1	Default		%default	inv
+náẓyr mankyf	100	PN	[pred="náẓyr mankyf___Nazyr Mankiev__1",cat=PN]	náẓyr mankyf___Nazyr Mankiev__1	Default		%default	inv
 nçary twny	100	PN	[pred="nçary twny_____1",cat=PN]	nçary twny_____1	Default		%default	inv
-nłmya	100	PN	[pred="nłmya___Nehemiah__1",cat=PN]	nłmya___Nehemiah__1	Default		%default	inv
-nŕš rwłanyt dr taryx m'aşr ayran	100	PN	[pred="nŕš rwłanyt dr taryx m'aşr ayran_____1",cat=PN]	nŕš rwłanyt dr taryx m'aşr ayran_____1	Default		%default	inv
+nħmya	100	PN	[pred="nħmya___Nehemiah__1",cat=PN]	nħmya___Nehemiah__1	Default		%default	inv
+nŕš rwħanyt dr taryx m'aşr ayran	100	PN	[pred="nŕš rwħanyt dr taryx m'aşr ayran_____1",cat=PN]	nŕš rwħanyt dr taryx m'aşr ayran_____1	Default		%default	inv
 nşralle flsfy	100	PN	[pred="nşralle flsfy_____1",cat=PN]	nşralle flsfy_____1	Default		%default	inv
 nşralle mrdany	100	PN	[pred="nşralle mrdany_____1",cat=PN]	nşralle mrdany_____1	Default		%default	inv
 nşralle mtŕalčy	100	PN	[pred="nşralle mtŕalčy_____1",cat=PN]	nşralle mtŕalčy_____1	Default		%default	inv
-nşralle naşł_pwr	100	PN	[pred="nşralle naşł_pwr___Nasrollah Nasehpoor__1",cat=PN]	nşralle naşł_pwr___Nasrollah Nasehpoor__1	Default		%default	inv
+nşralle naşħ_pwr	100	PN	[pred="nşralle naşħ_pwr___Nasrollah Nasehpoor__1",cat=PN]	nşralle naşħ_pwr___Nasrollah Nasehpoor__1	Default		%default	inv
 nşralle radš	100	PN	[pred="nşralle radš___Nasrollah Radesh__1",cat=PN]	nşralle radš___Nasrollah Radesh__1	Default		%default	inv
 nşralle zryn_pnje	100	PN	[pred="nşralle zryn_pnje_____1",cat=PN]	nşralle zryn_pnje_____1	Default		%default	inv
-nşrt fatł 'ly xan	100	PN	[pred="nşrt fatł 'ly xan___Nusrat Fateh Ali Khan__1",cat=PN]	nşrt fatł 'ly xan___Nusrat Fateh Ali Khan__1	Default		%default	inv
+nşrt fatħ 'ly xan	100	PN	[pred="nşrt fatħ 'ly xan___Nusrat Fateh Ali Khan__1",cat=PN]	nşrt fatħ 'ly xan___Nusrat Fateh Ali Khan__1	Default		%default	inv
 nşrt krymy	100	PN	[pred="nşrt krymy_____1",cat=PN]	nşrt krymy_____1	Default		%default	inv
 nşrt pzškyan	100	PN	[pred="nşrt pzškyan_____1",cat=PN]	nşrt pzškyan_____1	Default		%default	inv
-nşrt rłmany	100	PN	[pred="nşrt rłmany___Nosrat Rahmani__1",cat=PN]	nşrt rłmany___Nosrat Rahmani__1	Default		%default	inv
+nşrt rħmany	100	PN	[pred="nşrt rħmany___Nosrat Rahmani__1",cat=PN]	nşrt rħmany___Nosrat Rahmani__1	Default		%default	inv
 nşrt_alle amyny	100	PN	[pred="nşrt_alle amyny_____1",cat=PN]	nşrt_alle amyny_____1	Default		%default	inv
 nşrt_alle m'ynyan	100	PN	[pred="nşrt_alle m'ynyan_____1",cat=PN]	nşrt_alle m'ynyan_____1	Default		%default	inv
-nşrt_alle młtšm	100	PN	[pred="nşrt_alle młtšm_____1",cat=PN]	nşrt_alle młtšm_____1	Default		%default	inv
-nşrt_alle włdt	100	PN	[pred="nşrt_alle włdt_____1",cat=PN]	nşrt_alle włdt_____1	Default		%default	inv
+nşrt_alle mħtšm	100	PN	[pred="nşrt_alle mħtšm_____1",cat=PN]	nşrt_alle mħtšm_____1	Default		%default	inv
+nşrt_alle wħdt	100	PN	[pred="nşrt_alle wħdt_____1",cat=PN]	nşrt_alle wħdt_____1	Default		%default	inv
 nšaţ aşfeany	100	PN	[pred="nšaţ aşfeany_____1",cat=PN]	nšaţ aşfeany_____1	Default		%default	inv
-nźal malk łsn	100	PN	[pred="nźal malk łsn___Nidal Malik Hasan__1",cat=PN]	nźal malk łsn___Nidal Malik Hasan__1	Default		%default	inv
-nżam aldyn ardbyly	100	PN	[pred="nżam aldyn ardbyly_____1",cat=PN]	nżam aldyn ardbyly_____1	Default		%default	inv
-nżam_aldyn młmwd ŕary	100	PN	[pred="nżam_aldyn młmwd ŕary_____1",cat=PN]	nżam_aldyn młmwd ŕary_____1	Default		%default	inv
-nżamy 'rwźy	100	PN	[pred="nżamy 'rwźy___Nizami Aruzi__1",cat=PN]	nżamy 'rwźy___Nizami Aruzi__1	Default		%default	inv
+nźal malk ħsn	100	PN	[pred="nźal malk ħsn___Nidal Malik Hasan__1",cat=PN]	nźal malk ħsn___Nidal Malik Hasan__1	Default		%default	inv
+nẓam aldyn ardbyly	100	PN	[pred="nẓam aldyn ardbyly_____1",cat=PN]	nẓam aldyn ardbyly_____1	Default		%default	inv
+nẓam_aldyn mħmwd ŕary	100	PN	[pred="nẓam_aldyn mħmwd ŕary_____1",cat=PN]	nẓam_aldyn mħmwd ŕary_____1	Default		%default	inv
+nẓamy 'rwźy	100	PN	[pred="nẓamy 'rwźy___Nizami Aruzi__1",cat=PN]	nẓamy 'rwźy___Nizami Aruzi__1	Default		%default	inv
 pablw nrwda	100	PN	[pred="pablw nrwda___Pablo Neruda__1",cat=PN]	pablw nrwda___Pablo Neruda__1	Default		%default	inv
 pablw pykasw	100	PN	[pred="pablw pykasw___Pablo Picasso__1",cat=PN]	pablw pykasw___Pablo Picasso__1	Default		%default	inv
 pakw d lwsya	100	PN	[pred="pakw d lwsya___Paco de Lucía__1",cat=PN]	pakw d lwsya___Paco de Lucía__1	Default		%default	inv
@@ -5056,7 +5056,7 @@ pal latrbwr	100	PN	[pred="pal latrbwr___Paul Lauterbur__1",cat=PN]	pal latrbwr__
 pamla andrswn	100	PN	[pred="pamla andrswn___Pamela Anderson__1",cat=PN]	pamla andrswn___Pamela Anderson__1	Default		%default	inv
 pamla mlrwy	100	PN	[pred="pamla mlrwy___Pamela Melroy__1",cat=PN]	pamla mlrwy___Pamela Melroy__1	Default		%default	inv
 pante_a beram	100	PN	[pred="pante_a beram___Pantea Bahram__1",cat=PN]	pante_a beram___Pantea Bahram__1	Default		%default	inv
-pante_â beramy	100	PN	[pred="pante_â beramy_____1",cat=PN]	pante_â beramy_____1	Default		%default	inv
+pante_ā beramy	100	PN	[pred="pante_ā beramy_____1",cat=PN]	pante_ā beramy_____1	Default		%default	inv
 paramwr	100	PN	[pred="paramwr___Paramore__1",cat=PN]	paramwr___Paramore__1	Default		%default	inv
 park jy swng	100	PN	[pred="park jy swng___Park Ji-Sung__1",cat=PN]	park jy swng___Park Ji-Sung__1	Default		%default	inv
 park kywng mw	100	PN	[pred="park kywng mw___Park Kyung-Mo__1",cat=PN]	park kywng mw___Park Kyung-Mo__1	Default		%default	inv
@@ -5084,11 +5084,11 @@ pa´wlw kw´lyw	100	PN	[pred="pa´wlw kw´lyw___Paulo Coelho__1",cat=PN]	pa´wlw
 pa´wlw maldyny	100	PN	[pred="pa´wlw maldyny_____1",cat=PN]	pa´wlw maldyny_____1	Default		%default	inv
 pa´wlw mndz da rwša	100	PN	[pred="pa´wlw mndz da rwša___Paulo Mendes da Rocha__1",cat=PN]	pa´wlw mndz da rwša___Paulo Mendes da Rocha__1	Default		%default	inv
 pa´wlw rwbrtw dw karmw	100	PN	[pred="pa´wlw rwbrtw dw karmw___Paulo Roberto do Carmo__1",cat=PN]	pa´wlw rwbrtw dw karmw___Paulo Roberto do Carmo__1	Default		%default	inv
-pdrw âlwarz kabral	100	PN	[pred="pdrw âlwarz kabral___Pedro Álvares Cabral__1",cat=PN]	pdrw âlwarz kabral___Pedro Álvares Cabral__1	Default		%default	inv
+pdrw ālwarz kabral	100	PN	[pred="pdrw ālwarz kabral___Pedro Álvares Cabral__1",cat=PN]	pdrw ālwarz kabral___Pedro Álvares Cabral__1	Default		%default	inv
 pe_le	100	PN	[pred="pe_le___Pelé__1",cat=PN]	pe_le___Pelé__1	Default		%default	inv
 pgae aengrany	100	PN	[pred="pgae aengrany___Pegah Ahangarani__1",cat=PN]	pgae aengrany___Pegah Ahangarani__1	Default		%default	inv
 pgae amam_bxš	100	PN	[pred="pgae amam_bxš___Pegah Emambakhsh__1",cat=PN]	pgae amam_bxš___Pegah Emambakhsh__1	Default		%default	inv
-pgae ałmdy	100	PN	[pred="pgae ałmdy___Pegah Ahmadi__1",cat=PN]	pgae ałmdy___Pegah Ahmadi__1	Default		%default	inv
+pgae aħmdy	100	PN	[pred="pgae aħmdy___Pegah Ahmadi__1",cat=PN]	pgae aħmdy___Pegah Ahmadi__1	Default		%default	inv
 pgy flmyng	100	PN	[pred="pgy flmyng___Peggy Fleming__1",cat=PN]	pgy flmyng___Peggy Fleming__1	Default		%default	inv
 pgy wytswn	100	PN	[pred="pgy wytswn___Peggy Whitson__1",cat=PN]	pgy wytswn___Peggy Whitson__1	Default		%default	inv
 pl alryx	100	PN	[pred="pl alryx___Paul Ehrlich__1",cat=PN]	pl alryx___Paul Ehrlich__1	Default		%default	inv
@@ -5115,7 +5115,7 @@ pl szan	100	PN	[pred="pl szan___Paul Cézanne__1",cat=PN]	pl szan___Paul Cézann
 pl walry	100	PN	[pred="pl walry___Paul Valéry__1",cat=PN]	pl walry___Paul Valéry__1	Default		%default	inv
 pl wn dayk	100	PN	[pred="pl wn dayk___Paul van Dyk__1",cat=PN]	pl wn dayk___Paul van Dyk__1	Default		%default	inv
 pl wrgs	100	PN	[pred="pl wrgs___Paul Verges__1",cat=PN]	pl wrgs___Paul Verges__1	Default		%default	inv
-pl âbkar	100	PN	[pred="pl âbkar_____1",cat=PN]	pl âbkar_____1	Default		%default	inv
+pl ābkar	100	PN	[pred="pl ābkar_____1",cat=PN]	pl ābkar_____1	Default		%default	inv
 pl šwmdy dw mznw	100	PN	[pred="pl šwmdy dw mznw___Paul Chomedey de Maisonneuve__1",cat=PN]	pl šwmdy dw mznw___Paul Chomedey de Maisonneuve__1	Default		%default	inv
 pnje srgrdan	100	PN	[pred="pnje srgrdan_____1",cat=PN]	pnje srgrdan_____1	Default		%default	inv
 pnlwpe krwz	100	PN	[pred="pnlwpe krwz___Penélope Cruz__1",cat=PN]	pnlwpe krwz___Penélope Cruz__1	Default		%default	inv
@@ -5133,7 +5133,7 @@ prsys krym	100	PN	[pred="prsys krym_____1",cat=PN]	prsys krym_____1	Default		%de
 prtw aşfeany	100	PN	[pred="prtw aşfeany_____1",cat=PN]	prtw aşfeany_____1	Default		%default	inv
 prtw nwry 'la	100	PN	[pred="prtw nwry 'la_____1",cat=PN]	prtw nwry 'la_____1	Default		%default	inv
 prwane m'şwmy	100	PN	[pred="prwane m'şwmy_____1",cat=PN]	prwane m'şwmy_____1	Default		%default	inv
-prwane şalły_nya	100	PN	[pred="prwane şalły_nya_____1",cat=PN]	prwane şalły_nya_____1	Default		%default	inv
+prwane şalħy_nya	100	PN	[pred="prwane şalħy_nya_____1",cat=PN]	prwane şalħy_nya_____1	Default		%default	inv
 prwaslaw wwyčyč	100	PN	[pred="prwaslaw wwyčyč___Prvoslav Vujčić__1",cat=PN]	prwaslaw wwyčyč___Prvoslav Vujčić__1	Default		%default	inv
 prwaz emay	100	PN	[pred="prwaz emay___Parvaz Homay__1",cat=PN]	prwaz emay___Parvaz Homay__1	Default		%default	inv
 prwtagwras	100	PN	[pred="prwtagwras___Protagoras__1",cat=PN]	prwtagwras___Protagoras__1	Default		%default	inv
@@ -5158,20 +5158,20 @@ prwyz mlk_zade	100	PN	[pred="prwyz mlk_zade_____1",cat=PN]	prwyz mlk_zade_____1	
 prwyz mškatyan	100	PN	[pred="prwyz mškatyan___Parviz Meshkatian__1",cat=PN]	prwyz mškatyan___Parviz Meshkatian__1	Default		%default	inv
 prwyz natl xanlry	100	PN	[pred="prwyz natl xanlry___Parviz Natel-Khanlari__1",cat=PN]	prwyz natl xanlry___Parviz Natel-Khanlari__1	Default		%default	inv
 prwyz prstwyy	100	PN	[pred="prwyz prstwyy___Parviz Parastui__1",cat=PN]	prwyz prstwyy___Parviz Parastui__1	Default		%default	inv
-prwyz pwrłsyny	100	PN	[pred="prwyz pwrłsyny_____1",cat=PN]	prwyz pwrłsyny_____1	Default		%default	inv
+prwyz pwrħsyny	100	PN	[pred="prwyz pwrħsyny_____1",cat=PN]	prwyz pwrħsyny_____1	Default		%default	inv
 prwyz pyran	100	PN	[pred="prwyz pyran_____1",cat=PN]	prwyz pyran_____1	Default		%default	inv
 prwyz rby'y	100	PN	[pred="prwyz rby'y_____1",cat=PN]	prwyz rby'y_____1	Default		%default	inv
 prwyz rjby	100	PN	[pred="prwyz rjby_____1",cat=PN]	prwyz rjby_____1	Default		%default	inv
 prwyz tnawly	100	PN	[pred="prwyz tnawly___Parviz Tanavoli__1",cat=PN]	prwyz tnawly___Parviz Tanavoli__1	Default		%default	inv
 prwyz wrjawnd	100	PN	[pred="prwyz wrjawnd___Parviz Varjavand__1",cat=PN]	prwyz wrjawnd___Parviz Varjavand__1	Default		%default	inv
-prwyz yałŕy	100	PN	[pred="prwyz yałŕy___Parviz Yahaghi__1",cat=PN]	prwyz yałŕy___Parviz Yahaghi__1	Default		%default	inv
+prwyz yaħŕy	100	PN	[pred="prwyz yaħŕy___Parviz Yahaghi__1",cat=PN]	prwyz yaħŕy___Parviz Yahaghi__1	Default		%default	inv
 prwyz ŕaźy s'yd	100	PN	[pred="prwyz ŕaźy s'yd_____1",cat=PN]	prwyz ŕaźy s'yd_____1	Default		%default	inv
 prwyz ŕlyč_xany	100	PN	[pred="prwyz ŕlyč_xany___Parviz Ghelichkhani__1",cat=PN]	prwyz ŕlyč_xany___Parviz Ghelichkhani__1	Default		%default	inv
 prwyz şyad	100	PN	[pred="prwyz şyad___Parviz Sayyad__1",cat=PN]	prwyz şyad___Parviz Sayyad__1	Default		%default	inv
 prwyz šapwr	100	PN	[pred="prwyz šapwr___Parviz Shapour__1",cat=PN]	prwyz šapwr___Parviz Shapour__1	Default		%default	inv
 prwyz šebazy	100	PN	[pred="prwyz šebazy___Parviz Shahbazi__1",cat=PN]	prwyz šebazy___Parviz Shahbazi__1	Default		%default	inv
 prwyz šeryary	100	PN	[pred="prwyz šeryary_____1",cat=PN]	prwyz šeryary_____1	Default		%default	inv
-pry amyrłmze	100	PN	[pred="pry amyrłmze_____1",cat=PN]	pry amyrłmze_____1	Default		%default	inv
+pry amyrħmze	100	PN	[pred="pry amyrħmze_____1",cat=PN]	pry amyrħmze_____1	Default		%default	inv
 pry blnde	100	PN	[pred="pry blnde_____1",cat=PN]	pry blnde_____1	Default		%default	inv
 pry qfary	100	PN	[pred="pry qfary_____1",cat=PN]	pry qfary_____1	Default		%default	inv
 pry zngne	100	PN	[pred="pry zngne_____1",cat=PN]	pry zngne_____1	Default		%default	inv
@@ -5213,7 +5213,7 @@ py_jy earwy	100	PN	[pred="py_jy earwy___PJ Harvey__1",cat=PN]	py_jy earwy___PJ H
 pyam dekrdy	100	PN	[pred="pyam dekrdy_____1",cat=PN]	pyam dekrdy_____1	Default		%default	inv
 pyam fźly_nžad	100	PN	[pred="pyam fźly_nžad_____1",cat=PN]	pyam fźly_nžad_____1	Default		%default	inv
 pyam jeanmany	100	PN	[pred="pyam jeanmany___Payam Jahanmani__1",cat=PN]	pyam jeanmany___Payam Jahanmani__1	Default		%default	inv
-pyam şalły	100	PN	[pred="pyam şalły_____1",cat=PN]	pyam şalły_____1	Default		%default	inv
+pyam şalħy	100	PN	[pred="pyam şalħy_____1",cat=PN]	pyam şalħy_____1	Default		%default	inv
 pyman abdy	100	PN	[pred="pyman abdy_____1",cat=PN]	pyman abdy_____1	Default		%default	inv
 pyman ewšmndzade	100	PN	[pred="pyman ewšmndzade_____1",cat=PN]	pyman ewšmndzade_____1	Default		%default	inv
 pyman m'ady	100	PN	[pred="pyman m'ady_____1",cat=PN]	pyman m'ady_____1	Default		%default	inv
@@ -5227,7 +5227,7 @@ pyr kwry	100	PN	[pred="pyr kwry___Pierre Curie__1",cat=PN]	pyr kwry___Pierre Cur
 pyr laplas	100	PN	[pred="pyr laplas___Pierre-Simon Laplace__1",cat=PN]	pyr laplas___Pierre-Simon Laplace__1	Default		%default	inv
 pyr pa´wlw pazwlyny	100	PN	[pred="pyr pa´wlw pazwlyny___Pier Paolo Pasolini__1",cat=PN]	pyr pa´wlw pazwlyny___Pier Paolo Pasolini__1	Default		%default	inv
 pyr trwdw	100	PN	[pred="pyr trwdw___Pierre Trudeau__1",cat=PN]	pyr trwdw___Pierre Trudeau__1	Default		%default	inv
-pyr âgwst rnwar	100	PN	[pred="pyr âgwst rnwar___Pierre-Auguste Renoir__1",cat=PN]	pyr âgwst rnwar___Pierre-Auguste Renoir__1	Default		%default	inv
+pyr āgwst rnwar	100	PN	[pred="pyr āgwst rnwar___Pierre-Auguste Renoir__1",cat=PN]	pyr āgwst rnwar___Pierre-Auguste Renoir__1	Default		%default	inv
 pyrs braznan	100	PN	[pred="pyrs braznan___Pierce Brosnan__1",cat=PN]	pyrs braznan___Pierce Brosnan__1	Default		%default	inv
 pyrw dla frančska	100	PN	[pred="pyrw dla frančska___Piero della Francesca__1",cat=PN]	pyrw dla frančska___Piero della Francesca__1	Default		%default	inv
 pyrw kyara	100	PN	[pred="pyrw kyara___Piero Chiara__1",cat=PN]	pyrw kyara___Piero Chiara__1	Default		%default	inv
@@ -5256,14 +5256,14 @@ pytr slrz	100	PN	[pred="pytr slrz___Peter Sellers__1",cat=PN]	pytr slrz___Peter 
 pytr syngr	100	PN	[pred="pytr syngr___Peter Singer__1",cat=PN]	pytr syngr___Peter Singer__1	Default		%default	inv
 pytr yatz	100	PN	[pred="pytr yatz___Peter Yates__1",cat=PN]	pytr yatz___Peter Yates__1	Default		%default	inv
 pytr zamtwr	100	PN	[pred="pytr zamtwr___Peter Zumthor__1",cat=PN]	pytr zamtwr___Peter Zumthor__1	Default		%default	inv
-pytr âyznman	100	PN	[pred="pytr âyznman___Peter Eisenman__1",cat=PN]	pytr âyznman___Peter Eisenman__1	Default		%default	inv
+pytr āyznman	100	PN	[pred="pytr āyznman___Peter Eisenman__1",cat=PN]	pytr āyznman___Peter Eisenman__1	Default		%default	inv
 pytr čk	100	PN	[pred="pytr čk___Petr Čech__1",cat=PN]	pytr čk___Petr Čech__1	Default		%default	inv
 pytyrym swrwkyn	100	PN	[pred="pytyrym swrwkyn___Pitirim Sorokin__1",cat=PN]	pytyrym swrwkyn___Pitirim Sorokin__1	Default		%default	inv
 pywtr aylyč čaykwfsky	100	PN	[pred="pywtr aylyč čaykwfsky___Pyotr Ilyich Tchaikovsky__1",cat=PN]	pywtr aylyč čaykwfsky___Pyotr Ilyich Tchaikovsky__1	Default		%default	inv
 pywtr swydlr	100	PN	[pred="pywtr swydlr___Peter Svidler__1",cat=PN]	pywtr swydlr___Peter Svidler__1	Default		%default	inv
 pyyr dw frma	100	PN	[pred="pyyr dw frma___Pierre de Fermat__1",cat=PN]	pyyr dw frma___Pierre de Fermat__1	Default		%default	inv
 pyyr kwrny	100	PN	[pred="pyyr kwrny___Pierre Corneille__1",cat=PN]	pyyr kwrny___Pierre Corneille__1	Default		%default	inv
-pzšk ałmdy	100	PN	[pred="pzšk ałmdy___Ahmad Ahmadi__1",cat=PN]	pzšk ałmdy___Ahmad Ahmadi__1	Default		%default	inv
+pzšk aħmdy	100	PN	[pred="pzšk aħmdy___Ahmad Ahmadi__1",cat=PN]	pzšk aħmdy___Ahmad Ahmadi__1	Default		%default	inv
 pžman akbrzade	100	PN	[pred="pžman akbrzade___Pejman Akbarzadeh__1",cat=PN]	pžman akbrzade___Pejman Akbarzadeh__1	Default		%default	inv
 pžman bazqy	100	PN	[pred="pžman bazqy___Pejman Bazeghi__1",cat=PN]	pžman bazqy___Pejman Bazeghi__1	Default		%default	inv
 pžman nwry	100	PN	[pred="pžman nwry___Pejman Nouri__1",cat=PN]	pžman nwry___Pejman Nouri__1	Default		%default	inv
@@ -5277,36 +5277,36 @@ qlam'ly aşfeany	100	PN	[pred="qlam'ly aşfeany_____1",cat=PN]	qlam'ly aşfeany_
 qlam'ly bayndr	100	PN	[pred="qlam'ly bayndr___Gholamali Bayandor__1",cat=PN]	qlam'ly bayndr___Gholamali Bayandor__1	Default		%default	inv
 qlam'ly bsky	100	PN	[pred="qlam'ly bsky_____1",cat=PN]	qlam'ly bsky_____1	Default		%default	inv
 qlam'ly lţyfy	100	PN	[pred="qlam'ly lţyfy_____1",cat=PN]	qlam'ly lţyfy_____1	Default		%default	inv
-qlam'ly r'dy âđrxšy	100	PN	[pred="qlam'ly r'dy âđrxšy_____1",cat=PN]	qlam'ly r'dy âđrxšy_____1	Default		%default	inv
+qlam'ly r'dy āđrxšy	100	PN	[pred="qlam'ly r'dy āđrxšy_____1",cat=PN]	qlam'ly r'dy āđrxšy_____1	Default		%default	inv
 qlam_rźa 'nayty	100	PN	[pred="qlam_rźa 'nayty___Reza Enayati__1",cat=PN]	qlam_rźa 'nayty___Reza Enayati__1	Default		%default	inv
-qlam_łydr yŕyn	100	PN	[pred="qlam_łydr yŕyn_____1",cat=PN]	qlam_łydr yŕyn_____1	Default		%default	inv
+qlam_ħydr yŕyn	100	PN	[pred="qlam_ħydr yŕyn_____1",cat=PN]	qlam_ħydr yŕyn_____1	Default		%default	inv
 qlamrźa a'wany	100	PN	[pred="qlamrźa a'wany_____1",cat=PN]	qlamrźa a'wany_____1	Default		%default	inv
 qlamrźa dadbe	100	PN	[pred="qlamrźa dadbe_____1",cat=PN]	qlamrźa dadbe_____1	Default		%default	inv
 qlamrźa myn_bašyan	100	PN	[pred="qlamrźa myn_bašyan_____1",cat=PN]	qlamrźa myn_bašyan_____1	Default		%default	inv
-qlamrźa rwłany	100	PN	[pred="qlamrźa rwłany___Gholamreza Rouhani__1",cat=PN]	qlamrźa rwłany___Gholamreza Rouhani__1	Default		%default	inv
+qlamrźa rwħany	100	PN	[pred="qlamrźa rwħany___Gholamreza Rouhani__1",cat=PN]	qlamrźa rwħany___Gholamreza Rouhani__1	Default		%default	inv
 qlamrźa ršyd yasmy	100	PN	[pred="qlamrźa ršyd yasmy___Rashid Yasemi__1",cat=PN]	qlamrźa ršyd yasmy___Rashid Yasemi__1	Default		%default	inv
 qlamrźa s'ydy	100	PN	[pred="qlamrźa s'ydy_____1",cat=PN]	qlamrźa s'ydy_____1	Default		%default	inv
 qlamrźa txty	100	PN	[pred="qlamrźa txty___Gholamreza Takhti__1",cat=PN]	qlamrźa txty___Gholamreza Takhti__1	Default		%default	inv
 qlamrźa xwšrw	100	PN	[pred="qlamrźa xwšrw_____1",cat=PN]	qlamrźa xwšrw_____1	Default		%default	inv
-qlamrźa łsny	100	PN	[pred="qlamrźa łsny_____1",cat=PN]	qlamrźa łsny_____1	Default		%default	inv
-qlamrźa łsyn_br	100	PN	[pred="qlamrźa łsyn_br_____1",cat=PN]	qlamrźa łsyn_br_____1	Default		%default	inv
+qlamrźa ħsny	100	PN	[pred="qlamrźa ħsny_____1",cat=PN]	qlamrźa ħsny_____1	Default		%default	inv
+qlamrźa ħsyn_br	100	PN	[pred="qlamrźa ħsyn_br_____1",cat=PN]	qlamrźa ħsyn_br_____1	Default		%default	inv
 qlamrźa šebazy	100	PN	[pred="qlamrźa šebazy_____1",cat=PN]	qlamrźa šebazy_____1	Default		%default	inv
 qlamrźa ţbaţbayy	100	PN	[pred="qlamrźa ţbaţbayy_____1",cat=PN]	qlamrźa ţbaţbayy_____1	Default		%default	inv
-qlamłsyn abraeymy dynany	100	PN	[pred="qlamłsyn abraeymy dynany_____1",cat=PN]	qlamłsyn abraeymy dynany_____1	Default		%default	inv
-qlamłsyn aeny	100	PN	[pred="qlamłsyn aeny_____1",cat=PN]	qlamłsyn aeny_____1	Default		%default	inv
-qlamłsyn aleam	100	PN	[pred="qlamłsyn aleam___Gholam-Hossein Elham__1",cat=PN]	qlamłsyn aleam___Gholam-Hossein Elham__1	Default		%default	inv
-qlamłsyn amyrxany	100	PN	[pred="qlamłsyn amyrxany_____1",cat=PN]	qlamłsyn amyrxany_____1	Default		%default	inv
-qlamłsyn bnan	100	PN	[pred="qlamłsyn bnan___Gholam-Hossein Banan__1",cat=PN]	qlamłsyn bnan___Gholam-Hossein Banan__1	Default		%default	inv
-qlamłsyn bygje_xany	100	PN	[pred="qlamłsyn bygje_xany___Qolam Hossein Bigjeh-Khani__1",cat=PN]	qlamłsyn bygje_xany___Qolam Hossein Bigjeh-Khani__1	Default		%default	inv
-qlamłsyn lţfy	100	PN	[pred="qlamłsyn lţfy_____1",cat=PN]	qlamłsyn lţfy_____1	Default		%default	inv
-qlamłsyn mraŕby	100	PN	[pred="qlamłsyn mraŕby_____1",cat=PN]	qlamłsyn mraŕby_____1	Default		%default	inv
-qlamłsyn myn bašyan	100	PN	[pred="qlamłsyn myn bašyan_____1",cat=PN]	qlamłsyn myn bašyan_____1	Default		%default	inv
-qlamłsyn młsny aže_ay	100	PN	[pred="qlamłsyn młsny aže_ay___Gholam-Hossein Mohseni-Eje'i__1",cat=PN]	qlamłsyn młsny aže_ay___Gholam-Hossein Mohseni-Eje'i__1	Default		%default	inv
-qlamłsyn mşałb	100	PN	[pred="qlamłsyn mşałb___Gholamhossein Mosaheb__1",cat=PN]	qlamłsyn mşałb___Gholamhossein Mosaheb__1	Default		%default	inv
-qlamłsyn mżlwmy	100	PN	[pred="qlamłsyn mżlwmy_____1",cat=PN]	qlamłsyn mżlwmy_____1	Default		%default	inv
-qlamłsyn nŕšyne	100	PN	[pred="qlamłsyn nŕšyne_____1",cat=PN]	qlamłsyn nŕšyne_____1	Default		%default	inv
-qlamłsyn sa'dy	100	PN	[pred="qlamłsyn sa'dy___Gholam-Hossein Saedi__1",cat=PN]	qlamłsyn sa'dy___Gholam-Hossein Saedi__1	Default		%default	inv
-qlamłsyn ywsfy	100	PN	[pred="qlamłsyn ywsfy_____1",cat=PN]	qlamłsyn ywsfy_____1	Default		%default	inv
+qlamħsyn abraeymy dynany	100	PN	[pred="qlamħsyn abraeymy dynany_____1",cat=PN]	qlamħsyn abraeymy dynany_____1	Default		%default	inv
+qlamħsyn aeny	100	PN	[pred="qlamħsyn aeny_____1",cat=PN]	qlamħsyn aeny_____1	Default		%default	inv
+qlamħsyn aleam	100	PN	[pred="qlamħsyn aleam___Gholam-Hossein Elham__1",cat=PN]	qlamħsyn aleam___Gholam-Hossein Elham__1	Default		%default	inv
+qlamħsyn amyrxany	100	PN	[pred="qlamħsyn amyrxany_____1",cat=PN]	qlamħsyn amyrxany_____1	Default		%default	inv
+qlamħsyn bnan	100	PN	[pred="qlamħsyn bnan___Gholam-Hossein Banan__1",cat=PN]	qlamħsyn bnan___Gholam-Hossein Banan__1	Default		%default	inv
+qlamħsyn bygje_xany	100	PN	[pred="qlamħsyn bygje_xany___Qolam Hossein Bigjeh-Khani__1",cat=PN]	qlamħsyn bygje_xany___Qolam Hossein Bigjeh-Khani__1	Default		%default	inv
+qlamħsyn lţfy	100	PN	[pred="qlamħsyn lţfy_____1",cat=PN]	qlamħsyn lţfy_____1	Default		%default	inv
+qlamħsyn mraŕby	100	PN	[pred="qlamħsyn mraŕby_____1",cat=PN]	qlamħsyn mraŕby_____1	Default		%default	inv
+qlamħsyn myn bašyan	100	PN	[pred="qlamħsyn myn bašyan_____1",cat=PN]	qlamħsyn myn bašyan_____1	Default		%default	inv
+qlamħsyn mħsny aže_ay	100	PN	[pred="qlamħsyn mħsny aže_ay___Gholam-Hossein Mohseni-Eje'i__1",cat=PN]	qlamħsyn mħsny aže_ay___Gholam-Hossein Mohseni-Eje'i__1	Default		%default	inv
+qlamħsyn mşaħb	100	PN	[pred="qlamħsyn mşaħb___Gholamhossein Mosaheb__1",cat=PN]	qlamħsyn mşaħb___Gholamhossein Mosaheb__1	Default		%default	inv
+qlamħsyn mẓlwmy	100	PN	[pred="qlamħsyn mẓlwmy_____1",cat=PN]	qlamħsyn mẓlwmy_____1	Default		%default	inv
+qlamħsyn nŕšyne	100	PN	[pred="qlamħsyn nŕšyne_____1",cat=PN]	qlamħsyn nŕšyne_____1	Default		%default	inv
+qlamħsyn sa'dy	100	PN	[pred="qlamħsyn sa'dy___Gholam-Hossein Saedi__1",cat=PN]	qlamħsyn sa'dy___Gholam-Hossein Saedi__1	Default		%default	inv
+qlamħsyn ywsfy	100	PN	[pred="qlamħsyn ywsfy_____1",cat=PN]	qlamħsyn ywsfy_____1	Default		%default	inv
 qmam emdany	100	PN	[pred="qmam emdany_____1",cat=PN]	qmam emdany_____1	Default		%default	inv
 qny blwryan	100	PN	[pred="qny blwryan_____1",cat=PN]	qny blwryan_____1	Default		%default	inv
 qyaç_aldyn jmšyd kašany	100	PN	[pred="qyaç_aldyn jmšyd kašany___Jamshid al-Kashi__1",cat=PN]	qyaç_aldyn jmšyd kašany___Jamshid al-Kashi__1	Default		%default	inv
@@ -5314,7 +5314,7 @@ qzale 'lyzade	100	PN	[pred="qzale 'lyzade___Ghazaleh Alizadeh__1",cat=PN]	qzale 
 qzl şarmy	100	PN	[pred="qzl şarmy_____1",cat=PN]	qzl şarmy_____1	Default		%default	inv
 qźa´ry razy	100	PN	[pred="qźa´ry razy_____1",cat=PN]	qźa´ry razy_____1	Default		%default	inv
 r'na azady_wr	100	PN	[pred="r'na azady_wr_____1",cat=PN]	r'na azady_wr_____1	Default		%default	inv
-r'na frłan	100	PN	[pred="r'na frłan_____1",cat=PN]	r'na frłan_____1	Default		%default	inv
+r'na frħan	100	PN	[pred="r'na frħan_____1",cat=PN]	r'na frħan_____1	Default		%default	inv
 r. a'tmady	100	PN	[pred="r. a'tmady_____1",cat=PN]	r. a'tmady_____1	Default		%default	inv
 rab bwrdwn	100	PN	[pred="rab bwrdwn_____1",cat=PN]	rab bwrdwn_____1	Default		%default	inv
 rab dy eawn	100	PN	[pred="rab dy eawn___Rob DeHaven__1",cat=PN]	rab dy eawn___Rob DeHaven__1	Default		%default	inv
@@ -5356,7 +5356,7 @@ rabrt wnčwry	100	PN	[pred="rabrt wnčwry___Robert Venturi__1",cat=PN]	rabrt wn�
 rabrt wyne	100	PN	[pred="rabrt wyne___Robert Wiene__1",cat=PN]	rabrt wyne___Robert Wiene__1	Default		%default	inv
 rabrt zmkys	100	PN	[pred="rabrt zmkys___Robert Zemeckis__1",cat=PN]	rabrt zmkys___Robert Zemeckis__1	Default		%default	inv
 rabrt čarlz znr	100	PN	[pred="rabrt čarlz znr___Robert Charles Zaehner__1",cat=PN]	rabrt čarlz znr___Robert Charles Zaehner__1	Default		%default	inv
-rabrt łsyn	100	PN	[pred="rabrt łsyn___Robert Hossein__1",cat=PN]	rabrt łsyn___Robert Hossein__1	Default		%default	inv
+rabrt ħsyn	100	PN	[pred="rabrt ħsyn___Robert Hossein__1",cat=PN]	rabrt ħsyn___Robert Hossein__1	Default		%default	inv
 rabrt šan l´wnard	100	PN	[pred="rabrt šan l´wnard___Robert Sean Leonard__1",cat=PN]	rabrt šan l´wnard___Robert Sean Leonard__1	Default		%default	inv
 rabrt škly	100	PN	[pred="rabrt škly___Robert Sheckley__1",cat=PN]	rabrt škly___Robert Sheckley__1	Default		%default	inv
 raby mryl	100	PN	[pred="raby mryl___Robbie Merrill__1",cat=PN]	raby mryl___Robbie Merrill__1	Default		%default	inv
@@ -5397,14 +5397,14 @@ ramtyn	100	PN	[pred="ramtyn_____1",cat=PN]	ramtyn_____1	Default		%default	inv
 ramwn tykaram	100	PN	[pred="ramwn tykaram___Ramon Tikaram__1",cat=PN]	ramwn tykaram___Ramon Tikaram__1	Default		%default	inv
 ramwna amyry	100	PN	[pred="ramwna amyry___Ramona Amiri__1",cat=PN]	ramwna amyry___Ramona Amiri__1	Default		%default	inv
 ramyn bena	100	PN	[pred="ramyn bena_____1",cat=PN]	ramyn bena_____1	Default		%default	inv
-ramyn błrany	100	PN	[pred="ramyn błrany___Ramin Bahrani__1",cat=PN]	ramyn błrany___Ramin Bahrani__1	Default		%default	inv
+ramyn bħrany	100	PN	[pred="ramyn bħrany___Ramin Bahrani__1",cat=PN]	ramyn bħrany___Ramin Bahrani__1	Default		%default	inv
 ramyn jeanbglw	100	PN	[pred="ramyn jeanbglw___Ramin Jahanbegloo__1",cat=PN]	ramyn jeanbglw___Ramin Jahanbegloo__1	Default		%default	inv
 ramyn jwady	100	PN	[pred="ramyn jwady___Ramin Djawadi__1",cat=PN]	ramyn jwady___Ramin Djawadi__1	Default		%default	inv
 ramyn jzayry	100	PN	[pred="ramyn jzayry_____1",cat=PN]	ramyn jzayry_____1	Default		%default	inv
 ramynm	100	PN	[pred="ramynm_____1",cat=PN]	ramynm_____1	Default		%default	inv
 ramyz rwšn	100	PN	[pred="ramyz rwšn_____1",cat=PN]	ramyz rwšn_____1	Default		%default	inv
 ramš	300	PN	[pred="ramš_____1",cat=PN]	ramš_____1	Default		%default	inv
-ramš  (  ađr młby )	100	PN	[pred="ramš  (  ađr młby )_____1",cat=PN]	ramš  (  ađr młby )_____1	Default		%default	inv
+ramš  (  ađr mħby )	100	PN	[pred="ramš  (  ađr mħby )_____1",cat=PN]	ramš  (  ađr mħby )_____1	Default		%default	inv
 ran eaward	100	PN	[pred="ran eaward___Ron Howard__1",cat=PN]	ran eaward___Ron Howard__1	Default		%default	inv
 ran krk	100	PN	[pred="ran krk___Ron Kirk__1",cat=PN]	ran krk___Ron Kirk__1	Default		%default	inv
 ran ryfkyn	100	PN	[pred="ran ryfkyn___Ron Rifkin__1",cat=PN]	ran ryfkyn___Ron Rifkin__1	Default		%default	inv
@@ -5432,10 +5432,10 @@ rby' ţwsy	100	PN	[pred="rby' ţwsy_____1",cat=PN]	rby' ţwsy_____1	Default		%de
 rey m'yry	100	PN	[pred="rey m'yry___Rahi Mo'ayyeri__1",cat=PN]	rey m'yry___Rahi Mo'ayyeri__1	Default		%default	inv
 rf't byat	100	PN	[pred="rf't byat___Rafat Bayat__1",cat=PN]	rf't byat___Rafat Bayat__1	Default		%default	inv
 rf't smnany	100	PN	[pred="rf't smnany_____1",cat=PN]	rf't smnany_____1	Default		%default	inv
-rfy' łalty	100	PN	[pred="rfy' łalty_____1",cat=PN]	rfy' łalty_____1	Default		%default	inv
+rfy' ħalty	100	PN	[pred="rfy' ħalty_____1",cat=PN]	rfy' ħalty_____1	Default		%default	inv
 rfyk dwrbaš	100	PN	[pred="rfyk dwrbaš_____1",cat=PN]	rfyk dwrbaš_____1	Default		%default	inv
-rfyŕ łryry	100	PN	[pred="rfyŕ łryry___Rafic Hariri__1",cat=PN]	rfyŕ łryry___Rafic Hariri__1	Default		%default	inv
-rjb młmdyn	100	PN	[pred="rjb młmdyn_____1",cat=PN]	rjb młmdyn_____1	Default		%default	inv
+rfyŕ ħryry	100	PN	[pred="rfyŕ ħryry___Rafic Hariri__1",cat=PN]	rfyŕ ħryry___Rafic Hariri__1	Default		%default	inv
+rjb mħmdyn	100	PN	[pred="rjb mħmdyn_____1",cat=PN]	rjb mħmdyn_____1	Default		%default	inv
 rjb ţyb ardwqan	100	PN	[pred="rjb ţyb ardwqan___Recep Tayyip Erdogan__1",cat=PN]	rjb ţyb ardwqan___Recep Tayyip Erdogan__1	Default		%default	inv
 rjynald abry fsndn	100	PN	[pred="rjynald abry fsndn___Reginald Fessenden__1",cat=PN]	rjynald abry fsndn___Reginald Fessenden__1	Default		%default	inv
 rkn_aldyn mxtary	100	PN	[pred="rkn_aldyn mxtary_____1",cat=PN]	rkn_aldyn mxtary_____1	Default		%default	inv
@@ -5444,7 +5444,7 @@ rm kwleas	100	PN	[pred="rm kwleas___Rem Koolhaas__1",cat=PN]	rm kwleas___Rem Koo
 rmkw kamprt	100	PN	[pred="rmkw kamprt___Remco Campert__1",cat=PN]	rmkw kamprt___Remco Campert__1	Default		%default	inv
 rmy fwrtys	100	PN	[pred="rmy fwrtys___Rami Fortis__1",cat=PN]	rmy fwrtys___Rami Fortis__1	Default		%default	inv
 rmźan bšrdwst	100	PN	[pred="rmźan bšrdwst___Ramazan Bashardost__1",cat=PN]	rmźan bšrdwst___Ramazan Bashardost__1	Default		%default	inv
-rmźan łajy mšedy	100	PN	[pred="rmźan łajy mšedy_____1",cat=PN]	rmźan łajy mšedy_____1	Default		%default	inv
+rmźan ħajy mšedy	100	PN	[pred="rmźan ħajy mšedy_____1",cat=PN]	rmźan ħajy mšedy_____1	Default		%default	inv
 rmźan_'ly tymwry	100	PN	[pred="rmźan_'ly tymwry_____1",cat=PN]	rmźan_'ly tymwry_____1	Default		%default	inv
 rna rslan	100	PN	[pred="rna rslan___Rana Raslan__1",cat=PN]	rna rslan___Rana Raslan__1	Default		%default	inv
 rndy rwdz	100	PN	[pred="rndy rwdz___Randy Rhoads__1",cat=PN]	rndy rwdz___Randy Rhoads__1	Default		%default	inv
@@ -5455,7 +5455,7 @@ rne gnwn	100	PN	[pred="rne gnwn___René Guénon__1",cat=PN]	rne gnwn___René Gu�
 rne m'wź	100	PN	[pred="rne m'wź___René Moawad__1",cat=PN]	rne m'wź___René Moawad__1	Default		%default	inv
 rne magryt	100	PN	[pred="rne magryt___René Magritte__1",cat=PN]	rne magryt___René Magritte__1	Default		%default	inv
 rne wywyany	100	PN	[pred="rne wywyany___René Viviani__1",cat=PN]	rne wywyany___René Viviani__1	Default		%default	inv
-rne âdlr	100	PN	[pred="rne âdlr___René Adler__1",cat=PN]	rne âdlr___René Adler__1	Default		%default	inv
+rne ādlr	100	PN	[pred="rne ādlr___René Adler__1",cat=PN]	rne ādlr___René Adler__1	Default		%default	inv
 rngyn dadfr spnta	100	PN	[pred="rngyn dadfr spnta___Rangin Dadfar Spanta__1",cat=PN]	rngyn dadfr spnta___Rangin Dadfar Spanta__1	Default		%default	inv
 rny zlwgr	100	PN	[pred="rny zlwgr___Renée Zellweger__1",cat=PN]	rny zlwgr___Renée Zellweger__1	Default		%default	inv
 rnzw pyanw	100	PN	[pred="rnzw pyanw___Renzo Piano__1",cat=PN]	rnzw pyanw___Renzo Piano__1	Default		%default	inv
@@ -5531,7 +5531,7 @@ rwy bywknn	100	PN	[pred="rwy bywknn___Roy Buchanan__1",cat=PN]	rwy bywknn___Roy 
 rwy lwps	100	PN	[pred="rwy lwps___Ruy López de Segura__1",cat=PN]	rwy lwps___Ruy López de Segura__1	Default		%default	inv
 rwya nwnealy	100	PN	[pred="rwya nwnealy_____1",cat=PN]	rwya nwnealy_____1	Default		%default	inv
 rwya zryn	100	PN	[pred="rwya zryn_____1",cat=PN]	rwya zryn_____1	Default		%default	inv
-rwya łkakyan	100	PN	[pred="rwya łkakyan___Roya Hakakian__1",cat=PN]	rwya łkakyan___Roya Hakakian__1	Default		%default	inv
+rwya ħkakyan	100	PN	[pred="rwya ħkakyan___Roya Hakakian__1",cat=PN]	rwya ħkakyan___Roya Hakakian__1	Default		%default	inv
 rwya şdr	100	PN	[pred="rwya şdr_____1",cat=PN]	rwya şdr_____1	Default		%default	inv
 rwya ţlw'y	100	PN	[pred="rwya ţlw'y___Roya Toloui__1",cat=PN]	rwya ţlw'y___Roya Toloui__1	Default		%default	inv
 rwyda 'ţye	100	PN	[pred="rwyda 'ţye___Rouwaida Attieh__1",cat=PN]	rwyda 'ţye___Rouwaida Attieh__1	Default		%default	inv
@@ -5541,14 +5541,14 @@ rwzeay zn dr ayran	100	PN	[pred="rwzeay zn dr ayran_____1",cat=PN]	rwzeay zn dr 
 rwzt ŕadry	100	PN	[pred="rwzt ŕadry_____1",cat=PN]	rwzt ŕadry_____1	Default		%default	inv
 rwç bndykt	100	PN	[pred="rwç bndykt___Ruth Benedict__1",cat=PN]	rwç bndykt___Ruth Benedict__1	Default		%default	inv
 rwç endlr	100	PN	[pred="rwç endlr___Ruth Handler__1",cat=PN]	rwç endlr___Ruth Handler__1	Default		%default	inv
-rwł alle 'basy	100	PN	[pred="rwł alle 'basy_____1",cat=PN]	rwł alle 'basy_____1	Default		%default	inv
-rwł_alle kmalwnd	100	PN	[pred="rwł_alle kmalwnd_____1",cat=PN]	rwł_alle kmalwnd_____1	Default		%default	inv
-rwł_alle nykpay	100	PN	[pred="rwł_alle nykpay___Rohullah Nikpai__1",cat=PN]	rwł_alle nykpay___Rohullah Nikpai__1	Default		%default	inv
-rwł_alle xalŕy	100	PN	[pred="rwł_alle xalŕy___Ruhollah Khaleghi__1",cat=PN]	rwł_alle xalŕy___Ruhollah Khaleghi__1	Default		%default	inv
-rwł_alle łsynyan	100	PN	[pred="rwł_alle łsynyan___Ruhollah Hosseinian__1",cat=PN]	rwł_alle łsynyan___Ruhollah Hosseinian__1	Default		%default	inv
-rwł_angyz samy_nžad	100	PN	[pred="rwł_angyz samy_nžad_____1",cat=PN]	rwł_angyz samy_nžad_____1	Default		%default	inv
-rwł_angyz šryfyan	100	PN	[pred="rwł_angyz šryfyan_____1",cat=PN]	rwł_angyz šryfyan_____1	Default		%default	inv
-rwł_prwr	200	PN	[pred="rwł_prwr_____1",cat=PN]	rwł_prwr_____1	Default		%default	inv
+rwħ alle 'basy	100	PN	[pred="rwħ alle 'basy_____1",cat=PN]	rwħ alle 'basy_____1	Default		%default	inv
+rwħ_alle kmalwnd	100	PN	[pred="rwħ_alle kmalwnd_____1",cat=PN]	rwħ_alle kmalwnd_____1	Default		%default	inv
+rwħ_alle nykpay	100	PN	[pred="rwħ_alle nykpay___Rohullah Nikpai__1",cat=PN]	rwħ_alle nykpay___Rohullah Nikpai__1	Default		%default	inv
+rwħ_alle xalŕy	100	PN	[pred="rwħ_alle xalŕy___Ruhollah Khaleghi__1",cat=PN]	rwħ_alle xalŕy___Ruhollah Khaleghi__1	Default		%default	inv
+rwħ_alle ħsynyan	100	PN	[pred="rwħ_alle ħsynyan___Ruhollah Hosseinian__1",cat=PN]	rwħ_alle ħsynyan___Ruhollah Hosseinian__1	Default		%default	inv
+rwħ_angyz samy_nžad	100	PN	[pred="rwħ_angyz samy_nžad_____1",cat=PN]	rwħ_angyz samy_nžad_____1	Default		%default	inv
+rwħ_angyz šryfyan	100	PN	[pred="rwħ_angyz šryfyan_____1",cat=PN]	rwħ_angyz šryfyan_____1	Default		%default	inv
+rwħ_prwr	200	PN	[pred="rwħ_prwr_____1",cat=PN]	rwħ_prwr_____1	Default		%default	inv
 rwšn ramy	100	PN	[pred="rwšn ramy_____1",cat=PN]	rwšn ramy_____1	Default		%default	inv
 rwšnk darywš	100	PN	[pred="rwšnk darywš_____1",cat=PN]	rwšnk darywš_____1	Default		%default	inv
 rwšnk nw'dwst	100	PN	[pred="rwšnk nw'dwst_____1",cat=PN]	rwšnk nw'dwst_____1	Default		%default	inv
@@ -5608,7 +5608,7 @@ ryčard rayt	100	PN	[pred="ryčard rayt___Richard Wright (musician)__1",cat=PN]	
 ryčard rwrty	100	PN	[pred="ryčard rwrty___Richard Rorty__1",cat=PN]	ryčard rwrty___Richard Rorty__1	Default		%default	inv
 ryčard wagnr	100	PN	[pred="ryčard wagnr___Richard Wagner__1",cat=PN]	ryčard wagnr___Richard Wagner__1	Default		%default	inv
 ryčard wylyamz	100	PN	[pred="ryčard wylyamz___Richard Williams (animator)__1",cat=PN]	ryčard wylyamz___Richard Williams (animator)__1	Default		%default	inv
-ryčard ârmytaž	100	PN	[pred="ryčard ârmytaž___Richard Armitage (politician)__1",cat=PN]	ryčard ârmytaž___Richard Armitage (politician)__1	Default		%default	inv
+ryčard ārmytaž	100	PN	[pred="ryčard ārmytaž___Richard Armitage (politician)__1",cat=PN]	ryčard ārmytaž___Richard Armitage (politician)__1	Default		%default	inv
 ryčard šwwdr	100	PN	[pred="ryčard šwwdr___Richard Shweder__1",cat=PN]	ryčard šwwdr___Richard Shweder__1	Default		%default	inv
 ryčl mdw	100	PN	[pred="ryčl mdw___Rachel Maddow__1",cat=PN]	ryčl mdw___Rachel Maddow__1	Default		%default	inv
 ryčy blkmwr	100	PN	[pred="ryčy blkmwr___Ritchie Blackmore__1",cat=PN]	ryčy blkmwr___Ritchie Blackmore__1	Default		%default	inv
@@ -5616,37 +5616,37 @@ ryšard aštraws	100	PN	[pred="ryšard aštraws___Richard Strauss__1",cat=PN]	ry
 rz mk_gwn	100	PN	[pred="rz mk_gwn___Rose McGowan__1",cat=PN]	rz mk_gwn___Rose McGowan__1	Default		%default	inv
 rza jmaly	100	PN	[pred="rza jmaly___Rosa Jamali__1",cat=PN]	rza jmaly___Rosa Jamali__1	Default		%default	inv
 rza lwkzambwrg	100	PN	[pred="rza lwkzambwrg___Rosa Luxemburg__1",cat=PN]	rza lwkzambwrg___Rosa Luxemburg__1	Default		%default	inv
-rza mntżmy	100	PN	[pred="rza mntżmy___Roza Montazemi__1",cat=PN]	rza mntżmy___Roza Montazemi__1	Default		%default	inv
-rza łsn zade âžyry	100	PN	[pred="rza łsn zade âžyry_____1",cat=PN]	rza łsn zade âžyry_____1	Default		%default	inv
+rza mntẓmy	100	PN	[pred="rza mntẓmy___Roza Montazemi__1",cat=PN]	rza mntẓmy___Roza Montazemi__1	Default		%default	inv
+rza ħsn zade āžyry	100	PN	[pred="rza ħsn zade āžyry_____1",cat=PN]	rza ħsn zade āžyry_____1	Default		%default	inv
 rzmary s'yd zelan	100	PN	[pred="rzmary s'yd zelan___Rosemarie Said Zahlan__1",cat=PN]	rzmary s'yd zelan___Rosemarie Said Zahlan__1	Default		%default	inv
 rzy mlk ywnan	100	PN	[pred="rzy mlk ywnan___Rosie Malek-Yonan__1",cat=PN]	rzy mlk ywnan___Rosie Malek-Yonan__1	Default		%default	inv
 rzyta qfary	100	PN	[pred="rzyta qfary_____1",cat=PN]	rzyta qfary_____1	Default		%default	inv
-rzyta yarałmdy	100	PN	[pred="rzyta yarałmdy_____1",cat=PN]	rzyta yarałmdy_____1	Default		%default	inv
+rzyta yaraħmdy	100	PN	[pred="rzyta yaraħmdy_____1",cat=PN]	rzyta yaraħmdy_____1	Default		%default	inv
 r´ys dwlt 'raŕ	100	PN	[pred="r´ys dwlt 'raŕ___President of Iraq__1",cat=PN]	r´ys dwlt 'raŕ___President of Iraq__1	Default		%default	inv
-rłman eatfy	100	PN	[pred="rłman eatfy_____1",cat=PN]	rłman eatfy_____1	Default		%default	inv
-rłman rźayy	100	PN	[pred="rłman rźayy___Rahman Rezaei__1",cat=PN]	rłman rźayy___Rahman Rezaei__1	Default		%default	inv
-rłmt_alle bdy'y	100	PN	[pred="rłmt_alle bdy'y_____1",cat=PN]	rłmt_alle bdy'y_____1	Default		%default	inv
-rłmt_alle mŕdm mraqe_ay	100	PN	[pred="rłmt_alle mŕdm mraqe_ay_____1",cat=PN]	rłmt_alle mŕdm mraqe_ay_____1	Default		%default	inv
-rłym 'ly abady	100	PN	[pred="rłym 'ly abady_____1",cat=PN]	rłym 'ly abady_____1	Default		%default	inv
-rłym jlyl	100	PN	[pred="rłym jlyl_____1",cat=PN]	rłym jlyl_____1	Default		%default	inv
-rłym m'yny krmanšaey	100	PN	[pred="rłym m'yny krmanšaey___Rahim Moeini Kermanshahi__1",cat=PN]	rłym m'yny krmanšaey___Rahim Moeini Kermanshahi__1	Default		%default	inv
-rłym rłman_zade	100	PN	[pred="rłym rłman_zade_____1",cat=PN]	rłym rłman_zade_____1	Default		%default	inv
-rłym šeryary	100	PN	[pred="rłym šeryary_____1",cat=PN]	rłym šeryary_____1	Default		%default	inv
+rħman eatfy	100	PN	[pred="rħman eatfy_____1",cat=PN]	rħman eatfy_____1	Default		%default	inv
+rħman rźayy	100	PN	[pred="rħman rźayy___Rahman Rezaei__1",cat=PN]	rħman rźayy___Rahman Rezaei__1	Default		%default	inv
+rħmt_alle bdy'y	100	PN	[pred="rħmt_alle bdy'y_____1",cat=PN]	rħmt_alle bdy'y_____1	Default		%default	inv
+rħmt_alle mŕdm mraqe_ay	100	PN	[pred="rħmt_alle mŕdm mraqe_ay_____1",cat=PN]	rħmt_alle mŕdm mraqe_ay_____1	Default		%default	inv
+rħym 'ly abady	100	PN	[pred="rħym 'ly abady_____1",cat=PN]	rħym 'ly abady_____1	Default		%default	inv
+rħym jlyl	100	PN	[pred="rħym jlyl_____1",cat=PN]	rħym jlyl_____1	Default		%default	inv
+rħym m'yny krmanšaey	100	PN	[pred="rħym m'yny krmanšaey___Rahim Moeini Kermanshahi__1",cat=PN]	rħym m'yny krmanšaey___Rahim Moeini Kermanshahi__1	Default		%default	inv
+rħym rħman_zade	100	PN	[pred="rħym rħman_zade_____1",cat=PN]	rħym rħman_zade_____1	Default		%default	inv
+rħym šeryary	100	PN	[pred="rħym šeryary_____1",cat=PN]	rħym šeryary_____1	Default		%default	inv
 rŕye	100	PN	[pred="rŕye_____1",cat=PN]	rŕye_____1	Default		%default	inv
 rŕye čere azad	100	PN	[pred="rŕye čere azad_____1",cat=PN]	rŕye čere azad_____1	Default		%default	inv
-ršyd ałmd lwźyanwy	100	PN	[pred="ršyd ałmd lwźyanwy___Yousuf Ludhianvi__1",cat=PN]	ršyd ałmd lwźyanwy___Yousuf Ludhianvi__1	Default		%default	inv
+ršyd aħmd lwźyanwy	100	PN	[pred="ršyd aħmd lwźyanwy___Yousuf Ludhianvi__1",cat=PN]	ršyd aħmd lwźyanwy___Yousuf Ludhianvi__1	Default		%default	inv
 ršyd bebwdwf	100	PN	[pred="ršyd bebwdwf___Rashid Behbudov__1",cat=PN]	ršyd bebwdwf___Rashid Behbudov__1	Default		%default	inv
 ršyd šryfy	100	PN	[pred="ršyd šryfy___Rashid Sharifi__1",cat=PN]	ršyd šryfy___Rashid Sharifi__1	Default		%default	inv
 ršydaldyn fźl_alle emdany	100	PN	[pred="ršydaldyn fźl_alle emdany___Rashid-al-Din Hamadani__1",cat=PN]	ršydaldyn fźl_alle emdany___Rashid-al-Din Hamadani__1	Default		%default	inv
 ršydaldyn wţwaţ	100	PN	[pred="ršydaldyn wţwaţ___Rashid al-Din Vatvat__1",cat=PN]	ršydaldyn wţwaţ___Rashid al-Din Vatvat__1	Default		%default	inv
-ršłe	200	PN	[pred="ršłe_____1",cat=PN]	ršłe_____1	Default		%default	inv
+ršħe	200	PN	[pred="ršħe_____1",cat=PN]	ršħe_____1	Default		%default	inv
 rźa 'abdyny	100	PN	[pred="rźa 'abdyny___Reza Abedini__1",cat=PN]	rźa 'abdyny___Reza Abedini__1	Default		%default	inv
 rźa 'basy	100	PN	[pred="rźa 'basy___Reza Abbasi__1",cat=PN]	rźa 'basy___Reza Abbasi__1	Default		%default	inv
 rźa 'lame_zade	100	PN	[pred="rźa 'lame_zade___Reza Allamehzadeh__1",cat=PN]	rźa 'lame_zade___Reza Allamehzadeh__1	Default		%default	inv
 rźa 'lyjany	100	PN	[pred="rźa 'lyjany_____1",cat=PN]	rźa 'lyjany_____1	Default		%default	inv
 rźa 'ţaran	100	PN	[pred="rźa 'ţaran___Reza Attaran__1",cat=PN]	rźa 'ţaran___Reza Attaran__1	Default		%default	inv
 rźa amyrxany	100	PN	[pred="rźa amyrxany___Reza Amirkhani__1",cat=PN]	rźa amyrxany___Reza Amirkhani__1	Default		%default	inv
-rźa arłam şdr	100	PN	[pred="rźa arłam şdr_____1",cat=PN]	rźa arłam şdr_____1	Default		%default	inv
+rźa arħam şdr	100	PN	[pred="rźa arħam şdr_____1",cat=PN]	rźa arħam şdr_____1	Default		%default	inv
 rźa aršdy	100	PN	[pred="rźa aršdy_____1",cat=PN]	rźa aršdy_____1	Default		%default	inv
 rźa astady	100	PN	[pred="rźa astady___Reza Ostadi__1",cat=PN]	rźa astady___Reza Ostadi__1	Default		%default	inv
 rźa ayran_mnš	100	PN	[pred="rźa ayran_mnš_____1",cat=PN]	rźa ayran_mnš_____1	Default		%default	inv
@@ -5666,15 +5666,15 @@ rźa mnşwry	100	PN	[pred="rźa mnşwry___Reza Mansouri__1",cat=PN]	rźa mnşwry
 rźa mrady qyaç_abady	100	PN	[pred="rźa mrady qyaç_abady_____1",cat=PN]	rźa mrady qyaç_abady_____1	Default		%default	inv
 rźa mrydy	100	PN	[pred="rźa mrydy___Reza Moridi__1",cat=PN]	rźa mrydy___Reza Moridi__1	Default		%default	inv
 rźa myrkrymy	100	PN	[pred="rźa myrkrymy_____1",cat=PN]	rźa myrkrymy_____1	Default		%default	inv
-rźa młjwby	100	PN	[pred="rźa młjwby___Reza Mahjubi__1",cat=PN]	rźa młjwby___Reza Mahjubi__1	Default		%default	inv
+rźa mħjwby	100	PN	[pred="rźa mħjwby___Reza Mahjubi__1",cat=PN]	rźa mħjwby___Reza Mahjubi__1	Default		%default	inv
 rźa mšayxy	100	PN	[pred="rźa mšayxy_____1",cat=PN]	rźa mšayxy_____1	Default		%default	inv
 rźa nadryan	100	PN	[pred="rźa nadryan___Reza Naderian__1",cat=PN]	rźa nadryan___Reza Naderian__1	Default		%default	inv
 rźa najy	100	PN	[pred="rźa najy___Reza Naji__1",cat=PN]	rźa najy___Reza Naji__1	Default		%default	inv
 rźa naşry	100	PN	[pred="rźa naşry_____1",cat=PN]	rźa naşry_____1	Default		%default	inv
 rźa pelwy	100	PN	[pred="rźa pelwy___Reza Pahlavi__1",cat=PN]	rźa pelwy___Reza Pahlavi__1	Default		%default	inv
 rźa rwygry	100	PN	[pred="rźa rwygry_____1",cat=PN]	rźa rwygry_____1	Default		%default	inv
-rźa syał	100	PN	[pred="rźa syał_____1",cat=PN]	rźa syał_____1	Default		%default	inv
-rźa sydłsyny	100	PN	[pred="rźa sydłsyny_____1",cat=PN]	rźa sydłsyny_____1	Default		%default	inv
+rźa syaħ	100	PN	[pred="rźa syaħ_____1",cat=PN]	rźa syaħ_____1	Default		%default	inv
+rźa sydħsyny	100	PN	[pred="rźa sydħsyny_____1",cat=PN]	rźa sydħsyny_____1	Default		%default	inv
 rźa yzdany	100	PN	[pred="rźa yzdany_____1",cat=PN]	rźa yzdany_____1	Default		%default	inv
 rźa zngy_abady	100	PN	[pred="rźa zngy_abady_____1",cat=PN]	rźa zngy_abady_____1	Default		%default	inv
 rźa zware_ay	100	PN	[pred="rźa zware_ay_____1",cat=PN]	rźa zware_ay_____1	Default		%default	inv
@@ -5690,11 +5690,11 @@ rźa žyan	100	PN	[pred="rźa žyan_____1",cat=PN]	rźa žyan_____1	Default		%de
 rźay sbzwary	100	PN	[pred="rźay sbzwary_____1",cat=PN]	rźay sbzwary_____1	Default		%default	inv
 rźaŕly myrza	100	PN	[pred="rźaŕly myrza_____1",cat=PN]	rźaŕly myrza_____1	Default		%default	inv
 rźaŕly xan edayt	100	PN	[pred="rźaŕly xan edayt___Reza-Qoli Khan Hedayat__1",cat=PN]	rźaŕly xan edayt___Reza-Qoli Khan Hedayat__1	Default		%default	inv
-rźaŕly_myrza żly	100	PN	[pred="rźaŕly_myrza żly_____1",cat=PN]	rźaŕly_myrza żly_____1	Default		%default	inv
+rźaŕly_myrza ẓly	100	PN	[pred="rźaŕly_myrza ẓly_____1",cat=PN]	rźaŕly_myrza ẓly_____1	Default		%default	inv
 rźy eyrmndy	100	PN	[pred="rźy eyrmndy_____1",cat=PN]	rźy eyrmndy_____1	Default		%default	inv
 ržy blašr	100	PN	[pred="ržy blašr_____1",cat=PN]	ržy blašr_____1	Default		%default	inv
 s'ad masy	100	PN	[pred="s'ad masy___Souad Massi__1",cat=PN]	s'ad masy___Souad Massi__1	Default		%default	inv
-s'd łryry	100	PN	[pred="s'd łryry___Saad Hariri__1",cat=PN]	s'd łryry___Saad Hariri__1	Default		%default	inv
+s'd ħryry	100	PN	[pred="s'd ħryry___Saad Hariri__1",cat=PN]	s'd ħryry___Saad Hariri__1	Default		%default	inv
 s'dy	100	PN	[pred="s'dy___Saadi (poet)__1",cat=PN]	s'dy___Saadi (poet)__1	Default		%default	inv
 s'dy afšar	100	PN	[pred="s'dy afšar_____1",cat=PN]	s'dy afšar_____1	Default		%default	inv
 s'yd 'akf	100	PN	[pred="s'yd 'akf_____1",cat=PN]	s'yd 'akf_____1	Default		%default	inv
@@ -5708,14 +5708,14 @@ s'yd bn jbyr	100	PN	[pred="s'yd bn jbyr___Sa'id ibn Jubayr__1",cat=PN]	s'yd bn j
 s'yd drxšndy	100	PN	[pred="s'yd drxšndy_____1",cat=PN]	s'yd drxšndy_____1	Default		%default	inv
 s'yd jlaly fr	100	PN	[pred="s'yd jlaly fr_____1",cat=PN]	s'yd jlaly fr_____1	Default		%default	inv
 s'yd jlyly	100	PN	[pred="s'yd jlyly___Saeed Jalili__1",cat=PN]	s'yd jlyly___Saeed Jalili__1	Default		%default	inv
-s'yd kaáżmy aštyany	100	PN	[pred="s'yd kaáżmy aštyany_____1",cat=PN]	s'yd kaáżmy aštyany_____1	Default		%default	inv
+s'yd kaáẓmy aštyany	100	PN	[pred="s'yd kaáẓmy aštyany_____1",cat=PN]	s'yd kaáẓmy aštyany_____1	Default		%default	inv
 s'yd klanky	100	PN	[pred="s'yd klanky_____1",cat=PN]	s'yd klanky_____1	Default		%default	inv
 s'yd kngrany	100	PN	[pred="s'yd kngrany_____1",cat=PN]	s'yd kngrany_____1	Default		%default	inv
 s'yd lylaz	100	PN	[pred="s'yd lylaz_____1",cat=PN]	s'yd lylaz_____1	Default		%default	inv
 s'yd mdny	100	PN	[pred="s'yd mdny_____1",cat=PN]	s'yd mdny_____1	Default		%default	inv
 s'yd mtyn_pwr	100	PN	[pred="s'yd mtyn_pwr_____1",cat=PN]	s'yd mtyn_pwr_____1	Default		%default	inv
-s'yd mwłdy	100	PN	[pred="s'yd mwłdy_____1",cat=PN]	s'yd mwłdy_____1	Default		%default	inv
-s'yd młsn	100	PN	[pred="s'yd młsn_____1",cat=PN]	s'yd młsn_____1	Default		%default	inv
+s'yd mwħdy	100	PN	[pred="s'yd mwħdy_____1",cat=PN]	s'yd mwħdy_____1	Default		%default	inv
+s'yd mħsn	100	PN	[pred="s'yd mħsn_____1",cat=PN]	s'yd mħsn_____1	Default		%default	inv
 s'yd nfysy	100	PN	[pred="s'yd nfysy___Saeed Nafisi__1",cat=PN]	s'yd nfysy___Saeed Nafisi__1	Default		%default	inv
 s'yd pwrşmymy	100	PN	[pred="s'yd pwrşmymy___Saeed Poorsamimi__1",cat=PN]	s'yd pwrşmymy___Saeed Poorsamimi__1	Default		%default	inv
 s'yd pyrdwst	100	PN	[pred="s'yd pyrdwst_____1",cat=PN]	s'yd pyrdwst_____1	Default		%default	inv
@@ -5725,18 +5725,18 @@ s'yd rja´y xrasany	100	PN	[pred="s'yd rja´y xrasany_____1",cat=PN]	s'yd rja´y
 s'yd rźwy fŕye	100	PN	[pred="s'yd rźwy fŕye_____1",cat=PN]	s'yd rźwy fŕye_____1	Default		%default	inv
 s'yd sbzyan	100	PN	[pred="s'yd sbzyan_____1",cat=PN]	s'yd sbzyan_____1	Default		%default	inv
 s'yd slţan_pwr	100	PN	[pred="s'yd slţan_pwr_____1",cat=PN]	s'yd slţan_pwr_____1	Default		%default	inv
-s'yd tłwyldary	100	PN	[pred="s'yd tłwyldary_____1",cat=PN]	s'yd tłwyldary_____1	Default		%default	inv
+s'yd tħwyldary	100	PN	[pred="s'yd tħwyldary_____1",cat=PN]	s'yd tħwyldary_____1	Default		%default	inv
 s'yd zynaly	100	PN	[pred="s'yd zynaly_____1",cat=PN]	s'yd zynaly_____1	Default		%default	inv
-s'yd łbyby	100	PN	[pred="s'yd łbyby_____1",cat=PN]	s'yd łbyby_____1	Default		%default	inv
-s'yd łjaryan	100	PN	[pred="s'yd łjaryan___Saeed Hajjarian__1",cat=PN]	s'yd łjaryan___Saeed Hajjarian__1	Default		%default	inv
-s'yd łlafy	100	PN	[pred="s'yd łlafy___Saeed Hallafi__1",cat=PN]	s'yd łlafy___Saeed Hallafi__1	Default		%default	inv
-s'yd łnayy	100	PN	[pred="s'yd łnayy___Saeed Hanaei__1",cat=PN]	s'yd łnayy___Saeed Hanaei__1	Default		%default	inv
+s'yd ħbyby	100	PN	[pred="s'yd ħbyby_____1",cat=PN]	s'yd ħbyby_____1	Default		%default	inv
+s'yd ħjaryan	100	PN	[pred="s'yd ħjaryan___Saeed Hajjarian__1",cat=PN]	s'yd ħjaryan___Saeed Hajjarian__1	Default		%default	inv
+s'yd ħlafy	100	PN	[pred="s'yd ħlafy___Saeed Hallafi__1",cat=PN]	s'yd ħlafy___Saeed Hallafi__1	Default		%default	inv
+s'yd ħnayy	100	PN	[pred="s'yd ħnayy___Saeed Hanaei__1",cat=PN]	s'yd ħnayy___Saeed Hanaei__1	Default		%default	inv
 s'yd şadŕy	100	PN	[pred="s'yd şadŕy_____1",cat=PN]	s'yd şadŕy_____1	Default		%default	inv
 s'yd šerwz	100	PN	[pred="s'yd šerwz_____1",cat=PN]	s'yd šerwz_____1	Default		%default	inv
 s'yd šnbe_zade	100	PN	[pred="s'yd šnbe_zade_____1",cat=PN]	s'yd šnbe_zade_____1	Default		%default	inv
 s'yd šyrkwnd	100	PN	[pred="s'yd šyrkwnd_____1",cat=PN]	s'yd šyrkwnd_____1	Default		%default	inv
 s'yd šyx_zade	100	PN	[pred="s'yd šyx_zade_____1",cat=PN]	s'yd šyx_zade_____1	Default		%default	inv
-s'yd'ly łsyny	100	PN	[pred="s'yd'ly łsyny_____1",cat=PN]	s'yd'ly łsyny_____1	Default		%default	inv
+s'yd'ly ħsyny	100	PN	[pred="s'yd'ly ħsyny_____1",cat=PN]	s'yd'ly ħsyny_____1	Default		%default	inv
 s'yde ŕds	100	PN	[pred="s'yde ŕds_____1",cat=PN]	s'yde ŕds_____1	Default		%default	inv
 sabryna salrnw	100	PN	[pred="sabryna salrnw___Sabrina Salerno__1",cat=PN]	sabryna salrnw___Sabrina Salerno__1	Default		%default	inv
 safw	100	PN	[pred="safw___Sappho__1",cat=PN]	safw___Sappho__1	Default		%default	inv
@@ -5745,7 +5745,7 @@ salar 'ŕyly	100	PN	[pred="salar 'ŕyly_____1",cat=PN]	salar 'ŕyly_____1	Defaul
 salar ţemasby	100	PN	[pred="salar ţemasby_____1",cat=PN]	salar ţemasby_____1	Default		%default	inv
 salwadwr alnde	100	PN	[pred="salwadwr alnde___Salvador Allende__1",cat=PN]	salwadwr alnde___Salvador Allende__1	Default		%default	inv
 salwadwr daly	100	PN	[pred="salwadwr daly___Salvador Dalí__1",cat=PN]	salwadwr daly___Salvador Dalí__1	Default		%default	inv
-salwatwr âdamw	100	PN	[pred="salwatwr âdamw___Salvatore Adamo__1",cat=PN]	salwatwr âdamw___Salvatore Adamo__1	Default		%default	inv
+salwatwr ādamw	100	PN	[pred="salwatwr ādamw___Salvatore Adamo__1",cat=PN]	salwatwr ādamw___Salvatore Adamo__1	Default		%default	inv
 saly arna	100	PN	[pred="saly arna___Sully Erna__1",cat=PN]	saly arna___Sully Erna__1	Default		%default	inv
 saly eawkynz	100	PN	[pred="saly eawkynz___Sally Hawkins__1",cat=PN]	saly eawkynz___Sally Hawkins__1	Default		%default	inv
 sam drxšany	100	PN	[pred="sam drxšany_____1",cat=PN]	sam drxšany_____1	Default		%default	inv
@@ -5771,7 +5771,7 @@ samw´l mwrs	100	PN	[pred="samw´l mwrs___Samuel Morse__1",cat=PN]	samw´l mwrs_
 samw´l xačykyan	100	PN	[pred="samw´l xačykyan___Samuel Khachikian__1",cat=PN]	samw´l xačykyan___Samuel Khachikian__1	Default		%default	inv
 samy aljabr	100	PN	[pred="samy aljabr___Sami Al-Jaber__1",cat=PN]	samy aljabr___Sami Al-Jaber__1	Default		%default	inv
 samy naşry	100	PN	[pred="samy naşry___Samy Naceri__1",cat=PN]	samy naşry___Samy Naceri__1	Default		%default	inv
-samy tłşny	100	PN	[pred="samy tłşny_____1",cat=PN]	samy tłşny_____1	Default		%default	inv
+samy tħşny	100	PN	[pred="samy tħşny_____1",cat=PN]	samy tħşny_____1	Default		%default	inv
 sandra bwlk	100	PN	[pred="sandra bwlk___Sandra Bullock__1",cat=PN]	sandra bwlk___Sandra Bullock__1	Default		%default	inv
 sandra dy akanr	100	PN	[pred="sandra dy akanr_____1",cat=PN]	sandra dy akanr_____1	Default		%default	inv
 sandra krtw	100	PN	[pred="sandra krtw___Sandra (singer)__1",cat=PN]	sandra krtw___Sandra (singer)__1	Default		%default	inv
@@ -5796,8 +5796,8 @@ sara čng	100	PN	[pred="sara čng___Sarah Chang__1",cat=PN]	sara čng___Sarah Ch
 sara ŕdymwa	100	PN	[pred="sara ŕdymwa_____1",cat=PN]	sara ŕdymwa_____1	Default		%default	inv
 sara šaey	100	PN	[pred="sara šaey___Sarah Shahi__1",cat=PN]	sara šaey___Sarah Shahi__1	Default		%default	inv
 sarwean ewnl	100	PN	[pred="sarwean ewnl_____1",cat=PN]	sarwean ewnl_____1	Default		%default	inv
-saryt łdad	100	PN	[pred="saryt łdad___Sarit Hadad__1",cat=PN]	saryt łdad___Sarit Hadad__1	Default		%default	inv
-sasan młby	100	PN	[pred="sasan młby_____1",cat=PN]	sasan młby_____1	Default		%default	inv
+saryt ħdad	100	PN	[pred="saryt ħdad___Sarit Hadad__1",cat=PN]	saryt ħdad___Sarit Hadad__1	Default		%default	inv
+sasan mħby	100	PN	[pred="sasan mħby_____1",cat=PN]	sasan mħby_____1	Default		%default	inv
 sasan spnta	100	PN	[pred="sasan spnta_____1",cat=PN]	sasan spnta_____1	Default		%default	inv
 sasan walyzade	100	PN	[pred="sasan walyzade_____1",cat=PN]	sasan walyzade_____1	Default		%default	inv
 sasy mankn	100	PN	[pred="sasy mankn___Sasy Mankan__1",cat=PN]	sasy mankn___Sasy Mankan__1	Default		%default	inv
@@ -5819,7 +5819,7 @@ sbktkyn salwr	100	PN	[pred="sbktkyn salwr___Saboktakin Saloor__1",cat=PN]	sbktky
 send jaedy	100	PN	[pred="send jaedy_____1",cat=PN]	send jaedy_____1	Default		%default	inv
 serab bxtyary_zade	100	PN	[pred="serab bxtyary_zade___Sohrab Bakhtiarizadeh__1",cat=PN]	serab bxtyary_zade___Sohrab Bakhtiarizadeh__1	Default		%default	inv
 serab mxtary	100	PN	[pred="serab mxtary_____1",cat=PN]	serab mxtary_____1	Default		%default	inv
-serab pwrnażry	100	PN	[pred="serab pwrnażry_____1",cat=PN]	serab pwrnażry_____1	Default		%default	inv
+serab pwrnaẓry	100	PN	[pred="serab pwrnaẓry_____1",cat=PN]	serab pwrnaẓry_____1	Default		%default	inv
 serab samanyan	100	PN	[pred="serab samanyan_____1",cat=PN]	serab samanyan_____1	Default		%default	inv
 serab spery	100	PN	[pred="serab spery___Sohrab Sepehri__1",cat=PN]	serab spery___Sohrab Sepehri__1	Default		%default	inv
 serab šeyd çalç	100	PN	[pred="serab šeyd çalç___Sohrab Shahid-Saless__1",cat=PN]	serab šeyd çalç___Sohrab Shahid-Saless__1	Default		%default	inv
@@ -5829,7 +5829,7 @@ seyla bsky	100	PN	[pred="seyla bsky_____1",cat=PN]	seyla bsky_____1	Default		%de
 seyla jlwdarzade	100	PN	[pred="seyla jlwdarzade_____1",cat=PN]	seyla jlwdarzade_____1	Default		%default	inv
 sgwln rwyal	100	PN	[pred="sgwln rwyal___Ségolene Royal__1",cat=PN]	sgwln rwyal___Ségolene Royal__1	Default		%default	inv
 sjad mrady	100	PN	[pred="sjad mrady___Sajjad Moradi__1",cat=PN]	sjad mrady___Sajjad Moradi__1	Default		%default	inv
-sjad ŕayd_rłmty	100	PN	[pred="sjad ŕayd_rłmty_____1",cat=PN]	sjad ŕayd_rłmty_____1	Default		%default	inv
+sjad ŕayd_rħmty	100	PN	[pred="sjad ŕayd_rħmty_____1",cat=PN]	sjad ŕayd_rħmty_____1	Default		%default	inv
 skndr aman aley bearwnd	100	PN	[pred="skndr aman aley bearwnd_____1",cat=PN]	skndr aman aley bearwnd_____1	Default		%default	inv
 slma eayk	100	PN	[pred="slma eayk___Salma Hayek__1",cat=PN]	slma eayk___Salma Hayek__1	Default		%default	inv
 slma lagrlwf	100	PN	[pred="slma lagrlwf___Selma Lagerlöf__1",cat=PN]	slma lagrlwf___Selma Lagerlöf__1	Default		%default	inv
@@ -5842,7 +5842,7 @@ slna	100	PN	[pred="slna___Selena__1",cat=PN]	slna___Selena__1	Default		%default	
 slna gwmz	100	PN	[pred="slna gwmz___Selena Gomez__1",cat=PN]	slna gwmz___Selena Gomez__1	Default		%default	inv
 slyman abn gbyrwl	100	PN	[pred="slyman abn gbyrwl___Solomon ibn Gabirol__1",cat=PN]	slyman abn gbyrwl___Solomon ibn Gabirol__1	Default		%default	inv
 slyman waçŕy	100	PN	[pred="slyman waçŕy_____1",cat=PN]	slyman waçŕy_____1	Default		%default	inv
-slyman łyym	100	PN	[pred="slyman łyym___Solayman Haim__1",cat=PN]	slyman łyym___Solayman Haim__1	Default		%default	inv
+slyman ħyym	100	PN	[pred="slyman ħyym___Solayman Haim__1",cat=PN]	slyman ħyym___Solayman Haim__1	Default		%default	inv
 slyman_myrza askndry	100	PN	[pred="slyman_myrza askndry_____1",cat=PN]	slyman_myrza askndry_____1	Default		%default	inv
 slyn dywn	100	PN	[pred="slyn dywn___Celine Dion__1",cat=PN]	slyn dywn___Celine Dion__1	Default		%default	inv
 slţan bn slman bn 'bdal'zyz al s'wd	100	PN	[pred="slţan bn slman bn 'bdal'zyz al s'wd___Sultan bin Salman bin Abdulaziz Al Saud__1",cat=PN]	slţan bn slman bn 'bdal'zyz al s'wd___Sultan bin Salman bin Abdulaziz Al Saud__1	Default		%default	inv
@@ -5853,19 +5853,19 @@ sm mayrz	100	PN	[pred="sm mayrz___Sam Myers__1",cat=PN]	sm mayrz___Sam Myers__1	
 smnbw	100	PN	[pred="smnbw_____1",cat=PN]	smnbw_____1	Default		%default	inv
 smwry sjzy	100	PN	[pred="smwry sjzy_____1",cat=PN]	smwry sjzy_____1	Default		%default	inv
 smy eygar	100	PN	[pred="smy eygar___Sammy Hagar__1",cat=PN]	smy eygar___Sammy Hagar__1	Default		%default	inv
-smy' łamd	100	PN	[pred="smy' łamd_____1",cat=PN]	smy' łamd_____1	Default		%default	inv
-smye twłydlw	100	PN	[pred="smye twłydlw_____1",cat=PN]	smye twłydlw_____1	Default		%default	inv
+smy' ħamd	100	PN	[pred="smy' ħamd_____1",cat=PN]	smy' ħamd_____1	Default		%default	inv
+smye twħydlw	100	PN	[pred="smye twħydlw_____1",cat=PN]	smye twħydlw_____1	Default		%default	inv
 smyr amyn	100	PN	[pred="smyr amyn___Samir Amin__1",cat=PN]	smyr amyn___Samir Amin__1	Default		%default	inv
 smyr ŕşyr	100	PN	[pred="smyr ŕşyr___Samir Kassir__1",cat=PN]	smyr ŕşyr___Samir Kassir__1	Default		%default	inv
 smyra mxmlbaf	100	PN	[pred="smyra mxmlbaf___Samira Makhmalbaf__1",cat=PN]	smyra mxmlbaf___Samira Makhmalbaf__1	Default		%default	inv
 smyre s'yd	100	PN	[pred="smyre s'yd___Samira Said__1",cat=PN]	smyre s'yd___Samira Said__1	Default		%default	inv
-smył šntwrk	100	PN	[pred="smył šntwrk___Semih Şentürk__1",cat=PN]	smył šntwrk___Semih Şentürk__1	Default		%default	inv
+smyħ šntwrk	100	PN	[pred="smyħ šntwrk___Semih Şentürk__1",cat=PN]	smyħ šntwrk___Semih Şentürk__1	Default		%default	inv
 sn_žwn prs	100	PN	[pred="sn_žwn prs___Saint-John Perse__1",cat=PN]	sn_žwn prs___Saint-John Perse__1	Default		%default	inv
 sndra dy awkanr	100	PN	[pred="sndra dy awkanr___Sandra Day O'Connor__1",cat=PN]	sndra dy awkanr___Sandra Day O'Connor__1	Default		%default	inv
 sndy	100	PN	[pred="sndy_____1",cat=PN]	sndy_____1	Default		%default	inv
 sndy bar	100	PN	[pred="sndy bar___Sandy Bar__1",cat=PN]	sndy bar___Sandy Bar__1	Default		%default	inv
 sp mayr	100	PN	[pred="sp mayr___Sepp Maier__1",cat=PN]	sp mayr___Sepp Maier__1	Default		%default	inv
-sper łydry	100	PN	[pred="sper łydry___Sepehr Heidari__1",cat=PN]	sper łydry___Sepehr Heidari__1	Default		%default	inv
+sper ħydry	100	PN	[pred="sper ħydry___Sepehr Heidari__1",cat=PN]	sper ħydry___Sepehr Heidari__1	Default		%default	inv
 spery bxarayy	100	PN	[pred="spery bxarayy_____1",cat=PN]	spery bxarayy_____1	Default		%default	inv
 spnd amyrslymany	100	PN	[pred="spnd amyrslymany_____1",cat=PN]	spnd amyrslymany_____1	Default		%default	inv
 spnta smndryan	100	PN	[pred="spnta smndryan_____1",cat=PN]	spnta smndryan_____1	Default		%default	inv
@@ -5877,7 +5877,7 @@ spyde šamlw	100	PN	[pred="spyde šamlw___Sepideh Shamlou__1",cat=PN]	spyde šam
 sr wylyam rmzy	100	PN	[pred="sr wylyam rmzy___William Ramsay__1",cat=PN]	sr wylyam rmzy___William Ramsay__1	Default		%default	inv
 sraj_aldyn sgzy	100	PN	[pred="sraj_aldyn sgzy_____1",cat=PN]	sraj_aldyn sgzy_____1	Default		%default	inv
 srdar artač	100	PN	[pred="srdar artač___Serdar Ortaç__1",cat=PN]	srdar artač___Serdar Ortaç__1	Default		%default	inv
-srdar żfrbxtyary	100	PN	[pred="srdar żfrbxtyary_____1",cat=PN]	srdar żfrbxtyary_____1	Default		%default	inv
+srdar ẓfrbxtyary	100	PN	[pred="srdar ẓfrbxtyary_____1",cat=PN]	srdar ẓfrbxtyary_____1	Default		%default	inv
 srg´y ayznštayn	100	PN	[pred="srg´y ayznštayn___Sergei Eisenstein__1",cat=PN]	srg´y ayznštayn___Sergei Eisenstein__1	Default		%default	inv
 srg´y bryn	100	PN	[pred="srg´y bryn___Sergey Brin__1",cat=PN]	srg´y bryn___Sergey Brin__1	Default		%default	inv
 srg´y karalywf	100	PN	[pred="srg´y karalywf___Sergey Korolyov__1",cat=PN]	srg´y karalywf___Sergey Korolyov__1	Default		%default	inv
@@ -5893,12 +5893,12 @@ srna wylyamz	100	PN	[pred="srna wylyamz___Serena Williams__1",cat=PN]	srna wylya
 srprsy sayks	100	PN	[pred="srprsy sayks___Percy Sykes__1",cat=PN]	srprsy sayks___Percy Sykes__1	Default		%default	inv
 srw xanzadyan	100	PN	[pred="srw xanzadyan___Sero Khanzadyan__1",cat=PN]	srw xanzadyan___Sero Khanzadyan__1	Default		%default	inv
 srwr jparwf	100	PN	[pred="srwr jparwf___Server Djeparov__1",cat=PN]	srwr jparwf___Server Djeparov__1	Default		%default	inv
-srwr me_kame młşş laeyjany	100	PN	[pred="srwr me_kame młşş laeyjany_____1",cat=PN]	srwr me_kame młşş laeyjany_____1	Default		%default	inv
+srwr me_kame mħşş laeyjany	100	PN	[pred="srwr me_kame mħşş laeyjany_____1",cat=PN]	srwr me_kame mħşş laeyjany_____1	Default		%default	inv
 srwt čtyn	100	PN	[pred="srwt čtyn_____1",cat=PN]	srwt čtyn_____1	Default		%default	inv
 srwš ktybe	100	PN	[pred="srwš ktybe_____1",cat=PN]	srwš ktybe_____1	Default		%default	inv
 srwš lšgry	100	PN	[pred="srwš lšgry___Hichkas__1",cat=PN]	srwš lšgry___Hichkas__1	Default		%default	inv
 srwš xlyly	100	PN	[pred="srwš xlyly_____1",cat=PN]	srwš xlyly_____1	Default		%default	inv
-srwš şłt	100	PN	[pred="srwš şłt_____1",cat=PN]	srwš şłt_____1	Default		%default	inv
+srwš şħt	100	PN	[pred="srwš şħt_____1",cat=PN]	srwš şħt_____1	Default		%default	inv
 sryng čwngtak	100	PN	[pred="sryng čwngtak___Tsering Chungtak__1",cat=PN]	sryng čwngtak___Tsering Chungtak__1	Default		%default	inv
 srž prays	100	PN	[pred="srž prays_____1",cat=PN]	srž prays_____1	Default		%default	inv
 srž srkysyan	100	PN	[pred="srž srkysyan___Serzh Sargsyan__1",cat=PN]	srž srkysyan___Serzh Sargsyan__1	Default		%default	inv
@@ -5937,7 +5937,7 @@ swrn kyrkgard	100	PN	[pred="swrn kyrkgard___Soren Kierkegaard__1",cat=PN]	swrn k
 sws gayzl	100	PN	[pred="sws gayzl___Dr. Seuss__1",cat=PN]	sws gayzl___Dr. Seuss__1	Default		%default	inv
 swsn	100	PN	[pred="swsn___Susan (singer)__1",cat=PN]	swsn___Susan (singer)__1	Default		%default	inv
 swsn tslymy	100	PN	[pred="swsn tslymy___Susan Taslimi__1",cat=PN]	swsn tslymy___Susan Taslimi__1	Default		%default	inv
-swsn łkyma	100	PN	[pred="swsn łkyma_____1",cat=PN]	swsn łkyma_____1	Default		%default	inv
+swsn ħkyma	100	PN	[pred="swsn ħkyma_____1",cat=PN]	swsn ħkyma_____1	Default		%default	inv
 swtlana astalyn	100	PN	[pred="swtlana astalyn___Svetlana Alliluyeva__1",cat=PN]	swtlana astalyn___Svetlana Alliluyeva__1	Default		%default	inv
 swzan bwyl	100	PN	[pred="swzan bwyl___Susan Boyle__1",cat=PN]	swzan bwyl___Susan Boyle__1	Default		%default	inv
 swzan elmz	100	PN	[pred="swzan elmz___Susan J. Helms__1",cat=PN]	swzan elmz___Susan J. Helms__1	Default		%default	inv
@@ -5955,7 +5955,7 @@ sy_yra	100	PN	[pred="sy_yra___Ciara__1",cat=PN]	sy_yra___Ciara__1	Default		%defa
 syamantw	100	PN	[pred="syamantw___Siamanto__1",cat=PN]	syamantw___Siamanto__1	Default		%default	inv
 syamk anşary	100	PN	[pred="syamk anşary_____1",cat=PN]	syamk anşary_____1	Default		%default	inv
 syamk glšyry	100	PN	[pred="syamk glšyry_____1",cat=PN]	syamk glšyry_____1	Default		%default	inv
-syamk rłym_pwr	100	PN	[pred="syamk rłym_pwr_____1",cat=PN]	syamk rłym_pwr_____1	Default		%default	inv
+syamk rħym_pwr	100	PN	[pred="syamk rħym_pwr_____1",cat=PN]	syamk rħym_pwr_____1	Default		%default	inv
 syamk z'ym	100	PN	[pred="syamk z'ym_____1",cat=PN]	syamk z'ym_____1	Default		%default	inv
 syamk şfry	100	PN	[pred="syamk şfry_____1",cat=PN]	syamk şfry_____1	Default		%default	inv
 syamk šayŕy	100	PN	[pred="syamk šayŕy_____1",cat=PN]	syamk šayŕy_____1	Default		%default	inv
@@ -5963,98 +5963,98 @@ syawš akbrpwr	100	PN	[pred="syawš akbrpwr___Siavash Akbarpour__1",cat=PN]	syaw
 syawš dylmy rzm_xwae	100	PN	[pred="syawš dylmy rzm_xwae_____1",cat=PN]	syawš dylmy rzm_xwae_____1	Default		%default	inv
 syawš ksrayy	100	PN	[pred="syawš ksrayy___Siavash Kasraie__1",cat=PN]	syawš ksrayy___Siavash Kasraie__1	Default		%default	inv
 syawš temwrç	100	PN	[pred="syawš temwrç_____1",cat=PN]	syawš temwrç_____1	Default		%default	inv
-syawš xyrâby	100	PN	[pred="syawš xyrâby_____1",cat=PN]	syawš xyrâby_____1	Default		%default	inv
-syawš áżeyraldyny	100	PN	[pred="syawš áżeyraldyny_____1",cat=PN]	syawš áżeyraldyny_____1	Default		%default	inv
+syawš xyrāby	100	PN	[pred="syawš xyrāby_____1",cat=PN]	syawš xyrāby_____1	Default		%default	inv
+syawš áẓeyraldyny	100	PN	[pred="syawš áẓeyraldyny_____1",cat=PN]	syawš áẓeyraldyny_____1	Default		%default	inv
 syawš ŕmyšy	100	PN	[pred="syawš ŕmyšy___Siavash Ghomayshi__1",cat=PN]	syawš ŕmyšy___Siavash Ghomayshi__1	Default		%default	inv
 syawš šešeany	100	PN	[pred="syawš šešeany___Siavash Shahshahani__1",cat=PN]	syawš šešeany___Siavash Shahshahani__1	Default		%default	inv
 syd 'bas mwswy	100	PN	[pred="syd 'bas mwswy___Abbas al-Musawi__1",cat=PN]	syd 'bas mwswy___Abbas al-Musawi__1	Default		%default	inv
 syd 'bdalkrym eašmy nžad	100	PN	[pred="syd 'bdalkrym eašmy nžad_____1",cat=PN]	syd 'bdalkrym eašmy nžad_____1	Default		%default	inv
 syd 'bdalle šyrazy	100	PN	[pred="syd 'bdalle šyrazy___Abdullah Musawi Shirazi__1",cat=PN]	syd 'bdalle šyrazy___Abdullah Musawi Shirazi__1	Default		%default	inv
-syd 'bdalłsyn dstqyb	100	PN	[pred="syd 'bdalłsyn dstqyb___Abdul-Husayn Dastghaib__1",cat=PN]	syd 'bdalłsyn dstqyb___Abdul-Husayn Dastghaib__1	Default		%default	inv
-syd 'bdalłsyn mxtabad	100	PN	[pred="syd 'bdalłsyn mxtabad_____1",cat=PN]	syd 'bdalłsyn mxtabad_____1	Default		%default	inv
+syd 'bdalħsyn dstqyb	100	PN	[pred="syd 'bdalħsyn dstqyb___Abdul-Husayn Dastghaib__1",cat=PN]	syd 'bdalħsyn dstqyb___Abdul-Husayn Dastghaib__1	Default		%default	inv
+syd 'bdalħsyn mxtabad	100	PN	[pred="syd 'bdalħsyn mxtabad_____1",cat=PN]	syd 'bdalħsyn mxtabad_____1	Default		%default	inv
 syd 'ly systany	100	PN	[pred="syd 'ly systany___Ali al-Sistani__1",cat=PN]	syd 'ly systany___Ali al-Sistani__1	Default		%default	inv
 syd 'ly xamne_ay	100	PN	[pred="syd 'ly xamne_ay___Ali Khamenei__1",cat=PN]	syd 'ly xamne_ay___Ali Khamenei__1	Default		%default	inv
-syd 'ly şalły	100	PN	[pred="syd 'ly şalły_____1",cat=PN]	syd 'ly şalły_____1	Default		%default	inv
-syd abwalłsn šms_abady	100	PN	[pred="syd abwalłsn šms_abady_____1",cat=PN]	syd abwalłsn šms_abady_____1	Default		%default	inv
+syd 'ly şalħy	100	PN	[pred="syd 'ly şalħy_____1",cat=PN]	syd 'ly şalħy_____1	Default		%default	inv
+syd abwalħsn šms_abady	100	PN	[pred="syd abwalħsn šms_abady_____1",cat=PN]	syd abwalħsn šms_abady_____1	Default		%default	inv
 syd abwalŕasm kašany	100	PN	[pred="syd abwalŕasm kašany___Abol-Ghasem Kashani__1",cat=PN]	syd abwalŕasm kašany___Abol-Ghasem Kashani__1	Default		%default	inv
 syd abwalŕasm nbaty	100	PN	[pred="syd abwalŕasm nbaty_____1",cat=PN]	syd abwalŕasm nbaty_____1	Default		%default	inv
-syd ałmd 'lm_aledy	100	PN	[pred="syd ałmd 'lm_aledy_____1",cat=PN]	syd ałmd 'lm_aledy_____1	Default		%default	inv
-syd ałmd syadty	100	PN	[pred="syd ałmd syadty_____1",cat=PN]	syd ałmd syadty_____1	Default		%default	inv
+syd aħmd 'lm_aledy	100	PN	[pred="syd aħmd 'lm_aledy_____1",cat=PN]	syd aħmd 'lm_aledy_____1	Default		%default	inv
+syd aħmd syadty	100	PN	[pred="syd aħmd syadty_____1",cat=PN]	syd aħmd syadty_____1	Default		%default	inv
 syd ašrf_aldyn gylany	100	PN	[pred="syd ašrf_aldyn gylany_____1",cat=PN]	syd ašrf_aldyn gylany_____1	Default		%default	inv
 syd brt	100	PN	[pred="syd brt___Syd Barrett__1",cat=PN]	syd brt___Syd Barrett__1	Default		%default	inv
 syd eady myrmyran	100	PN	[pred="syd eady myrmyran___Hadi Mirmiran__1",cat=PN]	syd eady myrmyran___Hadi Mirmiran__1	Default		%default	inv
 syd j'fr pyše_wry	100	PN	[pred="syd j'fr pyše_wry___Ja'far Pishevari__1",cat=PN]	syd j'fr pyše_wry___Ja'far Pishevari__1	Default		%default	inv
 syd j'fr šeydy	100	PN	[pred="syd j'fr šeydy___Jafar Shahidi__1",cat=PN]	syd j'fr šeydy___Jafar Shahidi__1	Default		%default	inv
-syd jlal łsyny	100	PN	[pred="syd jlal łsyny___Jalal Hosseini__1",cat=PN]	syd jlal łsyny___Jalal Hosseini__1	Default		%default	inv
+syd jlal ħsyny	100	PN	[pred="syd jlal ħsyny___Jalal Hosseini__1",cat=PN]	syd jlal ħsyny___Jalal Hosseini__1	Default		%default	inv
 syd jmal_aldyn asdabady	100	PN	[pred="syd jmal_aldyn asdabady___Jamal-al-Din Afghani__1",cat=PN]	syd jmal_aldyn asdabady___Jamal-al-Din Afghani__1	Default		%default	inv
 syd kmal_aldyn yadawr nykrwš	100	PN	[pred="syd kmal_aldyn yadawr nykrwš_____1",cat=PN]	syd kmal_aldyn yadawr nykrwš_____1	Default		%default	inv
 syd krym amyry fyrwzkwey	100	PN	[pred="syd krym amyry fyrwzkwey_____1",cat=PN]	syd krym amyry fyrwzkwey_____1	Default		%default	inv
 syd medy eašmy	100	PN	[pred="syd medy eašmy___Mehdi Hashemi__1",cat=PN]	syd medy eašmy___Mehdi Hashemi__1	Default		%default	inv
 syd medy mwswy	100	PN	[pred="syd medy mwswy_____1",cat=PN]	syd medy mwswy_____1	Default		%default	inv
-syd medy sydşalły	100	PN	[pred="syd medy sydşalły___Mehdi Seyed Salehi__1",cat=PN]	syd medy sydşalły___Mehdi Seyed Salehi__1	Default		%default	inv
-syd medy łsyny	100	PN	[pred="syd medy łsyny___Mehdi Hosseini__1",cat=PN]	syd medy łsyny___Mehdi Hosseini__1	Default		%default	inv
+syd medy sydşalħy	100	PN	[pred="syd medy sydşalħy___Mehdi Seyed Salehi__1",cat=PN]	syd medy sydşalħy___Mehdi Seyed Salehi__1	Default		%default	inv
+syd medy ħsyny	100	PN	[pred="syd medy ħsyny___Mehdi Hosseini__1",cat=PN]	syd medy ħsyny___Mehdi Hosseini__1	Default		%default	inv
 syd medy šja'y	100	PN	[pred="syd medy šja'y_____1",cat=PN]	syd medy šja'y_____1	Default		%default	inv
 syd medy ţbaţbayy	100	PN	[pred="syd medy ţbaţbayy_____1",cat=PN]	syd medy ţbaţbayy_____1	Default		%default	inv
 syd mjtby nwab şfwy	100	PN	[pred="syd mjtby nwab şfwy___Navvab Safavi__1",cat=PN]	syd mjtby nwab şfwy___Navvab Safavi__1	Default		%default	inv
 syd mjyd yadawr nyk_rwš	100	PN	[pred="syd mjyd yadawr nyk_rwš_____1",cat=PN]	syd mjyd yadawr nyk_rwš_____1	Default		%default	inv
 syd mrtźy jzayry	100	PN	[pred="syd mrtźy jzayry_____1",cat=PN]	syd mrtźy jzayry_____1	Default		%default	inv
 syd mrtźy njwmy	100	PN	[pred="syd mrtźy njwmy_____1",cat=PN]	syd mrtźy njwmy_____1	Default		%default	inv
-syd mrtźy rwłany	100	PN	[pred="syd mrtźy rwłany_____1",cat=PN]	syd mrtźy rwłany_____1	Default		%default	inv
+syd mrtźy rwħany	100	PN	[pred="syd mrtźy rwħany_____1",cat=PN]	syd mrtźy rwħany_____1	Default		%default	inv
 syd mxdwm reyn	100	PN	[pred="syd mxdwm reyn___Sayed Makhdoom Raheen__1",cat=PN]	syd mxdwm reyn___Sayed Makhdoom Raheen__1	Default		%default	inv
-syd młmd bebeany	100	PN	[pred="syd młmd bebeany_____1",cat=PN]	syd młmd bebeany_____1	Default		%default	inv
-syd młmd bešty	100	PN	[pred="syd młmd bešty___Mohammad Beheshti__1",cat=PN]	syd młmd bešty___Mohammad Beheshti__1	Default		%default	inv
-syd młmd njfy	100	PN	[pred="syd młmd njfy_____1",cat=PN]	syd młmd njfy_____1	Default		%default	inv
-syd młmd xamne_ay	100	PN	[pred="syd młmd xamne_ay_____1",cat=PN]	syd młmd xamne_ay_____1	Default		%default	inv
-syd młmd'ly jawyd	100	PN	[pred="syd młmd'ly jawyd___Said Mohammad Ali Jawid__1",cat=PN]	syd młmd'ly jawyd___Said Mohammad Ali Jawid__1	Default		%default	inv
-syd młmd'ly ŕaźy ţbaţbayy	100	PN	[pred="syd młmd'ly ŕaźy ţbaţbayy_____1",cat=PN]	syd młmd'ly ŕaźy ţbaţbayy_____1	Default		%default	inv
-syd młmdbaŕr łkym	100	PN	[pred="syd młmdbaŕr łkym___Mohammed Baqir al-Hakim__1",cat=PN]	syd młmdbaŕr łkym___Mohammed Baqir al-Hakim__1	Default		%default	inv
-syd młmdkaáżm ţbaţbayy yzdy	100	PN	[pred="syd młmdkaáżm ţbaţbayy yzdy_____1",cat=PN]	syd młmdkaáżm ţbaţbayy yzdy_____1	Default		%default	inv
-syd młmdkażm mwswy bjnwrdy	100	PN	[pred="syd młmdkażm mwswy bjnwrdy___Kazem Mousavi-Bojnourdi__1",cat=PN]	syd młmdkażm mwswy bjnwrdy___Kazem Mousavi-Bojnourdi__1	Default		%default	inv
-syd młmdrźa msawat	100	PN	[pred="syd młmdrźa msawat_____1",cat=PN]	syd młmdrźa msawat_____1	Default		%default	inv
-syd młmdrźa s'ydy	100	PN	[pred="syd młmdrźa s'ydy_____1",cat=PN]	syd młmdrźa s'ydy_____1	Default		%default	inv
-syd młmdłsyn ţbaţbayy	100	PN	[pred="syd młmdłsyn ţbaţbayy___Muhammad Husayn Tabatabaei__1",cat=PN]	syd młmdłsyn ţbaţbayy___Muhammad Husayn Tabatabaei__1	Default		%default	inv
-syd młmwd 'layy ţalŕany	100	PN	[pred="syd młmwd 'layy ţalŕany___Mahmoud Taleghani__1",cat=PN]	syd młmwd 'layy ţalŕany___Mahmoud Taleghani__1	Default		%default	inv
-syd młmwd d'ayy	100	PN	[pred="syd młmwd d'ayy_____1",cat=PN]	syd młmwd d'ayy_____1	Default		%default	inv
-syd młmwd eašmy šaerwdy	100	PN	[pred="syd młmwd eašmy šaerwdy___Mahmoud Hashemi Shahroudi__1",cat=PN]	syd młmwd eašmy šaerwdy___Mahmoud Hashemi Shahroudi__1	Default		%default	inv
-syd młmwd łsyny_zad	100	PN	[pred="syd młmwd łsyny_zad_____1",cat=PN]	syd młmwd łsyny_zad_____1	Default		%default	inv
-syd młsn amyn	100	PN	[pred="syd młsn amyn_____1",cat=PN]	syd młsn amyn_____1	Default		%default	inv
-syd mşţfy każmy	100	PN	[pred="syd mşţfy każmy___Sayed Mustafa Kazemi__1",cat=PN]	syd mşţfy każmy___Sayed Mustafa Kazemi__1	Default		%default	inv
+syd mħmd bebeany	100	PN	[pred="syd mħmd bebeany_____1",cat=PN]	syd mħmd bebeany_____1	Default		%default	inv
+syd mħmd bešty	100	PN	[pred="syd mħmd bešty___Mohammad Beheshti__1",cat=PN]	syd mħmd bešty___Mohammad Beheshti__1	Default		%default	inv
+syd mħmd njfy	100	PN	[pred="syd mħmd njfy_____1",cat=PN]	syd mħmd njfy_____1	Default		%default	inv
+syd mħmd xamne_ay	100	PN	[pred="syd mħmd xamne_ay_____1",cat=PN]	syd mħmd xamne_ay_____1	Default		%default	inv
+syd mħmd'ly jawyd	100	PN	[pred="syd mħmd'ly jawyd___Said Mohammad Ali Jawid__1",cat=PN]	syd mħmd'ly jawyd___Said Mohammad Ali Jawid__1	Default		%default	inv
+syd mħmd'ly ŕaźy ţbaţbayy	100	PN	[pred="syd mħmd'ly ŕaźy ţbaţbayy_____1",cat=PN]	syd mħmd'ly ŕaźy ţbaţbayy_____1	Default		%default	inv
+syd mħmdbaŕr ħkym	100	PN	[pred="syd mħmdbaŕr ħkym___Mohammed Baqir al-Hakim__1",cat=PN]	syd mħmdbaŕr ħkym___Mohammed Baqir al-Hakim__1	Default		%default	inv
+syd mħmdkaáẓm ţbaţbayy yzdy	100	PN	[pred="syd mħmdkaáẓm ţbaţbayy yzdy_____1",cat=PN]	syd mħmdkaáẓm ţbaţbayy yzdy_____1	Default		%default	inv
+syd mħmdkaẓm mwswy bjnwrdy	100	PN	[pred="syd mħmdkaẓm mwswy bjnwrdy___Kazem Mousavi-Bojnourdi__1",cat=PN]	syd mħmdkaẓm mwswy bjnwrdy___Kazem Mousavi-Bojnourdi__1	Default		%default	inv
+syd mħmdrźa msawat	100	PN	[pred="syd mħmdrźa msawat_____1",cat=PN]	syd mħmdrźa msawat_____1	Default		%default	inv
+syd mħmdrźa s'ydy	100	PN	[pred="syd mħmdrźa s'ydy_____1",cat=PN]	syd mħmdrźa s'ydy_____1	Default		%default	inv
+syd mħmdħsyn ţbaţbayy	100	PN	[pred="syd mħmdħsyn ţbaţbayy___Muhammad Husayn Tabatabaei__1",cat=PN]	syd mħmdħsyn ţbaţbayy___Muhammad Husayn Tabatabaei__1	Default		%default	inv
+syd mħmwd 'layy ţalŕany	100	PN	[pred="syd mħmwd 'layy ţalŕany___Mahmoud Taleghani__1",cat=PN]	syd mħmwd 'layy ţalŕany___Mahmoud Taleghani__1	Default		%default	inv
+syd mħmwd d'ayy	100	PN	[pred="syd mħmwd d'ayy_____1",cat=PN]	syd mħmwd d'ayy_____1	Default		%default	inv
+syd mħmwd eašmy šaerwdy	100	PN	[pred="syd mħmwd eašmy šaerwdy___Mahmoud Hashemi Shahroudi__1",cat=PN]	syd mħmwd eašmy šaerwdy___Mahmoud Hashemi Shahroudi__1	Default		%default	inv
+syd mħmwd ħsyny_zad	100	PN	[pred="syd mħmwd ħsyny_zad_____1",cat=PN]	syd mħmwd ħsyny_zad_____1	Default		%default	inv
+syd mħsn amyn	100	PN	[pred="syd mħsn amyn_____1",cat=PN]	syd mħsn amyn_____1	Default		%default	inv
+syd mşţfy kaẓmy	100	PN	[pred="syd mşţfy kaẓmy___Sayed Mustafa Kazemi__1",cat=PN]	syd mşţfy kaẓmy___Sayed Mustafa Kazemi__1	Default		%default	inv
 syd mşţfy myrslym	100	PN	[pred="syd mşţfy myrslym_____1",cat=PN]	syd mşţfy myrslym_____1	Default		%default	inv
-syd mşţfy młŕŕ damad	100	PN	[pred="syd mşţfy młŕŕ damad_____1",cat=PN]	syd mşţfy młŕŕ damad_____1	Default		%default	inv
-syd prwyz ftał	100	PN	[pred="syd prwyz ftał___Parviz Fattah__1",cat=PN]	syd prwyz ftał___Parviz Fattah__1	Default		%default	inv
-syd rwł_alle eašmy	100	PN	[pred="syd rwł_alle eašmy_____1",cat=PN]	syd rwł_alle eašmy_____1	Default		%default	inv
-syd rwł_alle xatmy	100	PN	[pred="syd rwł_alle xatmy___Ruhollah Khatami__1",cat=PN]	syd rwł_alle xatmy___Ruhollah Khatami__1	Default		%default	inv
+syd mşţfy mħŕŕ damad	100	PN	[pred="syd mşţfy mħŕŕ damad_____1",cat=PN]	syd mşţfy mħŕŕ damad_____1	Default		%default	inv
+syd prwyz ftaħ	100	PN	[pred="syd prwyz ftaħ___Parviz Fattah__1",cat=PN]	syd prwyz ftaħ___Parviz Fattah__1	Default		%default	inv
+syd rwħ_alle eašmy	100	PN	[pred="syd rwħ_alle eašmy_____1",cat=PN]	syd rwħ_alle eašmy_____1	Default		%default	inv
+syd rwħ_alle xatmy	100	PN	[pred="syd rwħ_alle xatmy___Ruhollah Khatami__1",cat=PN]	syd rwħ_alle xatmy___Ruhollah Khatami__1	Default		%default	inv
 syd rźa akrmy	100	PN	[pred="syd rźa akrmy_____1",cat=PN]	syd rźa akrmy_____1	Default		%default	inv
 syd rźa prdys	100	PN	[pred="syd rźa prdys_____1",cat=PN]	syd rźa prdys_____1	Default		%default	inv
 syd rźa znjany	100	PN	[pred="syd rźa znjany___Reza Zanjani__1",cat=PN]	syd rźa znjany___Reza Zanjani__1	Default		%default	inv
 syd wyšs	100	PN	[pred="syd wyšs___Sid Vicious__1",cat=PN]	syd wyšs___Sid Vicious__1	Default		%default	inv
-syd łsn mdrs	100	PN	[pred="syd łsn mdrs___Hassan Modarres__1",cat=PN]	syd łsn mdrs___Hassan Modarres__1	Default		%default	inv
-syd łsn mrtźwy lngrwdy	100	PN	[pred="syd łsn mrtźwy lngrwdy_____1",cat=PN]	syd łsn mrtźwy lngrwdy_____1	Default		%default	inv
-syd łsn xmyny	100	PN	[pred="syd łsn xmyny___Hassan Khomeini__1",cat=PN]	syd łsn xmyny___Hassan Khomeini__1	Default		%default	inv
-syd łsyn mdrsy ţbaţbayy	100	PN	[pred="syd łsyn mdrsy ţbaţbayy___Hossein Modarressi__1",cat=PN]	syd łsyn mdrsy ţbaţbayy___Hossein Modarressi__1	Default		%default	inv
-syd łsyn mwswy tbryzy	100	PN	[pred="syd łsyn mwswy tbryzy_____1",cat=PN]	syd łsyn mwswy tbryzy_____1	Default		%default	inv
-syd łsyn mwswyan	100	PN	[pred="syd łsyn mwswyan___Hossein Mousavian__1",cat=PN]	syd łsyn mwswyan___Hossein Mousavian__1	Default		%default	inv
-syd łsyn myršmsy	100	PN	[pred="syd łsyn myršmsy_____1",cat=PN]	syd łsyn myršmsy_____1	Default		%default	inv
-syd łsyn nşr	100	PN	[pred="syd łsyn nşr___Hossein Nasr__1",cat=PN]	syd łsyn nşr___Hossein Nasr__1	Default		%default	inv
-syd şfdr łsyny	100	PN	[pred="syd şfdr łsyny_____1",cat=PN]	syd şfdr łsyny_____1	Default		%default	inv
+syd ħsn mdrs	100	PN	[pred="syd ħsn mdrs___Hassan Modarres__1",cat=PN]	syd ħsn mdrs___Hassan Modarres__1	Default		%default	inv
+syd ħsn mrtźwy lngrwdy	100	PN	[pred="syd ħsn mrtźwy lngrwdy_____1",cat=PN]	syd ħsn mrtźwy lngrwdy_____1	Default		%default	inv
+syd ħsn xmyny	100	PN	[pred="syd ħsn xmyny___Hassan Khomeini__1",cat=PN]	syd ħsn xmyny___Hassan Khomeini__1	Default		%default	inv
+syd ħsyn mdrsy ţbaţbayy	100	PN	[pred="syd ħsyn mdrsy ţbaţbayy___Hossein Modarressi__1",cat=PN]	syd ħsyn mdrsy ţbaţbayy___Hossein Modarressi__1	Default		%default	inv
+syd ħsyn mwswy tbryzy	100	PN	[pred="syd ħsyn mwswy tbryzy_____1",cat=PN]	syd ħsyn mwswy tbryzy_____1	Default		%default	inv
+syd ħsyn mwswyan	100	PN	[pred="syd ħsyn mwswyan___Hossein Mousavian__1",cat=PN]	syd ħsyn mwswyan___Hossein Mousavian__1	Default		%default	inv
+syd ħsyn myršmsy	100	PN	[pred="syd ħsyn myršmsy_____1",cat=PN]	syd ħsyn myršmsy_____1	Default		%default	inv
+syd ħsyn nşr	100	PN	[pred="syd ħsyn nşr___Hossein Nasr__1",cat=PN]	syd ħsyn nşr___Hossein Nasr__1	Default		%default	inv
+syd şfdr ħsyny	100	PN	[pred="syd şfdr ħsyny_____1",cat=PN]	syd şfdr ħsyny_____1	Default		%default	inv
 syd_ mrtźy awyny	100	PN	[pred="syd_ mrtźy awyny___Morteza Avini__1",cat=PN]	syd_ mrtźy awyny___Morteza Avini__1	Default		%default	inv
-sydabwalłsn aşfeany	100	PN	[pred="sydabwalłsn aşfeany_____1",cat=PN]	sydabwalłsn aşfeany_____1	Default		%default	inv
+sydabwalħsn aşfeany	100	PN	[pred="sydabwalħsn aşfeany_____1",cat=PN]	sydabwalħsn aşfeany_____1	Default		%default	inv
 syde mlk xatwn	100	PN	[pred="syde mlk xatwn___Seyyedeh Khatun__1",cat=PN]	syde mlk xatwn___Seyyedeh Khatun__1	Default		%default	inv
-syde zera łsyny	100	PN	[pred="syde zera łsyny_____1",cat=PN]	syde zera łsyny_____1	Default		%default	inv
+syde zera ħsyny	100	PN	[pred="syde zera ħsyny_____1",cat=PN]	syde zera ħsyny_____1	Default		%default	inv
 sydjlal_aldyn kašany	100	PN	[pred="sydjlal_aldyn kašany_____1",cat=PN]	sydjlal_aldyn kašany_____1	Default		%default	inv
 sydjwad eašmy	100	PN	[pred="sydjwad eašmy_____1",cat=PN]	sydjwad eašmy_____1	Default		%default	inv
-sydmedy rłmty	100	PN	[pred="sydmedy rłmty___Mehdi Rahmati__1",cat=PN]	sydmedy rłmty___Mehdi Rahmati__1	Default		%default	inv
+sydmedy rħmty	100	PN	[pred="sydmedy rħmty___Mehdi Rahmati__1",cat=PN]	sydmedy rħmty___Mehdi Rahmati__1	Default		%default	inv
 sydmrtźy psndyde	100	PN	[pred="sydmrtźy psndyde_____1",cat=PN]	sydmrtźy psndyde_____1	Default		%default	inv
 sydny bšt	100	PN	[pred="sydny bšt___Sidney Bechet__1",cat=PN]	sydny bšt___Sidney Bechet__1	Default		%default	inv
 sydny lnyr	100	PN	[pred="sydny lnyr___Sidney Lanier__1",cat=PN]	sydny lnyr___Sidney Lanier__1	Default		%default	inv
 sydny pwatye	100	PN	[pred="sydny pwatye___Sidney Poitier__1",cat=PN]	sydny pwatye___Sidney Poitier__1	Default		%default	inv
 sydny pwlak	100	PN	[pred="sydny pwlak___Sydney Pollack__1",cat=PN]	sydny pwlak___Sydney Pollack__1	Default		%default	inv
 sydny šldwn	100	PN	[pred="sydny šldwn___Sidney Sheldon__1",cat=PN]	sydny šldwn___Sidney Sheldon__1	Default		%default	inv
-sydnżam_aldyn dlfany	100	PN	[pred="sydnżam_aldyn dlfany_____1",cat=PN]	sydnżam_aldyn dlfany_____1	Default		%default	inv
-sydrźa łsyny_nsb	100	PN	[pred="sydrźa łsyny_nsb___Reza Hosseini Nassab__1",cat=PN]	sydrźa łsyny_nsb___Reza Hosseini Nassab__1	Default		%default	inv
+sydnẓam_aldyn dlfany	100	PN	[pred="sydnẓam_aldyn dlfany_____1",cat=PN]	sydnẓam_aldyn dlfany_____1	Default		%default	inv
+sydrźa ħsyny_nsb	100	PN	[pred="sydrźa ħsyny_nsb___Reza Hosseini Nassab__1",cat=PN]	sydrźa ħsyny_nsb___Reza Hosseini Nassab__1	Default		%default	inv
 sydw kyta	100	PN	[pred="sydw kyta___Seydou Keita (footballer)__1",cat=PN]	sydw kyta___Seydou Keita (footballer)__1	Default		%default	inv
-sydłsn myrxany	100	PN	[pred="sydłsn myrxany_____1",cat=PN]	sydłsn myrxany_____1	Default		%default	inv
-sydłsn łsyny	100	PN	[pred="sydłsn łsyny_____1",cat=PN]	sydłsn łsyny_____1	Default		%default	inv
+sydħsn myrxany	100	PN	[pred="sydħsn myrxany_____1",cat=PN]	sydħsn myrxany_____1	Default		%default	inv
+sydħsn ħsyny	100	PN	[pred="sydħsn ħsyny_____1",cat=PN]	sydħsn ħsyny_____1	Default		%default	inv
 sydźya°aldyn šadman	100	PN	[pred="sydźya°aldyn šadman_____1",cat=PN]	sydźya°aldyn šadman_____1	Default		%default	inv
 sydźya°aldyn ţbaţba´y	100	PN	[pred="sydźya°aldyn ţbaţba´y___Seyyed Zia'eddin Tabatabaee__1",cat=PN]	sydźya°aldyn ţbaţba´y___Seyyed Zia'eddin Tabatabaee__1	Default		%default	inv
 sye_na tygy gylry	100	PN	[pred="sye_na tygy gylry___Sienna Guillory__1",cat=PN]	sye_na tygy gylry___Sienna Guillory__1	Default		%default	inv
@@ -6089,7 +6089,7 @@ syndy šrmn	100	PN	[pred="syndy šrmn___Cindy Sherman__1",cat=PN]	syndy šrmn___
 syrwan xsrwy	100	PN	[pred="syrwan xsrwy_____1",cat=PN]	syrwan xsrwy_____1	Default		%default	inv
 syrws abraeym_zade	100	PN	[pred="syrws abraeym_zade_____1",cat=PN]	syrws abraeym_zade_____1	Default		%default	inv
 syrws alwnd	100	PN	[pred="syrws alwnd_____1",cat=PN]	syrws alwnd_____1	Default		%default	inv
-syrws dyn_młmdy	100	PN	[pred="syrws dyn_młmdy___Sirous Dinmohammadi__1",cat=PN]	syrws dyn_młmdy___Sirous Dinmohammadi__1	Default		%default	inv
+syrws dyn_mħmdy	100	PN	[pred="syrws dyn_mħmdy___Sirous Dinmohammadi__1",cat=PN]	syrws dyn_mħmdy___Sirous Dinmohammadi__1	Default		%default	inv
 syrws grjstany	100	PN	[pred="syrws grjstany_____1",cat=PN]	syrws grjstany_____1	Default		%default	inv
 syrws mŕdm	100	PN	[pred="syrws mŕdm_____1",cat=PN]	syrws mŕdm_____1	Default		%default	inv
 syrws sngčwly	100	PN	[pred="syrws sngčwly_____1",cat=PN]	syrws sngčwly_____1	Default		%default	inv
@@ -6103,12 +6103,12 @@ szar frank	100	PN	[pred="szar frank___César Franck__1",cat=PN]	szar frank___Cé
 szar kw´y	100	PN	[pred="szar kw´y___César Cui__1",cat=PN]	szar kw´y___César Cui__1	Default		%default	inv
 szar ply	100	PN	[pred="szar ply___César Pelli__1",cat=PN]	szar ply___César Pelli__1	Default		%default	inv
 szn aksw	100	PN	[pred="szn aksw___Sezen Aksu__1",cat=PN]	szn aksw___Sezen Aksu__1	Default		%default	inv
-słab aşfeany	100	PN	[pred="słab aşfeany_____1",cat=PN]	słab aşfeany_____1	Default		%default	inv
-słr by_nyaz	100	PN	[pred="słr by_nyaz___Sahar Biniaz__1",cat=PN]	słr by_nyaz___Sahar Biniaz__1	Default		%default	inv
-słr deŕan	100	PN	[pred="słr deŕan_____1",cat=PN]	słr deŕan_____1	Default		%default	inv
-słr dwltšaey	100	PN	[pred="słr dwltšaey_____1",cat=PN]	słr dwltšaey_____1	Default		%default	inv
-słr j'fry jwzany	100	PN	[pred="słr j'fry jwzany_____1",cat=PN]	słr j'fry jwzany_____1	Default		%default	inv
-słr wldbygy	100	PN	[pred="słr wldbygy_____1",cat=PN]	słr wldbygy_____1	Default		%default	inv
+sħab aşfeany	100	PN	[pred="sħab aşfeany_____1",cat=PN]	sħab aşfeany_____1	Default		%default	inv
+sħr by_nyaz	100	PN	[pred="sħr by_nyaz___Sahar Biniaz__1",cat=PN]	sħr by_nyaz___Sahar Biniaz__1	Default		%default	inv
+sħr deŕan	100	PN	[pred="sħr deŕan_____1",cat=PN]	sħr deŕan_____1	Default		%default	inv
+sħr dwltšaey	100	PN	[pred="sħr dwltšaey_____1",cat=PN]	sħr dwltšaey_____1	Default		%default	inv
+sħr j'fry jwzany	100	PN	[pred="sħr j'fry jwzany_____1",cat=PN]	sħr j'fry jwzany_____1	Default		%default	inv
+sħr wldbygy	100	PN	[pred="sħr wldbygy_____1",cat=PN]	sħr wldbygy_____1	Default		%default	inv
 sŕraţ	100	PN	[pred="sŕraţ___Socrates__1",cat=PN]	sŕraţ___Socrates__1	Default		%default	inv
 tad eynz	100	PN	[pred="tad eynz___Todd Haynes__1",cat=PN]	tad eynz___Todd Haynes__1	Default		%default	inv
 tad swlwndz	100	PN	[pred="tad swlwndz___Todd Solondz__1",cat=PN]	tad swlwndz___Todd Solondz__1	Default		%default	inv
@@ -6138,7 +6138,7 @@ tam pty	100	PN	[pred="tam pty___Tom Petty__1",cat=PN]	tam pty___Tom Petty__1	Def
 tam tykwr	100	PN	[pred="tam tykwr___Tom Tykwer__1",cat=PN]	tam tykwr___Tom Tykwer__1	Default		%default	inv
 tam wyts	100	PN	[pred="tam wyts___Tom Waits__1",cat=PN]	tam wyts___Tom Waits__1	Default		%default	inv
 tam ywrk	100	PN	[pred="tam ywrk___Thom Yorke__1",cat=PN]	tam ywrk___Thom Yorke__1	Default		%default	inv
-tam âraya	100	PN	[pred="tam âraya___Tom Araya__1",cat=PN]	tam âraya___Tom Araya__1	Default		%default	inv
+tam āraya	100	PN	[pred="tam āraya___Tom Araya__1",cat=PN]	tam āraya___Tom Araya__1	Default		%default	inv
 tamara jrnygan	100	PN	[pred="tamara jrnygan___Tamara E. Jernigan__1",cat=PN]	tamara jrnygan___Tamara E. Jernigan__1	Default		%default	inv
 tams barw	100	PN	[pred="tams barw___Thomas Burrow__1",cat=PN]	tams barw___Thomas Burrow__1	Default		%default	inv
 tams bbyngtn mkwly	100	PN	[pred="tams bbyngtn mkwly___Thomas Babington Macaulay, 1st Baron Macaulay__1",cat=PN]	tams bbyngtn mkwly___Thomas Babington Macaulay, 1st Baron Macaulay__1	Default		%default	inv
@@ -6155,7 +6155,7 @@ taryx_ngaran m'aşr afqanstan	100	PN	[pred="taryx_ngaran m'aşr afqanstan_____1"
 taygr wwdz	100	PN	[pred="taygr wwdz___Tiger Woods__1",cat=PN]	taygr wwdz___Tiger Woods__1	Default		%default	inv
 tayra bnks	100	PN	[pred="tayra bnks___Tyra Banks__1",cat=PN]	tayra bnks___Tyra Banks__1	Default		%default	inv
 td nywjnt	100	PN	[pred="td nywjnt___Ted Nugent__1",cat=PN]	td nywjnt___Ted Nugent__1	Default		%default	inv
-temwrs pwrnażry	100	PN	[pred="temwrs pwrnażry_____1",cat=PN]	temwrs pwrnażry_____1	Default		%default	inv
+temwrs pwrnaẓry	100	PN	[pred="temwrs pwrnaẓry_____1",cat=PN]	temwrs pwrnaẓry_____1	Default		%default	inv
 temyne mylany	100	PN	[pred="temyne mylany___Tahmineh Milani__1",cat=PN]	temyne mylany___Tahmineh Milani__1	Default		%default	inv
 tftazany	100	PN	[pred="tftazany___Taftazani__1",cat=PN]	tftazany___Taftazani__1	Default		%default	inv
 tlanyws mank	100	PN	[pred="tlanyws mank___Thelonious Monk__1",cat=PN]	tlanyws mank___Thelonious Monk__1	Default		%default	inv
@@ -6203,14 +6203,14 @@ twmas šlyng	100	PN	[pred="twmas šlyng___Thomas Schelling__1",cat=PN]	twmas šl
 twmasw albynwny	100	PN	[pred="twmasw albynwny___Tomaso Albinoni__1",cat=PN]	twmasw albynwny___Tomaso Albinoni__1	Default		%default	inv
 twmy pwtansw	100	PN	[pred="twmy pwtansw___Tomi Putaansuu__1",cat=PN]	twmy pwtansw___Tomi Putaansuu__1	Default		%default	inv
 twn prak	100	PN	[pred="twn prak___Tun Perak__1",cat=PN]	twn prak___Tun Perak__1	Default		%default	inv
-twnkw 'bdalrłman	100	PN	[pred="twnkw 'bdalrłman___Tunku Abdul Rahman__1",cat=PN]	twnkw 'bdalrłman___Tunku Abdul Rahman__1	Default		%default	inv
+twnkw 'bdalrħman	100	PN	[pred="twnkw 'bdalrħman___Tunku Abdul Rahman__1",cat=PN]	twnkw 'bdalrħman___Tunku Abdul Rahman__1	Default		%default	inv
 twny blr	100	PN	[pred="twny blr___Tony Blair__1",cat=PN]	twny blr___Tony Blair__1	Default		%default	inv
 twny klyf	100	PN	[pred="twny klyf___Tony Cliff__1",cat=PN]	twny klyf___Tony Cliff__1	Default		%default	inv
 twny krws	100	PN	[pred="twny krws___Toni Kroos__1",cat=PN]	twny krws___Toni Kroos__1	Default		%default	inv
 twny kwšnr	100	PN	[pred="twny kwšnr___Tony Kushner__1",cat=PN]	twny kwšnr___Tony Kushner__1	Default		%default	inv
 twny mwryswn	100	PN	[pred="twny mwryswn___Toni Morrison__1",cat=PN]	twny mwryswn___Toni Morrison__1	Default		%default	inv
 twny rambwla	100	PN	[pred="twny rambwla___Tony Rombola__1",cat=PN]	twny rambwla___Tony Rombola__1	Default		%default	inv
-twny âywmy	100	PN	[pred="twny âywmy___Tony Iommi__1",cat=PN]	twny âywmy___Tony Iommi__1	Default		%default	inv
+twny āywmy	100	PN	[pred="twny āywmy___Tony Iommi__1",cat=PN]	twny āywmy___Tony Iommi__1	Default		%default	inv
 twpak škwr	100	PN	[pred="twpak škwr___Tupac Shakur__1",cat=PN]	twpak škwr___Tupac Shakur__1	Default		%default	inv
 twran amyrslymany	100	PN	[pred="twran amyrslymany_____1",cat=PN]	twran amyrslymany_____1	Default		%default	inv
 twran merzad	100	PN	[pred="twran merzad_____1",cat=PN]	twran merzad_____1	Default		%default	inv
@@ -6223,12 +6223,12 @@ twrj frazmnd	100	PN	[pred="twrj frazmnd_____1",cat=PN]	twrj frazmnd_____1	Defaul
 twrj ngeban	100	PN	[pred="twrj ngeban_____1",cat=PN]	twrj ngeban_____1	Default		%default	inv
 twrj š'ban_xany	100	PN	[pred="twrj š'ban_xany_____1",cat=PN]	twrj š'ban_xany_____1	Default		%default	inv
 twyw aytw	100	PN	[pred="twyw aytw___Toyo Ito__1",cat=PN]	twyw aytw___Toyo Ito__1	Default		%default	inv
-twłyd m'şwmy	100	PN	[pred="twłyd m'şwmy_____1",cat=PN]	twłyd m'şwmy_____1	Default		%default	inv
-twłyd šyrazÝ	100	PN	[pred="twłyd šyrazÝ_____1",cat=PN]	twłyd šyrazÝ_____1	Default		%default	inv
+twħyd m'şwmy	100	PN	[pred="twħyd m'şwmy_____1",cat=PN]	twħyd m'şwmy_____1	Default		%default	inv
+twħyd šyrazÝ	100	PN	[pred="twħyd šyrazÝ_____1",cat=PN]	twħyd šyrazÝ_____1	Default		%default	inv
 twšy_eykw ayzwtsw	100	PN	[pred="twšy_eykw ayzwtsw___Toshihiko Izutsu__1",cat=PN]	twšy_eykw ayzwtsw___Toshihiko Izutsu__1	Default		%default	inv
 twšyw swzwky	100	PN	[pred="twšyw swzwky___Toshio Suzuki (producer)__1",cat=PN]	twšyw swzwky___Toshio Suzuki (producer)__1	Default		%default	inv
 ty-bwn wakr	100	PN	[pred="ty-bwn wakr___T-Bone Walker__1",cat=PN]	ty-bwn wakr___T-Bone Walker__1	Default		%default	inv
-tyagw âlwz fraga	100	PN	[pred="tyagw âlwz fraga___Tiago Alves Fraga__1",cat=PN]	tyagw âlwz fraga___Tiago Alves Fraga__1	Default		%default	inv
+tyagw ālwz fraga	100	PN	[pred="tyagw ālwz fraga___Tiago Alves Fraga__1",cat=PN]	tyagw ālwz fraga___Tiago Alves Fraga__1	Default		%default	inv
 tye_ry anry	100	PN	[pred="tye_ry anry___Thierry Henry__1",cat=PN]	tye_ry anry___Thierry Henry__1	Default		%default	inv
 tygran ptrwsyan	100	PN	[pred="tygran ptrwsyan___Tigran Petrosian__1",cat=PN]	tygran ptrwsyan___Tigran Petrosian__1	Default		%default	inv
 tykw braee	100	PN	[pred="tykw braee___Tycho Brahe__1",cat=PN]	tykw braee___Tycho Brahe__1	Default		%default	inv
@@ -6247,7 +6247,7 @@ tymwty gaytnr	100	PN	[pred="tymwty gaytnr___Timothy Geithner__1",cat=PN]	tymwty 
 tyna fy	100	PN	[pred="tyna fy___Tina Fey__1",cat=PN]	tyna fy___Tina Fey__1	Default		%default	inv
 tyna karwl	100	PN	[pred="tyna karwl_____1",cat=PN]	tyna karwl_____1	Default		%default	inv
 tyna trnr	100	PN	[pred="tyna trnr___Tina Turner__1",cat=PN]	tyna trnr___Tina Turner__1	Default		%default	inv
-tyna ârna	100	PN	[pred="tyna ârna___Tina Arena__1",cat=PN]	tyna ârna___Tina Arena__1	Default		%default	inv
+tyna ārna	100	PN	[pred="tyna ārna___Tina Arena__1",cat=PN]	tyna ārna___Tina Arena__1	Default		%default	inv
 tyntwrtw	100	PN	[pred="tyntwrtw___Tintoretto__1",cat=PN]	tyntwrtw___Tintoretto__1	Default		%default	inv
 tynw rwsy	100	PN	[pred="tynw rwsy___Tino Rossi__1",cat=PN]	tynw rwsy___Tino Rossi__1	Default		%default	inv
 tysafrn	100	PN	[pred="tysafrn___Tissaphernes__1",cat=PN]	tysafrn___Tissaphernes__1	Default		%default	inv
@@ -6264,13 +6264,13 @@ t´wdwr swdbrg	100	PN	[pred="t´wdwr swdbrg___Theodor Svedberg__1",cat=PN]	t´wd
 t´wdwr šwan	100	PN	[pred="t´wdwr šwan___Theodor Schwann__1",cat=PN]	t´wdwr šwan___Theodor Schwann__1	Default		%default	inv
 t´wfans	100	PN	[pred="t´wfans___Theophanes the Confessor__1",cat=PN]	t´wfans___Theophanes the Confessor__1	Default		%default	inv
 t´wman	100	PN	[pred="t´wman___Teoman__1",cat=PN]	t´wman___Teoman__1	Default		%default	inv
-tÂ´w ânjlwpwlws	100	PN	[pred="tÂ´w ânjlwpwlws___Theodoros Angelopoulos__1",cat=PN]	tÂ´w ânjlwpwlws___Theodoros Angelopoulos__1	Default		%default	inv
+tÂ´w ānjlwpwlws	100	PN	[pred="tÂ´w ānjlwpwlws___Theodoros Angelopoulos__1",cat=PN]	tÂ´w ānjlwpwlws___Theodoros Angelopoulos__1	Default		%default	inv
 tŕy mdrsy	100	PN	[pred="tŕy mdrsy_____1",cat=PN]	tŕy mdrsy_____1	Default		%default	inv
 tŕy rf't	100	PN	[pred="tŕy rf't_____1",cat=PN]	tŕy rf't_____1	Default		%default	inv
-tŕy rłmany	100	PN	[pred="tŕy rłmany_____1",cat=PN]	tŕy rłmany_____1	Default		%default	inv
-tŕy włydyan kamyar	100	PN	[pred="tŕy włydyan kamyar_____1",cat=PN]	tŕy włydyan kamyar_____1	Default		%default	inv
+tŕy rħmany	100	PN	[pred="tŕy rħmany_____1",cat=PN]	tŕy rħmany_____1	Default		%default	inv
+tŕy wħydyan kamyar	100	PN	[pred="tŕy wħydyan kamyar_____1",cat=PN]	tŕy wħydyan kamyar_____1	Default		%default	inv
 tŕy šeram	100	PN	[pred="tŕy šeram_____1",cat=PN]	tŕy šeram_____1	Default		%default	inv
-tŕy żewry	100	PN	[pred="tŕy żewry_____1",cat=PN]	tŕy żewry_____1	Default		%default	inv
+tŕy ẓewry	100	PN	[pred="tŕy ẓewry_____1",cat=PN]	tŕy ẓewry_____1	Default		%default	inv
 waean dryan	100	PN	[pred="waean dryan___Vahan Terian__1",cat=PN]	waean dryan___Vahan Terian__1	Default		%default	inv
 wal kylmr	100	PN	[pred="wal kylmr___Val Kilmer__1",cat=PN]	wal kylmr___Val Kilmer__1	Default		%default	inv
 walas astywnz	100	PN	[pred="walas astywnz___Wallace Stevens__1",cat=PN]	walas astywnz___Wallace Stevens__1	Default		%default	inv
@@ -6284,25 +6284,25 @@ waltr brly gryfyn	100	PN	[pred="waltr brly gryfyn___Walter Burley Griffin__1",ca
 waltr enyng	100	PN	[pred="waltr enyng___Walter Bruno Henning__1",cat=PN]	waltr enyng___Walter Bruno Henning__1	Default		%default	inv
 waltr grwpyws	100	PN	[pred="waltr grwpyws___Walter Gropius__1",cat=PN]	waltr grwpyws___Walter Gropius__1	Default		%default	inv
 wang wy	100	PN	[pred="wang wy___Wang Wei (8th century poet)__1",cat=PN]	wang wy___Wang Wei (8th century poet)__1	Default		%default	inv
-wang ânšy	100	PN	[pred="wang ânšy___Wang Anshi__1",cat=PN]	wang ânšy___Wang Anshi__1	Default		%default	inv
+wang ānšy	100	PN	[pred="wang ānšy___Wang Anshi__1",cat=PN]	wang ānšy___Wang Anshi__1	Default		%default	inv
 waraeamyeyra	100	PN	[pred="waraeamyeyra___Varahamihira__1",cat=PN]	waraeamyeyra___Varahamihira__1	Default		%default	inv
 warand	100	PN	[pred="warand___Varand__1",cat=PN]	warand___Varand__1	Default		%default	inv
 warand	100	PN	[pred="warand_____1",cat=PN]	warand_____1	Default		%default	inv
 wartzgs pţrwsyan	100	PN	[pred="wartzgs pţrwsyan___Vardges Petrosyan__1",cat=PN]	wartzgs pţrwsyan___Vardges Petrosyan__1	Default		%default	inv
 warwž eaxbandyan	100	PN	[pred="warwž eaxbandyan___Varoujan Hakhbandian__1",cat=PN]	warwž eaxbandyan___Varoujan Hakhbandian__1	Default		%default	inv
-warwž krym_msyły	100	PN	[pred="warwž krym_msyły_____1",cat=PN]	warwž krym_msyły_____1	Default		%default	inv
+warwž krym_msyħy	100	PN	[pred="warwž krym_msyħy_____1",cat=PN]	warwž krym_msyħy_____1	Default		%default	inv
 warwžan eaxbandyan	100	PN	[pred="warwžan eaxbandyan_____1",cat=PN]	warwžan eaxbandyan_____1	Default		%default	inv
 warys dyry	100	PN	[pred="warys dyry___Waris Dirie__1",cat=PN]	warys dyry___Waris Dirie__1	Default		%default	inv
 waskw da gama	100	PN	[pred="waskw da gama___Vasco da Gama__1",cat=PN]	waskw da gama___Vasco da Gama__1	Default		%default	inv
 waskw nwnys d balbwa	100	PN	[pred="waskw nwnys d balbwa___Vasco Núnez de Balboa__1",cat=PN]	waskw nwnys d balbwa___Vasco Núnez de Balboa__1	Default		%default	inv
 wasyly asmyslwf	100	PN	[pred="wasyly asmyslwf___Vasily Smyslov__1",cat=PN]	wasyly asmyslwf___Vasily Smyslov__1	Default		%default	inv
-wasyly aywanwwyč âbayf	100	PN	[pred="wasyly aywanwwyč âbayf___Vasily Abaev__1",cat=PN]	wasyly aywanwwyč âbayf___Vasily Abaev__1	Default		%default	inv
+wasyly aywanwwyč ābayf	100	PN	[pred="wasyly aywanwwyč ābayf___Vasily Abaev__1",cat=PN]	wasyly aywanwwyč ābayf___Vasily Abaev__1	Default		%default	inv
 wasyly bartwld	100	PN	[pred="wasyly bartwld___Vasily Bartold__1",cat=PN]	wasyly bartwld___Vasily Bartold__1	Default		%default	inv
 wasyly kandynsky	100	PN	[pred="wasyly kandynsky___Wassily Kandinsky__1",cat=PN]	wasyly kandynsky___Wassily Kandinsky__1	Default		%default	inv
-wasyly âksynwf	100	PN	[pred="wasyly âksynwf___Vasily Aksyonov__1",cat=PN]	wasyly âksynwf___Vasily Aksyonov__1	Default		%default	inv
+wasyly āksynwf	100	PN	[pred="wasyly āksynwf___Vasily Aksyonov__1",cat=PN]	wasyly āksynwf___Vasily Aksyonov__1	Default		%default	inv
 wazgn sarkysyan	100	PN	[pred="wazgn sarkysyan___Vazgen Sargsyan__1",cat=PN]	wazgn sarkysyan___Vazgen Sargsyan__1	Default		%default	inv
 wa´l kfwry	100	PN	[pred="wa´l kfwry___Wael Kfoury__1",cat=PN]	wa´l kfwry___Wael Kfoury__1	Default		%default	inv
-wałd aKbry	100	PN	[pred="wałd aKbry_____1",cat=PN]	wałd aKbry_____1	Default		%default	inv
+waħd aKbry	100	PN	[pred="waħd aKbry_____1",cat=PN]	waħd aKbry_____1	Default		%default	inv
 waŕf mşţfy_zade	100	PN	[pred="waŕf mşţfy_zade___Vagif Mustafazadeh__1",cat=PN]	waŕf mşţfy_zade___Vagif Mustafazadeh__1	Default		%default	inv
 waşf adygwzlf	100	PN	[pred="waşf adygwzlf___Vasif Adigozalov__1",cat=PN]	waşf adygwzlf___Vasif Adigozalov__1	Default		%default	inv
 waşf baxtry	100	PN	[pred="waşf baxtry___Wasef Bakhtari__1",cat=PN]	waşf baxtry___Wasef Bakhtari__1	Default		%default	inv
@@ -6390,7 +6390,7 @@ wylyam a. sy tr	100	PN	[pred="wylyam a. sy tr___William A. Seiter__1",cat=PN]	wy
 wylyam batlr yyts	100	PN	[pred="wylyam batlr yyts___William Butler Yeats__1",cat=PN]	wylyam batlr yyts___William Butler Yeats__1	Default		%default	inv
 wylyam blyk	100	PN	[pred="wylyam blyk___William Blake__1",cat=PN]	wylyam blyk___William Blake__1	Default		%default	inv
 wylyam dkwnyng	100	PN	[pred="wylyam dkwnyng___Willem de Kooning__1",cat=PN]	wylyam dkwnyng___Willem de Kooning__1	Default		%default	inv
-wylyam dwbwâ	100	PN	[pred="wylyam dwbwâ_____1",cat=PN]	wylyam dwbwâ_____1	Default		%default	inv
+wylyam dwbwā	100	PN	[pred="wylyam dwbwā_____1",cat=PN]	wylyam dwbwā_____1	Default		%default	inv
 wylyam earwy	100	PN	[pred="wylyam earwy___William Harvey__1",cat=PN]	wylyam earwy___William Harvey__1	Default		%default	inv
 wylyam emyltwn	100	PN	[pred="wylyam emyltwn___William Rowan Hamilton__1",cat=PN]	wylyam emyltwn___William Rowan Hamilton__1	Default		%default	inv
 wylyam enry brag	100	PN	[pred="wylyam enry brag___William Henry Bragg__1",cat=PN]	wylyam enry brag___William Henry Bragg__1	Default		%default	inv
@@ -6456,17 +6456,17 @@ wywlta kamwrw	100	PN	[pred="wywlta kamwrw___Violeta Chamorro__1",cat=PN]	wywlta 
 wywyn kmpl	100	PN	[pred="wywyn kmpl___Vivian Campbell__1",cat=PN]	wywyn kmpl___Vivian Campbell__1	Default		%default	inv
 wywyn ly	100	PN	[pred="wywyn ly___Vivien Leigh__1",cat=PN]	wywyn ly___Vivien Leigh__1	Default		%default	inv
 wyška asayš	100	PN	[pred="wyška asayš_____1",cat=PN]	wyška asayš_____1	Default		%default	inv
-włyd	100	PN	[pred="włyd_____1",cat=PN]	włyd_____1	Default		%default	inv
-włyd dstgrdy	100	PN	[pred="włyd dstgrdy_____1",cat=PN]	włyd dstgrdy_____1	Default		%default	inv
-włyd rzaŕy	100	PN	[pred="włyd rzaŕy_____1",cat=PN]	włyd rzaŕy_____1	Default		%default	inv
-włyd rźa ţbaţbayy	100	PN	[pred="włyd rźa ţbaţbayy_____1",cat=PN]	włyd rźa ţbaţbayy_____1	Default		%default	inv
-włyd ŕzwyny	100	PN	[pred="włyd ŕzwyny_____1",cat=PN]	włyd ŕzwyny_____1	Default		%default	inv
-włyd šmsayy	100	PN	[pred="włyd šmsayy___Vahid Shamsaee__1",cat=PN]	włyd šmsayy___Vahid Shamsaee__1	Default		%default	inv
-włyd ţalb_lw	100	PN	[pred="włyd ţalb_lw___Vahid Talebloo__1",cat=PN]	włyd ţalb_lw___Vahid Talebloo__1	Default		%default	inv
-włšy bafŕy	100	PN	[pred="włšy bafŕy___Vahshi Bafqi__1",cat=PN]	włšy bafŕy___Vahshi Bafqi__1	Default		%default	inv
+wħyd	100	PN	[pred="wħyd_____1",cat=PN]	wħyd_____1	Default		%default	inv
+wħyd dstgrdy	100	PN	[pred="wħyd dstgrdy_____1",cat=PN]	wħyd dstgrdy_____1	Default		%default	inv
+wħyd rzaŕy	100	PN	[pred="wħyd rzaŕy_____1",cat=PN]	wħyd rzaŕy_____1	Default		%default	inv
+wħyd rźa ţbaţbayy	100	PN	[pred="wħyd rźa ţbaţbayy_____1",cat=PN]	wħyd rźa ţbaţbayy_____1	Default		%default	inv
+wħyd ŕzwyny	100	PN	[pred="wħyd ŕzwyny_____1",cat=PN]	wħyd ŕzwyny_____1	Default		%default	inv
+wħyd šmsayy	100	PN	[pred="wħyd šmsayy___Vahid Shamsaee__1",cat=PN]	wħyd šmsayy___Vahid Shamsaee__1	Default		%default	inv
+wħyd ţalb_lw	100	PN	[pred="wħyd ţalb_lw___Vahid Talebloo__1",cat=PN]	wħyd ţalb_lw___Vahid Talebloo__1	Default		%default	inv
+wħšy bafŕy	100	PN	[pred="wħšy bafŕy___Vahshi Bafqi__1",cat=PN]	wħšy bafŕy___Vahshi Bafqi__1	Default		%default	inv
 wşal šyrazy	100	PN	[pred="wşal šyrazy_____1",cat=PN]	wşal šyrazy_____1	Default		%default	inv
 xald aslambwly	100	PN	[pred="xald aslambwly___Khalid Islambouli__1",cat=PN]	xald aslambwly___Khalid Islambouli__1	Default		%default	inv
-xald łsyny	100	PN	[pred="xald łsyny___Khaled Hosseini__1",cat=PN]	xald łsyny___Khaled Hosseini__1	Default		%default	inv
+xald ħsyny	100	PN	[pred="xald ħsyny___Khaled Hosseini__1",cat=PN]	xald ħsyny___Khaled Hosseini__1	Default		%default	inv
 xalde frwq	100	PN	[pred="xalde frwq_____1",cat=PN]	xalde frwq_____1	Default		%default	inv
 xalde źya	100	PN	[pred="xalde źya___Khaleda Zia__1",cat=PN]	xalde źya___Khaleda Zia__1	Default		%default	inv
 xan šwšynsky	100	PN	[pred="xan šwšynsky___Khan Shushinski__1",cat=PN]	xan šwšynsky___Khan Shushinski__1	Default		%default	inv
@@ -6480,7 +6480,7 @@ xazny	100	PN	[pred="xazny___Al-Khazini__1",cat=PN]	xazny___Al-Khazini__1	Default
 xaŕany	100	PN	[pred="xaŕany___Khaqani__1",cat=PN]	xaŕany___Khaqani__1	Default		%default	inv
 xaţre asdy	100	PN	[pred="xaţre asdy_____1",cat=PN]	xaţre asdy_____1	Default		%default	inv
 xaţre prwane	100	PN	[pred="xaţre prwane_____1",cat=PN]	xaţre prwane_____1	Default		%default	inv
-xaţre łatmy	100	PN	[pred="xaţre łatmy_____1",cat=PN]	xaţre łatmy_____1	Default		%default	inv
+xaţre ħatmy	100	PN	[pred="xaţre ħatmy_____1",cat=PN]	xaţre ħatmy_____1	Default		%default	inv
 xbazy nyšabwry	100	PN	[pred="xbazy nyšabwry_____1",cat=PN]	xbazy nyšabwry_____1	Default		%default	inv
 xdadad 'zyzy	100	PN	[pred="xdadad 'zyzy___Khodadad Azizi__1",cat=PN]	xdadad 'zyzy___Khodadad Azizi__1	Default		%default	inv
 xdyje afźl wzyry	100	PN	[pred="xdyje afźl wzyry_____1",cat=PN]	xdyje afźl wzyry_____1	Default		%default	inv
@@ -6498,13 +6498,13 @@ xsrw rwzbe	100	PN	[pred="xsrw rwzbe___Khosro Roozbeh__1",cat=PN]	xsrw rwzbe___Kh
 xsrw syf	100	PN	[pred="xsrw syf_____1",cat=PN]	xsrw syf_____1	Default		%default	inv
 xsrw synayy	100	PN	[pred="xsrw synayy___Khosrow Sinai__1",cat=PN]	xsrw synayy___Khosrow Sinai__1	Default		%default	inv
 xsrw xbyry	100	PN	[pred="xsrw xbyry___Khosrow Khabiri__1",cat=PN]	xsrw xbyry___Khosrow Khabiri__1	Default		%default	inv
-xsrw łkym rabţ	100	PN	[pred="xsrw łkym rabţ_____1",cat=PN]	xsrw łkym rabţ_____1	Default		%default	inv
-xsrw łydry	100	PN	[pred="xsrw łydry___Khosro Heydari__1",cat=PN]	xsrw łydry___Khosro Heydari__1	Default		%default	inv
+xsrw ħkym rabţ	100	PN	[pred="xsrw ħkym rabţ_____1",cat=PN]	xsrw ħkym rabţ_____1	Default		%default	inv
+xsrw ħydry	100	PN	[pred="xsrw ħydry___Khosro Heydari__1",cat=PN]	xsrw ħydry___Khosro Heydari__1	Default		%default	inv
 xsrw šaygan	100	PN	[pred="xsrw šaygan_____1",cat=PN]	xsrw šaygan_____1	Default		%default	inv
 xsrw škybayy	100	PN	[pred="xsrw škybayy___Khosrow Shakibai__1",cat=PN]	xsrw škybayy___Khosrow Shakibai__1	Default		%default	inv
 xsrwy srxsy	100	PN	[pred="xsrwy srxsy_____1",cat=PN]	xsrwy srxsy_____1	Default		%default	inv
 xwaeran myrabal	100	PN	[pred="xwaeran myrabal___Mirabal sisters__1",cat=PN]	xwaeran myrabal___Mirabal sisters__1	Default		%default	inv
-xwaje náżam_almlk ţwsy	100	PN	[pred="xwaje náżam_almlk ţwsy___Nizam al-Mulk__1",cat=PN]	xwaje náżam_almlk ţwsy___Nizam al-Mulk__1	Default		%default	inv
+xwaje náẓam_almlk ţwsy	100	PN	[pred="xwaje náẓam_almlk ţwsy___Nizam al-Mulk__1",cat=PN]	xwaje náẓam_almlk ţwsy___Nizam al-Mulk__1	Default		%default	inv
 xwaje nşyr ţwsy	100	PN	[pred="xwaje nşyr ţwsy___Nasir al-Din al-Tusi__1",cat=PN]	xwaje nşyr ţwsy___Nasir al-Din al-Tusi__1	Default		%default	inv
 xwajwy krmany	100	PN	[pred="xwajwy krmany___Khwaju Kermani__1",cat=PN]	xwajwy krmany___Khwaju Kermani__1	Default		%default	inv
 xwakyn rwdrygw	100	PN	[pred="xwakyn rwdrygw___Joaquín Rodrigo__1",cat=PN]	xwakyn rwdrygw___Joaquín Rodrigo__1	Default		%default	inv
@@ -6521,16 +6521,16 @@ xwana ayns d la krwz	100	PN	[pred="xwana ayns d la krwz___Juana Inés de la Cruz
 xwlya alwarz	100	PN	[pred="xwlya alwarz___Julia Alvarez__1",cat=PN]	xwlya alwarz___Julia Alvarez__1	Default		%default	inv
 xwlyw ayglsyas	100	PN	[pred="xwlyw ayglsyas___Julio Iglesias__1",cat=PN]	xwlyw ayglsyas___Julio Iglesias__1	Default		%default	inv
 xwlyw kwrtasar	100	PN	[pred="xwlyw kwrtasar___Julio Cortázar__1",cat=PN]	xwlyw kwrtasar___Julio Cortázar__1	Default		%default	inv
-xwrge âmadw	100	PN	[pred="xwrge âmadw___Jorge Amado__1",cat=PN]	xwrge âmadw___Jorge Amado__1	Default		%default	inv
+xwrge āmadw	100	PN	[pred="xwrge āmadw___Jorge Amado__1",cat=PN]	xwrge āmadw___Jorge Amado__1	Default		%default	inv
 xwrxe lw´ys bwrxs	100	PN	[pred="xwrxe lw´ys bwrxs___Jorge Luis Borges__1",cat=PN]	xwrxe lw´ys bwrxs___Jorge Luis Borges__1	Default		%default	inv
 xwrxe rafa´l wydla	100	PN	[pred="xwrxe rafa´l wydla___Jorge Rafael Videla__1",cat=PN]	xwrxe rafa´l wydla___Jorge Rafael Videla__1	Default		%default	inv
 xwze lw´yz rwdrygz zapatrw	100	PN	[pred="xwze lw´yz rwdrygz zapatrw___José Luis Rodríguez Zapatero__1",cat=PN]	xwze lw´yz rwdrygz zapatrw___José Luis Rodríguez Zapatero__1	Default		%default	inv
 xwze manw´l ryna	100	PN	[pred="xwze manw´l ryna___José Manuel Reina__1",cat=PN]	xwze manw´l ryna___José Manuel Reina__1	Default		%default	inv
 xwze marty	100	PN	[pred="xwze marty___José Martí__1",cat=PN]	xwze marty___José Martí__1	Default		%default	inv
 xwze raÂ´wl kapablanka	100	PN	[pred="xwze raÂ´wl kapablanka___José Raúl Capablanca__1",cat=PN]	xwze raÂ´wl kapablanka___José Raúl Capablanca__1	Default		%default	inv
-xwân prwn	100	PN	[pred="xwân prwn___Juan Perón__1",cat=PN]	xwân prwn___Juan Perón__1	Default		%default	inv
-xwšłal_xan xtk	100	PN	[pred="xwšłal_xan xtk___Khushal Khan Khattak__1",cat=PN]	xwšłal_xan xtk___Khushal Khan Khattak__1	Default		%default	inv
-xyralle ţlfał	100	PN	[pred="xyralle ţlfał___Khairallah Talfah__1",cat=PN]	xyralle ţlfał___Khairallah Talfah__1	Default		%default	inv
+xwān prwn	100	PN	[pred="xwān prwn___Juan Perón__1",cat=PN]	xwān prwn___Juan Perón__1	Default		%default	inv
+xwšħal_xan xtk	100	PN	[pred="xwšħal_xan xtk___Khushal Khan Khattak__1",cat=PN]	xwšħal_xan xtk___Khushal Khan Khattak__1	Default		%default	inv
+xyralle ţlfaħ	100	PN	[pred="xyralle ţlfaħ___Khairallah Talfah__1",cat=PN]	xyralle ţlfaħ___Khairallah Talfah__1	Default		%default	inv
 xzr m'şwmy	100	PN	[pred="xzr m'şwmy_____1",cat=PN]	xzr m'şwmy_____1	Default		%default	inv
 xzy fanyan	100	PN	[pred="xzy fanyan_____1",cat=PN]	xzy fanyan_____1	Default		%default	inv
 y'swb_aldyn rstgar jwybary	100	PN	[pred="y'swb_aldyn rstgar jwybary___Yasubedin Rastegar Jooybari__1",cat=PN]	y'swb_aldyn rstgar jwybary___Yasubedin Rastegar Jooybari__1	Default		%default	inv
@@ -6549,7 +6549,7 @@ yan ašwnk_mayr	100	PN	[pred="yan ašwnk_mayr___Jan Švankmajer__1",cat=PN]	yan 
 yan flmyng	100	PN	[pred="yan flmyng___Ian Fleming__1",cat=PN]	yan flmyng___Ian Fleming__1	Default		%default	inv
 yan mk_earg	100	PN	[pred="yan mk_earg___Ian McHarg__1",cat=PN]	yan mk_earg___Ian McHarg__1	Default		%default	inv
 yan tyrzn	100	PN	[pred="yan tyrzn___Yann Tiersen__1",cat=PN]	yan tyrzn___Yann Tiersen__1	Default		%default	inv
-yan wan âyk	100	PN	[pred="yan wan âyk___Jan van Eyck__1",cat=PN]	yan wan âyk___Jan van Eyck__1	Default		%default	inv
+yan wan āyk	100	PN	[pred="yan wan āyk___Jan van Eyck__1",cat=PN]	yan wan āyk___Jan van Eyck__1	Default		%default	inv
 yanwš bwywyy	100	PN	[pred="yanwš bwywyy___János Bolyai__1",cat=PN]	yanwš bwywyy___János Bolyai__1	Default		%default	inv
 yany	100	PN	[pred="yany___Yanni__1",cat=PN]	yany___Yanni__1	Default		%default	inv
 yanyk fan dflde	100	PN	[pred="yanyk fan dflde_____1",cat=PN]	yanyk fan dflde_____1	Default		%default	inv
@@ -6561,7 +6561,7 @@ yasmyn krwdr	100	PN	[pred="yasmyn krwdr_____1",cat=PN]	yasmyn krwdr_____1	Defaul
 yasmyn ly bn	100	PN	[pred="yasmyn ly bn___Yasmin Le Bon__1",cat=PN]	yasmyn ly bn___Yasmin Le Bon__1	Default		%default	inv
 yasmyn qwry	100	PN	[pred="yasmyn qwry___Yasmeen Ghauri__1",cat=PN]	yasmyn qwry___Yasmeen Ghauri__1	Default		%default	inv
 yasmyn synayy	100	PN	[pred="yasmyn synayy_____1",cat=PN]	yasmyn synayy_____1	Default		%default	inv
-yasmyn âtšy	100	PN	[pred="yasmyn âtšy_____1",cat=PN]	yasmyn âtšy_____1	Default		%default	inv
+yasmyn ātšy	100	PN	[pred="yasmyn ātšy_____1",cat=PN]	yasmyn ātšy_____1	Default		%default	inv
 yasmyn ţbaţbayy	100	PN	[pred="yasmyn ţbaţbayy___Jasmin Tabatabai__1",cat=PN]	yasmyn ţbaţbayy___Jasmin Tabatabai__1	Default		%default	inv
 yasmyna rźa	100	PN	[pred="yasmyna rźa___Yasmina Reza__1",cat=PN]	yasmyna rźa___Yasmina Reza__1	Default		%default	inv
 yasn atanasyadys	100	PN	[pred="yasn atanasyadys___Iason Athanasiadis__1",cat=PN]	yasn atanasyadys___Iason Athanasiadis__1	Default		%default	inv
@@ -6593,7 +6593,7 @@ ywean aštraws	100	PN	[pred="ywean aštraws___Johann Strauss II__1",cat=PN]	ywea
 ywean bayr	100	PN	[pred="ywean bayr___Johann Bayer__1",cat=PN]	ywean bayr___Johann Bayer__1	Default		%default	inv
 ywean d wyt	100	PN	[pred="ywean d wyt___Johan de Witt__1",cat=PN]	ywean d wyt___Johan de Witt__1	Default		%default	inv
 ywean dydryk wan dr wals	100	PN	[pred="ywean dydryk wan dr wals___Johannes Diderik van der Waals__1",cat=PN]	ywean dydryk wan dr wals___Johannes Diderik van der Waals__1	Default		%default	inv
-ywean frydryš âgrykwla	100	PN	[pred="ywean frydryš âgrykwla___Johann Friedrich Agricola__1",cat=PN]	ywean frydryš âgrykwla___Johann Friedrich Agricola__1	Default		%default	inv
+ywean frydryš āgrykwla	100	PN	[pred="ywean frydryš āgrykwla___Johann Friedrich Agricola__1",cat=PN]	ywean frydryš āgrykwla___Johann Friedrich Agricola__1	Default		%default	inv
 ywean gwtlyb fyšte	100	PN	[pred="ywean gwtlyb fyšte___Johann Gottlieb Fichte__1",cat=PN]	ywean gwtlyb fyšte___Johann Gottlieb Fichte__1	Default		%default	inv
 ywean kplr	100	PN	[pred="ywean kplr___Johannes Kepler__1",cat=PN]	ywean kplr___Johannes Kepler__1	Default		%default	inv
 ywean krayf	100	PN	[pred="ywean krayf___Johan Cruyff__1",cat=PN]	ywean krayf___Johan Cruyff__1	Default		%default	inv
@@ -6605,7 +6605,7 @@ ywean symwn mayr	100	PN	[pred="ywean symwn mayr___Simon Mayr__1",cat=PN]	ywean s
 ywean wan btewwn	100	PN	[pred="ywean wan btewwn_____1",cat=PN]	ywean wan btewwn_____1	Default		%default	inv
 ywean wlfgang gwte	100	PN	[pred="ywean wlfgang gwte___Johann Wolfgang von Goethe__1",cat=PN]	ywean wlfgang gwte___Johann Wolfgang von Goethe__1	Default		%default	inv
 ywean ywaxym wynklman	100	PN	[pred="ywean ywaxym wynklman___Johann Joachim Winckelmann__1",cat=PN]	ywean ywaxym wynklman___Johann Joachim Winckelmann__1	Default		%default	inv
-ywean âdam rayn_kyn	100	PN	[pred="ywean âdam rayn_kyn___Johann Adam Reincken__1",cat=PN]	ywean âdam rayn_kyn___Johann Adam Reincken__1	Default		%default	inv
+ywean ādam rayn_kyn	100	PN	[pred="ywean ādam rayn_kyn___Johann Adam Reincken__1",cat=PN]	ywean ādam rayn_kyn___Johann Adam Reincken__1	Default		%default	inv
 yweana ašpyry	100	PN	[pred="yweana ašpyry___Johanna Spyri__1",cat=PN]	yweana ašpyry___Johanna Spyri__1	Default		%default	inv
 yweana sygwrdardwtyr	100	PN	[pred="yweana sygwrdardwtyr___Jóhanna Sigurdardóttir__1",cat=PN]	yweana sygwrdardwtyr___Jóhanna Sigurdardóttir__1	Default		%default	inv
 yweans brams	100	PN	[pred="yweans brams___Johannes Brahms__1",cat=PN]	yweans brams___Johannes Brahms__1	Default		%default	inv
@@ -6656,15 +6656,15 @@ yy sw y´wn	100	PN	[pred="yy sw y´wn___Yi So-Yeon__1",cat=PN]	yy sw y´wn___Yi 
 yyldyz tylbe	100	PN	[pred="yyldyz tylbe___Yildiz Tilbe__1",cat=PN]	yyldyz tylbe___Yildiz Tilbe__1	Default		%default	inv
 yyndryš fld	100	PN	[pred="yyndryš fld___Jindřich Feld__1",cat=PN]	yyndryš fld___Jindřich Feld__1	Default		%default	inv
 yzdanÝ šyrazÝ	100	PN	[pred="yzdanÝ šyrazÝ_____1",cat=PN]	yzdanÝ šyrazÝ_____1	Default		%default	inv
-yłyy 'dl	100	PN	[pred="yłyy 'dl_____1",cat=PN]	yłyy 'dl_____1	Default		%default	inv
-yłyy aryn_pwr	100	PN	[pred="yłyy aryn_pwr_____1",cat=PN]	yłyy aryn_pwr_____1	Default		%default	inv
-yłyy dwlt_âbady	100	PN	[pred="yłyy dwlt_âbady_____1",cat=PN]	yłyy dwlt_âbady_____1	Default		%default	inv
-yłyy fywźat	100	PN	[pred="yłyy fywźat_____1",cat=PN]	yłyy fywźat_____1	Default		%default	inv
-yłyy fywźy ywsfy	100	PN	[pred="yłyy fywźy ywsfy_____1",cat=PN]	yłyy fywźy ywsfy_____1	Default		%default	inv
-yłyy gl_młmdy	100	PN	[pred="yłyy gl_młmdy___Yahya Golmohammadi__1",cat=PN]	yłyy gl_młmdy___Yahya Golmohammadi__1	Default		%default	inv
-yłyy kašany	100	PN	[pred="yłyy kašany_____1",cat=PN]	yłyy kašany_____1	Default		%default	inv
-yłyy rłymy	100	PN	[pred="yłyy rłymy_____1",cat=PN]	yłyy rłymy_____1	Default		%default	inv
-yłyy đka°	100	PN	[pred="yłyy đka°_____1",cat=PN]	yłyy đka°_____1	Default		%default	inv
+yħyy 'dl	100	PN	[pred="yħyy 'dl_____1",cat=PN]	yħyy 'dl_____1	Default		%default	inv
+yħyy aryn_pwr	100	PN	[pred="yħyy aryn_pwr_____1",cat=PN]	yħyy aryn_pwr_____1	Default		%default	inv
+yħyy dwlt_ābady	100	PN	[pred="yħyy dwlt_ābady_____1",cat=PN]	yħyy dwlt_ābady_____1	Default		%default	inv
+yħyy fywźat	100	PN	[pred="yħyy fywźat_____1",cat=PN]	yħyy fywźat_____1	Default		%default	inv
+yħyy fywźy ywsfy	100	PN	[pred="yħyy fywźy ywsfy_____1",cat=PN]	yħyy fywźy ywsfy_____1	Default		%default	inv
+yħyy gl_mħmdy	100	PN	[pred="yħyy gl_mħmdy___Yahya Golmohammadi__1",cat=PN]	yħyy gl_mħmdy___Yahya Golmohammadi__1	Default		%default	inv
+yħyy kašany	100	PN	[pred="yħyy kašany_____1",cat=PN]	yħyy kašany_____1	Default		%default	inv
+yħyy rħymy	100	PN	[pred="yħyy rħymy_____1",cat=PN]	yħyy rħymy_____1	Default		%default	inv
+yħyy đka°	100	PN	[pred="yħyy đka°_____1",cat=PN]	yħyy đka°_____1	Default		%default	inv
 yŕyše čarnts	100	PN	[pred="yŕyše čarnts___Yeghishe Charents__1",cat=PN]	yŕyše čarnts___Yeghishe Charents__1	Default		%default	inv
 zaearya astankw	100	PN	[pred="zaearya astankw___Zaharia Stancu__1",cat=PN]	zaearya astankw___Zaharia Stancu__1	Default		%default	inv
 zaew	100	PN	[pred="zaew___Zaho__1",cat=PN]	zaew___Zaho__1	Default		%default	inv
@@ -6674,17 +6674,17 @@ zbygnf prayznr	100	PN	[pred="zbygnf prayznr___Zbigniew Preisner__1",cat=PN]	zbyg
 zd bazy	100	PN	[pred="zd bazy___Zedbazi__1",cat=PN]	zd bazy___Zedbazi__1	Default		%default	inv
 zdnk grygra	100	PN	[pred="zdnk grygra___ZdenÄk Grygera__1",cat=PN]	zdnk grygra___ZdenÄk Grygera__1	Default		%default	inv
 zdrakw raykwf	100	PN	[pred="zdrakw raykwf___Zdravko Rajkov__1",cat=PN]	zdrakw raykwf___Zdravko Rajkov__1	Default		%default	inv
-zea łdyd	100	PN	[pred="zea łdyd___Zaha Hadid__1",cat=PN]	zea łdyd___Zaha Hadid__1	Default		%default	inv
+zea ħdyd	100	PN	[pred="zea ħdyd___Zaha Hadid__1",cat=PN]	zea ħdyd___Zaha Hadid__1	Default		%default	inv
 zera amyrabraeymy	100	PN	[pred="zera amyrabraeymy___Zahra Amir Ebrahimi__1",cat=PN]	zera amyrabraeymy___Zahra Amir Ebrahimi__1	Default		%default	inv
 zera awysy	100	PN	[pred="zera awysy_____1",cat=PN]	zera awysy_____1	Default		%default	inv
 zera ašraŕy	100	PN	[pred="zera ašraŕy___Zahra Eshraghi__1",cat=PN]	zera ašraŕy___Zahra Eshraghi__1	Default		%default	inv
 zera bny_y'ŕwb	100	PN	[pred="zera bny_y'ŕwb___Zahra Bani Yaghoub__1",cat=PN]	zera bny_y'ŕwb___Zahra Bani Yaghoub__1	Default		%default	inv
-zera każmy	100	PN	[pred="zera każmy___Zahra Kazemi__1",cat=PN]	zera każmy___Zahra Kazemi__1	Default		%default	inv
+zera kaẓmy	100	PN	[pred="zera kaẓmy___Zahra Kazemi__1",cat=PN]	zera kaẓmy___Zahra Kazemi__1	Default		%default	inv
 zera kya	100	PN	[pred="zera kya_____1",cat=PN]	zera kya_____1	Default		%default	inv
 zera renwrd	100	PN	[pred="zera renwrd___Zahra Rahnavard__1",cat=PN]	zera renwrd___Zahra Rahnavard__1	Default		%default	inv
 zere dawd	100	PN	[pred="zere dawd_____1",cat=PN]	zere dawd_____1	Default		%default	inv
 zere jwya	100	PN	[pred="zere jwya___Zohreh Jooya__1",cat=PN]	zere jwya___Zohreh Jooya__1	Default		%default	inv
-zere łkymy	100	PN	[pred="zere łkymy_____1",cat=PN]	zere łkymy_____1	Default		%default	inv
+zere ħkymy	100	PN	[pred="zere ħkymy_____1",cat=PN]	zere ħkymy_____1	Default		%default	inv
 zere škwfnde	100	PN	[pred="zere škwfnde_____1",cat=PN]	zere škwfnde_____1	Default		%default	inv
 zk afran	100	PN	[pred="zk afran___Zac Efron__1",cat=PN]	zk afran___Zac Efron__1	Default		%default	inv
 zk wayld	100	PN	[pred="zk wayld___Zakk Wylde__1",cat=PN]	zk wayld___Zakk Wylde__1	Default		%default	inv
@@ -6707,7 +6707,7 @@ zwya pyrzad	100	PN	[pred="zwya pyrzad___Zoya Pirzad__1",cat=PN]	zwya pyrzad___Zo
 zwya zakaryan	100	PN	[pred="zwya zakaryan_____1",cat=PN]	zwya zakaryan_____1	Default		%default	inv
 zwyy dšanl	100	PN	[pred="zwyy dšanl___Zooey Deschanel__1",cat=PN]	zwyy dšanl___Zooey Deschanel__1	Default		%default	inv
 zyba brwfe	100	PN	[pred="zyba brwfe_____1",cat=PN]	zyba brwfe_____1	Default		%default	inv
-zyba myrłsyny	100	PN	[pred="zyba myrłsyny_____1",cat=PN]	zyba myrłsyny_____1	Default		%default	inv
+zyba myrħsyny	100	PN	[pred="zyba myrħsyny_____1",cat=PN]	zyba myrħsyny_____1	Default		%default	inv
 zyba šyrazy	100	PN	[pred="zyba šyrazy_____1",cat=PN]	zyba šyrazy_____1	Default		%default	inv
 zybygnyw bržynsky	100	PN	[pred="zybygnyw bržynsky___Zbigniew Brzezinski__1",cat=PN]	zybygnyw bržynsky___Zbigniew Brzezinski__1	Default		%default	inv
 zybyle bamr	100	PN	[pred="zybyle bamr___Sybille Bammer__1",cat=PN]	zybyle bamr___Sybille Bammer__1	Default		%default	inv
@@ -6722,97 +6722,97 @@ zynb pyqmbrzade	100	PN	[pred="zynb pyqmbrzade_____1",cat=PN]	zynb pyqmbrzade____
 zynb xanlarwa	100	PN	[pred="zynb xanlarwa___Zeynab Khanlarova__1",cat=PN]	zynb xanlarwa___Zeynab Khanlarova__1	Default		%default	inv
 zyrfrmande markws	100	PN	[pred="zyrfrmande markws___Subcomandante Marcos__1",cat=PN]	zyrfrmande markws___Subcomandante Marcos__1	Default		%default	inv
 z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'ev Schiff__1	Default		%default	inv
-áżeyraldwle	100	PN	[pred="áżeyraldwle_____1",cat=PN]	áżeyraldwle_____1	Default		%default	inv
+áẓeyraldwle	100	PN	[pred="áẓeyraldwle_____1",cat=PN]	áẓeyraldwle_____1	Default		%default	inv
 ç'alby	100	PN	[pred="ç'alby___Tha'alibi__1",cat=PN]	ç'alby___Tha'alibi__1	Default		%default	inv
 çmyn baqče_ban	100	PN	[pred="çmyn baqče_ban___Samin Baghtcheban__1",cat=PN]	çmyn baqče_ban___Samin Baghtcheban__1	Default		%default	inv
 çrya ţrzy	100	PN	[pred="çrya ţrzy___Soraya Tarzi__1",cat=PN]	çrya ţrzy___Soraya Tarzi__1	Default		%default	inv
 çÂ´wfrastws	100	PN	[pred="çÂ´wfrastws___Theophrastus__1",cat=PN]	çÂ´wfrastws___Theophrastus__1	Default		%default	inv
-âbraeam walntayn wylyamz jkswn	100	PN	[pred="âbraeam walntayn wylyamz jkswn___A. V. Williams Jackson__1",cat=PN]	âbraeam walntayn wylyamz jkswn___A. V. Williams Jackson__1	Default		%default	inv
-âdry epbwrn	100	PN	[pred="âdry epbwrn___Audrey Hepburn__1",cat=PN]	âdry epbwrn___Audrey Hepburn__1	Default		%default	inv
-âdry tatw	100	PN	[pred="âdry tatw___Audrey Tautou__1",cat=PN]	âdry tatw___Audrey Tautou__1	Default		%default	inv
-âdwlf kwtle	100	PN	[pred="âdwlf kwtle___Adolphe Quetelet__1",cat=PN]	âdwlf kwtle___Adolphe Quetelet__1	Default		%default	inv
-âfryn 'bysy	100	PN	[pred="âfryn 'bysy_____1",cat=PN]	âfryn 'bysy_____1	Default		%default	inv
-âgwst frdynannd mwbyws	100	PN	[pred="âgwst frdynannd mwbyws___August Ferdinand Möbius__1",cat=PN]	âgwst frdynannd mwbyws___August Ferdinand Möbius__1	Default		%default	inv
-âgwstws jan	100	PN	[pred="âgwstws jan___Augustus John__1",cat=PN]	âgwstws jan___Augustus John__1	Default		%default	inv
-âlban brg	100	PN	[pred="âlban brg___Alban Berg__1",cat=PN]	âlban brg___Alban Berg__1	Default		%default	inv
-âlbr kamw	100	PN	[pred="âlbr kamw___Albert Camus__1",cat=PN]	âlbr kamw___Albert Camus__1	Default		%default	inv
-âlbr rwsl	100	PN	[pred="âlbr rwsl___Albert Roussel__1",cat=PN]	âlbr rwsl___Albert Roussel__1	Default		%default	inv
-âlbrt kan	100	PN	[pred="âlbrt kan___Albert Kahn (architect)__1",cat=PN]	âlbrt kan___Albert Kahn (architect)__1	Default		%default	inv
-âlbrt rz	100	PN	[pred="âlbrt rz___Albert Rose__1",cat=PN]	âlbrt rz___Albert Rose__1	Default		%default	inv
-âldn daw	100	PN	[pred="âldn daw___Alden B. Dow__1",cat=PN]	âldn daw___Alden B. Dow__1	Default		%default	inv
-âlfrd bstr	100	PN	[pred="âlfrd bstr___Alfred Bester__1",cat=PN]	âlfrd bstr___Alfred Bester__1	Default		%default	inv
-âlfrd nwbl	100	PN	[pred="âlfrd nwbl___Alfred Nobel__1",cat=PN]	âlfrd nwbl___Alfred Nobel__1	Default		%default	inv
-âlfwns dwlamartyn	100	PN	[pred="âlfwns dwlamartyn___Alphonse de Lamartine__1",cat=PN]	âlfwns dwlamartyn___Alphonse de Lamartine__1	Default		%default	inv
-âln bqwsyan	100	PN	[pred="âln bqwsyan___Alain Boghossian__1",cat=PN]	âln bqwsyan___Alain Boghossian__1	Default		%default	inv
-âln rykmn	100	PN	[pred="âln rykmn___Alan Rickman__1",cat=PN]	âln rykmn___Alan Rickman__1	Default		%default	inv
-âln swkal	100	PN	[pred="âln swkal___Alan Sokal__1",cat=PN]	âln swkal___Alan Sokal__1	Default		%default	inv
-âlwarw arbe_lwa	100	PN	[pred="âlwarw arbe_lwa___Álvaro Arbeloa__1",cat=PN]	âlwarw arbe_lwa___Álvaro Arbeloa__1	Default		%default	inv
-âlynwš ţryan	100	PN	[pred="âlynwš ţryan_____1",cat=PN]	âlynwš ţryan_____1	Default		%default	inv
-âlys emyltwn	100	PN	[pred="âlys emyltwn___Alice Hamilton__1",cat=PN]	âlys emyltwn___Alice Hamilton__1	Default		%default	inv
-âlys sbald	100	PN	[pred="âlys sbald___Alice Sebold__1",cat=PN]	âlys sbald___Alice Sebold__1	Default		%default	inv
-âlysa klybanwwa	100	PN	[pred="âlysa klybanwwa___Alisa Kleybanova__1",cat=PN]	âlysa klybanwwa___Alisa Kleybanova__1	Default		%default	inv
-âmadÂ´w awwgadrw	100	PN	[pred="âmadÂ´w awwgadrw___Amedeo Avogadro__1",cat=PN]	âmadÂ´w awwgadrw___Amedeo Avogadro__1	Default		%default	inv
-âmne bygm mjlsy	100	PN	[pred="âmne bygm mjlsy_____1",cat=PN]	âmne bygm mjlsy_____1	Default		%default	inv
-âna aywanwwyč	100	PN	[pred="âna aywanwwyč___Ana Ivanović__1",cat=PN]	âna aywanwwyč___Ana Ivanović__1	Default		%default	inv
-âna janswn pl wylr	100	PN	[pred="âna janswn pl wylr___Anna Johnson Pell Wheeler__1",cat=PN]	âna janswn pl wylr___Anna Johnson Pell Wheeler__1	Default		%default	inv
-âna nykwl asmyt	100	PN	[pred="âna nykwl asmyt___Anna Nicole Smith__1",cat=PN]	âna nykwl asmyt___Anna Nicole Smith__1	Default		%default	inv
-ânaeyta emty	100	PN	[pred="ânaeyta emty_____1",cat=PN]	ânaeyta emty_____1	Default		%default	inv
-ânaeyta n'mty	100	PN	[pred="ânaeyta n'mty_____1",cat=PN]	ânaeyta n'mty_____1	Default		%default	inv
-ânastazya	100	PN	[pred="ânastazya___Anastacia__1",cat=PN]	ânastazya___Anastacia__1	Default		%default	inv
-ânatwly karpf	100	PN	[pred="ânatwly karpf___Anatoly Karpov__1",cat=PN]	ânatwly karpf___Anatoly Karpov__1	Default		%default	inv
-ândranyk mddyan	100	PN	[pred="ândranyk mddyan___Andranik Madadian__1",cat=PN]	ândranyk mddyan___Andranik Madadian__1	Default		%default	inv
-ândre žwlywe	100	PN	[pred="ândre žwlywe___André Jolivet__1",cat=PN]	ândre žwlywe___André Jolivet__1	Default		%default	inv
-ândrs sgwbya	100	PN	[pred="ândrs sgwbya___Andrés Segovia__1",cat=PN]	ândrs sgwbya___Andrés Segovia__1	Default		%default	inv
-ândry tarkwfsky	100	PN	[pred="ândry tarkwfsky___Andrei Tarkovsky__1",cat=PN]	ândry tarkwfsky___Andrei Tarkovsky__1	Default		%default	inv
-ândr´as wzalyws	100	PN	[pred="ândr´as wzalyws___Andreas Vesalius__1",cat=PN]	ândr´as wzalyws___Andreas Vesalius__1	Default		%default	inv
-ândwr lylyntal	100	PN	[pred="ândwr lylyntal___Andor Lilienthal__1",cat=PN]	ândwr lylyntal___Andor Lilienthal__1	Default		%default	inv
-ângla mrkl	100	PN	[pred="ângla mrkl___Angela Merkel__1",cat=PN]	ângla mrkl___Angela Merkel__1	Default		%default	inv
-ânke fan xyrs_brxn	100	PN	[pred="ânke fan xyrs_brxn___Anneke van Giersbergen__1",cat=PN]	ânke fan xyrs_brxn___Anneke van Giersbergen__1	Default		%default	inv
-ântwan galan	100	PN	[pred="ântwan galan___Antoine Galland__1",cat=PN]	ântwan galan___Antoine Galland__1	Default		%default	inv
-ântwn wbrn	100	PN	[pred="ântwn wbrn___Anton Webern__1",cat=PN]	ântwn wbrn___Anton Webern__1	Default		%default	inv
-ântwn čxwf	100	PN	[pred="ântwn čxwf___Anton Chekhov__1",cat=PN]	ântwn čxwf___Anton Chekhov__1	Default		%default	inv
-ântwny myngla	100	PN	[pred="ântwny myngla___Anthony Minghella__1",cat=PN]	ântwny myngla___Anthony Minghella__1	Default		%default	inv
-ântwnyn rayša	100	PN	[pred="ântwnyn rayša___Anton Reicha__1",cat=PN]	ântwnyn rayša___Anton Reicha__1	Default		%default	inv
-ântwnyw bandras	100	PN	[pred="ântwnyw bandras___Antonio Banderas__1",cat=PN]	ântwnyw bandras___Antonio Banderas__1	Default		%default	inv
-ântwnyw wywaldy	100	PN	[pred="ântwnyw wywaldy___Antonio Vivaldi__1",cat=PN]	ântwnyw wywaldy___Antonio Vivaldi__1	Default		%default	inv
-âpwlwdwr	100	PN	[pred="âpwlwdwr___Apollodorus__1",cat=PN]	âpwlwdwr___Apollodorus__1	Default		%default	inv
-âramš dwstdar	100	PN	[pred="âramš dwstdar_____1",cat=PN]	âramš dwstdar_____1	Default		%default	inv
-ârata ayswzaky	100	PN	[pred="ârata ayswzaky___Arata Isozaki__1",cat=PN]	ârata ayswzaky___Arata Isozaki__1	Default		%default	inv
-ârby awansyan	100	PN	[pred="ârby awansyan_____1",cat=PN]	ârby awansyan_____1	Default		%default	inv
-ârman aryn	100	PN	[pred="ârman aryn_____1",cat=PN]	ârman aryn_____1	Default		%default	inv
-ârmyn maebanwzade	100	PN	[pred="ârmyn maebanwzade___Armin Mahbanoozadeh__1",cat=PN]	ârmyn maebanwzade___Armin Mahbanoozadeh__1	Default		%default	inv
-ârtwr balfwr	100	PN	[pred="ârtwr balfwr___Arthur Balfour__1",cat=PN]	ârtwr balfwr___Arthur Balfour__1	Default		%default	inv
-ârtwr kann dwyl	100	PN	[pred="ârtwr kann dwyl___Arthur Conan Doyle__1",cat=PN]	ârtwr kann dwyl___Arthur Conan Doyle__1	Default		%default	inv
-ârtwr kstlr	100	PN	[pred="ârtwr kstlr___Arthur Koestler__1",cat=PN]	ârtwr kstlr___Arthur Koestler__1	Default		%default	inv
-ârtwr rmbw	100	PN	[pred="ârtwr rmbw___Arthur Rimbaud__1",cat=PN]	ârtwr rmbw___Arthur Rimbaud__1	Default		%default	inv
-ârwn kwplnd	100	PN	[pred="ârwn kwplnd___Aaron Copland__1",cat=PN]	ârwn kwplnd___Aaron Copland__1	Default		%default	inv
-âry fwlmn	100	PN	[pred="âry fwlmn___Ari Folman__1",cat=PN]	âry fwlmn___Ari Folman__1	Default		%default	inv
-ârya faźly_mnš	100	PN	[pred="ârya faźly_mnš_____1",cat=PN]	ârya faźly_mnš_____1	Default		%default	inv
-âryk aynštyn	100	PN	[pred="âryk aynštyn___Arik Einstein__1",cat=PN]	âryk aynštyn___Arik Einstein__1	Default		%default	inv
-ârzw	200	PN	[pred="ârzw_____1",cat=PN]	ârzw_____1	Default		%default	inv
-ârčy_bald eyl	100	PN	[pred="ârčy_bald eyl___Archibald Hill__1",cat=PN]	ârčy_bald eyl___Archibald Hill__1	Default		%default	inv
-ârš lbaf	100	PN	[pred="ârš lbaf___Arash (entertainer)__1",cat=PN]	ârš lbaf___Arash (entertainer)__1	Default		%default	inv
-ârš sbłany	100	PN	[pred="ârš sbłany_____1",cat=PN]	ârš sbłany_____1	Default		%default	inv
-âršag čwbanyan	100	PN	[pred="âršag čwbanyan_____1",cat=PN]	âršag čwbanyan_____1	Default		%default	inv
-âstryd lyndgrn	100	PN	[pred="âstryd lyndgrn___Astrid Lindgren__1",cat=PN]	âstryd lyndgrn___Astrid Lindgren__1	Default		%default	inv
-âstwr pyatzwla	100	PN	[pred="âstwr pyatzwla___Astor Piazzolla__1",cat=PN]	âstwr pyatzwla___Astor Piazzolla__1	Default		%default	inv
-âsye jbar	100	PN	[pred="âsye jbar___Assia Djebar__1",cat=PN]	âsye jbar___Assia Djebar__1	Default		%default	inv
-âtne fŕye_nşyry	100	PN	[pred="âtne fŕye_nşyry_____1",cat=PN]	âtne fŕye_nşyry_____1	Default		%default	inv
-âtwm agwyan	100	PN	[pred="âtwm agwyan___Atom Egoyan__1",cat=PN]	âtwm agwyan___Atom Egoyan__1	Default		%default	inv
-âtyla aylean	100	PN	[pred="âtyla aylean___Attilâ Ilhan__1",cat=PN]	âtyla aylean___Attilâ Ilhan__1	Default		%default	inv
-âtyla psyany	100	PN	[pred="âtyla psyany_____1",cat=PN]	âtyla psyany_____1	Default		%default	inv
-âtyla ywzf	100	PN	[pred="âtyla ywzf___Attila József__1",cat=PN]	âtyla ywzf___Attila József__1	Default		%default	inv
-âwtyk aysaeakyan	100	PN	[pred="âwtyk aysaeakyan___Avetik Isahakyan__1",cat=PN]	âwtyk aysaeakyan___Avetik Isahakyan__1	Default		%default	inv
-âwygdwr lybrmn	100	PN	[pred="âwygdwr lybrmn___Avigdor Lieberman__1",cat=PN]	âwygdwr lybrmn___Avigdor Lieberman__1	Default		%default	inv
-ây. am. py	100	PN	[pred="ây. am. py___I. M. Pei__1",cat=PN]	ây. am. py___I. M. Pei__1	Default		%default	inv
-âyda kyxayy	100	PN	[pred="âyda kyxayy_____1",cat=PN]	âyda kyxayy_____1	Default		%default	inv
-âydyn aqdašlw	100	PN	[pred="âydyn aqdašlw___Aydin Aghdashloo__1",cat=PN]	âydyn aqdašlw___Aydin Aghdashloo__1	Default		%default	inv
-âydyn nykxwae beramy	100	PN	[pred="âydyn nykxwae beramy___Aidin Nikkhah Bahrami__1",cat=PN]	âydyn nykxwae beramy___Aidin Nikkhah Bahrami__1	Default		%default	inv
-âyn rnd	100	PN	[pred="âyn rnd___Ayn Rand__1",cat=PN]	âyn rnd___Ayn Rand__1	Default		%default	inv
-âzy azbwrn	100	PN	[pred="âzy azbwrn___Ozzy Osbourne__1",cat=PN]	âzy azbwrn___Ozzy Osbourne__1	Default		%default	inv
-âÄyn mwłd	100	PN	[pred="âÄyn mwłd_____1",cat=PN]	âÄyn mwłd_____1	Default		%default	inv
-âđr bygdly	100	PN	[pred="âđr bygdly_____1",cat=PN]	âđr bygdly_____1	Default		%default	inv
-âžda pkan	100	PN	[pred="âžda pkan___Ajda Pekkan__1",cat=PN]	âžda pkan___Ajda Pekkan__1	Default		%default	inv
+ābraeam walntayn wylyamz jkswn	100	PN	[pred="ābraeam walntayn wylyamz jkswn___A. V. Williams Jackson__1",cat=PN]	ābraeam walntayn wylyamz jkswn___A. V. Williams Jackson__1	Default		%default	inv
+ādry epbwrn	100	PN	[pred="ādry epbwrn___Audrey Hepburn__1",cat=PN]	ādry epbwrn___Audrey Hepburn__1	Default		%default	inv
+ādry tatw	100	PN	[pred="ādry tatw___Audrey Tautou__1",cat=PN]	ādry tatw___Audrey Tautou__1	Default		%default	inv
+ādwlf kwtle	100	PN	[pred="ādwlf kwtle___Adolphe Quetelet__1",cat=PN]	ādwlf kwtle___Adolphe Quetelet__1	Default		%default	inv
+āfryn 'bysy	100	PN	[pred="āfryn 'bysy_____1",cat=PN]	āfryn 'bysy_____1	Default		%default	inv
+āgwst frdynannd mwbyws	100	PN	[pred="āgwst frdynannd mwbyws___August Ferdinand Möbius__1",cat=PN]	āgwst frdynannd mwbyws___August Ferdinand Möbius__1	Default		%default	inv
+āgwstws jan	100	PN	[pred="āgwstws jan___Augustus John__1",cat=PN]	āgwstws jan___Augustus John__1	Default		%default	inv
+ālban brg	100	PN	[pred="ālban brg___Alban Berg__1",cat=PN]	ālban brg___Alban Berg__1	Default		%default	inv
+ālbr kamw	100	PN	[pred="ālbr kamw___Albert Camus__1",cat=PN]	ālbr kamw___Albert Camus__1	Default		%default	inv
+ālbr rwsl	100	PN	[pred="ālbr rwsl___Albert Roussel__1",cat=PN]	ālbr rwsl___Albert Roussel__1	Default		%default	inv
+ālbrt kan	100	PN	[pred="ālbrt kan___Albert Kahn (architect)__1",cat=PN]	ālbrt kan___Albert Kahn (architect)__1	Default		%default	inv
+ālbrt rz	100	PN	[pred="ālbrt rz___Albert Rose__1",cat=PN]	ālbrt rz___Albert Rose__1	Default		%default	inv
+āldn daw	100	PN	[pred="āldn daw___Alden B. Dow__1",cat=PN]	āldn daw___Alden B. Dow__1	Default		%default	inv
+ālfrd bstr	100	PN	[pred="ālfrd bstr___Alfred Bester__1",cat=PN]	ālfrd bstr___Alfred Bester__1	Default		%default	inv
+ālfrd nwbl	100	PN	[pred="ālfrd nwbl___Alfred Nobel__1",cat=PN]	ālfrd nwbl___Alfred Nobel__1	Default		%default	inv
+ālfwns dwlamartyn	100	PN	[pred="ālfwns dwlamartyn___Alphonse de Lamartine__1",cat=PN]	ālfwns dwlamartyn___Alphonse de Lamartine__1	Default		%default	inv
+āln bqwsyan	100	PN	[pred="āln bqwsyan___Alain Boghossian__1",cat=PN]	āln bqwsyan___Alain Boghossian__1	Default		%default	inv
+āln rykmn	100	PN	[pred="āln rykmn___Alan Rickman__1",cat=PN]	āln rykmn___Alan Rickman__1	Default		%default	inv
+āln swkal	100	PN	[pred="āln swkal___Alan Sokal__1",cat=PN]	āln swkal___Alan Sokal__1	Default		%default	inv
+ālwarw arbe_lwa	100	PN	[pred="ālwarw arbe_lwa___Álvaro Arbeloa__1",cat=PN]	ālwarw arbe_lwa___Álvaro Arbeloa__1	Default		%default	inv
+ālynwš ţryan	100	PN	[pred="ālynwš ţryan_____1",cat=PN]	ālynwš ţryan_____1	Default		%default	inv
+ālys emyltwn	100	PN	[pred="ālys emyltwn___Alice Hamilton__1",cat=PN]	ālys emyltwn___Alice Hamilton__1	Default		%default	inv
+ālys sbald	100	PN	[pred="ālys sbald___Alice Sebold__1",cat=PN]	ālys sbald___Alice Sebold__1	Default		%default	inv
+ālysa klybanwwa	100	PN	[pred="ālysa klybanwwa___Alisa Kleybanova__1",cat=PN]	ālysa klybanwwa___Alisa Kleybanova__1	Default		%default	inv
+āmadÂ´w awwgadrw	100	PN	[pred="āmadÂ´w awwgadrw___Amedeo Avogadro__1",cat=PN]	āmadÂ´w awwgadrw___Amedeo Avogadro__1	Default		%default	inv
+āmne bygm mjlsy	100	PN	[pred="āmne bygm mjlsy_____1",cat=PN]	āmne bygm mjlsy_____1	Default		%default	inv
+āna aywanwwyč	100	PN	[pred="āna aywanwwyč___Ana Ivanović__1",cat=PN]	āna aywanwwyč___Ana Ivanović__1	Default		%default	inv
+āna janswn pl wylr	100	PN	[pred="āna janswn pl wylr___Anna Johnson Pell Wheeler__1",cat=PN]	āna janswn pl wylr___Anna Johnson Pell Wheeler__1	Default		%default	inv
+āna nykwl asmyt	100	PN	[pred="āna nykwl asmyt___Anna Nicole Smith__1",cat=PN]	āna nykwl asmyt___Anna Nicole Smith__1	Default		%default	inv
+ānaeyta emty	100	PN	[pred="ānaeyta emty_____1",cat=PN]	ānaeyta emty_____1	Default		%default	inv
+ānaeyta n'mty	100	PN	[pred="ānaeyta n'mty_____1",cat=PN]	ānaeyta n'mty_____1	Default		%default	inv
+ānastazya	100	PN	[pred="ānastazya___Anastacia__1",cat=PN]	ānastazya___Anastacia__1	Default		%default	inv
+ānatwly karpf	100	PN	[pred="ānatwly karpf___Anatoly Karpov__1",cat=PN]	ānatwly karpf___Anatoly Karpov__1	Default		%default	inv
+āndranyk mddyan	100	PN	[pred="āndranyk mddyan___Andranik Madadian__1",cat=PN]	āndranyk mddyan___Andranik Madadian__1	Default		%default	inv
+āndre žwlywe	100	PN	[pred="āndre žwlywe___André Jolivet__1",cat=PN]	āndre žwlywe___André Jolivet__1	Default		%default	inv
+āndrs sgwbya	100	PN	[pred="āndrs sgwbya___Andrés Segovia__1",cat=PN]	āndrs sgwbya___Andrés Segovia__1	Default		%default	inv
+āndry tarkwfsky	100	PN	[pred="āndry tarkwfsky___Andrei Tarkovsky__1",cat=PN]	āndry tarkwfsky___Andrei Tarkovsky__1	Default		%default	inv
+āndr´as wzalyws	100	PN	[pred="āndr´as wzalyws___Andreas Vesalius__1",cat=PN]	āndr´as wzalyws___Andreas Vesalius__1	Default		%default	inv
+āndwr lylyntal	100	PN	[pred="āndwr lylyntal___Andor Lilienthal__1",cat=PN]	āndwr lylyntal___Andor Lilienthal__1	Default		%default	inv
+āngla mrkl	100	PN	[pred="āngla mrkl___Angela Merkel__1",cat=PN]	āngla mrkl___Angela Merkel__1	Default		%default	inv
+ānke fan xyrs_brxn	100	PN	[pred="ānke fan xyrs_brxn___Anneke van Giersbergen__1",cat=PN]	ānke fan xyrs_brxn___Anneke van Giersbergen__1	Default		%default	inv
+āntwan galan	100	PN	[pred="āntwan galan___Antoine Galland__1",cat=PN]	āntwan galan___Antoine Galland__1	Default		%default	inv
+āntwn wbrn	100	PN	[pred="āntwn wbrn___Anton Webern__1",cat=PN]	āntwn wbrn___Anton Webern__1	Default		%default	inv
+āntwn čxwf	100	PN	[pred="āntwn čxwf___Anton Chekhov__1",cat=PN]	āntwn čxwf___Anton Chekhov__1	Default		%default	inv
+āntwny myngla	100	PN	[pred="āntwny myngla___Anthony Minghella__1",cat=PN]	āntwny myngla___Anthony Minghella__1	Default		%default	inv
+āntwnyn rayša	100	PN	[pred="āntwnyn rayša___Anton Reicha__1",cat=PN]	āntwnyn rayša___Anton Reicha__1	Default		%default	inv
+āntwnyw bandras	100	PN	[pred="āntwnyw bandras___Antonio Banderas__1",cat=PN]	āntwnyw bandras___Antonio Banderas__1	Default		%default	inv
+āntwnyw wywaldy	100	PN	[pred="āntwnyw wywaldy___Antonio Vivaldi__1",cat=PN]	āntwnyw wywaldy___Antonio Vivaldi__1	Default		%default	inv
+āpwlwdwr	100	PN	[pred="āpwlwdwr___Apollodorus__1",cat=PN]	āpwlwdwr___Apollodorus__1	Default		%default	inv
+āramš dwstdar	100	PN	[pred="āramš dwstdar_____1",cat=PN]	āramš dwstdar_____1	Default		%default	inv
+ārata ayswzaky	100	PN	[pred="ārata ayswzaky___Arata Isozaki__1",cat=PN]	ārata ayswzaky___Arata Isozaki__1	Default		%default	inv
+ārby awansyan	100	PN	[pred="ārby awansyan_____1",cat=PN]	ārby awansyan_____1	Default		%default	inv
+ārman aryn	100	PN	[pred="ārman aryn_____1",cat=PN]	ārman aryn_____1	Default		%default	inv
+ārmyn maebanwzade	100	PN	[pred="ārmyn maebanwzade___Armin Mahbanoozadeh__1",cat=PN]	ārmyn maebanwzade___Armin Mahbanoozadeh__1	Default		%default	inv
+ārtwr balfwr	100	PN	[pred="ārtwr balfwr___Arthur Balfour__1",cat=PN]	ārtwr balfwr___Arthur Balfour__1	Default		%default	inv
+ārtwr kann dwyl	100	PN	[pred="ārtwr kann dwyl___Arthur Conan Doyle__1",cat=PN]	ārtwr kann dwyl___Arthur Conan Doyle__1	Default		%default	inv
+ārtwr kstlr	100	PN	[pred="ārtwr kstlr___Arthur Koestler__1",cat=PN]	ārtwr kstlr___Arthur Koestler__1	Default		%default	inv
+ārtwr rmbw	100	PN	[pred="ārtwr rmbw___Arthur Rimbaud__1",cat=PN]	ārtwr rmbw___Arthur Rimbaud__1	Default		%default	inv
+ārwn kwplnd	100	PN	[pred="ārwn kwplnd___Aaron Copland__1",cat=PN]	ārwn kwplnd___Aaron Copland__1	Default		%default	inv
+āry fwlmn	100	PN	[pred="āry fwlmn___Ari Folman__1",cat=PN]	āry fwlmn___Ari Folman__1	Default		%default	inv
+ārya faźly_mnš	100	PN	[pred="ārya faźly_mnš_____1",cat=PN]	ārya faźly_mnš_____1	Default		%default	inv
+āryk aynštyn	100	PN	[pred="āryk aynštyn___Arik Einstein__1",cat=PN]	āryk aynštyn___Arik Einstein__1	Default		%default	inv
+ārzw	200	PN	[pred="ārzw_____1",cat=PN]	ārzw_____1	Default		%default	inv
+ārčy_bald eyl	100	PN	[pred="ārčy_bald eyl___Archibald Hill__1",cat=PN]	ārčy_bald eyl___Archibald Hill__1	Default		%default	inv
+ārš lbaf	100	PN	[pred="ārš lbaf___Arash (entertainer)__1",cat=PN]	ārš lbaf___Arash (entertainer)__1	Default		%default	inv
+ārš sbħany	100	PN	[pred="ārš sbħany_____1",cat=PN]	ārš sbħany_____1	Default		%default	inv
+āršag čwbanyan	100	PN	[pred="āršag čwbanyan_____1",cat=PN]	āršag čwbanyan_____1	Default		%default	inv
+āstryd lyndgrn	100	PN	[pred="āstryd lyndgrn___Astrid Lindgren__1",cat=PN]	āstryd lyndgrn___Astrid Lindgren__1	Default		%default	inv
+āstwr pyatzwla	100	PN	[pred="āstwr pyatzwla___Astor Piazzolla__1",cat=PN]	āstwr pyatzwla___Astor Piazzolla__1	Default		%default	inv
+āsye jbar	100	PN	[pred="āsye jbar___Assia Djebar__1",cat=PN]	āsye jbar___Assia Djebar__1	Default		%default	inv
+ātne fŕye_nşyry	100	PN	[pred="ātne fŕye_nşyry_____1",cat=PN]	ātne fŕye_nşyry_____1	Default		%default	inv
+ātwm agwyan	100	PN	[pred="ātwm agwyan___Atom Egoyan__1",cat=PN]	ātwm agwyan___Atom Egoyan__1	Default		%default	inv
+ātyla aylean	100	PN	[pred="ātyla aylean___Attilā Ilhan__1",cat=PN]	ātyla aylean___Attilā Ilhan__1	Default		%default	inv
+ātyla psyany	100	PN	[pred="ātyla psyany_____1",cat=PN]	ātyla psyany_____1	Default		%default	inv
+ātyla ywzf	100	PN	[pred="ātyla ywzf___Attila József__1",cat=PN]	ātyla ywzf___Attila József__1	Default		%default	inv
+āwtyk aysaeakyan	100	PN	[pred="āwtyk aysaeakyan___Avetik Isahakyan__1",cat=PN]	āwtyk aysaeakyan___Avetik Isahakyan__1	Default		%default	inv
+āwygdwr lybrmn	100	PN	[pred="āwygdwr lybrmn___Avigdor Lieberman__1",cat=PN]	āwygdwr lybrmn___Avigdor Lieberman__1	Default		%default	inv
+āy. am. py	100	PN	[pred="āy. am. py___I. M. Pei__1",cat=PN]	āy. am. py___I. M. Pei__1	Default		%default	inv
+āyda kyxayy	100	PN	[pred="āyda kyxayy_____1",cat=PN]	āyda kyxayy_____1	Default		%default	inv
+āydyn aqdašlw	100	PN	[pred="āydyn aqdašlw___Aydin Aghdashloo__1",cat=PN]	āydyn aqdašlw___Aydin Aghdashloo__1	Default		%default	inv
+āydyn nykxwae beramy	100	PN	[pred="āydyn nykxwae beramy___Aidin Nikkhah Bahrami__1",cat=PN]	āydyn nykxwae beramy___Aidin Nikkhah Bahrami__1	Default		%default	inv
+āyn rnd	100	PN	[pred="āyn rnd___Ayn Rand__1",cat=PN]	āyn rnd___Ayn Rand__1	Default		%default	inv
+āzy azbwrn	100	PN	[pred="āzy azbwrn___Ozzy Osbourne__1",cat=PN]	āzy azbwrn___Ozzy Osbourne__1	Default		%default	inv
+āÄyn mwħd	100	PN	[pred="āÄyn mwħd_____1",cat=PN]	āÄyn mwħd_____1	Default		%default	inv
+āđr bygdly	100	PN	[pred="āđr bygdly_____1",cat=PN]	āđr bygdly_____1	Default		%default	inv
+āžda pkan	100	PN	[pred="āžda pkan___Ajda Pekkan__1",cat=PN]	āžda pkan___Ajda Pekkan__1	Default		%default	inv
 čak bry	100	PN	[pred="čak bry___Chuck Berry__1",cat=PN]	čak bry___Chuck Berry__1	Default		%default	inv
 čak klwz	100	PN	[pred="čak klwz___Chuck Close__1",cat=PN]	čak klwz___Chuck Close__1	Default		%default	inv
 čak šwldynr	100	PN	[pred="čak šwldynr___Chuck Schuldiner__1",cat=PN]	čak šwldynr___Chuck Schuldiner__1	Default		%default	inv
@@ -6842,7 +6842,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 čarlz tamswn	100	PN	[pred="čarlz tamswn___Charles Thomson (artist)__1",cat=PN]	čarlz tamswn___Charles Thomson (artist)__1	Default		%default	inv
 čarlz tamswn rys wylswn	100	PN	[pred="čarlz tamswn rys wylswn___Charles Thomson Rees Wilson__1",cat=PN]	čarlz tamswn rys wylswn___Charles Thomson Rees Wilson__1	Default		%default	inv
 čarlz tylwr	100	PN	[pred="čarlz tylwr___Charles Taylor (philosopher)__1",cat=PN]	čarlz tylwr___Charles Taylor (philosopher)__1	Default		%default	inv
-čarlz âywz	100	PN	[pred="čarlz âywz___Charles Ives__1",cat=PN]	čarlz âywz___Charles Ives__1	Default		%default	inv
+čarlz āywz	100	PN	[pred="čarlz āywz___Charles Ives__1",cat=PN]	čarlz āywz___Charles Ives__1	Default		%default	inv
 čarlz šryngtwn	100	PN	[pred="čarlz šryngtwn___Charles Scott Sherrington__1",cat=PN]	čarlz šryngtwn___Charles Scott Sherrington__1	Default		%default	inv
 čd čnyng	100	PN	[pred="čd čnyng___Chad Channing__1",cat=PN]	čd čnyng___Chad Channing__1	Default		%default	inv
 če_gwara	100	PN	[pred="če_gwara___Che Guevara__1",cat=PN]	če_gwara___Che Guevara__1	Default		%default	inv
@@ -6851,8 +6851,8 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 čn ea´w	100	PN	[pred="čn ea´w___Chen Hao__1",cat=PN]	čn ea´w___Chen Hao__1	Default		%default	inv
 čng ee	100	PN	[pred="čng ee___Zheng He__1",cat=PN]	čng ee___Zheng He__1	Default		%default	inv
 čngyz jlylwnd	100	PN	[pred="čngyz jlylwnd_____1",cat=PN]	čngyz jlylwnd_____1	Default		%default	inv
-čngyz âytmatwf	100	PN	[pred="čngyz âytmatwf___Chinghiz Aitmatov__1",cat=PN]	čngyz âytmatwf___Chinghiz Aitmatov__1	Default		%default	inv
-čraq'ly a'żmy sngsry	100	PN	[pred="čraq'ly a'żmy sngsry_____1",cat=PN]	čraq'ly a'żmy sngsry_____1	Default		%default	inv
+čngyz āytmatwf	100	PN	[pred="čngyz āytmatwf___Chinghiz Aitmatov__1",cat=PN]	čngyz āytmatwf___Chinghiz Aitmatov__1	Default		%default	inv
+čraq'ly a'ẓmy sngsry	100	PN	[pred="čraq'ly a'ẓmy sngsry_____1",cat=PN]	čraq'ly a'ẓmy sngsry_____1	Default		%default	inv
 čstr bnyngtwn	100	PN	[pred="čstr bnyngtwn___Chester Bennington__1",cat=PN]	čstr bnyngtwn___Chester Bennington__1	Default		%default	inv
 čt bykr	100	PN	[pred="čt bykr___Chet Baker__1",cat=PN]	čt bykr___Chet Baker__1	Default		%default	inv
 čw an_lay	100	PN	[pred="čw an_lay___Zhou Enlai__1",cat=PN]	čw an_lay___Zhou Enlai__1	Default		%default	inv
@@ -6861,272 +6861,272 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 čwy sw jwng	100	PN	[pred="čwy sw jwng___Choi Soo Jong__1",cat=PN]	čwy sw jwng___Choi Soo Jong__1	Default		%default	inv
 čyang kay_šk	100	PN	[pred="čyang kay_šk___Chiang Kai-shek__1",cat=PN]	čyang kay_šk___Chiang Kai-shek__1	Default		%default	inv
 čyk kwrya	100	PN	[pred="čyk kwrya___Chick Corea__1",cat=PN]	čyk kwrya___Chick Corea__1	Default		%default	inv
-đbył_alle mnşwry	100	PN	[pred="đbył_alle mnşwry_____1",cat=PN]	đbył_alle mnşwry_____1	Default		%default	inv
-đbył_alle şfa	100	PN	[pred="đbył_alle şfa___Zabihollah Safa__1",cat=PN]	đbył_alle şfa___Zabihollah Safa__1	Default		%default	inv
+đbyħ_alle mnşwry	100	PN	[pred="đbyħ_alle mnşwry_____1",cat=PN]	đbyħ_alle mnşwry_____1	Default		%default	inv
+đbyħ_alle şfa	100	PN	[pred="đbyħ_alle şfa___Zabihollah Safa__1",cat=PN]	đbyħ_alle şfa___Zabihollah Safa__1	Default		%default	inv
 đwalfŕar 'ly bwtw	100	PN	[pred="đwalfŕar 'ly bwtw___Zulfikar Ali Bhutto__1",cat=PN]	đwalfŕar 'ly bwtw___Zulfikar Ali Bhutto__1	Default		%default	inv
-łafż	100	PN	[pred="łafż___Hafez__1",cat=PN]	łafż___Hafez__1	Default		%default	inv
-łafż abrw	100	PN	[pred="łafż abrw_____1",cat=PN]	łafż abrw_____1	Default		%default	inv
-łafż asd	100	PN	[pred="łafż asd___Hafez al-Assad__1",cat=PN]	łafż asd___Hafez al-Assad__1	Default		%default	inv
-łafż mwswy	100	PN	[pred="łafż mwswy_____1",cat=PN]	łafż mwswy_____1	Default		%default	inv
-łaj asma'yl dwlaby	100	PN	[pred="łaj asma'yl dwlaby_____1",cat=PN]	łaj asma'yl dwlaby_____1	Default		%default	inv
-łaj ayaz xan ŕšŕayy	100	PN	[pred="łaj ayaz xan ŕšŕayy_____1",cat=PN]	łaj ayaz xan ŕšŕayy_____1	Default		%default	inv
-łaj aŕa rłym arbab	100	PN	[pred="łaj aŕa rłym arbab_____1",cat=PN]	łaj aŕa rłym arbab_____1	Default		%default	inv
-łaj babaxan ardbyly	100	PN	[pred="łaj babaxan ardbyly___Haj Baba Khan-e-Ardabili__1",cat=PN]	łaj babaxan ardbyly___Haj Baba Khan-e-Ardabili__1	Default		%default	inv
-łaj mla aŕajan	100	PN	[pred="łaj mla aŕajan_____1",cat=PN]	łaj mla aŕajan_____1	Default		%default	inv
-łajy aŕa myr ršty	100	PN	[pred="łajy aŕa myr ršty_____1",cat=PN]	łajy aŕa myr ršty_____1	Default		%default	inv
-łajy myrza łsn xan xbyralmlk	100	PN	[pred="łajy myrza łsn xan xbyralmlk_____1",cat=PN]	łajy myrza łsn xan xbyralmlk_____1	Default		%default	inv
-łajy wašngtn	100	PN	[pred="łajy wašngtn___Haji Washington__1",cat=PN]	łajy wašngtn___Haji Washington__1	Default		%default	inv
-łajy_'ly rzm_ara	100	PN	[pred="łajy_'ly rzm_ara___Haj Ali Razmara__1",cat=PN]	łajy_'ly rzm_ara___Haj Ali Razmara__1	Default		%default	inv
-łaly ardbyly	100	PN	[pred="łaly ardbyly_____1",cat=PN]	łaly ardbyly_____1	Default		%default	inv
-łamd bedad	100	PN	[pred="łamd bedad___Hamed Behdad__1",cat=PN]	łamd bedad___Hamed Behdad__1	Default		%default	inv
-łamd kawyanpwr	100	PN	[pred="łamd kawyanpwr___Hamed Kavianpour__1",cat=PN]	łamd kawyanpwr___Hamed Kavianpour__1	Default		%default	inv
-łamd kmyly	100	PN	[pred="łamd kmyly_____1",cat=PN]	łamd kmyly_____1	Default		%default	inv
-łamd krzy	100	PN	[pred="łamd krzy___Hamid Karzai__1",cat=PN]	łamd krzy___Hamid Karzai__1	Default		%default	inv
-łamd mlk_młmdy m'mar	100	PN	[pred="łamd mlk_młmdy m'mar_____1",cat=PN]	łamd mlk_młmdy m'mar_____1	Default		%default	inv
-łamd nyk_py	100	PN	[pred="łamd nyk_py_____1",cat=PN]	łamd nyk_py_____1	Default		%default	inv
-łamd serab_nžad	100	PN	[pred="łamd serab_nžad___Hamed Sohrabnejad__1",cat=PN]	łamd serab_nžad___Hamed Sohrabnejad__1	Default		%default	inv
-łamd łdady	100	PN	[pred="łamd łdady___Hamed Haddadi__1",cat=PN]	łamd łdady___Hamed Haddadi__1	Default		%default	inv
-łamdy aşfeany	100	PN	[pred="łamdy aşfeany_____1",cat=PN]	łamdy aşfeany_____1	Default		%default	inv
-łarç bn amry alŕys kndy	100	PN	[pred="łarç bn amry alŕys kndy_____1",cat=PN]	łarç bn amry alŕys kndy_____1	Default		%default	inv
-łayym wayzmn	100	PN	[pred="łayym wayzmn___Chaim Weizmann__1",cat=PN]	łayym wayzmn___Chaim Weizmann__1	Default		%default	inv
-łbYb saer	100	PN	[pred="łbYb saer_____1",cat=PN]	łbYb saer_____1	Default		%default	inv
-łbeangwr	100	PN	[pred="łbeangwr_____1",cat=PN]	łbeangwr_____1	Default		%default	inv
-łbyb ałmdzade	100	PN	[pred="łbyb ałmdzade_____1",cat=PN]	łbyb ałmdzade_____1	Default		%default	inv
-łbyb bn 'bd alle nešly	100	PN	[pred="łbyb bn 'bd alle nešly_____1",cat=PN]	łbyb bn 'bd alle nešly_____1	Default		%default	inv
-łbyb kwze_ly	100	PN	[pred="łbyb kwze_ly_____1",cat=PN]	łbyb kwze_ly_____1	Default		%default	inv
-łbyb młbyan	100	PN	[pred="łbyb młbyan_____1",cat=PN]	łbyb młbyan_____1	Default		%default	inv
-łbyb rźayy	100	PN	[pred="łbyb rźayy_____1",cat=PN]	łbyb rźayy_____1	Default		%default	inv
-łbyb yqmayy	100	PN	[pred="łbyb yqmayy_____1",cat=PN]	łbyb yqmayy_____1	Default		%default	inv
-łbyb ŕadry	100	PN	[pred="łbyb ŕadry_____1",cat=PN]	łbyb ŕadry_____1	Default		%default	inv
-łbyb_alle 'sgrawlady	100	PN	[pred="łbyb_alle 'sgrawlady___Habibollah Asgaroladi__1",cat=PN]	łbyb_alle 'sgrawlady___Habibollah Asgaroladi__1	Default		%default	inv
-łbyb_alle 'yn_almlk	100	PN	[pred="łbyb_alle 'yn_almlk_____1",cat=PN]	łbyb_alle 'yn_almlk_____1	Default		%default	inv
-łbyb_alle blwr	100	PN	[pred="łbyb_alle blwr_____1",cat=PN]	łbyb_alle blwr_____1	Default		%default	inv
-łbyb_alle pyman	100	PN	[pred="łbyb_alle pyman___Habibollah Peyman__1",cat=PN]	łbyb_alle pyman___Habibollah Peyman__1	Default		%default	inv
-łbyb_alle âšwry	100	PN	[pred="łbyb_alle âšwry_____1",cat=PN]	łbyb_alle âšwry_____1	Default		%default	inv
-łbš łasb	100	PN	[pred="łbš łasb___Habash al-Hasib al-Marwazi__1",cat=PN]	łbš łasb___Habash al-Hasib al-Marwazi__1	Default		%default	inv
-łdyç fwladwnd	100	PN	[pred="łdyç fwladwnd_____1",cat=PN]	łdyç fwladwnd_____1	Default		%default	inv
-łdyçe	100	PN	[pred="łdyçe___Hadise__1",cat=PN]	łdyçe___Hadise__1	Default		%default	inv
-łjaj bn msrwŕ j'fy	100	PN	[pred="łjaj bn msrwŕ j'fy_____1",cat=PN]	łjaj bn msrwŕ j'fy_____1	Default		%default	inv
-łjaj bn zyd s'dy	100	PN	[pred="łjaj bn zyd s'dy_____1",cat=PN]	łjaj bn zyd s'dy_____1	Default		%default	inv
-łjt_alle wa'ży	100	PN	[pred="łjt_alle wa'ży___Hojjatollah Vaezi__1",cat=PN]	łjt_alle wa'ży___Hojjatollah Vaezi__1	Default		%default	inv
-łkak mrqzy	100	PN	[pred="łkak mrqzy_____1",cat=PN]	łkak mrqzy_____1	Default		%default	inv
-łkmt_alle mlaşalły	100	PN	[pred="łkmt_alle mlaşalły_____1",cat=PN]	łkmt_alle mlaşalły_____1	Default		%default	inv
-łkym bn ţfyl	100	PN	[pred="łkym bn ţfyl_____1",cat=PN]	łkym bn ţfyl_____1	Default		%default	inv
-łkym eydjy	100	PN	[pred="łkym eydjy_____1",cat=PN]	łkym eydjy_____1	Default		%default	inv
-łkym snayy	100	PN	[pred="łkym snayy___Sanai__1",cat=PN]	łkym snayy___Sanai__1	Default		%default	inv
-łkym şbwry	100	PN	[pred="łkym şbwry_____1",cat=PN]	łkym şbwry_____1	Default		%default	inv
-łlas bn 'mr rasby	100	PN	[pred="łlas bn 'mr rasby_____1",cat=PN]	łlas bn 'mr rasby_____1	Default		%default	inv
-łmdalle mstwfy	100	PN	[pred="łmdalle mstwfy___Hamdollah Mostowfi__1",cat=PN]	łmdalle mstwfy___Hamdollah Mostowfi__1	Default		%default	inv
-łmyd 'bdalmlky	100	PN	[pred="łmyd 'bdalmlky_____1",cat=PN]	łmyd 'bdalmlky_____1	Default		%default	inv
-łmyd 'lydwsty	100	PN	[pred="łmyd 'lydwsty___Hamid Alidousti__1",cat=PN]	łmyd 'lydwsty___Hamid Alidousti__1	Default		%default	inv
-łmyd 'nayt	100	PN	[pred="łmyd 'nayt_____1",cat=PN]	łmyd 'nayt_____1	Default		%default	inv
-łmyd 'skry	100	PN	[pred="łmyd 'skry___Hamid_Askari__1",cat=PN]	łmyd 'skry___Hamid_Askari__1	Default		%default	inv
-łmyd abraeymy	100	PN	[pred="łmyd abraeymy_____1",cat=PN]	łmyd abraeymy_____1	Default		%default	inv
-łmyd amjd	100	PN	[pred="łmyd amjd_____1",cat=PN]	łmyd amjd_____1	Default		%default	inv
-łmyd astyly	100	PN	[pred="łmyd astyly___Hamid Estili__1",cat=PN]	łmyd astyly___Hamid Estili__1	Default		%default	inv
-łmyd ašrf	100	PN	[pred="łmyd ašrf_____1",cat=PN]	łmyd ašrf_____1	Default		%default	inv
-łmyd dbašy	100	PN	[pred="łmyd dbašy___Hamid Dabashi__1",cat=PN]	łmyd dbašy___Hamid Dabashi__1	Default		%default	inv
-łmyd drxšan	100	PN	[pred="łmyd drxšan___Hamid Derakhshan__1",cat=PN]	łmyd drxšan___Hamid Derakhshan__1	Default		%default	inv
-łmyd frx_nžad	100	PN	[pred="łmyd frx_nžad___Hamid Farrokhnezhad__1",cat=PN]	łmyd frx_nžad___Hamid Farrokhnezhad__1	Default		%default	inv
-łmyd gwdrzy	100	PN	[pred="łmyd gwdrzy_____1",cat=PN]	łmyd gwdrzy_____1	Default		%default	inv
-łmyd j'frxany	100	PN	[pred="łmyd j'frxany___Hamid Jafarkhani__1",cat=PN]	łmyd j'frxany___Hamid Jafarkhani__1	Default		%default	inv
-łmyd jbly	100	PN	[pred="łmyd jbly_____1",cat=PN]	łmyd jbly_____1	Default		%default	inv
-łmyd lsany	100	PN	[pred="łmyd lsany_____1",cat=PN]	łmyd lsany_____1	Default		%default	inv
-łmyd lwlayy	100	PN	[pred="łmyd lwlayy_____1",cat=PN]	łmyd lwlayy_____1	Default		%default	inv
-łmyd meyn_dwst	100	PN	[pred="łmyd meyn_dwst_____1",cat=PN]	łmyd meyn_dwst_____1	Default		%default	inv
-łmyd mtbsm	100	PN	[pred="łmyd mtbsm___Hamid Motebassem__1",cat=PN]	łmyd mtbsm___Hamid Motebassem__1	Default		%default	inv
-łmyd mşdŕ	100	PN	[pred="łmyd mşdŕ_____1",cat=PN]	łmyd mşdŕ_____1	Default		%default	inv
-łmyd ndymy	100	PN	[pred="łmyd ndymy_____1",cat=PN]	łmyd ndymy_____1	Default		%default	inv
-łmyd rsayy	100	PN	[pred="łmyd rsayy_____1",cat=PN]	łmyd rsayy_____1	Default		%default	inv
-łmyd smndryan	100	PN	[pred="łmyd smndryan_____1",cat=PN]	łmyd smndryan_____1	Default		%default	inv
-łmyd swryan	100	PN	[pred="łmyd swryan___Hamid Sourian__1",cat=PN]	łmyd swryan___Hamid Sourian__1	Default		%default	inv
-łmyd syał	100	PN	[pred="łmyd syał_____1",cat=PN]	łmyd syał_____1	Default		%default	inv
-łmyd tmjydy	100	PN	[pred="łmyd tmjydy___Hamid Tamjidi__1",cat=PN]	łmyd tmjydy___Hamid Tamjidi__1	Default		%default	inv
-łmyd łajy_zade	100	PN	[pred="łmyd łajy_zade_____1",cat=PN]	łmyd łajy_zade_____1	Default		%default	inv
-łmyd łmze	100	PN	[pred="łmyd łmze_____1",cat=PN]	łmyd łmze_____1	Default		%default	inv
-łmyd ŕnbry	100	PN	[pred="łmyd ŕnbry_____1",cat=PN]	łmyd ŕnbry_____1	Default		%default	inv
-łmyd šb_xyz	100	PN	[pred="łmyd šb_xyz_____1",cat=PN]	łmyd šb_xyz_____1	Default		%default	inv
-łmyd šyrzadgan	100	PN	[pred="łmyd šyrzadgan___Hamid Shirzadegan__1",cat=PN]	łmyd šyrzadgan___Hamid Shirzadegan__1	Default		%default	inv
-łmyd źyayy_prwr	100	PN	[pred="łmyd źyayy_prwr_____1",cat=PN]	łmyd źyayy_prwr_____1	Default		%default	inv
-łmydrźa 'ly_'sgry	100	PN	[pred="łmydrźa 'ly_'sgry___Hamidreza Aliasgari__1",cat=PN]	łmydrźa 'ly_'sgry___Hamidreza Aliasgari__1	Default		%default	inv
-łmydrźa afšar	100	PN	[pred="łmydrźa afšar_____1",cat=PN]	łmydrźa afšar_____1	Default		%default	inv
-łmydrźa jlayy_pwr	100	PN	[pred="łmydrźa jlayy_pwr_____1",cat=PN]	łmydrźa jlayy_pwr_____1	Default		%default	inv
-łmydrźa njfy	100	PN	[pred="łmydrźa njfy_____1",cat=PN]	łmydrźa njfy_____1	Default		%default	inv
-łmydrźa nwrbxš	100	PN	[pred="łmydrźa nwrbxš___Hamid Reza Noorbakhsh__1",cat=PN]	łmydrźa nwrbxš___Hamid Reza Noorbakhsh__1	Default		%default	inv
-łmydrźa pgae	100	PN	[pred="łmydrźa pgae_____1",cat=PN]	łmydrźa pgae_____1	Default		%default	inv
-łmydrźa łamy	100	PN	[pred="łmydrźa łamy_____1",cat=PN]	łmydrźa łamy_____1	Default		%default	inv
-łmydrźa šyrmłmdy	100	PN	[pred="łmydrźa šyrmłmdy_____1",cat=PN]	łmydrźa šyrmłmdy_____1	Default		%default	inv
-łmyra	100	PN	[pred="łmyra___Homeyra__1",cat=PN]	łmyra___Homeyra__1	Default		%default	inv
-łmyra ŕadry	100	PN	[pred="łmyra ŕadry_____1",cat=PN]	łmyra ŕadry_____1	Default		%default	inv
-łmze aşfeany	100	PN	[pred="łmze aşfeany_____1",cat=PN]	łmze aşfeany_____1	Default		%default	inv
-łmze bwbkr	100	PN	[pred="łmze bwbkr_____1",cat=PN]	łmze bwbkr_____1	Default		%default	inv
-łmze qafl systany	100	PN	[pred="łmze qafl systany_____1",cat=PN]	łmze qafl systany_____1	Default		%default	inv
-łmze qalby	100	PN	[pred="łmze qalby_____1",cat=PN]	łmze qalby_____1	Default		%default	inv
-łmze rabrtswn	100	PN	[pred="łmze rabrtswn___Hamza Robertson__1",cat=PN]	łmze rabrtswn___Hamza Robertson__1	Default		%default	inv
-łna mxmlbaf	100	PN	[pred="łna mxmlbaf___Hana Makhmalbaf__1",cat=PN]	łna mxmlbaf___Hana Makhmalbaf__1	Default		%default	inv
-łnan 'šrawy	100	PN	[pred="łnan 'šrawy___Hanan Ashrawi__1",cat=PN]	łnan 'šrawy___Hanan Ashrawi__1	Default		%default	inv
-łnyf 'mran_zade	100	PN	[pred="łnyf 'mran_zade___Hanif Omranzadeh__1",cat=PN]	łnyf 'mran_zade___Hanif Omranzadeh__1	Default		%default	inv
-łnżle bn 'mrw šybany	100	PN	[pred="łnżle bn 'mrw šybany_____1",cat=PN]	łnżle bn 'mrw šybany_____1	Default		%default	inv
-łnżle bn as'd šbamy	100	PN	[pred="łnżle bn as'd šbamy_____1",cat=PN]	łnżle bn as'd šbamy_____1	Default		%default	inv
-łr bn yzyd ryały	100	PN	[pred="łr bn yzyd ryały_____1",cat=PN]	łr bn yzyd ryały_____1	Default		%default	inv
-łrmle	100	PN	[pred="łrmle_____1",cat=PN]	łrmle_____1	Default		%default	inv
-łsYn paYnde	100	PN	[pred="łsYn paYnde_____1",cat=PN]	łsYn paYnde_____1	Default		%default	inv
-łsam abryšmy	100	PN	[pred="łsam abryšmy___Hessam Abrishami__1",cat=PN]	łsam abryšmy___Hessam Abrishami__1	Default		%default	inv
-łsam fyrwzy	100	PN	[pred="łsam fyrwzy_____1",cat=PN]	łsam fyrwzy_____1	Default		%default	inv
-łsam myçaŕy	100	PN	[pred="łsam myçaŕy_____1",cat=PN]	łsam myçaŕy_____1	Default		%default	inv
-łsam nwab şfwy	100	PN	[pred="łsam nwab şfwy_____1",cat=PN]	łsam nwab şfwy_____1	Default		%default	inv
-łsam_aldyn arf'y	100	PN	[pred="łsam_aldyn arf'y_____1",cat=PN]	łsam_aldyn arf'y_____1	Default		%default	inv
-łsam_aldyn sraj	100	PN	[pred="łsam_aldyn sraj_____1",cat=PN]	łsam_aldyn sraj_____1	Default		%default	inv
-łsn 'baspwr	100	PN	[pred="łsn 'baspwr_____1",cat=PN]	łsn 'baspwr_____1	Default		%default	inv
-łsn 'basy	100	PN	[pred="łsn 'basy_____1",cat=PN]	łsn 'basy_____1	Default		%default	inv
-łsn 'myd	100	PN	[pred="łsn 'myd_____1",cat=PN]	łsn 'myd_____1	Default		%default	inv
-łsn aklyly	100	PN	[pred="łsn aklyly_____1",cat=PN]	łsn aklyly_____1	Default		%default	inv
-łsn altraby	100	PN	[pred="łsn altraby___Hassan al-Turabi__1",cat=PN]	łsn altraby___Hassan al-Turabi__1	Default		%default	inv
-łsn arsnjany	100	PN	[pred="łsn arsnjany___Hasan Arsanjani__1",cat=PN]	łsn arsnjany___Hasan Arsanjani__1	Default		%default	inv
-łsn asma'yl_zade	100	PN	[pred="łsn asma'yl_zade_____1",cat=PN]	łsn asma'yl_zade_____1	Default		%default	inv
-łsn awqlw	100	PN	[pred="łsn awqlw_____1",cat=PN]	łsn awqlw_____1	Default		%default	inv
-łsn ayt	100	PN	[pred="łsn ayt_____1",cat=PN]	łsn ayt_____1	Default		%default	inv
-łsn ađrfr	100	PN	[pred="łsn ađrfr_____1",cat=PN]	łsn ađrfr_____1	Default		%default	inv
-łsn ałmdy gywy	100	PN	[pred="łsn ałmdy gywy_____1",cat=PN]	łsn ałmdy gywy_____1	Default		%default	inv
-łsn ałmdy mŕds	100	PN	[pred="łsn ałmdy mŕds_____1",cat=PN]	łsn ałmdy mŕds_____1	Default		%default	inv
-łsn aşqry	100	PN	[pred="łsn aşqry_____1",cat=PN]	łsn aşqry_____1	Default		%default	inv
-łsn bna	100	PN	[pred="łsn bna___Hassan al-Banna__1",cat=PN]	łsn bna___Hassan al-Banna__1	Default		%default	inv
-łsn byg rwmlw	100	PN	[pred="łsn byg rwmlw_____1",cat=PN]	łsn byg rwmlw_____1	Default		%default	inv
-łsn dadškr	100	PN	[pred="łsn dadškr_____1",cat=PN]	łsn dadškr_____1	Default		%default	inv
-łsn enrmndy	100	PN	[pred="łsn enrmndy_____1",cat=PN]	łsn enrmndy_____1	Default		%default	inv
-łsn ftły	100	PN	[pred="łsn ftły___Hassan Fathy__1",cat=PN]	łsn ftły___Hassan Fathy__1	Default		%default	inv
-łsn gl_nraŕy	100	PN	[pred="łsn gl_nraŕy_____1",cat=PN]	łsn gl_nraŕy_____1	Default		%default	inv
-łsn jwady	100	PN	[pred="łsn jwady_____1",cat=PN]	łsn jwady_____1	Default		%default	inv
-łsn jwerčy	100	PN	[pred="łsn jwerčy_____1",cat=PN]	łsn jwerčy_____1	Default		%default	inv
-łsn kamkar	100	PN	[pred="łsn kamkar_____1",cat=PN]	łsn kamkar_____1	Default		%default	inv
-łsn kamšad	100	PN	[pred="łsn kamšad_____1",cat=PN]	łsn kamšad_____1	Default		%default	inv
-łsn kašy	100	PN	[pred="łsn kašy_____1",cat=PN]	łsn kašy_____1	Default		%default	inv
-łsn laewty aškwry	100	PN	[pred="łsn laewty aškwry_____1",cat=PN]	łsn laewty aškwry_____1	Default		%default	inv
-łsn masaly	100	PN	[pred="łsn masaly_____1",cat=PN]	łsn masaly_____1	Default		%default	inv
-łsn mstwfy	100	PN	[pred="łsn mstwfy___Mostowfi ol-Mamalek__1",cat=PN]	łsn mstwfy___Mostowfi ol-Mamalek__1	Default		%default	inv
-łsn młmwdy	100	PN	[pred="łsn młmwdy_____1",cat=PN]	łsn młmwdy_____1	Default		%default	inv
-łsn mŕdm	100	PN	[pred="łsn mŕdm_____1",cat=PN]	łsn mŕdm_____1	Default		%default	inv
-łsn naeyd	100	PN	[pred="łsn naeyd_____1",cat=PN]	łsn naeyd_____1	Default		%default	inv
-łsn njaryan	100	PN	[pred="łsn njaryan_____1",cat=PN]	łsn njaryan_____1	Default		%default	inv
-łsn pwršyrazy	100	PN	[pred="łsn pwršyrazy_____1",cat=PN]	łsn pwršyrazy_____1	Default		%default	inv
-łsn pyrnya	100	PN	[pred="łsn pyrnya___Hassan Pirnia__1",cat=PN]	łsn pyrnya___Hassan Pirnia__1	Default		%default	inv
-łsn pyrnya	100	PN	[pred="łsn pyrnya_____1",cat=PN]	łsn pyrnya_____1	Default		%default	inv
-łsn qfwry_frd	100	PN	[pred="łsn qfwry_frd_____1",cat=PN]	łsn qfwry_frd_____1	Default		%default	inv
-łsn rngrz	100	PN	[pred="łsn rngrz___Hassan Rangraz__1",cat=PN]	łsn rngrz___Hassan Rangraz__1	Default		%default	inv
-łsn rwdbaryan	100	PN	[pred="łsn rwdbaryan___Hassan Roudbarian__1",cat=PN]	łsn rwdbaryan___Hassan Roudbarian__1	Default		%default	inv
-łsn rwšn	100	PN	[pred="łsn rwšn___Hassan Rowshan__1",cat=PN]	łsn rwšn___Hassan Rowshan__1	Default		%default	inv
-łsn ryały	100	PN	[pred="łsn ryały_____1",cat=PN]	łsn ryały_____1	Default		%default	inv
-łsn rłym_pwr azqdy	100	PN	[pred="łsn rłym_pwr azqdy___Hassan Rahimpour Azghadi__1",cat=PN]	łsn rłym_pwr azqdy___Hassan Rahimpour Azghadi__1	Default		%default	inv
-łsn ršdye	100	PN	[pred="łsn ršdye___Haji-Mirza Hassan Roshdieh__1",cat=PN]	łsn ršdye___Haji-Mirza Hassan Roshdieh__1	Default		%default	inv
-łsn sbłany	100	PN	[pred="łsn sbłany_____1",cat=PN]	łsn sbłany_____1	Default		%default	inv
-łsn slţany twdšky	100	PN	[pred="łsn slţany twdšky_____1",cat=PN]	łsn slţany twdšky_____1	Default		%default	inv
-łsn tŕy_zade	100	PN	[pred="łsn tŕy_zade___Hasan Taqizadeh__1",cat=PN]	łsn tŕy_zade___Hasan Taqizadeh__1	Default		%default	inv
-łsn xsrwšaey	100	PN	[pred="łsn xsrwšaey___Hassan Khosrowshahi__1",cat=PN]	łsn xsrwšaey___Hassan Khosrowshahi__1	Default		%default	inv
-łsn xyaţ bašy	100	PN	[pred="łsn xyaţ bašy_____1",cat=PN]	łsn xyaţ bašy_____1	Default		%default	inv
-łsn ywsfy aškwry	100	PN	[pred="łsn ywsfy aškwry___Yousefi Eshkevari__1",cat=PN]	łsn ywsfy aškwry___Yousefi Eshkevari__1	Default		%default	inv
-łsn zyrk	100	PN	[pred="łsn zyrk___Hesen Zîrek__1",cat=PN]	łsn zyrk___Hesen Zîrek__1	Default		%default	inv
-łsn łbyby	100	PN	[pred="łsn łbyby_____1",cat=PN]	łsn łbyby_____1	Default		%default	inv
-łsn łsn_dwst	100	PN	[pred="łsn łsn_dwst_____1",cat=PN]	łsn łsn_dwst_____1	Default		%default	inv
-łsn łsn_zade amly	100	PN	[pred="łsn łsn_zade amly_____1",cat=PN]	łsn łsn_zade amly_____1	Default		%default	inv
-łsn šayanfr	100	PN	[pred="łsn šayanfr_____1",cat=PN]	łsn šayanfr_____1	Default		%default	inv
-łsn šma'y_zade	100	PN	[pred="łsn šma'y_zade___Hassan Shamaizadeh__1",cat=PN]	łsn šma'y_zade___Hassan Shamaizadeh__1	Default		%default	inv
-łsn šry'tmdary	100	PN	[pred="łsn šry'tmdary_____1",cat=PN]	łsn šry'tmdary_____1	Default		%default	inv
-łsn'ly mnşwr	100	PN	[pred="łsn'ly mnşwr___Hassan-Ali Mansur__1",cat=PN]	łsn'ly mnşwr___Hassan-Ali Mansur__1	Default		%default	inv
-łsn_šae erwy	100	PN	[pred="łsn_šae erwy_____1",cat=PN]	łsn_šae erwy_____1	Default		%default	inv
-łsnk wzyr	100	PN	[pred="łsnk wzyr___Hasanak the Vizier__1",cat=PN]	łsnk wzyr___Hasanak the Vizier__1	Default		%default	inv
-łsyn 'abdyny	100	PN	[pred="łsyn 'abdyny_____1",cat=PN]	łsyn 'abdyny_____1	Default		%default	inv
-łsyn 'la°	100	PN	[pred="łsyn 'la°___Hossein Ala'__1",cat=PN]	łsyn 'la°___Hossein Ala'__1	Default		%default	inv
-łsyn 'lyzade	100	PN	[pred="łsyn 'lyzade___Hossein Alizadeh__1",cat=PN]	łsyn 'lyzade___Hossein Alizadeh__1	Default		%default	inv
-łsyn 'mwmy	100	PN	[pred="łsyn 'mwmy___Hossein Omoumi__1",cat=PN]	łsyn 'mwmy___Hossein Omoumi__1	Default		%default	inv
-łsyn 'rfany	100	PN	[pred="łsyn 'rfany_____1",cat=PN]	łsyn 'rfany_____1	Default		%default	inv
-łsyn 'skry	100	PN	[pred="łsyn 'skry___Hossein Askari__1",cat=PN]	łsyn 'skry___Hossein Askari__1	Default		%default	inv
-łsyn ablys	100	PN	[pred="łsyn ablys_____1",cat=PN]	łsyn ablys_____1	Default		%default	inv
-łsyn akbry	100	PN	[pred="łsyn akbry_____1",cat=PN]	łsyn akbry_____1	Default		%default	inv
-łsyn aley ŕmše_ay	100	PN	[pred="łsyn aley ŕmše_ay___Hossein Elahi Ghomshei__1",cat=PN]	łsyn aley ŕmše_ay___Hossein Elahi Ghomshei__1	Default		%default	inv
-łsyn alle_krm	100	PN	[pred="łsyn alle_krm_____1",cat=PN]	łsyn alle_krm_____1	Default		%default	inv
-łsyn amant	100	PN	[pred="łsyn amant___Hossein Amanat__1",cat=PN]	łsyn amant___Hossein Amanat__1	Default		%default	inv
-łsyn amyrfźly	100	PN	[pred="łsyn amyrfźly_____1",cat=PN]	łsyn amyrfźly_____1	Default		%default	inv
-łsyn axtrznd	100	PN	[pred="łsyn axtrznd_____1",cat=PN]	łsyn axtrznd_____1	Default		%default	inv
-łsyn badamky	100	PN	[pred="łsyn badamky___Hossein Badamaki__1",cat=PN]	łsyn badamky___Hossein Badamaki__1	Default		%default	inv
-łsyn baqy	100	PN	[pred="łsyn baqy_____1",cat=PN]	łsyn baqy_____1	Default		%default	inv
-łsyn berwzy_nya	100	PN	[pred="łsyn berwzy_nya___Hossein Behroozinia__1",cat=PN]	łsyn berwzy_nya___Hossein Behroozinia__1	Default		%default	inv
-łsyn bezad	100	PN	[pred="łsyn bezad___Hossein Behzad__1",cat=PN]	łsyn bezad___Hossein Behzad__1	Default		%default	inv
-łsyn bn dlwye	100	PN	[pred="łsyn bn dlwye_____1",cat=PN]	łsyn bn dlwye_____1	Default		%default	inv
-łsyn bšyrye	100	PN	[pred="łsyn bšyrye_____1",cat=PN]	łsyn bšyrye_____1	Default		%default	inv
-łsyn delwy	100	PN	[pred="łsyn delwy___Hossein Dehlavi__1",cat=PN]	łsyn delwy___Hossein Dehlavi__1	Default		%default	inv
-łsyn drxšan	100	PN	[pred="łsyn drxšan___Hossein Derakhshan__1",cat=PN]	łsyn drxšan___Hossein Derakhshan__1	Default		%default	inv
-łsyn faţmy	100	PN	[pred="łsyn faţmy___Hossein Fatemi__1",cat=PN]	łsyn faţmy___Hossein Fatemi__1	Default		%default	inv
-łsyn fkry	100	PN	[pred="łsyn fkry___Hossein Fekri__1",cat=PN]	łsyn fkry___Hossein Fekri__1	Default		%default	inv
-łsyn gl_glab	100	PN	[pred="łsyn gl_glab___Hossein Gol-e-Golab__1",cat=PN]	łsyn gl_glab___Hossein Gol-e-Golab__1	Default		%default	inv
-łsyn grdyn	100	PN	[pred="łsyn grdyn_____1",cat=PN]	łsyn grdyn_____1	Default		%default	inv
-łsyn k'by	100	PN	[pred="łsyn k'by___Hossein Kaebi__1",cat=PN]	łsyn k'by___Hossein Kaebi__1	Default		%default	inv
-łsyn kaáżm_zade ayranšer	100	PN	[pred="łsyn kaáżm_zade ayranšer_____1",cat=PN]	łsyn kaáżm_zade ayranšer_____1	Default		%default	inv
-łsyn każmy	100	PN	[pred="łsyn każmy___Hossein Kazemi__1",cat=PN]	łsyn każmy___Hossein Kazemi__1	Default		%default	inv
-łsyn klany	100	PN	[pred="łsyn klany___Hossein Kalani__1",cat=PN]	łsyn klany___Hossein Kalani__1	Default		%default	inv
-łsyn ksbyan	100	PN	[pred="łsyn ksbyan_____1",cat=PN]	łsyn ksbyan_____1	Default		%default	inv
-łsyn kčwyan	100	PN	[pred="łsyn kčwyan_____1",cat=PN]	łsyn kčwyan_____1	Default		%default	inv
-łsyn lškry	100	PN	[pred="łsyn lškry_____1",cat=PN]	łsyn lškry_____1	Default		%default	inv
-łsyn m'şwmy emdany	100	PN	[pred="łsyn m'şwmy emdany_____1",cat=PN]	łsyn m'şwmy emdany_____1	Default		%default	inv
-łsyn mjaed	100	PN	[pred="łsyn mjaed_____1",cat=PN]	łsyn mjaed_____1	Default		%default	inv
-łsyn mky	100	PN	[pred="łsyn mky_____1",cat=PN]	łsyn mky_____1	Default		%default	inv
-łsyn mnzwy	100	PN	[pred="łsyn mnzwy_____1",cat=PN]	łsyn mnzwy_____1	Default		%default	inv
-łsyn mrtźa´yan abknar	100	PN	[pred="łsyn mrtźa´yan abknar_____1",cat=PN]	łsyn mrtźa´yan abknar_____1	Default		%default	inv
-łsyn msrwr	100	PN	[pred="łsyn msrwr_____1",cat=PN]	łsyn msrwr_____1	Default		%default	inv
-łsyn mwswyan	100	PN	[pred="łsyn mwswyan___Hossein Mousavian__1",cat=PN]	łsyn mwswyan___Hossein Mousavian__1	Default		%default	inv
-łsyn myrxany	100	PN	[pred="łsyn myrxany_____1",cat=PN]	łsyn myrxany_____1	Default		%default	inv
-łsyn młbwby ardkany	100	PN	[pred="łsyn młbwby ardkany_____1",cat=PN]	łsyn młbwby ardkany_____1	Default		%default	inv
-łsyn młjwby	100	PN	[pred="łsyn młjwby_____1",cat=PN]	łsyn młjwby_____1	Default		%default	inv
-łsyn naşły	100	PN	[pred="łsyn naşły___Hossein Nassehi__1",cat=PN]	łsyn naşły___Hossein Nassehi__1	Default		%default	inv
-łsyn pnaey	100	PN	[pred="łsyn pnaey_____1",cat=PN]	łsyn pnaey_____1	Default		%default	inv
-łsyn prtw byźa´y	100	PN	[pred="łsyn prtw byźa´y_____1",cat=PN]	łsyn prtw byźa´y_____1	Default		%default	inv
-łsyn pyrnya	100	PN	[pred="łsyn pyrnya_____1",cat=PN]	łsyn pyrnya_____1	Default		%default	inv
-łsyn pžman bxtyary	100	PN	[pred="łsyn pžman bxtyary___Pezhman Bakhtiari__1",cat=PN]	łsyn pžman bxtyary___Pezhman Bakhtiari__1	Default		%default	inv
-łsyn rźa'y	100	PN	[pred="łsyn rźa'y_____1",cat=PN]	łsyn rźa'y_____1	Default		%default	inv
-łsyn rźazade	100	PN	[pred="łsyn rźazade___Hossein Rezazadeh__1",cat=PN]	łsyn rźazade___Hossein Rezazadeh__1	Default		%default	inv
-łsyn smy'y	100	PN	[pred="łsyn smy'y_____1",cat=PN]	łsyn smy'y_____1	Default		%default	inv
-łsyn snapwr	100	PN	[pred="łsyn snapwr___Hosain Sanapour__1",cat=PN]	łsyn snapwr___Hosain Sanapour__1	Default		%default	inv
-łsyn sršar	100	PN	[pred="łsyn sršar_____1",cat=PN]	łsyn sršar_____1	Default		%default	inv
-łsyn swdmnd	100	PN	[pred="łsyn swdmnd_____1",cat=PN]	łsyn swdmnd_____1	Default		%default	inv
-łsyn słrxyz	100	PN	[pred="łsyn słrxyz_____1",cat=PN]	łsyn słrxyz_____1	Default		%default	inv
-łsyn ta´b	100	PN	[pred="łsyn ta´b___Hossein Taeb__1",cat=PN]	łsyn ta´b___Hossein Taeb__1	Default		%default	inv
-łsyn terany	100	PN	[pred="łsyn terany___Hossein Tehrani__1",cat=PN]	łsyn terany___Hossein Tehrani__1	Default		%default	inv
-łsyn waçŕy	100	PN	[pred="łsyn waçŕy_____1",cat=PN]	łsyn waçŕy_____1	Default		%default	inv
-łsyn xwaje amyry	100	PN	[pred="łsyn xwaje amyry___Hossein Khajeh Amiri__1",cat=PN]	łsyn xwaje amyry___Hossein Khajeh Amiri__1	Default		%default	inv
-łsyn yary	100	PN	[pred="łsyn yary_____1",cat=PN]	łsyn yary_____1	Default		%default	inv
-łsyn yałŕy	100	PN	[pred="łsyn yałŕy_____1",cat=PN]	łsyn yałŕy_____1	Default		%default	inv
-łsyn zman	100	PN	[pred="łsyn zman_____1",cat=PN]	łsyn zman_____1	Default		%default	inv
-łsyn znde_rwdy	100	PN	[pred="łsyn znde_rwdy___Hossein Zenderoudi__1",cat=PN]	łsyn znde_rwdy___Hossein Zenderoudi__1	Default		%default	inv
-łsyn çabt	100	PN	[pred="łsyn çabt___Hossein Sabet__1",cat=PN]	łsyn çabt___Hossein Sabet__1	Default		%default	inv
-łsyn ŕmy	100	PN	[pred="łsyn ŕmy_____1",cat=PN]	łsyn ŕmy_____1	Default		%default	inv
-łsyn ŕwamy	100	PN	[pred="łsyn ŕwamy_____1",cat=PN]	łsyn ŕwamy_____1	Default		%default	inv
-łsyn ŕwllr aqasy	100	PN	[pred="łsyn ŕwllr aqasy_____1",cat=PN]	łsyn ŕwllr aqasy_____1	Default		%default	inv
-łsyn şafy	100	PN	[pred="łsyn şafy_____1",cat=PN]	łsyn şafy_____1	Default		%default	inv
-łsyn şdŕyany	100	PN	[pred="łsyn şdŕyany___Hossein Sadaghiani__1",cat=PN]	łsyn şdŕyany___Hossein Sadaghiani__1	Default		%default	inv
-łsyn šeraby	100	PN	[pred="łsyn šeraby_____1",cat=PN]	łsyn šeraby_____1	Default		%default	inv
-łsyn šerstany	100	PN	[pred="łsyn šerstany___Hussain al-Shahristani__1",cat=PN]	łsyn šerstany___Hussain al-Shahristani__1	Default		%default	inv
-łsyn škwÂ´y	100	PN	[pred="łsyn škwÂ´y_____1",cat=PN]	łsyn škwÂ´y_____1	Default		%default	inv
-łsyn šry'tmdary	100	PN	[pred="łsyn šry'tmdary___Hossein Shariatmadari__1",cat=PN]	łsyn šry'tmdary___Hossein Shariatmadari__1	Default		%default	inv
-łsyn šyx	100	PN	[pred="łsyn šyx___Hossein Sheikh__1",cat=PN]	łsyn šyx___Hossein Sheikh__1	Default		%default	inv
-łsyn ţaerzade	100	PN	[pred="łsyn ţaerzade_____1",cat=PN]	łsyn ţaerzade_____1	Default		%default	inv
-łsyn ţalby mŕdm	100	PN	[pred="łsyn ţalby mŕdm_____1",cat=PN]	łsyn ţalby mŕdm_____1	Default		%default	inv
-łsyn'ly lyalstany	100	PN	[pred="łsyn'ly lyalstany_____1",cat=PN]	łsyn'ly lyalstany_____1	Default		%default	inv
-łsyn'ly mntżry	100	PN	[pred="łsyn'ly mntżry___Hussein-Ali Montazeri__1",cat=PN]	łsyn'ly mntżry___Hussein-Ali Montazeri__1	Default		%default	inv
-łsynŕly mst'an	100	PN	[pred="łsynŕly mst'an_____1",cat=PN]	łsynŕly mst'an_____1	Default		%default	inv
-łyat n'mt smrŕndy	100	PN	[pred="łyat n'mt smrŕndy_____1",cat=PN]	łyat n'mt smrŕndy_____1	Default		%default	inv
-łydr 'ly_af	100	PN	[pred="łydr 'ly_af___Heydar Aliyev__1",cat=PN]	łydr 'ly_af___Heydar Aliyev__1	Default		%default	inv
-łydr myrza	100	PN	[pred="łydr myrza_____1",cat=PN]	łydr myrza_____1	Default		%default	inv
-łydr qyayy	100	PN	[pred="łydr qyayy___Heydar Ghiai__1",cat=PN]	łydr qyayy___Heydar Ghiai__1	Default		%default	inv
-łydr rjwy	100	PN	[pred="łydr rjwy_____1",cat=PN]	łydr rjwy_____1	Default		%default	inv
-łydr rłym_pwr azqdy	100	PN	[pred="łydr rłym_pwr azqdy_____1",cat=PN]	łydr rłym_pwr azqdy_____1	Default		%default	inv
-łydr yqma	100	PN	[pred="łydr yqma___Heydar Yaghma__1",cat=PN]	łydr yqma___Heydar Yaghma__1	Default		%default	inv
-łydr łatmy	100	PN	[pred="łydr łatmy___Haydar Hatemi__1",cat=PN]	łydr łatmy___Haydar Hatemi__1	Default		%default	inv
-łydr šnjany	100	PN	[pred="łydr šnjany_____1",cat=PN]	łydr šnjany_____1	Default		%default	inv
-łydr šyrazy	100	PN	[pred="łydr šyrazy_____1",cat=PN]	łydr šyrazy_____1	Default		%default	inv
-łzyn laeyjy	100	PN	[pred="łzyn laeyjy_____1",cat=PN]	łzyn laeyjy_____1	Default		%default	inv
-łšmt meajrany	100	PN	[pred="łšmt meajrany___Heshmat Mohajerani__1",cat=PN]	łšmt meajrany___Heshmat Mohajerani__1	Default		%default	inv
-łšmt snjry	100	PN	[pred="łšmt snjry___Heshmat Sanjari__1",cat=PN]	łšmt snjry___Heshmat Sanjari__1	Default		%default	inv
-łšmt_alle ţbrzdy	100	PN	[pred="łšmt_alle ţbrzdy_____1",cat=PN]	łšmt_alle ţbrzdy_____1	Default		%default	inv
-łšmt_alle ţbyby	100	PN	[pred="łšmt_alle ţbyby_____1",cat=PN]	łšmt_alle ţbyby_____1	Default		%default	inv
+ħafẓ	100	PN	[pred="ħafẓ___Hafez__1",cat=PN]	ħafẓ___Hafez__1	Default		%default	inv
+ħafẓ abrw	100	PN	[pred="ħafẓ abrw_____1",cat=PN]	ħafẓ abrw_____1	Default		%default	inv
+ħafẓ asd	100	PN	[pred="ħafẓ asd___Hafez al-Assad__1",cat=PN]	ħafẓ asd___Hafez al-Assad__1	Default		%default	inv
+ħafẓ mwswy	100	PN	[pred="ħafẓ mwswy_____1",cat=PN]	ħafẓ mwswy_____1	Default		%default	inv
+ħaj asma'yl dwlaby	100	PN	[pred="ħaj asma'yl dwlaby_____1",cat=PN]	ħaj asma'yl dwlaby_____1	Default		%default	inv
+ħaj ayaz xan ŕšŕayy	100	PN	[pred="ħaj ayaz xan ŕšŕayy_____1",cat=PN]	ħaj ayaz xan ŕšŕayy_____1	Default		%default	inv
+ħaj aŕa rħym arbab	100	PN	[pred="ħaj aŕa rħym arbab_____1",cat=PN]	ħaj aŕa rħym arbab_____1	Default		%default	inv
+ħaj babaxan ardbyly	100	PN	[pred="ħaj babaxan ardbyly___Haj Baba Khan-e-Ardabili__1",cat=PN]	ħaj babaxan ardbyly___Haj Baba Khan-e-Ardabili__1	Default		%default	inv
+ħaj mla aŕajan	100	PN	[pred="ħaj mla aŕajan_____1",cat=PN]	ħaj mla aŕajan_____1	Default		%default	inv
+ħajy aŕa myr ršty	100	PN	[pred="ħajy aŕa myr ršty_____1",cat=PN]	ħajy aŕa myr ršty_____1	Default		%default	inv
+ħajy myrza ħsn xan xbyralmlk	100	PN	[pred="ħajy myrza ħsn xan xbyralmlk_____1",cat=PN]	ħajy myrza ħsn xan xbyralmlk_____1	Default		%default	inv
+ħajy wašngtn	100	PN	[pred="ħajy wašngtn___Haji Washington__1",cat=PN]	ħajy wašngtn___Haji Washington__1	Default		%default	inv
+ħajy_'ly rzm_ara	100	PN	[pred="ħajy_'ly rzm_ara___Haj Ali Razmara__1",cat=PN]	ħajy_'ly rzm_ara___Haj Ali Razmara__1	Default		%default	inv
+ħaly ardbyly	100	PN	[pred="ħaly ardbyly_____1",cat=PN]	ħaly ardbyly_____1	Default		%default	inv
+ħamd bedad	100	PN	[pred="ħamd bedad___Hamed Behdad__1",cat=PN]	ħamd bedad___Hamed Behdad__1	Default		%default	inv
+ħamd kawyanpwr	100	PN	[pred="ħamd kawyanpwr___Hamed Kavianpour__1",cat=PN]	ħamd kawyanpwr___Hamed Kavianpour__1	Default		%default	inv
+ħamd kmyly	100	PN	[pred="ħamd kmyly_____1",cat=PN]	ħamd kmyly_____1	Default		%default	inv
+ħamd krzy	100	PN	[pred="ħamd krzy___Hamid Karzai__1",cat=PN]	ħamd krzy___Hamid Karzai__1	Default		%default	inv
+ħamd mlk_mħmdy m'mar	100	PN	[pred="ħamd mlk_mħmdy m'mar_____1",cat=PN]	ħamd mlk_mħmdy m'mar_____1	Default		%default	inv
+ħamd nyk_py	100	PN	[pred="ħamd nyk_py_____1",cat=PN]	ħamd nyk_py_____1	Default		%default	inv
+ħamd serab_nžad	100	PN	[pred="ħamd serab_nžad___Hamed Sohrabnejad__1",cat=PN]	ħamd serab_nžad___Hamed Sohrabnejad__1	Default		%default	inv
+ħamd ħdady	100	PN	[pred="ħamd ħdady___Hamed Haddadi__1",cat=PN]	ħamd ħdady___Hamed Haddadi__1	Default		%default	inv
+ħamdy aşfeany	100	PN	[pred="ħamdy aşfeany_____1",cat=PN]	ħamdy aşfeany_____1	Default		%default	inv
+ħarç bn amry alŕys kndy	100	PN	[pred="ħarç bn amry alŕys kndy_____1",cat=PN]	ħarç bn amry alŕys kndy_____1	Default		%default	inv
+ħayym wayzmn	100	PN	[pred="ħayym wayzmn___Chaim Weizmann__1",cat=PN]	ħayym wayzmn___Chaim Weizmann__1	Default		%default	inv
+ħbYb saer	100	PN	[pred="ħbYb saer_____1",cat=PN]	ħbYb saer_____1	Default		%default	inv
+ħbeangwr	100	PN	[pred="ħbeangwr_____1",cat=PN]	ħbeangwr_____1	Default		%default	inv
+ħbyb aħmdzade	100	PN	[pred="ħbyb aħmdzade_____1",cat=PN]	ħbyb aħmdzade_____1	Default		%default	inv
+ħbyb bn 'bd alle nešly	100	PN	[pred="ħbyb bn 'bd alle nešly_____1",cat=PN]	ħbyb bn 'bd alle nešly_____1	Default		%default	inv
+ħbyb kwze_ly	100	PN	[pred="ħbyb kwze_ly_____1",cat=PN]	ħbyb kwze_ly_____1	Default		%default	inv
+ħbyb mħbyan	100	PN	[pred="ħbyb mħbyan_____1",cat=PN]	ħbyb mħbyan_____1	Default		%default	inv
+ħbyb rźayy	100	PN	[pred="ħbyb rźayy_____1",cat=PN]	ħbyb rźayy_____1	Default		%default	inv
+ħbyb yqmayy	100	PN	[pred="ħbyb yqmayy_____1",cat=PN]	ħbyb yqmayy_____1	Default		%default	inv
+ħbyb ŕadry	100	PN	[pred="ħbyb ŕadry_____1",cat=PN]	ħbyb ŕadry_____1	Default		%default	inv
+ħbyb_alle 'sgrawlady	100	PN	[pred="ħbyb_alle 'sgrawlady___Habibollah Asgaroladi__1",cat=PN]	ħbyb_alle 'sgrawlady___Habibollah Asgaroladi__1	Default		%default	inv
+ħbyb_alle 'yn_almlk	100	PN	[pred="ħbyb_alle 'yn_almlk_____1",cat=PN]	ħbyb_alle 'yn_almlk_____1	Default		%default	inv
+ħbyb_alle blwr	100	PN	[pred="ħbyb_alle blwr_____1",cat=PN]	ħbyb_alle blwr_____1	Default		%default	inv
+ħbyb_alle pyman	100	PN	[pred="ħbyb_alle pyman___Habibollah Peyman__1",cat=PN]	ħbyb_alle pyman___Habibollah Peyman__1	Default		%default	inv
+ħbyb_alle āšwry	100	PN	[pred="ħbyb_alle āšwry_____1",cat=PN]	ħbyb_alle āšwry_____1	Default		%default	inv
+ħbš ħasb	100	PN	[pred="ħbš ħasb___Habash al-Hasib al-Marwazi__1",cat=PN]	ħbš ħasb___Habash al-Hasib al-Marwazi__1	Default		%default	inv
+ħdyç fwladwnd	100	PN	[pred="ħdyç fwladwnd_____1",cat=PN]	ħdyç fwladwnd_____1	Default		%default	inv
+ħdyçe	100	PN	[pred="ħdyçe___Hadise__1",cat=PN]	ħdyçe___Hadise__1	Default		%default	inv
+ħjaj bn msrwŕ j'fy	100	PN	[pred="ħjaj bn msrwŕ j'fy_____1",cat=PN]	ħjaj bn msrwŕ j'fy_____1	Default		%default	inv
+ħjaj bn zyd s'dy	100	PN	[pred="ħjaj bn zyd s'dy_____1",cat=PN]	ħjaj bn zyd s'dy_____1	Default		%default	inv
+ħjt_alle wa'ẓy	100	PN	[pred="ħjt_alle wa'ẓy___Hojjatollah Vaezi__1",cat=PN]	ħjt_alle wa'ẓy___Hojjatollah Vaezi__1	Default		%default	inv
+ħkak mrqzy	100	PN	[pred="ħkak mrqzy_____1",cat=PN]	ħkak mrqzy_____1	Default		%default	inv
+ħkmt_alle mlaşalħy	100	PN	[pred="ħkmt_alle mlaşalħy_____1",cat=PN]	ħkmt_alle mlaşalħy_____1	Default		%default	inv
+ħkym bn ţfyl	100	PN	[pred="ħkym bn ţfyl_____1",cat=PN]	ħkym bn ţfyl_____1	Default		%default	inv
+ħkym eydjy	100	PN	[pred="ħkym eydjy_____1",cat=PN]	ħkym eydjy_____1	Default		%default	inv
+ħkym snayy	100	PN	[pred="ħkym snayy___Sanai__1",cat=PN]	ħkym snayy___Sanai__1	Default		%default	inv
+ħkym şbwry	100	PN	[pred="ħkym şbwry_____1",cat=PN]	ħkym şbwry_____1	Default		%default	inv
+ħlas bn 'mr rasby	100	PN	[pred="ħlas bn 'mr rasby_____1",cat=PN]	ħlas bn 'mr rasby_____1	Default		%default	inv
+ħmdalle mstwfy	100	PN	[pred="ħmdalle mstwfy___Hamdollah Mostowfi__1",cat=PN]	ħmdalle mstwfy___Hamdollah Mostowfi__1	Default		%default	inv
+ħmyd 'bdalmlky	100	PN	[pred="ħmyd 'bdalmlky_____1",cat=PN]	ħmyd 'bdalmlky_____1	Default		%default	inv
+ħmyd 'lydwsty	100	PN	[pred="ħmyd 'lydwsty___Hamid Alidousti__1",cat=PN]	ħmyd 'lydwsty___Hamid Alidousti__1	Default		%default	inv
+ħmyd 'nayt	100	PN	[pred="ħmyd 'nayt_____1",cat=PN]	ħmyd 'nayt_____1	Default		%default	inv
+ħmyd 'skry	100	PN	[pred="ħmyd 'skry___Hamid_Askari__1",cat=PN]	ħmyd 'skry___Hamid_Askari__1	Default		%default	inv
+ħmyd abraeymy	100	PN	[pred="ħmyd abraeymy_____1",cat=PN]	ħmyd abraeymy_____1	Default		%default	inv
+ħmyd amjd	100	PN	[pred="ħmyd amjd_____1",cat=PN]	ħmyd amjd_____1	Default		%default	inv
+ħmyd astyly	100	PN	[pred="ħmyd astyly___Hamid Estili__1",cat=PN]	ħmyd astyly___Hamid Estili__1	Default		%default	inv
+ħmyd ašrf	100	PN	[pred="ħmyd ašrf_____1",cat=PN]	ħmyd ašrf_____1	Default		%default	inv
+ħmyd dbašy	100	PN	[pred="ħmyd dbašy___Hamid Dabashi__1",cat=PN]	ħmyd dbašy___Hamid Dabashi__1	Default		%default	inv
+ħmyd drxšan	100	PN	[pred="ħmyd drxšan___Hamid Derakhshan__1",cat=PN]	ħmyd drxšan___Hamid Derakhshan__1	Default		%default	inv
+ħmyd frx_nžad	100	PN	[pred="ħmyd frx_nžad___Hamid Farrokhnezhad__1",cat=PN]	ħmyd frx_nžad___Hamid Farrokhnezhad__1	Default		%default	inv
+ħmyd gwdrzy	100	PN	[pred="ħmyd gwdrzy_____1",cat=PN]	ħmyd gwdrzy_____1	Default		%default	inv
+ħmyd j'frxany	100	PN	[pred="ħmyd j'frxany___Hamid Jafarkhani__1",cat=PN]	ħmyd j'frxany___Hamid Jafarkhani__1	Default		%default	inv
+ħmyd jbly	100	PN	[pred="ħmyd jbly_____1",cat=PN]	ħmyd jbly_____1	Default		%default	inv
+ħmyd lsany	100	PN	[pred="ħmyd lsany_____1",cat=PN]	ħmyd lsany_____1	Default		%default	inv
+ħmyd lwlayy	100	PN	[pred="ħmyd lwlayy_____1",cat=PN]	ħmyd lwlayy_____1	Default		%default	inv
+ħmyd meyn_dwst	100	PN	[pred="ħmyd meyn_dwst_____1",cat=PN]	ħmyd meyn_dwst_____1	Default		%default	inv
+ħmyd mtbsm	100	PN	[pred="ħmyd mtbsm___Hamid Motebassem__1",cat=PN]	ħmyd mtbsm___Hamid Motebassem__1	Default		%default	inv
+ħmyd mşdŕ	100	PN	[pred="ħmyd mşdŕ_____1",cat=PN]	ħmyd mşdŕ_____1	Default		%default	inv
+ħmyd ndymy	100	PN	[pred="ħmyd ndymy_____1",cat=PN]	ħmyd ndymy_____1	Default		%default	inv
+ħmyd rsayy	100	PN	[pred="ħmyd rsayy_____1",cat=PN]	ħmyd rsayy_____1	Default		%default	inv
+ħmyd smndryan	100	PN	[pred="ħmyd smndryan_____1",cat=PN]	ħmyd smndryan_____1	Default		%default	inv
+ħmyd swryan	100	PN	[pred="ħmyd swryan___Hamid Sourian__1",cat=PN]	ħmyd swryan___Hamid Sourian__1	Default		%default	inv
+ħmyd syaħ	100	PN	[pred="ħmyd syaħ_____1",cat=PN]	ħmyd syaħ_____1	Default		%default	inv
+ħmyd tmjydy	100	PN	[pred="ħmyd tmjydy___Hamid Tamjidi__1",cat=PN]	ħmyd tmjydy___Hamid Tamjidi__1	Default		%default	inv
+ħmyd ħajy_zade	100	PN	[pred="ħmyd ħajy_zade_____1",cat=PN]	ħmyd ħajy_zade_____1	Default		%default	inv
+ħmyd ħmze	100	PN	[pred="ħmyd ħmze_____1",cat=PN]	ħmyd ħmze_____1	Default		%default	inv
+ħmyd ŕnbry	100	PN	[pred="ħmyd ŕnbry_____1",cat=PN]	ħmyd ŕnbry_____1	Default		%default	inv
+ħmyd šb_xyz	100	PN	[pred="ħmyd šb_xyz_____1",cat=PN]	ħmyd šb_xyz_____1	Default		%default	inv
+ħmyd šyrzadgan	100	PN	[pred="ħmyd šyrzadgan___Hamid Shirzadegan__1",cat=PN]	ħmyd šyrzadgan___Hamid Shirzadegan__1	Default		%default	inv
+ħmyd źyayy_prwr	100	PN	[pred="ħmyd źyayy_prwr_____1",cat=PN]	ħmyd źyayy_prwr_____1	Default		%default	inv
+ħmydrźa 'ly_'sgry	100	PN	[pred="ħmydrźa 'ly_'sgry___Hamidreza Aliasgari__1",cat=PN]	ħmydrźa 'ly_'sgry___Hamidreza Aliasgari__1	Default		%default	inv
+ħmydrźa afšar	100	PN	[pred="ħmydrźa afšar_____1",cat=PN]	ħmydrźa afšar_____1	Default		%default	inv
+ħmydrźa jlayy_pwr	100	PN	[pred="ħmydrźa jlayy_pwr_____1",cat=PN]	ħmydrźa jlayy_pwr_____1	Default		%default	inv
+ħmydrźa njfy	100	PN	[pred="ħmydrźa njfy_____1",cat=PN]	ħmydrźa njfy_____1	Default		%default	inv
+ħmydrźa nwrbxš	100	PN	[pred="ħmydrźa nwrbxš___Hamid Reza Noorbakhsh__1",cat=PN]	ħmydrźa nwrbxš___Hamid Reza Noorbakhsh__1	Default		%default	inv
+ħmydrźa pgae	100	PN	[pred="ħmydrźa pgae_____1",cat=PN]	ħmydrźa pgae_____1	Default		%default	inv
+ħmydrźa ħamy	100	PN	[pred="ħmydrźa ħamy_____1",cat=PN]	ħmydrźa ħamy_____1	Default		%default	inv
+ħmydrźa šyrmħmdy	100	PN	[pred="ħmydrźa šyrmħmdy_____1",cat=PN]	ħmydrźa šyrmħmdy_____1	Default		%default	inv
+ħmyra	100	PN	[pred="ħmyra___Homeyra__1",cat=PN]	ħmyra___Homeyra__1	Default		%default	inv
+ħmyra ŕadry	100	PN	[pred="ħmyra ŕadry_____1",cat=PN]	ħmyra ŕadry_____1	Default		%default	inv
+ħmze aşfeany	100	PN	[pred="ħmze aşfeany_____1",cat=PN]	ħmze aşfeany_____1	Default		%default	inv
+ħmze bwbkr	100	PN	[pred="ħmze bwbkr_____1",cat=PN]	ħmze bwbkr_____1	Default		%default	inv
+ħmze qafl systany	100	PN	[pred="ħmze qafl systany_____1",cat=PN]	ħmze qafl systany_____1	Default		%default	inv
+ħmze qalby	100	PN	[pred="ħmze qalby_____1",cat=PN]	ħmze qalby_____1	Default		%default	inv
+ħmze rabrtswn	100	PN	[pred="ħmze rabrtswn___Hamza Robertson__1",cat=PN]	ħmze rabrtswn___Hamza Robertson__1	Default		%default	inv
+ħna mxmlbaf	100	PN	[pred="ħna mxmlbaf___Hana Makhmalbaf__1",cat=PN]	ħna mxmlbaf___Hana Makhmalbaf__1	Default		%default	inv
+ħnan 'šrawy	100	PN	[pred="ħnan 'šrawy___Hanan Ashrawi__1",cat=PN]	ħnan 'šrawy___Hanan Ashrawi__1	Default		%default	inv
+ħnyf 'mran_zade	100	PN	[pred="ħnyf 'mran_zade___Hanif Omranzadeh__1",cat=PN]	ħnyf 'mran_zade___Hanif Omranzadeh__1	Default		%default	inv
+ħnẓle bn 'mrw šybany	100	PN	[pred="ħnẓle bn 'mrw šybany_____1",cat=PN]	ħnẓle bn 'mrw šybany_____1	Default		%default	inv
+ħnẓle bn as'd šbamy	100	PN	[pred="ħnẓle bn as'd šbamy_____1",cat=PN]	ħnẓle bn as'd šbamy_____1	Default		%default	inv
+ħr bn yzyd ryaħy	100	PN	[pred="ħr bn yzyd ryaħy_____1",cat=PN]	ħr bn yzyd ryaħy_____1	Default		%default	inv
+ħrmle	100	PN	[pred="ħrmle_____1",cat=PN]	ħrmle_____1	Default		%default	inv
+ħsYn paYnde	100	PN	[pred="ħsYn paYnde_____1",cat=PN]	ħsYn paYnde_____1	Default		%default	inv
+ħsam abryšmy	100	PN	[pred="ħsam abryšmy___Hessam Abrishami__1",cat=PN]	ħsam abryšmy___Hessam Abrishami__1	Default		%default	inv
+ħsam fyrwzy	100	PN	[pred="ħsam fyrwzy_____1",cat=PN]	ħsam fyrwzy_____1	Default		%default	inv
+ħsam myçaŕy	100	PN	[pred="ħsam myçaŕy_____1",cat=PN]	ħsam myçaŕy_____1	Default		%default	inv
+ħsam nwab şfwy	100	PN	[pred="ħsam nwab şfwy_____1",cat=PN]	ħsam nwab şfwy_____1	Default		%default	inv
+ħsam_aldyn arf'y	100	PN	[pred="ħsam_aldyn arf'y_____1",cat=PN]	ħsam_aldyn arf'y_____1	Default		%default	inv
+ħsam_aldyn sraj	100	PN	[pred="ħsam_aldyn sraj_____1",cat=PN]	ħsam_aldyn sraj_____1	Default		%default	inv
+ħsn 'baspwr	100	PN	[pred="ħsn 'baspwr_____1",cat=PN]	ħsn 'baspwr_____1	Default		%default	inv
+ħsn 'basy	100	PN	[pred="ħsn 'basy_____1",cat=PN]	ħsn 'basy_____1	Default		%default	inv
+ħsn 'myd	100	PN	[pred="ħsn 'myd_____1",cat=PN]	ħsn 'myd_____1	Default		%default	inv
+ħsn aklyly	100	PN	[pred="ħsn aklyly_____1",cat=PN]	ħsn aklyly_____1	Default		%default	inv
+ħsn altraby	100	PN	[pred="ħsn altraby___Hassan al-Turabi__1",cat=PN]	ħsn altraby___Hassan al-Turabi__1	Default		%default	inv
+ħsn arsnjany	100	PN	[pred="ħsn arsnjany___Hasan Arsanjani__1",cat=PN]	ħsn arsnjany___Hasan Arsanjani__1	Default		%default	inv
+ħsn asma'yl_zade	100	PN	[pred="ħsn asma'yl_zade_____1",cat=PN]	ħsn asma'yl_zade_____1	Default		%default	inv
+ħsn awqlw	100	PN	[pred="ħsn awqlw_____1",cat=PN]	ħsn awqlw_____1	Default		%default	inv
+ħsn ayt	100	PN	[pred="ħsn ayt_____1",cat=PN]	ħsn ayt_____1	Default		%default	inv
+ħsn ađrfr	100	PN	[pred="ħsn ađrfr_____1",cat=PN]	ħsn ađrfr_____1	Default		%default	inv
+ħsn aħmdy gywy	100	PN	[pred="ħsn aħmdy gywy_____1",cat=PN]	ħsn aħmdy gywy_____1	Default		%default	inv
+ħsn aħmdy mŕds	100	PN	[pred="ħsn aħmdy mŕds_____1",cat=PN]	ħsn aħmdy mŕds_____1	Default		%default	inv
+ħsn aşqry	100	PN	[pred="ħsn aşqry_____1",cat=PN]	ħsn aşqry_____1	Default		%default	inv
+ħsn bna	100	PN	[pred="ħsn bna___Hassan al-Banna__1",cat=PN]	ħsn bna___Hassan al-Banna__1	Default		%default	inv
+ħsn byg rwmlw	100	PN	[pred="ħsn byg rwmlw_____1",cat=PN]	ħsn byg rwmlw_____1	Default		%default	inv
+ħsn dadškr	100	PN	[pred="ħsn dadškr_____1",cat=PN]	ħsn dadškr_____1	Default		%default	inv
+ħsn enrmndy	100	PN	[pred="ħsn enrmndy_____1",cat=PN]	ħsn enrmndy_____1	Default		%default	inv
+ħsn ftħy	100	PN	[pred="ħsn ftħy___Hassan Fathy__1",cat=PN]	ħsn ftħy___Hassan Fathy__1	Default		%default	inv
+ħsn gl_nraŕy	100	PN	[pred="ħsn gl_nraŕy_____1",cat=PN]	ħsn gl_nraŕy_____1	Default		%default	inv
+ħsn jwady	100	PN	[pred="ħsn jwady_____1",cat=PN]	ħsn jwady_____1	Default		%default	inv
+ħsn jwerčy	100	PN	[pred="ħsn jwerčy_____1",cat=PN]	ħsn jwerčy_____1	Default		%default	inv
+ħsn kamkar	100	PN	[pred="ħsn kamkar_____1",cat=PN]	ħsn kamkar_____1	Default		%default	inv
+ħsn kamšad	100	PN	[pred="ħsn kamšad_____1",cat=PN]	ħsn kamšad_____1	Default		%default	inv
+ħsn kašy	100	PN	[pred="ħsn kašy_____1",cat=PN]	ħsn kašy_____1	Default		%default	inv
+ħsn laewty aškwry	100	PN	[pred="ħsn laewty aškwry_____1",cat=PN]	ħsn laewty aškwry_____1	Default		%default	inv
+ħsn masaly	100	PN	[pred="ħsn masaly_____1",cat=PN]	ħsn masaly_____1	Default		%default	inv
+ħsn mstwfy	100	PN	[pred="ħsn mstwfy___Mostowfi ol-Mamalek__1",cat=PN]	ħsn mstwfy___Mostowfi ol-Mamalek__1	Default		%default	inv
+ħsn mħmwdy	100	PN	[pred="ħsn mħmwdy_____1",cat=PN]	ħsn mħmwdy_____1	Default		%default	inv
+ħsn mŕdm	100	PN	[pred="ħsn mŕdm_____1",cat=PN]	ħsn mŕdm_____1	Default		%default	inv
+ħsn naeyd	100	PN	[pred="ħsn naeyd_____1",cat=PN]	ħsn naeyd_____1	Default		%default	inv
+ħsn njaryan	100	PN	[pred="ħsn njaryan_____1",cat=PN]	ħsn njaryan_____1	Default		%default	inv
+ħsn pwršyrazy	100	PN	[pred="ħsn pwršyrazy_____1",cat=PN]	ħsn pwršyrazy_____1	Default		%default	inv
+ħsn pyrnya	100	PN	[pred="ħsn pyrnya___Hassan Pirnia__1",cat=PN]	ħsn pyrnya___Hassan Pirnia__1	Default		%default	inv
+ħsn pyrnya	100	PN	[pred="ħsn pyrnya_____1",cat=PN]	ħsn pyrnya_____1	Default		%default	inv
+ħsn qfwry_frd	100	PN	[pred="ħsn qfwry_frd_____1",cat=PN]	ħsn qfwry_frd_____1	Default		%default	inv
+ħsn rngrz	100	PN	[pred="ħsn rngrz___Hassan Rangraz__1",cat=PN]	ħsn rngrz___Hassan Rangraz__1	Default		%default	inv
+ħsn rwdbaryan	100	PN	[pred="ħsn rwdbaryan___Hassan Roudbarian__1",cat=PN]	ħsn rwdbaryan___Hassan Roudbarian__1	Default		%default	inv
+ħsn rwšn	100	PN	[pred="ħsn rwšn___Hassan Rowshan__1",cat=PN]	ħsn rwšn___Hassan Rowshan__1	Default		%default	inv
+ħsn ryaħy	100	PN	[pred="ħsn ryaħy_____1",cat=PN]	ħsn ryaħy_____1	Default		%default	inv
+ħsn rħym_pwr azqdy	100	PN	[pred="ħsn rħym_pwr azqdy___Hassan Rahimpour Azghadi__1",cat=PN]	ħsn rħym_pwr azqdy___Hassan Rahimpour Azghadi__1	Default		%default	inv
+ħsn ršdye	100	PN	[pred="ħsn ršdye___Haji-Mirza Hassan Roshdieh__1",cat=PN]	ħsn ršdye___Haji-Mirza Hassan Roshdieh__1	Default		%default	inv
+ħsn sbħany	100	PN	[pred="ħsn sbħany_____1",cat=PN]	ħsn sbħany_____1	Default		%default	inv
+ħsn slţany twdšky	100	PN	[pred="ħsn slţany twdšky_____1",cat=PN]	ħsn slţany twdšky_____1	Default		%default	inv
+ħsn tŕy_zade	100	PN	[pred="ħsn tŕy_zade___Hasan Taqizadeh__1",cat=PN]	ħsn tŕy_zade___Hasan Taqizadeh__1	Default		%default	inv
+ħsn xsrwšaey	100	PN	[pred="ħsn xsrwšaey___Hassan Khosrowshahi__1",cat=PN]	ħsn xsrwšaey___Hassan Khosrowshahi__1	Default		%default	inv
+ħsn xyaţ bašy	100	PN	[pred="ħsn xyaţ bašy_____1",cat=PN]	ħsn xyaţ bašy_____1	Default		%default	inv
+ħsn ywsfy aškwry	100	PN	[pred="ħsn ywsfy aškwry___Yousefi Eshkevari__1",cat=PN]	ħsn ywsfy aškwry___Yousefi Eshkevari__1	Default		%default	inv
+ħsn zyrk	100	PN	[pred="ħsn zyrk___Hesen Zîrek__1",cat=PN]	ħsn zyrk___Hesen Zîrek__1	Default		%default	inv
+ħsn ħbyby	100	PN	[pred="ħsn ħbyby_____1",cat=PN]	ħsn ħbyby_____1	Default		%default	inv
+ħsn ħsn_dwst	100	PN	[pred="ħsn ħsn_dwst_____1",cat=PN]	ħsn ħsn_dwst_____1	Default		%default	inv
+ħsn ħsn_zade amly	100	PN	[pred="ħsn ħsn_zade amly_____1",cat=PN]	ħsn ħsn_zade amly_____1	Default		%default	inv
+ħsn šayanfr	100	PN	[pred="ħsn šayanfr_____1",cat=PN]	ħsn šayanfr_____1	Default		%default	inv
+ħsn šma'y_zade	100	PN	[pred="ħsn šma'y_zade___Hassan Shamaizadeh__1",cat=PN]	ħsn šma'y_zade___Hassan Shamaizadeh__1	Default		%default	inv
+ħsn šry'tmdary	100	PN	[pred="ħsn šry'tmdary_____1",cat=PN]	ħsn šry'tmdary_____1	Default		%default	inv
+ħsn'ly mnşwr	100	PN	[pred="ħsn'ly mnşwr___Hassan-Ali Mansur__1",cat=PN]	ħsn'ly mnşwr___Hassan-Ali Mansur__1	Default		%default	inv
+ħsn_šae erwy	100	PN	[pred="ħsn_šae erwy_____1",cat=PN]	ħsn_šae erwy_____1	Default		%default	inv
+ħsnk wzyr	100	PN	[pred="ħsnk wzyr___Hasanak the Vizier__1",cat=PN]	ħsnk wzyr___Hasanak the Vizier__1	Default		%default	inv
+ħsyn 'abdyny	100	PN	[pred="ħsyn 'abdyny_____1",cat=PN]	ħsyn 'abdyny_____1	Default		%default	inv
+ħsyn 'la°	100	PN	[pred="ħsyn 'la°___Hossein Ala'__1",cat=PN]	ħsyn 'la°___Hossein Ala'__1	Default		%default	inv
+ħsyn 'lyzade	100	PN	[pred="ħsyn 'lyzade___Hossein Alizadeh__1",cat=PN]	ħsyn 'lyzade___Hossein Alizadeh__1	Default		%default	inv
+ħsyn 'mwmy	100	PN	[pred="ħsyn 'mwmy___Hossein Omoumi__1",cat=PN]	ħsyn 'mwmy___Hossein Omoumi__1	Default		%default	inv
+ħsyn 'rfany	100	PN	[pred="ħsyn 'rfany_____1",cat=PN]	ħsyn 'rfany_____1	Default		%default	inv
+ħsyn 'skry	100	PN	[pred="ħsyn 'skry___Hossein Askari__1",cat=PN]	ħsyn 'skry___Hossein Askari__1	Default		%default	inv
+ħsyn ablys	100	PN	[pred="ħsyn ablys_____1",cat=PN]	ħsyn ablys_____1	Default		%default	inv
+ħsyn akbry	100	PN	[pred="ħsyn akbry_____1",cat=PN]	ħsyn akbry_____1	Default		%default	inv
+ħsyn aley ŕmše_ay	100	PN	[pred="ħsyn aley ŕmše_ay___Hossein Elahi Ghomshei__1",cat=PN]	ħsyn aley ŕmše_ay___Hossein Elahi Ghomshei__1	Default		%default	inv
+ħsyn alle_krm	100	PN	[pred="ħsyn alle_krm_____1",cat=PN]	ħsyn alle_krm_____1	Default		%default	inv
+ħsyn amant	100	PN	[pred="ħsyn amant___Hossein Amanat__1",cat=PN]	ħsyn amant___Hossein Amanat__1	Default		%default	inv
+ħsyn amyrfźly	100	PN	[pred="ħsyn amyrfźly_____1",cat=PN]	ħsyn amyrfźly_____1	Default		%default	inv
+ħsyn axtrznd	100	PN	[pred="ħsyn axtrznd_____1",cat=PN]	ħsyn axtrznd_____1	Default		%default	inv
+ħsyn badamky	100	PN	[pred="ħsyn badamky___Hossein Badamaki__1",cat=PN]	ħsyn badamky___Hossein Badamaki__1	Default		%default	inv
+ħsyn baqy	100	PN	[pred="ħsyn baqy_____1",cat=PN]	ħsyn baqy_____1	Default		%default	inv
+ħsyn berwzy_nya	100	PN	[pred="ħsyn berwzy_nya___Hossein Behroozinia__1",cat=PN]	ħsyn berwzy_nya___Hossein Behroozinia__1	Default		%default	inv
+ħsyn bezad	100	PN	[pred="ħsyn bezad___Hossein Behzad__1",cat=PN]	ħsyn bezad___Hossein Behzad__1	Default		%default	inv
+ħsyn bn dlwye	100	PN	[pred="ħsyn bn dlwye_____1",cat=PN]	ħsyn bn dlwye_____1	Default		%default	inv
+ħsyn bšyrye	100	PN	[pred="ħsyn bšyrye_____1",cat=PN]	ħsyn bšyrye_____1	Default		%default	inv
+ħsyn delwy	100	PN	[pred="ħsyn delwy___Hossein Dehlavi__1",cat=PN]	ħsyn delwy___Hossein Dehlavi__1	Default		%default	inv
+ħsyn drxšan	100	PN	[pred="ħsyn drxšan___Hossein Derakhshan__1",cat=PN]	ħsyn drxšan___Hossein Derakhshan__1	Default		%default	inv
+ħsyn faţmy	100	PN	[pred="ħsyn faţmy___Hossein Fatemi__1",cat=PN]	ħsyn faţmy___Hossein Fatemi__1	Default		%default	inv
+ħsyn fkry	100	PN	[pred="ħsyn fkry___Hossein Fekri__1",cat=PN]	ħsyn fkry___Hossein Fekri__1	Default		%default	inv
+ħsyn gl_glab	100	PN	[pred="ħsyn gl_glab___Hossein Gol-e-Golab__1",cat=PN]	ħsyn gl_glab___Hossein Gol-e-Golab__1	Default		%default	inv
+ħsyn grdyn	100	PN	[pred="ħsyn grdyn_____1",cat=PN]	ħsyn grdyn_____1	Default		%default	inv
+ħsyn k'by	100	PN	[pred="ħsyn k'by___Hossein Kaebi__1",cat=PN]	ħsyn k'by___Hossein Kaebi__1	Default		%default	inv
+ħsyn kaáẓm_zade ayranšer	100	PN	[pred="ħsyn kaáẓm_zade ayranšer_____1",cat=PN]	ħsyn kaáẓm_zade ayranšer_____1	Default		%default	inv
+ħsyn kaẓmy	100	PN	[pred="ħsyn kaẓmy___Hossein Kazemi__1",cat=PN]	ħsyn kaẓmy___Hossein Kazemi__1	Default		%default	inv
+ħsyn klany	100	PN	[pred="ħsyn klany___Hossein Kalani__1",cat=PN]	ħsyn klany___Hossein Kalani__1	Default		%default	inv
+ħsyn ksbyan	100	PN	[pred="ħsyn ksbyan_____1",cat=PN]	ħsyn ksbyan_____1	Default		%default	inv
+ħsyn kčwyan	100	PN	[pred="ħsyn kčwyan_____1",cat=PN]	ħsyn kčwyan_____1	Default		%default	inv
+ħsyn lškry	100	PN	[pred="ħsyn lškry_____1",cat=PN]	ħsyn lškry_____1	Default		%default	inv
+ħsyn m'şwmy emdany	100	PN	[pred="ħsyn m'şwmy emdany_____1",cat=PN]	ħsyn m'şwmy emdany_____1	Default		%default	inv
+ħsyn mjaed	100	PN	[pred="ħsyn mjaed_____1",cat=PN]	ħsyn mjaed_____1	Default		%default	inv
+ħsyn mky	100	PN	[pred="ħsyn mky_____1",cat=PN]	ħsyn mky_____1	Default		%default	inv
+ħsyn mnzwy	100	PN	[pred="ħsyn mnzwy_____1",cat=PN]	ħsyn mnzwy_____1	Default		%default	inv
+ħsyn mrtźa´yan abknar	100	PN	[pred="ħsyn mrtźa´yan abknar_____1",cat=PN]	ħsyn mrtźa´yan abknar_____1	Default		%default	inv
+ħsyn msrwr	100	PN	[pred="ħsyn msrwr_____1",cat=PN]	ħsyn msrwr_____1	Default		%default	inv
+ħsyn mwswyan	100	PN	[pred="ħsyn mwswyan___Hossein Mousavian__1",cat=PN]	ħsyn mwswyan___Hossein Mousavian__1	Default		%default	inv
+ħsyn myrxany	100	PN	[pred="ħsyn myrxany_____1",cat=PN]	ħsyn myrxany_____1	Default		%default	inv
+ħsyn mħbwby ardkany	100	PN	[pred="ħsyn mħbwby ardkany_____1",cat=PN]	ħsyn mħbwby ardkany_____1	Default		%default	inv
+ħsyn mħjwby	100	PN	[pred="ħsyn mħjwby_____1",cat=PN]	ħsyn mħjwby_____1	Default		%default	inv
+ħsyn naşħy	100	PN	[pred="ħsyn naşħy___Hossein Nassehi__1",cat=PN]	ħsyn naşħy___Hossein Nassehi__1	Default		%default	inv
+ħsyn pnaey	100	PN	[pred="ħsyn pnaey_____1",cat=PN]	ħsyn pnaey_____1	Default		%default	inv
+ħsyn prtw byźa´y	100	PN	[pred="ħsyn prtw byźa´y_____1",cat=PN]	ħsyn prtw byźa´y_____1	Default		%default	inv
+ħsyn pyrnya	100	PN	[pred="ħsyn pyrnya_____1",cat=PN]	ħsyn pyrnya_____1	Default		%default	inv
+ħsyn pžman bxtyary	100	PN	[pred="ħsyn pžman bxtyary___Pezhman Bakhtiari__1",cat=PN]	ħsyn pžman bxtyary___Pezhman Bakhtiari__1	Default		%default	inv
+ħsyn rźa'y	100	PN	[pred="ħsyn rźa'y_____1",cat=PN]	ħsyn rźa'y_____1	Default		%default	inv
+ħsyn rźazade	100	PN	[pred="ħsyn rźazade___Hossein Rezazadeh__1",cat=PN]	ħsyn rźazade___Hossein Rezazadeh__1	Default		%default	inv
+ħsyn smy'y	100	PN	[pred="ħsyn smy'y_____1",cat=PN]	ħsyn smy'y_____1	Default		%default	inv
+ħsyn snapwr	100	PN	[pred="ħsyn snapwr___Hosain Sanapour__1",cat=PN]	ħsyn snapwr___Hosain Sanapour__1	Default		%default	inv
+ħsyn sršar	100	PN	[pred="ħsyn sršar_____1",cat=PN]	ħsyn sršar_____1	Default		%default	inv
+ħsyn swdmnd	100	PN	[pred="ħsyn swdmnd_____1",cat=PN]	ħsyn swdmnd_____1	Default		%default	inv
+ħsyn sħrxyz	100	PN	[pred="ħsyn sħrxyz_____1",cat=PN]	ħsyn sħrxyz_____1	Default		%default	inv
+ħsyn ta´b	100	PN	[pred="ħsyn ta´b___Hossein Taeb__1",cat=PN]	ħsyn ta´b___Hossein Taeb__1	Default		%default	inv
+ħsyn terany	100	PN	[pred="ħsyn terany___Hossein Tehrani__1",cat=PN]	ħsyn terany___Hossein Tehrani__1	Default		%default	inv
+ħsyn waçŕy	100	PN	[pred="ħsyn waçŕy_____1",cat=PN]	ħsyn waçŕy_____1	Default		%default	inv
+ħsyn xwaje amyry	100	PN	[pred="ħsyn xwaje amyry___Hossein Khajeh Amiri__1",cat=PN]	ħsyn xwaje amyry___Hossein Khajeh Amiri__1	Default		%default	inv
+ħsyn yary	100	PN	[pred="ħsyn yary_____1",cat=PN]	ħsyn yary_____1	Default		%default	inv
+ħsyn yaħŕy	100	PN	[pred="ħsyn yaħŕy_____1",cat=PN]	ħsyn yaħŕy_____1	Default		%default	inv
+ħsyn zman	100	PN	[pred="ħsyn zman_____1",cat=PN]	ħsyn zman_____1	Default		%default	inv
+ħsyn znde_rwdy	100	PN	[pred="ħsyn znde_rwdy___Hossein Zenderoudi__1",cat=PN]	ħsyn znde_rwdy___Hossein Zenderoudi__1	Default		%default	inv
+ħsyn çabt	100	PN	[pred="ħsyn çabt___Hossein Sabet__1",cat=PN]	ħsyn çabt___Hossein Sabet__1	Default		%default	inv
+ħsyn ŕmy	100	PN	[pred="ħsyn ŕmy_____1",cat=PN]	ħsyn ŕmy_____1	Default		%default	inv
+ħsyn ŕwamy	100	PN	[pred="ħsyn ŕwamy_____1",cat=PN]	ħsyn ŕwamy_____1	Default		%default	inv
+ħsyn ŕwllr aqasy	100	PN	[pred="ħsyn ŕwllr aqasy_____1",cat=PN]	ħsyn ŕwllr aqasy_____1	Default		%default	inv
+ħsyn şafy	100	PN	[pred="ħsyn şafy_____1",cat=PN]	ħsyn şafy_____1	Default		%default	inv
+ħsyn şdŕyany	100	PN	[pred="ħsyn şdŕyany___Hossein Sadaghiani__1",cat=PN]	ħsyn şdŕyany___Hossein Sadaghiani__1	Default		%default	inv
+ħsyn šeraby	100	PN	[pred="ħsyn šeraby_____1",cat=PN]	ħsyn šeraby_____1	Default		%default	inv
+ħsyn šerstany	100	PN	[pred="ħsyn šerstany___Hussain al-Shahristani__1",cat=PN]	ħsyn šerstany___Hussain al-Shahristani__1	Default		%default	inv
+ħsyn škwÂ´y	100	PN	[pred="ħsyn škwÂ´y_____1",cat=PN]	ħsyn škwÂ´y_____1	Default		%default	inv
+ħsyn šry'tmdary	100	PN	[pred="ħsyn šry'tmdary___Hossein Shariatmadari__1",cat=PN]	ħsyn šry'tmdary___Hossein Shariatmadari__1	Default		%default	inv
+ħsyn šyx	100	PN	[pred="ħsyn šyx___Hossein Sheikh__1",cat=PN]	ħsyn šyx___Hossein Sheikh__1	Default		%default	inv
+ħsyn ţaerzade	100	PN	[pred="ħsyn ţaerzade_____1",cat=PN]	ħsyn ţaerzade_____1	Default		%default	inv
+ħsyn ţalby mŕdm	100	PN	[pred="ħsyn ţalby mŕdm_____1",cat=PN]	ħsyn ţalby mŕdm_____1	Default		%default	inv
+ħsyn'ly lyalstany	100	PN	[pred="ħsyn'ly lyalstany_____1",cat=PN]	ħsyn'ly lyalstany_____1	Default		%default	inv
+ħsyn'ly mntẓry	100	PN	[pred="ħsyn'ly mntẓry___Hussein-Ali Montazeri__1",cat=PN]	ħsyn'ly mntẓry___Hussein-Ali Montazeri__1	Default		%default	inv
+ħsynŕly mst'an	100	PN	[pred="ħsynŕly mst'an_____1",cat=PN]	ħsynŕly mst'an_____1	Default		%default	inv
+ħyat n'mt smrŕndy	100	PN	[pred="ħyat n'mt smrŕndy_____1",cat=PN]	ħyat n'mt smrŕndy_____1	Default		%default	inv
+ħydr 'ly_af	100	PN	[pred="ħydr 'ly_af___Heydar Aliyev__1",cat=PN]	ħydr 'ly_af___Heydar Aliyev__1	Default		%default	inv
+ħydr myrza	100	PN	[pred="ħydr myrza_____1",cat=PN]	ħydr myrza_____1	Default		%default	inv
+ħydr qyayy	100	PN	[pred="ħydr qyayy___Heydar Ghiai__1",cat=PN]	ħydr qyayy___Heydar Ghiai__1	Default		%default	inv
+ħydr rjwy	100	PN	[pred="ħydr rjwy_____1",cat=PN]	ħydr rjwy_____1	Default		%default	inv
+ħydr rħym_pwr azqdy	100	PN	[pred="ħydr rħym_pwr azqdy_____1",cat=PN]	ħydr rħym_pwr azqdy_____1	Default		%default	inv
+ħydr yqma	100	PN	[pred="ħydr yqma___Heydar Yaghma__1",cat=PN]	ħydr yqma___Heydar Yaghma__1	Default		%default	inv
+ħydr ħatmy	100	PN	[pred="ħydr ħatmy___Haydar Hatemi__1",cat=PN]	ħydr ħatmy___Haydar Hatemi__1	Default		%default	inv
+ħydr šnjany	100	PN	[pred="ħydr šnjany_____1",cat=PN]	ħydr šnjany_____1	Default		%default	inv
+ħydr šyrazy	100	PN	[pred="ħydr šyrazy_____1",cat=PN]	ħydr šyrazy_____1	Default		%default	inv
+ħzyn laeyjy	100	PN	[pred="ħzyn laeyjy_____1",cat=PN]	ħzyn laeyjy_____1	Default		%default	inv
+ħšmt meajrany	100	PN	[pred="ħšmt meajrany___Heshmat Mohajerani__1",cat=PN]	ħšmt meajrany___Heshmat Mohajerani__1	Default		%default	inv
+ħšmt snjry	100	PN	[pred="ħšmt snjry___Heshmat Sanjari__1",cat=PN]	ħšmt snjry___Heshmat Sanjari__1	Default		%default	inv
+ħšmt_alle ţbrzdy	100	PN	[pred="ħšmt_alle ţbrzdy_____1",cat=PN]	ħšmt_alle ţbrzdy_____1	Default		%default	inv
+ħšmt_alle ţbyby	100	PN	[pred="ħšmt_alle ţbyby_____1",cat=PN]	ħšmt_alle ţbyby_____1	Default		%default	inv
 ŕabws wšmgyr	100	PN	[pred="ŕabws wšmgyr___Shams al-Mo'ali Abol-hasan Ghaboos ibn Wushmgir__1",cat=PN]	ŕabws wšmgyr___Shams al-Mo'ali Abol-hasan Ghaboos ibn Wushmgir__1	Default		%default	inv
 ŕadr 'bdalle	100	PN	[pred="ŕadr 'bdalle___Kader Abdolah__1",cat=PN]	ŕadr 'bdalle___Kader Abdolah__1	Default		%default	inv
 ŕadr 'bdalle_zade	100	PN	[pred="ŕadr 'bdalle_zade_____1",cat=PN]	ŕadr 'bdalle_zade_____1	Default		%default	inv
@@ -7139,7 +7139,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 ŕasm rwanbxš	100	PN	[pred="ŕasm rwanbxš_____1",cat=PN]	ŕasm rwanbxš_____1	Default		%default	inv
 ŕasm rźayy	100	PN	[pred="ŕasm rźayy___Ghasem Rezaei__1",cat=PN]	ŕasm rźayy___Ghasem Rezaei__1	Default		%default	inv
 ŕaÂ´m mŕam fraeany	100	PN	[pred="ŕaÂ´m mŕam fraeany___Ghaem Magham Farahani__1",cat=PN]	ŕaÂ´m mŕam fraeany___Ghaem Magham Farahani__1	Default		%default	inv
-ŕaâny šyrazy	100	PN	[pred="ŕaâny šyrazy_____1",cat=PN]	ŕaâny šyrazy_____1	Default		%default	inv
+ŕaāny šyrazy	100	PN	[pred="ŕaāny šyrazy_____1",cat=PN]	ŕaāny šyrazy_____1	Default		%default	inv
 ŕaźy brean_aldyn	100	PN	[pred="ŕaźy brean_aldyn_____1",cat=PN]	ŕaźy brean_aldyn_____1	Default		%default	inv
 ŕaźy şlwaty	100	PN	[pred="ŕaźy şlwaty_____1",cat=PN]	ŕaźy şlwaty_____1	Default		%default	inv
 ŕbad šywa	100	PN	[pred="ŕbad šywa___Ghobad Shiva__1",cat=PN]	ŕbad šywa___Ghobad Shiva__1	Default		%default	inv
@@ -7149,7 +7149,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 ŕdsy mšedy	100	PN	[pred="ŕdsy mšedy_____1",cat=PN]	ŕdsy mšedy_____1	Default		%default	inv
 ŕdsy ršty	100	PN	[pred="ŕdsy ršty_____1",cat=PN]	ŕdsy ršty_____1	Default		%default	inv
 ŕear 'aşy	100	PN	[pred="ŕear 'aşy_____1",cat=PN]	ŕear 'aşy_____1	Default		%default	inv
-ŕear młkmwf	100	PN	[pred="ŕear młkmwf___Qahhor Mahkamov__1",cat=PN]	ŕear młkmwf___Qahhor Mahkamov__1	Default		%default	inv
+ŕear mħkmwf	100	PN	[pred="ŕear mħkmwf___Qahhor Mahkamov__1",cat=PN]	ŕear mħkmwf___Qahhor Mahkamov__1	Default		%default	inv
 ŕfţy	100	PN	[pred="ŕfţy___Al-Qifti__1",cat=PN]	ŕfţy___Al-Qifti__1	Default		%default	inv
 ŕmr aryan	100	PN	[pred="ŕmr aryan_____1",cat=PN]	ŕmr aryan_____1	Default		%default	inv
 ŕmralmlwk wzyry	100	PN	[pred="ŕmralmlwk wzyry___Qamar-ol-Moluk Vaziri__1",cat=PN]	ŕmralmlwk wzyry___Qamar-ol-Moluk Vaziri__1	Default		%default	inv
@@ -7162,12 +7162,12 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 ŕyşr amyn_pwr	100	PN	[pred="ŕyşr amyn_pwr___Qeysar Aminpour__1",cat=PN]	ŕyşr amyn_pwr___Qeysar Aminpour__1	Default		%default	inv
 ŕšng kamkar	100	PN	[pred="ŕšng kamkar_____1",cat=PN]	ŕšng kamkar_____1	Default		%default	inv
 ŕţan mrwzy	100	PN	[pred="ŕţan mrwzy_____1",cat=PN]	ŕţan mrwzy_____1	Default		%default	inv
-ŕţb_aldyn łydr twny	100	PN	[pred="ŕţb_aldyn łydr twny_____1",cat=PN]	ŕţb_aldyn łydr twny_____1	Default		%default	inv
+ŕţb_aldyn ħydr twny	100	PN	[pred="ŕţb_aldyn ħydr twny_____1",cat=PN]	ŕţb_aldyn ħydr twny_____1	Default		%default	inv
 ŕţb_aldyn şadŕy	100	PN	[pred="ŕţb_aldyn şadŕy___Ghotbeddin Sadeghi__1",cat=PN]	ŕţb_aldyn şadŕy___Ghotbeddin Sadeghi__1	Default		%default	inv
 ŕţran tbryzy	100	PN	[pred="ŕţran tbryzy___Qatran Tabrizi__1",cat=PN]	ŕţran tbryzy___Qatran Tabrizi__1	Default		%default	inv
 şabr abr	100	PN	[pred="şabr abr_____1",cat=PN]	şabr abr_____1	Default		%default	inv
 şabr atšyn	100	PN	[pred="şabr atšyn_____1",cat=PN]	şabr atšyn_____1	Default		%default	inv
-şadŕ ałsanbxš	100	PN	[pred="şadŕ ałsanbxš_____1",cat=PN]	şadŕ ałsanbxš_____1	Default		%default	inv
+şadŕ aħsanbxš	100	PN	[pred="şadŕ aħsanbxš_____1",cat=PN]	şadŕ aħsanbxš_____1	Default		%default	inv
 şadŕ beramy	100	PN	[pred="şadŕ beramy_____1",cat=PN]	şadŕ beramy_____1	Default		%default	inv
 şadŕ bryrany	100	PN	[pred="şadŕ bryrany_____1",cat=PN]	şadŕ bryrany_____1	Default		%default	inv
 şadŕ edayt	100	PN	[pred="şadŕ edayt___Sadeq Hedayat__1",cat=PN]	şadŕ edayt___Sadeq Hedayat__1	Default		%default	inv
@@ -7180,16 +7180,16 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 şadŕ čwbk	100	PN	[pred="şadŕ čwbk___Sadeq Chubak__1",cat=PN]	şadŕ čwbk___Sadeq Chubak__1	Default		%default	inv
 şadŕ ŕţb_zade	100	PN	[pred="şadŕ ŕţb_zade___Sadegh Ghotbzadeh__1",cat=PN]	şadŕ ŕţb_zade___Sadegh Ghotbzadeh__1	Default		%default	inv
 şadŕ šrfkndy	100	PN	[pred="şadŕ šrfkndy___Sadegh Sharafkandi__1",cat=PN]	şadŕ šrfkndy___Sadegh Sharafkandi__1	Default		%default	inv
-şalł łsyny	100	PN	[pred="şalł łsyny_____1",cat=PN]	şalł łsyny_____1	Default		%default	inv
+şalħ ħsyny	100	PN	[pred="şalħ ħsyny_____1",cat=PN]	şalħ ħsyny_____1	Default		%default	inv
 şarm_aldwle	100	PN	[pred="şarm_aldwle___Akbar Mass'oud__1",cat=PN]	şarm_aldwle___Akbar Mass'oud__1	Default		%default	inv
 şba ađrpyk	100	PN	[pred="şba ađrpyk_____1",cat=PN]	şba ađrpyk_____1	Default		%default	inv
-şbały bydgly	100	PN	[pred="şbały bydgly_____1",cat=PN]	şbały bydgly_____1	Default		%default	inv
-şbły	100	PN	[pred="şbły_____1",cat=PN]	şbły_____1	Default		%default	inv
-şdam łsyn	100	PN	[pred="şdam łsyn___Saddam Hussein__1",cat=PN]	şdam łsyn___Saddam Hussein__1	Default		%default	inv
+şbaħy bydgly	100	PN	[pred="şbaħy bydgly_____1",cat=PN]	şbaħy bydgly_____1	Default		%default	inv
+şbħy	100	PN	[pred="şbħy_____1",cat=PN]	şbħy_____1	Default		%default	inv
+şdam ħsyn	100	PN	[pred="şdam ħsyn___Saddam Hussein__1",cat=PN]	şdam ħsyn___Saddam Hussein__1	Default		%default	inv
 şdaŕt jbary	100	PN	[pred="şdaŕt jbary_____1",cat=PN]	şdaŕt jbary_____1	Default		%default	inv
 şdraldyn 'yny	100	PN	[pred="şdraldyn 'yny___Sadriddin Ayni__1",cat=PN]	şdraldyn 'yny___Sadriddin Ayni__1	Default		%default	inv
 şdraldyn aley	100	PN	[pred="şdraldyn aley_____1",cat=PN]	şdraldyn aley_____1	Default		%default	inv
-şdraldyn łjazy	100	PN	[pred="şdraldyn łjazy_____1",cat=PN]	şdraldyn łjazy_____1	Default		%default	inv
+şdraldyn ħjazy	100	PN	[pred="şdraldyn ħjazy_____1",cat=PN]	şdraldyn ħjazy_____1	Default		%default	inv
 şdralmmalk ardbyly	100	PN	[pred="şdralmmalk ardbyly_____1",cat=PN]	şdralmmalk ardbyly_____1	Default		%default	inv
 şdyf rambd	100	PN	[pred="şdyf rambd_____1",cat=PN]	şdyf rambd_____1	Default		%default	inv
 şdyŕ brmk	100	PN	[pred="şdyŕ brmk___Siddiq Barmak__1",cat=PN]	şdyŕ brmk___Siddiq Barmak__1	Default		%default	inv
@@ -7198,11 +7198,11 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 şdyŕe kyanfr	100	PN	[pred="şdyŕe kyanfr_____1",cat=PN]	şdyŕe kyanfr_____1	Default		%default	inv
 şfr ayranpak	100	PN	[pred="şfr ayranpak___Safar Iranpak__1",cat=PN]	şfr ayranpak___Safar Iranpak__1	Default		%default	inv
 şfr ŕermanyan	100	PN	[pred="şfr ŕermanyan_____1",cat=PN]	şfr ŕermanyan_____1	Default		%default	inv
-şlał_aldyn xdyw	100	PN	[pred="şlał_aldyn xdyw_____1",cat=PN]	şlał_aldyn xdyw_____1	Default		%default	inv
+şlaħ_aldyn xdyw	100	PN	[pred="şlaħ_aldyn xdyw_____1",cat=PN]	şlaħ_aldyn xdyw_____1	Default		%default	inv
 şmd berngy	100	PN	[pred="şmd berngy___Samad Behrangi__1",cat=PN]	şmd berngy___Samad Behrangi__1	Default		%default	inv
 şmd nykxwae beramy	100	PN	[pred="şmd nykxwae beramy___Samad Nikkhah Bahrami__1",cat=PN]	şmd nykxwae beramy___Samad Nikkhah Bahrami__1	Default		%default	inv
 şmd wwrqwn	100	PN	[pred="şmd wwrqwn___Samad Vurgun__1",cat=PN]	şmd wwrqwn___Samad Vurgun__1	Default		%default	inv
-şqra âzrmy	100	PN	[pred="şqra âzrmy_____1",cat=PN]	şqra âzrmy_____1	Default		%default	inv
+şqra āzrmy	100	PN	[pred="şqra āzrmy_____1",cat=PN]	şqra āzrmy_____1	Default		%default	inv
 şwfy 'šŕry	100	PN	[pred="şwfy 'šŕry_____1",cat=PN]	şwfy 'šŕry_____1	Default		%default	inv
 š'ban j'fry	100	PN	[pred="š'ban j'fry_____1",cat=PN]	š'ban j'fry_____1	Default		%default	inv
 ša'ran m'aşr ayran	100	PN	[pred="ša'ran m'aşr ayran_____1",cat=PN]	ša'ran m'aşr ayran_____1	Default		%default	inv
@@ -7224,10 +7224,10 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 šaeyn fret	100	PN	[pred="šaeyn fret___Shahin Farhat__1",cat=PN]	šaeyn fret___Shahin Farhat__1	Default		%default	inv
 šaeyn j'frŕly	100	PN	[pred="šaeyn j'frŕly___Shaheen Jafargholi__1",cat=PN]	šaeyn j'frŕly___Shaheen Jafargholi__1	Default		%default	inv
 šaeyn njfy	100	PN	[pred="šaeyn njfy___Shahin Najafi__1",cat=PN]	šaeyn njfy___Shahin Najafi__1	Default		%default	inv
-šaeyn łaj_babayy	100	PN	[pred="šaeyn łaj_babayy_____1",cat=PN]	šaeyn łaj_babayy_____1	Default		%default	inv
+šaeyn ħaj_babayy	100	PN	[pred="šaeyn ħaj_babayy_____1",cat=PN]	šaeyn ħaj_babayy_____1	Default		%default	inv
 šak krwg	100	PN	[pred="šak krwg___August Krogh__1",cat=PN]	šak krwg___August Krogh__1	Default		%default	inv
 šakr jlab	100	PN	[pred="šakr jlab_____1",cat=PN]	šakr jlab_____1	Default		%default	inv
-šalwm łanwx	100	PN	[pred="šalwm łanwx___Shalom Hanoch__1",cat=PN]	šalwm łanwx___Shalom Hanoch__1	Default		%default	inv
+šalwm ħanwx	100	PN	[pred="šalwm ħanwx___Shalom Hanoch__1",cat=PN]	šalwm ħanwx___Shalom Hanoch__1	Default		%default	inv
 šan dywry	100	PN	[pred="šan dywry___Shawn Daivari__1",cat=PN]	šan dywry___Shawn Daivari__1	Default		%default	inv
 šan janswn	100	PN	[pred="šan janswn___Shawn Johnson__1",cat=PN]	šan janswn___Shawn Johnson__1	Default		%default	inv
 šan kanry	100	PN	[pred="šan kanry___Sean Connery__1",cat=PN]	šan kanry___Sean Connery__1	Default		%default	inv
@@ -7240,7 +7240,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 šapwr bxtyar	100	PN	[pred="šapwr bxtyar___Shapour Bakhtiar__1",cat=PN]	šapwr bxtyar___Shapour Bakhtiar__1	Default		%default	inv
 šapwr jfrwdy	100	PN	[pred="šapwr jfrwdy_____1",cat=PN]	šapwr jfrwdy_____1	Default		%default	inv
 šapwr jwrkš	100	PN	[pred="šapwr jwrkš_____1",cat=PN]	šapwr jwrkš_____1	Default		%default	inv
-šapwr każmy	100	PN	[pred="šapwr każmy_____1",cat=PN]	šapwr każmy_____1	Default		%default	inv
+šapwr kaẓmy	100	PN	[pred="šapwr kaẓmy_____1",cat=PN]	šapwr kaẓmy_____1	Default		%default	inv
 šapwr ŕryb	100	PN	[pred="šapwr ŕryb_____1",cat=PN]	šapwr ŕryb_____1	Default		%default	inv
 šapwr šebazy	100	PN	[pred="šapwr šebazy___Alireza Shapour Shahbazi__1",cat=PN]	šapwr šebazy___Alireza Shapour Shahbazi__1	Default		%default	inv
 šarl adward gywm	100	PN	[pred="šarl adward gywm___Charles Edouard Guillaume__1",cat=PN]	šarl adward gywm___Charles Edouard Guillaume__1	Default		%default	inv
@@ -7262,13 +7262,13 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 ša´wl mwfaz	100	PN	[pred="ša´wl mwfaz___Shaul Mofaz__1",cat=PN]	ša´wl mwfaz___Shaul Mofaz__1	Default		%default	inv
 ša´wl šakd	100	PN	[pred="ša´wl šakd_____1",cat=PN]	ša´wl šakd_____1	Default		%default	inv
 šbgyr pwladyan	100	PN	[pred="šbgyr pwladyan_____1",cat=PN]	šbgyr pwladyan_____1	Default		%default	inv
-šbnm frał	100	PN	[pred="šbnm frał___Şebnem Ferah__1",cat=PN]	šbnm frał___Şebnem Ferah__1	Default		%default	inv
+šbnm fraħ	100	PN	[pred="šbnm fraħ___Şebnem Ferah__1",cat=PN]	šbnm fraħ___Şebnem Ferah__1	Default		%default	inv
 šbnm mddzade	100	PN	[pred="šbnm mddzade_____1",cat=PN]	šbnm mddzade_____1	Default		%default	inv
 šbnm çrya	100	PN	[pred="šbnm çrya___Shabnam Surayyo__1",cat=PN]	šbnm çrya___Shabnam Surayyo__1	Default		%default	inv
 šbnm ŕly_xany	100	PN	[pred="šbnm ŕly_xany_____1",cat=PN]	šbnm ŕly_xany_____1	Default		%default	inv
 šbnm ţlw'y	100	PN	[pred="šbnm ţlw'y___Shabnam Tolouei__1",cat=PN]	šbnm ţlw'y___Shabnam Tolouei__1	Default		%default	inv
 šeab mŕrbyn	100	PN	[pred="šeab mŕrbyn_____1",cat=PN]	šeab mŕrbyn_____1	Default		%default	inv
-šeab łsyny	100	PN	[pred="šeab łsyny___Shahab Hosseini__1",cat=PN]	šeab łsyny___Shahab Hosseini__1	Default		%default	inv
+šeab ħsyny	100	PN	[pred="šeab ħsyny___Shahab Hosseini__1",cat=PN]	šeab ħsyny___Shahab Hosseini__1	Default		%default	inv
 šeab_aldyn mrjany	100	PN	[pred="šeab_aldyn mrjany_____1",cat=PN]	šeab_aldyn mrjany_____1	Default		%default	inv
 šeab_aldyn serwrdy	100	PN	[pred="šeab_aldyn serwrdy___Shahab al-Din Suhrawardi__1",cat=PN]	šeab_aldyn serwrdy___Shahab al-Din Suhrawardi__1	Default		%default	inv
 šeab_aldyn ţbaţbayy	100	PN	[pred="šeab_aldyn ţbaţbayy_____1",cat=PN]	šeab_aldyn ţbaţbayy_____1	Default		%default	inv
@@ -7278,28 +7278,28 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 šela aŕapwr	100	PN	[pred="šela aŕapwr_____1",cat=PN]	šela aŕapwr_____1	Default		%default	inv
 šela laeyjy	100	PN	[pred="šela laeyjy___Shahla Lahiji__1",cat=PN]	šela laeyjy___Shahla Lahiji__1	Default		%default	inv
 šela m'zzy	100	PN	[pred="šela m'zzy_____1",cat=PN]	šela m'zzy_____1	Default		%default	inv
-šela nażryan	100	PN	[pred="šela nażryan_____1",cat=PN]	šela nażryan_____1	Default		%default	inv
-šela prwyn_rwł	100	PN	[pred="šela prwyn_rwł_____1",cat=PN]	šela prwyn_rwł_____1	Default		%default	inv
-šela ryały	100	PN	[pred="šela ryały_____1",cat=PN]	šela ryały_____1	Default		%default	inv
+šela naẓryan	100	PN	[pred="šela naẓryan_____1",cat=PN]	šela naẓryan_____1	Default		%default	inv
+šela prwyn_rwħ	100	PN	[pred="šela prwyn_rwħ_____1",cat=PN]	šela prwyn_rwħ_____1	Default		%default	inv
+šela ryaħy	100	PN	[pred="šela ryaħy_____1",cat=PN]	šela ryaħy_____1	Default		%default	inv
 šela weab_zade	100	PN	[pred="šela weab_zade_____1",cat=PN]	šela weab_zade_____1	Default		%default	inv
 šela šrkt	100	PN	[pred="šela šrkt___Shahla Sherkat__1",cat=PN]	šela šrkt___Shahla Sherkat__1	Default		%default	inv
 šena	100	PN	[pred="šena_____1",cat=PN]	šena_____1	Default		%default	inv
 šenaz terany	100	PN	[pred="šenaz terany_____1",cat=PN]	šenaz terany_____1	Default		%default	inv
-šenaz âzad	100	PN	[pred="šenaz âzad_____1",cat=PN]	šenaz âzad_____1	Default		%default	inv
+šenaz āzad	100	PN	[pred="šenaz āzad_____1",cat=PN]	šenaz āzad_____1	Default		%default	inv
 šepr	300	PN	[pred="šepr_____1",cat=PN]	šepr_____1	Default		%default	inv
-šeram a'żm	100	PN	[pred="šeram a'żm_____1",cat=PN]	šeram a'żm_____1	Default		%default	inv
+šeram a'ẓm	100	PN	[pred="šeram a'ẓm_____1",cat=PN]	šeram a'ẓm_____1	Default		%default	inv
 šeram antxaby	100	PN	[pred="šeram antxaby___Shahram Entekhabi__1",cat=PN]	šeram antxaby___Shahram Entekhabi__1	Default		%default	inv
 šeram asdy	100	PN	[pred="šeram asdy_____1",cat=PN]	šeram asdy_____1	Default		%default	inv
 šeram kašany	100	PN	[pred="šeram kašany___Shahrum Kashani__1",cat=PN]	šeram kašany___Shahrum Kashani__1	Default		%default	inv
 šeram mkry	100	PN	[pred="šeram mkry_____1",cat=PN]	šeram mkry_____1	Default		%default	inv
-šeram nażry	100	PN	[pred="šeram nażry___Shahram Nazeri__1",cat=PN]	šeram nażry___Shahram Nazeri__1	Default		%default	inv
-šeram rłymyan	100	PN	[pred="šeram rłymyan_____1",cat=PN]	šeram rłymyan_____1	Default		%default	inv
-šeram łŕyŕt_dwst	100	PN	[pred="šeram łŕyŕt_dwst_____1",cat=PN]	šeram łŕyŕt_dwst_____1	Default		%default	inv
+šeram naẓry	100	PN	[pred="šeram naẓry___Shahram Nazeri__1",cat=PN]	šeram naẓry___Shahram Nazeri__1	Default		%default	inv
+šeram rħymyan	100	PN	[pred="šeram rħymyan_____1",cat=PN]	šeram rħymyan_____1	Default		%default	inv
+šeram ħŕyŕt_dwst	100	PN	[pred="šeram ħŕyŕt_dwst_____1",cat=PN]	šeram ħŕyŕt_dwst_____1	Default		%default	inv
 šeram ŕa´dy	100	PN	[pred="šeram ŕa´dy_____1",cat=PN]	šeram ŕa´dy_____1	Default		%default	inv
 šeram şwlty	100	PN	[pred="šeram şwlty___Shahram Solati__1",cat=PN]	šeram şwlty___Shahram Solati__1	Default		%default	inv
 šeram šb_pre	100	PN	[pred="šeram šb_pre___Shahram Shabpareh__1",cat=PN]	šeram šb_pre___Shahram Shabpareh__1	Default		%default	inv
 šerbanw	100	PN	[pred="šerbanw___Shahrbanu__1",cat=PN]	šerbanw___Shahrbanu__1	Default		%default	inv
-šerdad rwłany	100	PN	[pred="šerdad rwłany___Shahrdad Rohani__1",cat=PN]	šerdad rwłany___Shahrdad Rohani__1	Default		%default	inv
+šerdad rwħany	100	PN	[pred="šerdad rwħany___Shahrdad Rohani__1",cat=PN]	šerdad rwħany___Shahrdad Rohani__1	Default		%default	inv
 šere aqdašlw	100	PN	[pred="šere aqdašlw___Shohreh Aghdashloo__1",cat=PN]	šere aqdašlw___Shohreh Aghdashloo__1	Default		%default	inv
 šere nyk_pwr	100	PN	[pred="šere nyk_pwr_____1",cat=PN]	šere nyk_pwr_____1	Default		%default	inv
 šere wkyly	100	PN	[pred="šere wkyly_____1",cat=PN]	šere wkyly_____1	Default		%default	inv
@@ -7317,7 +7317,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 šfaly čadery	100	PN	[pred="šfaly čadery___Shefali Chowdhury__1",cat=PN]	šfaly čadery___Shefali Chowdhury__1	Default		%default	inv
 šgwfe 'arfyan	100	PN	[pred="šgwfe 'arfyan_____1",cat=PN]	šgwfe 'arfyan_____1	Default		%default	inv
 šgy	100	PN	[pred="šgy___Shaggy (musician)__1",cat=PN]	šgy___Shaggy (musician)__1	Default		%default	inv
-šja' náżam mrndy	100	PN	[pred="šja' náżam mrndy_____1",cat=PN]	šja' náżam mrndy_____1	Default		%default	inv
+šja' náẓam mrndy	100	PN	[pred="šja' náẓam mrndy_____1",cat=PN]	šja' náẓam mrndy_____1	Default		%default	inv
 šja'_aldyn šfa	100	PN	[pred="šja'_aldyn šfa_____1",cat=PN]	šja'_aldyn šfa_____1	Default		%default	inv
 šja't ŕan'	100	PN	[pred="šja't ŕan'_____1",cat=PN]	šja't ŕan'_____1	Default		%default	inv
 škralle njfy	100	PN	[pred="škralle njfy_____1",cat=PN]	škralle njfy_____1	Default		%default	inv
@@ -7336,7 +7336,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 šms pelwy	100	PN	[pred="šms pelwy___Shams Pahlavi__1",cat=PN]	šms pelwy___Shams Pahlavi__1	Default		%default	inv
 šms ŕys razy	100	PN	[pred="šms ŕys razy_____1",cat=PN]	šms ŕys razy_____1	Default		%default	inv
 šms_aldyn mbark systany	100	PN	[pred="šms_aldyn mbark systany_____1",cat=PN]	šms_aldyn mbark systany_____1	Default		%default	inv
-šms_almlwk mşałb	100	PN	[pred="šms_almlwk mşałb_____1",cat=PN]	šms_almlwk mşałb_____1	Default		%default	inv
+šms_almlwk mşaħb	100	PN	[pred="šms_almlwk mşaħb_____1",cat=PN]	šms_almlwk mşaħb_____1	Default		%default	inv
 šmsy 'şar	100	PN	[pred="šmsy 'şar___Shusha Guppy__1",cat=PN]	šmsy 'şar___Shusha Guppy__1	Default		%default	inv
 šnaya twayn	100	PN	[pred="šnaya twayn___Shania Twain__1",cat=PN]	šnaya twayn___Shania Twain__1	Default		%default	inv
 šngwl	100	PN	[pred="šngwl_____1",cat=PN]	šngwl_____1	Default		%default	inv
@@ -7356,7 +7356,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 šryl krw	100	PN	[pred="šryl krw___Sheryl Crow__1",cat=PN]	šryl krw___Sheryl Crow__1	Default		%default	inv
 šwan prwr	100	PN	[pred="šwan prwr___Şivan Perwer__1",cat=PN]	šwan prwr___Şivan Perwer__1	Default		%default	inv
 šwkt 'ly_akbrwa	100	PN	[pred="šwkt 'ly_akbrwa___Shovkat Alakbarova__1",cat=PN]	šwkt 'ly_akbrwa___Shovkat Alakbarova__1	Default		%default	inv
-šwkt łjt	100	PN	[pred="šwkt łjt_____1",cat=PN]	šwkt łjt_____1	Default		%default	inv
+šwkt ħjt	100	PN	[pred="šwkt ħjt_____1",cat=PN]	šwkt ħjt_____1	Default		%default	inv
 šwlwm 'lyxm	100	PN	[pred="šwlwm 'lyxm___Sholem Aleichem__1",cat=PN]	šwlwm 'lyxm___Sholem Aleichem__1	Default		%default	inv
 šwn astyn	100	PN	[pred="šwn astyn___Sean Astin__1",cat=PN]	šwn astyn___Sean Astin__1	Default		%default	inv
 šwn awkysy	100	PN	[pred="šwn awkysy___Seán O'Casey__1",cat=PN]	šwn awkysy___Seán O'Casey__1	Default		%default	inv
@@ -7368,28 +7368,28 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 šyma klbasy	100	PN	[pred="šyma klbasy___Sheema Kalbasi__1",cat=PN]	šyma klbasy___Sheema Kalbasi__1	Default		%default	inv
 šymwn prz	100	PN	[pred="šymwn prz___Shimon Peres__1",cat=PN]	šymwn prz___Shimon Peres__1	Default		%default	inv
 šyn prtw	100	PN	[pred="šyn prtw___Shin Partow__1",cat=PN]	šyn prtw___Shin Partow__1	Default		%default	inv
-šyrmłmd aspndar	100	PN	[pred="šyrmłmd aspndar_____1",cat=PN]	šyrmłmd aspndar_____1	Default		%default	inv
+šyrmħmd aspndar	100	PN	[pred="šyrmħmd aspndar_____1",cat=PN]	šyrmħmd aspndar_____1	Default		%default	inv
 šyry mymwn	100	PN	[pred="šyry mymwn___Shiri Maimon__1",cat=PN]	šyry mymwn___Shiri Maimon__1	Default		%default	inv
 šyryn 'bady	100	PN	[pred="šyryn 'bady___Shirin Ebadi__1",cat=PN]	šyryn 'bady___Shirin Ebadi__1	Default		%default	inv
 šyryn byany	100	PN	[pred="šyryn byany_____1",cat=PN]	šyryn byany_____1	Default		%default	inv
 šyryn byna	100	PN	[pred="šyryn byna_____1",cat=PN]	šyryn byna_____1	Default		%default	inv
 šyryn nšaţ	100	PN	[pred="šyryn nšaţ___Shirin Neshat__1",cat=PN]	šyryn nšaţ___Shirin Neshat__1	Default		%default	inv
-šyryn nżam mafy	100	PN	[pred="šyryn nżam mafy_____1",cat=PN]	šyryn nżam mafy_____1	Default		%default	inv
+šyryn nẓam mafy	100	PN	[pred="šyryn nẓam mafy_____1",cat=PN]	šyryn nẓam mafy_____1	Default		%default	inv
 šyryn ŕly pwr	100	PN	[pred="šyryn ŕly pwr_____1",cat=PN]	šyryn ŕly pwr_____1	Default		%default	inv
 šyrzman ţayzy	100	PN	[pred="šyrzman ţayzy___Sherzaman Taizi__1",cat=PN]	šyrzman ţayzy___Sherzaman Taizi__1	Default		%default	inv
 šywa abraeymy	100	PN	[pred="šywa abraeymy_____1",cat=PN]	šywa abraeymy_____1	Default		%default	inv
 šywa arsţwyy	100	PN	[pred="šywa arsţwyy_____1",cat=PN]	šywa arsţwyy_____1	Default		%default	inv
-šywa nżr aeary	100	PN	[pred="šywa nżr aeary___Shiva Nazar Ahari__1",cat=PN]	šywa nżr aeary___Shiva Nazar Ahari__1	Default		%default	inv
+šywa nẓr aeary	100	PN	[pred="šywa nẓr aeary___Shiva Nazar Ahari__1",cat=PN]	šywa nẓr aeary___Shiva Nazar Ahari__1	Default		%default	inv
 šywa rz	100	PN	[pred="šywa rz___Shiva Rose__1",cat=PN]	šywa rz___Shiva Rose__1	Default		%default	inv
 šyx aenyn	100	PN	[pred="šyx aenyn___Iron Sheik__1",cat=PN]	šyx aenyn___Iron Sheik__1	Default		%default	inv
-šyx ałmd kafy	100	PN	[pred="šyx ałmd kafy_____1",cat=PN]	šyx ałmd kafy_____1	Default		%default	inv
-šyx ałmd rwły	100	PN	[pred="šyx ałmd rwły_____1",cat=PN]	šyx ałmd rwły_____1	Default		%default	inv
+šyx aħmd kafy	100	PN	[pred="šyx aħmd kafy_____1",cat=PN]	šyx aħmd kafy_____1	Default		%default	inv
+šyx aħmd rwħy	100	PN	[pred="šyx aħmd rwħy_____1",cat=PN]	šyx aħmd rwħy_____1	Default		%default	inv
 šyx aŕabzrg terany	100	PN	[pred="šyx aŕabzrg terany___Aqa Bozorg Tehrani__1",cat=PN]	šyx aŕabzrg terany___Aqa Bozorg Tehrani__1	Default		%default	inv
 šyx eady njm_abady	100	PN	[pred="šyx eady njm_abady_____1",cat=PN]	šyx eady njm_abady_____1	Default		%default	inv
 šyx fźl_alle nwry	100	PN	[pred="šyx fźl_alle nwry___Sheikh Fazlollah Noori__1",cat=PN]	šyx fźl_alle nwry___Sheikh Fazlollah Noori__1	Default		%default	inv
 šyx j'fr mjtedy	100	PN	[pred="šyx j'fr mjtedy___Sheikh Jafar Mojtahedi__1",cat=PN]	šyx j'fr mjtedy___Sheikh Jafar Mojtahedi__1	Default		%default	inv
 šyx klyny razy	100	PN	[pred="šyx klyny razy___Muhammad ibn Ya'qub al-Kulayni__1",cat=PN]	šyx klyny razy___Muhammad ibn Ya'qub al-Kulayni__1	Default		%default	inv
-šyx mjyb_alrłmn	100	PN	[pred="šyx mjyb_alrłmn___Sheikh Mujibur Rahman__1",cat=PN]	šyx mjyb_alrłmn___Sheikh Mujibur Rahman__1	Default		%default	inv
+šyx mjyb_alrħmn	100	PN	[pred="šyx mjyb_alrħmn___Sheikh Mujibur Rahman__1",cat=PN]	šyx mjyb_alrħmn___Sheikh Mujibur Rahman__1	Default		%default	inv
 šyx rźwan	100	PN	[pred="šyx rźwan_____1",cat=PN]	šyx rźwan_____1	Default		%default	inv
 šyç rźayy	100	PN	[pred="šyç rźayy___Sheys Rezaei__1",cat=PN]	šyç rźayy___Sheys Rezaei__1	Default		%default	inv
 šŕayŕ deŕan	100	PN	[pred="šŕayŕ deŕan___Shaghayegh Dehghan__1",cat=PN]	šŕayŕ deŕan___Shaghayegh Dehghan__1	Default		%default	inv
@@ -7401,13 +7401,13 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 ţarŕ 'zyz	100	PN	[pred="ţarŕ 'zyz___Tariq Aziz__1",cat=PN]	ţarŕ 'zyz___Tariq Aziz__1	Default		%default	inv
 ţayr ardbyly	100	PN	[pred="ţayr ardbyly_____1",cat=PN]	ţayr ardbyly_____1	Default		%default	inv
 ţe yasyn rmźan	100	PN	[pred="ţe yasyn rmźan___Taha Yassin Ramadan__1",cat=PN]	ţe yasyn rmźan___Taha Yassin Ramadan__1	Default		%default	inv
-ţe łsyn	100	PN	[pred="ţe łsyn___Taha Hussein__1",cat=PN]	ţe łsyn___Taha Hussein__1	Default		%default	inv
+ţe ħsyn	100	PN	[pred="ţe ħsyn___Taha Hussein__1",cat=PN]	ţe ħsyn___Taha Hussein__1	Default		%default	inv
 ţl't myrfndrsky	100	PN	[pred="ţl't myrfndrsky_____1",cat=PN]	ţl't myrfndrsky_____1	Default		%default	inv
 ţla mdny	100	PN	[pred="ţla mdny___Tala Madani__1",cat=PN]	ţla mdny___Tala Madani__1	Default		%default	inv
 ţyan žažxay	100	PN	[pred="ţyan žažxay_____1",cat=PN]	ţyan žažxay_____1	Default		%default	inv
 ţybe abraeym	100	PN	[pred="ţybe abraeym___Taibah Al-Ibrahim__1",cat=PN]	ţybe abraeym___Taibah Al-Ibrahim__1	Default		%default	inv
 źya ŕary_zade	100	PN	[pred="źya ŕary_zade_____1",cat=PN]	źya ŕary_zade_____1	Default		%default	inv
-źya° mwłd	100	PN	[pred="źya° mwłd___Ziya Movahed__1",cat=PN]	źya° mwłd___Ziya Movahed__1	Default		%default	inv
+źya° mwħd	100	PN	[pred="źya° mwħd___Ziya Movahed__1",cat=PN]	źya° mwħd___Ziya Movahed__1	Default		%default	inv
 źya°aldyn nxšby	100	PN	[pred="źya°aldyn nxšby_____1",cat=PN]	źya°aldyn nxšby_____1	Default		%default	inv
 źya°aldyn nyk_nfs	100	PN	[pred="źya°aldyn nyk_nfs___Ziaeddin Niknafs__1",cat=PN]	źya°aldyn nyk_nfs___Ziaeddin Niknafs__1	Default		%default	inv
 žak afnbax	100	PN	[pred="žak afnbax___Jacques Offenbach__1",cat=PN]	žak afnbax___Jacques Offenbach__1	Default		%default	inv
@@ -7424,7 +7424,7 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 žale 'lw	100	PN	[pred="žale 'lw_____1",cat=PN]	žale 'lw_____1	Default		%default	inv
 žale amwzgar	100	PN	[pred="žale amwzgar___Jaleh Amouzgar__1",cat=PN]	žale amwzgar___Jaleh Amouzgar__1	Default		%default	inv
 žale aşfeany	100	PN	[pred="žale aşfeany___2007 in poetry__1",cat=PN]	žale aşfeany___2007 in poetry__1	Default		%default	inv
-žale każmy	100	PN	[pred="žale każmy_____1",cat=PN]	žale każmy_____1	Default		%default	inv
+žale kaẓmy	100	PN	[pred="žale kaẓmy_____1",cat=PN]	žale kaẓmy_____1	Default		%default	inv
 žale ŕa´m mŕamy	100	PN	[pred="žale ŕa´m mŕamy_____1",cat=PN]	žale ŕa´m mŕamy_____1	Default		%default	inv
 žan agwst dwmynyk angr	100	PN	[pred="žan agwst dwmynyk angr___Jean Auguste Dominique Ingres__1",cat=PN]	žan agwst dwmynyk angr___Jean Auguste Dominique Ingres__1	Default		%default	inv
 žan antlm brya sawarn	100	PN	[pred="žan antlm brya sawarn___Jean Anthelme Brillat-Savarin__1",cat=PN]	žan antlm brya sawarn___Jean Anthelme Brillat-Savarin__1	Default		%default	inv
@@ -7509,6 +7509,6 @@ z´yw šyf	100	PN	[pred="z´yw šyf___Ze'ev Schiff__1",cat=PN]	z´yw šyf___Ze'e
 žyl dlwz	100	PN	[pred="žyl dlwz___Gilles Deleuze__1",cat=PN]	žyl dlwz___Gilles Deleuze__1	Default		%default	inv
 žyla bny_y'ŕwb	100	PN	[pred="žyla bny_y'ŕwb_____1",cat=PN]	žyla bny_y'ŕwb_____1	Default		%default	inv
 žyla šry't_pnaey	100	PN	[pred="žyla šry't_pnaey_____1",cat=PN]	žyla šry't_pnaey_____1	Default		%default	inv
-žynws sbłany	100	PN	[pred="žynws sbłany_____1",cat=PN]	žynws sbłany_____1	Default		%default	inv
+žynws sbħany	100	PN	[pred="žynws sbħany_____1",cat=PN]	žynws sbħany_____1	Default		%default	inv
 žyzl bwndšn	100	PN	[pred="žyzl bwndšn___Gisele Bündchen__1",cat=PN]	žyzl bwndšn___Gisele Bündchen__1	Default		%default	inv
-żeyr faryaby	100	PN	[pred="żeyr faryaby___Zahir-al-Din Faryabi__1",cat=PN]	żeyr faryaby___Zahir-al-Din Faryabi__1	Default		%default	inv
+ẓeyr faryaby	100	PN	[pred="ẓeyr faryaby___Zahir-al-Din Faryabi__1",cat=PN]	ẓeyr faryaby___Zahir-al-Din Faryabi__1	Default		%default	inv

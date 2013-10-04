@@ -760,7 +760,6 @@ constr.pl: constructions $(alexinatoolsdir)/constructions_builder.pl
 %.lex: %.f constr.pl $(alexinatoolsdir)/lex_generator.pl
 	@echo Building $@; \
 	cat $< | perl constr.pl | $(alexinatoolsdir)/lex_generator.pl \
-	$(PRERECODING) \
 	> $@
 
 %.flt: %.lex
