@@ -913,7 +913,12 @@
                 "v8"
             ], 
             [
-                null
+                "inv", 
+                "inv"
+            ], 
+            [
+                "inv", 
+                "inv"
             ], 
             [
                 "inv"
@@ -1139,7 +1144,12 @@
                 "V"
             ], 
             [
-                null
+                "P", 
+                "P"
+            ], 
+            [
+                "DETdem", 
+                "PROdem"
             ], 
             [
                 "ADVcoord"
@@ -1284,7 +1294,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "ayn xale pyr zn sal_eay sal ayn snjdea ra jm' krd w yk kyse_ay drst krd w ryxt twyān w , gđašt ray srš , w ba yk mŕdary nan ke  be razۀ ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke brwd xane dxtrš .", 
+        "after_conv_sentence": "ayn xale pyr zn sal_eay sal ayn snjdea ra jm' krd w yk kyse_ay drst krd w ryxt twy ān w , gđašt ray srš , w ba yk mŕdary nan ke  be razX ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke brwd xane dxtrš .", 
         "stem": [
             [
                 "ayn_____1", 
@@ -1366,7 +1376,12 @@
                 "ryxtn_____1"
             ], 
             [
-                null
+                "twy_____1", 
+                "twy_____2"
+            ], 
+            [
+                "ān_____1", 
+                "ān_____1"
             ], 
             [
                 "w_____1"
@@ -1546,7 +1561,7 @@
             "nwn", 
             "ke", 
             "be", 
-            "rwzۀ", 
+            "rwzX", 
             "ŕbl", 
             "pxte", 
             "bwd", 
@@ -1570,7 +1585,7 @@
         ], 
         "sentence_id": 1005, 
         "jpn_sentence": "この老女は毎年、このホソバグミの実を集めて、籠に入れていた。それを頭の上に乗せて、前に焼いておいたナンを持って、家を出て、どんどん歩いて、娘の家に向かった。", 
-        "roman_sentence": "ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzۀ ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš .", 
+        "roman_sentence": "ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzX ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš .", 
         "persian_sentence": " این خاله پیر زن سالهای سال این سنجدها رو جمع کرد و یه کیسه ای درست کرد و ریخت تو ش و، گذاشت روی سرش، و با یک مقداری نون که  به روزۀ قبل پخته بود، راه افتاد و رفت و رفت و رفت و رفت، که بره خونه دخترش.", 
         "morph_tag": [
             [
@@ -1653,7 +1668,12 @@
                 "infApocope"
             ], 
             [
-                null
+                "inv", 
+                "inv"
+            ], 
+            [
+                "inv", 
+                "inv"
             ], 
             [
                 "inv"
@@ -1817,7 +1837,8 @@
             "krd", 
             "w", 
             "ryxt", 
-            "twyān", 
+            "twy", 
+            "ān", 
             "w", 
             ",", 
             "gđašt", 
@@ -1831,7 +1852,7 @@
             "nan", 
             "ke", 
             "be", 
-            "razۀ", 
+            "razX", 
             "ŕbl", 
             "pxte", 
             "bwd", 
@@ -3002,7 +3023,12 @@
                 "inv"
             ], 
             [
-                null
+                "ADJ:c", 
+                "inv", 
+                "N5:c"
+            ], 
+            [
+                "inv"
             ], 
             [
                 null
@@ -3125,7 +3151,12 @@
                 "DELM"
             ], 
             [
-                null
+                "ADJ", 
+                "ADV", 
+                "N"
+            ], 
+            [
+                "CONJsubord"
             ], 
             [
                 null
@@ -3152,7 +3183,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "mn brwm be dxtrm sr bznm , yk dydary taze knm , qđa_eay xwb xwb em bxwrm , čaŕ bšm , čle bšm , wŕtke brwmy_gydm , tw mn ra bxwr .", 
+        "after_conv_sentence": "mn brwm be dxtrm sr bznm , yk dydary taze knm , qđa_eay xwb xwb em bxwrm , čaŕ bšm , čle bšm , wŕt ke brwmy_gydm , tw mn ra bxwr .", 
         "stem": [
             [
                 "mn_____1", 
@@ -3249,7 +3280,12 @@
                 ",_____1"
             ], 
             [
-                null
+                "wŕt_____1", 
+                "wŕt___MTE__1", 
+                "wŕt_____1"
+            ], 
+            [
+                "ke_____1"
             ], 
             [
                 null
@@ -3410,7 +3446,12 @@
                 "inv"
             ], 
             [
-                null
+                "", 
+                "inv", 
+                "Sing"
+            ], 
+            [
+                "inv"
             ], 
             [
                 null
@@ -3462,7 +3503,8 @@
             "čle", 
             "bšm", 
             ",", 
-            "wŕtke", 
+            "wŕt", 
+            "ke", 
             "brwmy_gydm", 
             ",", 
             "tw", 
@@ -4777,7 +4819,13 @@
                 "inv"
             ], 
             [
-                null
+                "ADJ:c", 
+                "N15:c", 
+                "N5:c"
+            ], 
+            [
+                "inv", 
+                "inv"
             ], 
             [
                 "N15:c", 
@@ -4823,7 +4871,13 @@
                 "P"
             ], 
             [
-                null
+                "ADJ", 
+                "N", 
+                "N"
+            ], 
+            [
+                "AR", 
+                "PROpers"
             ], 
             [
                 "N", 
@@ -4837,7 +4891,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "gft ke ne bgđar mn brwm be dxtrmn sr bznm .", 
+        "after_conv_sentence": "gft ke ne bgđar mn brwm be dxtr mn sr bznm .", 
         "stem": [
             [
                 "gftn_____1", 
@@ -4870,7 +4924,13 @@
                 "be_____1"
             ], 
             [
-                null
+                "dxtr_____1", 
+                "dxtr_____1", 
+                "dxtr_____2"
+            ], 
+            [
+                "mn_____1", 
+                "mn_____1"
             ], 
             [
                 "sr_____1", 
@@ -4933,7 +4993,13 @@
                 "inv"
             ], 
             [
-                null
+                "", 
+                "Sing", 
+                "Sing"
+            ], 
+            [
+                "inv", 
+                "inv"
             ], 
             [
                 "Sing", 
@@ -4955,7 +5021,8 @@
             "mn", 
             "brwm", 
             "be", 
-            "dxtrmn", 
+            "dxtr", 
+            "mn", 
             "sr", 
             "bznm", 
             "."
@@ -4964,7 +5031,12 @@
     {
         "category": [
             [
-                null
+                "ADJ:c", 
+                "inv", 
+                "N5:c"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "inv"
@@ -4988,6 +5060,10 @@
             ], 
             [
                 null
+            ], 
+            [
+                "inv", 
+                "inv"
             ], 
             [
                 "v22", 
@@ -5018,7 +5094,12 @@
         ], 
         "pos_perlex": [
             [
-                null
+                "ADJ", 
+                "ADV", 
+                "N"
+            ], 
+            [
+                "CONJsubord"
             ], 
             [
                 "P"
@@ -5042,6 +5123,10 @@
             ], 
             [
                 null
+            ], 
+            [
+                "AR", 
+                "PROpers"
             ], 
             [
                 "V", 
@@ -5070,10 +5155,15 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "wŕtke br my grdm , čaŕ w člemn šde estm , tw mnw bxwr .", 
+        "after_conv_sentence": "wŕt ke br my grdm , čaŕ w čle mn šde estm , tw mnw bxwr .", 
         "stem": [
             [
-                null
+                "wŕt_____1", 
+                "wŕt___MTE__1", 
+                "wŕt_____1"
+            ], 
+            [
+                "ke_____1"
             ], 
             [
                 "br_____1"
@@ -5097,6 +5187,10 @@
             ], 
             [
                 null
+            ], 
+            [
+                "mn_____1", 
+                "mn_____1"
             ], 
             [
                 "šdn_____1", 
@@ -5149,7 +5243,12 @@
         "persian_sentence": " وقتیکه بر می گردم، چاق و چله ام شده ام، تو منو بخور.", 
         "morph_tag": [
             [
-                null
+                "", 
+                "inv", 
+                "Sing"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "inv"
@@ -5173,6 +5272,10 @@
             ], 
             [
                 null
+            ], 
+            [
+                "inv", 
+                "inv"
             ], 
             [
                 "3sgPreparfFam", 
@@ -5202,14 +5305,16 @@
             ]
         ], 
         "after_conv_tokens": [
-            "wŕtke", 
+            "wŕt", 
+            "ke", 
             "br", 
             "my", 
             "grdm", 
             ",", 
             "čaŕ", 
             "w", 
-            "člemn", 
+            "čle", 
+            "mn", 
             "šde", 
             "estm", 
             ",", 
@@ -5378,7 +5483,10 @@
                 "inv"
             ], 
             [
-                null
+                "N5:c"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "inv", 
@@ -5442,7 +5550,10 @@
                 "P"
             ], 
             [
-                null
+                "N"
+            ], 
+            [
+                "P"
             ], 
             [
                 "ADV", 
@@ -5485,7 +5596,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "āmd w āmd w baz msaftra ţy krd , ta rsyd be āŕa šyr .", 
+        "after_conv_sentence": "āmd w āmd w baz msaft ra ţy krd , ta rsyd be āŕa šyr .", 
         "stem": [
             [
                 "āmdn_____1", 
@@ -5507,7 +5618,10 @@
                 "baz___MTE__1"
             ], 
             [
-                null
+                "msaft_____1"
+            ], 
+            [
+                "ra_____1"
             ], 
             [
                 "ţy___MTE__1", 
@@ -5593,7 +5707,10 @@
                 "inv"
             ], 
             [
-                null
+                "Sing"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "inv", 
@@ -5642,7 +5759,8 @@
             "āmd", 
             "w", 
             "baz", 
-            "msaftra", 
+            "msaft", 
+            "ra", 
             "ţy", 
             "krd", 
             ",", 
@@ -6080,7 +6198,12 @@
                 "N5:v"
             ], 
             [
-                null
+                "ADJ:v", 
+                "N5:v"
+            ], 
+            [
+                "N15:c", 
+                "v25"
             ], 
             [
                 "inv"
@@ -6094,13 +6217,18 @@
                 "N"
             ], 
             [
-                null
+                "ADJ", 
+                "N"
+            ], 
+            [
+                "N", 
+                "V"
             ], 
             [
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "xyly grsneast .", 
+        "after_conv_sentence": "xyly grsne ast .", 
         "stem": [
             [
                 "xyly___MTE__1", 
@@ -6109,7 +6237,12 @@
                 "xyly_____1"
             ], 
             [
-                null
+                "grsne_____1", 
+                "grsne_____1"
+            ], 
+            [
+                "ast_____1", 
+                "bwdn_____1"
             ], 
             [
                 "._____1"
@@ -6132,7 +6265,12 @@
                 "Sing"
             ], 
             [
-                null
+                "", 
+                "Sing"
+            ], 
+            [
+                "Sing", 
+                "2*3sgPreInd"
             ], 
             [
                 "inv"
@@ -6140,7 +6278,8 @@
         ], 
         "after_conv_tokens": [
             "xyly", 
-            "grsneast", 
+            "grsne", 
+            "ast", 
             "."
         ]
     }, 
@@ -6156,7 +6295,11 @@
                 null
             ], 
             [
-                null
+                "inv", 
+                "inv"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "N5:c", 
@@ -6177,7 +6320,11 @@
                 null
             ], 
             [
-                null
+                "P", 
+                "PROpers"
+            ], 
+            [
+                "P"
             ], 
             [
                 "N", 
@@ -6187,7 +6334,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "byā ke myxwam twra bxwrm .", 
+        "after_conv_sentence": "byā ke myxwam tw ra bxwrm .", 
         "stem": [
             [
                 null
@@ -6199,7 +6346,11 @@
                 null
             ], 
             [
-                null
+                "tw_____1", 
+                "tw_____1"
+            ], 
+            [
+                "ra_____1"
             ], 
             [
                 "bxwr_____1", 
@@ -6233,7 +6384,11 @@
                 null
             ], 
             [
-                null
+                "inv", 
+                "inv"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "SingPers1s", 
@@ -6247,7 +6402,8 @@
             "byā", 
             "ke", 
             "myxwam", 
-            "twra", 
+            "tw", 
+            "ra", 
             "bxwrm", 
             "."
         ]
@@ -6374,7 +6530,12 @@
                 "inv"
             ], 
             [
-                null
+                "ADJ:c", 
+                "inv", 
+                "N5:c"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "N15:c", 
@@ -6507,7 +6668,12 @@
                 "DELM"
             ], 
             [
-                null
+                "ADJ", 
+                "ADV", 
+                "N"
+            ], 
+            [
+                "CONJsubord"
             ], 
             [
                 "N", 
@@ -6608,7 +6774,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "bgđar mn brwm be dxtrm sr bznm , wŕtke sr zdm w dydar taze krdm w qđaeay xwb xwb awnja xwrdm w čaŕ w čle šdm , tw mnw bxwr .", 
+        "after_conv_sentence": "bgđar mn brwm be dxtrm sr bznm , wŕt ke sr zdm w dydar taze krdm w qđaeay xwb xwb awnja xwrdm w čaŕ w čle šdm , tw mnw bxwr .", 
         "stem": [
             [
                 "gđaštn_____2"
@@ -6641,7 +6807,12 @@
                 ",_____1"
             ], 
             [
-                null
+                "wŕt_____1", 
+                "wŕt___MTE__1", 
+                "wŕt_____1"
+            ], 
+            [
+                "ke_____1"
             ], 
             [
                 "sr_____1", 
@@ -6811,7 +6982,12 @@
                 "inv"
             ], 
             [
-                null
+                "", 
+                "inv", 
+                "Sing"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "Sing", 
@@ -6921,7 +7097,8 @@
             "sr", 
             "bznm", 
             ",", 
-            "wŕtke", 
+            "wŕt", 
+            "ke", 
             "sr", 
             "zdm", 
             "w", 
@@ -7031,7 +7208,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "āmd w āmd w āmd w rsyd be xwnۀ dxtrš .", 
+        "after_conv_sentence": "āmd w āmd w āmd w rsyd be xwnX dxtrš .", 
         "stem": [
             [
                 "āmdn_____1", 
@@ -7083,13 +7260,13 @@
             "w", 
             "rsyd", 
             "be", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ], 
         "sentence_id": 1028, 
         "jpn_sentence": "どんどん歩いて、娘の家に着いた。", 
-        "roman_sentence": "awmd w awmd w awmd w rsyd be xwnۀ dxtrš .", 
+        "roman_sentence": "awmd w awmd w awmd w rsyd be xwnX dxtrš .", 
         "persian_sentence": " اومد و اومد و اومد و رسید به خونۀ دخترش.", 
         "morph_tag": [
             [
@@ -7142,7 +7319,7 @@
             "w", 
             "rsyd", 
             "be", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ]
@@ -7183,7 +7360,11 @@
                 "inv"
             ], 
             [
-                null
+                "N5:v"
+            ], 
+            [
+                "N15:c", 
+                "inv"
             ], 
             [
                 "v24:v", 
@@ -7338,7 +7519,11 @@
                 "ADVcoord"
             ], 
             [
-                null
+                "N"
+            ], 
+            [
+                "N", 
+                "PROpers"
             ], 
             [
                 "V", 
@@ -7458,7 +7643,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "pšt dr baq ke rsyd dr zd w nwe_eayaw āmdn w dre ra baz krdn w prydn tw bqlš w đwŕ krdn w xwšbaš krdn w rftn ba em dygr xwnۀ dxtrš .", 
+        "after_conv_sentence": "pšt dr baq ke rsyd dr zd w nwe_eay aw āmdn w dre ra baz krdn w prydn tw bqlš w đwŕ krdn w xwšbaš krdn w rftn ba em dygr xwnX dxtrš .", 
         "stem": [
             [
                 "pšt___MTE__1", 
@@ -7494,7 +7679,11 @@
                 "w_____1"
             ], 
             [
-                null
+                "nwe_____1"
+            ], 
+            [
+                "aw_____1", 
+                "aw_____1"
             ], 
             [
                 "āmdn_____1", 
@@ -7647,13 +7836,13 @@
             "ba", 
             "em", 
             "dyge", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ], 
         "sentence_id": 1029, 
         "jpn_sentence": "庭の扉までやってきて、扉を叩きました。すると、孫たちがやって来て、扉を開けると、そばに飛んできて、喜んで一緒に娘の家に入っていった。", 
-        "roman_sentence": "pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnۀ dxtrš .", 
+        "roman_sentence": "pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnX dxtrš .", 
         "persian_sentence": " پشت در باغ که رسید در زد و نوه هاش اومدن و دره رو باز کردن و پریدن تو بغلش و ذوق کردن و خوش بش کردن و رفتن با هم دیگه خونۀ دخترش.", 
         "morph_tag": [
             [
@@ -7690,7 +7879,11 @@
                 "inv"
             ], 
             [
-                null
+                "PlurEzafe"
+            ], 
+            [
+                "Sing", 
+                "inv"
             ], 
             [
                 "*10*inf", 
@@ -7819,7 +8012,8 @@
             "dr", 
             "zd", 
             "w", 
-            "nwe_eayaw", 
+            "nwe_eay", 
+            "aw", 
             "āmdn", 
             "w", 
             "dre", 
@@ -7841,7 +8035,7 @@
             "ba", 
             "em", 
             "dygr", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ]
@@ -8003,7 +8197,11 @@
                 null
             ], 
             [
-                null
+                "N5:v"
+            ], 
+            [
+                "N15:c", 
+                "inv"
             ], 
             [
                 "N5:c"
@@ -8229,7 +8427,11 @@
                 null
             ], 
             [
-                null
+                "N"
+            ], 
+            [
+                "N", 
+                "PROpers"
             ], 
             [
                 "N"
@@ -8299,7 +8501,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "b'd , bwd čnd wŕty ra čnd razy ra xwnۀ dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnd ke čyde bwdn nx drst krd w nx rystn w az nxea blwzeay zmstan drst krd wasۀ nwe_eayaw kmk ānea tw kar eay xane xyly kmk ānea krd , ta razy rsyd ke bayd brgrde .", 
+        "after_conv_sentence": "b'd , bwd čnd wŕty ra čnd razy ra xwnX dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnd ke čyde bwdn nx drst krd w nx rystn w az nxea blwzeay zmstan drst krd wasX nwe_eay aw kmk ānea tw kar eay xane xyly kmk ānea krd , ta razy rsyd ke bayd brgrde .", 
         "stem": [
             [
                 "b'd_____1", 
@@ -8456,7 +8658,11 @@
                 null
             ], 
             [
-                null
+                "nwe_____1"
+            ], 
+            [
+                "aw_____1", 
+                "aw_____1"
             ], 
             [
                 "kmk_____1"
@@ -8536,7 +8742,7 @@
             "čnd", 
             "rwzy", 
             "rw", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "meman", 
             "bwd", 
@@ -8566,7 +8772,7 @@
             "zmstwne", 
             "drst", 
             "krd", 
-            "wasۀ", 
+            "wasX", 
             "nwe", 
             "eašw", 
             "kmk", 
@@ -8590,7 +8796,7 @@
         ], 
         "sentence_id": 1030, 
         "jpn_sentence": "そして、しばらく何日かの間、娘の家に泊まり、羊から刈った毛から糸を紡いで、冬用の服を作るのを手伝った。孫たちのために、家事もたくさん手伝った。やがて、帰る日になった。", 
-        "roman_sentence": "b'd , bwd čnd wŕty rw čnd rwzy rw xwnۀ dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasۀ nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde .", 
+        "roman_sentence": "b'd , bwd čnd wŕty rw čnd rwzy rw xwnX dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasX nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde .", 
         "persian_sentence": " بعد، بود چند وقتی رو چند روزی رو خونۀ دخترش مهمان بود و به او نا کمک میکرد از پشم گوسفندائی که چیده بودن نخ درست کرد و نخ ریسید و از نخ ها بلوزای زمستونه درست کرد واسۀ نوه هاشو کمک شون تو کار های خونه خیلی کمک شون کرد، تا روزی رسید که باید برگرده.", 
         "morph_tag": [
             [
@@ -8748,7 +8954,11 @@
                 null
             ], 
             [
-                null
+                "PlurEzafe"
+            ], 
+            [
+                "Sing", 
+                "inv"
             ], 
             [
                 "Sing"
@@ -8828,7 +9038,7 @@
             "čnd", 
             "razy", 
             "ra", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "meman", 
             "bwd", 
@@ -8857,8 +9067,9 @@
             "zmstan", 
             "drst", 
             "krd", 
-            "wasۀ", 
-            "nwe_eayaw", 
+            "wasX", 
+            "nwe_eay", 
+            "aw", 
             "kmk", 
             "ānea", 
             "tw", 
@@ -8899,7 +9110,11 @@
                 "v9"
             ], 
             [
-                null
+                "N1:c"
+            ], 
+            [
+                "N15:c", 
+                "inv"
             ], 
             [
                 "inv", 
@@ -9000,7 +9215,11 @@
                 "V"
             ], 
             [
-                null
+                "N"
+            ], 
+            [
+                "N", 
+                "PROpers"
             ], 
             [
                 "P", 
@@ -9082,7 +9301,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "gft mn myxwam brgštm ħŕyŕtaw tw rae ayn grg wšyr w šqal sr rae mn w grftnd be mn gftnd ke ma myxwaym tw ra bxwrym .", 
+        "after_conv_sentence": "gft mn myxwam brgštm ħŕyŕt aw tw rae ayn grg wšyr w šqal sr rae mn w grftnd be mn gftnd ke ma myxwaym tw ra bxwrym .", 
         "stem": [
             [
                 "gftn_____1", 
@@ -9102,7 +9321,11 @@
                 "brgštn_____1"
             ], 
             [
-                null
+                "ħŕyŕt_____1"
+            ], 
+            [
+                "aw_____1", 
+                "aw_____1"
             ], 
             [
                 "tw_____1", 
@@ -9236,7 +9459,11 @@
                 "1sgPreterit"
             ], 
             [
-                null
+                "Sing"
+            ], 
+            [
+                "Sing", 
+                "inv"
             ], 
             [
                 "inv", 
@@ -9323,7 +9550,8 @@
             "mn", 
             "myxwam", 
             "brgštm", 
-            "ħŕyŕtaw", 
+            "ħŕyŕt", 
+            "aw", 
             "tw", 
             "rae", 
             "ayn", 
@@ -9364,6 +9592,10 @@
             [
                 "ADJ:c", 
                 "N5:c"
+            ], 
+            [
+                "inv", 
+                "inv"
             ], 
             [
                 "inv"
@@ -9448,7 +9680,11 @@
                 "N"
             ], 
             [
+                "DETdem", 
                 "PROdem"
+            ], 
+            [
+                "INT"
             ], 
             [
                 "P"
@@ -9513,7 +9749,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "mn em yk jwry aynea ra be yk pltyky rd krdm , ama alan mandm ke če kar knm .", 
+        "after_conv_sentence": "mn em yk jwry ayn ea ra be yk pltyky rd krdm , ama alan mandm ke če kar knm .", 
         "stem": [
             [
                 "mn_____1", 
@@ -9531,7 +9767,11 @@
                 "jwr_____1"
             ], 
             [
-                "aynea___MTE__1"
+                "ayn_____1", 
+                "ayn_____1"
+            ], 
+            [
+                "ea_____1"
             ], 
             [
                 "ra_____1"
@@ -9639,6 +9879,10 @@
                 "SingIndef"
             ], 
             [
+                "inv", 
+                "inv"
+            ], 
+            [
                 "inv"
             ], 
             [
@@ -9709,7 +9953,8 @@
             "em", 
             "yk", 
             "jwry", 
-            "aynea", 
+            "ayn", 
+            "ea", 
             "ra", 
             "be", 
             "yk", 
@@ -11713,7 +11958,10 @@
                 "N1:c"
             ], 
             [
-                null
+                "v7"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "v24:v", 
@@ -11795,7 +12043,10 @@
                 "N"
             ], 
             [
-                null
+                "V"
+            ], 
+            [
+                "ADVcoord"
             ], 
             [
                 "V", 
@@ -11844,7 +12095,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "ayn emyn ţwr ql ql ql ql ql ql my_zndw āmd w āmd w āmd āmd ta rsyd be āŕa grg .", 
+        "after_conv_sentence": "ayn emyn ţwr ql ql ql ql ql ql my_znd w āmd w āmd w āmd āmd ta rsyd be āŕa grg .", 
         "stem": [
             [
                 "ayn_____1", 
@@ -11878,7 +12129,10 @@
                 "ql_____1"
             ], 
             [
-                null
+                "zdn_____2"
+            ], 
+            [
+                "w_____1"
             ], 
             [
                 "āmdn_____1", 
@@ -11988,7 +12242,10 @@
                 "Sing"
             ], 
             [
-                null
+                "2*3sgPreInd"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "2*3sgPreterit", 
@@ -12047,7 +12304,8 @@
             "ql", 
             "ql", 
             "ql", 
-            "my_zndw", 
+            "my_znd", 
+            "w", 
             "āmd", 
             "w", 
             "āmd", 
@@ -12738,12 +12996,13 @@
                 "inv"
             ], 
             [
+                "ADJ:v", 
                 "inv", 
-                "inv", 
+                "N5:c", 
                 "inv"
             ], 
             [
-                "N1:c"
+                "N5:c"
             ], 
             [
                 "N1:c"
@@ -12752,7 +13011,13 @@
                 "N1:c"
             ], 
             [
-                null
+                "N1:c"
+            ], 
+            [
+                "v7"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "v24:v", 
@@ -12815,9 +13080,10 @@
                 "P"
             ], 
             [
-                "ADV", 
+                "ADJ", 
                 "DETdem", 
-                "PN"
+                "N", 
+                "PROdem"
             ], 
             [
                 "N"
@@ -12829,7 +13095,13 @@
                 "N"
             ], 
             [
-                null
+                "N"
+            ], 
+            [
+                "V"
+            ], 
+            [
+                "ADVcoord"
             ], 
             [
                 "V", 
@@ -12881,7 +13153,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "ayn baz emanţwr ql ql ql my_zndw āmd w āmd w āmd w āmd ta rsyd be āŕa šqal .", 
+        "after_conv_sentence": "ayn baz eman ţwr ql ql ql my_znd w āmd w āmd w āmd w āmd ta rsyd be āŕa šqal .", 
         "stem": [
             [
                 "ayn_____1", 
@@ -12893,9 +13165,13 @@
                 "baz___MTE__1"
             ], 
             [
-                "emanţwr_____1", 
-                "emanţwr_____1", 
-                "emanţwr_____1"
+                "e_____1", 
+                "eman_____1", 
+                "eman_____1", 
+                "eman_____1"
+            ], 
+            [
+                "ţwr_____1"
             ], 
             [
                 "ql_____1"
@@ -12907,7 +13183,10 @@
                 "ql_____1"
             ], 
             [
-                null
+                "zdn_____2"
+            ], 
+            [
+                "w_____1"
             ], 
             [
                 "āmdn_____1", 
@@ -12996,8 +13275,9 @@
                 "inv"
             ], 
             [
+                "Pers1p", 
                 "inv", 
-                "inv", 
+                "Sing", 
                 "inv"
             ], 
             [
@@ -13010,7 +13290,13 @@
                 "Sing"
             ], 
             [
-                null
+                "Sing"
+            ], 
+            [
+                "2*3sgPreInd"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "2*3sgPreterit", 
@@ -13065,11 +13351,13 @@
         "after_conv_tokens": [
             "ayn", 
             "baz", 
-            "emanţwr", 
+            "eman", 
+            "ţwr", 
             "ql", 
             "ql", 
             "ql", 
-            "my_zndw", 
+            "my_znd", 
+            "w", 
             "āmd", 
             "w", 
             "āmd", 
@@ -13711,7 +13999,13 @@
                 "N5:v"
             ], 
             [
-                null
+                "N15:c", 
+                "N5:c", 
+                "inv"
+            ], 
+            [
+                "N15:c", 
+                "inv"
             ], 
             [
                 null
@@ -13802,7 +14096,13 @@
                 "N"
             ], 
             [
-                null
+                "N", 
+                "N", 
+                "P"
+            ], 
+            [
+                "N", 
+                "PROpers"
             ], 
             [
                 null
@@ -13814,7 +14114,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "ayn fkr krd ke bayd , yk čyzy baše , tw ayn kdw , kdw ra blnd krd w bala sraw kwbyd zmyn .", 
+        "after_conv_sentence": "ayn fkr krd ke bayd , yk čyzy baše , tw ayn kdw , kdw ra blnd krd w bala sr aw kwbyd zmyn .", 
         "stem": [
             [
                 "ayn_____1", 
@@ -13894,7 +14194,13 @@
                 "bala_____1"
             ], 
             [
-                null
+                "sr_____1", 
+                "sr_____2", 
+                "sr_____1"
+            ], 
+            [
+                "aw_____1", 
+                "aw_____1"
             ], 
             [
                 null
@@ -14015,7 +14321,13 @@
                 "Sing"
             ], 
             [
-                null
+                "Sing", 
+                "Sing", 
+                "inv"
+            ], 
+            [
+                "Sing", 
+                "inv"
             ], 
             [
                 null
@@ -14048,7 +14360,8 @@
             "krd", 
             "w", 
             "bala", 
-            "sraw", 
+            "sr", 
+            "aw", 
             "kwbyd", 
             "zmyn", 
             "."
@@ -14224,7 +14537,12 @@
                 "inv"
             ], 
             [
-                null
+                "N1:c", 
+                "inv"
+            ], 
+            [
+                "N15:c", 
+                "inv"
             ], 
             [
                 "v24:v", 
@@ -14260,7 +14578,12 @@
                 "P"
             ], 
             [
-                null
+                "N", 
+                "P"
+            ], 
+            [
+                "N", 
+                "PROpers"
             ], 
             [
                 "V", 
@@ -14276,7 +14599,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "xale pyr zn az myanaw āmdn byrwn .", 
+        "after_conv_sentence": "xale pyr zn az myan aw āmdn byrwn .", 
         "stem": [
             [
                 "xale_____1"
@@ -14297,7 +14620,12 @@
                 "az_____1"
             ], 
             [
-                null
+                "myan_____1", 
+                "myan_____1"
+            ], 
+            [
+                "aw_____1", 
+                "aw_____1"
             ], 
             [
                 "āmdn_____1", 
@@ -14347,7 +14675,12 @@
                 "inv"
             ], 
             [
-                null
+                "Sing", 
+                "inv"
+            ], 
+            [
+                "Sing", 
+                "inv"
             ], 
             [
                 "*10*inf", 
@@ -14368,7 +14701,8 @@
             "pyr", 
             "zn", 
             "az", 
-            "myanaw", 
+            "myan", 
+            "aw", 
             "āmdn", 
             "byrwn", 
             "."
@@ -15005,7 +15339,10 @@
                 null
             ], 
             [
-                null
+                "inv"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "ADJ:c", 
@@ -15031,7 +15368,11 @@
                 "N1:c"
             ], 
             [
-                null
+                "inv", 
+                "inv"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "ADJ:c", 
@@ -15040,7 +15381,10 @@
                 "N5:c"
             ], 
             [
-                null
+                "inv"
+            ], 
+            [
+                "N5:v"
             ], 
             [
                 "ADJ:c", 
@@ -15296,7 +15640,10 @@
                 null
             ], 
             [
-                null
+                "PROpers"
+            ], 
+            [
+                "P"
             ], 
             [
                 "ADJ", 
@@ -15322,7 +15669,11 @@
                 "N"
             ], 
             [
-                null
+                "DETdem", 
+                "PROdem"
+            ], 
+            [
+                "P"
             ], 
             [
                 "ADJ", 
@@ -15331,7 +15682,10 @@
                 "N"
             ], 
             [
-                null
+                "DETquant"
+            ], 
+            [
+                "N"
             ], 
             [
                 "ADJ", 
@@ -15388,7 +15742,7 @@
                 "DELM"
             ]
         ], 
-        "after_conv_sentence": "b'd albte jwr dygry em ast ke dad w fryad my_knd w az dad w fryad ayn kšawrzany ke  awn dwr br bwdnd nzdyk bwdn ba byl w das w awn čyz_eay ke , wsayl kšawrzy ke , daštnd be dad w fryad ayn myrsnd āneara tar my_knnd az dwr wr aynra b'd ykxale pyr zn w rwy alaq ya ŕaţry my_nšwnnd w my_brd be xwne aš .", 
+        "after_conv_sentence": "b'd albte jwr dygry em ast ke dad w fryad my_knd w az dad w fryad ayn kšawrzany ke  awn dwr br bwdnd nzdyk bwdn ba byl w das w awn čyz_eay ke , wsayl kšawrzy ke , daštnd be dad w fryad ayn myrsnd ānea ra tar my_knnd az dwr wr ayn ra b'd yk xale pyr zn w rwy alaq ya ŕaţry my_nšwnnd w my_brd be xwne aš .", 
         "stem": [
             [
                 "b'd_____1", 
@@ -15588,7 +15942,10 @@
                 null
             ], 
             [
-                null
+                "ānea___MTE__1"
+            ], 
+            [
+                "ra_____1"
             ], 
             [
                 "tar_____1", 
@@ -15614,7 +15971,11 @@
                 "wr_____1"
             ], 
             [
-                null
+                "ayn_____1", 
+                "ayn_____1"
+            ], 
+            [
+                "ra_____1"
             ], 
             [
                 "b'd_____1", 
@@ -15623,7 +15984,10 @@
                 "b'd_____1"
             ], 
             [
-                null
+                "yk_____1"
+            ], 
+            [
+                "xale_____1"
             ], 
             [
                 "pyr_____1", 
@@ -15954,7 +16318,10 @@
                 null
             ], 
             [
-                null
+                "inv"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "", 
@@ -15980,7 +16347,11 @@
                 "Sing"
             ], 
             [
-                null
+                "inv", 
+                "inv"
+            ], 
+            [
+                "inv"
             ], 
             [
                 "", 
@@ -15989,7 +16360,10 @@
                 "Sing"
             ], 
             [
-                null
+                "inv"
+            ], 
+            [
+                "Sing"
             ], 
             [
                 "", 
@@ -16092,15 +16466,18 @@
             "fryad", 
             "ayn", 
             "myrsnd", 
-            "āneara", 
+            "ānea", 
+            "ra", 
             "tar", 
             "my_knnd", 
             "az", 
             "dwr", 
             "wr", 
-            "aynra", 
+            "ayn", 
+            "ra", 
             "b'd", 
-            "ykxale", 
+            "yk", 
+            "xale", 
             "pyr", 
             "zn", 
             "w", 

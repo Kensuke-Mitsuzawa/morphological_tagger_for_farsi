@@ -43,11 +43,15 @@ for sentence in corpus:
         replaced_sentence=sentence['roman_sentence'];
         for patch_data in patch_data_list:
             patch_after_word=u'';
+            patch_word_stack=[];
             patch_orig_word=patch_data[1];
             for i in range(0, len(patch_data)-2):
-                patch_after_word+=(patch_data[i+2][0]+u' ');
-                patch_after_word=patch_after_word.strip();
+                if patch_data[i+2][0]!=u'':
+                    patch_word_stack.append((patch_data[i+2][0]).strip());
+                else:
+                    pass;
 
+            patch_after_word=u' '.join(patch_word_stack);
             replaced_sentence=re.sub(patch_orig_word, patch_after_word, replaced_sentence);
 
         sentence.setdefault(u'after_conv_sentence', replaced_sentence);

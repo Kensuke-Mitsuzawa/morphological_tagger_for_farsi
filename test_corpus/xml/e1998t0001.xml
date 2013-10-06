@@ -901,10 +901,10 @@
 				 این خاله پیر زن سالهای سال این سنجدها رو جمع کرد و یه کیسه ای درست کرد و ریخت تو ش و، گذاشت روی سرش، و با یک مقداری نون که  به روزۀ قبل پخته بود، راه افتاد و رفت و رفت و رفت و رفت، که بره خونه دخترش.
 			</per_sentence>
 			<roman_sentence>
-				ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzۀ ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš .
+				ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzX ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				ayn xale pyr zn sal_eay sal ayn snjdea ra jm' krd w yk kyse_ay drst krd w ryxt twyān w , gđašt ray srš , w ba yk mŕdary nan ke  be razۀ ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke brwd xane dxtrš .
+				ayn xale pyr zn sal_eay sal ayn snjdea ra jm' krd w yk kyse_ay drst krd w ryxt twy ān w , gđašt ray srš , w ba yk mŕdary nan ke  be razX ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke brwd xane dxtrš .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -1215,47 +1215,47 @@
 				</position_17>
 				<position_18>
 					<token_18>
-						twyān
+						twy
 					</token_18>
 					<pos_18>
-						null
+						P P
 					</pos_18>
 					<stem_18>
-						null
+						twy_____1 twy_____2
 					</stem_18>
 					<morph_18>
-						null
+						inv inv
 					</morph_18>
 					<category_18>
-						null
+						inv inv
 					</category_18>
 				</position_18>
 				<position_19>
 					<token_19>
-						w
+						ān
 					</token_19>
 					<pos_19>
-						ADVcoord
+						DETdem PROdem
 					</pos_19>
 					<stem_19>
-						w_____1
+						ān_____1 ān_____1
 					</stem_19>
 					<morph_19>
-						inv
+						inv inv
 					</morph_19>
 					<category_19>
-						inv
+						inv inv
 					</category_19>
 				</position_19>
 				<position_20>
 					<token_20>
-						,
+						w
 					</token_20>
 					<pos_20>
-						DELM
+						ADVcoord
 					</pos_20>
 					<stem_20>
-						,_____1
+						w_____1
 					</stem_20>
 					<morph_20>
 						inv
@@ -1266,81 +1266,81 @@
 				</position_20>
 				<position_21>
 					<token_21>
-						gđašt
+						,
 					</token_21>
 					<pos_21>
-						V V V V
+						DELM
 					</pos_21>
 					<stem_21>
-						gđaštn_____1 gđaštn_____1 gđaštn_____2 gđaštn_____2
+						,_____1
 					</stem_21>
 					<morph_21>
-						2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						inv
 					</morph_21>
 					<category_21>
-						v22 v22 v9 v9
+						inv
 					</category_21>
 				</position_21>
 				<position_22>
 					<token_22>
-						ray
+						gđašt
 					</token_22>
 					<pos_22>
-						N
+						V V V V
 					</pos_22>
 					<stem_22>
-						ray_____1
+						gđaštn_____1 gđaštn_____1 gđaštn_____2 gđaštn_____2
 					</stem_22>
 					<morph_22>
-						Sing
+						2*3sgPreterit infApocope 2*3sgPreterit infApocope
 					</morph_22>
 					<category_22>
-						N1:v
+						v22 v22 v9 v9
 					</category_22>
 				</position_22>
 				<position_23>
 					<token_23>
-						srš
+						ray
 					</token_23>
 					<pos_23>
-						N N
+						N
 					</pos_23>
 					<stem_23>
-						sr_____1 sr_____2
+						ray_____1
 					</stem_23>
 					<morph_23>
-						SingPers3s SingPers3s
+						Sing
 					</morph_23>
 					<category_23>
-						N15:c N5:c
+						N1:v
 					</category_23>
 				</position_23>
 				<position_24>
 					<token_24>
-						,
+						srš
 					</token_24>
 					<pos_24>
-						DELM
+						N N
 					</pos_24>
 					<stem_24>
-						,_____1
+						sr_____1 sr_____2
 					</stem_24>
 					<morph_24>
-						inv
+						SingPers3s SingPers3s
 					</morph_24>
 					<category_24>
-						inv
+						N15:c N5:c
 					</category_24>
 				</position_24>
 				<position_25>
 					<token_25>
-						w
+						,
 					</token_25>
 					<pos_25>
-						ADVcoord
+						DELM
 					</pos_25>
 					<stem_25>
-						w_____1
+						,_____1
 					</stem_25>
 					<morph_25>
 						inv
@@ -1351,387 +1351,387 @@
 				</position_25>
 				<position_26>
 					<token_26>
-						ba
+						w
 					</token_26>
 					<pos_26>
-						ADV P
+						ADVcoord
 					</pos_26>
 					<stem_26>
-						ba˝_____1 ba_____1
+						w_____1
 					</stem_26>
 					<morph_26>
-						 inv
+						inv
 					</morph_26>
 					<category_26>
-						ADV2 inv
+						inv
 					</category_26>
 				</position_26>
 				<position_27>
 					<token_27>
-						yk
+						ba
 					</token_27>
 					<pos_27>
-						DETquant
+						ADV P
 					</pos_27>
 					<stem_27>
-						yk_____1
+						ba˝_____1 ba_____1
 					</stem_27>
 					<morph_27>
-						inv
+						 inv
 					</morph_27>
 					<category_27>
-						inv
+						ADV2 inv
 					</category_27>
 				</position_27>
 				<position_28>
 					<token_28>
-						mŕdary
+						yk
 					</token_28>
 					<pos_28>
-						DETquant N
+						DETquant
 					</pos_28>
 					<stem_28>
-						mŕdary_____1 mŕdar_____1
+						yk_____1
 					</stem_28>
 					<morph_28>
-						inv SingIndef
+						inv
 					</morph_28>
 					<category_28>
-						inv N5:c
+						inv
 					</category_28>
 				</position_28>
 				<position_29>
 					<token_29>
-						nan
+						mŕdary
 					</token_29>
 					<pos_29>
-						N
+						DETquant N
 					</pos_29>
 					<stem_29>
-						nan_____1
+						mŕdary_____1 mŕdar_____1
 					</stem_29>
 					<morph_29>
-						Sing
+						inv SingIndef
 					</morph_29>
 					<category_29>
-						N5:c
+						inv N5:c
 					</category_29>
 				</position_29>
 				<position_30>
 					<token_30>
-						ke
+						nan
 					</token_30>
 					<pos_30>
-						CONJsubord
+						N
 					</pos_30>
 					<stem_30>
-						ke_____1
+						nan_____1
 					</stem_30>
 					<morph_30>
-						inv
+						Sing
 					</morph_30>
 					<category_30>
-						inv
+						N5:c
 					</category_30>
 				</position_30>
 				<position_31>
 					<token_31>
-						be
+						ke
 					</token_31>
 					<pos_31>
-						N P
+						CONJsubord
 					</pos_31>
 					<stem_31>
-						be_____1 be_____1
+						ke_____1
 					</stem_31>
 					<morph_31>
-						Sing inv
+						inv
 					</morph_31>
 					<category_31>
-						N5:v inv
+						inv
 					</category_31>
 				</position_31>
 				<position_32>
 					<token_32>
-						razۀ
+						be
 					</token_32>
 					<pos_32>
-						null
+						N P
 					</pos_32>
 					<stem_32>
-						null
+						be_____1 be_____1
 					</stem_32>
 					<morph_32>
-						null
+						Sing inv
 					</morph_32>
 					<category_32>
-						null
+						N5:v inv
 					</category_32>
 				</position_32>
 				<position_33>
 					<token_33>
-						ŕbl
+						razX
 					</token_33>
 					<pos_33>
-						ADJ ADJ ADV P
+						null
 					</pos_33>
 					<stem_33>
-						ŕbl_____1 ŕbl_____2 ŕbl___MTE__1 ŕbl___MTE__1
+						null
 					</stem_33>
 					<morph_33>
-						ORD   inv
+						null
 					</morph_33>
 					<category_33>
-						ADJ_ORD:c ADJ:c ADV1 inv
+						null
 					</category_33>
 				</position_33>
 				<position_34>
 					<token_34>
-						pxte
+						ŕbl
 					</token_34>
 					<pos_34>
-						ADJ V V
+						ADJ ADJ ADV P
 					</pos_34>
 					<stem_34>
-						pxte_____1 pxtn_____1 pxtn_____1
+						ŕbl_____1 ŕbl_____2 ŕbl___MTE__1 ŕbl___MTE__1
 					</stem_34>
 					<morph_34>
-						 3sgPreparfFam partPas
+						ORD   inv
 					</morph_34>
 					<category_34>
-						ADJ:v v8 v8
+						ADJ_ORD:c ADJ:c ADV1 inv
 					</category_34>
 				</position_34>
 				<position_35>
 					<token_35>
-						bwd
+						pxte
 					</token_35>
 					<pos_35>
-						V V
+						ADJ V V
 					</pos_35>
 					<stem_35>
-						bwdn_____1 bwdn_____1
+						pxte_____1 pxtn_____1 pxtn_____1
 					</stem_35>
 					<morph_35>
-						2*3sgPreterit infApocope
+						 3sgPreparfFam partPas
 					</morph_35>
 					<category_35>
-						v25 v25
+						ADJ:v v8 v8
 					</category_35>
 				</position_35>
 				<position_36>
 					<token_36>
-						,
+						bwd
 					</token_36>
 					<pos_36>
-						DELM
+						V V
 					</pos_36>
 					<stem_36>
-						,_____1
+						bwdn_____1 bwdn_____1
 					</stem_36>
 					<morph_36>
-						inv
+						2*3sgPreterit infApocope
 					</morph_36>
 					<category_36>
-						inv
+						v25 v25
 					</category_36>
 				</position_36>
 				<position_37>
 					<token_37>
-						rae
+						,
 					</token_37>
 					<pos_37>
-						N
+						DELM
 					</pos_37>
 					<stem_37>
-						rae_____1
+						,_____1
 					</stem_37>
 					<morph_37>
-						Sing
+						inv
 					</morph_37>
 					<category_37>
-						N5:c
+						inv
 					</category_37>
 				</position_37>
 				<position_38>
 					<token_38>
-						aftad
+						rae
 					</token_38>
 					<pos_38>
-						V V
+						N
 					</pos_38>
 					<stem_38>
-						aftadn_____1 aftadn_____1
+						rae_____1
 					</stem_38>
 					<morph_38>
-						2*3sgPreterit infApocope
+						Sing
 					</morph_38>
 					<category_38>
-						v4 v4
+						N5:c
 					</category_38>
 				</position_38>
 				<position_39>
 					<token_39>
-						w
+						aftad
 					</token_39>
 					<pos_39>
-						ADVcoord
+						V V
 					</pos_39>
 					<stem_39>
-						w_____1
+						aftadn_____1 aftadn_____1
 					</stem_39>
 					<morph_39>
-						inv
+						2*3sgPreterit infApocope
 					</morph_39>
 					<category_39>
-						inv
+						v4 v4
 					</category_39>
 				</position_39>
 				<position_40>
 					<token_40>
-						rft
+						w
 					</token_40>
 					<pos_40>
-						N V V V V V V
+						ADVcoord
 					</pos_40>
 					<stem_40>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						w_____1
 					</stem_40>
 					<morph_40>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						inv
 					</morph_40>
 					<category_40>
-						N1:c v19 v19 v21 v21 v22 v22
+						inv
 					</category_40>
 				</position_40>
 				<position_41>
 					<token_41>
-						w
+						rft
 					</token_41>
 					<pos_41>
-						ADVcoord
+						N V V V V V V
 					</pos_41>
 					<stem_41>
-						w_____1
+						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
 					</stem_41>
 					<morph_41>
-						inv
+						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
 					</morph_41>
 					<category_41>
-						inv
+						N1:c v19 v19 v21 v21 v22 v22
 					</category_41>
 				</position_41>
 				<position_42>
 					<token_42>
-						rft
+						w
 					</token_42>
 					<pos_42>
-						N V V V V V V
+						ADVcoord
 					</pos_42>
 					<stem_42>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						w_____1
 					</stem_42>
 					<morph_42>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						inv
 					</morph_42>
 					<category_42>
-						N1:c v19 v19 v21 v21 v22 v22
+						inv
 					</category_42>
 				</position_42>
 				<position_43>
 					<token_43>
-						w
+						rft
 					</token_43>
 					<pos_43>
-						ADVcoord
+						N V V V V V V
 					</pos_43>
 					<stem_43>
-						w_____1
+						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
 					</stem_43>
 					<morph_43>
-						inv
+						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
 					</morph_43>
 					<category_43>
-						inv
+						N1:c v19 v19 v21 v21 v22 v22
 					</category_43>
 				</position_43>
 				<position_44>
 					<token_44>
-						rft
+						w
 					</token_44>
 					<pos_44>
-						N V V V V V V
+						ADVcoord
 					</pos_44>
 					<stem_44>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						w_____1
 					</stem_44>
 					<morph_44>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						inv
 					</morph_44>
 					<category_44>
-						N1:c v19 v19 v21 v21 v22 v22
+						inv
 					</category_44>
 				</position_44>
 				<position_45>
 					<token_45>
-						w
+						rft
 					</token_45>
 					<pos_45>
-						ADVcoord
+						N V V V V V V
 					</pos_45>
 					<stem_45>
-						w_____1
+						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
 					</stem_45>
 					<morph_45>
-						inv
+						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
 					</morph_45>
 					<category_45>
-						inv
+						N1:c v19 v19 v21 v21 v22 v22
 					</category_45>
 				</position_45>
 				<position_46>
 					<token_46>
-						rft
+						w
 					</token_46>
 					<pos_46>
-						N V V V V V V
+						ADVcoord
 					</pos_46>
 					<stem_46>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						w_____1
 					</stem_46>
 					<morph_46>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						inv
 					</morph_46>
 					<category_46>
-						N1:c v19 v19 v21 v21 v22 v22
+						inv
 					</category_46>
 				</position_46>
 				<position_47>
 					<token_47>
-						,
+						rft
 					</token_47>
 					<pos_47>
-						DELM
+						N V V V V V V
 					</pos_47>
 					<stem_47>
-						,_____1
+						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
 					</stem_47>
 					<morph_47>
-						inv
+						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
 					</morph_47>
 					<category_47>
-						inv
+						N1:c v19 v19 v21 v21 v22 v22
 					</category_47>
 				</position_47>
 				<position_48>
 					<token_48>
-						ke
+						,
 					</token_48>
 					<pos_48>
-						CONJsubord
+						DELM
 					</pos_48>
 					<stem_48>
-						ke_____1
+						,_____1
 					</stem_48>
 					<morph_48>
 						inv
@@ -1742,72 +1742,89 @@
 				</position_48>
 				<position_49>
 					<token_49>
-						brwd
+						ke
 					</token_49>
 					<pos_49>
-						V
+						CONJsubord
 					</pos_49>
 					<stem_49>
-						rftn_____3
+						ke_____1
 					</stem_49>
 					<morph_49>
-						2*3sgPreSubj
+						inv
 					</morph_49>
 					<category_49>
-						v22
+						inv
 					</category_49>
 				</position_49>
 				<position_50>
 					<token_50>
-						xane
+						brwd
 					</token_50>
 					<pos_50>
-						N
+						V
 					</pos_50>
 					<stem_50>
-						xane_____1
+						rftn_____3
 					</stem_50>
 					<morph_50>
-						Sing
+						2*3sgPreSubj
 					</morph_50>
 					<category_50>
-						N5:v
+						v22
 					</category_50>
 				</position_50>
 				<position_51>
 					<token_51>
-						dxtrš
+						xane
 					</token_51>
 					<pos_51>
-						ADJ N N
+						N
 					</pos_51>
 					<stem_51>
-						dxtr_____1 dxtr_____1 dxtr_____2
+						xane_____1
 					</stem_51>
 					<morph_51>
-						Pers3s SingPers3s SingPers3s
+						Sing
 					</morph_51>
 					<category_51>
-						ADJ:c N15:c N5:c
+						N5:v
 					</category_51>
 				</position_51>
 				<position_52>
 					<token_52>
-						.
+						dxtrš
 					</token_52>
 					<pos_52>
-						DELM
+						ADJ N N
 					</pos_52>
 					<stem_52>
-						._____1
+						dxtr_____1 dxtr_____1 dxtr_____2
 					</stem_52>
 					<morph_52>
-						inv
+						Pers3s SingPers3s SingPers3s
 					</morph_52>
 					<category_52>
-						inv
+						ADJ:c N15:c N5:c
 					</category_52>
 				</position_52>
+				<position_53>
+					<token_53>
+						.
+					</token_53>
+					<pos_53>
+						DELM
+					</pos_53>
+					<stem_53>
+						._____1
+					</stem_53>
+					<morph_53>
+						inv
+					</morph_53>
+					<category_53>
+						inv
+					</category_53>
+				</position_53>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1006">
@@ -2785,7 +2802,7 @@
 				mn brm be dxtrm sr bznm , ye dydary taze knm , qđaeay xwb xwb em bxwrm , čaŕ bšm , čle bšm , wŕtyke brmygrdm , tw mn rw bxwr .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				mn brwm be dxtrm sr bznm , yk dydary taze knm , qđa_eay xwb xwb em bxwrm , čaŕ bšm , čle bšm , wŕtke brwmy_gydm , tw mn ra bxwr .
+				mn brwm be dxtrm sr bznm , yk dydary taze knm , qđa_eay xwb xwb em bxwrm , čaŕ bšm , čle bšm , wŕt ke brwmy_gydm , tw mn ra bxwr .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -3198,81 +3215,81 @@
 				</position_23>
 				<position_24>
 					<token_24>
-						wŕtke
+						wŕt
 					</token_24>
 					<pos_24>
-						null
+						ADJ ADV N
 					</pos_24>
 					<stem_24>
-						null
+						wŕt_____1 wŕt___MTE__1 wŕt_____1
 					</stem_24>
 					<morph_24>
-						null
+						 inv Sing
 					</morph_24>
 					<category_24>
-						null
+						ADJ:c inv N5:c
 					</category_24>
 				</position_24>
 				<position_25>
 					<token_25>
-						brwmy_gydm
+						ke
 					</token_25>
 					<pos_25>
-						null
+						CONJsubord
 					</pos_25>
 					<stem_25>
-						null
+						ke_____1
 					</stem_25>
 					<morph_25>
-						null
+						inv
 					</morph_25>
 					<category_25>
-						null
+						inv
 					</category_25>
 				</position_25>
 				<position_26>
 					<token_26>
-						,
+						brwmy_gydm
 					</token_26>
 					<pos_26>
-						DELM
+						null
 					</pos_26>
 					<stem_26>
-						,_____1
+						null
 					</stem_26>
 					<morph_26>
-						inv
+						null
 					</morph_26>
 					<category_26>
-						inv
+						null
 					</category_26>
 				</position_26>
 				<position_27>
 					<token_27>
-						tw
+						,
 					</token_27>
 					<pos_27>
-						P PROpers
+						DELM
 					</pos_27>
 					<stem_27>
-						tw_____1 tw_____1
+						,_____1
 					</stem_27>
 					<morph_27>
-						inv inv
+						inv
 					</morph_27>
 					<category_27>
-						inv inv
+						inv
 					</category_27>
 				</position_27>
 				<position_28>
 					<token_28>
-						mn
+						tw
 					</token_28>
 					<pos_28>
-						AR PROpers
+						P PROpers
 					</pos_28>
 					<stem_28>
-						mn_____1 mn_____1
+						tw_____1 tw_____1
 					</stem_28>
 					<morph_28>
 						inv inv
@@ -3283,55 +3300,72 @@
 				</position_28>
 				<position_29>
 					<token_29>
-						ra
+						mn
 					</token_29>
 					<pos_29>
-						P
+						AR PROpers
 					</pos_29>
 					<stem_29>
-						ra_____1
+						mn_____1 mn_____1
 					</stem_29>
 					<morph_29>
-						inv
+						inv inv
 					</morph_29>
 					<category_29>
-						inv
+						inv inv
 					</category_29>
 				</position_29>
 				<position_30>
 					<token_30>
-						bxwr
+						ra
 					</token_30>
 					<pos_30>
-						N V
+						P
 					</pos_30>
 					<stem_30>
-						bxwr_____1 xwrdn_____1
+						ra_____1
 					</stem_30>
 					<morph_30>
-						Sing imperNorm
+						inv
 					</morph_30>
 					<category_30>
-						N5:c v2
+						inv
 					</category_30>
 				</position_30>
 				<position_31>
 					<token_31>
-						.
+						bxwr
 					</token_31>
 					<pos_31>
-						DELM
+						N V
 					</pos_31>
 					<stem_31>
-						._____1
+						bxwr_____1 xwrdn_____1
 					</stem_31>
 					<morph_31>
-						inv
+						Sing imperNorm
 					</morph_31>
 					<category_31>
-						inv
+						N5:c v2
 					</category_31>
 				</position_31>
+				<position_32>
+					<token_32>
+						.
+					</token_32>
+					<pos_32>
+						DELM
+					</pos_32>
+					<stem_32>
+						._____1
+					</stem_32>
+					<morph_32>
+						inv
+					</morph_32>
+					<category_32>
+						inv
+					</category_32>
+				</position_32>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1012">
@@ -4528,7 +4562,7 @@
 				gftš ke ne bđar mn brm be dxtrm sr bznm .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				gft ke ne bgđar mn brwm be dxtrmn sr bznm .
+				gft ke ne bgđar mn brwm be dxtr mn sr bznm .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -4652,72 +4686,89 @@
 				</position_6>
 				<position_7>
 					<token_7>
-						dxtrmn
+						dxtr
 					</token_7>
 					<pos_7>
-						null
+						ADJ N N
 					</pos_7>
 					<stem_7>
-						null
+						dxtr_____1 dxtr_____1 dxtr_____2
 					</stem_7>
 					<morph_7>
-						null
+						 Sing Sing
 					</morph_7>
 					<category_7>
-						null
+						ADJ:c N15:c N5:c
 					</category_7>
 				</position_7>
 				<position_8>
 					<token_8>
-						sr
+						mn
 					</token_8>
 					<pos_8>
-						N N P
+						AR PROpers
 					</pos_8>
 					<stem_8>
-						sr_____1 sr_____2 sr_____1
+						mn_____1 mn_____1
 					</stem_8>
 					<morph_8>
-						Sing Sing inv
+						inv inv
 					</morph_8>
 					<category_8>
-						N15:c N5:c inv
+						inv inv
 					</category_8>
 				</position_8>
 				<position_9>
 					<token_9>
-						bznm
+						sr
 					</token_9>
 					<pos_9>
-						V
+						N N P
 					</pos_9>
 					<stem_9>
-						zdn_____2
+						sr_____1 sr_____2 sr_____1
 					</stem_9>
 					<morph_9>
-						1sgPreSubj
+						Sing Sing inv
 					</morph_9>
 					<category_9>
-						v7
+						N15:c N5:c inv
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						.
+						bznm
 					</token_10>
 					<pos_10>
-						DELM
+						V
 					</pos_10>
 					<stem_10>
-						._____1
+						zdn_____2
 					</stem_10>
 					<morph_10>
-						inv
+						1sgPreSubj
 					</morph_10>
 					<category_10>
-						inv
+						v7
 					</category_10>
 				</position_10>
+				<position_11>
+					<token_11>
+						.
+					</token_11>
+					<pos_11>
+						DELM
+					</pos_11>
+					<stem_11>
+						._____1
+					</stem_11>
+					<morph_11>
+						inv
+					</morph_11>
+					<category_11>
+						inv
+					</category_11>
+				</position_11>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1020">
@@ -4731,35 +4782,35 @@
 				wŕtyke br my grdm , čaŕ w čle am šde am , tw mnw bxwr .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				wŕtke br my grdm , čaŕ w člemn šde estm , tw mnw bxwr .
+				wŕt ke br my grdm , čaŕ w čle mn šde estm , tw mnw bxwr .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
 					<token_0>
-						wŕtke
+						wŕt
 					</token_0>
 					<pos_0>
-						null
+						ADJ ADV N
 					</pos_0>
 					<stem_0>
-						null
+						wŕt_____1 wŕt___MTE__1 wŕt_____1
 					</stem_0>
 					<morph_0>
-						null
+						 inv Sing
 					</morph_0>
 					<category_0>
-						null
+						ADJ:c inv N5:c
 					</category_0>
 				</position_0>
 				<position_1>
 					<token_1>
-						br
+						ke
 					</token_1>
 					<pos_1>
-						P
+						CONJsubord
 					</pos_1>
 					<stem_1>
-						br_____1
+						ke_____1
 					</stem_1>
 					<morph_1>
 						inv
@@ -4770,183 +4821,183 @@
 				</position_1>
 				<position_2>
 					<token_2>
-						my
+						br
 					</token_2>
 					<pos_2>
-						ADJ
+						P
 					</pos_2>
 					<stem_2>
-						m_____1
+						br_____1
 					</stem_2>
 					<morph_2>
-						Indef
+						inv
 					</morph_2>
 					<category_2>
-						ADJ:c
+						inv
 					</category_2>
 				</position_2>
 				<position_3>
 					<token_3>
-						grdm
+						my
 					</token_3>
 					<pos_3>
-						ADJ N
+						ADJ
 					</pos_3>
 					<stem_3>
-						grd_____1 grd_____1
+						m_____1
 					</stem_3>
 					<morph_3>
-						Pers1s SingPers1s
+						Indef
 					</morph_3>
 					<category_3>
-						ADJ:c N15:c
+						ADJ:c
 					</category_3>
 				</position_3>
 				<position_4>
 					<token_4>
-						,
+						grdm
 					</token_4>
 					<pos_4>
-						DELM
+						ADJ N
 					</pos_4>
 					<stem_4>
-						,_____1
+						grd_____1 grd_____1
 					</stem_4>
 					<morph_4>
-						inv
+						Pers1s SingPers1s
 					</morph_4>
 					<category_4>
-						inv
+						ADJ:c N15:c
 					</category_4>
 				</position_4>
 				<position_5>
 					<token_5>
-						čaŕ
+						,
 					</token_5>
 					<pos_5>
-						ADJ N
+						DELM
 					</pos_5>
 					<stem_5>
-						čaŕ_____1 čaŕ_____1
+						,_____1
 					</stem_5>
 					<morph_5>
-						 Sing
+						inv
 					</morph_5>
 					<category_5>
-						ADJ:c N5:c
+						inv
 					</category_5>
 				</position_5>
 				<position_6>
 					<token_6>
-						w
+						čaŕ
 					</token_6>
 					<pos_6>
-						ADVcoord
+						ADJ N
 					</pos_6>
 					<stem_6>
-						w_____1
+						čaŕ_____1 čaŕ_____1
 					</stem_6>
 					<morph_6>
-						inv
+						 Sing
 					</morph_6>
 					<category_6>
-						inv
+						ADJ:c N5:c
 					</category_6>
 				</position_6>
 				<position_7>
 					<token_7>
-						člemn
+						w
 					</token_7>
 					<pos_7>
-						null
+						ADVcoord
 					</pos_7>
 					<stem_7>
-						null
+						w_____1
 					</stem_7>
 					<morph_7>
-						null
+						inv
 					</morph_7>
 					<category_7>
-						null
+						inv
 					</category_7>
 				</position_7>
 				<position_8>
 					<token_8>
-						šde
+						čle
 					</token_8>
 					<pos_8>
-						V V V V
+						null
 					</pos_8>
 					<stem_8>
-						šdn_____1 šdn_____1 šdn_____2 šdn_____2
+						null
 					</stem_8>
 					<morph_8>
-						3sgPreparfFam partPas 3sgPreparfFam partPas
+						null
 					</morph_8>
 					<category_8>
-						v22 v22 v28 v28
+						null
 					</category_8>
 				</position_8>
 				<position_9>
 					<token_9>
-						estm
+						mn
 					</token_9>
 					<pos_9>
-						V
+						AR PROpers
 					</pos_9>
 					<stem_9>
-						bwdn_____1
+						mn_____1 mn_____1
 					</stem_9>
 					<morph_9>
-						1sgPreInd
+						inv inv
 					</morph_9>
 					<category_9>
-						v25
+						inv inv
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						,
+						šde
 					</token_10>
 					<pos_10>
-						DELM
+						V V V V
 					</pos_10>
 					<stem_10>
-						,_____1
+						šdn_____1 šdn_____1 šdn_____2 šdn_____2
 					</stem_10>
 					<morph_10>
-						inv
+						3sgPreparfFam partPas 3sgPreparfFam partPas
 					</morph_10>
 					<category_10>
-						inv
+						v22 v22 v28 v28
 					</category_10>
 				</position_10>
 				<position_11>
 					<token_11>
-						tw
+						estm
 					</token_11>
 					<pos_11>
-						P PROpers
+						V
 					</pos_11>
 					<stem_11>
-						tw_____1 tw_____1
+						bwdn_____1
 					</stem_11>
 					<morph_11>
-						inv inv
+						1sgPreInd
 					</morph_11>
 					<category_11>
-						inv inv
+						v25
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
-						mnw
+						,
 					</token_12>
 					<pos_12>
-						PROindef
+						DELM
 					</pos_12>
 					<stem_12>
-						mnw_____1
+						,_____1
 					</stem_12>
 					<morph_12>
 						inv
@@ -4957,30 +5008,30 @@
 				</position_12>
 				<position_13>
 					<token_13>
-						bxwr
+						tw
 					</token_13>
 					<pos_13>
-						N V
+						P PROpers
 					</pos_13>
 					<stem_13>
-						bxwr_____1 xwrdn_____1
+						tw_____1 tw_____1
 					</stem_13>
 					<morph_13>
-						Sing imperNorm
+						inv inv
 					</morph_13>
 					<category_13>
-						N5:c v2
+						inv inv
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
-						.
+						mnw
 					</token_14>
 					<pos_14>
-						DELM
+						PROindef
 					</pos_14>
 					<stem_14>
-						._____1
+						mnw_____1
 					</stem_14>
 					<morph_14>
 						inv
@@ -4989,6 +5040,40 @@
 						inv
 					</category_14>
 				</position_14>
+				<position_15>
+					<token_15>
+						bxwr
+					</token_15>
+					<pos_15>
+						N V
+					</pos_15>
+					<stem_15>
+						bxwr_____1 xwrdn_____1
+					</stem_15>
+					<morph_15>
+						Sing imperNorm
+					</morph_15>
+					<category_15>
+						N5:c v2
+					</category_15>
+				</position_15>
+				<position_16>
+					<token_16>
+						.
+					</token_16>
+					<pos_16>
+						DELM
+					</pos_16>
+					<stem_16>
+						._____1
+					</stem_16>
+					<morph_16>
+						inv
+					</morph_16>
+					<category_16>
+						inv
+					</category_16>
+				</position_16>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1021">
@@ -5103,7 +5188,7 @@
 				awmd w awmd w baz msafty rw ţy krd , ta rsyd be āŕa šyre .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				āmd w āmd w baz msaftra ţy krd , ta rsyd be āŕa šyr .
+				āmd w āmd w baz msaft ra ţy krd , ta rsyd be āŕa šyr .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -5193,174 +5278,191 @@
 				</position_4>
 				<position_5>
 					<token_5>
-						msaftra
+						msaft
 					</token_5>
 					<pos_5>
-						null
+						N
 					</pos_5>
 					<stem_5>
-						null
+						msaft_____1
 					</stem_5>
 					<morph_5>
-						null
+						Sing
 					</morph_5>
 					<category_5>
-						null
+						N5:c
 					</category_5>
 				</position_5>
 				<position_6>
 					<token_6>
-						ţy
+						ra
 					</token_6>
 					<pos_6>
-						ADV P
+						P
 					</pos_6>
 					<stem_6>
-						ţy___MTE__1 ţy_____1
+						ra_____1
 					</stem_6>
 					<morph_6>
-						inv inv
+						inv
 					</morph_6>
 					<category_6>
-						inv inv
+						inv
 					</category_6>
 				</position_6>
 				<position_7>
 					<token_7>
-						krd
+						ţy
 					</token_7>
 					<pos_7>
-						N V V V V V
+						ADV P
 					</pos_7>
 					<stem_7>
-						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
+						ţy___MTE__1 ţy_____1
 					</stem_7>
 					<morph_7>
-						Sing 2*3sgPreterit infApocope 2*3sgPastprog 2*3sgPreterit infApocope
+						inv inv
 					</morph_7>
 					<category_7>
-						N5:c v22 v22 v28 v28 v28
+						inv inv
 					</category_7>
 				</position_7>
 				<position_8>
 					<token_8>
-						,
+						krd
 					</token_8>
 					<pos_8>
-						DELM
+						N V V V V V
 					</pos_8>
 					<stem_8>
-						,_____1
+						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
 					</stem_8>
 					<morph_8>
-						inv
+						Sing 2*3sgPreterit infApocope 2*3sgPastprog 2*3sgPreterit infApocope
 					</morph_8>
 					<category_8>
-						inv
+						N5:c v22 v22 v28 v28 v28
 					</category_8>
 				</position_8>
 				<position_9>
 					<token_9>
-						ta
+						,
 					</token_9>
 					<pos_9>
-						CLASSpl ADV P
+						DELM
 					</pos_9>
 					<stem_9>
-						ta_____1 ta_____1 ta_____1
+						,_____1
 					</stem_9>
 					<morph_9>
-						inv inv inv
+						inv
 					</morph_9>
 					<category_9>
-						inv inv inv
+						inv
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						rsyd
+						ta
 					</token_10>
 					<pos_10>
-						V V
+						CLASSpl ADV P
 					</pos_10>
 					<stem_10>
-						rsydn_____1 rsydn_____1
+						ta_____1 ta_____1 ta_____1
 					</stem_10>
 					<morph_10>
-						2*3sgPreterit infApocope
+						inv inv inv
 					</morph_10>
 					<category_10>
-						v1 v1
+						inv inv inv
 					</category_10>
 				</position_10>
 				<position_11>
 					<token_11>
-						be
+						rsyd
 					</token_11>
 					<pos_11>
-						N P
+						V V
 					</pos_11>
 					<stem_11>
-						be_____1 be_____1
+						rsydn_____1 rsydn_____1
 					</stem_11>
 					<morph_11>
-						Sing inv
+						2*3sgPreterit infApocope
 					</morph_11>
 					<category_11>
-						N5:v inv
+						v1 v1
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
-						āŕa
+						be
 					</token_12>
 					<pos_12>
-						INTexcl N INTexcl
+						N P
 					</pos_12>
 					<stem_12>
-						āŕa_____1 āŕa_____1 āŕa_____1
+						be_____1 be_____1
 					</stem_12>
 					<morph_12>
-						inv Sing inv
+						Sing inv
 					</morph_12>
 					<category_12>
-						inv N1:v inv
+						N5:v inv
 					</category_12>
 				</position_12>
 				<position_13>
 					<token_13>
-						šyr
+						āŕa
 					</token_13>
 					<pos_13>
-						N N
+						INTexcl N INTexcl
 					</pos_13>
 					<stem_13>
-						šyr_____1 šyr_____2
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_13>
 					<morph_13>
-						Sing Sing
+						inv Sing inv
 					</morph_13>
 					<category_13>
-						N15:c N5:c
+						inv N1:v inv
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
-						.
+						šyr
 					</token_14>
 					<pos_14>
-						DELM
+						N N
 					</pos_14>
 					<stem_14>
-						._____1
+						šyr_____1 šyr_____2
 					</stem_14>
 					<morph_14>
-						inv
+						Sing Sing
 					</morph_14>
 					<category_14>
-						inv
+						N15:c N5:c
 					</category_14>
 				</position_14>
+				<position_15>
+					<token_15>
+						.
+					</token_15>
+					<pos_15>
+						DELM
+					</pos_15>
+					<stem_15>
+						._____1
+					</stem_15>
+					<morph_15>
+						inv
+					</morph_15>
+					<category_15>
+						inv
+					</category_15>
+				</position_15>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1023">
@@ -5747,7 +5849,7 @@
 				xyly grsnme .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				xyly grsneast .
+				xyly grsne ast .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -5769,38 +5871,55 @@
 				</position_0>
 				<position_1>
 					<token_1>
-						grsneast
+						grsne
 					</token_1>
 					<pos_1>
-						null
+						ADJ N
 					</pos_1>
 					<stem_1>
-						null
+						grsne_____1 grsne_____1
 					</stem_1>
 					<morph_1>
-						null
+						 Sing
 					</morph_1>
 					<category_1>
-						null
+						ADJ:v N5:v
 					</category_1>
 				</position_1>
 				<position_2>
 					<token_2>
-						.
+						ast
 					</token_2>
 					<pos_2>
-						DELM
+						N V
 					</pos_2>
 					<stem_2>
-						._____1
+						ast_____1 bwdn_____1
 					</stem_2>
 					<morph_2>
-						inv
+						Sing 2*3sgPreInd
 					</morph_2>
 					<category_2>
-						inv
+						N15:c v25
 					</category_2>
 				</position_2>
+				<position_3>
+					<token_3>
+						.
+					</token_3>
+					<pos_3>
+						DELM
+					</pos_3>
+					<stem_3>
+						._____1
+					</stem_3>
+					<morph_3>
+						inv
+					</morph_3>
+					<category_3>
+						inv
+					</category_3>
+				</position_3>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1025">
@@ -5814,7 +5933,7 @@
 				bya ke myxwam tw rw bxwrm .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				byā ke myxwam twra bxwrm .
+				byā ke myxwam tw ra bxwrm .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -5870,55 +5989,72 @@
 				</position_2>
 				<position_3>
 					<token_3>
-						twra
+						tw
 					</token_3>
 					<pos_3>
-						null
+						P PROpers
 					</pos_3>
 					<stem_3>
-						null
+						tw_____1 tw_____1
 					</stem_3>
 					<morph_3>
-						null
+						inv inv
 					</morph_3>
 					<category_3>
-						null
+						inv inv
 					</category_3>
 				</position_3>
 				<position_4>
 					<token_4>
-						bxwrm
+						ra
 					</token_4>
 					<pos_4>
-						N V
+						P
 					</pos_4>
 					<stem_4>
-						bxwr_____1 xwrdn_____1
+						ra_____1
 					</stem_4>
 					<morph_4>
-						SingPers1s 1sgPreSubj
+						inv
 					</morph_4>
 					<category_4>
-						N5:c v2
+						inv
 					</category_4>
 				</position_4>
 				<position_5>
 					<token_5>
-						.
+						bxwrm
 					</token_5>
 					<pos_5>
-						DELM
+						N V
 					</pos_5>
 					<stem_5>
-						._____1
+						bxwr_____1 xwrdn_____1
 					</stem_5>
 					<morph_5>
-						inv
+						SingPers1s 1sgPreSubj
 					</morph_5>
 					<category_5>
-						inv
+						N5:c v2
 					</category_5>
 				</position_5>
+				<position_6>
+					<token_6>
+						.
+					</token_6>
+					<pos_6>
+						DELM
+					</pos_6>
+					<stem_6>
+						._____1
+					</stem_6>
+					<morph_6>
+						inv
+					</morph_6>
+					<category_6>
+						inv
+					</category_6>
+				</position_6>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1026">
@@ -5999,7 +6135,7 @@
 				bđar mn brm be dxtrm sr bznm , wŕtyke sr zdm w dydar taze krdm w qđaeay xwb xwb awnja xwrdm w čaŕ w čle šdm , tw mnw bxwr .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				bgđar mn brwm be dxtrm sr bznm , wŕtke sr zdm w dydar taze krdm w qđaeay xwb xwb awnja xwrdm w čaŕ w čle šdm , tw mnw bxwr .
+				bgđar mn brwm be dxtrm sr bznm , wŕt ke sr zdm w dydar taze krdm w qđaeay xwb xwb awnja xwrdm w čaŕ w čle šdm , tw mnw bxwr .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -6140,172 +6276,172 @@
 				</position_7>
 				<position_8>
 					<token_8>
-						wŕtke
+						wŕt
 					</token_8>
 					<pos_8>
-						null
+						ADJ ADV N
 					</pos_8>
 					<stem_8>
-						null
+						wŕt_____1 wŕt___MTE__1 wŕt_____1
 					</stem_8>
 					<morph_8>
-						null
+						 inv Sing
 					</morph_8>
 					<category_8>
-						null
+						ADJ:c inv N5:c
 					</category_8>
 				</position_8>
 				<position_9>
 					<token_9>
-						sr
+						ke
 					</token_9>
 					<pos_9>
-						N N P
+						CONJsubord
 					</pos_9>
 					<stem_9>
-						sr_____1 sr_____2 sr_____1
+						ke_____1
 					</stem_9>
 					<morph_9>
-						Sing Sing inv
+						inv
 					</morph_9>
 					<category_9>
-						N15:c N5:c inv
+						inv
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						zdm
+						sr
 					</token_10>
 					<pos_10>
-						V V V V V
+						N N P
 					</pos_10>
 					<stem_10>
-						zdn_____1 zdn_____1 zdn_____1 zdn_____2 zdn_____2
+						sr_____1 sr_____2 sr_____1
 					</stem_10>
 					<morph_10>
-						1sgPastprog 1sgPreparfFam 1sgPreterit 1sgPreparfFam 1sgPreterit
+						Sing Sing inv
 					</morph_10>
 					<category_10>
-						v28 v28 v28 v7 v7
+						N15:c N5:c inv
 					</category_10>
 				</position_10>
 				<position_11>
 					<token_11>
-						w
+						zdm
 					</token_11>
 					<pos_11>
-						ADVcoord
+						V V V V V
 					</pos_11>
 					<stem_11>
-						w_____1
+						zdn_____1 zdn_____1 zdn_____1 zdn_____2 zdn_____2
 					</stem_11>
 					<morph_11>
-						inv
+						1sgPastprog 1sgPreparfFam 1sgPreterit 1sgPreparfFam 1sgPreterit
 					</morph_11>
 					<category_11>
-						inv
+						v28 v28 v28 v7 v7
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
-						dydar
+						w
 					</token_12>
 					<pos_12>
-						N
+						ADVcoord
 					</pos_12>
 					<stem_12>
-						dydar_____1
+						w_____1
 					</stem_12>
 					<morph_12>
-						Sing
+						inv
 					</morph_12>
 					<category_12>
-						N5:c
+						inv
 					</category_12>
 				</position_12>
 				<position_13>
 					<token_13>
-						taze
+						dydar
 					</token_13>
 					<pos_13>
-						ADJ ADV PN ADV N
+						N
 					</pos_13>
 					<stem_13>
-						taze_____1 taze___MTE__1 taze___Taza__1 taze_____1 taze_____1
+						dydar_____1
 					</stem_13>
 					<morph_13>
-						  Sing inv Sing
+						Sing
 					</morph_13>
 					<category_13>
-						ADJ:v ADV1 N2:v inv N5:v
+						N5:c
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
-						krdm
+						taze
 					</token_14>
 					<pos_14>
-						N V V V V V
+						ADJ ADV PN ADV N
 					</pos_14>
 					<stem_14>
-						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
+						taze_____1 taze___MTE__1 taze___Taza__1 taze_____1 taze_____1
 					</stem_14>
 					<morph_14>
-						SingPers1s 1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
+						  Sing inv Sing
 					</morph_14>
 					<category_14>
-						N5:c v22 v22 v28 v28 v28
+						ADJ:v ADV1 N2:v inv N5:v
 					</category_14>
 				</position_14>
 				<position_15>
 					<token_15>
-						w
+						krdm
 					</token_15>
 					<pos_15>
-						ADVcoord
+						N V V V V V
 					</pos_15>
 					<stem_15>
-						w_____1
+						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
 					</stem_15>
 					<morph_15>
-						inv
+						SingPers1s 1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
 					</morph_15>
 					<category_15>
-						inv
+						N5:c v22 v22 v28 v28 v28
 					</category_15>
 				</position_15>
 				<position_16>
 					<token_16>
-						qđaeay
+						w
 					</token_16>
 					<pos_16>
-						N
+						ADVcoord
 					</pos_16>
 					<stem_16>
-						qđa_____1
+						w_____1
 					</stem_16>
 					<morph_16>
-						PlurEzafe
+						inv
 					</morph_16>
 					<category_16>
-						N5:v
+						inv
 					</category_16>
 				</position_16>
 				<position_17>
 					<token_17>
-						xwb
+						qđaeay
 					</token_17>
 					<pos_17>
-						ADJ ADV N N
+						N
 					</pos_17>
 					<stem_17>
-						xwb_____1 xwb___MTE__1 xwb_____1 xwb_____2
+						qđa_____1
 					</stem_17>
 					<morph_17>
-						  Sing Sing
+						PlurEzafe
 					</morph_17>
 					<category_17>
-						ADJ:c ADV1 N15:c N5:c
+						N5:v
 					</category_17>
 				</position_17>
 				<position_18>
@@ -6327,206 +6463,223 @@
 				</position_18>
 				<position_19>
 					<token_19>
-						awnja
+						xwb
 					</token_19>
 					<pos_19>
-						ADV
+						ADJ ADV N N
 					</pos_19>
 					<stem_19>
-						awnja_____1
+						xwb_____1 xwb___MTE__1 xwb_____1 xwb_____2
 					</stem_19>
-					<morph_19/>
+					<morph_19>
+						  Sing Sing
+					</morph_19>
 					<category_19>
-						ADV1
+						ADJ:c ADV1 N15:c N5:c
 					</category_19>
 				</position_19>
 				<position_20>
 					<token_20>
-						xwrdm
+						awnja
 					</token_20>
 					<pos_20>
-						V V V V V
+						ADV
 					</pos_20>
 					<stem_20>
-						xwrdn_____1 xwrdn_____1 xwrdn_____2 xwrdn_____2 xwrdn_____2
+						awnja_____1
 					</stem_20>
-					<morph_20>
-						1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
-					</morph_20>
+					<morph_20/>
 					<category_20>
-						v2 v2 v28 v28 v28
+						ADV1
 					</category_20>
 				</position_20>
 				<position_21>
 					<token_21>
-						w
+						xwrdm
 					</token_21>
 					<pos_21>
-						ADVcoord
+						V V V V V
 					</pos_21>
 					<stem_21>
-						w_____1
+						xwrdn_____1 xwrdn_____1 xwrdn_____2 xwrdn_____2 xwrdn_____2
 					</stem_21>
 					<morph_21>
-						inv
+						1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
 					</morph_21>
 					<category_21>
-						inv
+						v2 v2 v28 v28 v28
 					</category_21>
 				</position_21>
 				<position_22>
 					<token_22>
-						čaŕ
+						w
 					</token_22>
 					<pos_22>
-						ADJ N
+						ADVcoord
 					</pos_22>
 					<stem_22>
-						čaŕ_____1 čaŕ_____1
+						w_____1
 					</stem_22>
 					<morph_22>
-						 Sing
+						inv
 					</morph_22>
 					<category_22>
-						ADJ:c N5:c
+						inv
 					</category_22>
 				</position_22>
 				<position_23>
 					<token_23>
-						w
+						čaŕ
 					</token_23>
 					<pos_23>
-						ADVcoord
+						ADJ N
 					</pos_23>
 					<stem_23>
-						w_____1
+						čaŕ_____1 čaŕ_____1
 					</stem_23>
 					<morph_23>
-						inv
+						 Sing
 					</morph_23>
 					<category_23>
-						inv
+						ADJ:c N5:c
 					</category_23>
 				</position_23>
 				<position_24>
 					<token_24>
-						čle
+						w
 					</token_24>
 					<pos_24>
-						null
+						ADVcoord
 					</pos_24>
 					<stem_24>
-						null
+						w_____1
 					</stem_24>
 					<morph_24>
-						null
+						inv
 					</morph_24>
 					<category_24>
-						null
+						inv
 					</category_24>
 				</position_24>
 				<position_25>
 					<token_25>
-						šdm
+						čle
 					</token_25>
 					<pos_25>
-						V V V V V
+						null
 					</pos_25>
 					<stem_25>
-						šdn_____1 šdn_____1 šdn_____2 šdn_____2 šdn_____2
+						null
 					</stem_25>
 					<morph_25>
-						1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
+						null
 					</morph_25>
 					<category_25>
-						v22 v22 v28 v28 v28
+						null
 					</category_25>
 				</position_25>
 				<position_26>
 					<token_26>
-						,
+						šdm
 					</token_26>
 					<pos_26>
-						DELM
+						V V V V V
 					</pos_26>
 					<stem_26>
-						,_____1
+						šdn_____1 šdn_____1 šdn_____2 šdn_____2 šdn_____2
 					</stem_26>
 					<morph_26>
-						inv
+						1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
 					</morph_26>
 					<category_26>
-						inv
+						v22 v22 v28 v28 v28
 					</category_26>
 				</position_26>
 				<position_27>
 					<token_27>
-						tw
+						,
 					</token_27>
 					<pos_27>
-						P PROpers
+						DELM
 					</pos_27>
 					<stem_27>
-						tw_____1 tw_____1
+						,_____1
 					</stem_27>
 					<morph_27>
-						inv inv
+						inv
 					</morph_27>
 					<category_27>
-						inv inv
+						inv
 					</category_27>
 				</position_27>
 				<position_28>
 					<token_28>
-						mnw
+						tw
 					</token_28>
 					<pos_28>
-						PROindef
+						P PROpers
 					</pos_28>
 					<stem_28>
-						mnw_____1
+						tw_____1 tw_____1
 					</stem_28>
 					<morph_28>
-						inv
+						inv inv
 					</morph_28>
 					<category_28>
-						inv
+						inv inv
 					</category_28>
 				</position_28>
 				<position_29>
 					<token_29>
-						bxwr
+						mnw
 					</token_29>
 					<pos_29>
-						N V
+						PROindef
 					</pos_29>
 					<stem_29>
-						bxwr_____1 xwrdn_____1
+						mnw_____1
 					</stem_29>
 					<morph_29>
-						Sing imperNorm
+						inv
 					</morph_29>
 					<category_29>
-						N5:c v2
+						inv
 					</category_29>
 				</position_29>
 				<position_30>
 					<token_30>
-						.
+						bxwr
 					</token_30>
 					<pos_30>
-						DELM
+						N V
 					</pos_30>
 					<stem_30>
-						._____1
+						bxwr_____1 xwrdn_____1
 					</stem_30>
 					<morph_30>
-						inv
+						Sing imperNorm
 					</morph_30>
 					<category_30>
-						inv
+						N5:c v2
 					</category_30>
 				</position_30>
+				<position_31>
+					<token_31>
+						.
+					</token_31>
+					<pos_31>
+						DELM
+					</pos_31>
+					<stem_31>
+						._____1
+					</stem_31>
+					<morph_31>
+						inv
+					</morph_31>
+					<category_31>
+						inv
+					</category_31>
+				</position_31>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1028">
@@ -6537,10 +6690,10 @@
 				 اومد و اومد و اومد و رسید به خونۀ دخترش.
 			</per_sentence>
 			<roman_sentence>
-				awmd w awmd w awmd w rsyd be xwnۀ dxtrš .
+				awmd w awmd w awmd w rsyd be xwnX dxtrš .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				āmd w āmd w āmd w rsyd be xwnۀ dxtrš .
+				āmd w āmd w āmd w rsyd be xwnX dxtrš .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -6681,7 +6834,7 @@
 				</position_7>
 				<position_8>
 					<token_8>
-						xwnۀ
+						xwnX
 					</token_8>
 					<pos_8>
 						null
@@ -6740,10 +6893,10 @@
 				 پشت در باغ که رسید در زد و نوه هاش اومدن و دره رو باز کردن و پریدن تو بغلش و ذوق کردن و خوش بش کردن و رفتن با هم دیگه خونۀ دخترش.
 			</per_sentence>
 			<roman_sentence>
-				pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnۀ dxtrš .
+				pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnX dxtrš .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				pšt dr baq ke rsyd dr zd w nwe_eayaw āmdn w dre ra baz krdn w prydn tw bqlš w đwŕ krdn w xwšbaš krdn w rftn ba em dygr xwnۀ dxtrš .
+				pšt dr baq ke rsyd dr zd w nwe_eay aw āmdn w dre ra baz krdn w prydn tw bqlš w đwŕ krdn w xwšbaš krdn w rftn ba em dygr xwnX dxtrš .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -6884,427 +7037,444 @@
 				</position_7>
 				<position_8>
 					<token_8>
-						nwe_eayaw
+						nwe_eay
 					</token_8>
 					<pos_8>
-						null
+						N
 					</pos_8>
 					<stem_8>
-						null
+						nwe_____1
 					</stem_8>
 					<morph_8>
-						null
+						PlurEzafe
 					</morph_8>
 					<category_8>
-						null
+						N5:v
 					</category_8>
 				</position_8>
 				<position_9>
 					<token_9>
-						āmdn
+						aw
 					</token_9>
 					<pos_9>
-						V V V
+						N PROpers
 					</pos_9>
 					<stem_9>
-						āmdn_____1 āmdn_____1 āmdn_____1
+						aw_____1 aw_____1
 					</stem_9>
 					<morph_9>
-						*10*inf 2*3plPreparfFam 2*3plPreteritFam
+						Sing inv
 					</morph_9>
 					<category_9>
-						v24:v v24:v v24:v
+						N15:c inv
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						w
+						āmdn
 					</token_10>
 					<pos_10>
-						ADVcoord
+						V V V
 					</pos_10>
 					<stem_10>
-						w_____1
+						āmdn_____1 āmdn_____1 āmdn_____1
 					</stem_10>
 					<morph_10>
-						inv
+						*10*inf 2*3plPreparfFam 2*3plPreteritFam
 					</morph_10>
 					<category_10>
-						inv
+						v24:v v24:v v24:v
 					</category_10>
 				</position_10>
 				<position_11>
 					<token_11>
-						dre
+						w
 					</token_11>
 					<pos_11>
-						N
+						ADVcoord
 					</pos_11>
 					<stem_11>
-						dre_____1
+						w_____1
 					</stem_11>
 					<morph_11>
-						Sing
+						inv
 					</morph_11>
 					<category_11>
-						N5:v
+						inv
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
-						ra
+						dre
 					</token_12>
 					<pos_12>
-						P
+						N
 					</pos_12>
 					<stem_12>
-						ra_____1
+						dre_____1
 					</stem_12>
 					<morph_12>
-						inv
+						Sing
 					</morph_12>
 					<category_12>
-						inv
+						N5:v
 					</category_12>
 				</position_12>
 				<position_13>
 					<token_13>
-						baz
+						ra
 					</token_13>
 					<pos_13>
-						ADJ ADV P
+						P
 					</pos_13>
 					<stem_13>
-						baz_____1 baz_____1 baz___MTE__1
+						ra_____1
 					</stem_13>
 					<morph_13>
-						  inv
+						inv
 					</morph_13>
 					<category_13>
-						ADJ:c ADV1 inv
+						inv
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
-						krdn
+						baz
 					</token_14>
 					<pos_14>
-						N V V V V V V V
+						ADJ ADV P
 					</pos_14>
 					<stem_14>
-						krdn_____1 krdn_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2 krdn_____2
+						baz_____1 baz_____1 baz___MTE__1
 					</stem_14>
 					<morph_14>
-						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPastprogFam 2*3plPreparfFam 2*3plPreteritFam
+						  inv
 					</morph_14>
 					<category_14>
-						N5:c v22 v22 v22 v28 v28 v28 v28
+						ADJ:c ADV1 inv
 					</category_14>
 				</position_14>
 				<position_15>
 					<token_15>
-						w
+						krdn
 					</token_15>
 					<pos_15>
-						ADVcoord
+						N V V V V V V V
 					</pos_15>
 					<stem_15>
-						w_____1
+						krdn_____1 krdn_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2 krdn_____2
 					</stem_15>
 					<morph_15>
-						inv
+						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPastprogFam 2*3plPreparfFam 2*3plPreteritFam
 					</morph_15>
 					<category_15>
-						inv
+						N5:c v22 v22 v22 v28 v28 v28 v28
 					</category_15>
 				</position_15>
 				<position_16>
 					<token_16>
-						prydn
+						w
 					</token_16>
 					<pos_16>
-						N V V V
+						ADVcoord
 					</pos_16>
 					<stem_16>
-						prydn_____1 prydn_____1 prydn_____1 prydn_____1
+						w_____1
 					</stem_16>
 					<morph_16>
-						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam
+						inv
 					</morph_16>
 					<category_16>
-						N5:c v1 v1 v1
+						inv
 					</category_16>
 				</position_16>
 				<position_17>
 					<token_17>
-						tw
+						prydn
 					</token_17>
 					<pos_17>
-						P PROpers
+						N V V V
 					</pos_17>
 					<stem_17>
-						tw_____1 tw_____1
+						prydn_____1 prydn_____1 prydn_____1 prydn_____1
 					</stem_17>
 					<morph_17>
-						inv inv
+						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam
 					</morph_17>
 					<category_17>
-						inv inv
+						N5:c v1 v1 v1
 					</category_17>
 				</position_17>
 				<position_18>
 					<token_18>
-						bqlš
+						tw
 					</token_18>
 					<pos_18>
-						N
+						P PROpers
 					</pos_18>
 					<stem_18>
-						bql_____1
+						tw_____1 tw_____1
 					</stem_18>
 					<morph_18>
-						SingPers3s
+						inv inv
 					</morph_18>
 					<category_18>
-						N1:c
+						inv inv
 					</category_18>
 				</position_18>
 				<position_19>
 					<token_19>
-						w
+						bqlš
 					</token_19>
 					<pos_19>
-						ADVcoord
+						N
 					</pos_19>
 					<stem_19>
-						w_____1
+						bql_____1
 					</stem_19>
 					<morph_19>
-						inv
+						SingPers3s
 					</morph_19>
 					<category_19>
-						inv
+						N1:c
 					</category_19>
 				</position_19>
 				<position_20>
 					<token_20>
-						đwŕ
+						w
 					</token_20>
 					<pos_20>
-						N
+						ADVcoord
 					</pos_20>
 					<stem_20>
-						đwŕ_____1
+						w_____1
 					</stem_20>
 					<morph_20>
-						Sing
+						inv
 					</morph_20>
 					<category_20>
-						N1:c
+						inv
 					</category_20>
 				</position_20>
 				<position_21>
 					<token_21>
-						krdn
+						đwŕ
 					</token_21>
 					<pos_21>
-						N V V V V V V V
+						N
 					</pos_21>
 					<stem_21>
-						krdn_____1 krdn_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2 krdn_____2
+						đwŕ_____1
 					</stem_21>
 					<morph_21>
-						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPastprogFam 2*3plPreparfFam 2*3plPreteritFam
+						Sing
 					</morph_21>
 					<category_21>
-						N5:c v22 v22 v22 v28 v28 v28 v28
+						N1:c
 					</category_21>
 				</position_21>
 				<position_22>
 					<token_22>
-						w
+						krdn
 					</token_22>
 					<pos_22>
-						ADVcoord
+						N V V V V V V V
 					</pos_22>
 					<stem_22>
-						w_____1
+						krdn_____1 krdn_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2 krdn_____2
 					</stem_22>
 					<morph_22>
-						inv
+						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPastprogFam 2*3plPreparfFam 2*3plPreteritFam
 					</morph_22>
 					<category_22>
-						inv
+						N5:c v22 v22 v22 v28 v28 v28 v28
 					</category_22>
 				</position_22>
 				<position_23>
 					<token_23>
-						xwšbaš
+						w
 					</token_23>
 					<pos_23>
-						ADJ
+						ADVcoord
 					</pos_23>
 					<stem_23>
-						xwšbaš_____1
+						w_____1
 					</stem_23>
-					<morph_23/>
+					<morph_23>
+						inv
+					</morph_23>
 					<category_23>
-						ADJ
+						inv
 					</category_23>
 				</position_23>
 				<position_24>
 					<token_24>
-						krdn
+						xwšbaš
 					</token_24>
 					<pos_24>
-						N V V V V V V V
+						ADJ
 					</pos_24>
 					<stem_24>
-						krdn_____1 krdn_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2 krdn_____2
+						xwšbaš_____1
 					</stem_24>
-					<morph_24>
-						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPastprogFam 2*3plPreparfFam 2*3plPreteritFam
-					</morph_24>
+					<morph_24/>
 					<category_24>
-						N5:c v22 v22 v22 v28 v28 v28 v28
+						ADJ
 					</category_24>
 				</position_24>
 				<position_25>
 					<token_25>
-						w
+						krdn
 					</token_25>
 					<pos_25>
-						ADVcoord
+						N V V V V V V V
 					</pos_25>
 					<stem_25>
-						w_____1
+						krdn_____1 krdn_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2 krdn_____2
 					</stem_25>
 					<morph_25>
-						inv
+						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPastprogFam 2*3plPreparfFam 2*3plPreteritFam
 					</morph_25>
 					<category_25>
-						inv
+						N5:c v22 v22 v22 v28 v28 v28 v28
 					</category_25>
 				</position_25>
 				<position_26>
 					<token_26>
-						rftn
+						w
 					</token_26>
 					<pos_26>
-						N V V V V V V V V V
+						ADVcoord
 					</pos_26>
 					<stem_26>
-						rftn_____1 rftn_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____2 rftn_____3 rftn_____3 rftn_____3
+						w_____1
 					</stem_26>
 					<morph_26>
-						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPreparfFam 2*3plPreteritFam
+						inv
 					</morph_26>
 					<category_26>
-						N5:c v19 v19 v19 v21 v21 v21 v22 v22 v22
+						inv
 					</category_26>
 				</position_26>
 				<position_27>
 					<token_27>
-						ba
+						rftn
 					</token_27>
 					<pos_27>
-						ADV P
+						N V V V V V V V V V
 					</pos_27>
 					<stem_27>
-						ba˝_____1 ba_____1
+						rftn_____1 rftn_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____2 rftn_____3 rftn_____3 rftn_____3
 					</stem_27>
 					<morph_27>
-						 inv
+						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPreparfFam 2*3plPreteritFam
 					</morph_27>
 					<category_27>
-						ADV2 inv
+						N5:c v19 v19 v19 v21 v21 v21 v22 v22 v22
 					</category_27>
 				</position_27>
 				<position_28>
 					<token_28>
-						em
+						ba
 					</token_28>
 					<pos_28>
-						ADV PROindef
+						ADV P
 					</pos_28>
 					<stem_28>
-						em_____1 em_____1
+						ba˝_____1 ba_____1
 					</stem_28>
 					<morph_28>
-						inv inv
+						 inv
 					</morph_28>
 					<category_28>
-						inv inv
+						ADV2 inv
 					</category_28>
 				</position_28>
 				<position_29>
 					<token_29>
-						dygr
+						em
 					</token_29>
 					<pos_29>
-						ADJ ADV DETquant N
+						ADV PROindef
 					</pos_29>
 					<stem_29>
-						dygr_____1 dygr___MTE__1 dygr_____1 dygr_____1
+						em_____1 em_____1
 					</stem_29>
 					<morph_29>
-						  inv Sing
+						inv inv
 					</morph_29>
 					<category_29>
-						ADJ:c ADV1 inv N15:c
+						inv inv
 					</category_29>
 				</position_29>
 				<position_30>
 					<token_30>
-						xwnۀ
+						dygr
 					</token_30>
 					<pos_30>
-						null
+						ADJ ADV DETquant N
 					</pos_30>
 					<stem_30>
-						null
+						dygr_____1 dygr___MTE__1 dygr_____1 dygr_____1
 					</stem_30>
 					<morph_30>
-						null
+						  inv Sing
 					</morph_30>
 					<category_30>
-						null
+						ADJ:c ADV1 inv N15:c
 					</category_30>
 				</position_30>
 				<position_31>
 					<token_31>
-						dxtrš
+						xwnX
 					</token_31>
 					<pos_31>
-						ADJ N N
+						null
 					</pos_31>
 					<stem_31>
-						dxtr_____1 dxtr_____1 dxtr_____2
+						null
 					</stem_31>
 					<morph_31>
-						Pers3s SingPers3s SingPers3s
+						null
 					</morph_31>
 					<category_31>
-						ADJ:c N15:c N5:c
+						null
 					</category_31>
 				</position_31>
 				<position_32>
 					<token_32>
-						.
+						dxtrš
 					</token_32>
 					<pos_32>
-						DELM
+						ADJ N N
 					</pos_32>
 					<stem_32>
-						._____1
+						dxtr_____1 dxtr_____1 dxtr_____2
 					</stem_32>
 					<morph_32>
-						inv
+						Pers3s SingPers3s SingPers3s
 					</morph_32>
 					<category_32>
-						inv
+						ADJ:c N15:c N5:c
 					</category_32>
 				</position_32>
+				<position_33>
+					<token_33>
+						.
+					</token_33>
+					<pos_33>
+						DELM
+					</pos_33>
+					<stem_33>
+						._____1
+					</stem_33>
+					<morph_33>
+						inv
+					</morph_33>
+					<category_33>
+						inv
+					</category_33>
+				</position_33>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1030">
@@ -7315,10 +7485,10 @@
 				 بعد، بود چند وقتی رو چند روزی رو خونۀ دخترش مهمان بود و به او نا کمک میکرد از پشم گوسفندائی که چیده بودن نخ درست کرد و نخ ریسید و از نخ ها بلوزای زمستونه درست کرد واسۀ نوه هاشو کمک شون تو کار های خونه خیلی کمک شون کرد، تا روزی رسید که باید برگرده.
 			</per_sentence>
 			<roman_sentence>
-				b'd , bwd čnd wŕty rw čnd rwzy rw xwnۀ dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasۀ nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde .
+				b'd , bwd čnd wŕty rw čnd rwzy rw xwnX dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasX nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				b'd , bwd čnd wŕty ra čnd razy ra xwnۀ dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnd ke čyde bwdn nx drst krd w nx rystn w az nxea blwzeay zmstan drst krd wasۀ nwe_eayaw kmk ānea tw kar eay xane xyly kmk ānea krd , ta razy rsyd ke bayd brgrde .
+				b'd , bwd čnd wŕty ra čnd razy ra xwnX dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnd ke čyde bwdn nx drst krd w nx rystn w az nxea blwzeay zmstan drst krd wasX nwe_eay aw kmk ānea tw kar eay xane xyly kmk ānea krd , ta razy rsyd ke bayd brgrde .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -7476,7 +7646,7 @@
 				</position_8>
 				<position_9>
 					<token_9>
-						xwnۀ
+						xwnX
 					</token_9>
 					<pos_9>
 						null
@@ -7969,7 +8139,7 @@
 				</position_37>
 				<position_38>
 					<token_38>
-						wasۀ
+						wasX
 					</token_38>
 					<pos_38>
 						null
@@ -7986,327 +8156,344 @@
 				</position_38>
 				<position_39>
 					<token_39>
-						nwe_eayaw
+						nwe_eay
 					</token_39>
 					<pos_39>
-						null
+						N
 					</pos_39>
 					<stem_39>
-						null
+						nwe_____1
 					</stem_39>
 					<morph_39>
-						null
+						PlurEzafe
 					</morph_39>
 					<category_39>
-						null
+						N5:v
 					</category_39>
 				</position_39>
 				<position_40>
 					<token_40>
-						kmk
+						aw
 					</token_40>
 					<pos_40>
-						N
+						N PROpers
 					</pos_40>
 					<stem_40>
-						kmk_____1
+						aw_____1 aw_____1
 					</stem_40>
 					<morph_40>
-						Sing
+						Sing inv
 					</morph_40>
 					<category_40>
-						N5:c
+						N15:c inv
 					</category_40>
 				</position_40>
 				<position_41>
 					<token_41>
-						ānea
+						kmk
 					</token_41>
 					<pos_41>
-						PROpers
+						N
 					</pos_41>
 					<stem_41>
-						ānea___MTE__1
+						kmk_____1
 					</stem_41>
 					<morph_41>
-						inv
+						Sing
 					</morph_41>
 					<category_41>
-						inv
+						N5:c
 					</category_41>
 				</position_41>
 				<position_42>
 					<token_42>
-						tw
+						ānea
 					</token_42>
 					<pos_42>
-						P PROpers
+						PROpers
 					</pos_42>
 					<stem_42>
-						tw_____1 tw_____1
+						ānea___MTE__1
 					</stem_42>
 					<morph_42>
-						inv inv
+						inv
 					</morph_42>
 					<category_42>
-						inv inv
+						inv
 					</category_42>
 				</position_42>
 				<position_43>
 					<token_43>
-						kar
+						tw
 					</token_43>
 					<pos_43>
-						N
+						P PROpers
 					</pos_43>
 					<stem_43>
-						kar_____1
+						tw_____1 tw_____1
 					</stem_43>
 					<morph_43>
-						Sing
+						inv inv
 					</morph_43>
 					<category_43>
-						N5:c
+						inv inv
 					</category_43>
 				</position_43>
 				<position_44>
 					<token_44>
-						eay
+						kar
 					</token_44>
 					<pos_44>
-						null
+						N
 					</pos_44>
 					<stem_44>
-						null
+						kar_____1
 					</stem_44>
 					<morph_44>
-						null
+						Sing
 					</morph_44>
 					<category_44>
-						null
+						N5:c
 					</category_44>
 				</position_44>
 				<position_45>
 					<token_45>
-						xane
+						eay
 					</token_45>
 					<pos_45>
-						N
+						null
 					</pos_45>
 					<stem_45>
-						xane_____1
+						null
 					</stem_45>
 					<morph_45>
-						Sing
+						null
 					</morph_45>
 					<category_45>
-						N5:v
+						null
 					</category_45>
 				</position_45>
 				<position_46>
 					<token_46>
-						xyly
+						xane
 					</token_46>
 					<pos_46>
-						ADV DETquant N N
+						N
 					</pos_46>
 					<stem_46>
-						xyly___MTE__1 xyly_____1 xyl_____1 xyly_____1
+						xane_____1
 					</stem_46>
 					<morph_46>
-						 inv SingIndef Sing
+						Sing
 					</morph_46>
 					<category_46>
-						ADV1 inv N1:c N5:v
+						N5:v
 					</category_46>
 				</position_46>
 				<position_47>
 					<token_47>
-						kmk
+						xyly
 					</token_47>
 					<pos_47>
-						N
+						ADV DETquant N N
 					</pos_47>
 					<stem_47>
-						kmk_____1
+						xyly___MTE__1 xyly_____1 xyl_____1 xyly_____1
 					</stem_47>
 					<morph_47>
-						Sing
+						 inv SingIndef Sing
 					</morph_47>
 					<category_47>
-						N5:c
+						ADV1 inv N1:c N5:v
 					</category_47>
 				</position_47>
 				<position_48>
 					<token_48>
-						ānea
+						kmk
 					</token_48>
 					<pos_48>
-						PROpers
+						N
 					</pos_48>
 					<stem_48>
-						ānea___MTE__1
+						kmk_____1
 					</stem_48>
 					<morph_48>
-						inv
+						Sing
 					</morph_48>
 					<category_48>
-						inv
+						N5:c
 					</category_48>
 				</position_48>
 				<position_49>
 					<token_49>
-						krd
+						ānea
 					</token_49>
 					<pos_49>
-						N V V V V V
+						PROpers
 					</pos_49>
 					<stem_49>
-						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
+						ānea___MTE__1
 					</stem_49>
 					<morph_49>
-						Sing 2*3sgPreterit infApocope 2*3sgPastprog 2*3sgPreterit infApocope
+						inv
 					</morph_49>
 					<category_49>
-						N5:c v22 v22 v28 v28 v28
+						inv
 					</category_49>
 				</position_49>
 				<position_50>
 					<token_50>
-						,
+						krd
 					</token_50>
 					<pos_50>
-						DELM
+						N V V V V V
 					</pos_50>
 					<stem_50>
-						,_____1
+						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
 					</stem_50>
 					<morph_50>
-						inv
+						Sing 2*3sgPreterit infApocope 2*3sgPastprog 2*3sgPreterit infApocope
 					</morph_50>
 					<category_50>
-						inv
+						N5:c v22 v22 v28 v28 v28
 					</category_50>
 				</position_50>
 				<position_51>
 					<token_51>
-						ta
+						,
 					</token_51>
 					<pos_51>
-						CLASSpl ADV P
+						DELM
 					</pos_51>
 					<stem_51>
-						ta_____1 ta_____1 ta_____1
+						,_____1
 					</stem_51>
 					<morph_51>
-						inv inv inv
+						inv
 					</morph_51>
 					<category_51>
-						inv inv inv
+						inv
 					</category_51>
 				</position_51>
 				<position_52>
 					<token_52>
-						razy
+						ta
 					</token_52>
 					<pos_52>
-						N
+						CLASSpl ADV P
 					</pos_52>
 					<stem_52>
-						raz_____1
+						ta_____1 ta_____1 ta_____1
 					</stem_52>
 					<morph_52>
-						SingIndef
+						inv inv inv
 					</morph_52>
 					<category_52>
-						N5:c
+						inv inv inv
 					</category_52>
 				</position_52>
 				<position_53>
 					<token_53>
-						rsyd
+						razy
 					</token_53>
 					<pos_53>
-						V V
+						N
 					</pos_53>
 					<stem_53>
-						rsydn_____1 rsydn_____1
+						raz_____1
 					</stem_53>
 					<morph_53>
-						2*3sgPreterit infApocope
+						SingIndef
 					</morph_53>
 					<category_53>
-						v1 v1
+						N5:c
 					</category_53>
 				</position_53>
 				<position_54>
 					<token_54>
-						ke
+						rsyd
 					</token_54>
 					<pos_54>
-						CONJsubord
+						V V
 					</pos_54>
 					<stem_54>
-						ke_____1
+						rsydn_____1 rsydn_____1
 					</stem_54>
 					<morph_54>
-						inv
+						2*3sgPreterit infApocope
 					</morph_54>
 					<category_54>
-						inv
+						v1 v1
 					</category_54>
 				</position_54>
 				<position_55>
 					<token_55>
-						bayd
+						ke
 					</token_55>
 					<pos_55>
-						N VAUX
+						CONJsubord
 					</pos_55>
 					<stem_55>
-						bayd_____1 baystn_____1
+						ke_____1
 					</stem_55>
 					<morph_55>
-						Sing 3sgPreInd
+						inv
 					</morph_55>
 					<category_55>
-						N5:c v-aux
+						inv
 					</category_55>
 				</position_55>
 				<position_56>
 					<token_56>
-						brgrde
+						bayd
 					</token_56>
 					<pos_56>
-						null
+						N VAUX
 					</pos_56>
 					<stem_56>
-						null
+						bayd_____1 baystn_____1
 					</stem_56>
 					<morph_56>
-						null
+						Sing 3sgPreInd
 					</morph_56>
 					<category_56>
-						null
+						N5:c v-aux
 					</category_56>
 				</position_56>
 				<position_57>
 					<token_57>
-						.
+						brgrde
 					</token_57>
 					<pos_57>
-						DELM
+						null
 					</pos_57>
 					<stem_57>
-						._____1
+						null
 					</stem_57>
 					<morph_57>
-						inv
+						null
 					</morph_57>
 					<category_57>
-						inv
+						null
 					</category_57>
 				</position_57>
+				<position_58>
+					<token_58>
+						.
+					</token_58>
+					<pos_58>
+						DELM
+					</pos_58>
+					<stem_58>
+						._____1
+					</stem_58>
+					<morph_58>
+						inv
+					</morph_58>
+					<category_58>
+						inv
+					</category_58>
+				</position_58>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1031">
@@ -8320,7 +8507,7 @@
 				gft mn myxwam brgrdm ħŕyŕtš tw rae ayn grge wšyre w šqale sr rae mn w grftnd be mn gftn ke ma myxwaym tw rw bxwrymt .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				gft mn myxwam brgštm ħŕyŕtaw tw rae ayn grg wšyr w šqal sr rae mn w grftnd be mn gftnd ke ma myxwaym tw ra bxwrym .
+				gft mn myxwam brgštm ħŕyŕt aw tw rae ayn grg wšyr w šqal sr rae mn w grftnd be mn gftnd ke ma myxwaym tw ra bxwrym .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -8393,395 +8580,412 @@
 				</position_3>
 				<position_4>
 					<token_4>
-						ħŕyŕtaw
+						ħŕyŕt
 					</token_4>
 					<pos_4>
-						null
+						N
 					</pos_4>
 					<stem_4>
-						null
+						ħŕyŕt_____1
 					</stem_4>
 					<morph_4>
-						null
+						Sing
 					</morph_4>
 					<category_4>
-						null
+						N1:c
 					</category_4>
 				</position_4>
 				<position_5>
 					<token_5>
-						tw
+						aw
 					</token_5>
 					<pos_5>
-						P PROpers
+						N PROpers
 					</pos_5>
 					<stem_5>
-						tw_____1 tw_____1
+						aw_____1 aw_____1
 					</stem_5>
 					<morph_5>
-						inv inv
+						Sing inv
 					</morph_5>
 					<category_5>
-						inv inv
+						N15:c inv
 					</category_5>
 				</position_5>
 				<position_6>
 					<token_6>
-						rae
+						tw
 					</token_6>
 					<pos_6>
-						N
+						P PROpers
 					</pos_6>
 					<stem_6>
-						rae_____1
+						tw_____1 tw_____1
 					</stem_6>
 					<morph_6>
-						Sing
+						inv inv
 					</morph_6>
 					<category_6>
-						N5:c
+						inv inv
 					</category_6>
 				</position_6>
 				<position_7>
 					<token_7>
-						ayn
+						rae
 					</token_7>
 					<pos_7>
-						DETdem PROdem
+						N
 					</pos_7>
 					<stem_7>
-						ayn_____1 ayn_____1
+						rae_____1
 					</stem_7>
 					<morph_7>
-						inv inv
+						Sing
 					</morph_7>
 					<category_7>
-						inv inv
+						N5:c
 					</category_7>
 				</position_7>
 				<position_8>
 					<token_8>
-						grg
+						ayn
 					</token_8>
 					<pos_8>
-						N
+						DETdem PROdem
 					</pos_8>
 					<stem_8>
-						grg_____1
+						ayn_____1 ayn_____1
 					</stem_8>
 					<morph_8>
-						Sing
+						inv inv
 					</morph_8>
 					<category_8>
-						N5:c
+						inv inv
 					</category_8>
 				</position_8>
 				<position_9>
 					<token_9>
-						wšyr
+						grg
 					</token_9>
 					<pos_9>
-						null
+						N
 					</pos_9>
 					<stem_9>
-						null
+						grg_____1
 					</stem_9>
 					<morph_9>
-						null
+						Sing
 					</morph_9>
 					<category_9>
-						null
+						N5:c
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						w
+						wšyr
 					</token_10>
 					<pos_10>
-						ADVcoord
+						null
 					</pos_10>
 					<stem_10>
-						w_____1
+						null
 					</stem_10>
 					<morph_10>
-						inv
+						null
 					</morph_10>
 					<category_10>
-						inv
+						null
 					</category_10>
 				</position_10>
 				<position_11>
 					<token_11>
-						šqal
+						w
 					</token_11>
 					<pos_11>
-						N
+						ADVcoord
 					</pos_11>
 					<stem_11>
-						šqal_____1
+						w_____1
 					</stem_11>
 					<morph_11>
-						Sing
+						inv
 					</morph_11>
 					<category_11>
-						N5:c
+						inv
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
-						sr
+						šqal
 					</token_12>
 					<pos_12>
-						N N P
+						N
 					</pos_12>
 					<stem_12>
-						sr_____1 sr_____2 sr_____1
+						šqal_____1
 					</stem_12>
 					<morph_12>
-						Sing Sing inv
+						Sing
 					</morph_12>
 					<category_12>
-						N15:c N5:c inv
+						N5:c
 					</category_12>
 				</position_12>
 				<position_13>
 					<token_13>
-						rae
+						sr
 					</token_13>
 					<pos_13>
-						N
+						N N P
 					</pos_13>
 					<stem_13>
-						rae_____1
+						sr_____1 sr_____2 sr_____1
 					</stem_13>
 					<morph_13>
-						Sing
+						Sing Sing inv
 					</morph_13>
 					<category_13>
-						N5:c
+						N15:c N5:c inv
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
-						mn
+						rae
 					</token_14>
 					<pos_14>
-						AR PROpers
+						N
 					</pos_14>
 					<stem_14>
-						mn_____1 mn_____1
+						rae_____1
 					</stem_14>
 					<morph_14>
-						inv inv
+						Sing
 					</morph_14>
 					<category_14>
-						inv inv
+						N5:c
 					</category_14>
 				</position_14>
 				<position_15>
 					<token_15>
-						w
+						mn
 					</token_15>
 					<pos_15>
-						ADVcoord
+						AR PROpers
 					</pos_15>
 					<stem_15>
-						w_____1
+						mn_____1 mn_____1
 					</stem_15>
 					<morph_15>
-						inv
+						inv inv
 					</morph_15>
 					<category_15>
-						inv
+						inv inv
 					</category_15>
 				</position_15>
 				<position_16>
 					<token_16>
-						grftnd
+						w
 					</token_16>
 					<pos_16>
-						V V
+						ADVcoord
 					</pos_16>
 					<stem_16>
-						grftn_____1 grftn_____1
+						w_____1
 					</stem_16>
 					<morph_16>
-						2*3plPreterit 3plPreparfFam
+						inv
 					</morph_16>
 					<category_16>
-						v22 v22
+						inv
 					</category_16>
 				</position_16>
 				<position_17>
 					<token_17>
-						be
+						grftnd
 					</token_17>
 					<pos_17>
-						N P
+						V V
 					</pos_17>
 					<stem_17>
-						be_____1 be_____1
+						grftn_____1 grftn_____1
 					</stem_17>
 					<morph_17>
-						Sing inv
+						2*3plPreterit 3plPreparfFam
 					</morph_17>
 					<category_17>
-						N5:v inv
+						v22 v22
 					</category_17>
 				</position_17>
 				<position_18>
 					<token_18>
-						mn
+						be
 					</token_18>
 					<pos_18>
-						AR PROpers
+						N P
 					</pos_18>
 					<stem_18>
-						mn_____1 mn_____1
+						be_____1 be_____1
 					</stem_18>
 					<morph_18>
-						inv inv
+						Sing inv
 					</morph_18>
 					<category_18>
-						inv inv
+						N5:v inv
 					</category_18>
 				</position_18>
 				<position_19>
 					<token_19>
-						gftnd
+						mn
 					</token_19>
 					<pos_19>
-						V V V V
+						AR PROpers
 					</pos_19>
 					<stem_19>
-						gftn_____1 gftn_____1 gftn_____2 gftn_____2
+						mn_____1 mn_____1
 					</stem_19>
 					<morph_19>
-						2*3plPreterit 3plPreparfFam 2*3plPreterit 3plPreparfFam
+						inv inv
 					</morph_19>
 					<category_19>
-						v21 v21 v22 v22
+						inv inv
 					</category_19>
 				</position_19>
 				<position_20>
 					<token_20>
-						ke
+						gftnd
 					</token_20>
 					<pos_20>
-						CONJsubord
+						V V V V
 					</pos_20>
 					<stem_20>
-						ke_____1
+						gftn_____1 gftn_____1 gftn_____2 gftn_____2
 					</stem_20>
 					<morph_20>
-						inv
+						2*3plPreterit 3plPreparfFam 2*3plPreterit 3plPreparfFam
 					</morph_20>
 					<category_20>
-						inv
+						v21 v21 v22 v22
 					</category_20>
 				</position_20>
 				<position_21>
 					<token_21>
-						ma
+						ke
 					</token_21>
 					<pos_21>
-						N PROpers
+						CONJsubord
 					</pos_21>
 					<stem_21>
-						ma_____1 ma_____1
+						ke_____1
 					</stem_21>
 					<morph_21>
-						Sing inv
+						inv
 					</morph_21>
 					<category_21>
-						N5:v inv
+						inv
 					</category_21>
 				</position_21>
 				<position_22>
 					<token_22>
-						myxwaym
+						ma
 					</token_22>
 					<pos_22>
-						null
+						N PROpers
 					</pos_22>
 					<stem_22>
-						null
+						ma_____1 ma_____1
 					</stem_22>
 					<morph_22>
-						null
+						Sing inv
 					</morph_22>
 					<category_22>
-						null
+						N5:v inv
 					</category_22>
 				</position_22>
 				<position_23>
 					<token_23>
-						tw
+						myxwaym
 					</token_23>
 					<pos_23>
-						P PROpers
+						null
 					</pos_23>
 					<stem_23>
-						tw_____1 tw_____1
+						null
 					</stem_23>
 					<morph_23>
-						inv inv
+						null
 					</morph_23>
 					<category_23>
-						inv inv
+						null
 					</category_23>
 				</position_23>
 				<position_24>
 					<token_24>
-						ra
+						tw
 					</token_24>
 					<pos_24>
-						P
+						P PROpers
 					</pos_24>
 					<stem_24>
-						ra_____1
+						tw_____1 tw_____1
 					</stem_24>
 					<morph_24>
-						inv
+						inv inv
 					</morph_24>
 					<category_24>
-						inv
+						inv inv
 					</category_24>
 				</position_24>
 				<position_25>
 					<token_25>
-						bxwrym
+						ra
 					</token_25>
 					<pos_25>
-						V
+						P
 					</pos_25>
 					<stem_25>
-						xwrdn_____1
+						ra_____1
 					</stem_25>
 					<morph_25>
-						1plPreSubj
+						inv
 					</morph_25>
 					<category_25>
-						v2
+						inv
 					</category_25>
 				</position_25>
 				<position_26>
 					<token_26>
-						.
+						bxwrym
 					</token_26>
 					<pos_26>
-						DELM
+						V
 					</pos_26>
 					<stem_26>
-						._____1
+						xwrdn_____1
 					</stem_26>
 					<morph_26>
-						inv
+						1plPreSubj
 					</morph_26>
 					<category_26>
-						inv
+						v2
 					</category_26>
 				</position_26>
+				<position_27>
+					<token_27>
+						.
+					</token_27>
+					<pos_27>
+						DELM
+					</pos_27>
+					<stem_27>
+						._____1
+					</stem_27>
+					<morph_27>
+						inv
+					</morph_27>
+					<category_27>
+						inv
+					</category_27>
+				</position_27>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1032">
@@ -8795,7 +8999,7 @@
 				mn em ye jwry ayna rw be ye plwtyky rd krdm , ama alan mwndm ke če kar knm .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				mn em yk jwry aynea ra be yk pltyky rd krdm , ama alan mandm ke če kar knm .
+				mn em yk jwry ayn ea ra be yk pltyky rd krdm , ama alan mandm ke če kar knm .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -8868,30 +9072,30 @@
 				</position_3>
 				<position_4>
 					<token_4>
-						aynea
+						ayn
 					</token_4>
 					<pos_4>
-						PROdem
+						DETdem PROdem
 					</pos_4>
 					<stem_4>
-						aynea___MTE__1
+						ayn_____1 ayn_____1
 					</stem_4>
 					<morph_4>
-						inv
+						inv inv
 					</morph_4>
 					<category_4>
-						inv
+						inv inv
 					</category_4>
 				</position_4>
 				<position_5>
 					<token_5>
-						ra
+						ea
 					</token_5>
 					<pos_5>
-						P
+						INT
 					</pos_5>
 					<stem_5>
-						ra_____1
+						ea_____1
 					</stem_5>
 					<morph_5>
 						inv
@@ -8902,242 +9106,259 @@
 				</position_5>
 				<position_6>
 					<token_6>
-						be
+						ra
 					</token_6>
 					<pos_6>
-						N P
+						P
 					</pos_6>
 					<stem_6>
-						be_____1 be_____1
+						ra_____1
 					</stem_6>
 					<morph_6>
-						Sing inv
+						inv
 					</morph_6>
 					<category_6>
-						N5:v inv
+						inv
 					</category_6>
 				</position_6>
 				<position_7>
 					<token_7>
-						yk
+						be
 					</token_7>
 					<pos_7>
-						DETquant
+						N P
 					</pos_7>
 					<stem_7>
-						yk_____1
+						be_____1 be_____1
 					</stem_7>
 					<morph_7>
-						inv
+						Sing inv
 					</morph_7>
 					<category_7>
-						inv
+						N5:v inv
 					</category_7>
 				</position_7>
 				<position_8>
 					<token_8>
-						pltyky
+						yk
 					</token_8>
 					<pos_8>
-						null
+						DETquant
 					</pos_8>
 					<stem_8>
-						null
+						yk_____1
 					</stem_8>
 					<morph_8>
-						null
+						inv
 					</morph_8>
 					<category_8>
-						null
+						inv
 					</category_8>
 				</position_8>
 				<position_9>
 					<token_9>
-						rd
+						pltyky
 					</token_9>
 					<pos_9>
-						ADJ N
+						null
 					</pos_9>
 					<stem_9>
-						rd_____1 rd_____1
+						null
 					</stem_9>
 					<morph_9>
-						 Sing
+						null
 					</morph_9>
 					<category_9>
-						ADJ:c N5:c
+						null
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						krdm
+						rd
 					</token_10>
 					<pos_10>
-						N V V V V V
+						ADJ N
 					</pos_10>
 					<stem_10>
-						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
+						rd_____1 rd_____1
 					</stem_10>
 					<morph_10>
-						SingPers1s 1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
+						 Sing
 					</morph_10>
 					<category_10>
-						N5:c v22 v22 v28 v28 v28
+						ADJ:c N5:c
 					</category_10>
 				</position_10>
 				<position_11>
 					<token_11>
-						,
+						krdm
 					</token_11>
 					<pos_11>
-						DELM
+						N V V V V V
 					</pos_11>
 					<stem_11>
-						,_____1
+						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
 					</stem_11>
 					<morph_11>
-						inv
+						SingPers1s 1sgPreparfFam 1sgPreterit 1sgPastprog 1sgPreparfFam 1sgPreterit
 					</morph_11>
 					<category_11>
-						inv
+						N5:c v22 v22 v28 v28 v28
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
-						ama
+						,
 					</token_12>
 					<pos_12>
-						ADVcoord N
+						DELM
 					</pos_12>
 					<stem_12>
-						ama_____1 ama_____1
+						,_____1
 					</stem_12>
 					<morph_12>
-						inv Sing
+						inv
 					</morph_12>
 					<category_12>
-						inv N5:v
+						inv
 					</category_12>
 				</position_12>
 				<position_13>
 					<token_13>
-						alan
+						ama
 					</token_13>
 					<pos_13>
-						ADV AR
+						ADVcoord N
 					</pos_13>
 					<stem_13>
-						alan___MTE__1 alan_____1
+						ama_____1 ama_____1
 					</stem_13>
 					<morph_13>
-						 inv
+						inv Sing
 					</morph_13>
 					<category_13>
-						ADV1 inv
+						inv N5:v
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
-						mandm
+						alan
 					</token_14>
 					<pos_14>
-						V V
+						ADV AR
 					</pos_14>
 					<stem_14>
-						mandn_____1 mandn_____1
+						alan___MTE__1 alan_____1
 					</stem_14>
 					<morph_14>
-						1sgPreparfFam 1sgPreterit
+						 inv
 					</morph_14>
 					<category_14>
-						v2 v2
+						ADV1 inv
 					</category_14>
 				</position_14>
 				<position_15>
 					<token_15>
-						ke
+						mandm
 					</token_15>
 					<pos_15>
-						CONJsubord
+						V V
 					</pos_15>
 					<stem_15>
-						ke_____1
+						mandn_____1 mandn_____1
 					</stem_15>
 					<morph_15>
-						inv
+						1sgPreparfFam 1sgPreterit
 					</morph_15>
 					<category_15>
-						inv
+						v2 v2
 					</category_15>
 				</position_15>
 				<position_16>
 					<token_16>
-						če
+						ke
 					</token_16>
 					<pos_16>
-						ADV ADVcoord CONJsubord DETinter N PROinter
+						CONJsubord
 					</pos_16>
 					<stem_16>
-						če_____1 če_____1 če_____2 če_____1 če_____1 če_____1
+						ke_____1
 					</stem_16>
 					<morph_16>
-						 inv inv inv Sing inv
+						inv
 					</morph_16>
 					<category_16>
-						ADV1 inv inv inv N5:v inv
+						inv
 					</category_16>
 				</position_16>
 				<position_17>
 					<token_17>
-						kar
+						če
 					</token_17>
 					<pos_17>
-						N
+						ADV ADVcoord CONJsubord DETinter N PROinter
 					</pos_17>
 					<stem_17>
-						kar_____1
+						če_____1 če_____1 če_____2 če_____1 če_____1 če_____1
 					</stem_17>
 					<morph_17>
-						Sing
+						 inv inv inv Sing inv
 					</morph_17>
 					<category_17>
-						N5:c
+						ADV1 inv inv inv N5:v inv
 					</category_17>
 				</position_17>
 				<position_18>
 					<token_18>
-						knm
+						kar
 					</token_18>
 					<pos_18>
-						PN V V
+						N
 					</pos_18>
 					<stem_18>
-						kn___Cannes__1 krdn_____2 krdn_____2
+						kar_____1
 					</stem_18>
 					<morph_18>
-						SingPers1s 1sgPreInd 1sgPreSubj
+						Sing
 					</morph_18>
 					<category_18>
-						N2:c v28 v28
+						N5:c
 					</category_18>
 				</position_18>
 				<position_19>
 					<token_19>
-						.
+						knm
 					</token_19>
 					<pos_19>
-						DELM
+						PN V V
 					</pos_19>
 					<stem_19>
-						._____1
+						kn___Cannes__1 krdn_____2 krdn_____2
 					</stem_19>
 					<morph_19>
-						inv
+						SingPers1s 1sgPreInd 1sgPreSubj
 					</morph_19>
 					<category_19>
-						inv
+						N2:c v28 v28
 					</category_19>
 				</position_19>
+				<position_20>
+					<token_20>
+						.
+					</token_20>
+					<pos_20>
+						DELM
+					</pos_20>
+					<stem_20>
+						._____1
+					</stem_20>
+					<morph_20>
+						inv
+					</morph_20>
+					<category_20>
+						inv
+					</category_20>
+				</position_20>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1033">
@@ -10973,7 +11194,7 @@
 				ayn emyn ţwr ŕl ŕl ŕl ŕl ŕl ŕl znwn awmd w awmd w awmd awmd ta rsyd be āŕa grge .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				ayn emyn ţwr ql ql ql ql ql ql my_zndw āmd w āmd w āmd āmd ta rsyd be āŕa grg .
+				ayn emyn ţwr ql ql ql ql ql ql my_znd w āmd w āmd w āmd āmd ta rsyd be āŕa grg .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -11131,104 +11352,104 @@
 				</position_8>
 				<position_9>
 					<token_9>
-						my_zndw
+						my_znd
 					</token_9>
 					<pos_9>
-						null
+						V
 					</pos_9>
 					<stem_9>
-						null
+						zdn_____2
 					</stem_9>
 					<morph_9>
-						null
+						2*3sgPreInd
 					</morph_9>
 					<category_9>
-						null
+						v7
 					</category_9>
 				</position_9>
 				<position_10>
 					<token_10>
-						āmd
+						w
 					</token_10>
 					<pos_10>
-						V V
+						ADVcoord
 					</pos_10>
 					<stem_10>
-						āmdn_____1 āmdn_____1
+						w_____1
 					</stem_10>
 					<morph_10>
-						2*3sgPreterit infApocope
+						inv
 					</morph_10>
 					<category_10>
-						v24:v v24:v
+						inv
 					</category_10>
 				</position_10>
 				<position_11>
 					<token_11>
-						w
+						āmd
 					</token_11>
 					<pos_11>
-						ADVcoord
+						V V
 					</pos_11>
 					<stem_11>
-						w_____1
+						āmdn_____1 āmdn_____1
 					</stem_11>
 					<morph_11>
-						inv
+						2*3sgPreterit infApocope
 					</morph_11>
 					<category_11>
-						inv
+						v24:v v24:v
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
-						āmd
+						w
 					</token_12>
 					<pos_12>
-						V V
+						ADVcoord
 					</pos_12>
 					<stem_12>
-						āmdn_____1 āmdn_____1
+						w_____1
 					</stem_12>
 					<morph_12>
-						2*3sgPreterit infApocope
+						inv
 					</morph_12>
 					<category_12>
-						v24:v v24:v
+						inv
 					</category_12>
 				</position_12>
 				<position_13>
 					<token_13>
-						w
+						āmd
 					</token_13>
 					<pos_13>
-						ADVcoord
+						V V
 					</pos_13>
 					<stem_13>
-						w_____1
+						āmdn_____1 āmdn_____1
 					</stem_13>
 					<morph_13>
-						inv
+						2*3sgPreterit infApocope
 					</morph_13>
 					<category_13>
-						inv
+						v24:v v24:v
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
-						āmd
+						w
 					</token_14>
 					<pos_14>
-						V V
+						ADVcoord
 					</pos_14>
 					<stem_14>
-						āmdn_____1 āmdn_____1
+						w_____1
 					</stem_14>
 					<morph_14>
-						2*3sgPreterit infApocope
+						inv
 					</morph_14>
 					<category_14>
-						v24:v v24:v
+						inv
 					</category_14>
 				</position_14>
 				<position_15>
@@ -11250,106 +11471,123 @@
 				</position_15>
 				<position_16>
 					<token_16>
-						ta
+						āmd
 					</token_16>
 					<pos_16>
-						CLASSpl ADV P
+						V V
 					</pos_16>
 					<stem_16>
-						ta_____1 ta_____1 ta_____1
+						āmdn_____1 āmdn_____1
 					</stem_16>
 					<morph_16>
-						inv inv inv
+						2*3sgPreterit infApocope
 					</morph_16>
 					<category_16>
-						inv inv inv
+						v24:v v24:v
 					</category_16>
 				</position_16>
 				<position_17>
 					<token_17>
-						rsyd
+						ta
 					</token_17>
 					<pos_17>
-						V V
+						CLASSpl ADV P
 					</pos_17>
 					<stem_17>
-						rsydn_____1 rsydn_____1
+						ta_____1 ta_____1 ta_____1
 					</stem_17>
 					<morph_17>
-						2*3sgPreterit infApocope
+						inv inv inv
 					</morph_17>
 					<category_17>
-						v1 v1
+						inv inv inv
 					</category_17>
 				</position_17>
 				<position_18>
 					<token_18>
-						be
+						rsyd
 					</token_18>
 					<pos_18>
-						N P
+						V V
 					</pos_18>
 					<stem_18>
-						be_____1 be_____1
+						rsydn_____1 rsydn_____1
 					</stem_18>
 					<morph_18>
-						Sing inv
+						2*3sgPreterit infApocope
 					</morph_18>
 					<category_18>
-						N5:v inv
+						v1 v1
 					</category_18>
 				</position_18>
 				<position_19>
 					<token_19>
-						āŕa
+						be
 					</token_19>
 					<pos_19>
-						INTexcl N INTexcl
+						N P
 					</pos_19>
 					<stem_19>
-						āŕa_____1 āŕa_____1 āŕa_____1
+						be_____1 be_____1
 					</stem_19>
 					<morph_19>
-						inv Sing inv
+						Sing inv
 					</morph_19>
 					<category_19>
-						inv N1:v inv
+						N5:v inv
 					</category_19>
 				</position_19>
 				<position_20>
 					<token_20>
-						grg
+						āŕa
 					</token_20>
 					<pos_20>
-						N
+						INTexcl N INTexcl
 					</pos_20>
 					<stem_20>
-						grg_____1
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_20>
 					<morph_20>
-						Sing
+						inv Sing inv
 					</morph_20>
 					<category_20>
-						N5:c
+						inv N1:v inv
 					</category_20>
 				</position_20>
 				<position_21>
 					<token_21>
-						.
+						grg
 					</token_21>
 					<pos_21>
-						DELM
+						N
 					</pos_21>
 					<stem_21>
-						._____1
+						grg_____1
 					</stem_21>
 					<morph_21>
-						inv
+						Sing
 					</morph_21>
 					<category_21>
-						inv
+						N5:c
 					</category_21>
 				</position_21>
+				<position_22>
+					<token_22>
+						.
+					</token_22>
+					<pos_22>
+						DELM
+					</pos_22>
+					<stem_22>
+						._____1
+					</stem_22>
+					<morph_22>
+						inv
+					</morph_22>
+					<category_22>
+						inv
+					</category_22>
+				</position_22>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1042">
@@ -11937,7 +12175,7 @@
 				ayn baz emanţwr ŕl ŕl ŕl znwn awmd w awmd w awmd w awmd ta rsyd be āŕa šqale .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				ayn baz emanţwr ql ql ql my_zndw āmd w āmd w āmd w āmd ta rsyd be āŕa šqal .
+				ayn baz eman ţwr ql ql ql my_znd w āmd w āmd w āmd w āmd ta rsyd be āŕa šqal .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -11976,36 +12214,36 @@
 				</position_1>
 				<position_2>
 					<token_2>
-						emanţwr
+						eman
 					</token_2>
 					<pos_2>
-						ADV DETdem PN
+						ADJ DETdem N PROdem
 					</pos_2>
 					<stem_2>
-						emanţwr_____1 emanţwr_____1 emanţwr_____1
+						e_____1 eman_____1 eman_____1 eman_____1
 					</stem_2>
 					<morph_2>
-						inv inv inv
+						Pers1p inv Sing inv
 					</morph_2>
 					<category_2>
-						inv inv inv
+						ADJ:v inv N5:c inv
 					</category_2>
 				</position_2>
 				<position_3>
 					<token_3>
-						ql
+						ţwr
 					</token_3>
 					<pos_3>
 						N
 					</pos_3>
 					<stem_3>
-						ql_____1
+						ţwr_____1
 					</stem_3>
 					<morph_3>
 						Sing
 					</morph_3>
 					<category_3>
-						N1:c
+						N5:c
 					</category_3>
 				</position_3>
 				<position_4>
@@ -12044,36 +12282,36 @@
 				</position_5>
 				<position_6>
 					<token_6>
-						my_zndw
+						ql
 					</token_6>
 					<pos_6>
-						null
+						N
 					</pos_6>
 					<stem_6>
-						null
+						ql_____1
 					</stem_6>
 					<morph_6>
-						null
+						Sing
 					</morph_6>
 					<category_6>
-						null
+						N1:c
 					</category_6>
 				</position_6>
 				<position_7>
 					<token_7>
-						āmd
+						my_znd
 					</token_7>
 					<pos_7>
-						V V
+						V
 					</pos_7>
 					<stem_7>
-						āmdn_____1 āmdn_____1
+						zdn_____2
 					</stem_7>
 					<morph_7>
-						2*3sgPreterit infApocope
+						2*3sgPreInd
 					</morph_7>
 					<category_7>
-						v24:v v24:v
+						v7
 					</category_7>
 				</position_7>
 				<position_8>
@@ -12180,106 +12418,140 @@
 				</position_13>
 				<position_14>
 					<token_14>
-						ta
+						w
 					</token_14>
 					<pos_14>
-						CLASSpl ADV P
+						ADVcoord
 					</pos_14>
 					<stem_14>
-						ta_____1 ta_____1 ta_____1
+						w_____1
 					</stem_14>
 					<morph_14>
-						inv inv inv
+						inv
 					</morph_14>
 					<category_14>
-						inv inv inv
+						inv
 					</category_14>
 				</position_14>
 				<position_15>
 					<token_15>
-						rsyd
+						āmd
 					</token_15>
 					<pos_15>
 						V V
 					</pos_15>
 					<stem_15>
-						rsydn_____1 rsydn_____1
+						āmdn_____1 āmdn_____1
 					</stem_15>
 					<morph_15>
 						2*3sgPreterit infApocope
 					</morph_15>
 					<category_15>
-						v1 v1
+						v24:v v24:v
 					</category_15>
 				</position_15>
 				<position_16>
 					<token_16>
-						be
+						ta
 					</token_16>
 					<pos_16>
-						N P
+						CLASSpl ADV P
 					</pos_16>
 					<stem_16>
-						be_____1 be_____1
+						ta_____1 ta_____1 ta_____1
 					</stem_16>
 					<morph_16>
-						Sing inv
+						inv inv inv
 					</morph_16>
 					<category_16>
-						N5:v inv
+						inv inv inv
 					</category_16>
 				</position_16>
 				<position_17>
 					<token_17>
-						āŕa
+						rsyd
 					</token_17>
 					<pos_17>
-						INTexcl N INTexcl
+						V V
 					</pos_17>
 					<stem_17>
-						āŕa_____1 āŕa_____1 āŕa_____1
+						rsydn_____1 rsydn_____1
 					</stem_17>
 					<morph_17>
-						inv Sing inv
+						2*3sgPreterit infApocope
 					</morph_17>
 					<category_17>
-						inv N1:v inv
+						v1 v1
 					</category_17>
 				</position_17>
 				<position_18>
 					<token_18>
-						šqal
+						be
 					</token_18>
 					<pos_18>
-						N
+						N P
 					</pos_18>
 					<stem_18>
-						šqal_____1
+						be_____1 be_____1
 					</stem_18>
 					<morph_18>
-						Sing
+						Sing inv
 					</morph_18>
 					<category_18>
-						N5:c
+						N5:v inv
 					</category_18>
 				</position_18>
 				<position_19>
 					<token_19>
-						.
+						āŕa
 					</token_19>
 					<pos_19>
-						DELM
+						INTexcl N INTexcl
 					</pos_19>
 					<stem_19>
-						._____1
+						āŕa_____1 āŕa_____1 āŕa_____1
 					</stem_19>
 					<morph_19>
-						inv
+						inv Sing inv
 					</morph_19>
 					<category_19>
-						inv
+						inv N1:v inv
 					</category_19>
 				</position_19>
+				<position_20>
+					<token_20>
+						šqal
+					</token_20>
+					<pos_20>
+						N
+					</pos_20>
+					<stem_20>
+						šqal_____1
+					</stem_20>
+					<morph_20>
+						Sing
+					</morph_20>
+					<category_20>
+						N5:c
+					</category_20>
+				</position_20>
+				<position_21>
+					<token_21>
+						.
+					</token_21>
+					<pos_21>
+						DELM
+					</pos_21>
+					<stem_21>
+						._____1
+					</stem_21>
+					<morph_21>
+						inv
+					</morph_21>
+					<category_21>
+						inv
+					</category_21>
+				</position_21>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1047">
@@ -12782,7 +13054,7 @@
 				ayn fkr krd ke bayd , yk čyzy baše , tw ayn kdw , kdw rw blnd krd w bala srš kwbyd zmyn .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				ayn fkr krd ke bayd , yk čyzy baše , tw ayn kdw , kdw ra blnd krd w bala sraw kwbyd zmyn .
+				ayn fkr krd ke bayd , yk čyzy baše , tw ayn kdw , kdw ra blnd krd w bala sr aw kwbyd zmyn .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -13125,72 +13397,89 @@
 				</position_19>
 				<position_20>
 					<token_20>
-						sraw
+						sr
 					</token_20>
 					<pos_20>
-						null
+						N N P
 					</pos_20>
 					<stem_20>
-						null
+						sr_____1 sr_____2 sr_____1
 					</stem_20>
 					<morph_20>
-						null
+						Sing Sing inv
 					</morph_20>
 					<category_20>
-						null
+						N15:c N5:c inv
 					</category_20>
 				</position_20>
 				<position_21>
 					<token_21>
-						kwbyd
+						aw
 					</token_21>
 					<pos_21>
-						null
+						N PROpers
 					</pos_21>
 					<stem_21>
-						null
+						aw_____1 aw_____1
 					</stem_21>
 					<morph_21>
-						null
+						Sing inv
 					</morph_21>
 					<category_21>
-						null
+						N15:c inv
 					</category_21>
 				</position_21>
 				<position_22>
 					<token_22>
-						zmyn
+						kwbyd
 					</token_22>
 					<pos_22>
-						N
+						null
 					</pos_22>
 					<stem_22>
-						zmyn_____1
+						null
 					</stem_22>
 					<morph_22>
-						Sing
+						null
 					</morph_22>
 					<category_22>
-						N5:c
+						null
 					</category_22>
 				</position_22>
 				<position_23>
 					<token_23>
-						.
+						zmyn
 					</token_23>
 					<pos_23>
-						DELM
+						N
 					</pos_23>
 					<stem_23>
-						._____1
+						zmyn_____1
 					</stem_23>
 					<morph_23>
-						inv
+						Sing
 					</morph_23>
 					<category_23>
-						inv
+						N5:c
 					</category_23>
 				</position_23>
+				<position_24>
+					<token_24>
+						.
+					</token_24>
+					<pos_24>
+						DELM
+					</pos_24>
+					<stem_24>
+						._____1
+					</stem_24>
+					<morph_24>
+						inv
+					</morph_24>
+					<category_24>
+						inv
+					</category_24>
+				</position_24>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1052">
@@ -13339,7 +13628,7 @@
 				xale pyr zn az mywnš awmd byrwn .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				xale pyr zn az myanaw āmdn byrwn .
+				xale pyr zn az myan aw āmdn byrwn .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -13412,72 +13701,89 @@
 				</position_3>
 				<position_4>
 					<token_4>
-						myanaw
+						myan
 					</token_4>
 					<pos_4>
-						null
+						N P
 					</pos_4>
 					<stem_4>
-						null
+						myan_____1 myan_____1
 					</stem_4>
 					<morph_4>
-						null
+						Sing inv
 					</morph_4>
 					<category_4>
-						null
+						N1:c inv
 					</category_4>
 				</position_4>
 				<position_5>
 					<token_5>
-						āmdn
+						aw
 					</token_5>
 					<pos_5>
-						V V V
+						N PROpers
 					</pos_5>
 					<stem_5>
-						āmdn_____1 āmdn_____1 āmdn_____1
+						aw_____1 aw_____1
 					</stem_5>
 					<morph_5>
-						*10*inf 2*3plPreparfFam 2*3plPreteritFam
+						Sing inv
 					</morph_5>
 					<category_5>
-						v24:v v24:v v24:v
+						N15:c inv
 					</category_5>
 				</position_5>
 				<position_6>
 					<token_6>
-						byrwn
+						āmdn
 					</token_6>
 					<pos_6>
-						ADJ ADV P
+						V V V
 					</pos_6>
 					<stem_6>
-						byrwn_____1 byrwn_____1 byrwn_____1
+						āmdn_____1 āmdn_____1 āmdn_____1
 					</stem_6>
 					<morph_6>
-						  inv
+						*10*inf 2*3plPreparfFam 2*3plPreteritFam
 					</morph_6>
 					<category_6>
-						ADJ:c ADV1 inv
+						v24:v v24:v v24:v
 					</category_6>
 				</position_6>
 				<position_7>
 					<token_7>
-						.
+						byrwn
 					</token_7>
 					<pos_7>
-						DELM
+						ADJ ADV P
 					</pos_7>
 					<stem_7>
-						._____1
+						byrwn_____1 byrwn_____1 byrwn_____1
 					</stem_7>
 					<morph_7>
-						inv
+						  inv
 					</morph_7>
 					<category_7>
-						inv
+						ADJ:c ADV1 inv
 					</category_7>
 				</position_7>
+				<position_8>
+					<token_8>
+						.
+					</token_8>
+					<pos_8>
+						DELM
+					</pos_8>
+					<stem_8>
+						._____1
+					</stem_8>
+					<morph_8>
+						inv
+					</morph_8>
+					<category_8>
+						inv
+					</category_8>
+				</position_8>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1054">
@@ -13881,7 +14187,7 @@
 				b'd albte jwr dygry em estš ke dad w fryad mykne w az dad w fryad ayn kšawrzany ke  awn dwr br bwdnd nzdyk bwdn ba byl w das w awn čyz ea´y ke , wsayl kšawrzy ke , daštnd be dad w fryad ayn myrsnd wawnarw tar myknnd az dwr wr aynw b'd yxale pyr zn w rwy alaq ya ŕaţry mynšwnnd w mybrnš be xwne aš .
 			</roman_sentence>
 			<roman_sentence_replaced>
-				b'd albte jwr dygry em ast ke dad w fryad my_knd w az dad w fryad ayn kšawrzany ke  awn dwr br bwdnd nzdyk bwdn ba byl w das w awn čyz_eay ke , wsayl kšawrzy ke , daštnd be dad w fryad ayn myrsnd āneara tar my_knnd az dwr wr aynra b'd ykxale pyr zn w rwy alaq ya ŕaţry my_nšwnnd w my_brd be xwne aš .
+				b'd albte jwr dygry em ast ke dad w fryad my_knd w az dad w fryad ayn kšawrzany ke  awn dwr br bwdnd nzdyk bwdn ba byl w das w awn čyz_eay ke , wsayl kšawrzy ke , daštnd be dad w fryad ayn myrsnd ānea ra tar my_knnd az dwr wr ayn ra b'd yk xale pyr zn w rwy alaq ya ŕaţry my_nšwnnd w my_brd be xwne aš .
 			</roman_sentence_replaced>
 			<token_replaced>
 				<position_0>
@@ -14651,251 +14957,251 @@
 				</position_44>
 				<position_45>
 					<token_45>
-						āneara
+						ānea
 					</token_45>
 					<pos_45>
-						null
+						PROpers
 					</pos_45>
 					<stem_45>
-						null
+						ānea___MTE__1
 					</stem_45>
 					<morph_45>
-						null
+						inv
 					</morph_45>
 					<category_45>
-						null
+						inv
 					</category_45>
 				</position_45>
 				<position_46>
 					<token_46>
-						tar
+						ra
 					</token_46>
 					<pos_46>
-						ADJ N
+						P
 					</pos_46>
 					<stem_46>
-						tar_____1 tar_____1
+						ra_____1
 					</stem_46>
 					<morph_46>
-						 Sing
+						inv
 					</morph_46>
 					<category_46>
-						ADJ:c N5:c
+						inv
 					</category_46>
 				</position_46>
 				<position_47>
 					<token_47>
-						my_knnd
+						tar
 					</token_47>
 					<pos_47>
-						V V
+						ADJ N
 					</pos_47>
 					<stem_47>
-						kndn_____1 krdn_____1
+						tar_____1 tar_____1
 					</stem_47>
 					<morph_47>
-						2*3plPreInd 2*3plPreInd
+						 Sing
 					</morph_47>
 					<category_47>
-						v2 v22
+						ADJ:c N5:c
 					</category_47>
 				</position_47>
 				<position_48>
 					<token_48>
-						az
+						my_knnd
 					</token_48>
 					<pos_48>
-						P
+						V V
 					</pos_48>
 					<stem_48>
-						az_____1
+						kndn_____1 krdn_____1
 					</stem_48>
 					<morph_48>
-						inv
+						2*3plPreInd 2*3plPreInd
 					</morph_48>
 					<category_48>
-						inv
+						v2 v22
 					</category_48>
 				</position_48>
 				<position_49>
 					<token_49>
-						dwr
+						az
 					</token_49>
 					<pos_49>
-						ADJ ADV N N P
+						P
 					</pos_49>
 					<stem_49>
-						dwr_____1 dwr___MTE__1 dwr_____1 dwr_____2 dwr___MTE__1
+						az_____1
 					</stem_49>
 					<morph_49>
-						  Sing Sing inv
+						inv
 					</morph_49>
 					<category_49>
-						ADJ:c ADV1 N15:c N5:c inv
+						inv
 					</category_49>
 				</position_49>
 				<position_50>
 					<token_50>
-						wr
+						dwr
 					</token_50>
 					<pos_50>
-						ADV ADVcond N
+						ADJ ADV N N P
 					</pos_50>
 					<stem_50>
-						wr_____1 wr_____2 wr_____1
+						dwr_____1 dwr___MTE__1 dwr_____1 dwr_____2 dwr___MTE__1
 					</stem_50>
 					<morph_50>
-						inv inv Sing
+						  Sing Sing inv
 					</morph_50>
 					<category_50>
-						inv inv N1:c
+						ADJ:c ADV1 N15:c N5:c inv
 					</category_50>
 				</position_50>
 				<position_51>
 					<token_51>
-						aynra
+						wr
 					</token_51>
 					<pos_51>
-						null
+						ADV ADVcond N
 					</pos_51>
 					<stem_51>
-						null
+						wr_____1 wr_____2 wr_____1
 					</stem_51>
 					<morph_51>
-						null
+						inv inv Sing
 					</morph_51>
 					<category_51>
-						null
+						inv inv N1:c
 					</category_51>
 				</position_51>
 				<position_52>
 					<token_52>
-						b'd
+						ayn
 					</token_52>
 					<pos_52>
-						ADJ ADV ADVcoord N
+						DETdem PROdem
 					</pos_52>
 					<stem_52>
-						b'd_____1 b'd___MTE__1 b'd_____1 b'd_____1
+						ayn_____1 ayn_____1
 					</stem_52>
 					<morph_52>
-						  inv Sing
+						inv inv
 					</morph_52>
 					<category_52>
-						ADJ:c ADV1 inv N5:c
+						inv inv
 					</category_52>
 				</position_52>
 				<position_53>
 					<token_53>
-						ykxale
+						ra
 					</token_53>
 					<pos_53>
-						null
+						P
 					</pos_53>
 					<stem_53>
-						null
+						ra_____1
 					</stem_53>
 					<morph_53>
-						null
+						inv
 					</morph_53>
 					<category_53>
-						null
+						inv
 					</category_53>
 				</position_53>
 				<position_54>
 					<token_54>
-						pyr
+						b'd
 					</token_54>
 					<pos_54>
-						ADJ N N
+						ADJ ADV ADVcoord N
 					</pos_54>
 					<stem_54>
-						pyr_____1 pyr_____1 pyr_____2
+						b'd_____1 b'd___MTE__1 b'd_____1 b'd_____1
 					</stem_54>
 					<morph_54>
-						 Sing Sing
+						  inv Sing
 					</morph_54>
 					<category_54>
-						ADJ:c N15:c N5:c
+						ADJ:c ADV1 inv N5:c
 					</category_54>
 				</position_54>
 				<position_55>
 					<token_55>
-						zn
+						yk
 					</token_55>
 					<pos_55>
-						ADJ N N V V
+						DETquant
 					</pos_55>
 					<stem_55>
-						zn_____1 zn_____1 zn_____2 zdn_____1 zdn_____1
+						yk_____1
 					</stem_55>
 					<morph_55>
-						 Sing Sing ProhibNormForm imperNorm
+						inv
 					</morph_55>
 					<category_55>
-						ADJ:c N15:c N5:c v28 v28
+						inv
 					</category_55>
 				</position_55>
 				<position_56>
 					<token_56>
-						w
+						xale
 					</token_56>
 					<pos_56>
-						ADVcoord
+						N
 					</pos_56>
 					<stem_56>
-						w_____1
+						xale_____1
 					</stem_56>
 					<morph_56>
-						inv
+						Sing
 					</morph_56>
 					<category_56>
-						inv
+						N5:v
 					</category_56>
 				</position_56>
 				<position_57>
 					<token_57>
-						rwy
+						pyr
 					</token_57>
 					<pos_57>
-						N N P P
+						ADJ N N
 					</pos_57>
 					<stem_57>
-						rw_____1 rwy_____1 rwy_____1 rwy_____2
+						pyr_____1 pyr_____1 pyr_____2
 					</stem_57>
 					<morph_57>
-						SingEzafe Sing inv inv
+						 Sing Sing
 					</morph_57>
 					<category_57>
-						N1:v N1:v inv inv
+						ADJ:c N15:c N5:c
 					</category_57>
 				</position_57>
 				<position_58>
 					<token_58>
-						alaq
+						zn
 					</token_58>
 					<pos_58>
-						null
+						ADJ N N V V
 					</pos_58>
 					<stem_58>
-						null
+						zn_____1 zn_____1 zn_____2 zdn_____1 zdn_____1
 					</stem_58>
 					<morph_58>
-						null
+						 Sing Sing ProhibNormForm imperNorm
 					</morph_58>
 					<category_58>
-						null
+						ADJ:c N15:c N5:c v28 v28
 					</category_58>
 				</position_58>
 				<position_59>
 					<token_59>
-						ya
+						w
 					</token_59>
 					<pos_59>
 						ADVcoord
 					</pos_59>
 					<stem_59>
-						ya_____1
+						w_____1
 					</stem_59>
 					<morph_59>
 						inv
@@ -14906,24 +15212,24 @@
 				</position_59>
 				<position_60>
 					<token_60>
-						ŕaţry
+						rwy
 					</token_60>
 					<pos_60>
-						N
+						N N P P
 					</pos_60>
 					<stem_60>
-						ŕaţr_____1
+						rw_____1 rwy_____1 rwy_____1 rwy_____2
 					</stem_60>
 					<morph_60>
-						SingIndef
+						SingEzafe Sing inv inv
 					</morph_60>
 					<category_60>
-						N5:c
+						N1:v N1:v inv inv
 					</category_60>
 				</position_60>
 				<position_61>
 					<token_61>
-						my_nšwnnd
+						alaq
 					</token_61>
 					<pos_61>
 						null
@@ -14940,13 +15246,13 @@
 				</position_61>
 				<position_62>
 					<token_62>
-						w
+						ya
 					</token_62>
 					<pos_62>
 						ADVcoord
 					</pos_62>
 					<stem_62>
-						w_____1
+						ya_____1
 					</stem_62>
 					<morph_62>
 						inv
@@ -14957,89 +15263,140 @@
 				</position_62>
 				<position_63>
 					<token_63>
-						my_brd
+						ŕaţry
 					</token_63>
 					<pos_63>
-						V V V
+						N
 					</pos_63>
 					<stem_63>
-						brdn_____1 brdn_____1 brydn_____1
+						ŕaţr_____1
 					</stem_63>
 					<morph_63>
-						2*3sgPastprog 2*3sgPreInd 2*3sgPreInd
+						SingIndef
 					</morph_63>
 					<category_63>
-						v2 v2 v1
+						N5:c
 					</category_63>
 				</position_63>
 				<position_64>
 					<token_64>
-						be
+						my_nšwnnd
 					</token_64>
 					<pos_64>
-						N P
+						null
 					</pos_64>
 					<stem_64>
-						be_____1 be_____1
+						null
 					</stem_64>
 					<morph_64>
-						Sing inv
+						null
 					</morph_64>
 					<category_64>
-						N5:v inv
+						null
 					</category_64>
 				</position_64>
 				<position_65>
 					<token_65>
-						xwne
+						w
 					</token_65>
 					<pos_65>
-						N
+						ADVcoord
 					</pos_65>
 					<stem_65>
-						xwne_____1
+						w_____1
 					</stem_65>
 					<morph_65>
-						Sing
+						inv
 					</morph_65>
 					<category_65>
-						N5:v
+						inv
 					</category_65>
 				</position_65>
 				<position_66>
 					<token_66>
-						aš
+						my_brd
 					</token_66>
 					<pos_66>
-						null
+						V V V
 					</pos_66>
 					<stem_66>
-						null
+						brdn_____1 brdn_____1 brydn_____1
 					</stem_66>
 					<morph_66>
-						null
+						2*3sgPastprog 2*3sgPreInd 2*3sgPreInd
 					</morph_66>
 					<category_66>
-						null
+						v2 v2 v1
 					</category_66>
 				</position_66>
 				<position_67>
 					<token_67>
-						.
+						be
 					</token_67>
 					<pos_67>
-						DELM
+						N P
 					</pos_67>
 					<stem_67>
-						._____1
+						be_____1 be_____1
 					</stem_67>
 					<morph_67>
-						inv
+						Sing inv
 					</morph_67>
 					<category_67>
-						inv
+						N5:v inv
 					</category_67>
 				</position_67>
+				<position_68>
+					<token_68>
+						xwne
+					</token_68>
+					<pos_68>
+						N
+					</pos_68>
+					<stem_68>
+						xwne_____1
+					</stem_68>
+					<morph_68>
+						Sing
+					</morph_68>
+					<category_68>
+						N5:v
+					</category_68>
+				</position_68>
+				<position_69>
+					<token_69>
+						aš
+					</token_69>
+					<pos_69>
+						null
+					</pos_69>
+					<stem_69>
+						null
+					</stem_69>
+					<morph_69>
+						null
+					</morph_69>
+					<category_69>
+						null
+					</category_69>
+				</position_69>
+				<position_70>
+					<token_70>
+						.
+					</token_70>
+					<pos_70>
+						DELM
+					</pos_70>
+					<stem_70>
+						._____1
+					</stem_70>
+					<morph_70>
+						inv
+					</morph_70>
+					<category_70>
+						inv
+					</category_70>
+				</position_70>
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1056">

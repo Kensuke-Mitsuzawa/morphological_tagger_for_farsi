@@ -136,7 +136,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "ayn xale pyr zn sal_eay sal ayn snjdea ra jm' krd w yk kyse_ay drst krd w ryxt twyān w , gđašt ray srš , w ba yk mŕdary nan ke  be razۀ ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke brwd xane dxtrš .", 
+        "after_conv_sentence": "ayn xale pyr zn sal_eay sal ayn snjdea ra jm' krd w yk kyse_ay drst krd w ryxt twy ān w , gđašt ray srš , w ba yk mŕdary nan ke  be razX ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke brwd xane dxtrš .", 
         "tokens": [
             "ayn", 
             "xale", 
@@ -172,7 +172,7 @@
             "nwn", 
             "ke", 
             "be", 
-            "rwzۀ", 
+            "rwzX", 
             "ŕbl", 
             "pxte", 
             "bwd", 
@@ -196,7 +196,7 @@
         ], 
         "sentence_id": 1005, 
         "jpn_sentence": "この老女は毎年、このホソバグミの実を集めて、籠に入れていた。それを頭の上に乗せて、前に焼いておいたナンを持って、家を出て、どんどん歩いて、娘の家に向かった。", 
-        "roman_sentence": "ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzۀ ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš .", 
+        "roman_sentence": "ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzX ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš .", 
         "persian_sentence": " این خاله پیر زن سالهای سال این سنجدها رو جمع کرد و یه کیسه ای درست کرد و ریخت تو ش و، گذاشت روی سرش، و با یک مقداری نون که  به روزۀ قبل پخته بود، راه افتاد و رفت و رفت و رفت و رفت، که بره خونه دخترش.", 
         "after_conv_tokens": [
             "ayn", 
@@ -217,7 +217,8 @@
             "krd", 
             "w", 
             "ryxt", 
-            "twyān", 
+            "twy", 
+            "ān", 
             "w", 
             ",", 
             "gđašt", 
@@ -231,7 +232,7 @@
             "nan", 
             "ke", 
             "be", 
-            "razۀ", 
+            "razX", 
             "ŕbl", 
             "pxte", 
             "bwd", 
@@ -414,7 +415,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "mn brwm be dxtrm sr bznm , yk dydary taze knm , qđa_eay xwb xwb em bxwrm , čaŕ bšm , čle bšm , wŕtke brwmy_gydm , tw mn ra bxwr .", 
+        "after_conv_sentence": "mn brwm be dxtrm sr bznm , yk dydary taze knm , qđa_eay xwb xwb em bxwrm , čaŕ bšm , čle bšm , wŕt ke brwmy_gydm , tw mn ra bxwr .", 
         "tokens": [
             "mn", 
             "brm", 
@@ -478,7 +479,8 @@
             "čle", 
             "bšm", 
             ",", 
-            "wŕtke", 
+            "wŕt", 
+            "ke", 
             "brwmy_gydm", 
             ",", 
             "tw", 
@@ -693,7 +695,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "gft ke ne bgđar mn brwm be dxtrmn sr bznm .", 
+        "after_conv_sentence": "gft ke ne bgđar mn brwm be dxtr mn sr bznm .", 
         "tokens": [
             "gftš", 
             "ke", 
@@ -719,14 +721,15 @@
             "mn", 
             "brwm", 
             "be", 
-            "dxtrmn", 
+            "dxtr", 
+            "mn", 
             "sr", 
             "bznm", 
             "."
         ]
     }, 
     {
-        "after_conv_sentence": "wŕtke br my grdm , čaŕ w člemn šde estm , tw mnw bxwr .", 
+        "after_conv_sentence": "wŕt ke br my grdm , čaŕ w čle mn šde estm , tw mnw bxwr .", 
         "tokens": [
             "wŕtyke", 
             "br", 
@@ -750,14 +753,16 @@
         "roman_sentence": "wŕtyke br my grdm , čaŕ w čle am šde am , tw mnw bxwr .", 
         "persian_sentence": " وقتیکه بر می گردم، چاق و چله ام شده ام، تو منو بخور.", 
         "after_conv_tokens": [
-            "wŕtke", 
+            "wŕt", 
+            "ke", 
             "br", 
             "my", 
             "grdm", 
             ",", 
             "čaŕ", 
             "w", 
-            "člemn", 
+            "čle", 
+            "mn", 
             "šde", 
             "estm", 
             ",", 
@@ -789,7 +794,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "āmd w āmd w baz msaftra ţy krd , ta rsyd be āŕa šyr .", 
+        "after_conv_sentence": "āmd w āmd w baz msaft ra ţy krd , ta rsyd be āŕa šyr .", 
         "tokens": [
             "awmd", 
             "w", 
@@ -818,7 +823,8 @@
             "āmd", 
             "w", 
             "baz", 
-            "msaftra", 
+            "msaft", 
+            "ra", 
             "ţy", 
             "krd", 
             ",", 
@@ -884,7 +890,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "xyly grsneast .", 
+        "after_conv_sentence": "xyly grsne ast .", 
         "tokens": [
             "xyly", 
             "grsnme", 
@@ -896,12 +902,13 @@
         "persian_sentence": " خیلی گرسنمه.", 
         "after_conv_tokens": [
             "xyly", 
-            "grsneast", 
+            "grsne", 
+            "ast", 
             "."
         ]
     }, 
     {
-        "after_conv_sentence": "byā ke myxwam twra bxwrm .", 
+        "after_conv_sentence": "byā ke myxwam tw ra bxwrm .", 
         "tokens": [
             "bya", 
             "ke", 
@@ -919,7 +926,8 @@
             "byā", 
             "ke", 
             "myxwam", 
-            "twra", 
+            "tw", 
+            "ra", 
             "bxwrm", 
             "."
         ]
@@ -942,7 +950,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "bgđar mn brwm be dxtrm sr bznm , wŕtke sr zdm w dydar taze krdm w qđaeay xwb xwb awnja xwrdm w čaŕ w čle šdm , tw mnw bxwr .", 
+        "after_conv_sentence": "bgđar mn brwm be dxtrm sr bznm , wŕt ke sr zdm w dydar taze krdm w qđaeay xwb xwb awnja xwrdm w čaŕ w čle šdm , tw mnw bxwr .", 
         "tokens": [
             "bđar", 
             "mn", 
@@ -989,7 +997,8 @@
             "sr", 
             "bznm", 
             ",", 
-            "wŕtke", 
+            "wŕt", 
+            "ke", 
             "sr", 
             "zdm", 
             "w", 
@@ -1015,7 +1024,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "āmd w āmd w āmd w rsyd be xwnۀ dxtrš .", 
+        "after_conv_sentence": "āmd w āmd w āmd w rsyd be xwnX dxtrš .", 
         "tokens": [
             "awmd", 
             "w", 
@@ -1025,13 +1034,13 @@
             "w", 
             "rsyd", 
             "be", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ], 
         "sentence_id": 1028, 
         "jpn_sentence": "どんどん歩いて、娘の家に着いた。", 
-        "roman_sentence": "awmd w awmd w awmd w rsyd be xwnۀ dxtrš .", 
+        "roman_sentence": "awmd w awmd w awmd w rsyd be xwnX dxtrš .", 
         "persian_sentence": " اومد و اومد و اومد و رسید به خونۀ دخترش.", 
         "after_conv_tokens": [
             "āmd", 
@@ -1042,13 +1051,13 @@
             "w", 
             "rsyd", 
             "be", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ]
     }, 
     {
-        "after_conv_sentence": "pšt dr baq ke rsyd dr zd w nwe_eayaw āmdn w dre ra baz krdn w prydn tw bqlš w đwŕ krdn w xwšbaš krdn w rftn ba em dygr xwnۀ dxtrš .", 
+        "after_conv_sentence": "pšt dr baq ke rsyd dr zd w nwe_eay aw āmdn w dre ra baz krdn w prydn tw bqlš w đwŕ krdn w xwšbaš krdn w rftn ba em dygr xwnX dxtrš .", 
         "tokens": [
             "pšt", 
             "dr", 
@@ -1082,13 +1091,13 @@
             "ba", 
             "em", 
             "dyge", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ], 
         "sentence_id": 1029, 
         "jpn_sentence": "庭の扉までやってきて、扉を叩きました。すると、孫たちがやって来て、扉を開けると、そばに飛んできて、喜んで一緒に娘の家に入っていった。", 
-        "roman_sentence": "pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnۀ dxtrš .", 
+        "roman_sentence": "pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnX dxtrš .", 
         "persian_sentence": " پشت در باغ که رسید در زد و نوه هاش اومدن و دره رو باز کردن و پریدن تو بغلش و ذوق کردن و خوش بش کردن و رفتن با هم دیگه خونۀ دخترش.", 
         "after_conv_tokens": [
             "pšt", 
@@ -1099,7 +1108,8 @@
             "dr", 
             "zd", 
             "w", 
-            "nwe_eayaw", 
+            "nwe_eay", 
+            "aw", 
             "āmdn", 
             "w", 
             "dre", 
@@ -1121,13 +1131,13 @@
             "ba", 
             "em", 
             "dygr", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ]
     }, 
     {
-        "after_conv_sentence": "b'd , bwd čnd wŕty ra čnd razy ra xwnۀ dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnd ke čyde bwdn nx drst krd w nx rystn w az nxea blwzeay zmstan drst krd wasۀ nwe_eayaw kmk ānea tw kar eay xane xyly kmk ānea krd , ta razy rsyd ke bayd brgrde .", 
+        "after_conv_sentence": "b'd , bwd čnd wŕty ra čnd razy ra xwnX dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnd ke čyde bwdn nx drst krd w nx rystn w az nxea blwzeay zmstan drst krd wasX nwe_eay aw kmk ānea tw kar eay xane xyly kmk ānea krd , ta razy rsyd ke bayd brgrde .", 
         "tokens": [
             "b'd", 
             ",", 
@@ -1138,7 +1148,7 @@
             "čnd", 
             "rwzy", 
             "rw", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "meman", 
             "bwd", 
@@ -1168,7 +1178,7 @@
             "zmstwne", 
             "drst", 
             "krd", 
-            "wasۀ", 
+            "wasX", 
             "nwe", 
             "eašw", 
             "kmk", 
@@ -1192,7 +1202,7 @@
         ], 
         "sentence_id": 1030, 
         "jpn_sentence": "そして、しばらく何日かの間、娘の家に泊まり、羊から刈った毛から糸を紡いで、冬用の服を作るのを手伝った。孫たちのために、家事もたくさん手伝った。やがて、帰る日になった。", 
-        "roman_sentence": "b'd , bwd čnd wŕty rw čnd rwzy rw xwnۀ dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasۀ nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde .", 
+        "roman_sentence": "b'd , bwd čnd wŕty rw čnd rwzy rw xwnX dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasX nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde .", 
         "persian_sentence": " بعد، بود چند وقتی رو چند روزی رو خونۀ دخترش مهمان بود و به او نا کمک میکرد از پشم گوسفندائی که چیده بودن نخ درست کرد و نخ ریسید و از نخ ها بلوزای زمستونه درست کرد واسۀ نوه هاشو کمک شون تو کار های خونه خیلی کمک شون کرد، تا روزی رسید که باید برگرده.", 
         "after_conv_tokens": [
             "b'd", 
@@ -1204,7 +1214,7 @@
             "čnd", 
             "razy", 
             "ra", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "meman", 
             "bwd", 
@@ -1233,8 +1243,9 @@
             "zmstan", 
             "drst", 
             "krd", 
-            "wasۀ", 
-            "nwe_eayaw", 
+            "wasX", 
+            "nwe_eay", 
+            "aw", 
             "kmk", 
             "ānea", 
             "tw", 
@@ -1256,7 +1267,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "gft mn myxwam brgštm ħŕyŕtaw tw rae ayn grg wšyr w šqal sr rae mn w grftnd be mn gftnd ke ma myxwaym tw ra bxwrym .", 
+        "after_conv_sentence": "gft mn myxwam brgštm ħŕyŕt aw tw rae ayn grg wšyr w šqal sr rae mn w grftnd be mn gftnd ke ma myxwaym tw ra bxwrym .", 
         "tokens": [
             "gft", 
             "mn", 
@@ -1295,7 +1306,8 @@
             "mn", 
             "myxwam", 
             "brgštm", 
-            "ħŕyŕtaw", 
+            "ħŕyŕt", 
+            "aw", 
             "tw", 
             "rae", 
             "ayn", 
@@ -1321,7 +1333,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "mn em yk jwry aynea ra be yk pltyky rd krdm , ama alan mandm ke če kar knm .", 
+        "after_conv_sentence": "mn em yk jwry ayn ea ra be yk pltyky rd krdm , ama alan mandm ke če kar knm .", 
         "tokens": [
             "mn", 
             "em", 
@@ -1353,7 +1365,8 @@
             "em", 
             "yk", 
             "jwry", 
-            "aynea", 
+            "ayn", 
+            "ea", 
             "ra", 
             "be", 
             "yk", 
@@ -1660,7 +1673,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "ayn emyn ţwr ql ql ql ql ql ql my_zndw āmd w āmd w āmd āmd ta rsyd be āŕa grg .", 
+        "after_conv_sentence": "ayn emyn ţwr ql ql ql ql ql ql my_znd w āmd w āmd w āmd āmd ta rsyd be āŕa grg .", 
         "tokens": [
             "ayn", 
             "emyn", 
@@ -1699,7 +1712,8 @@
             "ql", 
             "ql", 
             "ql", 
-            "my_zndw", 
+            "my_znd", 
+            "w", 
             "āmd", 
             "w", 
             "āmd", 
@@ -1819,7 +1833,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "ayn baz emanţwr ql ql ql my_zndw āmd w āmd w āmd w āmd ta rsyd be āŕa šqal .", 
+        "after_conv_sentence": "ayn baz eman ţwr ql ql ql my_znd w āmd w āmd w āmd w āmd ta rsyd be āŕa šqal .", 
         "tokens": [
             "ayn", 
             "baz", 
@@ -1849,11 +1863,13 @@
         "after_conv_tokens": [
             "ayn", 
             "baz", 
-            "emanţwr", 
+            "eman", 
+            "ţwr", 
             "ql", 
             "ql", 
             "ql", 
-            "my_zndw", 
+            "my_znd", 
+            "w", 
             "āmd", 
             "w", 
             "āmd", 
@@ -1964,7 +1980,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "ayn fkr krd ke bayd , yk čyzy baše , tw ayn kdw , kdw ra blnd krd w bala sraw kwbyd zmyn .", 
+        "after_conv_sentence": "ayn fkr krd ke bayd , yk čyzy baše , tw ayn kdw , kdw ra blnd krd w bala sr aw kwbyd zmyn .", 
         "tokens": [
             "ayn", 
             "fkr", 
@@ -2016,7 +2032,8 @@
             "krd", 
             "w", 
             "bala", 
-            "sraw", 
+            "sr", 
+            "aw", 
             "kwbyd", 
             "zmyn", 
             "."
@@ -2048,7 +2065,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "xale pyr zn az myanaw āmdn byrwn .", 
+        "after_conv_sentence": "xale pyr zn az myan aw āmdn byrwn .", 
         "tokens": [
             "xale", 
             "pyr", 
@@ -2068,7 +2085,8 @@
             "pyr", 
             "zn", 
             "az", 
-            "myanaw", 
+            "myan", 
+            "aw", 
             "āmdn", 
             "byrwn", 
             "."
@@ -2130,7 +2148,7 @@
         ]
     }, 
     {
-        "after_conv_sentence": "b'd albte jwr dygry em ast ke dad w fryad my_knd w az dad w fryad ayn kšawrzany ke  awn dwr br bwdnd nzdyk bwdn ba byl w das w awn čyz_eay ke , wsayl kšawrzy ke , daštnd be dad w fryad ayn myrsnd āneara tar my_knnd az dwr wr aynra b'd ykxale pyr zn w rwy alaq ya ŕaţry my_nšwnnd w my_brd be xwne aš .", 
+        "after_conv_sentence": "b'd albte jwr dygry em ast ke dad w fryad my_knd w az dad w fryad ayn kšawrzany ke  awn dwr br bwdnd nzdyk bwdn ba byl w das w awn čyz_eay ke , wsayl kšawrzy ke , daštnd be dad w fryad ayn myrsnd ānea ra tar my_knnd az dwr wr ayn ra b'd yk xale pyr zn w rwy alaq ya ŕaţry my_nšwnnd w my_brd be xwne aš .", 
         "tokens": [
             "b'd", 
             "albte", 
@@ -2252,15 +2270,18 @@
             "fryad", 
             "ayn", 
             "myrsnd", 
-            "āneara", 
+            "ānea", 
+            "ra", 
             "tar", 
             "my_knnd", 
             "az", 
             "dwr", 
             "wr", 
-            "aynra", 
+            "ayn", 
+            "ra", 
             "b'd", 
-            "ykxale", 
+            "yk", 
+            "xale", 
             "pyr", 
             "zn", 
             "w", 

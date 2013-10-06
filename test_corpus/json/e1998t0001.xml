@@ -114,7 +114,7 @@
             "nwn", 
             "ke", 
             "be", 
-            "rwzۀ", 
+            "rwzX", 
             "ŕbl", 
             "pxte", 
             "bwd", 
@@ -138,7 +138,7 @@
         ], 
         "sentence_id": 1005, 
         "jpn_sentence": "この老女は毎年、このホソバグミの実を集めて、籠に入れていた。それを頭の上に乗せて、前に焼いておいたナンを持って、家を出て、どんどん歩いて、娘の家に向かった。", 
-        "roman_sentence": "ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzۀ ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš ."
+        "roman_sentence": "ayn xale pyr zn saleay sal ayn snjdea rw jm' krd w ye kyse ay drst krd w ryxt tw š w , gđašt rwy srš , w ba yk mŕdary nwn ke  be rwzX ŕbl pxte bwd , rae aftad w rft w rft w rft w rft , ke bre xwne dxtrš ."
     }, 
     {
         "persian_sentence": " تو راه که می رفت، بعد از طی کردن مسافتی زیاد رسید به یه شغاله(۲).", 
@@ -588,13 +588,13 @@
             "w", 
             "rsyd", 
             "be", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ], 
         "sentence_id": 1028, 
         "jpn_sentence": "どんどん歩いて、娘の家に着いた。", 
-        "roman_sentence": "awmd w awmd w awmd w rsyd be xwnۀ dxtrš ."
+        "roman_sentence": "awmd w awmd w awmd w rsyd be xwnX dxtrš ."
     }, 
     {
         "persian_sentence": " پشت در باغ که رسید در زد و نوه هاش اومدن و دره رو باز کردن و پریدن تو بغلش و ذوق کردن و خوش بش کردن و رفتن با هم دیگه خونۀ دخترش.", 
@@ -631,13 +631,13 @@
             "ba", 
             "em", 
             "dyge", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "."
         ], 
         "sentence_id": 1029, 
         "jpn_sentence": "庭の扉までやってきて、扉を叩きました。すると、孫たちがやって来て、扉を開けると、そばに飛んできて、喜んで一緒に娘の家に入っていった。", 
-        "roman_sentence": "pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnۀ dxtrš ."
+        "roman_sentence": "pšt dr baq ke rsyd dr zd w nwe eaš awmdn w dre rw baz krdn w prydn tw bqlš w đwŕ krdn w xwš bš krdn w rftn ba em dyge xwnX dxtrš ."
     }, 
     {
         "persian_sentence": " بعد، بود چند وقتی رو چند روزی رو خونۀ دخترش مهمان بود و به او نا کمک میکرد از پشم گوسفندائی که چیده بودن نخ درست کرد و نخ ریسید و از نخ ها بلوزای زمستونه درست کرد واسۀ نوه هاشو کمک شون تو کار های خونه خیلی کمک شون کرد، تا روزی رسید که باید برگرده.", 
@@ -651,7 +651,7 @@
             "čnd", 
             "rwzy", 
             "rw", 
-            "xwnۀ", 
+            "xwnX", 
             "dxtrš", 
             "meman", 
             "bwd", 
@@ -681,7 +681,7 @@
             "zmstwne", 
             "drst", 
             "krd", 
-            "wasۀ", 
+            "wasX", 
             "nwe", 
             "eašw", 
             "kmk", 
@@ -705,7 +705,7 @@
         ], 
         "sentence_id": 1030, 
         "jpn_sentence": "そして、しばらく何日かの間、娘の家に泊まり、羊から刈った毛から糸を紡いで、冬用の服を作るのを手伝った。孫たちのために、家事もたくさん手伝った。やがて、帰る日になった。", 
-        "roman_sentence": "b'd , bwd čnd wŕty rw čnd rwzy rw xwnۀ dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasۀ nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde ."
+        "roman_sentence": "b'd , bwd čnd wŕty rw čnd rwzy rw xwnX dxtrš meman bwd w be aw na kmk mykrd az pšm gwsfnda´y ke čyde bwdn nx drst krd w nx rysyd w az nx ea blwzay zmstwne drst krd wasX nwe eašw kmk šwn tw kar eay xwne xyly kmk šwn krd , ta rwzy rsyd ke bayd brgrde ."
     }, 
     {
         "persian_sentence": " گفت من میخوام برگردم حقیقتش تو راه این گرگه وشیره و شغاله سر راه من و گرفتند به من گفتن که ما میخوایم تو رو بخوریمت.", 
