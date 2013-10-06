@@ -13,12 +13,14 @@ def load_json_file():
 
 def main(input_word):
     lex_dic=load_json_file();
-    result_candidate=lex_dic[input_word];
-    for i, item in enumerate(result_candidate):
-        print item;
-
+    try:
+        result_candidate=lex_dic[input_word];
+        for i, item in enumerate(result_candidate):
+            print item;
+    except KeyError:
+        print 'No such input word:{}'.format(input_word)
 
 if __name__=='__main__':
-    main(sys.argv[1]);
+    main(sys.argv[1].decode('utf-8'));
 
 
