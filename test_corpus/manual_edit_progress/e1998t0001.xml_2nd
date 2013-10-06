@@ -1,4 +1,5 @@
 <?xml version="1.0" ?>
+<!--xmlの不良やバグをチェックするためのタグつけ-->
 <instance>
 	<resource_data>
 		<resource_no>
@@ -1205,21 +1206,22 @@
 						ryxt
 					</token_17>
 					<pos_17>
-						V V
+						V
 					</pos_17>
 					<stem_17>
-						ryxtn_____1 ryxtn_____1
+						ryxtn_____1
 					</stem_17>
 					<morph_17>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_17>
 					<category_17>
-						v8 v8
+						v8
 					</category_17>
 				</position_17>
 				<position_18>
 					<token_18>
 						twyān
+						<!-- 次バージョンでは修正されている-->
 					</token_18>
 					<pos_18>
 						null
@@ -1273,16 +1275,17 @@
 						gđašt
 					</token_21>
 					<pos_21>
-						V V V V
+						V
 					</pos_21>
 					<stem_21>
-						gđaštn_____1 gđaštn_____1 gđaštn_____2 gđaštn_____2
+						gđaštn_____1
 					</stem_21>
 					<morph_21>
-						2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit 
 					</morph_21>
 					<category_21>
-						v22 v22 v9 v9
+						v22
+						<!--理由はわからないが，v9の現在語根がmorpho.fa.check.pl内にない．でもv22はある．したがって，ここでは，v22を採用する． -->
 					</category_21>
 				</position_21>
 				<position_22>
@@ -1307,16 +1310,17 @@
 						srš
 					</token_23>
 					<pos_23>
-						N N
+						N
 					</pos_23>
 					<stem_23>
-						sr_____1 sr_____2
+						sr_____2
 					</stem_23>
 					<morph_23>
-						SingPers3s SingPers3s
+						SingPers3s
 					</morph_23>
 					<category_23>
-						N15:c N5:c
+						N5:c
+						<!--N.ilexによると，物理的な頭はN5で地位や順位の頭はN15 -->
 					</category_23>
 				</position_23>
 				<position_24>
@@ -1358,16 +1362,16 @@
 						ba
 					</token_26>
 					<pos_26>
-						ADV P
+						P
 					</pos_26>
 					<stem_26>
-						ba˝_____1 ba_____1
+						ba_____1
 					</stem_26>
 					<morph_26>
-						 inv
+						inv
 					</morph_26>
 					<category_26>
-						ADV2 inv
+						inv
 					</category_26>
 				</position_26>
 				<position_27>
@@ -1393,6 +1397,7 @@
 					</token_28>
 					<pos_28>
 						DETquant N
+						<!--単位のことを言っていると考え，DETquantが適切であるが，PerDepの品詞に正しくマップするにはどうすればよいのか？という問題が残る-->
 					</pos_28>
 					<stem_28>
 						mŕdary_____1 mŕdar_____1
@@ -1443,16 +1448,16 @@
 						be
 					</token_31>
 					<pos_31>
-						N P
+						P
 					</pos_31>
 					<stem_31>
-						be_____1 be_____1
+						be_____1
 					</stem_31>
 					<morph_31>
-						Sing inv
+						inv
 					</morph_31>
 					<category_31>
-						N5:v inv
+						inv
 					</category_31>
 				</position_31>
 				<position_32>
@@ -1477,6 +1482,7 @@
 						ŕbl
 					</token_33>
 					<pos_33>
+						<!-- 文法上はADVのように思えるが，MTEのタグはつけたくないところ -->
 						ADJ ADJ ADV P
 					</pos_33>
 					<stem_33>
@@ -1495,6 +1501,7 @@
 					</token_34>
 					<pos_34>
 						ADJ V V
+						<!--どれにすべきか？あやしい，perdepを参考にすること -->
 					</pos_34>
 					<stem_34>
 						pxte_____1 pxtn_____1 pxtn_____1
@@ -1511,16 +1518,16 @@
 						bwd
 					</token_35>
 					<pos_35>
-						V V
+						V
 					</pos_35>
 					<stem_35>
-						bwdn_____1 bwdn_____1
+						bwdn_____1 
 					</stem_35>
 					<morph_35>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_35>
 					<category_35>
-						v25 v25
+						v25
 					</category_35>
 				</position_35>
 				<position_36>
@@ -1562,16 +1569,16 @@
 						aftad
 					</token_38>
 					<pos_38>
-						V V
+						V
 					</pos_38>
 					<stem_38>
-						aftadn_____1 aftadn_____1
+						aftadn_____1
 					</stem_38>
 					<morph_38>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_38>
 					<category_38>
-						v4 v4
+						v4
 					</category_38>
 				</position_38>
 				<position_39>
@@ -1596,16 +1603,17 @@
 						rft
 					</token_40>
 					<pos_40>
-						N V V V V V V
+						V V V V
 					</pos_40>
 					<stem_40>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						rftn_____2
 					</stem_40>
 					<morph_40>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_40>
 					<category_40>
-						N1:c v19 v19 v21 v21 v22 v22
+						v21
+						<!--v19は「清掃する」の意味のrftn,v21とv22の違いは意味だけのように思える. 問題はないと思うので，v21(rftn_____2)で統一しようと思う-->
 					</category_40>
 				</position_40>
 				<position_41>
@@ -1630,16 +1638,16 @@
 						rft
 					</token_42>
 					<pos_42>
-						N V V V V V V
+						V
 					</pos_42>
 					<stem_42>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						rftn_____2
 					</stem_42>
 					<morph_42>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_42>
 					<category_42>
-						N1:c v19 v19 v21 v21 v22 v22
+						v21
 					</category_42>
 				</position_42>
 				<position_43>
@@ -1664,16 +1672,16 @@
 						rft
 					</token_44>
 					<pos_44>
-						N V V V V V V
+						V
 					</pos_44>
 					<stem_44>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						rftn_____2
 					</stem_44>
 					<morph_44>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_44>
 					<category_44>
-						N1:c v19 v19 v21 v21 v22 v22
+						v21
 					</category_44>
 				</position_44>
 				<position_45>
@@ -1698,16 +1706,16 @@
 						rft
 					</token_46>
 					<pos_46>
-						N V V V V V V
+						V
 					</pos_46>
 					<stem_46>
-						rf_____1 rftn_____1 rftn_____1 rftn_____2 rftn_____2 rftn_____3 rftn_____3
+						rftn_____2
 					</stem_46>
 					<morph_46>
-						SingPers2s 2*3sgPreterit infApocope 2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_46>
 					<category_46>
-						N1:c v19 v19 v21 v21 v22 v22
+						v21
 					</category_46>
 				</position_46>
 				<position_47>
@@ -1783,16 +1791,17 @@
 						dxtrš
 					</token_51>
 					<pos_51>
-						ADJ N N
+						N N
 					</pos_51>
 					<stem_51>
-						dxtr_____1 dxtr_____1 dxtr_____2
+						dxtr_____1
 					</stem_51>
 					<morph_51>
-						Pers3s SingPers3s SingPers3s
+						SingPers3s SingPers3s
+						<!--ilexにも特に違いは説明なし．黒柳辞書に従って，1娘を採用する-->
 					</morph_51>
 					<category_51>
-						ADJ:c N15:c N5:c
+						N15:c
 					</category_51>
 				</position_51>
 				<position_52>
@@ -1833,16 +1842,16 @@
 						tw
 					</token_0>
 					<pos_0>
-						P PROpers
+						P
 					</pos_0>
 					<stem_0>
-						tw_____1 tw_____1
+						tw_____1
 					</stem_0>
 					<morph_0>
-						inv inv
+						inv
 					</morph_0>
 					<category_0>
-						inv inv
+						inv
 					</category_0>
 				</position_0>
 				<position_1>
@@ -1882,6 +1891,7 @@
 				<position_3>
 					<token_3>
 						my
+						<!--直接法のmyの誤り．次バージョンでは修正 -->
 					</token_3>
 					<pos_3>
 						ADJ
@@ -1899,6 +1909,7 @@
 				<position_4>
 					<token_4>
 						rft
+						<!--誤っているため省略-->
 					</token_4>
 					<pos_4>
 						N V V V V V V
@@ -1935,16 +1946,16 @@
 						b'd
 					</token_6>
 					<pos_6>
-						ADJ ADV ADVcoord N
+						ADV
 					</pos_6>
 					<stem_6>
-						b'd_____1 b'd___MTE__1 b'd_____1 b'd_____1
+						b'd___MTE__1
 					</stem_6>
 					<morph_6>
-						  inv Sing
+						
 					</morph_6>
 					<category_6>
-						ADJ:c ADV1 inv N5:c
+						ADV1
 					</category_6>
 				</position_6>
 				<position_7>
@@ -1970,6 +1981,7 @@
 					</token_8>
 					<pos_8>
 						ADV P
+						<!--名詞のţyを辞書に登録されるべき-->
 					</pos_8>
 					<stem_8>
 						ţy___MTE__1 ţy_____1
@@ -1986,16 +1998,17 @@
 						krdn
 					</token_9>
 					<pos_9>
-						N V V V V V V V
+						V
 					</pos_9>
 					<stem_9>
-						krdn_____1 krdn_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2 krdn_____2
+						krdn_____1
 					</stem_9>
 					<morph_9>
-						Sing *10*inf 2*3plPreparfFam 2*3plPreteritFam *10*inf 2*3plPastprogFam 2*3plPreparfFam 2*3plPreteritFam
+						*10*inf
 					</morph_9>
 					<category_9>
-						N5:c v22 v22 v22 v28 v28 v28 v28
+						v22
+						<!--v28はlight verb指定なので，今回は使わない．v22を使う -->
 					</category_9>
 				</position_9>
 				<position_10>
@@ -2020,16 +2033,16 @@
 						zyad
 					</token_11>
 					<pos_11>
-						ADJ ADV
+						ADJ
 					</pos_11>
 					<stem_11>
-						zyad_____1 zyad___MTE__1
+						zyad_____1
 					</stem_11>
 					<morph_11>
 						 
 					</morph_11>
 					<category_11>
-						ADJ:c ADV1
+						ADJ:c
 					</category_11>
 				</position_11>
 				<position_12>
@@ -2037,16 +2050,16 @@
 						rsyd
 					</token_12>
 					<pos_12>
-						V V
+						V
 					</pos_12>
 					<stem_12>
-						rsydn_____1 rsydn_____1
+						rsydn_____1
 					</stem_12>
 					<morph_12>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_12>
 					<category_12>
-						v1 v1
+						v1
 					</category_12>
 				</position_12>
 				<position_13>
@@ -2054,16 +2067,16 @@
 						be
 					</token_13>
 					<pos_13>
-						N P
+						P
 					</pos_13>
 					<stem_13>
-						be_____1 be_____1
+						be_____1
 					</stem_13>
 					<morph_13>
-						Sing inv
+						inv
 					</morph_13>
 					<category_13>
-						N5:v inv
+						inv
 					</category_13>
 				</position_13>
 				<position_14>
@@ -2100,6 +2113,7 @@
 						N5:c
 					</category_15>
 				</position_15>
+				<!-- >
 				<position_16>
 					<token_16>
 						(2)
@@ -2117,6 +2131,7 @@
 						null
 					</category_16>
 				</position_16>
+				<不要な部分は削除できるスクリプトを書くこと -->
 				<position_17>
 					<token_17>
 						.
@@ -2172,16 +2187,17 @@
 						sr
 					</token_1>
 					<pos_1>
-						N N P
+						N
+						<!--Pのような気もするが，黒柳辞書によると，srには名詞の意味しかないので，ここではNを採用 -->
 					</pos_1>
 					<stem_1>
-						sr_____1 sr_____2 sr_____1
+						sr_____1
 					</stem_1>
 					<morph_1>
-						Sing Sing inv
+						Sing
 					</morph_1>
 					<category_1>
-						N15:c N5:c inv
+						N15:c
 					</category_1>
 				</position_1>
 				<position_2>
@@ -2223,16 +2239,16 @@
 						grft
 					</token_4>
 					<pos_4>
-						V V
+						V
 					</pos_4>
 					<stem_4>
-						grftn_____1 grftn_____1
+						grftn_____1
 					</stem_4>
 					<morph_4>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_4>
 					<category_4>
-						v22 v22
+						v22
 					</category_4>
 				</position_4>
 				<position_5>
@@ -2240,16 +2256,17 @@
 						gft
 					</token_5>
 					<pos_5>
-						V V V V
+						V
 					</pos_5>
 					<stem_5>
-						gftn_____1 gftn_____1 gftn_____2 gftn_____2
+						gftn_____1
 					</stem_5>
 					<morph_5>
-						2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_5>
 					<category_5>
-						v21 v21 v22 v22
+						v21
+						<!--「言う」の意味はv21の方が適切-->
 					</category_5>
 				</position_5>
 				<position_6>
@@ -2257,16 +2274,16 @@
 						ay
 					</token_6>
 					<pos_6>
-						INTexcl INTexcl
+						INTexcl
 					</pos_6>
 					<stem_6>
-						ay_____1 ay_____1
+						ay_____1
 					</stem_6>
 					<morph_6>
-						inv inv
+						inv
 					</morph_6>
 					<category_6>
-						inv inv
+						inv
 					</category_6>
 				</position_6>
 				<position_7>
@@ -2289,6 +2306,8 @@
 				<position_8>
 					<token_8>
 						pyre
+						<!--pyrの口語系-->
+						<!--次のバージョンでは修正のこと-->
 					</token_8>
 					<pos_8>
 						null
@@ -2308,16 +2327,17 @@
 						zn
 					</token_9>
 					<pos_9>
-						ADJ N N V V
+						N
 					</pos_9>
 					<stem_9>
-						zn_____1 zn_____1 zn_____2 zdn_____1 zdn_____1
+						zn_____1
 					</stem_9>
 					<morph_9>
-						 Sing Sing ProhibNormForm imperNorm
+						 Sing
 					</morph_9>
 					<category_9>
-						ADJ:c N15:c N5:c v28 v28
+						N15:c
+						<!--ilexより0.9の頻度でN15のznなので，N15を採用する-->
 					</category_9>
 				</position_9>
 				<position_10>
@@ -2342,21 +2362,23 @@
 						kja
 					</token_11>
 					<pos_11>
-						N PROinter
+						N
 					</pos_11>
 					<stem_11>
-						kja_____1 kja___MTE__1
+						kja_____1
 					</stem_11>
 					<morph_11>
-						Sing inv
+						Sing
 					</morph_11>
 					<category_11>
-						N5:v inv
+						N5:v
 					</category_11>
 				</position_11>
 				<position_12>
 					<token_12>
 						myry
+						<!--口語が修正できていない-->
+						<!--次バージョンでは修正-->
 					</token_12>
 					<pos_12>
 						PN
@@ -2406,6 +2428,8 @@
 			<token_replaced>
 				<position_0>
 					<token_0>
+						<!--アンダーバーつなぎに編集すべき-->
+						<!--次バージョンで改良する-->
 						myge
 					</token_0>
 					<pos_0>
@@ -2443,16 +2467,16 @@
 						mn
 					</token_2>
 					<pos_2>
-						AR PROpers
+						PROpers
 					</pos_2>
 					<stem_2>
-						mn_____1 mn_____1
+						mn_____1
 					</stem_2>
 					<morph_2>
-						inv inv
+						inv
 					</morph_2>
 					<category_2>
-						inv inv
+						inv
 					</category_2>
 				</position_2>
 				<position_3>
@@ -2460,16 +2484,17 @@
 						čnd
 					</token_3>
 					<pos_3>
-						ADJ DETinter DETquant PROinter
+						DETquant
+						<!--明確な理由はないが，DETquantの方が正しい気がする-->
 					</pos_3>
 					<stem_3>
-						čnd_____1 čnd_____1 čnd_____2 čnd_____1
+						čnd_____2
 					</stem_3>
 					<morph_3>
-						 inv inv inv
+						inv
 					</morph_3>
 					<category_3>
-						ADJ:c inv inv inv
+						inv
 					</category_3>
 				</position_3>
 				<position_4>
@@ -2477,16 +2502,16 @@
 						wŕt
 					</token_4>
 					<pos_4>
-						ADJ ADV N
+						N
 					</pos_4>
 					<stem_4>
-						wŕt_____1 wŕt___MTE__1 wŕt_____1
+						wŕt_____1
 					</stem_4>
 					<morph_4>
-						 inv Sing
+						Sing
 					</morph_4>
 					<category_4>
-						ADJ:c inv N5:c
+						N5:c
 					</category_4>
 				</position_4>
 				<position_5>
@@ -2511,16 +2536,17 @@
 						nxwrdm
 					</token_6>
 					<pos_6>
-						V V V V V
+						V
 					</pos_6>
 					<stem_6>
-						xwrdn_____1 xwrdn_____1 xwrdn_____2 xwrdn_____2 xwrdn_____2
+						xwrdn_____1
 					</stem_6>
 					<morph_6>
-						1sgPreparfNegFam 1sgPreteritNeg 1sgPastprogNeg 1sgPreparfNegFam 1sgPreteritNeg
+						1sgPreteritNeg
 					</morph_6>
 					<category_6>
-						v2 v2 v28 v28 v28
+						v2
+						<!--黒柳辞書に従い，v2のxwrdnを「食べる」の意味として採用する -->
 					</category_6>
 				</position_6>
 				<position_7>
@@ -2561,16 +2587,17 @@
 						xwb
 					</token_0>
 					<pos_0>
-						ADJ ADV N N
+						ADV
+						<!--係りさきは動詞になるので，動詞にかかることができる品詞としてADVを選択した-->
 					</pos_0>
 					<stem_0>
-						xwb_____1 xwb___MTE__1 xwb_____1 xwb_____2
+						xwb___MTE__1
 					</stem_0>
 					<morph_0>
-						  Sing Sing
+						 
 					</morph_0>
 					<category_0>
-						ADJ:c ADV1 N15:c N5:c
+						ADV1
 					</category_0>
 				</position_0>
 				<position_1>
@@ -2578,16 +2605,16 @@
 						āmdy
 					</token_1>
 					<pos_1>
-						V V
+						V
 					</pos_1>
 					<stem_1>
-						āmdn_____1 āmdn_____1
+						āmdn_____1
 					</stem_1>
 					<morph_1>
-						2sgPreparfFam 2sgPreterit
+						2sgPreterit
 					</morph_1>
 					<category_1>
-						v24:v v24:v
+						v24:v
 					</category_1>
 				</position_1>
 				<position_2>
@@ -2612,16 +2639,16 @@
 						mn
 					</token_3>
 					<pos_3>
-						AR PROpers
+						PROpers
 					</pos_3>
 					<stem_3>
-						mn_____1 mn_____1
+						mn_____1
 					</stem_3>
 					<morph_3>
-						inv inv
+						inv
 					</morph_3>
 					<category_3>
-						inv inv
+						inv
 					</category_3>
 				</position_3>
 				<position_4>
@@ -2629,16 +2656,16 @@
 						tw
 					</token_4>
 					<pos_4>
-						P PROpers
+						PROpers
 					</pos_4>
 					<stem_4>
-						tw_____1 tw_____1
+						tw_____1
 					</stem_4>
 					<morph_4>
-						inv inv
+						inv
 					</morph_4>
 					<category_4>
-						inv inv
+						inv
 					</category_4>
 				</position_4>
 				<position_5>
@@ -2663,16 +2690,16 @@
 						bxwrm
 					</token_6>
 					<pos_6>
-						N V
+						V
 					</pos_6>
 					<stem_6>
-						bxwr_____1 xwrdn_____1
+						xwrdn_____1
 					</stem_6>
 					<morph_6>
-						SingPers1s 1sgPreSubj
+						1sgPreSubj
 					</morph_6>
 					<category_6>
-						N5:c v2
+						v2
 					</category_6>
 				</position_6>
 				<position_7>
@@ -2713,16 +2740,16 @@
 						gft
 					</token_0>
 					<pos_0>
-						V V V V
+						V
 					</pos_0>
 					<stem_0>
-						gftn_____1 gftn_____1 gftn_____2 gftn_____2
+						gftn_____1 
 					</stem_0>
 					<morph_0>
-						2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_0>
 					<category_0>
-						v21 v21 v22 v22
+						v21
 					</category_0>
 				</position_0>
 				<position_1>
@@ -2730,16 +2757,17 @@
 						ne
 					</token_1>
 					<pos_1>
-						ADV ADV INTs N INTs
+						INTs
+						<!--これ，INTsにして，どの品詞にマップすればよいのだろうか？-->
 					</pos_1>
 					<stem_1>
-						ne_____1 ne_____1 ne_____1 ne_____1 ne_____1
+						ne_____1
 					</stem_1>
 					<morph_1>
-						 inv inv Sing inv
+						inv
 					</morph_1>
 					<category_1>
-						ADV1 inv inv N5:v inv
+						inv
 					</category_1>
 				</position_1>
 				<position_2>
@@ -2797,16 +2825,16 @@
 						mn
 					</token_0>
 					<pos_0>
-						AR PROpers
+						PROpers
 					</pos_0>
 					<stem_0>
-						mn_____1 mn_____1
+						mn_____1
 					</stem_0>
 					<morph_0>
-						inv inv
+						inv
 					</morph_0>
 					<category_0>
-						inv inv
+						inv
 					</category_0>
 				</position_0>
 				<position_1>
@@ -2831,16 +2859,16 @@
 						be
 					</token_2>
 					<pos_2>
-						N P
+						P
 					</pos_2>
 					<stem_2>
-						be_____1 be_____1
+						be_____1
 					</stem_2>
 					<morph_2>
-						Sing inv
+						inv
 					</morph_2>
 					<category_2>
-						N5:v inv
+						inv
 					</category_2>
 				</position_2>
 				<position_3>
@@ -2848,16 +2876,16 @@
 						dxtrm
 					</token_3>
 					<pos_3>
-						ADJ N N
+						N
 					</pos_3>
 					<stem_3>
-						dxtr_____1 dxtr_____1 dxtr_____2
+						dxtr_____1
 					</stem_3>
 					<morph_3>
-						Pers1s SingPers1s SingPers1s
+						SingPers1s
 					</morph_3>
 					<category_3>
-						ADJ:c N15:c N5:c
+						N15:c
 					</category_3>
 				</position_3>
 				<position_4>
@@ -2865,16 +2893,16 @@
 						sr
 					</token_4>
 					<pos_4>
-						N N P
+						N
 					</pos_4>
 					<stem_4>
-						sr_____1 sr_____2 sr_____1
+						sr_____1
 					</stem_4>
 					<morph_4>
-						Sing Sing inv
+						Sing
 					</morph_4>
 					<category_4>
-						N15:c N5:c inv
+						N15:c
 					</category_4>
 				</position_4>
 				<position_5>
@@ -2933,16 +2961,16 @@
 						dydary
 					</token_8>
 					<pos_8>
-						ADJ N
+						N
 					</pos_8>
 					<stem_8>
-						dydary_____1 dydar_____1
+						dydar_____1
 					</stem_8>
 					<morph_8>
-						 SingIndef
+						SingIndef
 					</morph_8>
 					<category_8>
-						ADJ:v N5:c
+						N5:c
 					</category_8>
 				</position_8>
 				<position_9>
@@ -2950,16 +2978,16 @@
 						taze
 					</token_9>
 					<pos_9>
-						ADJ ADV PN ADV N
+						ADJ
 					</pos_9>
 					<stem_9>
-						taze_____1 taze___MTE__1 taze___Taza__1 taze_____1 taze_____1
+						taze_____1
 					</stem_9>
 					<morph_9>
-						  Sing inv Sing
+						  Sing
 					</morph_9>
 					<category_9>
-						ADJ:v ADV1 N2:v inv N5:v
+						ADJ:v
 					</category_9>
 				</position_9>
 				<position_10>
@@ -2967,16 +2995,17 @@
 						knm
 					</token_10>
 					<pos_10>
-						PN V V
+						V V
 					</pos_10>
 					<stem_10>
-						kn___Cannes__1 krdn_____2 krdn_____2
+						krdn_____2 krdn_____2
 					</stem_10>
 					<morph_10>
-						SingPers1s 1sgPreInd 1sgPreSubj
+						1sgPreSubj
+						<!--あまり重要なことではないが，これが接続法なのはどうして?-->
 					</morph_10>
 					<category_10>
-						N2:c v28 v28
+						v28
 					</category_10>
 				</position_10>
 				<position_11>
@@ -2999,6 +3028,8 @@
 				<position_12>
 					<token_12>
 						qđa_eay
+						<!--アンダースコアはいらない-->
+						<!--次バージョンで修正すること-->
 					</token_12>
 					<pos_12>
 						null
@@ -3018,16 +3049,16 @@
 						xwb
 					</token_13>
 					<pos_13>
-						ADJ ADV N N
+						ADV
 					</pos_13>
 					<stem_13>
-						xwb_____1 xwb___MTE__1 xwb_____1 xwb_____2
+						xwb___MTE__1
 					</stem_13>
 					<morph_13>
-						  Sing Sing
+						
 					</morph_13>
 					<category_13>
-						ADJ:c ADV1 N15:c N5:c
+						ADV1
 					</category_13>
 				</position_13>
 				<position_14>
@@ -3035,16 +3066,16 @@
 						xwb
 					</token_14>
 					<pos_14>
-						ADJ ADV N N
+						ADV
 					</pos_14>
 					<stem_14>
-						xwb_____1 xwb___MTE__1 xwb_____1 xwb_____2
+						xwb___MTE__1
 					</stem_14>
 					<morph_14>
-						  Sing Sing
+						 
 					</morph_14>
 					<category_14>
-						ADJ:c ADV1 N15:c N5:c
+						ADV1
 					</category_14>
 				</position_14>
 				<position_15>
@@ -3052,16 +3083,16 @@
 						em
 					</token_15>
 					<pos_15>
-						ADV PROindef
+						ADV
 					</pos_15>
 					<stem_15>
-						em_____1 em_____1
+						em_____1
 					</stem_15>
 					<morph_15>
-						inv inv
+						inv
 					</morph_15>
 					<category_15>
-						inv inv
+						inv
 					</category_15>
 				</position_15>
 				<position_16>
@@ -3069,16 +3100,16 @@
 						bxwrm
 					</token_16>
 					<pos_16>
-						N V
+						V
 					</pos_16>
 					<stem_16>
-						bxwr_____1 xwrdn_____1
+						xwrdn_____1
 					</stem_16>
 					<morph_16>
-						SingPers1s 1sgPreSubj
+						1sgPreSubj
 					</morph_16>
 					<category_16>
-						N5:c v2
+						v2
 					</category_16>
 				</position_16>
 				<position_17>
@@ -3103,21 +3134,23 @@
 						čaŕ
 					</token_18>
 					<pos_18>
-						ADJ N
+						ADJ
 					</pos_18>
 					<stem_18>
-						čaŕ_____1 čaŕ_____1
+						čaŕ_____1
 					</stem_18>
 					<morph_18>
 						 Sing
 					</morph_18>
 					<category_18>
-						ADJ:c N5:c
+						ADJ:c
 					</category_18>
 				</position_18>
 				<position_19>
 					<token_19>
 						bšm
+						<!--perlexにšdnの口語形のšがないことによるnull-->
+						<!--対応表についかorperlex辞書に追加-->
 					</token_19>
 					<pos_19>
 						null
@@ -3152,6 +3185,7 @@
 				<position_21>
 					<token_21>
 						čle
+						<!--40日間という意味．perlexにない語-->
 					</token_21>
 					<pos_21>
 						null
@@ -3203,6 +3237,8 @@
 				<position_24>
 					<token_24>
 						wŕtke
+						<!--バグによる誤り-->
+						<!--次バージョンで修正される-->
 					</token_24>
 					<pos_24>
 						null
@@ -3220,6 +3256,7 @@
 				<position_25>
 					<token_25>
 						brwmy_gydm
+						<!--perlex辞書にない:-->
 					</token_25>
 					<pos_25>
 						null
@@ -3256,16 +3293,16 @@
 						tw
 					</token_27>
 					<pos_27>
-						P PROpers
+						PROpers
 					</pos_27>
 					<stem_27>
-						tw_____1 tw_____1
+						tw_____1
 					</stem_27>
 					<morph_27>
-						inv inv
+						inv
 					</morph_27>
 					<category_27>
-						inv inv
+						inv
 					</category_27>
 				</position_27>
 				<position_28>
@@ -3273,16 +3310,16 @@
 						mn
 					</token_28>
 					<pos_28>
-						AR PROpers
+						PROpers
 					</pos_28>
 					<stem_28>
-						mn_____1 mn_____1
+						mn_____1
 					</stem_28>
 					<morph_28>
-						inv inv
+						inv
 					</morph_28>
 					<category_28>
-						inv inv
+						inv
 					</category_28>
 				</position_28>
 				<position_29>
@@ -3307,16 +3344,16 @@
 						bxwr
 					</token_30>
 					<pos_30>
-						N V
+						V
 					</pos_30>
 					<stem_30>
-						bxwr_____1 xwrdn_____1
+						xwrdn_____1
 					</stem_30>
 					<morph_30>
-						Sing imperNorm
+						imperNorm
 					</morph_30>
 					<category_30>
-						N5:c v2
+						v2
 					</category_30>
 				</position_30>
 				<position_31>
@@ -3357,16 +3394,16 @@
 						gft
 					</token_0>
 					<pos_0>
-						V V V V
+						V
 					</pos_0>
 					<stem_0>
-						gftn_____1 gftn_____1 gftn_____2 gftn_____2
+						gftn_____1
 					</stem_0>
 					<morph_0>
-						2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_0>
 					<category_0>
-						v21 v21 v22 v22
+						v21 
 					</category_0>
 				</position_0>
 				<position_1>
@@ -3407,16 +3444,16 @@
 						xyly
 					</token_0>
 					<pos_0>
-						ADV DETquant N N
+						ADV
 					</pos_0>
 					<stem_0>
-						xyly___MTE__1 xyly_____1 xyl_____1 xyly_____1
+						xyly___MTE__1
 					</stem_0>
 					<morph_0>
-						 inv SingIndef Sing
+						
 					</morph_0>
 					<category_0>
-						ADV1 inv N1:c N5:v
+						ADV1
 					</category_0>
 				</position_0>
 				<position_1>
@@ -3424,16 +3461,18 @@
 						xwb
 					</token_1>
 					<pos_1>
-						ADJ ADV N N
+						ADJ
+						<!--ここではADJにした-->
+						<!--係り先が動詞ではないので，ADVにする必要がなかったのでADJに(今回はrootにかかる)-->
 					</pos_1>
 					<stem_1>
-						xwb_____1 xwb___MTE__1 xwb_____1 xwb_____2
+						xwb_____1
 					</stem_1>
 					<morph_1>
-						  Sing Sing
+						 
 					</morph_1>
 					<category_1>
-						ADJ:c ADV1 N15:c N5:c
+						ADJ:c
 					</category_1>
 				</position_1>
 				<position_2>
@@ -3474,16 +3513,16 @@
 						āmd
 					</token_0>
 					<pos_0>
-						V V
+						V
 					</pos_0>
 					<stem_0>
-						āmdn_____1 āmdn_____1
+						āmdn_____1
 					</stem_0>
 					<morph_0>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_0>
 					<category_0>
-						v24:v v24:v
+						v24:v
 					</category_0>
 				</position_0>
 				<position_1>
@@ -3508,16 +3547,16 @@
 						āmd
 					</token_2>
 					<pos_2>
-						V V
+						V
 					</pos_2>
 					<stem_2>
-						āmdn_____1 āmdn_____1
+						āmdn_____1
 					</stem_2>
 					<morph_2>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_2>
 					<category_2>
-						v24:v v24:v
+						v24:v
 					</category_2>
 				</position_2>
 				<position_3>
@@ -3542,16 +3581,16 @@
 						āmd
 					</token_4>
 					<pos_4>
-						V V
+						V
 					</pos_4>
 					<stem_4>
-						āmdn_____1 āmdn_____1
+						āmdn_____1
 					</stem_4>
 					<morph_4>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_4>
 					<category_4>
-						v24:v v24:v
+						v24:v
 					</category_4>
 				</position_4>
 				<position_5>
@@ -3610,16 +3649,16 @@
 						rd
 					</token_8>
 					<pos_8>
-						ADJ N
+						N
 					</pos_8>
 					<stem_8>
-						rd_____1 rd_____1
+						rd_____1
 					</stem_8>
 					<morph_8>
-						 Sing
+						Sing
 					</morph_8>
 					<category_8>
-						ADJ:c N5:c
+						N5:c
 					</category_8>
 				</position_8>
 				<position_9>
@@ -3627,16 +3666,16 @@
 						krd
 					</token_9>
 					<pos_9>
-						N V V V V V
+						V
 					</pos_9>
 					<stem_9>
-						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
+						krdn_____1
 					</stem_9>
 					<morph_9>
-						Sing 2*3sgPreterit infApocope 2*3sgPastprog 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_9>
 					<category_9>
-						N5:c v22 v22 v28 v28 v28
+						v22
 					</category_9>
 				</position_9>
 				<position_10>
@@ -3661,16 +3700,16 @@
 						baqy
 					</token_11>
 					<pos_11>
-						ADJ N
+						N
 					</pos_11>
 					<stem_11>
-						baqy_____1 baq_____1
+						baq_____1
 					</stem_11>
 					<morph_11>
-						 SingIndef
+						SingIndef
 					</morph_11>
 					<category_11>
-						ADJ:v N5:c
+						N5:c
 					</category_11>
 				</position_11>
 				<position_12>
@@ -3695,16 +3734,16 @@
 						rd
 					</token_13>
 					<pos_13>
-						ADJ N
+						N
 					</pos_13>
 					<stem_13>
-						rd_____1 rd_____1
+						rd_____1
 					</stem_13>
 					<morph_13>
-						 Sing
+						Sing
 					</morph_13>
 					<category_13>
-						ADJ:c N5:c
+						N5:c
 					</category_13>
 				</position_13>
 				<position_14>
@@ -3712,16 +3751,16 @@
 						krd
 					</token_14>
 					<pos_14>
-						N V V V V V
+						V
 					</pos_14>
 					<stem_14>
-						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
+						krdn_____1
 					</stem_14>
 					<morph_14>
-						Sing 2*3sgPreterit infApocope 2*3sgPastprog 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_14>
 					<category_14>
-						N5:c v22 v22 v28 v28 v28
+						v22
 					</category_14>
 				</position_14>
 				<position_15>
@@ -3746,16 +3785,16 @@
 						dšty
 					</token_16>
 					<pos_16>
-						ADJ N
+						N
 					</pos_16>
 					<stem_16>
-						dšty_____1 dšt_____1
+						dšt_____1
 					</stem_16>
 					<morph_16>
-						 SingIndef
+						SingIndef
 					</morph_16>
 					<category_16>
-						ADJ:v N5:c
+						N5:c
 					</category_16>
 				</position_16>
 				<position_17>
@@ -3780,16 +3819,16 @@
 						rd
 					</token_18>
 					<pos_18>
-						ADJ N
+						N
 					</pos_18>
 					<stem_18>
-						rd_____1 rd_____1
+						rd_____1
 					</stem_18>
 					<morph_18>
-						 Sing
+						Sing
 					</morph_18>
 					<category_18>
-						ADJ:c N5:c
+						N5:c
 					</category_18>
 				</position_18>
 				<position_19>
@@ -3797,16 +3836,16 @@
 						krd
 					</token_19>
 					<pos_19>
-						N V V V V V
+						V
 					</pos_19>
 					<stem_19>
-						krd_____1 krdn_____1 krdn_____1 krdn_____2 krdn_____2 krdn_____2
+						krdn_____1
 					</stem_19>
 					<morph_19>
-						Sing 2*3sgPreterit infApocope 2*3sgPastprog 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_19>
 					<category_19>
-						N5:c v22 v22 v28 v28 v28
+						v22
 					</category_19>
 				</position_19>
 				<position_20>
@@ -3831,33 +3870,35 @@
 						ta
 					</token_21>
 					<pos_21>
-						CLASSpl ADV P
+						ADV
+						<!--接続詞のtaはADVが正解-->
 					</pos_21>
 					<stem_21>
-						ta_____1 ta_____1 ta_____1
+						ta_____1
 					</stem_21>
 					<morph_21>
-						inv inv inv
+						inv
 					</morph_21>
 					<category_21>
-						inv inv inv
+						inv
 					</category_21>
+					<!--ここまでみた-->
 				</position_21>
 				<position_22>
 					<token_22>
 						rsyd
 					</token_22>
 					<pos_22>
-						V V
+						V
 					</pos_22>
 					<stem_22>
-						rsydn_____1 rsydn_____1
+						rsydn_____1
 					</stem_22>
 					<morph_22>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_22>
 					<category_22>
-						v1 v1
+						v1
 					</category_22>
 				</position_22>
 				<position_23>
@@ -3865,16 +3906,16 @@
 						be
 					</token_23>
 					<pos_23>
-						N P
+						P
 					</pos_23>
 					<stem_23>
-						be_____1 be_____1
+						be_____1
 					</stem_23>
 					<morph_23>
-						Sing inv
+						inv
 					</morph_23>
 					<category_23>
-						N5:v inv
+						inv
 					</category_23>
 				</position_23>
 				<position_24>
@@ -3966,16 +4007,16 @@
 						sr
 					</token_1>
 					<pos_1>
-						N N P
+						N
 					</pos_1>
 					<stem_1>
-						sr_____1 sr_____2 sr_____1
+						sr_____1
 					</stem_1>
 					<morph_1>
-						Sing Sing inv
+						Sing
 					</morph_1>
 					<category_1>
-						N15:c N5:c inv
+						N15:c
 					</category_1>
 				</position_1>
 				<position_2>
@@ -4017,16 +4058,16 @@
 						grft
 					</token_4>
 					<pos_4>
-						V V
+						V
 					</pos_4>
 					<stem_4>
-						grftn_____1 grftn_____1
+						grftn_____1
 					</stem_4>
 					<morph_4>
-						2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_4>
 					<category_4>
-						v22 v22
+						v22
 					</category_4>
 				</position_4>
 				<position_5>
@@ -4051,16 +4092,16 @@
 						gft
 					</token_6>
 					<pos_6>
-						V V V V
+						V
 					</pos_6>
 					<stem_6>
-						gftn_____1 gftn_____1 gftn_____2 gftn_____2
+						gftn_____1
 					</stem_6>
 					<morph_6>
-						2*3sgPreterit infApocope 2*3sgPreterit infApocope
+						2*3sgPreterit
 					</morph_6>
 					<category_6>
-						v21 v21 v22 v22
+						v21
 					</category_6>
 				</position_6>
 				<position_7>
@@ -4102,16 +4143,16 @@
 						pyr
 					</token_9>
 					<pos_9>
-						ADJ N N
+						ADJ
 					</pos_9>
 					<stem_9>
-						pyr_____1 pyr_____1 pyr_____2
+						pyr_____1
 					</stem_9>
 					<morph_9>
-						 Sing Sing
+						
 					</morph_9>
 					<category_9>
-						ADJ:c N15:c N5:c
+						ADJ:c
 					</category_9>
 				</position_9>
 				<position_10>
@@ -4119,16 +4160,16 @@
 						zn
 					</token_10>
 					<pos_10>
-						ADJ N N V V
+						N
 					</pos_10>
 					<stem_10>
-						zn_____1 zn_____1 zn_____2 zdn_____1 zdn_____1
+						zn_____1
 					</stem_10>
 					<morph_10>
-						 Sing Sing ProhibNormForm imperNorm
+						 Sing
 					</morph_10>
 					<category_10>
-						ADJ:c N15:c N5:c v28 v28
+						N15:c
 					</category_10>
 				</position_10>
 				<position_11>
@@ -4153,16 +4194,16 @@
 						tw
 					</token_12>
 					<pos_12>
-						P PROpers
+						PROpers
 					</pos_12>
 					<stem_12>
-						tw_____1 tw_____1
+						tw_____1
 					</stem_12>
 					<morph_12>
-						inv inv
+						inv
 					</morph_12>
 					<category_12>
-						inv inv
+						inv
 					</category_12>
 				</position_12>
 				<position_13>
@@ -4170,21 +4211,23 @@
 						kja
 					</token_13>
 					<pos_13>
-						N PROinter
+						N
 					</pos_13>
 					<stem_13>
-						kja_____1 kja___MTE__1
+						kja_____1
 					</stem_13>
 					<morph_13>
-						Sing inv
+						Sing
 					</morph_13>
 					<category_13>
-						N5:v inv
+						N5:v
 					</category_13>
 				</position_13>
 				<position_14>
 					<token_14>
 						myry
+						<!--修正忘れ-->
+						<!--次のバージョンで修正すること-->
 					</token_14>
 					<pos_14>
 						PN
@@ -4219,6 +4262,8 @@
 			</token_replaced>
 		</sentence>
 		<sentence sentence_id="1016">
+			<!--この文から，アノテーションは行わない．チェックのみを行う-->
+			<!--ただし，チェック項目にはコメントを入れていく-->
 			<jpn_sentence>
 				老女は答えた。
 			</jpn_sentence>
@@ -4575,6 +4620,8 @@
 					</token_2>
 					<pos_2>
 						ADV ADV INTs N INTs
+						<!--どの品詞を選ぶべきか？-->
+						<!--その品詞の場合，perdepの体系では何にマップするべきか？-->
 					</pos_2>
 					<stem_2>
 						ne_____1 ne_____1 ne_____1 ne_____1 ne_____1
@@ -4657,6 +4704,7 @@
 				<position_7>
 					<token_7>
 						dxtrmn
+						<!--修正忘れ-->
 					</token_7>
 					<pos_7>
 						null
@@ -4741,6 +4789,7 @@
 				<position_0>
 					<token_0>
 						wŕtke
+						<!--バグ．次verでは修正-->
 					</token_0>
 					<pos_0>
 						null
@@ -4758,6 +4807,7 @@
 				<position_1>
 					<token_1>
 						br
+						<!--br_mygrdmでひとつ-->
 					</token_1>
 					<pos_1>
 						P
@@ -4860,6 +4910,7 @@
 				<position_7>
 					<token_7>
 						člemn
+						<!--バグ-->
 					</token_7>
 					<pos_7>
 						null
@@ -4889,6 +4940,7 @@
 					</morph_8>
 					<category_8>
 						v22 v22 v28 v28
+						<!--v22が一般動詞，v28は複合動詞-->
 					</category_8>
 				</position_8>
 				<position_9>
@@ -4945,6 +4997,7 @@
 				<position_12>
 					<token_12>
 						mnw
+						<!--修正忘れ-->
 					</token_12>
 					<pos_12>
 						PROindef
@@ -5198,6 +5251,7 @@
 				<position_5>
 					<token_5>
 						msaftra
+						<!--ばぐ-->
 					</token_5>
 					<pos_5>
 						null
@@ -5215,6 +5269,7 @@
 				<position_6>
 					<token_6>
 						ţy
+						<!--ţyに名詞がない-->
 					</token_6>
 					<pos_6>
 						ADV P
@@ -5320,6 +5375,7 @@
 					</token_12>
 					<pos_12>
 						INTexcl N INTexcl
+						<!--名詞かな．．．？-->
 					</pos_12>
 					<stem_12>
 						āŕa_____1 āŕa_____1 āŕa_____1
@@ -5346,6 +5402,7 @@
 					</morph_13>
 					<category_13>
 						N15:c N5:c
+						<!--例外なしでN5でよい．N5かつšy出現確率は１-->
 					</category_13>
 				</position_13>
 				<position_14>
@@ -5707,6 +5764,7 @@
 				<position_19>
 					<token_19>
 						my_myrm
+						<!--perlexが間違っている．mrdnはあるけど，my_myrmでなく，my_myzmになっている-->
 					</token_19>
 					<pos_19>
 						null
@@ -5774,6 +5832,7 @@
 				<position_1>
 					<token_1>
 						grsneast
+						<!--バグ か　対応表の抜けおち-->
 					</token_1>
 					<pos_1>
 						null
@@ -5824,6 +5883,7 @@
 				<position_0>
 					<token_0>
 						byā
+						<!--perlexのミス．byaもbyāもない-->
 					</token_0>
 					<pos_0>
 						null
@@ -5858,6 +5918,7 @@
 				<position_2>
 					<token_2>
 						myxwam
+						<!--アンダースコア区切りならタグ付け可能-->
 					</token_2>
 					<pos_2>
 						null
@@ -5875,6 +5936,7 @@
 				<position_3>
 					<token_3>
 						twra
+						<!--バグか対応表のミス-->
 					</token_3>
 					<pos_3>
 						null
@@ -6889,6 +6951,7 @@
 				<position_8>
 					<token_8>
 						nwe_eayaw
+						<!--バグ-->
 					</token_8>
 					<pos_8>
 						null
@@ -7481,6 +7544,7 @@
 				<position_9>
 					<token_9>
 						xwnX
+						<!--xwnXは辞書にものってませんが．．．-->
 					</token_9>
 					<pos_9>
 						null
@@ -7719,6 +7783,7 @@
 				<position_23>
 					<token_23>
 						čyde
+						<!--čydnが辞書に未登録-->
 					</token_23>
 					<pos_23>
 						null
@@ -7838,6 +7903,7 @@
 				<position_30>
 					<token_30>
 						rystn
+						<!--辞書未登録-->
 					</token_30>
 					<pos_30>
 						null
@@ -7889,6 +7955,7 @@
 				<position_33>
 					<token_33>
 						nxea
+						<!--バグ:-->
 					</token_33>
 					<pos_33>
 						null
@@ -8364,6 +8431,7 @@
 				<position_2>
 					<token_2>
 						myxwam
+						<!--アンダースコアつなぎなら問題なし-->
 					</token_2>
 					<pos_2>
 						null
@@ -8398,6 +8466,7 @@
 				<position_4>
 					<token_4>
 						ħŕyŕtaw
+						<!--バグ-->
 					</token_4>
 					<pos_4>
 						null
@@ -8704,6 +8773,7 @@
 				<position_22>
 					<token_22>
 						myxwaym
+						<!--アンダースコアならタグつく-->
 					</token_22>
 					<pos_22>
 						null
@@ -8941,6 +9011,7 @@
 				<position_8>
 					<token_8>
 						pltyky
+						<!--未登録語-->
 					</token_8>
 					<pos_8>
 						null
