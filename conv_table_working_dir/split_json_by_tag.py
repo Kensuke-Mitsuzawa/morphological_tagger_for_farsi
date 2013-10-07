@@ -8,6 +8,7 @@ import sys, codecs, json, re;
 
 #このコードの目的：perlexのタグがついたjsonファイルを対象に，tagがひとつだけの時と，タグが複数またはタグがつかなかった時，に分ける．tagがついた時は，機械的に処理をして見出し語と正規化後の形態素が同じする．タグがつかなかったまたはタグが複数の時は，手作業を行うために，tsvに出力する
 
+
 with codecs.open('./table_json', 'r', 'utf-8') as f:
     table_map=json.load(f);
 
