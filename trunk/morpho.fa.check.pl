@@ -965,40 +965,41 @@ sub fusion {
     if ($s=~s/neft ↙/nenb /o) {$gotfusion=1} # rank = 62
     if ($s=~s/gft ↙/g /o) {$gotfusion=1} # rank = 63
     if ($s=~s/ršt ↙/rys /o) {$gotfusion=1} # rank = 64
-    if ($s=~s/kšt ↙/kar /o) {$gotfusion=1} # rank = 65
-    if ($s=~s/dad £/d /o) {$gotfusion=1} # rank = 66
-    if ($s=~s/šd £/š /o) {$gotfusion=1} # rank = 67
-    if ($s=~s/nšst £/šyn /o) {$gotfusion=1} # rank = 68
-    if ($s=~s/rft £/r /o) {$gotfusion=1} # rank = 69
-    if ($s=~s/gft £/g /o) {$gotfusion=1} # rank = 70
-    if ($s=~s/awrd £/ar /o) {$gotfusion=1} # rank = 71
-    if ($s=~s/gđašt £/đar /o) {$gotfusion=1} # rank = 72
-    if ($s=~s/jst £/jwr /o) {$gotfusion=1} # rank = 73
-    if ($s=~s/šst £/šwr /o) {$gotfusion=1} # rank = 74
-    if ($s=~s/kšt £/kar /o) {$gotfusion=1} # rank = 75
-    if ($s=~s/xft £/xb /o) {$gotfusion=1} # rank = 76
-    if ($s=~s/āmd ♣/ā /o) {$gotfusion=1} # rank = 77
-    if ($s=~s/āmd ♠/āy /o) {$gotfusion=1} # rank = 78
-    if ($s=~s/gft ♣/gw /o) {$gotfusion=1} # rank = 79
-    if ($s=~s/gft ♠/gwy /o) {$gotfusion=1} # rank = 80
-    if ($s=~s/awmd ♣/ā /o) {$gotfusion=1} # rank = 81
-    if ($s=~s/awmd ♠/āy /o) {$gotfusion=1} # rank = 82
-    if ($s=~s/bwd ♫/baš /o) {$gotfusion=1} # rank = 83
-    if ($s=~s/bwd ♪/est /o) {$gotfusion=1} # rank = 84
-    if ($s=~s/bwd ►/bad /o) {$gotfusion=1} # rank = 85
-    if ($s=~s/bwd ◄/nst /o) {$gotfusion=1} # rank = 86
-    if ($s=~s/dašt ♦/dar /o) {$gotfusion=1} # rank = 87
-    if ($s=~s/xwast ☼/xwae /o) {$gotfusion=1} # rank = 88
-    if ($s=~s/krd ¢/kn /o) {$gotfusion=1} # rank = 89
-    if ($s=~s/šd ¢/šw /o) {$gotfusion=1} # rank = 90
-    if ($s=~s/kšyd ¢/kn /o) {$gotfusion=1} # rank = 91
-    if ($s=~s/dad ¢/de /o) {$gotfusion=1} # rank = 92
-    if ($s=~s/zd ¢/zn /o) {$gotfusion=1} # rank = 93
-    if ($s=~s/d ¢/ /o) {$gotfusion=1} # rank = 94
-    if ($s=~s/xt ¢/z /o) {$gotfusion=1} # rank = 95
-    if ($s=~s/st ¢/nd /o) {$gotfusion=1} # rank = 96
-    if ($s=~s/dad √/d /o) {$gotfusion=1} # rank = 97
-    if ($s=~s/st ∆/ /o) {$gotfusion=1} # rank = 98
+    if ($s=~s/čyd ↙/čyn /o) {$gotfusion=1} # rank = 65
+    if ($s=~s/kšt ↙/kar /o) {$gotfusion=1} # rank = 66
+    if ($s=~s/dad £/d /o) {$gotfusion=1} # rank = 67
+    if ($s=~s/šd £/š /o) {$gotfusion=1} # rank = 68
+    if ($s=~s/nšst £/šyn /o) {$gotfusion=1} # rank = 69
+    if ($s=~s/rft £/r /o) {$gotfusion=1} # rank = 70
+    if ($s=~s/gft £/g /o) {$gotfusion=1} # rank = 71
+    if ($s=~s/awrd £/ar /o) {$gotfusion=1} # rank = 72
+    if ($s=~s/gđašt £/đar /o) {$gotfusion=1} # rank = 73
+    if ($s=~s/jst £/jwr /o) {$gotfusion=1} # rank = 74
+    if ($s=~s/šst £/šwr /o) {$gotfusion=1} # rank = 75
+    if ($s=~s/kšt £/kar /o) {$gotfusion=1} # rank = 76
+    if ($s=~s/xft £/xb /o) {$gotfusion=1} # rank = 77
+    if ($s=~s/āmd ♣/ā /o) {$gotfusion=1} # rank = 78
+    if ($s=~s/āmd ♠/āy /o) {$gotfusion=1} # rank = 79
+    if ($s=~s/gft ♣/gw /o) {$gotfusion=1} # rank = 80
+    if ($s=~s/gft ♠/gwy /o) {$gotfusion=1} # rank = 81
+    if ($s=~s/awmd ♣/ā /o) {$gotfusion=1} # rank = 82
+    if ($s=~s/awmd ♠/āy /o) {$gotfusion=1} # rank = 83
+    if ($s=~s/bwd ♫/baš /o) {$gotfusion=1} # rank = 84
+    if ($s=~s/bwd ♪/est /o) {$gotfusion=1} # rank = 85
+    if ($s=~s/bwd ►/bad /o) {$gotfusion=1} # rank = 86
+    if ($s=~s/bwd ◄/nst /o) {$gotfusion=1} # rank = 87
+    if ($s=~s/dašt ♦/dar /o) {$gotfusion=1} # rank = 88
+    if ($s=~s/xwast ☼/xwae /o) {$gotfusion=1} # rank = 89
+    if ($s=~s/krd ¢/kn /o) {$gotfusion=1} # rank = 90
+    if ($s=~s/šd ¢/šw /o) {$gotfusion=1} # rank = 91
+    if ($s=~s/kšyd ¢/kn /o) {$gotfusion=1} # rank = 92
+    if ($s=~s/dad ¢/de /o) {$gotfusion=1} # rank = 93
+    if ($s=~s/zd ¢/zn /o) {$gotfusion=1} # rank = 94
+    if ($s=~s/d ¢/ /o) {$gotfusion=1} # rank = 95
+    if ($s=~s/xt ¢/z /o) {$gotfusion=1} # rank = 96
+    if ($s=~s/st ¢/nd /o) {$gotfusion=1} # rank = 97
+    if ($s=~s/dad √/d /o) {$gotfusion=1} # rank = 98
+    if ($s=~s/st ∆/ /o) {$gotfusion=1} # rank = 99
   }
   return $s;
 }

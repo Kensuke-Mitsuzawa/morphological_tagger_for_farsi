@@ -125,6 +125,8 @@
   <fusion source="neft_↙" target="nenb_" rev="-"/>
   <fusion source="gft_↙" target="g_" rev="-"/>
   <fusion source="ršt_↙" target="rys_" rev="-"/>
+  <!-- added by kensuke-mi -->
+  <fusion source="čyd_↙" target="čyn_" rev="-"/>
   <!-- probleme -->
   <fusion source="kšt_↙" target="kar_" rev="-"/>
 

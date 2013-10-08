@@ -9568,3 +9568,15 @@ dwne	N5:v	200;Lemma;N;;cat=N;%default	#?? (BK only)
 danedane	N5:v	200;Lemma;N;;cat=N;%default	#?? (BK only)
 barwn	N5:c	200;Lemma;N;;cat=N;%default	#?? (BK only)
 
+slmany	N5:v	0;Lemma;N;;cat=N;%default	#None
+slmany	N12:v	0;Lemma;N;;cat=N;%default	#None
+slmany	N15:v	0;Lemma;N;;cat=N;%default	#None
+qrbyl	N5:c	0;Lemma;N;;cat=N;%default	#None
+qrbyl	N12:c	0;Lemma;N;;cat=N;%default	#None
+qrbyl	N15:c	0;Lemma;N;;cat=N;%default	#None
+pltyky	N5:v	0;Lemma;N;;cat=N;%default	#None
+pltyky	N12:v	0;Lemma;N;;cat=N;%default	#None
+pltyky	N15:v	0;Lemma;N;;cat=N;%default	#None
+yal	N5:c	0;Lemma;N;;cat=N;%default	#None
+yal	N12:c	0;Lemma;N;;cat=N;%default	#None
+yal	N15:c	0;Lemma;N;;cat=N;%default	#None
