@@ -30,4 +30,8 @@ yal	名詞　たてがみ
 ptpt	形容詞  
 čydn	摘む　all v22が適切かと  	
 rystn	動詞 all v11とv22の両方とも適切
-kwbydn	動詞 たたく v1とv18が適切  
+kwbydn	動詞 たたく v1とv18が適切 
+ţy	名詞　前進  
+šdn	動詞 v23にも追加  
+mħtawy	名詞 all
+alaq	名詞 all 

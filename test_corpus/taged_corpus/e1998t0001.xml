@@ -244,7 +244,9 @@
                 "inv"
             ], 
             [
-                null
+                "N5:c", 
+                "N12:c", 
+                "N15:c"
             ], 
             [
                 null
@@ -298,7 +300,9 @@
                 "DETquant"
             ], 
             [
-                null
+                "N", 
+                "N", 
+                "N"
             ], 
             [
                 null
@@ -353,7 +357,9 @@
                 "yk_____1"
             ], 
             [
-                null
+                "qrbyl_____1", 
+                "qrbyl_____2", 
+                "qrbyl_____3"
             ], 
             [
                 null
@@ -426,7 +432,9 @@
                 "inv"
             ], 
             [
-                null
+                "Sing", 
+                "Sing", 
+                "Sing"
             ], 
             [
                 null
@@ -8133,7 +8141,20 @@
                 "inv"
             ], 
             [
-                null
+                "v1", 
+                "v1", 
+                "v7", 
+                "v7", 
+                "v22", 
+                "v22", 
+                "v23", 
+                "v23", 
+                "v24", 
+                "v24", 
+                "v28", 
+                "v28", 
+                "v29", 
+                "v29"
             ], 
             [
                 "v25", 
@@ -8163,7 +8184,41 @@
                 "N5:c"
             ], 
             [
-                null
+                "v12", 
+                "v12", 
+                "v12", 
+                "v28", 
+                "v28", 
+                "v28", 
+                "v28", 
+                "v29", 
+                "v29", 
+                "v29", 
+                "v29", 
+                "v13", 
+                "v13", 
+                "v13", 
+                "v14", 
+                "v14", 
+                "v14", 
+                "v15", 
+                "v15", 
+                "v15", 
+                "v16", 
+                "v16", 
+                "v16", 
+                "v17", 
+                "v17", 
+                "v17", 
+                "v22", 
+                "v22", 
+                "v22", 
+                "v23", 
+                "v23", 
+                "v23", 
+                "v24", 
+                "v24", 
+                "v24"
             ], 
             [
                 "inv"
@@ -8363,7 +8418,20 @@
                 "CONJsubord"
             ], 
             [
-                null
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V"
             ], 
             [
                 "V", 
@@ -8393,7 +8461,41 @@
                 "N"
             ], 
             [
-                null
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V"
             ], 
             [
                 "ADVcoord"
@@ -8594,7 +8696,20 @@
                 "ke_____1"
             ], 
             [
-                null
+                "čydn_____1", 
+                "čydn_____1", 
+                "čydn_____2", 
+                "čydn_____2", 
+                "čydn_____3", 
+                "čydn_____3", 
+                "čydn_____4", 
+                "čydn_____4", 
+                "čydn_____5", 
+                "čydn_____5", 
+                "čydn_____6", 
+                "čydn_____6", 
+                "čydn_____7", 
+                "čydn_____7"
             ], 
             [
                 "bwdn_____1", 
@@ -8624,7 +8739,41 @@
                 "nx_____1"
             ], 
             [
-                null
+                "rystn_____1", 
+                "rystn_____1", 
+                "rystn_____1", 
+                "rystn_____10", 
+                "rystn_____10", 
+                "rystn_____10", 
+                "rystn_____10", 
+                "rystn_____11", 
+                "rystn_____11", 
+                "rystn_____11", 
+                "rystn_____11", 
+                "rystn_____2", 
+                "rystn_____2", 
+                "rystn_____2", 
+                "rystn_____3", 
+                "rystn_____3", 
+                "rystn_____3", 
+                "rystn_____4", 
+                "rystn_____4", 
+                "rystn_____4", 
+                "rystn_____5", 
+                "rystn_____5", 
+                "rystn_____5", 
+                "rystn_____6", 
+                "rystn_____6", 
+                "rystn_____6", 
+                "rystn_____7", 
+                "rystn_____7", 
+                "rystn_____7", 
+                "rystn_____8", 
+                "rystn_____8", 
+                "rystn_____8", 
+                "rystn_____9", 
+                "rystn_____9", 
+                "rystn_____9"
             ], 
             [
                 "w_____1"
@@ -8890,7 +9039,20 @@
                 "inv"
             ], 
             [
-                null
+                "3sgPreparfFam", 
+                "partPas", 
+                "3sgPreparfFam", 
+                "partPas", 
+                "3sgPreparfFam", 
+                "partPas", 
+                "3sgPreparfFam", 
+                "partPas", 
+                "3sgPreparfFam", 
+                "partPas", 
+                "3sgPreparfFam", 
+                "partPas", 
+                "3sgPreparfFam", 
+                "partPas"
             ], 
             [
                 "*10*inf", 
@@ -8920,7 +9082,41 @@
                 "Sing"
             ], 
             [
-                null
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPastprogFam", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPastprogFam", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam", 
+                "*10*inf", 
+                "2*3plPreparfFam", 
+                "2*3plPreteritFam"
             ], 
             [
                 "inv"
@@ -9611,7 +9807,9 @@
                 "inv"
             ], 
             [
-                null
+                "N5:v", 
+                "N12:v", 
+                "N15:v"
             ], 
             [
                 "ADJ:c", 
@@ -9697,7 +9895,9 @@
                 "DETquant"
             ], 
             [
-                null
+                "N", 
+                "N", 
+                "N"
             ], 
             [
                 "ADJ", 
@@ -9784,7 +9984,9 @@
                 "yk_____1"
             ], 
             [
-                null
+                "pltyky_____1", 
+                "pltyky_____2", 
+                "pltyky_____3"
             ], 
             [
                 "rd_____1", 
@@ -9896,7 +10098,9 @@
                 "inv"
             ], 
             [
-                null
+                "Sing", 
+                "Sing", 
+                "Sing"
             ], 
             [
                 "", 
@@ -14008,7 +14212,24 @@
                 "inv"
             ], 
             [
-                null
+                "v1", 
+                "v1", 
+                "v7", 
+                "v7", 
+                "v22", 
+                "v22", 
+                "v23", 
+                "v23", 
+                "v24", 
+                "v24", 
+                "v28", 
+                "v28", 
+                "v28", 
+                "v28", 
+                "v28", 
+                "v29", 
+                "v29", 
+                "v29"
             ], 
             [
                 "N5:c"
@@ -14105,7 +14326,24 @@
                 "PROpers"
             ], 
             [
-                null
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V", 
+                "V"
             ], 
             [
                 "N"
@@ -14203,7 +14441,24 @@
                 "aw_____1"
             ], 
             [
-                null
+                "kwbydn_____1", 
+                "kwbydn_____1", 
+                "kwbydn_____2", 
+                "kwbydn_____2", 
+                "kwbydn_____3", 
+                "kwbydn_____3", 
+                "kwbydn_____4", 
+                "kwbydn_____4", 
+                "kwbydn_____5", 
+                "kwbydn_____5", 
+                "kwbydn_____6", 
+                "kwbydn_____6", 
+                "kwbydn_____6", 
+                "kwbydn_____6", 
+                "kwbydn_____6", 
+                "kwbydn_____7", 
+                "kwbydn_____7", 
+                "kwbydn_____7"
             ], 
             [
                 "zmyn_____1"
@@ -14330,7 +14585,24 @@
                 "inv"
             ], 
             [
-                null
+                "2*3sgPreterit", 
+                "infApocope", 
+                "2*3sgPreterit", 
+                "infApocope", 
+                "2*3sgPreterit", 
+                "infApocope", 
+                "2*3sgPreterit", 
+                "infApocope", 
+                "2*3sgPreterit", 
+                "infApocope", 
+                "2*3sgPastprog", 
+                "2*3sgPreInd", 
+                "2*3sgPreSubj", 
+                "2*3sgPreterit", 
+                "infApocope", 
+                "2*3sgPastprog", 
+                "2*3sgPreterit", 
+                "infApocope"
             ], 
             [
                 "Sing"

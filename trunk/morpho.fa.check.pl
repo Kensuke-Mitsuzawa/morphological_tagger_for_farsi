@@ -961,7 +961,7 @@ sub fusion {
     if ($s=~s/jst ↙/jw /o) {$gotfusion=1} # rank = 58
     if ($s=~s/dwxt ↙/dwš /o) {$gotfusion=1} # rank = 59
     if ($s=~s/krd ↙/kn /o) {$gotfusion=1} # rank = 60
-    if ($s=~s/mrd ↙/myz /o) {$gotfusion=1} # rank = 61
+    if ($s=~s/mrd ↙/myr /o) {$gotfusion=1} # rank = 61
     if ($s=~s/neft ↙/nenb /o) {$gotfusion=1} # rank = 62
     if ($s=~s/gft ↙/g /o) {$gotfusion=1} # rank = 63
     if ($s=~s/ršt ↙/rys /o) {$gotfusion=1} # rank = 64

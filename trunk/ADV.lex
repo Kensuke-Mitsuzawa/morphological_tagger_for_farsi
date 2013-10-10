@@ -245,6 +245,7 @@ emyn	110	ADV	[pred="emyn___MTE__1",cat=ADV]	emyn___MTE__1	Default		%default	ADV1
 emyn ţwr	110	ADV	[pred="emyn ţwr___MTE__1",cat=ADV]	emyn ţwr___MTE__1	Default		%default	ADV1
 emyn ţwry	110	ADV	[pred="emyn ţwry___MTE__1",cat=ADV]	emyn ţwry___MTE__1	Default		%default	ADV1
 emynja	100	ADV	[pred="emynja_____1",cat=ADV]	emynja_____1	Default		%default	ADV1
+emynţwry	0	ADV	[pred="emynţwry_____1",cat=ADV]	emynţwry_____1	Default		%default	ADV1
 emyše	110	ADV	[pred="emyše___MTE__1",cat=ADV]	emyše___MTE__1	Default		%default	ADV1
 emzman	110	ADV	[pred="emzman___MTE__1",cat=ADV]	emzman___MTE__1	Default		%default	ADV1
 emç	100	ADV	[pred="emç_____1",cat=ADV]	emç_____1	Default		%default	ADV1
