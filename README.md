@@ -4,8 +4,8 @@ performance_perlex
 test_corpus テストコーパスの格納ディレクトリ  
 	|  
 	|--json json化したコーパスの格納場所  
-	|--json_after_conv_table 対応表パッチを当てた後のコーパス 
-	|--xml xml化したコーパスを保存しておくディレクトリ 
+	|--json_after_conv_table 対応表パッチを当てた後のコーパス   
+	|--xml xml化したコーパスを保存しておくディレクトリ   
 
 conv_table_working_dir 修正中の対応表を一時的においておくディレクトリ  
 
@@ -25,7 +25,11 @@ lex_to_json.py perlexディレクトリからjsonファイルを作成するス�
 
 tag_and_check_performance.py コーパスにperlex jsonのタグ付けを行うスクリプト 
 
-generate_xml.py	対応表パッチあて済みコーパスからxmlを生成するスクリプト
+generate_xml.py	対応表パッチあて済みコーパスからxmlを生成するスクリプト  
+
+conv_to_annotation_format.py annotation用の様式に変換するスクリプト  
+
+annotation_format_validation.py annotationのtoken番号を修正して，タグが1tokenにひとつであることをチェックするスクリプト  
 
 ## 処理の流れ
 
@@ -41,7 +45,9 @@ tag_and_check_performance.py
 	|  
 taged.corpus     
 	|  
-generate_xml.py  
+conv_to_annotation_format.py  
+(generate_xml.pyで同時にxmlも生成できる) 
+ 
 	|  
 test_corpus/xml/
  
