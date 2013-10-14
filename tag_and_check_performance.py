@@ -1,7 +1,14 @@
 #! /user/bin/python
 #-*- coding:utf-8 -*-
+"""
+json化されたコーパスデータにPerlexの辞書を用いてタグ付けを行う．
+
+ARGS: test_corpus/json_after_conv_table/コーパス名
+
+OUT: test_corpus/taged_corpus/コーパス名
+"""
 __author__='Kensuke Mitsuzawa';
-__date__='2013/10/01';
+__date__='2013/10/14';
 
 import json, codecs, sys, subprocess, sys, os;
 
@@ -28,34 +35,40 @@ def do_tag(after_inf_dictionary, corpus):
         stems=[];
         pos_tags=[];
         categories=[];
+        inflections=[];
         tokens=sentence_data['after_conv_tokens'];
         for token in tokens:
             tag=[];
             stem=[];
             pos_perlex=[];
             category=[];
+            inflection=[];
             if token in after_inf_dictionary:
                 for items in after_inf_dictionary[token]:
                     pos_perlex.append(items[1]); 
                     stem.append(items[2]);
                     tag.append(items[3]);
-                    category.append(items[-1]); 
-
+                    category.append(items[-1][0]);
+                    inflection.append(items[-1][-1]);
+                    
             else:
                 tag.append(None);
                 stem.append(None);
                 pos_perlex.append(None);
                 category.append(None);
+                inflection.append(None);
 
             tags.append(tag);
             stems.append(stem); 
             pos_tags.append(pos_perlex);
             categories.append(category);
+            inflections.append(inflection);
 
         sentence_data.setdefault('morph_tag', tags);
         sentence_data.setdefault('stem', stems);
         sentence_data.setdefault('pos_perlex', pos_tags);
         sentence_data.setdefault('category', categories);
+        sentence_data.setdefault('inflection', inflections);
 
         new_corpus.append(sentence_data);
     return new_corpus;

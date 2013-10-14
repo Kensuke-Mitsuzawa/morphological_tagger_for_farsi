@@ -1,6 +1,12 @@
 #! /usr/bin/python
 # -*- coding:utf-8 -*-
-__date__='2013/10/10'
+"""
+タグ付けされたコーパスをアノテーションしやすいフォーマットに変換する．
+ARGS: test_corpus/taged_corpus/コーパス名
+
+OUT: test_corpus/annotation_format/コーパス名
+"""
+__date__='2013/10/14'
 __author__='Kensuke-mi'
 
 import sys, codecs, json, os;
@@ -23,9 +29,10 @@ def generate_format(corpus):
                     category=sentence[u'category'][i][ii];
                     morph=sentence[u'morph_tag'][i][ii];
                     stem=sentence[u'stem'][i][ii];
+                    inflection=sentence[u'inflection'][i][ii];
 
-                    annotation_format=u'{0}@{1}\t{2}|{3}|{4}|{5}|{6}\n'\
-                            .format(i, sentence_id, token, pos, stem, morph, category);
+                    annotation_format=u'{0}@{1}\t{2}|{3}|{4}|{5}|{6}|{7}\n'\
+                            .format(i, sentence_id, token, pos, stem, morph, category, inflection);
                     format_stack.append(annotation_format);
             
             format_stack.append(u'\n')
