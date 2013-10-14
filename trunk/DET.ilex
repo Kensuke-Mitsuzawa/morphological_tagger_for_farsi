@@ -99,6 +99,7 @@ xyly	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 73/617=0.11	# Known to the 
 yazde	inv	100;Lemma;DETquant;;cat=DETquant;%default	# eleven
 ygane___one	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 2/39=0.05	# Known to the PPD: ygane
 yk	inv	300;Lemma;DETquant;;cat=DETquant;%default	# one
+#yk	inv	0;Lemma;PRENUM;;cat=PRENUM;%default	# one
 ān	inv	100;Lemma;DETdem;;cat=DETdem;%default	# 2994/14386=0.2
 ān_ea	inv	100;Lemma;DETdem;;cat=DETdem;%default	# 2994/14386=0.2
 ānčnan	inv	200;Lemma;DETdem;;cat=DETdem;%default	# 	# Known to the PPD: ānčnan
@@ -127,7 +128,63 @@ yk	inv	300;Lemma;DETquant;;cat=DETquant;%default	# one
 ŕryb	inv	300;Lemma;DETquant;;cat=DETquant;%default	# 3/66=0.04	# Known to the PPD: ŕryb
 ŕsmty	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 5/116=0.04
 śś	inv	100;Lemma;DETquant;;cat=DETquant;%default	# six
+
+
 ţyfy	inv	100;Lemma;DETquant;;cat=DETquant;%default	# 2/10=0.2
-
-
 adame	inv	100;Lemma;DETquant;;cat=DETquant;%default	# manually modified from adame dendg # more
+če	inv	0;Lemma;DET;;cat=QUAJ;%default	#None
+če_	inv	0;Lemma;DET;;cat=QUAJ;%default	#None
+čnd	inv	0;Lemma;DET;;cat=QUAJ;%default	#None
+kdam	inv	0;Lemma;DET;;cat=QUAJ;%default	#None
+kdamyn	inv	0;Lemma;DET;;cat=QUAJ;%default	#None
+čgwne	inv	0;Lemma;DET;;cat=QUAJ;%default	#None
+
+'jb	inv	0;Lemma;DET;;cat=EXAJ;%default	#None
+če	inv	0;Lemma;DET;;cat=EXAJ;%default	#None
+
+čnd	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+er	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+dygr	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+eme	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+b'źy	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+čndyn	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+eman	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+čndy	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+eyč	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+ezaran	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+brxy	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+mylywn_ea	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+şdea	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+'de_ay	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+eyč_	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+flan	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+de_ea	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+mŕdary	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+če	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+tnea	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+emX	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+xyly	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+tk	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+gaey	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+akçr	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+mylyardea	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+čndan	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+klyX	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+kmy	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+bsyary	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+kmtr	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+t'dady	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+sal_ea	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+pare_ay	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+čndşd	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+eme_	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+ewar	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+srasr	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+an	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+čndmyn	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+grwey	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+čŕdr	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+bsy	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+bsyar	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+andky	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None
+erče	inv	0;Lemma;DET;;cat=AMBAJ;%default	#None

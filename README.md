@@ -47,7 +47,6 @@ taged.corpus
 	|  
 conv_to_annotation_format.py  
 (generate_xml.pyで同時にxmlも生成できる) 
- 
 	|  
 test_corpus/xml/
  

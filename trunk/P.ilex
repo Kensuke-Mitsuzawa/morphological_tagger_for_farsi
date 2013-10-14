@@ -327,3 +327,14 @@ be jz	inv	100;Lemma;P;;cat=P;%default	# 69/69=1
 be qyr	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
 be qyr az	inv	100;Lemma;P;;cat=P;%default	# 3/3=1
 be rqm	inv	100;Lemma;P;;cat=P;%default	# 30/92=0.32
+ra	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+rw	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+dr	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+emrae	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+w	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+drbarX	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+ħdwd	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+knar	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+az	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+jlwy	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+pyš	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep

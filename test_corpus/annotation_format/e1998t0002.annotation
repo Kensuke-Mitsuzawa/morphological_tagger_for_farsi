@@ -1,0 +1,3507 @@
+#new sentence2001
+0@2001	yky|PROrecip|yky_____1|inv|inv
+
+1@2001	bwd|V|bwdn_____1|2*3sgPreterit|v25
+1@2001	bwd|V|bwdn_____1|infApocope|v25
+
+2@2001	yky|PROrecip|yky_____1|inv|inv
+
+3@2001	nbwd|V|bwdn_____1|3sgPreteritNeg|v25
+
+4@2001	,|DELM|,_____1|inv|inv
+
+5@2001	qyr|ADJ|qyr___MTE__1||ADJ
+5@2001	qyr|ADV|qyr_____1|inv|inv
+
+6@2001	az|P|az_____1|inv|inv
+
+7@2001	xday|N|xda_____1|SingEzafe|N1:v
+7@2001	xday|N|xday_____1|Sing|N15:v
+
+8@2001	merban|ADJ|merban_____1||ADJ:c
+8@2001	merban|PN|merban___Mehraban, Iran__1|Sing|N2:c
+
+9@2001	eyč|DETquant|eyč_____1|inv|inv
+9@2001	eyč|PROquant|eyč___MTE__1|inv|inv
+
+10@2001	ks|N|ks_____1|Sing|N15:c
+
+11@2001	nbwd|V|bwdn_____1|3sgPreteritNeg|v25
+
+12@2001	.|DELM|._____1|inv|inv
+
+#new sentence2002
+0@2002	bzbz|None|None|None|None
+
+1@2002	ŕndy|ADJ|ŕndy_____1||ADJ:v
+1@2002	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+1@2002	ŕndy|PN|ŕndy_____1|inv|inv
+
+2@2002	bwd|V|bwdn_____1|2*3sgPreterit|v25
+2@2002	bwd|V|bwdn_____1|infApocope|v25
+
+3@2002	,|DELM|,_____1|inv|inv
+
+4@2002	se|DETquant|se_____1|inv|inv
+
+5@2002	ta|CLASSpl|ta_____1|inv|inv
+5@2002	ta|ADV|ta_____1|inv|inv
+5@2002	ta|P|ta_____1|inv|inv
+
+6@2002	bče|N|bče_____1|Sing|N5:v
+6@2002	bče|V|čydn_____1|3sgPreSubjFam|v1
+
+7@2002	dašt|V|daštn_____1|2*3sgPastprog|v26
+7@2002	dašt|V|daštn_____1|2*3sgPreterit|v26
+7@2002	dašt|V|daštn_____1|infApocope|v26
+7@2002	dašt|V|daštn_____2|2*3sgPreterit|v9
+7@2002	dašt|V|daštn_____2|infApocope|v9
+
+8@2002	.|DELM|._____1|inv|inv
+
+#new sentence2003
+0@2003	yky|PROrecip|yky_____1|inv|inv
+
+1@2003	aw|N|aw_____1|Sing|N15:c
+1@2003	aw|PROpers|aw_____1|inv|inv
+
+2@2003	bwd|V|bwdn_____1|2*3sgPreterit|v25
+2@2003	bwd|V|bwdn_____1|infApocope|v25
+
+3@2003	asmš|N|asm_____1|SingPers3s|N5:c
+
+4@2003	šngwl|PN|šngwl_____1|inv|inv
+
+5@2003	yky|PROrecip|yky_____1|inv|inv
+
+6@2003	bwd|V|bwdn_____1|2*3sgPreterit|v25
+6@2003	bwd|V|bwdn_____1|infApocope|v25
+
+7@2003	mngwl|N|mngwl_____1|Sing|N5:c
+
+8@2003	,|DELM|,_____1|inv|inv
+
+9@2003	yky|PROrecip|yky_____1|inv|inv
+
+10@2003	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+11@2003	.|DELM|._____1|inv|inv
+
+#new sentence2004
+0@2004	ayn|DETdem|ayn_____1|inv|inv
+0@2004	ayn|PROdem|ayn_____1|inv|inv
+
+1@2004	bzbz|None|None|None|None
+
+2@2004	ŕndy|ADJ|ŕndy_____1||ADJ:v
+2@2004	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+2@2004	ŕndy|PN|ŕndy_____1|inv|inv
+
+3@2004	rwz|ADV|rwz___MTE__1||ADV1
+3@2004	rwz|N|rwz_____1|Sing|N5:c
+
+4@2004	my_rft|V|rftn_____1|2*3sgPastprog|v19
+4@2004	my_rft|V|rftn_____2|2*3sgPastprog|v21
+4@2004	my_rft|V|rftn_____3|2*3sgPastprog|v22
+
+5@2004	be|N|be_____1|Sing|N5:v
+5@2004	be|P|be_____1|inv|inv
+
+6@2004	şħra|N|şħra_____1|Sing|N5:v
+
+7@2004	,|DELM|,_____1|inv|inv
+
+8@2004	şbħ|ADV|şbħ___MTE__1||ADV1
+8@2004	şbħ|N|şbħ_____1|Sing|N5:c
+
+9@2004	my_rft|V|rftn_____1|2*3sgPastprog|v19
+9@2004	my_rft|V|rftn_____2|2*3sgPastprog|v21
+9@2004	my_rft|V|rftn_____3|2*3sgPastprog|v22
+
+10@2004	be|N|be_____1|Sing|N5:v
+10@2004	be|P|be_____1|inv|inv
+
+11@2004	şħra|N|şħra_____1|Sing|N5:v
+
+12@2004	,|DELM|,_____1|inv|inv
+
+13@2004	qrwb|None|None|None|None
+
+14@2004	pstan|ADJ|ps_____1|Pers2p|ADJ:c
+14@2004	pstan|N|pstan_____1|Sing|N1:c
+
+15@2004	pr|ADJ|pr_____1||ADJ:c
+15@2004	pr|N|pr_____1|Sing|N1:c
+15@2004	pr|N|pr_____2|Sing|N5:c
+
+16@2004	az|P|az_____1|inv|inv
+
+17@2004	šyr|N|šyr_____1|Sing|N15:c
+17@2004	šyr|N|šyr_____2|Sing|N5:c
+
+18@2004	my|ADJ|m_____1|Indef|ADJ:c
+
+19@2004	awmd|V|awmdn_____1|2*3sgPreterit|v24:v
+19@2004	awmd|V|awmdn_____1|infApocope|v24:v
+
+20@2004	be|N|be_____1|Sing|N5:v
+20@2004	be|P|be_____1|inv|inv
+
+21@2004	xane_aš|N|xane_____1|SingPers3s|N5:v
+
+22@2004	.|DELM|._____1|inv|inv
+
+#new sentence2005
+0@2005	ye|None|None|None|None
+
+1@2005	rwz|ADV|rwz___MTE__1||ADV1
+1@2005	rwz|N|rwz_____1|Sing|N5:c
+
+2@2005	az|P|az_____1|inv|inv
+
+3@2005	rwzea|N|rwz_____1|Plur|N5:c
+
+4@2005	wŕt|ADJ|wŕt_____1||ADJ:c
+4@2005	wŕt|ADV|wŕt___MTE__1|inv|inv
+4@2005	wŕt|N|wŕt_____1|Sing|N5:c
+
+5@2005	ke|CONJsubord|ke_____1|inv|inv
+
+6@2005	xwast|N|xwast_____1|Sing|N5:c
+6@2005	xwast|V|xwastn_____1|2*3sgPreterit|v13
+6@2005	xwast|V|xwastn_____1|infApocope|v13
+6@2005	xwast|V|xwastn_____2|2*3sgPreterit|v15
+6@2005	xwast|V|xwastn_____2|infApocope|v15
+6@2005	xwast|V|xwastn_____3|2*3sgPreterit|v22
+6@2005	xwast|V|xwastn_____3|infApocope|v22
+
+7@2005	bre|N|bre_____1|Sing|N5:v
+7@2005	bre|V|rstn_____1|imperNorm|v13
+
+8@2005	be|N|be_____1|Sing|N5:v
+8@2005	be|P|be_____1|inv|inv
+
+9@2005	şħra|N|şħra_____1|Sing|N5:v
+
+10@2005	,|DELM|,_____1|inv|inv
+
+11@2005	be|N|be_____1|Sing|N5:v
+11@2005	be|P|be_____1|inv|inv
+
+12@2005	bče_aš|N|bče_____1|SingPers3s|N5:v
+
+13@2005	gft|V|gftn_____1|2*3sgPreterit|v21
+13@2005	gft|V|gftn_____1|infApocope|v21
+13@2005	gft|V|gftn_____2|2*3sgPreterit|v22
+13@2005	gft|V|gftn_____2|infApocope|v22
+
+14@2005	.|DELM|._____1|inv|inv
+
+#new sentence2006
+0@2006	šngwl|PN|šngwl_____1|inv|inv
+
+1@2006	mn|AR|mn_____1|inv|inv
+1@2006	mn|PROpers|mn_____1|inv|inv
+
+2@2006	,|DELM|,_____1|inv|inv
+
+3@2006	mngwl|N|mngwl_____1|Sing|N5:c
+
+4@2006	mn|AR|mn_____1|inv|inv
+4@2006	mn|PROpers|mn_____1|inv|inv
+
+5@2006	,|DELM|,_____1|inv|inv
+
+6@2006	nne|N|nne_____1|Sing|N1:v
+6@2006	nne|V|neadn_____1|ProhibNorm|v4
+
+7@2006	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+8@2006	mn|AR|mn_____1|inv|inv
+8@2006	mn|PROpers|mn_____1|inv|inv
+
+9@2006	,|DELM|,_____1|inv|inv
+
+10@2006	mwaẓb|ADJ|mwaẓb_____1||ADJ:c
+
+11@2006	bašnd|V|bwdn_____1|2*3plPreSubj|v25
+
+12@2006	tazgy_ea|N|tazgy_____1|Plur|N5:v
+
+13@2006	āŕa|INTexcl|āŕa_____1|inv|inv
+13@2006	āŕa|N|āŕa_____1|Sing|N1:v
+13@2006	āŕa|INTexcl|āŕa_____1|inv|inv
+
+14@2006	grg|N|grg_____1|Sing|N5:c
+
+15@2006	āmde|ADJ|āmde___MTE__1||ADJ
+15@2006	āmde|V|āmdn_____1|3sgPreparfFam|v24:v
+15@2006	āmde|V|āmdn_____1|partPas|v24:v
+
+16@2006	nzdyk|ADJ|nzdyk_____1||ADJ:c
+16@2006	nzdyk|ADV|nzdyk___MTE__1||ADV1
+16@2006	nzdyk|N|nzdyk_____1|Sing|N15:c
+16@2006	nzdyk|P|nzdyk_____1|inv|inv
+
+17@2006	xwnX|None|None|None|None
+
+18@2006	ma|N|ma_____1|Sing|N5:v
+18@2006	ma|PROpers|ma_____1|inv|inv
+
+19@2006	lane|AR|lane_____1|inv|inv
+19@2006	lane|N|lane_____1|Sing|N5:v
+
+20@2006	drst|ADJ|drst_____1||ADJ:c
+20@2006	drst|ADV|drst___MTE__1||ADV1
+20@2006	drst|N|drs_____1|SingPers2s|N5:c
+
+21@2006	krde|V|krdn_____1|3sgPreparfFam|v22
+21@2006	krde|V|krdn_____1|partPas|v22
+21@2006	krde|V|krdn_____2|3sgPreparfFam|v28
+21@2006	krde|V|krdn_____2|partPas|v28
+
+22@2006	,|DELM|,_____1|inv|inv
+
+23@2006	agr|ADVcond|agr_____1|inv|inv
+23@2006	agr|N|agr_____1|Sing|N5:c
+
+24@2006	yk|DETquant|yk_____1|inv|inv
+
+25@2006	wŕt|ADJ|wŕt_____1||ADJ:c
+25@2006	wŕt|ADV|wŕt___MTE__1|inv|inv
+25@2006	wŕt|N|wŕt_____1|Sing|N5:c
+
+26@2006	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+26@2006	āmd|V|āmdn_____1|infApocope|v24:v
+
+27@2006	dr|N|dr_____1|Sing|N5:c
+27@2006	dr|P|dr_____1|inv|inv
+
+28@2006	zd|V|zdn_____1|2*3sgPastprog|v28
+28@2006	zd|V|zdn_____1|2*3sgPreterit|v28
+28@2006	zd|V|zdn_____1|infApocope|v28
+28@2006	zd|V|zdn_____2|2*3sgPreterit|v7
+28@2006	zd|V|zdn_____2|infApocope|v7
+
+29@2006	,|DELM|,_____1|inv|inv
+
+30@2006	gft|V|gftn_____1|2*3sgPreterit|v21
+30@2006	gft|V|gftn_____1|infApocope|v21
+30@2006	gft|V|gftn_____2|2*3sgPreterit|v22
+30@2006	gft|V|gftn_____2|infApocope|v22
+
+31@2006	mn|AR|mn_____1|inv|inv
+31@2006	mn|PROpers|mn_____1|inv|inv
+
+32@2006	madr|N|madr_____1|Sing|N15:c
+32@2006	madr|N|madr_____2|Sing|N5:c
+
+33@2006	tw|P|tw_____1|inv|inv
+33@2006	tw|PROpers|tw_____1|inv|inv
+
+34@2006	estm|V|bwdn_____1|1sgPreInd|v25
+
+35@2006	,|DELM|,_____1|inv|inv
+
+36@2006	dr|N|dr_____1|Sing|N5:c
+36@2006	dr|P|dr_____1|inv|inv
+
+37@2006	baz|ADJ|baz_____1||ADJ:c
+37@2006	baz|ADV|baz_____1||ADV1
+37@2006	baz|P|baz___MTE__1|inv|inv
+
+38@2006	nkny|V|kndn_____1|2sgPreSubjNeg|v2
+38@2006	nkny|V|krdn_____1|2sgPreSubjNeg|v22
+38@2006	nkny|V|krdn_____2|2sgPreIndNeg|v28
+38@2006	nkny|V|krdn_____2|2sgPreSubjNeg|v28
+
+39@2006	na|N|na_____1|Sing|N1:v
+
+40@2006	.|DELM|._____1|inv|inv
+
+#new sentence2007
+0@2007	gftn|N|gftn_____1|Sing|N5:c
+0@2007	gftn|V|gftn_____1|*10*inf|v21
+0@2007	gftn|V|gftn_____1|2*3plPreparfFam|v21
+0@2007	gftn|V|gftn_____1|2*3plPreteritFam|v21
+0@2007	gftn|V|gftn_____2|*10*inf|v22
+0@2007	gftn|V|gftn_____2|2*3plPreparfFam|v22
+0@2007	gftn|V|gftn_____2|2*3plPreteritFam|v22
+
+1@2007	ne|ADV|ne_____1||ADV1
+1@2007	ne|ADV|ne_____1|inv|inv
+1@2007	ne|INTs|ne_____1|inv|inv
+1@2007	ne|N|ne_____1|Sing|N5:v
+1@2007	ne|INTs|ne_____1|inv|inv
+
+2@2007	,|DELM|,_____1|inv|inv
+
+3@2007	gft|V|gftn_____1|2*3sgPreterit|v21
+3@2007	gft|V|gftn_____1|infApocope|v21
+3@2007	gft|V|gftn_____2|2*3sgPreterit|v22
+3@2007	gft|V|gftn_____2|infApocope|v22
+
+4@2007	agr|ADVcond|agr_____1|inv|inv
+4@2007	agr|N|agr_____1|Sing|N5:c
+
+5@2007	yk|DETquant|yk_____1|inv|inv
+
+6@2007	wŕt|ADJ|wŕt_____1||ADJ:c
+6@2007	wŕt|ADV|wŕt___MTE__1|inv|inv
+6@2007	wŕt|N|wŕt_____1|Sing|N5:c
+
+7@2007	madr|N|madr_____1|Sing|N15:c
+7@2007	madr|N|madr_____2|Sing|N5:c
+
+8@2007	tw|P|tw_____1|inv|inv
+8@2007	tw|PROpers|tw_____1|inv|inv
+
+9@2007	estm|V|bwdn_____1|1sgPreInd|v25
+
+10@2007	šma|PROpers|šma_____1|inv|inv
+
+11@2007	dr|N|dr_____1|Sing|N5:c
+11@2007	dr|P|dr_____1|inv|inv
+
+12@2007	baz|ADJ|baz_____1||ADJ:c
+12@2007	baz|ADV|baz_____1||ADV1
+12@2007	baz|P|baz___MTE__1|inv|inv
+
+13@2007	nknyd|V|kndn_____1|2plPreSubjNeg|v2
+13@2007	nknyd|V|kndn_____1|ProhibNormpl|v2
+13@2007	nknyd|V|krdn_____1|2plPreSubjNeg|v22
+13@2007	nknyd|V|krdn_____1|ProhibNormpl|v22
+13@2007	nknyd|V|krdn_____2|2plPreIndNeg|v28
+13@2007	nknyd|V|krdn_____2|2plPreSubjNeg|v28
+13@2007	nknyd|V|krdn_____2|ProhibNormpl|v28
+
+14@2007	.|DELM|._____1|inv|inv
+
+#new sentence2008
+0@2008	bgyrnd|V|grftn_____1|2*3plPreSubj|v22
+
+1@2008	dst|N|dst_____1|Sing|N15:c
+1@2008	dst|N|dst_____2|Sing|N5:c
+
+2@2008	w|ADVcoord|w_____1|inv|inv
+
+3@2008	pa|N|pa_____1|Sing|N1:v
+3@2008	pa|N|pa_____2|Sing|N5:v
+
+4@2008	madr|N|madr_____1|Sing|N15:c
+4@2008	madr|N|madr_____2|Sing|N5:c
+
+5@2008	ma|N|ma_____1|Sing|N5:v
+5@2008	ma|PROpers|ma_____1|inv|inv
+
+6@2008	ħnayy|N|ħna_____1|SingIndef|N1:v
+
+7@2008	ast|N|ast_____1|Sing|N15:c
+7@2008	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+8@2008	.|DELM|._____1|inv|inv
+
+#new sentence2009
+0@2009	sfarš|N|sfarš_____1|Sing|N1:c
+0@2009	sfarš|N|sfarš_____2|Sing|N5:c
+
+1@2009	zyad|ADJ|zyad_____1||ADJ:c
+1@2009	zyad|ADV|zyad___MTE__1||ADV1
+
+2@2009	krd|N|krd_____1|Sing|N5:c
+2@2009	krd|V|krdn_____1|2*3sgPreterit|v22
+2@2009	krd|V|krdn_____1|infApocope|v22
+2@2009	krd|V|krdn_____2|2*3sgPastprog|v28
+2@2009	krd|V|krdn_____2|2*3sgPreterit|v28
+2@2009	krd|V|krdn_____2|infApocope|v28
+
+3@2009	,|DELM|,_____1|inv|inv
+
+4@2009	rft|N|rf_____1|SingPers2s|N1:c
+4@2009	rft|V|rftn_____1|2*3sgPreterit|v19
+4@2009	rft|V|rftn_____1|infApocope|v19
+4@2009	rft|V|rftn_____2|2*3sgPreterit|v21
+4@2009	rft|V|rftn_____2|infApocope|v21
+4@2009	rft|V|rftn_____3|2*3sgPreterit|v22
+4@2009	rft|V|rftn_____3|infApocope|v22
+
+5@2009	.|DELM|._____1|inv|inv
+
+#new sentence2010
+0@2010	emnŕdr|None|None|None|None
+
+1@2010	ke|CONJsubord|ke_____1|inv|inv
+
+2@2010	rft|N|rf_____1|SingPers2s|N1:c
+2@2010	rft|V|rftn_____1|2*3sgPreterit|v19
+2@2010	rft|V|rftn_____1|infApocope|v19
+2@2010	rft|V|rftn_____2|2*3sgPreterit|v21
+2@2010	rft|V|rftn_____2|infApocope|v21
+2@2010	rft|V|rftn_____3|2*3sgPreterit|v22
+2@2010	rft|V|rftn_____3|infApocope|v22
+
+3@2010	w|ADVcoord|w_____1|inv|inv
+
+4@2010	yk|DETquant|yk_____1|inv|inv
+
+5@2010	mdty|N|mdt_____1|SingIndef|N5:c
+
+6@2010	gđšt|N|gđšt_____1|Sing|N1:c
+6@2010	gđšt|V|gđštn_____1|2*3sgPreterit|v9
+6@2010	gđšt|V|gđštn_____1|infApocope|v9
+
+7@2010	az|P|az_____1|inv|inv
+
+8@2010	rftn|N|rftn_____1|Sing|N5:c
+8@2010	rftn|V|rftn_____1|*10*inf|v19
+8@2010	rftn|V|rftn_____1|2*3plPreparfFam|v19
+8@2010	rftn|V|rftn_____1|2*3plPreteritFam|v19
+8@2010	rftn|V|rftn_____2|*10*inf|v21
+8@2010	rftn|V|rftn_____2|2*3plPreparfFam|v21
+8@2010	rftn|V|rftn_____2|2*3plPreteritFam|v21
+8@2010	rftn|V|rftn_____3|*10*inf|v22
+8@2010	rftn|V|rftn_____3|2*3plPreparfFam|v22
+8@2010	rftn|V|rftn_____3|2*3plPreteritFam|v22
+
+9@2010	,|DELM|,_____1|inv|inv
+
+10@2010	āŕa|INTexcl|āŕa_____1|inv|inv
+10@2010	āŕa|N|āŕa_____1|Sing|N1:v
+10@2010	āŕa|INTexcl|āŕa_____1|inv|inv
+
+11@2010	grg|N|grg_____1|Sing|N5:c
+
+12@2010	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+12@2010	āmd|V|āmdn_____1|infApocope|v24:v
+
+13@2010	w|ADVcoord|w_____1|inv|inv
+
+14@2010	dr|N|dr_____1|Sing|N5:c
+14@2010	dr|P|dr_____1|inv|inv
+
+15@2010	xwnX|None|None|None|None
+
+16@2010	bzbz|None|None|None|None
+
+17@2010	ŕndy|ADJ|ŕndy_____1||ADJ:v
+17@2010	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+17@2010	ŕndy|PN|ŕndy_____1|inv|inv
+
+18@2010	šrw'|None|None|None|None
+
+19@2010	krd|N|krd_____1|Sing|N5:c
+19@2010	krd|V|krdn_____1|2*3sgPreterit|v22
+19@2010	krd|V|krdn_____1|infApocope|v22
+19@2010	krd|V|krdn_____2|2*3sgPastprog|v28
+19@2010	krd|V|krdn_____2|2*3sgPreterit|v28
+19@2010	krd|V|krdn_____2|infApocope|v28
+
+20@2010	be|N|be_____1|Sing|N5:v
+20@2010	be|P|be_____1|inv|inv
+
+21@2010	dr|N|dr_____1|Sing|N5:c
+21@2010	dr|P|dr_____1|inv|inv
+
+22@2010	zdn|N|zdn_____1|Sing|N5:c
+22@2010	zdn|V|zdn_____1|*10*inf|v28
+22@2010	zdn|V|zdn_____1|2*3plPastprogFam|v28
+22@2010	zdn|V|zdn_____1|2*3plPreparfFam|v28
+22@2010	zdn|V|zdn_____1|2*3plPreteritFam|v28
+22@2010	zdn|V|zdn_____2|*10*inf|v7
+22@2010	zdn|V|zdn_____2|2*3plPreparfFam|v7
+22@2010	zdn|V|zdn_____2|2*3plPreteritFam|v7
+
+23@2010	.|DELM|._____1|inv|inv
+
+#new sentence2011
+0@2011	dr|N|dr_____1|Sing|N5:c
+0@2011	dr|P|dr_____1|inv|inv
+
+1@2011	zd|V|zdn_____1|2*3sgPastprog|v28
+1@2011	zd|V|zdn_____1|2*3sgPreterit|v28
+1@2011	zd|V|zdn_____1|infApocope|v28
+1@2011	zd|V|zdn_____2|2*3sgPreterit|v7
+1@2011	zd|V|zdn_____2|infApocope|v7
+
+2@2011	,|DELM|,_____1|inv|inv
+
+3@2011	šngwl|PN|šngwl_____1|inv|inv
+
+4@2011	mn|AR|mn_____1|inv|inv
+4@2011	mn|PROpers|mn_____1|inv|inv
+
+5@2011	mngwl|N|mngwl_____1|Sing|N5:c
+
+6@2011	mn|AR|mn_____1|inv|inv
+6@2011	mn|PROpers|mn_____1|inv|inv
+
+7@2011	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+8@2011	mn|AR|mn_____1|inv|inv
+8@2011	mn|PROpers|mn_____1|inv|inv
+
+9@2011	,|DELM|,_____1|inv|inv
+
+10@2011	dr|N|dr_____1|Sing|N5:c
+10@2011	dr|P|dr_____1|inv|inv
+
+11@2011	baz|ADJ|baz_____1||ADJ:c
+11@2011	baz|ADV|baz_____1||ADV1
+11@2011	baz|P|baz___MTE__1|inv|inv
+
+12@2011	knyd|V|krdn_____2|2plPreInd|v28
+12@2011	knyd|V|krdn_____2|2plPreSubj|v28
+12@2011	knyd|V|krdn_____2|ProhibNormFormpl|v28
+12@2011	knyd|V|krdn_____2|imperNormpl|v28
+
+13@2011	,|DELM|,_____1|inv|inv
+
+14@2011	madr|N|madr_____1|Sing|N15:c
+14@2011	madr|N|madr_____2|Sing|N5:c
+
+15@2011	šma|PROpers|šma_____1|inv|inv
+
+16@2011	āmde|ADJ|āmde___MTE__1||ADJ
+16@2011	āmde|V|āmdn_____1|3sgPreparfFam|v24:v
+16@2011	āmde|V|āmdn_____1|partPas|v24:v
+
+17@2011	az|P|az_____1|inv|inv
+
+18@2011	şħra|N|şħra_____1|Sing|N5:v
+
+19@2011	.|DELM|._____1|inv|inv
+
+#new sentence2012
+0@2012	ayn|DETdem|ayn_____1|inv|inv
+0@2012	ayn|PROdem|ayn_____1|inv|inv
+
+1@2012	āmdnd|V|āmdn_____1|2*3plPreterit|v24:v
+1@2012	āmdnd|V|āmdn_____1|3plPreparfFam|v24:v
+
+2@2012	dm|N|dm_____1|Sing|N1:c
+2@2012	dm|P|dm_____1|inv|inv
+2@2012	dm|V|dadn_____4|1sgPreInd|v29
+2@2012	dm|V|dadn_____4|1sgPreSubj|v29
+
+3@2012	dr|N|dr_____1|Sing|N5:c
+3@2012	dr|P|dr_____1|inv|inv
+
+4@2012	gftn|N|gftn_____1|Sing|N5:c
+4@2012	gftn|V|gftn_____1|*10*inf|v21
+4@2012	gftn|V|gftn_____1|2*3plPreparfFam|v21
+4@2012	gftn|V|gftn_____1|2*3plPreteritFam|v21
+4@2012	gftn|V|gftn_____2|*10*inf|v22
+4@2012	gftn|V|gftn_____2|2*3plPreparfFam|v22
+4@2012	gftn|V|gftn_____2|2*3plPreteritFam|v22
+
+5@2012	madr|N|madr_____1|Sing|N15:c
+5@2012	madr|N|madr_____2|Sing|N5:c
+
+6@2012	ma|N|ma_____1|Sing|N5:v
+6@2012	ma|PROpers|ma_____1|inv|inv
+
+7@2012	eyč|DETquant|eyč_____1|inv|inv
+7@2012	eyč|PROquant|eyč___MTE__1|inv|inv
+
+8@2012	wŕt|ADJ|wŕt_____1||ADJ:c
+8@2012	wŕt|ADV|wŕt___MTE__1|inv|inv
+8@2012	wŕt|N|wŕt_____1|Sing|N5:c
+
+9@2012	be|N|be_____1|Sing|N5:v
+9@2012	be|P|be_____1|inv|inv
+
+10@2012	ayn|DETdem|ayn_____1|inv|inv
+10@2012	ayn|PROdem|ayn_____1|inv|inv
+
+11@2012	az|P|az_____1|inv|inv
+
+12@2012	aw|N|aw_____1|Sing|N15:c
+12@2012	aw|PROpers|aw_____1|inv|inv
+
+13@2012	dy|AR|dy_____1|inv|inv
+13@2012	dy|V|dadn_____4|2sgPreInd|v29
+13@2012	dy|V|dadn_____4|2sgPreSubj|v29
+
+14@2012	br|P|br_____1|inv|inv
+
+15@2012	nmy_ǧst|None|None|None|None
+
+16@2012	.|DELM|._____1|inv|inv
+
+#new sentence2013
+0@2013	če|ADV|če_____1||ADV1
+0@2013	če|ADVcoord|če_____1|inv|inv
+0@2013	če|CONJsubord|če_____2|inv|inv
+0@2013	če|DETinter|če_____1|inv|inv
+0@2013	če|N|če_____1|Sing|N5:v
+0@2013	če|PROinter|če_____1|inv|inv
+
+1@2013	az|P|az_____1|inv|inv
+
+2@2013	aw|N|aw_____1|Sing|N15:c
+2@2013	aw|PROpers|aw_____1|inv|inv
+
+3@2013	d|V|dadn_____4|ProhibNormForm|v29
+3@2013	d|V|dadn_____4|imperNorm|v29
+
+4@2013	brgštn|V|brgštn_____1|*10*inf|v9
+4@2013	brgštn|V|brgštn_____1|2*3plPreparfFam|v9
+4@2013	brgštn|V|brgštn_____1|2*3plPreteritFam|v9
+
+5@2013	,|DELM|,_____1|inv|inv
+
+6@2013	gftnd|V|gftn_____1|2*3plPreterit|v21
+6@2013	gftnd|V|gftn_____1|3plPreparfFam|v21
+6@2013	gftnd|V|gftn_____2|2*3plPreterit|v22
+6@2013	gftnd|V|gftn_____2|3plPreparfFam|v22
+
+7@2013	ke|CONJsubord|ke_____1|inv|inv
+
+8@2013	dst|N|dst_____1|Sing|N15:c
+8@2013	dst|N|dst_____2|Sing|N5:c
+
+9@2013	w|ADVcoord|w_____1|inv|inv
+
+10@2013	pa|N|pa_____1|Sing|N1:v
+10@2013	pa|N|pa_____2|Sing|N5:v
+
+11@2013	tw|P|tw_____1|inv|inv
+11@2013	tw|PROpers|tw_____1|inv|inv
+
+12@2013	bkn|V|kndn_____1|imperNorm|v2
+12@2013	bkn|V|krdn_____1|imperNorm|v22
+
+13@2013	bbynm|V|dydn_____1|1sgPreSubj|v22
+
+14@2013	če|ADV|če_____1||ADV1
+14@2013	če|ADVcoord|če_____1|inv|inv
+14@2013	če|CONJsubord|če_____2|inv|inv
+14@2013	če|DETinter|če_____1|inv|inv
+14@2013	če|N|če_____1|Sing|N5:v
+14@2013	če|PROinter|če_____1|inv|inv
+
+15@2013	jwry|ADJ|jwr_____1|Indef|ADJ:c
+15@2013	jwry|N|jwr_____1|SingIndef|N5:c
+
+16@2013	ast|N|ast_____1|Sing|N15:c
+16@2013	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+17@2013	?|DELM|?_____1|inv|inv
+
+#new sentence2014
+0@2014	a|INT|a_____1|inv|inv
+
+1@2014	dr|N|dr_____1|Sing|N5:c
+1@2014	dr|P|dr_____1|inv|inv
+
+2@2014	bkn|V|kndn_____1|imperNorm|v2
+2@2014	bkn|V|krdn_____1|imperNorm|v22
+
+3@2014	tw|P|tw_____1|inv|inv
+3@2014	tw|PROpers|tw_____1|inv|inv
+
+4@2014	bbynym|V|dydn_____1|1plPreSubj|v22
+
+5@2014	če|ADV|če_____1||ADV1
+5@2014	če|ADVcoord|če_____1|inv|inv
+5@2014	če|CONJsubord|če_____2|inv|inv
+5@2014	če|DETinter|če_____1|inv|inv
+5@2014	če|N|če_____1|Sing|N5:v
+5@2014	če|PROinter|če_____1|inv|inv
+
+6@2014	jwry|ADJ|jwr_____1|Indef|ADJ:c
+6@2014	jwry|N|jwr_____1|SingIndef|N5:c
+
+7@2014	ast|N|ast_____1|Sing|N15:c
+7@2014	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+8@2014	?|DELM|?_____1|inv|inv
+
+#new sentence2015
+0@2015	wŕty|ADJ|wŕt_____1|Indef|ADJ:c
+0@2015	wŕty|CONJsubord|wŕty_____1|inv|inv
+0@2015	wŕty|N|wŕt_____1|SingIndef|N5:c
+
+1@2015	krd|N|krd_____1|Sing|N5:c
+1@2015	krd|V|krdn_____1|2*3sgPreterit|v22
+1@2015	krd|V|krdn_____1|infApocope|v22
+1@2015	krd|V|krdn_____2|2*3sgPastprog|v28
+1@2015	krd|V|krdn_____2|2*3sgPreterit|v28
+1@2015	krd|V|krdn_____2|infApocope|v28
+
+2@2015	dydn|V|dydn_____1|*10*inf|v22
+2@2015	dydn|V|dydn_____1|2*3plPreparfFam|v22
+2@2015	dydn|V|dydn_____1|2*3plPreteritFam|v22
+2@2015	dydn|V|dydn_____2|*10*inf|v7
+2@2015	dydn|V|dydn_____2|2*3plPreparfFam|v7
+2@2015	dydn|V|dydn_____2|2*3plPreteritFam|v7
+
+3@2015	ne|ADV|ne_____1||ADV1
+3@2015	ne|ADV|ne_____1|inv|inv
+3@2015	ne|INTs|ne_____1|inv|inv
+3@2015	ne|N|ne_____1|Sing|N5:v
+3@2015	ne|INTs|ne_____1|inv|inv
+
+4@2015	gftnd|V|gftn_____1|2*3plPreterit|v21
+4@2015	gftnd|V|gftn_____1|3plPreparfFam|v21
+4@2015	gftnd|V|gftn_____2|2*3plPreterit|v22
+4@2015	gftnd|V|gftn_____2|3plPreparfFam|v22
+
+5@2015	ne|ADV|ne_____1||ADV1
+5@2015	ne|ADV|ne_____1|inv|inv
+5@2015	ne|INTs|ne_____1|inv|inv
+5@2015	ne|N|ne_____1|Sing|N5:v
+5@2015	ne|INTs|ne_____1|inv|inv
+
+6@2015	,|DELM|,_____1|inv|inv
+
+7@2015	ps|ADJ|ps_____1||ADJ:c
+7@2015	ps|ADV|ps___MTE__1||ADV1
+7@2015	ps|ADVcoord|ps_____1|inv|inv
+
+8@2015	dst|N|dst_____1|Sing|N15:c
+8@2015	dst|N|dst_____2|Sing|N5:c
+
+9@2015	w|ADVcoord|w_____1|inv|inv
+
+10@2015	pay|N|pa_____1|SingEzafe|N1:v
+10@2015	pay|N|pa_____2|SingEzafe|N5:v
+
+11@2015	maman|N|maman_____1|Sing|N1:c
+
+12@2015	ānea|PROpers|ānea___MTE__1|inv|inv
+
+13@2015	nyst|ADJ|nyst___MTE__1||ADJ
+13@2015	nyst|PN|nys___Nice__1|SingPers2s|N2:c
+
+14@2015	,|DELM|,_____1|inv|inv
+
+15@2015	gft|V|gftn_____1|2*3sgPreterit|v21
+15@2015	gft|V|gftn_____1|infApocope|v21
+15@2015	gft|V|gftn_____2|2*3sgPreterit|v22
+15@2015	gft|V|gftn_____2|infApocope|v22
+
+16@2015	dst|N|dst_____1|Sing|N15:c
+16@2015	dst|N|dst_____2|Sing|N5:c
+
+17@2015	w|ADVcoord|w_____1|inv|inv
+
+18@2015	pay|N|pa_____1|SingEzafe|N1:v
+18@2015	pay|N|pa_____2|SingEzafe|N5:v
+
+19@2015	madr|N|madr_____1|Sing|N15:c
+19@2015	madr|N|madr_____2|Sing|N5:c
+
+20@2015	ma|N|ma_____1|Sing|N5:v
+20@2015	ma|PROpers|ma_____1|inv|inv
+
+21@2015	,|DELM|,_____1|inv|inv
+
+22@2015	ħnayy|N|ħna_____1|SingIndef|N1:v
+
+23@2015	ast|N|ast_____1|Sing|N15:c
+23@2015	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+24@2015	.|DELM|._____1|inv|inv
+
+#new sentence2016
+0@2016	(bzbz)|None|None|None|None
+
+1@2016	āŕa|INTexcl|āŕa_____1|inv|inv
+1@2016	āŕa|N|āŕa_____1|Sing|N1:v
+1@2016	āŕa|INTexcl|āŕa_____1|inv|inv
+
+2@2016	grage|None|None|None|None
+
+3@2016	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+3@2016	āmd|V|āmdn_____1|infApocope|v24:v
+
+4@2016	w|ADVcoord|w_____1|inv|inv
+
+5@2016	raft|N|raft_____1|Sing|N1:c
+
+6@2016	w|ADVcoord|w_____1|inv|inv
+
+7@2016	ħnayy|N|ħna_____1|SingIndef|N1:v
+
+8@2016	teye|None|None|None|None
+
+9@2016	krad|None|None|None|None
+
+10@2016	w|ADVcoord|w_____1|inv|inv
+
+11@2016	ħna|PN|ħna_____1|Sing|N2:v
+11@2016	ħna|N|ħna_____1|Sing|N1:v
+
+12@2016	ra|P|ra_____1|inv|inv
+
+13@2016	malyd|None|None|None|None
+
+14@2016	be|N|be_____1|Sing|N5:v
+14@2016	be|P|be_____1|inv|inv
+
+15@2016	dst|N|dst_____1|Sing|N15:c
+15@2016	dst|N|dst_____2|Sing|N5:c
+
+16@2016	aw|N|aw_____1|Sing|N15:c
+16@2016	aw|PROpers|aw_____1|inv|inv
+
+17@2016	,|DELM|,_____1|inv|inv
+
+18@2016	wŕty|ADJ|wŕt_____1|Indef|ADJ:c
+18@2016	wŕty|CONJsubord|wŕty_____1|inv|inv
+18@2016	wŕty|N|wŕt_____1|SingIndef|N5:c
+
+19@2016	rang|None|None|None|None
+
+20@2016	graft|None|None|None|None
+
+21@2016	w|ADVcoord|w_____1|inv|inv
+
+22@2016	be|N|be_____1|Sing|N5:v
+22@2016	be|P|be_____1|inv|inv
+
+23@2016	dst|N|dst_____1|Sing|N15:c
+23@2016	dst|N|dst_____2|Sing|N5:c
+
+24@2016	aw|N|aw_____1|Sing|N15:c
+24@2016	aw|PROpers|aw_____1|inv|inv
+
+25@2016	malyd|None|None|None|None
+
+26@2016	wŕty|ADJ|wŕt_____1|Indef|ADJ:c
+26@2016	wŕty|CONJsubord|wŕty_____1|inv|inv
+26@2016	wŕty|N|wŕt_____1|SingIndef|N5:c
+
+27@2016	rang|None|None|None|None
+
+28@2016	graft|None|None|None|None
+
+29@2016	pak|ADJ|pak_____1||ADJ:c
+29@2016	pak|N|pak_____1|Sing|N15:c
+
+30@2016	krad|None|None|None|None
+
+31@2016	w|ADVcoord|w_____1|inv|inv
+
+32@2016	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+32@2016	āmd|V|āmdn_____1|infApocope|v24:v
+
+33@2016	.|DELM|._____1|inv|inv
+
+#new sentence2017
+0@2017	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+0@2017	āmd|V|āmdn_____1|infApocope|v24:v
+
+1@2017	w|ADVcoord|w_____1|inv|inv
+
+2@2017	dw|DETquant|dw_____1|inv|inv
+2@2017	dw|N|dw_____1|Sing|N5:v
+
+3@2017	mrtbe|N|mrtbe_____1|Sing|N1:v
+
+4@2017	az|P|az_____1|inv|inv
+
+5@2017	nw|ADJ|nw_____1||ADJ
+5@2017	nw|ADV|nw___MTE__1||ADV1
+
+6@2017	dr|N|dr_____1|Sing|N5:c
+6@2017	dr|P|dr_____1|inv|inv
+
+7@2017	zd|V|zdn_____1|2*3sgPastprog|v28
+7@2017	zd|V|zdn_____1|2*3sgPreterit|v28
+7@2017	zd|V|zdn_____1|infApocope|v28
+7@2017	zd|V|zdn_____2|2*3sgPreterit|v7
+7@2017	zd|V|zdn_____2|infApocope|v7
+
+8@2017	.|DELM|._____1|inv|inv
+
+#new sentence2018
+0@2018	dr|N|dr_____1|Sing|N5:c
+0@2018	dr|P|dr_____1|inv|inv
+
+1@2018	zd|V|zdn_____1|2*3sgPastprog|v28
+1@2018	zd|V|zdn_____1|2*3sgPreterit|v28
+1@2018	zd|V|zdn_____1|infApocope|v28
+1@2018	zd|V|zdn_____2|2*3sgPreterit|v7
+1@2018	zd|V|zdn_____2|infApocope|v7
+
+2@2018	šngwl|PN|šngwl_____1|inv|inv
+
+3@2018	mn|AR|mn_____1|inv|inv
+3@2018	mn|PROpers|mn_____1|inv|inv
+
+4@2018	,|DELM|,_____1|inv|inv
+
+5@2018	mngwl|N|mngwl_____1|Sing|N5:c
+
+6@2018	mn|AR|mn_____1|inv|inv
+6@2018	mn|PROpers|mn_____1|inv|inv
+
+7@2018	,|DELM|,_____1|inv|inv
+
+8@2018	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+9@2018	mn|AR|mn_____1|inv|inv
+9@2018	mn|PROpers|mn_____1|inv|inv
+
+10@2018	,|DELM|,_____1|inv|inv
+
+11@2018	dr|N|dr_____1|Sing|N5:c
+11@2018	dr|P|dr_____1|inv|inv
+
+12@2018	baz|ADJ|baz_____1||ADJ:c
+12@2018	baz|ADV|baz_____1||ADV1
+12@2018	baz|P|baz___MTE__1|inv|inv
+
+13@2018	knnd|V|krdn_____2|2*3plPreInd|v28
+13@2018	knnd|V|krdn_____2|2*3plPreSubj|v28
+
+14@2018	.|DELM|._____1|inv|inv
+
+#new sentence2019
+0@2019	ayn|DETdem|ayn_____1|inv|inv
+0@2019	ayn|PROdem|ayn_____1|inv|inv
+
+1@2019	gftnd|V|gftn_____1|2*3plPreterit|v21
+1@2019	gftnd|V|gftn_____1|3plPreparfFam|v21
+1@2019	gftnd|V|gftn_____2|2*3plPreterit|v22
+1@2019	gftnd|V|gftn_____2|3plPreparfFam|v22
+
+2@2019	ke|CONJsubord|ke_____1|inv|inv
+
+3@2019	dst|N|dst_____1|Sing|N15:c
+3@2019	dst|N|dst_____2|Sing|N5:c
+
+4@2019	w|ADVcoord|w_____1|inv|inv
+
+5@2019	pay|N|pa_____1|SingEzafe|N1:v
+5@2019	pay|N|pa_____2|SingEzafe|N5:v
+
+6@2019	maman|N|maman_____1|Sing|N1:c
+
+7@2019	ma|N|ma_____1|Sing|N5:v
+7@2019	ma|PROpers|ma_____1|inv|inv
+
+8@2019	ħnayy|N|ħna_____1|SingIndef|N1:v
+
+9@2019	ast|N|ast_____1|Sing|N15:c
+9@2019	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+10@2019	.|DELM|._____1|inv|inv
+
+#new sentence2020
+0@2020	dst|N|dst_____1|Sing|N15:c
+0@2020	dst|N|dst_____2|Sing|N5:c
+
+1@2020	w|ADVcoord|w_____1|inv|inv
+
+2@2020	payt|N|pa_____1|SingPers2s|N1:v
+2@2020	payt|N|pa_____2|SingPers2s|N5:v
+
+3@2020	bkn|V|kndn_____1|imperNorm|v2
+3@2020	bkn|V|krdn_____1|imperNorm|v22
+
+4@2020	tw|P|tw_____1|inv|inv
+4@2020	tw|PROpers|tw_____1|inv|inv
+
+5@2020	bbynym|V|dydn_____1|1plPreSubj|v22
+
+6@2020	.|DELM|._____1|inv|inv
+
+#new sentence2021
+0@2021	wŕty|ADJ|wŕt_____1|Indef|ADJ:c
+0@2021	wŕty|CONJsubord|wŕty_____1|inv|inv
+0@2021	wŕty|N|wŕt_____1|SingIndef|N5:c
+
+1@2021	dst|N|dst_____1|Sing|N15:c
+1@2021	dst|N|dst_____2|Sing|N5:c
+
+2@2021	w|ADVcoord|w_____1|inv|inv
+
+3@2021	payšw|None|None|None|None
+
+4@2021	krd|N|krd_____1|Sing|N5:c
+4@2021	krd|V|krdn_____1|2*3sgPreterit|v22
+4@2021	krd|V|krdn_____1|infApocope|v22
+4@2021	krd|V|krdn_____2|2*3sgPastprog|v28
+4@2021	krd|V|krdn_____2|2*3sgPreterit|v28
+4@2021	krd|V|krdn_____2|infApocope|v28
+
+5@2021	tw|P|tw_____1|inv|inv
+5@2021	tw|PROpers|tw_____1|inv|inv
+
+6@2021	dydn|V|dydn_____1|*10*inf|v22
+6@2021	dydn|V|dydn_____1|2*3plPreparfFam|v22
+6@2021	dydn|V|dydn_____1|2*3plPreteritFam|v22
+6@2021	dydn|V|dydn_____2|*10*inf|v7
+6@2021	dydn|V|dydn_____2|2*3plPreparfFam|v7
+6@2021	dydn|V|dydn_____2|2*3plPreteritFam|v7
+
+7@2021	ke|CONJsubord|ke_____1|inv|inv
+
+8@2021	are|N|are_____1|Sing|N1:v
+
+9@2021	dst|N|dst_____1|Sing|N15:c
+9@2021	dst|N|dst_____2|Sing|N5:c
+
+10@2021	w|ADVcoord|w_____1|inv|inv
+
+11@2021	payš|N|pa_____1|SingPers3s|N1:v
+11@2021	payš|N|pa_____2|SingPers3s|N5:v
+
+12@2021	[ħnayy|None|None|None|None
+
+13@2021	ast]|None|None|None|None
+
+14@2021	dr|N|dr_____1|Sing|N5:c
+14@2021	dr|P|dr_____1|inv|inv
+
+15@2021	baz|ADJ|baz_____1||ADJ:c
+15@2021	baz|ADV|baz_____1||ADV1
+15@2021	baz|P|baz___MTE__1|inv|inv
+
+16@2021	krdn|N|krdn_____1|Sing|N5:c
+16@2021	krdn|V|krdn_____1|*10*inf|v22
+16@2021	krdn|V|krdn_____1|2*3plPreparfFam|v22
+16@2021	krdn|V|krdn_____1|2*3plPreteritFam|v22
+16@2021	krdn|V|krdn_____2|*10*inf|v28
+16@2021	krdn|V|krdn_____2|2*3plPastprogFam|v28
+16@2021	krdn|V|krdn_____2|2*3plPreparfFam|v28
+16@2021	krdn|V|krdn_____2|2*3plPreteritFam|v28
+
+17@2021	.|DELM|._____1|inv|inv
+
+#new sentence2022
+0@2022	āŕa|INTexcl|āŕa_____1|inv|inv
+0@2022	āŕa|N|āŕa_____1|Sing|N1:v
+0@2022	āŕa|INTexcl|āŕa_____1|inv|inv
+
+1@2022	grg|N|grg_____1|Sing|N5:c
+
+2@2022	šngwl|PN|šngwl_____1|inv|inv
+
+3@2022	w|ADVcoord|w_____1|inv|inv
+
+4@2022	mngwl|N|mngwl_____1|Sing|N5:c
+
+5@2022	grft|V|grftn_____1|2*3sgPreterit|v22
+5@2022	grft|V|grftn_____1|infApocope|v22
+
+6@2022	w|ADVcoord|w_____1|inv|inv
+
+7@2022	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+8@2022	em|ADV|em_____1|inv|inv
+8@2022	em|PROindef|em_____1|inv|inv
+
+9@2022	frar|N|frar_____1|Sing|N5:c
+
+10@2022	krd|N|krd_____1|Sing|N5:c
+10@2022	krd|V|krdn_____1|2*3sgPreterit|v22
+10@2022	krd|V|krdn_____1|infApocope|v22
+10@2022	krd|V|krdn_____2|2*3sgPastprog|v28
+10@2022	krd|V|krdn_____2|2*3sgPreterit|v28
+10@2022	krd|V|krdn_____2|infApocope|v28
+
+11@2022	rft|N|rf_____1|SingPers2s|N1:c
+11@2022	rft|V|rftn_____1|2*3sgPreterit|v19
+11@2022	rft|V|rftn_____1|infApocope|v19
+11@2022	rft|V|rftn_____2|2*3sgPreterit|v21
+11@2022	rft|V|rftn_____2|infApocope|v21
+11@2022	rft|V|rftn_____3|2*3sgPreterit|v22
+11@2022	rft|V|rftn_____3|infApocope|v22
+
+12@2022	te|P|te_____1|inv|inv
+
+13@2022	xane_aš|N|xane_____1|SingPers3s|N5:v
+
+14@2022	lalw|None|None|None|None
+
+15@2022	(1)|None|None|None|None
+
+16@2022	tw|P|tw_____1|inv|inv
+16@2022	tw|PROpers|tw_____1|inv|inv
+
+17@2022	awn|PROpers|awn_____1|inv|inv
+
+18@2022	gnje|PN|gnje___Ganja, Azerbaijan__1|Sing|N2:v
+18@2022	gnje|N|gnje_____1|Sing|N5:v
+
+19@2022	ŕaym|ADJ|ŕaym_____1||ADJ:c
+
+20@2022	šd|V|šdn_____1|2*3sgPreterit|v22
+20@2022	šd|V|šdn_____1|infApocope|v22
+20@2022	šd|V|šdn_____2|2*3sgPastprog|v28
+20@2022	šd|V|šdn_____2|2*3sgPreterit|v28
+20@2022	šd|V|šdn_____2|infApocope|v28
+
+21@2022	.|DELM|._____1|inv|inv
+
+#new sentence2023
+0@2023	bzbz|None|None|None|None
+
+1@2023	ŕndy|ADJ|ŕndy_____1||ADJ:v
+1@2023	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+1@2023	ŕndy|PN|ŕndy_____1|inv|inv
+
+2@2023	qrwb|None|None|None|None
+
+3@2023	ke|CONJsubord|ke_____1|inv|inv
+
+4@2023	az|P|az_____1|inv|inv
+
+5@2023	şħra|N|şħra_____1|Sing|N5:v
+
+6@2023	brgšt|V|brgštn_____1|2*3sgPreterit|v9
+6@2023	brgšt|V|brgštn_____1|infApocope|v9
+
+7@2023	,|DELM|,_____1|inv|inv
+
+8@2023	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+8@2023	āmd|V|āmdn_____1|infApocope|v24:v
+
+9@2023	dyd|N|dyd_____1|Sing|N1:c
+9@2023	dyd|V|dadn_____4|2plPreInd|v29
+9@2023	dyd|V|dadn_____4|2plPreSubj|v29
+9@2023	dyd|V|dadn_____4|ProhibNormFormpl|v29
+9@2023	dyd|V|dadn_____4|imperNormpl|v29
+9@2023	dyd|V|dydn_____1|2*3sgPreterit|v22
+9@2023	dyd|V|dydn_____1|infApocope|v22
+9@2023	dyd|V|dydn_____2|2*3sgPreterit|v7
+9@2023	dyd|V|dydn_____2|infApocope|v7
+
+10@2023	,|DELM|,_____1|inv|inv
+
+11@2023	dr|N|dr_____1|Sing|N5:c
+11@2023	dr|P|dr_____1|inv|inv
+
+12@2023	xanešan|N|xane_____1|SingPers3p|N5:v
+
+13@2023	baz|ADJ|baz_____1||ADJ:c
+13@2023	baz|ADV|baz_____1||ADV1
+13@2023	baz|P|baz___MTE__1|inv|inv
+
+14@2023	ast|N|ast_____1|Sing|N15:c
+14@2023	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+15@2023	.|DELM|._____1|inv|inv
+
+#new sentence2024
+0@2024	gft|V|gftn_____1|2*3sgPreterit|v21
+0@2024	gft|V|gftn_____1|infApocope|v21
+0@2024	gft|V|gftn_____2|2*3sgPreterit|v22
+0@2024	gft|V|gftn_____2|infApocope|v22
+
+1@2024	mn|AR|mn_____1|inv|inv
+1@2024	mn|PROpers|mn_____1|inv|inv
+
+2@2024	če|ADV|če_____1||ADV1
+2@2024	če|ADVcoord|če_____1|inv|inv
+2@2024	če|CONJsubord|če_____2|inv|inv
+2@2024	če|DETinter|če_____1|inv|inv
+2@2024	če|N|če_____1|Sing|N5:v
+2@2024	če|PROinter|če_____1|inv|inv
+
+3@2024	ŕdr|ADJ|ŕdr_____1||ADJ:c
+3@2024	ŕdr|N|ŕdr_____1|Sing|N1:c
+
+4@2024	be|N|be_____1|Sing|N5:v
+4@2024	be|P|be_____1|inv|inv
+
+5@2024	ayn|DETdem|ayn_____1|inv|inv
+5@2024	ayn|PROdem|ayn_____1|inv|inv
+
+6@2024	bče_ea|N|bče_____1|Plur|N5:v
+
+7@2024	sfarš|N|sfarš_____1|Sing|N1:c
+7@2024	sfarš|N|sfarš_____2|Sing|N5:c
+
+8@2024	krdm|N|krd_____1|SingPers1s|N5:c
+8@2024	krdm|V|krdn_____1|1sgPreparfFam|v22
+8@2024	krdm|V|krdn_____1|1sgPreterit|v22
+8@2024	krdm|V|krdn_____2|1sgPastprog|v28
+8@2024	krdm|V|krdn_____2|1sgPreparfFam|v28
+8@2024	krdm|V|krdn_____2|1sgPreterit|v28
+
+9@2024	ke|CONJsubord|ke_____1|inv|inv
+
+10@2024	ayn|DETdem|ayn_____1|inv|inv
+10@2024	ayn|PROdem|ayn_____1|inv|inv
+
+11@2024	dr|N|dr_____1|Sing|N5:c
+11@2024	dr|P|dr_____1|inv|inv
+
+12@2024	xane|N|xane_____1|Sing|N5:v
+
+13@2024	ra|P|ra_____1|inv|inv
+
+14@2024	baz|ADJ|baz_____1||ADJ:c
+14@2024	baz|ADV|baz_____1||ADV1
+14@2024	baz|P|baz___MTE__1|inv|inv
+
+15@2024	ngđarnd|V|gđaštn_____2|3plPreSubjNeg|v9
+
+16@2024	,|DELM|,_____1|inv|inv
+
+17@2024	baz|ADJ|baz_____1||ADJ:c
+17@2024	baz|ADV|baz_____1||ADV1
+17@2024	baz|P|baz___MTE__1|inv|inv
+
+18@2024	mn|AR|mn_____1|inv|inv
+18@2024	mn|PROpers|mn_____1|inv|inv
+
+19@2024	wa|ADJ|wa_____1||ADJ:v
+
+20@2024	gđaštn|V|gđaštn_____1|*10*inf|v22
+20@2024	gđaštn|V|gđaštn_____1|2*3plPreparfFam|v22
+20@2024	gđaštn|V|gđaštn_____1|2*3plPreteritFam|v22
+20@2024	gđaštn|V|gđaštn_____2|*10*inf|v9
+20@2024	gđaštn|V|gđaštn_____2|2*3plPreparfFam|v9
+20@2024	gđaštn|V|gđaštn_____2|2*3plPreteritFam|v9
+
+21@2024	.|DELM|._____1|inv|inv
+
+#new sentence2025
+0@2025	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+0@2025	āmd|V|āmdn_____1|infApocope|v24:v
+
+1@2025	gft|V|gftn_____1|2*3sgPreterit|v21
+1@2025	gft|V|gftn_____1|infApocope|v21
+1@2025	gft|V|gftn_____2|2*3sgPreterit|v22
+1@2025	gft|V|gftn_____2|infApocope|v22
+
+2@2025	šngwl|PN|šngwl_____1|inv|inv
+
+3@2025	mn|AR|mn_____1|inv|inv
+3@2025	mn|PROpers|mn_____1|inv|inv
+
+4@2025	,|DELM|,_____1|inv|inv
+
+5@2025	mngwl|N|mngwl_____1|Sing|N5:c
+
+6@2025	mn|AR|mn_____1|inv|inv
+6@2025	mn|PROpers|mn_____1|inv|inv
+
+7@2025	,|DELM|,_____1|inv|inv
+
+8@2025	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+9@2025	mn|AR|mn_____1|inv|inv
+9@2025	mn|PROpers|mn_____1|inv|inv
+
+10@2025	,|DELM|,_____1|inv|inv
+
+11@2025	dyd|N|dyd_____1|Sing|N1:c
+11@2025	dyd|V|dadn_____4|2plPreInd|v29
+11@2025	dyd|V|dadn_____4|2plPreSubj|v29
+11@2025	dyd|V|dadn_____4|ProhibNormFormpl|v29
+11@2025	dyd|V|dadn_____4|imperNormpl|v29
+11@2025	dyd|V|dydn_____1|2*3sgPreterit|v22
+11@2025	dyd|V|dydn_____1|infApocope|v22
+11@2025	dyd|V|dydn_____2|2*3sgPreterit|v7
+11@2025	dyd|V|dydn_____2|infApocope|v7
+
+12@2025	şdayy|ADJ|şdayy_____1||ADJ:v
+12@2025	şdayy|N|şda_____1|SingIndef|N5:v
+
+13@2025	nmy_āynd|V|awmdn_____1|3plPreIndNeg|v24:v
+13@2025	nmy_āynd|V|āmdn_____1|3plPreIndNeg|v24:v
+
+14@2025	.|DELM|._____1|inv|inv
+
+#new sentence2026
+0@2026	baz|ADJ|baz_____1||ADJ:c
+0@2026	baz|ADV|baz_____1||ADV1
+0@2026	baz|P|baz___MTE__1|inv|inv
+
+1@2026	šrw'|None|None|None|None
+
+2@2026	krd|N|krd_____1|Sing|N5:c
+2@2026	krd|V|krdn_____1|2*3sgPreterit|v22
+2@2026	krd|V|krdn_____1|infApocope|v22
+2@2026	krd|V|krdn_____2|2*3sgPastprog|v28
+2@2026	krd|V|krdn_____2|2*3sgPreterit|v28
+2@2026	krd|V|krdn_____2|infApocope|v28
+
+3@2026	šngwl|PN|šngwl_____1|inv|inv
+
+4@2026	mn|AR|mn_____1|inv|inv
+4@2026	mn|PROpers|mn_____1|inv|inv
+
+5@2026	,|DELM|,_____1|inv|inv
+
+6@2026	mngwl|N|mngwl_____1|Sing|N5:c
+
+7@2026	mn|AR|mn_____1|inv|inv
+7@2026	mn|PROpers|mn_____1|inv|inv
+
+8@2026	,|DELM|,_____1|inv|inv
+
+9@2026	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+10@2026	mn|AR|mn_____1|inv|inv
+10@2026	mn|PROpers|mn_____1|inv|inv
+
+11@2026	,|DELM|,_____1|inv|inv
+
+12@2026	kja|N|kja_____1|Sing|N5:v
+12@2026	kja|PROinter|kja___MTE__1|inv|inv
+
+13@2026	estnd|V|bwdn_____1|2*3plPreInd|v25
+
+14@2026	?|DELM|?_____1|inv|inv
+
+#new sentence2027
+0@2027	byan|N|byan_____1|Sing|N5:c
+
+1@2027	mamantan|N|maman_____1|SingPers2p|N1:c
+
+2@2027	āmde|ADJ|āmde___MTE__1||ADJ
+2@2027	āmde|V|āmdn_____1|3sgPreparfFam|v24:v
+2@2027	āmde|V|āmdn_____1|partPas|v24:v
+
+3@2027	,|DELM|,_____1|inv|inv
+
+4@2027	mamantan|N|maman_____1|SingPers2p|N1:c
+
+5@2027	az|P|az_____1|inv|inv
+
+6@2027	şħra|N|şħra_____1|Sing|N5:v
+
+7@2027	āmde|ADJ|āmde___MTE__1||ADJ
+7@2027	āmde|V|āmdn_____1|3sgPreparfFam|v24:v
+7@2027	āmde|V|āmdn_____1|partPas|v24:v
+
+8@2027	ba|ADV|ba˝_____1||ADV2
+8@2027	ba|P|ba_____1|inv|inv
+
+9@2027	pstan|ADJ|ps_____1|Pers2p|ADJ:c
+9@2027	pstan|N|pstan_____1|Sing|N1:c
+
+10@2027	pr|ADJ|pr_____1||ADJ:c
+10@2027	pr|N|pr_____1|Sing|N1:c
+10@2027	pr|N|pr_____2|Sing|N5:c
+
+11@2027	az|P|az_____1|inv|inv
+
+12@2027	šyr|N|šyr_____1|Sing|N15:c
+12@2027	šyr|N|šyr_____2|Sing|N5:c
+
+13@2027	āmde|ADJ|āmde___MTE__1||ADJ
+13@2027	āmde|V|āmdn_____1|3sgPreparfFam|v24:v
+13@2027	āmde|V|āmdn_____1|partPas|v24:v
+
+14@2027	,|DELM|,_____1|inv|inv
+
+15@2027	kja|N|kja_____1|Sing|N5:v
+15@2027	kja|PROinter|kja___MTE__1|inv|inv
+
+16@2027	estnd|V|bwdn_____1|2*3plPreInd|v25
+
+17@2027	,|DELM|,_____1|inv|inv
+
+18@2027	čra|ADV|čra___MTE__1||ADV1
+18@2027	čra|ADV|čra_____1|inv|inv
+18@2027	čra|PROinter|čra_____1|inv|inv
+
+19@2027	nmy_āynd|V|awmdn_____1|3plPreIndNeg|v24:v
+19@2027	nmy_āynd|V|āmdn_____1|3plPreIndNeg|v24:v
+
+20@2027	,|DELM|,_____1|inv|inv
+
+21@2027	dyd|N|dyd_____1|Sing|N1:c
+21@2027	dyd|V|dadn_____4|2plPreInd|v29
+21@2027	dyd|V|dadn_____4|2plPreSubj|v29
+21@2027	dyd|V|dadn_____4|ProhibNormFormpl|v29
+21@2027	dyd|V|dadn_____4|imperNormpl|v29
+21@2027	dyd|V|dydn_____1|2*3sgPreterit|v22
+21@2027	dyd|V|dydn_____1|infApocope|v22
+21@2027	dyd|V|dydn_____2|2*3sgPreterit|v7
+21@2027	dyd|V|dydn_____2|infApocope|v7
+
+22@2027	şday|N|şda_____1|SingEzafe|N5:v
+
+23@2027	grye|N|grye_____1|Sing|N5:v
+
+24@2027	my_dad|V|dadn_____1|2*3sgPastprog|v22
+24@2027	my_dad|V|dadn_____2|2*3sgPastprog|v23
+
+25@2027	.|DELM|._____1|inv|inv
+
+#new sentence2028
+0@2028	şday|N|şda_____1|SingEzafe|N5:v
+
+1@2028	grye|N|grye_____1|Sing|N5:v
+
+2@2028	ħbeangwr|PN|ħbeangwr_____1|inv|inv
+
+3@2028	mn|AR|mn_____1|inv|inv
+3@2028	mn|PROpers|mn_____1|inv|inv
+
+4@2028	est|V|bwdn_____1|2*3sgPreInd|v25
+
+5@2028	.|DELM|._____1|inv|inv
+
+#new sentence2029
+0@2029	emyn|ADV|emyn___MTE__1||ADV1
+0@2029	emyn|DETdem|emyn_____1|inv|inv
+0@2029	emyn|N|emyn_____1|Sing|N5:c
+0@2029	emyn|PROindef|emyn_____1|inv|inv
+
+1@2029	jwr|ADJ|jwr_____1||ADJ:c
+1@2029	jwr|DETquant|jwr_____1|inv|inv
+1@2029	jwr|N|jwr_____1|Sing|N5:c
+
+2@2029	gft|V|gftn_____1|2*3sgPreterit|v21
+2@2029	gft|V|gftn_____1|infApocope|v21
+2@2029	gft|V|gftn_____2|2*3sgPreterit|v22
+2@2029	gft|V|gftn_____2|infApocope|v22
+
+3@2029	čra|ADV|čra___MTE__1||ADV1
+3@2029	čra|ADV|čra_____1|inv|inv
+3@2029	čra|PROinter|čra_____1|inv|inv
+
+4@2029	grye|N|grye_____1|Sing|N5:v
+
+5@2029	my_kny|V|kndn_____1|2sgPreInd|v2
+5@2029	my_kny|V|krdn_____1|2sgPreInd|v22
+
+6@2029	?|DELM|?_____1|inv|inv
+
+#new sentence2030
+0@2030	šrw'|None|None|None|None
+
+1@2030	krd|N|krd_____1|Sing|N5:c
+1@2030	krd|V|krdn_____1|2*3sgPreterit|v22
+1@2030	krd|V|krdn_____1|infApocope|v22
+1@2030	krd|V|krdn_____2|2*3sgPastprog|v28
+1@2030	krd|V|krdn_____2|2*3sgPreterit|v28
+1@2030	krd|V|krdn_____2|infApocope|v28
+
+2@2030	grye|N|grye_____1|Sing|N5:v
+
+3@2030	krdn|N|krdn_____1|Sing|N5:c
+3@2030	krdn|V|krdn_____1|*10*inf|v22
+3@2030	krdn|V|krdn_____1|2*3plPreparfFam|v22
+3@2030	krdn|V|krdn_____1|2*3plPreteritFam|v22
+3@2030	krdn|V|krdn_____2|*10*inf|v28
+3@2030	krdn|V|krdn_____2|2*3plPastprogFam|v28
+3@2030	krdn|V|krdn_____2|2*3plPreparfFam|v28
+3@2030	krdn|V|krdn_____2|2*3plPreteritFam|v28
+
+4@2030	dw|DETquant|dw_____1|inv|inv
+4@2030	dw|N|dw_____1|Sing|N5:v
+
+5@2030	mrtbe|N|mrtbe_____1|Sing|N1:v
+
+6@2030	.|DELM|._____1|inv|inv
+
+#new sentence2031
+0@2031	gft|V|gftn_____1|2*3sgPreterit|v21
+0@2031	gft|V|gftn_____1|infApocope|v21
+0@2031	gft|V|gftn_____2|2*3sgPreterit|v22
+0@2031	gft|V|gftn_____2|infApocope|v22
+
+1@2031	čra|ADV|čra___MTE__1||ADV1
+1@2031	čra|ADV|čra_____1|inv|inv
+1@2031	čra|PROinter|čra_____1|inv|inv
+
+2@2031	āxe|ADV|āxe_____1|inv|inv
+
+3@2031	grye|N|grye_____1|Sing|N5:v
+
+4@2031	my_kny|V|kndn_____1|2sgPreInd|v2
+4@2031	my_kny|V|krdn_____1|2sgPreInd|v22
+
+5@2031	tw|P|tw_____1|inv|inv
+5@2031	tw|PROpers|tw_____1|inv|inv
+
+6@2031	,|DELM|,_____1|inv|inv
+
+7@2031	gft|V|gftn_____1|2*3sgPreterit|v21
+7@2031	gft|V|gftn_____1|infApocope|v21
+7@2031	gft|V|gftn_____2|2*3sgPreterit|v22
+7@2031	gft|V|gftn_____2|infApocope|v22
+
+8@2031	ke|CONJsubord|ke_____1|inv|inv
+
+9@2031	b'd|ADJ|b'd_____1||ADJ:c
+9@2031	b'd|ADV|b'd___MTE__1||ADV1
+9@2031	b'd|ADVcoord|b'd_____1|inv|inv
+9@2031	b'd|N|b'd_____1|Sing|N5:c
+
+10@2031	az|P|az_____1|inv|inv
+
+11@2031	rftn|N|rftn_____1|Sing|N5:c
+11@2031	rftn|V|rftn_____1|*10*inf|v19
+11@2031	rftn|V|rftn_____1|2*3plPreparfFam|v19
+11@2031	rftn|V|rftn_____1|2*3plPreteritFam|v19
+11@2031	rftn|V|rftn_____2|*10*inf|v21
+11@2031	rftn|V|rftn_____2|2*3plPreparfFam|v21
+11@2031	rftn|V|rftn_____2|2*3plPreteritFam|v21
+11@2031	rftn|V|rftn_____3|*10*inf|v22
+11@2031	rftn|V|rftn_____3|2*3plPreparfFam|v22
+11@2031	rftn|V|rftn_____3|2*3plPreteritFam|v22
+
+12@2031	šma|PROpers|šma_____1|inv|inv
+
+13@2031	āŕa|INTexcl|āŕa_____1|inv|inv
+13@2031	āŕa|N|āŕa_____1|Sing|N1:v
+13@2031	āŕa|INTexcl|āŕa_____1|inv|inv
+
+14@2031	grg|N|grg_____1|Sing|N5:c
+
+15@2031	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+15@2031	āmd|V|āmdn_____1|infApocope|v24:v
+
+16@2031	,|DELM|,_____1|inv|inv
+
+17@2031	aynja|ADV|aynja_____1||ADV1
+17@2031	aynja|PN|aynja_____1|inv|inv
+17@2031	aynja|PROdem|aynja___MTE__1|inv|inv
+
+18@2031	dr|N|dr_____1|Sing|N5:c
+18@2031	dr|P|dr_____1|inv|inv
+
+19@2031	zd|V|zdn_____1|2*3sgPastprog|v28
+19@2031	zd|V|zdn_____1|2*3sgPreterit|v28
+19@2031	zd|V|zdn_____1|infApocope|v28
+19@2031	zd|V|zdn_____2|2*3sgPreterit|v7
+19@2031	zd|V|zdn_____2|infApocope|v7
+
+20@2031	,|DELM|,_____1|inv|inv
+
+21@2031	ma|N|ma_____1|Sing|N5:v
+21@2031	ma|PROpers|ma_____1|inv|inv
+
+22@2031	gftym|V|gftn_____1|1plPreparfFam|v21
+22@2031	gftym|V|gftn_____1|1plPreterit|v21
+22@2031	gftym|V|gftn_____2|1plPreparfFam|v22
+22@2031	gftym|V|gftn_____2|1plPreterit|v22
+
+23@2031	dst|N|dst_____1|Sing|N15:c
+23@2031	dst|N|dst_____2|Sing|N5:c
+
+24@2031	w|ADVcoord|w_____1|inv|inv
+
+25@2031	pa|N|pa_____1|Sing|N1:v
+25@2031	pa|N|pa_____2|Sing|N5:v
+
+26@2031	maman|N|maman_____1|Sing|N1:c
+
+27@2031	ma|N|ma_____1|Sing|N5:v
+27@2031	ma|PROpers|ma_____1|inv|inv
+
+28@2031	ħnayy|N|ħna_____1|SingIndef|N1:v
+
+29@2031	ast|N|ast_____1|Sing|N15:c
+29@2031	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+30@2031	.|DELM|._____1|inv|inv
+
+#new sentence2032
+0@2032	b'd|ADJ|b'd_____1||ADJ:c
+0@2032	b'd|ADV|b'd___MTE__1||ADV1
+0@2032	b'd|ADVcoord|b'd_____1|inv|inv
+0@2032	b'd|N|b'd_____1|Sing|N5:c
+
+1@2032	dst|N|dst_____1|Sing|N15:c
+1@2032	dst|N|dst_____2|Sing|N5:c
+
+2@2032	w|ADVcoord|w_____1|inv|inv
+
+3@2032	paš|None|None|None|None
+
+4@2032	krd|N|krd_____1|Sing|N5:c
+4@2032	krd|V|krdn_____1|2*3sgPreterit|v22
+4@2032	krd|V|krdn_____1|infApocope|v22
+4@2032	krd|V|krdn_____2|2*3sgPastprog|v28
+4@2032	krd|V|krdn_____2|2*3sgPreterit|v28
+4@2032	krd|V|krdn_____2|infApocope|v28
+
+5@2032	tw|P|tw_____1|inv|inv
+5@2032	tw|PROpers|tw_____1|inv|inv
+
+6@2032	dydm|N|dyd_____1|SingPers1s|N1:c
+6@2032	dydm|V|dydn_____1|1sgPreparfFam|v22
+6@2032	dydm|V|dydn_____1|1sgPreterit|v22
+6@2032	dydm|V|dydn_____2|1sgPreparfFam|v7
+6@2032	dydm|V|dydn_____2|1sgPreterit|v7
+
+7@2032	ke|CONJsubord|ke_____1|inv|inv
+
+8@2032	ne|ADV|ne_____1||ADV1
+8@2032	ne|ADV|ne_____1|inv|inv
+8@2032	ne|INTs|ne_____1|inv|inv
+8@2032	ne|N|ne_____1|Sing|N5:v
+8@2032	ne|INTs|ne_____1|inv|inv
+
+9@2032	nyst|ADJ|nyst___MTE__1||ADJ
+9@2032	nyst|PN|nys___Nice__1|SingPers2s|N2:c
+
+10@2032	.|DELM|._____1|inv|inv
+
+#new sentence2033
+0@2033	raft|N|raft_____1|Sing|N1:c
+
+1@2033	w|ADVcoord|w_____1|inv|inv
+
+2@2033	baz|ADJ|baz_____1||ADJ:c
+2@2033	baz|ADV|baz_____1||ADV1
+2@2033	baz|P|baz___MTE__1|inv|inv
+
+3@2033	dw|DETquant|dw_____1|inv|inv
+3@2033	dw|N|dw_____1|Sing|N5:v
+
+4@2033	mratbe|None|None|None|None
+
+5@2033	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+5@2033	āmd|V|āmdn_____1|infApocope|v24:v
+
+6@2033	,|DELM|,_____1|inv|inv
+
+7@2033	ma|N|ma_____1|Sing|N5:v
+7@2033	ma|PROpers|ma_____1|inv|inv
+
+8@2033	ra|P|ra_____1|inv|inv
+
+9@2033	gwl|N|gwl_____1|Sing|N1:c
+
+10@2033	zd|V|zdn_____1|2*3sgPastprog|v28
+10@2033	zd|V|zdn_____1|2*3sgPreterit|v28
+10@2033	zd|V|zdn_____1|infApocope|v28
+10@2033	zd|V|zdn_____2|2*3sgPreterit|v7
+10@2033	zd|V|zdn_____2|infApocope|v7
+
+11@2033	.|DELM|._____1|inv|inv
+
+#new sentence2034
+0@2034	ma|N|ma_____1|Sing|N5:v
+0@2034	ma|PROpers|ma_____1|inv|inv
+
+1@2034	em|ADV|em_____1|inv|inv
+1@2034	em|PROindef|em_____1|inv|inv
+
+2@2034	dr|N|dr_____1|Sing|N5:c
+2@2034	dr|P|dr_____1|inv|inv
+
+3@2034	baz|ADJ|baz_____1||ADJ:c
+3@2034	baz|ADV|baz_____1||ADV1
+3@2034	baz|P|baz___MTE__1|inv|inv
+
+4@2034	krdym|V|krdn_____1|1plPreparfFam|v22
+4@2034	krdym|V|krdn_____1|1plPreterit|v22
+4@2034	krdym|V|krdn_____2|1plPastprog|v28
+4@2034	krdym|V|krdn_____2|1plPreparfFam|v28
+4@2034	krdym|V|krdn_____2|1plPreterit|v28
+
+5@2034	.|DELM|._____1|inv|inv
+
+#new sentence2035
+0@2035	wŕty|ADJ|wŕt_____1|Indef|ADJ:c
+0@2035	wŕty|CONJsubord|wŕty_____1|inv|inv
+0@2035	wŕty|N|wŕt_____1|SingIndef|N5:c
+
+1@2035	baz|ADJ|baz_____1||ADJ:c
+1@2035	baz|ADV|baz_____1||ADV1
+1@2035	baz|P|baz___MTE__1|inv|inv
+
+2@2035	krdym|V|krdn_____1|1plPreparfFam|v22
+2@2035	krdym|V|krdn_____1|1plPreterit|v22
+2@2035	krdym|V|krdn_____2|1plPastprog|v28
+2@2035	krdym|V|krdn_____2|1plPreparfFam|v28
+2@2035	krdym|V|krdn_____2|1plPreterit|v28
+
+3@2035	šngwl|PN|šngwl_____1|inv|inv
+
+4@2035	w|ADVcoord|w_____1|inv|inv
+
+5@2035	mngwl|N|mngwl_____1|Sing|N5:c
+
+6@2035	grft|V|grftn_____1|2*3sgPreterit|v22
+6@2035	grft|V|grftn_____1|infApocope|v22
+
+7@2035	w|ADVcoord|w_____1|inv|inv
+
+8@2035	ba|ADV|ba˝_____1||ADV2
+8@2035	ba|P|ba_____1|inv|inv
+
+9@2035	xwdš|N|xwd_____1|SingPers3s|N5:c
+9@2035	xwdš|PROrefl|xwdš_____1|inv|inv
+
+10@2035	brd|PN|brd___Berd__1|Sing|N2:c
+10@2035	brd|N|brd_____1|Sing|N5:c
+10@2035	brd|V|brdn_____1|2*3sgPreterit|v2
+10@2035	brd|V|brdn_____1|infApocope|v2
+
+11@2035	w|ADVcoord|w_____1|inv|inv
+
+12@2035	mnm|PROpers|mnm_____1|inv|inv
+
+13@2035	frar|N|frar_____1|Sing|N5:c
+
+14@2035	krdm|N|krd_____1|SingPers1s|N5:c
+14@2035	krdm|V|krdn_____1|1sgPreparfFam|v22
+14@2035	krdm|V|krdn_____1|1sgPreterit|v22
+14@2035	krdm|V|krdn_____2|1sgPastprog|v28
+14@2035	krdm|V|krdn_____2|1sgPreparfFam|v28
+14@2035	krdm|V|krdn_____2|1sgPreterit|v28
+
+15@2035	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+15@2035	āmd|V|āmdn_____1|infApocope|v24:v
+
+16@2035	aynja|ADV|aynja_____1||ADV1
+16@2035	aynja|PN|aynja_____1|inv|inv
+16@2035	aynja|PROdem|aynja___MTE__1|inv|inv
+
+17@2035	ŕaym|ADJ|ŕaym_____1||ADJ:c
+
+18@2035	šdm|V|šdn_____1|1sgPreparfFam|v22
+18@2035	šdm|V|šdn_____1|1sgPreterit|v22
+18@2035	šdm|V|šdn_____2|1sgPastprog|v28
+18@2035	šdm|V|šdn_____2|1sgPreparfFam|v28
+18@2035	šdm|V|šdn_____2|1sgPreterit|v28
+
+19@2035	.|DELM|._____1|inv|inv
+
+#new sentence2036
+0@2036	bzbz|None|None|None|None
+
+1@2036	ŕndy|ADJ|ŕndy_____1||ADJ:v
+1@2036	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+1@2036	ŕndy|PN|ŕndy_____1|inv|inv
+
+2@2036	,|DELM|,_____1|inv|inv
+
+3@2036	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+3@2036	āmd|V|āmdn_____1|infApocope|v24:v
+
+4@2036	w|ADVcoord|w_____1|inv|inv
+
+5@2036	rft|N|rf_____1|SingPers2s|N1:c
+5@2036	rft|V|rftn_____1|2*3sgPreterit|v19
+5@2036	rft|V|rftn_____1|infApocope|v19
+5@2036	rft|V|rftn_____2|2*3sgPreterit|v21
+5@2036	rft|V|rftn_____2|infApocope|v21
+5@2036	rft|V|rftn_____3|2*3sgPreterit|v22
+5@2036	rft|V|rftn_____3|infApocope|v22
+
+6@2036	,|DELM|,_____1|inv|inv
+
+7@2036	be|N|be_____1|Sing|N5:v
+7@2036	be|P|be_____1|inv|inv
+
+8@2036	eway|N|ewa_____1|SingEzafe|N1:v
+8@2036	eway|N|ewa_____2|SingEzafe|N5:v
+
+9@2036	(2)|None|None|None|None
+
+10@2036	čyz|N|čyz_____1|Sing|N5:c
+
+11@2036	āŕa|INTexcl|āŕa_____1|inv|inv
+11@2036	āŕa|N|āŕa_____1|Sing|N1:v
+11@2036	āŕa|INTexcl|āŕa_____1|inv|inv
+
+12@2036	grg|N|grg_____1|Sing|N5:c
+
+13@2036	,|DELM|,_____1|inv|inv
+
+14@2036	rft|N|rf_____1|SingPers2s|N1:c
+14@2036	rft|V|rftn_____1|2*3sgPreterit|v19
+14@2036	rft|V|rftn_____1|infApocope|v19
+14@2036	rft|V|rftn_____2|2*3sgPreterit|v21
+14@2036	rft|V|rftn_____2|infApocope|v21
+14@2036	rft|V|rftn_____3|2*3sgPreterit|v22
+14@2036	rft|V|rftn_____3|infApocope|v22
+
+15@2036	rw|N|rw_____1|Sing|N1:v
+15@2036	rw|P|rw_____1|inv|inv
+
+16@2036	pšt|ADV|pšt___MTE__1||ADV1
+16@2036	pšt|N|pšt_____1|Sing|N5:c
+16@2036	pšt|P|pšt_____1|inv|inv
+
+17@2036	bam|N|bam_____1|Sing|N5:c
+
+18@2036	āŕa|INTexcl|āŕa_____1|inv|inv
+18@2036	āŕa|N|āŕa_____1|Sing|N1:v
+18@2036	āŕa|INTexcl|āŕa_____1|inv|inv
+
+19@2036	grg|N|grg_____1|Sing|N5:c
+
+20@2036	šrw'|None|None|None|None
+
+21@2036	krd|N|krd_____1|Sing|N5:c
+21@2036	krd|V|krdn_____1|2*3sgPreterit|v22
+21@2036	krd|V|krdn_____1|infApocope|v22
+21@2036	krd|V|krdn_____2|2*3sgPastprog|v28
+21@2036	krd|V|krdn_____2|2*3sgPreterit|v28
+21@2036	krd|V|krdn_____2|infApocope|v28
+
+22@2036	paš|None|None|None|None
+
+23@2036	kwbydn|V|kwbydn_____1|*10*inf|v1
+23@2036	kwbydn|V|kwbydn_____1|2*3plPreparfFam|v1
+23@2036	kwbydn|V|kwbydn_____1|2*3plPreteritFam|v1
+23@2036	kwbydn|V|kwbydn_____2|*10*inf|v7
+23@2036	kwbydn|V|kwbydn_____2|2*3plPreparfFam|v7
+23@2036	kwbydn|V|kwbydn_____2|2*3plPreteritFam|v7
+23@2036	kwbydn|V|kwbydn_____3|*10*inf|v22
+23@2036	kwbydn|V|kwbydn_____3|2*3plPreparfFam|v22
+23@2036	kwbydn|V|kwbydn_____3|2*3plPreteritFam|v22
+23@2036	kwbydn|V|kwbydn_____4|*10*inf|v23
+23@2036	kwbydn|V|kwbydn_____4|2*3plPreparfFam|v23
+23@2036	kwbydn|V|kwbydn_____4|2*3plPreteritFam|v23
+23@2036	kwbydn|V|kwbydn_____5|*10*inf|v24
+23@2036	kwbydn|V|kwbydn_____5|2*3plPreparfFam|v24
+23@2036	kwbydn|V|kwbydn_____5|2*3plPreteritFam|v24
+23@2036	kwbydn|V|kwbydn_____6|*10*inf|v28
+23@2036	kwbydn|V|kwbydn_____6|2*3plPastprogFam|v28
+23@2036	kwbydn|V|kwbydn_____6|2*3plPreparfFam|v28
+23@2036	kwbydn|V|kwbydn_____6|2*3plPreteritFam|v28
+23@2036	kwbydn|V|kwbydn_____7|*10*inf|v29
+23@2036	kwbydn|V|kwbydn_____7|2*3plPastprogFam|v29
+23@2036	kwbydn|V|kwbydn_____7|2*3plPreparfFam|v29
+23@2036	kwbydn|V|kwbydn_____7|2*3plPreteritFam|v29
+
+24@2036	w|ADVcoord|w_____1|inv|inv
+
+25@2036	tŕ|None|None|None|None
+
+26@2036	tŕ|None|None|None|None
+
+27@2036	krdn|N|krdn_____1|Sing|N5:c
+27@2036	krdn|V|krdn_____1|*10*inf|v22
+27@2036	krdn|V|krdn_____1|2*3plPreparfFam|v22
+27@2036	krdn|V|krdn_____1|2*3plPreteritFam|v22
+27@2036	krdn|V|krdn_____2|*10*inf|v28
+27@2036	krdn|V|krdn_____2|2*3plPastprogFam|v28
+27@2036	krdn|V|krdn_____2|2*3plPreparfFam|v28
+27@2036	krdn|V|krdn_____2|2*3plPreteritFam|v28
+
+28@2036	rw|N|rw_____1|Sing|N1:v
+28@2036	rw|P|rw_____1|inv|inv
+
+29@2036	pšt|ADV|pšt___MTE__1||ADV1
+29@2036	pšt|N|pšt_____1|Sing|N5:c
+29@2036	pšt|P|pšt_____1|inv|inv
+
+30@2036	bam|N|bam_____1|Sing|N5:c
+
+31@2036	.|DELM|._____1|inv|inv
+
+#new sentence2037
+0@2037	āŕa|INTexcl|āŕa_____1|inv|inv
+0@2037	āŕa|N|āŕa_____1|Sing|N1:v
+0@2037	āŕa|INTexcl|āŕa_____1|inv|inv
+
+1@2037	grg|N|grg_____1|Sing|N5:c
+
+2@2037	gft|V|gftn_____1|2*3sgPreterit|v21
+2@2037	gft|V|gftn_____1|infApocope|v21
+2@2037	gft|V|gftn_____2|2*3sgPreterit|v22
+2@2037	gft|V|gftn_____2|infApocope|v22
+
+3@2037	ky|ADV|ky___MTE__1||ADV1
+3@2037	ky|PROinter|ky_____1|inv|inv
+3@2037	ky|PROinter|ky_____2|inv|inv
+
+4@2037	ast|N|ast_____1|Sing|N15:c
+4@2037	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+5@2037	ky|ADV|ky___MTE__1||ADV1
+5@2037	ky|PROinter|ky_____1|inv|inv
+5@2037	ky|PROinter|ky_____2|inv|inv
+
+6@2037	ast|N|ast_____1|Sing|N15:c
+6@2037	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+7@2037	?|DELM|?_____1|inv|inv
+
+#new sentence2038
+0@2038	tap|None|None|None|None
+
+1@2038	tap|None|None|None|None
+
+2@2038	my_knd|V|kndn_____1|2*3sgPastprog|v2
+2@2038	my_knd|V|kndn_____1|2*3sgPreInd|v2
+2@2038	my_knd|V|krdn_____1|2*3sgPreInd|v22
+
+3@2038	.|DELM|._____1|inv|inv
+
+#new sentence2039
+0@2039	āš|N|āš_____1|Sing|N5:c
+
+1@2039	bče_eay|N|bče_____1|PlurEzafe|N5:v
+
+2@2039	mnw|PROindef|mnw_____1|inv|inv
+
+3@2039	pr|ADJ|pr_____1||ADJ:c
+3@2039	pr|N|pr_____1|Sing|N1:c
+3@2039	pr|N|pr_____2|Sing|N5:c
+
+4@2039	az|P|az_____1|inv|inv
+
+5@2039	xak|N|xak_____1|Sing|N5:c
+
+6@2039	my_knd|V|kndn_____1|2*3sgPastprog|v2
+6@2039	my_knd|V|kndn_____1|2*3sgPreInd|v2
+6@2039	my_knd|V|krdn_____1|2*3sgPreInd|v22
+
+7@2039	.|DELM|._____1|inv|inv
+
+#new sentence2040
+0@2040	(gft|None|None|None|None
+
+1@2040	mnm)|None|None|None|None
+
+2@2040	,|DELM|,_____1|inv|inv
+
+3@2040	gft|V|gftn_____1|2*3sgPreterit|v21
+3@2040	gft|V|gftn_____1|infApocope|v21
+3@2040	gft|V|gftn_____2|2*3sgPreterit|v22
+3@2040	gft|V|gftn_____2|infApocope|v22
+
+4@2040	mnm|PROpers|mnm_____1|inv|inv
+
+5@2040	mnm|PROpers|mnm_____1|inv|inv
+
+6@2040	bzbz|None|None|None|None
+
+7@2040	ŕndy|ADJ|ŕndy_____1||ADJ:v
+7@2040	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+7@2040	ŕndy|PN|ŕndy_____1|inv|inv
+
+8@2040	,|DELM|,_____1|inv|inv
+
+9@2040	šaxm|N|šax_____1|SingPers1s|N5:c
+
+10@2040	be|N|be_____1|Sing|N5:v
+10@2040	be|P|be_____1|inv|inv
+
+11@2040	ewa|N|ewa_____1|Sing|N1:v
+11@2040	ewa|N|ewa_____2|Sing|N5:v
+
+12@2040	smm|N|sm_____1|SingPers1s|N5:c
+
+13@2040	blndy|ADJ|blnd_____1|Indef|ADJ:c
+13@2040	blndy|N|blndy_____1|Sing|N5:v
+
+14@2040	,|DELM|,_____1|inv|inv
+
+15@2040	ky|ADV|ky___MTE__1||ADV1
+15@2040	ky|PROinter|ky_____1|inv|inv
+15@2040	ky|PROinter|ky_____2|inv|inv
+
+16@2040	xwrdn|N|xwrdn_____1|Sing|N5:c
+16@2040	xwrdn|V|xwrdn_____1|*10*inf|v2
+16@2040	xwrdn|V|xwrdn_____1|2*3plPreparfFam|v2
+16@2040	xwrdn|V|xwrdn_____1|2*3plPreteritFam|v2
+16@2040	xwrdn|V|xwrdn_____2|*10*inf|v28
+16@2040	xwrdn|V|xwrdn_____2|2*3plPastprogFam|v28
+16@2040	xwrdn|V|xwrdn_____2|2*3plPreparfFam|v28
+16@2040	xwrdn|V|xwrdn_____2|2*3plPreteritFam|v28
+
+17@2040	šngwl|PN|šngwl_____1|inv|inv
+
+18@2040	mn|AR|mn_____1|inv|inv
+18@2040	mn|PROpers|mn_____1|inv|inv
+
+19@2040	,|DELM|,_____1|inv|inv
+
+20@2040	ky|ADV|ky___MTE__1||ADV1
+20@2040	ky|PROinter|ky_____1|inv|inv
+20@2040	ky|PROinter|ky_____2|inv|inv
+
+21@2040	xwrdn|N|xwrdn_____1|Sing|N5:c
+21@2040	xwrdn|V|xwrdn_____1|*10*inf|v2
+21@2040	xwrdn|V|xwrdn_____1|2*3plPreparfFam|v2
+21@2040	xwrdn|V|xwrdn_____1|2*3plPreteritFam|v2
+21@2040	xwrdn|V|xwrdn_____2|*10*inf|v28
+21@2040	xwrdn|V|xwrdn_____2|2*3plPastprogFam|v28
+21@2040	xwrdn|V|xwrdn_____2|2*3plPreparfFam|v28
+21@2040	xwrdn|V|xwrdn_____2|2*3plPreteritFam|v28
+
+22@2040	mngwl|N|mngwl_____1|Sing|N5:c
+
+23@2040	mn|AR|mn_____1|inv|inv
+23@2040	mn|PROpers|mn_____1|inv|inv
+
+24@2040	?|DELM|?_____1|inv|inv
+
+#new sentence2041
+0@2041	er|DETquant|er_____1|inv|inv
+
+1@2041	ky|ADV|ky___MTE__1||ADV1
+1@2041	ky|PROinter|ky_____1|inv|inv
+1@2041	ky|PROinter|ky_____2|inv|inv
+
+2@2041	xwrdn|N|xwrdn_____1|Sing|N5:c
+2@2041	xwrdn|V|xwrdn_____1|*10*inf|v2
+2@2041	xwrdn|V|xwrdn_____1|2*3plPreparfFam|v2
+2@2041	xwrdn|V|xwrdn_____1|2*3plPreteritFam|v2
+2@2041	xwrdn|V|xwrdn_____2|*10*inf|v28
+2@2041	xwrdn|V|xwrdn_____2|2*3plPastprogFam|v28
+2@2041	xwrdn|V|xwrdn_____2|2*3plPreparfFam|v28
+2@2041	xwrdn|V|xwrdn_____2|2*3plPreteritFam|v28
+
+3@2041	šngwl|PN|šngwl_____1|inv|inv
+
+4@2041	mn|AR|mn_____1|inv|inv
+4@2041	mn|PROpers|mn_____1|inv|inv
+
+5@2041	,|DELM|,_____1|inv|inv
+
+6@2041	mngwl|N|mngwl_____1|Sing|N5:c
+
+7@2041	mn|AR|mn_____1|inv|inv
+7@2041	mn|PROpers|mn_____1|inv|inv
+
+8@2041	frda|ADV|frda_____1||ADV1
+8@2041	frda|ADV|frda˝_____1||ADV2
+
+9@2041	byāyd|V|awmdn_____1|2*3sgPreSubj|v24:v
+9@2041	byāyd|V|āmdn_____1|2*3sgPreSubj|v24:v
+
+10@2041	be|N|be_____1|Sing|N5:v
+10@2041	be|P|be_____1|inv|inv
+
+11@2041	jng|N|jng_____1|Sing|N5:c
+
+12@2041	mn|AR|mn_____1|inv|inv
+12@2041	mn|PROpers|mn_____1|inv|inv
+
+13@2041	.|DELM|._____1|inv|inv
+
+#new sentence2042
+0@2042	gft|V|gftn_____1|2*3sgPreterit|v21
+0@2042	gft|V|gftn_____1|infApocope|v21
+0@2042	gft|V|gftn_____2|2*3sgPreterit|v22
+0@2042	gft|V|gftn_____2|infApocope|v22
+
+1@2042	ke|CONJsubord|ke_____1|inv|inv
+
+2@2042	mn|AR|mn_____1|inv|inv
+2@2042	mn|PROpers|mn_____1|inv|inv
+
+3@2042	nxwrdm|V|xwrdn_____1|1sgPreparfNegFam|v2
+3@2042	nxwrdm|V|xwrdn_____1|1sgPreteritNeg|v2
+3@2042	nxwrdm|V|xwrdn_____2|1sgPastprogNeg|v28
+3@2042	nxwrdm|V|xwrdn_____2|1sgPreparfNegFam|v28
+3@2042	nxwrdm|V|xwrdn_____2|1sgPreteritNeg|v28
+
+4@2042	šngwl|PN|šngwl_____1|inv|inv
+
+5@2042	tw|P|tw_____1|inv|inv
+5@2042	tw|PROpers|tw_____1|inv|inv
+
+6@2042	,|DELM|,_____1|inv|inv
+
+7@2042	mn|AR|mn_____1|inv|inv
+7@2042	mn|PROpers|mn_____1|inv|inv
+
+8@2042	nxwrdm|V|xwrdn_____1|1sgPreparfNegFam|v2
+8@2042	nxwrdm|V|xwrdn_____1|1sgPreteritNeg|v2
+8@2042	nxwrdm|V|xwrdn_____2|1sgPastprogNeg|v28
+8@2042	nxwrdm|V|xwrdn_____2|1sgPreparfNegFam|v28
+8@2042	nxwrdm|V|xwrdn_____2|1sgPreteritNeg|v28
+
+9@2042	mngwl|N|mngwl_____1|Sing|N5:c
+
+10@2042	tw|P|tw_____1|inv|inv
+10@2042	tw|PROpers|tw_____1|inv|inv
+
+11@2042	,|DELM|,_____1|inv|inv
+
+12@2042	frda|ADV|frda_____1||ADV1
+12@2042	frda|ADV|frda˝_____1||ADV2
+
+13@2042	em|ADV|em_____1|inv|inv
+13@2042	em|PROindef|em_____1|inv|inv
+
+14@2042	nmy_āym|V|awmdn_____1|1sgPreIndNeg|v24:v
+14@2042	nmy_āym|V|āmdn_____1|1sgPreIndNeg|v24:v
+
+15@2042	be|N|be_____1|Sing|N5:v
+15@2042	be|P|be_____1|inv|inv
+
+16@2042	jng|N|jng_____1|Sing|N5:c
+
+17@2042	tw|P|tw_____1|inv|inv
+17@2042	tw|PROpers|tw_____1|inv|inv
+
+18@2042	.|DELM|._____1|inv|inv
+
+#new sentence2043
+0@2043	baz|ADJ|baz_____1||ADJ:c
+0@2043	baz|ADV|baz_____1||ADV1
+0@2043	baz|P|baz___MTE__1|inv|inv
+
+1@2043	ayn|DETdem|ayn_____1|inv|inv
+1@2043	ayn|PROdem|ayn_____1|inv|inv
+
+2@2043	šrw'|None|None|None|None
+
+3@2043	krd|N|krd_____1|Sing|N5:c
+3@2043	krd|V|krdn_____1|2*3sgPreterit|v22
+3@2043	krd|V|krdn_____1|infApocope|v22
+3@2043	krd|V|krdn_____2|2*3sgPastprog|v28
+3@2043	krd|V|krdn_____2|2*3sgPreterit|v28
+3@2043	krd|V|krdn_____2|infApocope|v28
+
+4@2043	be|N|be_____1|Sing|N5:v
+4@2043	be|P|be_____1|inv|inv
+
+5@2043	čyz|N|čyz_____1|Sing|N5:c
+
+6@2043	krdn|N|krdn_____1|Sing|N5:c
+6@2043	krdn|V|krdn_____1|*10*inf|v22
+6@2043	krdn|V|krdn_____1|2*3plPreparfFam|v22
+6@2043	krdn|V|krdn_____1|2*3plPreteritFam|v22
+6@2043	krdn|V|krdn_____2|*10*inf|v28
+6@2043	krdn|V|krdn_____2|2*3plPastprogFam|v28
+6@2043	krdn|V|krdn_____2|2*3plPreparfFam|v28
+6@2043	krdn|V|krdn_____2|2*3plPreteritFam|v28
+
+7@2043	,|DELM|,_____1|inv|inv
+
+8@2043	tap|None|None|None|None
+
+9@2043	tap|None|None|None|None
+
+10@2043	krdn|N|krdn_____1|Sing|N5:c
+10@2043	krdn|V|krdn_____1|*10*inf|v22
+10@2043	krdn|V|krdn_____1|2*3plPreparfFam|v22
+10@2043	krdn|V|krdn_____1|2*3plPreteritFam|v22
+10@2043	krdn|V|krdn_____2|*10*inf|v28
+10@2043	krdn|V|krdn_____2|2*3plPastprogFam|v28
+10@2043	krdn|V|krdn_____2|2*3plPreparfFam|v28
+10@2043	krdn|V|krdn_____2|2*3plPreteritFam|v28
+
+11@2043	.|DELM|._____1|inv|inv
+
+#new sentence2044
+0@2044	gft|V|gftn_____1|2*3sgPreterit|v21
+0@2044	gft|V|gftn_____1|infApocope|v21
+0@2044	gft|V|gftn_____2|2*3sgPreterit|v22
+0@2044	gft|V|gftn_____2|infApocope|v22
+
+1@2044	ky|ADV|ky___MTE__1||ADV1
+1@2044	ky|PROinter|ky_____1|inv|inv
+1@2044	ky|PROinter|ky_____2|inv|inv
+
+2@2044	ast|N|ast_____1|Sing|N15:c
+2@2044	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+3@2044	ky|ADV|ky___MTE__1||ADV1
+3@2044	ky|PROinter|ky_____1|inv|inv
+3@2044	ky|PROinter|ky_____2|inv|inv
+
+4@2044	ast|N|ast_____1|Sing|N15:c
+4@2044	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+5@2044	tap|None|None|None|None
+
+6@2044	tap|None|None|None|None
+
+7@2044	my_knd|V|kndn_____1|2*3sgPastprog|v2
+7@2044	my_knd|V|kndn_____1|2*3sgPreInd|v2
+7@2044	my_knd|V|krdn_____1|2*3sgPreInd|v22
+
+8@2044	?|DELM|?_____1|inv|inv
+
+#new sentence2045
+0@2045	āš|N|āš_____1|Sing|N5:c
+
+1@2045	bče_eay|N|bče_____1|PlurEzafe|N5:v
+
+2@2045	mne|V|neadn_____1|ProhibNormForm|v4
+
+3@2045	pr|ADJ|pr_____1||ADJ:c
+3@2045	pr|N|pr_____1|Sing|N1:c
+3@2045	pr|N|pr_____2|Sing|N5:c
+
+4@2045	az|P|az_____1|inv|inv
+
+5@2045	xak|N|xak_____1|Sing|N5:c
+
+6@2045	my_knd|V|kndn_____1|2*3sgPastprog|v2
+6@2045	my_knd|V|kndn_____1|2*3sgPreInd|v2
+6@2045	my_knd|V|krdn_____1|2*3sgPreInd|v22
+
+7@2045	.|DELM|._____1|inv|inv
+
+#new sentence2046
+0@2046	gft|V|gftn_____1|2*3sgPreterit|v21
+0@2046	gft|V|gftn_____1|infApocope|v21
+0@2046	gft|V|gftn_____2|2*3sgPreterit|v22
+0@2046	gft|V|gftn_____2|infApocope|v22
+
+1@2046	mnm|PROpers|mnm_____1|inv|inv
+
+2@2046	mnm|PROpers|mnm_____1|inv|inv
+
+3@2046	bz|N|bz_____1|Sing|N5:c
+
+4@2046	zngwle|N|zngwle_____1|Sing|N5:v
+
+5@2046	be|N|be_____1|Sing|N5:v
+5@2046	be|P|be_____1|inv|inv
+
+6@2046	pa|N|pa_____1|Sing|N1:v
+6@2046	pa|N|pa_____2|Sing|N5:v
+
+7@2046	,|DELM|,_____1|inv|inv
+
+8@2046	br|P|br_____1|inv|inv
+
+9@2046	my|ADJ|m_____1|Indef|ADJ:c
+
+10@2046	jm|PN|jm___Jem (singer)__1|inv|inv
+
+11@2046	(3)|None|None|None|None
+
+12@2046	dw|DETquant|dw_____1|inv|inv
+12@2046	dw|N|dw_____1|Sing|N5:v
+
+13@2046	pa|N|pa_____1|Sing|N1:v
+13@2046	pa|N|pa_____2|Sing|N5:v
+
+14@2046	dw|DETquant|dw_____1|inv|inv
+14@2046	dw|N|dw_____1|Sing|N5:v
+
+15@2046	pa|N|pa_____1|Sing|N1:v
+15@2046	pa|N|pa_____2|Sing|N5:v
+
+16@2046	,|DELM|,_____1|inv|inv
+
+17@2046	ky|ADV|ky___MTE__1||ADV1
+17@2046	ky|PROinter|ky_____1|inv|inv
+17@2046	ky|PROinter|ky_____2|inv|inv
+
+18@2046	xbrde|None|None|None|None
+
+19@2046	šngwl|PN|šngwl_____1|inv|inv
+
+20@2046	mn|AR|mn_____1|inv|inv
+20@2046	mn|PROpers|mn_____1|inv|inv
+
+21@2046	,|DELM|,_____1|inv|inv
+
+22@2046	ky|ADV|ky___MTE__1||ADV1
+22@2046	ky|PROinter|ky_____1|inv|inv
+22@2046	ky|PROinter|ky_____2|inv|inv
+
+23@2046	xbrde|None|None|None|None
+
+24@2046	mngwl|N|mngwl_____1|Sing|N5:c
+
+25@2046	mn|AR|mn_____1|inv|inv
+25@2046	mn|PROpers|mn_____1|inv|inv
+
+26@2046	.|DELM|._____1|inv|inv
+
+#new sentence2047
+0@2047	er|DETquant|er_____1|inv|inv
+
+1@2047	ky|ADV|ky___MTE__1||ADV1
+1@2047	ky|PROinter|ky_____1|inv|inv
+1@2047	ky|PROinter|ky_____2|inv|inv
+
+2@2047	xwrdn|N|xwrdn_____1|Sing|N5:c
+2@2047	xwrdn|V|xwrdn_____1|*10*inf|v2
+2@2047	xwrdn|V|xwrdn_____1|2*3plPreparfFam|v2
+2@2047	xwrdn|V|xwrdn_____1|2*3plPreteritFam|v2
+2@2047	xwrdn|V|xwrdn_____2|*10*inf|v28
+2@2047	xwrdn|V|xwrdn_____2|2*3plPastprogFam|v28
+2@2047	xwrdn|V|xwrdn_____2|2*3plPreparfFam|v28
+2@2047	xwrdn|V|xwrdn_____2|2*3plPreteritFam|v28
+
+3@2047	šngwl|PN|šngwl_____1|inv|inv
+
+4@2047	mn|AR|mn_____1|inv|inv
+4@2047	mn|PROpers|mn_____1|inv|inv
+
+5@2047	mngwl|N|mngwl_____1|Sing|N5:c
+
+6@2047	mn|AR|mn_____1|inv|inv
+6@2047	mn|PROpers|mn_____1|inv|inv
+
+7@2047	,|DELM|,_____1|inv|inv
+
+8@2047	frda|ADV|frda_____1||ADV1
+8@2047	frda|ADV|frda˝_____1||ADV2
+
+9@2047	byāyd|V|awmdn_____1|2*3sgPreSubj|v24:v
+9@2047	byāyd|V|āmdn_____1|2*3sgPreSubj|v24:v
+
+10@2047	be|N|be_____1|Sing|N5:v
+10@2047	be|P|be_____1|inv|inv
+
+11@2047	jng|N|jng_____1|Sing|N5:c
+
+12@2047	mn|AR|mn_____1|inv|inv
+12@2047	mn|PROpers|mn_____1|inv|inv
+
+13@2047	.|DELM|._____1|inv|inv
+
+#new sentence2048
+0@2048	ayn|DETdem|ayn_____1|inv|inv
+0@2048	ayn|PROdem|ayn_____1|inv|inv
+
+1@2048	dyd|N|dyd_____1|Sing|N1:c
+1@2048	dyd|V|dadn_____4|2plPreInd|v29
+1@2048	dyd|V|dadn_____4|2plPreSubj|v29
+1@2048	dyd|V|dadn_____4|ProhibNormFormpl|v29
+1@2048	dyd|V|dadn_____4|imperNormpl|v29
+1@2048	dyd|V|dydn_____1|2*3sgPreterit|v22
+1@2048	dyd|V|dydn_____1|infApocope|v22
+1@2048	dyd|V|dydn_____2|2*3sgPreterit|v7
+1@2048	dyd|V|dydn_____2|infApocope|v7
+
+2@2048	wl|ADJ|wl_____1||ADJ:c
+
+3@2048	nmyknd|None|None|None|None
+
+4@2048	bzbz|None|None|None|None
+
+5@2048	ŕndy|ADJ|ŕndy_____1||ADJ:v
+5@2048	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+5@2048	ŕndy|PN|ŕndy_____1|inv|inv
+
+6@2048	.|DELM|._____1|inv|inv
+
+#new sentence2049
+0@2049	gft|V|gftn_____1|2*3sgPreterit|v21
+0@2049	gft|V|gftn_____1|infApocope|v21
+0@2049	gft|V|gftn_____2|2*3sgPreterit|v22
+0@2049	gft|V|gftn_____2|infApocope|v22
+
+1@2049	mn|AR|mn_____1|inv|inv
+1@2049	mn|PROpers|mn_____1|inv|inv
+
+2@2049	xwrdm|V|xwrdn_____1|1sgPreparfFam|v2
+2@2049	xwrdm|V|xwrdn_____1|1sgPreterit|v2
+2@2049	xwrdm|V|xwrdn_____2|1sgPastprog|v28
+2@2049	xwrdm|V|xwrdn_____2|1sgPreparfFam|v28
+2@2049	xwrdm|V|xwrdn_____2|1sgPreterit|v28
+
+3@2049	šngwl|PN|šngwl_____1|inv|inv
+
+4@2049	tw|P|tw_____1|inv|inv
+4@2049	tw|PROpers|tw_____1|inv|inv
+
+5@2049	,|DELM|,_____1|inv|inv
+
+6@2049	mn|AR|mn_____1|inv|inv
+6@2049	mn|PROpers|mn_____1|inv|inv
+
+7@2049	xwrdm|V|xwrdn_____1|1sgPreparfFam|v2
+7@2049	xwrdm|V|xwrdn_____1|1sgPreterit|v2
+7@2049	xwrdm|V|xwrdn_____2|1sgPastprog|v28
+7@2049	xwrdm|V|xwrdn_____2|1sgPreparfFam|v28
+7@2049	xwrdm|V|xwrdn_____2|1sgPreterit|v28
+
+8@2049	mngwl|N|mngwl_____1|Sing|N5:c
+
+9@2049	tw|P|tw_____1|inv|inv
+9@2049	tw|PROpers|tw_____1|inv|inv
+
+10@2049	,|DELM|,_____1|inv|inv
+
+11@2049	frda|ADV|frda_____1||ADV1
+11@2049	frda|ADV|frda˝_____1||ADV2
+
+12@2049	em|ADV|em_____1|inv|inv
+12@2049	em|PROindef|em_____1|inv|inv
+
+13@2049	my_āym|V|awmdn_____1|1sgPreInd|v24:v
+13@2049	my_āym|V|āmdn_____1|1sgPreInd|v24:v
+
+14@2049	be|N|be_____1|Sing|N5:v
+14@2049	be|P|be_____1|inv|inv
+
+15@2049	jng|N|jng_____1|Sing|N5:c
+
+16@2049	tw|P|tw_____1|inv|inv
+16@2049	tw|PROpers|tw_____1|inv|inv
+
+17@2049	.|DELM|._____1|inv|inv
+
+#new sentence2050
+0@2050	bz|N|bz_____1|Sing|N5:c
+
+1@2050	bz|N|bz_____1|Sing|N5:c
+
+2@2050	ŕndy|ADJ|ŕndy_____1||ADJ:v
+2@2050	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+2@2050	ŕndy|PN|ŕndy_____1|inv|inv
+
+3@2050	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+3@2050	āmd|V|āmdn_____1|infApocope|v24:v
+
+4@2050	w|ADVcoord|w_____1|inv|inv
+
+5@2050	yk|DETquant|yk_____1|inv|inv
+
+6@2050	xyky|None|None|None|None
+
+7@2050	pra|None|None|None|None
+
+8@2050	az|P|az_____1|inv|inv
+
+9@2050	masty|N|mast_____1|SingIndef|N1:c
+
+10@2050	ke|CONJsubord|ke_____1|inv|inv
+
+11@2050	ŕbla|ADV|ŕbla˝_____1||ADV2
+
+12@2050	teyk|None|None|None|None
+
+13@2050	krade|None|None|None|None
+
+14@2050	bwd|V|bwdn_____1|2*3sgPreterit|v25
+14@2050	bwd|V|bwdn_____1|infApocope|v25
+
+15@2050	w|ADVcoord|w_____1|inv|inv
+
+16@2050	a|INT|a_____1|inv|inv
+
+17@2050	šyra|None|None|None|None
+
+18@2050	xwdš|N|xwd_____1|SingPers3s|N5:c
+18@2050	xwdš|PROrefl|xwdš_____1|inv|inv
+
+19@2050	w|ADVcoord|w_____1|inv|inv
+
+20@2050	kšk|N|kšk_____1|Sing|N1:c
+
+21@2050	w|ADVcoord|w_____1|inv|inv
+
+22@2050	pnyra|None|None|None|None
+
+23@2050	w|ADVcoord|w_____1|inv|inv
+
+24@2050	krae|None|None|None|None
+
+25@2050	ayn|DETdem|ayn_____1|inv|inv
+25@2050	ayn|PROdem|ayn_____1|inv|inv
+
+26@2050	ra|P|ra_____1|inv|inv
+
+27@2050	eme|DETquant|eme_____1|inv|inv
+27@2050	eme|PROquindef|eme_____1|inv|inv
+
+28@2050	raw|None|None|None|None
+
+29@2050	āmade|ADJ|āmade_____1||ADJ:v
+
+30@2050	krad|None|None|None|None
+
+31@2050	w|ADVcoord|w_____1|inv|inv
+
+32@2050	ba|ADV|ba˝_____1||ADV2
+32@2050	ba|P|ba_____1|inv|inv
+
+33@2050	xwdš|N|xwd_____1|SingPers3s|N5:c
+33@2050	xwdš|PROrefl|xwdš_____1|inv|inv
+
+34@2050	brad|None|None|None|None
+
+35@2050	xwnX|None|None|None|None
+
+36@2050	ŕaźy|PN|ŕaźy_____1|Sing|N2:v
+36@2050	ŕaźy|N|ŕaźy_____1|Sing|N5:v
+
+37@2050	.|DELM|._____1|inv|inv
+
+#new sentence2051
+0@2051	dastan|N|das_____1|SingPers2p|N1:c
+0@2051	dastan|N|dastan_____1|Sing|N5:c
+
+1@2051	zndgy_aš|N|zndgy_____1|SingPers3s|N5:v
+
+2@2051	bray|P|bray_____1|inv|inv
+2@2051	bray|P|bray_____2|inv|inv
+
+3@2051	āŕay|N|āŕa_____1|SingEzafe|N1:v
+3@2051	āŕay|N|āŕay_____1|Sing|N15:v
+
+4@2051	ŕaźy|PN|ŕaźy_____1|Sing|N2:v
+4@2051	ŕaźy|N|ŕaźy_____1|Sing|N5:v
+
+5@2051	t'ryf|N|t'ryf_____1|Sing|N5:c
+
+6@2051	krd|N|krd_____1|Sing|N5:c
+6@2051	krd|V|krdn_____1|2*3sgPreterit|v22
+6@2051	krd|V|krdn_____1|infApocope|v22
+6@2051	krd|V|krdn_____2|2*3sgPastprog|v28
+6@2051	krd|V|krdn_____2|2*3sgPreterit|v28
+6@2051	krd|V|krdn_____2|infApocope|v28
+
+7@2051	ke|CONJsubord|ke_____1|inv|inv
+
+8@2051	are|N|are_____1|Sing|N1:v
+
+9@2051	yk|DETquant|yk_____1|inv|inv
+
+10@2051	em|ADV|em_____1|inv|inv
+10@2051	em|PROindef|em_____1|inv|inv
+
+11@2051	čyn|N|čyn_____1|Sing|N5:c
+11@2051	čyn|V|čydn_____6|2*3plPreIndFam|v28
+11@2051	čyn|V|čydn_____6|2*3plPreSubjFam|v28
+
+12@2051	mşybt|N|mşybt_____1|Sing|N5:c
+
+13@2051	mn|AR|mn_____1|inv|inv
+13@2051	mn|PROpers|mn_____1|inv|inv
+
+14@2051	pyda|ADJ|pyda_____1||ADJ:v
+
+15@2051	krdm|N|krd_____1|SingPers1s|N5:c
+15@2051	krdm|V|krdn_____1|1sgPreparfFam|v22
+15@2051	krdm|V|krdn_____1|1sgPreterit|v22
+15@2051	krdm|V|krdn_____2|1sgPastprog|v28
+15@2051	krdm|V|krdn_____2|1sgPreparfFam|v28
+15@2051	krdm|V|krdn_____2|1sgPreterit|v28
+
+16@2051	.|DELM|._____1|inv|inv
+
+#new sentence2052
+0@2052	ke|CONJsubord|ke_____1|inv|inv
+
+1@2052	mn|AR|mn_____1|inv|inv
+1@2052	mn|PROpers|mn_____1|inv|inv
+
+2@2052	rfte|N|rfte_____1|Sing|N5:v
+2@2052	rfte|V|rftn_____1|3sgPreparfFam|v19
+2@2052	rfte|V|rftn_____1|partPas|v19
+2@2052	rfte|V|rftn_____2|3sgPreparfFam|v21
+2@2052	rfte|V|rftn_____2|partPas|v21
+2@2052	rfte|V|rftn_____3|3sgPreparfFam|v22
+2@2052	rfte|V|rftn_____3|partPas|v22
+
+3@2052	bwdm|V|bwdn_____1|1sgPreparfFam|v25
+3@2052	bwdm|V|bwdn_____1|1sgPreterit|v25
+
+4@2052	be|N|be_____1|Sing|N5:v
+4@2052	be|P|be_____1|inv|inv
+
+5@2052	şħra|N|şħra_____1|Sing|N5:v
+
+6@2052	,|DELM|,_____1|inv|inv
+
+7@2052	āŕa|INTexcl|āŕa_____1|inv|inv
+7@2052	āŕa|N|āŕa_____1|Sing|N1:v
+7@2052	āŕa|INTexcl|āŕa_____1|inv|inv
+
+8@2052	grg|N|grg_____1|Sing|N5:c
+
+9@2052	āmde|ADJ|āmde___MTE__1||ADJ
+9@2052	āmde|V|āmdn_____1|3sgPreparfFam|v24:v
+9@2052	āmde|V|āmdn_____1|partPas|v24:v
+
+10@2052	az|P|az_____1|inv|inv
+
+11@2052	nbwdn|V|bwdn_____1|2*3plPreparfNegFam|v25
+11@2052	nbwdn|V|bwdn_____1|2*3plPreteritNegFam|v25
+
+12@2052	mn|AR|mn_____1|inv|inv
+12@2052	mn|PROpers|mn_____1|inv|inv
+
+13@2052	,|DELM|,_____1|inv|inv
+
+14@2052	sw°|ADJ|sw°_____1||ADJ:c
+14@2052	sw°|AR|sw°_____1|inv|inv
+
+15@2052	astfade|N|astfade_____1|Sing|N5:v
+
+16@2052	krde|V|krdn_____1|3sgPreparfFam|v22
+16@2052	krde|V|krdn_____1|partPas|v22
+16@2052	krde|V|krdn_____2|3sgPreparfFam|v28
+16@2052	krde|V|krdn_____2|partPas|v28
+
+17@2052	,|DELM|,_____1|inv|inv
+
+18@2052	bče|N|bče_____1|Sing|N5:v
+18@2052	bče|V|čydn_____1|3sgPreSubjFam|v1
+
+19@2052	mn|AR|mn_____1|inv|inv
+19@2052	mn|PROpers|mn_____1|inv|inv
+
+20@2052	če|ADV|če_____1||ADV1
+20@2052	če|ADVcoord|če_____1|inv|inv
+20@2052	če|CONJsubord|če_____2|inv|inv
+20@2052	če|DETinter|če_____1|inv|inv
+20@2052	če|N|če_____1|Sing|N5:v
+20@2052	če|PROinter|če_____1|inv|inv
+
+21@2052	kar|N|kar_____1|Sing|N5:c
+
+22@2052	krde|V|krdn_____1|3sgPreparfFam|v22
+22@2052	krde|V|krdn_____1|partPas|v22
+22@2052	krde|V|krdn_____2|3sgPreparfFam|v28
+22@2052	krde|V|krdn_____2|partPas|v28
+
+23@2052	?|DELM|?_____1|inv|inv
+
+#new sentence2053
+0@2053	brde|N|brde_____1|Sing|N1:v
+0@2053	brde|V|brdn_____1|3sgPreparfFam|v2
+0@2053	brde|V|brdn_____1|partPas|v2
+
+1@2053	w|ADVcoord|w_____1|inv|inv
+
+2@2053	xwrde|V|xwrdn_____1|3sgPreparfFam|v2
+2@2053	xwrde|V|xwrdn_____1|partPas|v2
+2@2053	xwrde|V|xwrdn_____2|3sgPreparfFam|v28
+2@2053	xwrde|V|xwrdn_____2|partPas|v28
+
+3@2053	.|DELM|._____1|inv|inv
+
+#new sentence2054
+0@2054	(bz)|None|None|None|None
+
+1@2054	,|DELM|,_____1|inv|inv
+
+2@2054	āŕa|INTexcl|āŕa_____1|inv|inv
+2@2054	āŕa|N|āŕa_____1|Sing|N1:v
+2@2054	āŕa|INTexcl|āŕa_____1|inv|inv
+
+3@2054	ŕaźy|PN|ŕaźy_____1|Sing|N2:v
+3@2054	ŕaźy|N|ŕaźy_____1|Sing|N5:v
+
+4@2054	em|ADV|em_____1|inv|inv
+4@2054	em|PROindef|em_____1|inv|inv
+
+5@2054	dlš|N|dl_____1|SingPers3s|N5:c
+
+6@2054	swxt|N|swxt_____1|Sing|N5:c
+6@2054	swxt|V|swxtn_____1|2*3sgPreterit|v8
+6@2054	swxt|V|swxtn_____1|infApocope|v8
+
+7@2054	w|ADVcoord|w_____1|inv|inv
+
+8@2054	bzbz|None|None|None|None
+
+9@2054	ŕndy|ADJ|ŕndy_____1||ADJ:v
+9@2054	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+9@2054	ŕndy|PN|ŕndy_____1|inv|inv
+
+10@2054	ra|P|ra_____1|inv|inv
+
+11@2054	šra'|None|None|None|None
+
+12@2054	krd|N|krd_____1|Sing|N5:c
+12@2054	krd|V|krdn_____1|2*3sgPreterit|v22
+12@2054	krd|V|krdn_____1|infApocope|v22
+12@2054	krd|V|krdn_____2|2*3sgPastprog|v28
+12@2054	krd|V|krdn_____2|2*3sgPreterit|v28
+12@2054	krd|V|krdn_____2|infApocope|v28
+
+13@2054	ayn|DETdem|ayn_____1|inv|inv
+13@2054	ayn|PROdem|ayn_____1|inv|inv
+
+14@2054	šaxš|N|šax_____1|SingPers3s|N5:c
+
+15@2054	ra|P|ra_____1|inv|inv
+
+16@2054	tyz|ADJ|tyz_____1||ADJ:c
+
+17@2054	krd|N|krd_____1|Sing|N5:c
+17@2054	krd|V|krdn_____1|2*3sgPreterit|v22
+17@2054	krd|V|krdn_____1|infApocope|v22
+17@2054	krd|V|krdn_____2|2*3sgPastprog|v28
+17@2054	krd|V|krdn_____2|2*3sgPreterit|v28
+17@2054	krd|V|krdn_____2|infApocope|v28
+
+18@2054	.|DELM|._____1|inv|inv
+
+#new sentence2055
+0@2055	tyz|ADJ|tyz_____1||ADJ:c
+
+1@2055	tyz|ADJ|tyz_____1||ADJ:c
+
+2@2055	krd|N|krd_____1|Sing|N5:c
+2@2055	krd|V|krdn_____1|2*3sgPreterit|v22
+2@2055	krd|V|krdn_____1|infApocope|v22
+2@2055	krd|V|krdn_____2|2*3sgPastprog|v28
+2@2055	krd|V|krdn_____2|2*3sgPreterit|v28
+2@2055	krd|V|krdn_____2|infApocope|v28
+
+3@2055	bray|P|bray_____1|inv|inv
+3@2055	bray|P|bray_____2|inv|inv
+
+4@2055	rwz|ADV|rwz___MTE__1||ADV1
+4@2055	rwz|N|rwz_____1|Sing|N5:c
+
+5@2055	jng|N|jng_____1|Sing|N5:c
+
+6@2055	.|DELM|._____1|inv|inv
+
+#new sentence2056
+0@2056	az|P|az_____1|inv|inv
+
+1@2056	awn|PROpers|awn_____1|inv|inv
+
+2@2056	wr|ADV|wr_____1|inv|inv
+2@2056	wr|ADVcond|wr_____2|inv|inv
+2@2056	wr|N|wr_____1|Sing|N1:c
+
+3@2056	em|ADV|em_____1|inv|inv
+3@2056	em|PROindef|em_____1|inv|inv
+
+4@2056	(4)|None|None|None|None
+
+5@2056	āŕa|INTexcl|āŕa_____1|inv|inv
+5@2056	āŕa|N|āŕa_____1|Sing|N1:v
+5@2056	āŕa|INTexcl|āŕa_____1|inv|inv
+
+6@2056	grg|N|grg_____1|Sing|N5:c
+
+7@2056	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+7@2056	āmd|V|āmdn_____1|infApocope|v24:v
+
+8@2056	yk|DETquant|yk_____1|inv|inv
+
+9@2056	dane|CLASSsing|dane_____1|inv|inv
+9@2056	dane|N|dane_____1|Sing|N5:v
+
+10@2056	az|P|az_____1|inv|inv
+
+11@2056	ayn|DETdem|ayn_____1|inv|inv
+11@2056	ayn|PROdem|ayn_____1|inv|inv
+
+12@2056	embwne(5)|None|None|None|None
+
+13@2056	ea|INT|ea_____1|inv|inv
+
+14@2056	ra|P|ra_____1|inv|inv
+
+15@2056	twy|P|twy_____1|inv|inv
+15@2056	twy|P|twy_____2|inv|inv
+
+16@2056	aw|N|aw_____1|Sing|N15:c
+16@2056	aw|PROpers|aw_____1|inv|inv
+
+17@2056	bad|N|bad_____1|Sing|N1:c
+17@2056	bad|N|bad_____2|Sing|N5:c
+17@2056	bad|V|bwdn_____1|3sg.Opt|v25
+
+18@2056	krd|N|krd_____1|Sing|N5:c
+18@2056	krd|V|krdn_____1|2*3sgPreterit|v22
+18@2056	krd|V|krdn_____1|infApocope|v22
+18@2056	krd|V|krdn_____2|2*3sgPastprog|v28
+18@2056	krd|V|krdn_____2|2*3sgPreterit|v28
+18@2056	krd|V|krdn_____2|infApocope|v28
+
+19@2056	.|DELM|._____1|inv|inv
+
+#new sentence2057
+0@2057	bad|N|bad_____1|Sing|N1:c
+0@2057	bad|N|bad_____2|Sing|N5:c
+0@2057	bad|V|bwdn_____1|3sg.Opt|v25
+
+1@2057	krd|N|krd_____1|Sing|N5:c
+1@2057	krd|V|krdn_____1|2*3sgPreterit|v22
+1@2057	krd|V|krdn_____1|infApocope|v22
+1@2057	krd|V|krdn_____2|2*3sgPastprog|v28
+1@2057	krd|V|krdn_____2|2*3sgPreterit|v28
+1@2057	krd|V|krdn_____2|infApocope|v28
+
+2@2057	bad|N|bad_____1|Sing|N1:c
+2@2057	bad|N|bad_____2|Sing|N5:c
+2@2057	bad|V|bwdn_____1|3sg.Opt|v25
+
+3@2057	krd|N|krd_____1|Sing|N5:c
+3@2057	krd|V|krdn_____1|2*3sgPreterit|v22
+3@2057	krd|V|krdn_____1|infApocope|v22
+3@2057	krd|V|krdn_____2|2*3sgPastprog|v28
+3@2057	krd|V|krdn_____2|2*3sgPreterit|v28
+3@2057	krd|V|krdn_____2|infApocope|v28
+
+4@2057	w|ADVcoord|w_____1|inv|inv
+
+5@2057	yk|DETquant|yk_____1|inv|inv
+
+6@2057	dane|CLASSsing|dane_____1|inv|inv
+6@2057	dane|N|dane_____1|Sing|N5:v
+
+7@2057	az|P|az_____1|inv|inv
+
+8@2057	ayn|DETdem|ayn_____1|inv|inv
+8@2057	ayn|PROdem|ayn_____1|inv|inv
+
+9@2057	nxwd|N|nxwd_____1|Sing|N1:c
+
+10@2057	em|ADV|em_____1|inv|inv
+10@2057	em|PROindef|em_____1|inv|inv
+
+11@2057	andaxt|V|andaxtn_____1|2*3sgPreterit|v8
+11@2057	andaxt|V|andaxtn_____1|infApocope|v8
+11@2057	andaxt|V|andaxtn_____2|2*3sgPreterit|v8
+11@2057	andaxt|V|andaxtn_____2|infApocope|v8
+
+12@2057	twy|P|twy_____1|inv|inv
+12@2057	twy|P|twy_____2|inv|inv
+
+13@2057	aw|N|aw_____1|Sing|N15:c
+13@2057	aw|PROpers|aw_____1|inv|inv
+
+14@2057	drš|N|dr_____1|SingPers3s|N5:c
+
+15@2057	bst|ADJ|bs_____1|Pers2s|ADJ:c
+15@2057	bst|N|bst_____1|Sing|N5:c
+15@2057	bst|V|bstn_____1|2*3sgPreterit|v14
+15@2057	bst|V|bstn_____1|infApocope|v14
+15@2057	bst|V|bstn_____2|2*3sgPastprog|v28
+15@2057	bst|V|bstn_____2|2*3sgPreterit|v28
+15@2057	bst|V|bstn_____2|infApocope|v28
+
+16@2057	wgđašt|None|None|None|None
+
+17@2057	rw|N|rw_____1|Sing|N1:v
+17@2057	rw|P|rw_____1|inv|inv
+
+18@2057	kwlš|N|kwl_____1|SingPers3s|N1:c
+
+19@2057	rft|N|rf_____1|SingPers2s|N1:c
+19@2057	rft|V|rftn_____1|2*3sgPreterit|v19
+19@2057	rft|V|rftn_____1|infApocope|v19
+19@2057	rft|V|rftn_____2|2*3sgPreterit|v21
+19@2057	rft|V|rftn_____2|infApocope|v21
+19@2057	rft|V|rftn_____3|2*3sgPreterit|v22
+19@2057	rft|V|rftn_____3|infApocope|v22
+
+20@2057	xane|N|xane_____1|Sing|N5:v
+
+21@2057	ŕaźy|PN|ŕaźy_____1|Sing|N2:v
+21@2057	ŕaźy|N|ŕaźy_____1|Sing|N5:v
+
+22@2057	.|DELM|._____1|inv|inv
+
+#new sentence2058
+0@2058	ŕaźy|PN|ŕaźy_____1|Sing|N2:v
+0@2058	ŕaźy|N|ŕaźy_____1|Sing|N5:v
+
+1@2058	wŕty|ADJ|wŕt_____1|Indef|ADJ:c
+1@2058	wŕty|CONJsubord|wŕty_____1|inv|inv
+1@2058	wŕty|N|wŕt_____1|SingIndef|N5:c
+
+2@2058	ke|CONJsubord|ke_____1|inv|inv
+
+3@2058	dra|None|None|None|None
+
+4@2058	embwne|N|embwne_____1|Sing|N6
+
+5@2058	ra|P|ra_____1|inv|inv
+
+6@2058	baz|ADJ|baz_____1||ADJ:c
+6@2058	baz|ADV|baz_____1||ADV1
+6@2058	baz|P|baz___MTE__1|inv|inv
+
+7@2058	krad|None|None|None|None
+
+8@2058	,|DELM|,_____1|inv|inv
+
+9@2058	ayn|DETdem|ayn_____1|inv|inv
+9@2058	ayn|PROdem|ayn_____1|inv|inv
+
+10@2058	bad|N|bad_____1|Sing|N1:c
+10@2058	bad|N|bad_____2|Sing|N5:c
+10@2058	bad|V|bwdn_____1|3sg.Opt|v25
+
+11@2058	zd|V|zdn_____1|2*3sgPastprog|v28
+11@2058	zd|V|zdn_____1|2*3sgPreterit|v28
+11@2058	zd|V|zdn_____1|infApocope|v28
+11@2058	zd|V|zdn_____2|2*3sgPreterit|v7
+11@2058	zd|V|zdn_____2|infApocope|v7
+
+12@2058	byrawn|None|None|None|None
+
+13@2058	,|DELM|,_____1|inv|inv
+
+14@2058	ayn|DETdem|ayn_____1|inv|inv
+14@2058	ayn|PROdem|ayn_____1|inv|inv
+
+15@2058	nxwd|N|nxwd_____1|Sing|N1:c
+
+16@2058	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+16@2058	āmd|V|āmdn_____1|infApocope|v24:v
+
+17@2058	prayd|None|None|None|None
+
+18@2058	tw|P|tw_____1|inv|inv
+18@2058	tw|PROpers|tw_____1|inv|inv
+
+19@2058	čšmš|N|čšm_____1|SingPers3s|N15:c
+19@2058	čšmš|N|čšm_____2|SingPers3s|N5:c
+
+20@2058	raa|None|None|None|None
+
+21@2058	čšmš|N|čšm_____1|SingPers3s|N15:c
+21@2058	čšmš|N|čšm_____2|SingPers3s|N5:c
+
+22@2058	raa|None|None|None|None
+
+23@2058	kwra|None|None|None|None
+
+24@2058	krad|None|None|None|None
+
+25@2058	.|DELM|._____1|inv|inv
+
+#new sentence2059
+0@2059	az|P|az_____1|inv|inv
+
+1@2059	ayn|DETdem|ayn_____1|inv|inv
+1@2059	ayn|PROdem|ayn_____1|inv|inv
+
+2@2059	ţrf|N|ţrf_____1|Sing|N5:c
+2@2059	ţrf|P|ţrf___MTE__1|inv|inv
+
+3@2059	naraħt|ADJ|naraħt_____1||ADJ:c
+
+4@2059	šde|V|šdn_____1|3sgPreparfFam|v22
+4@2059	šde|V|šdn_____1|partPas|v22
+4@2059	šde|V|šdn_____2|3sgPreparfFam|v28
+4@2059	šde|V|šdn_____2|partPas|v28
+
+5@2059	bwd|V|bwdn_____1|2*3sgPreterit|v25
+5@2059	bwd|V|bwdn_____1|infApocope|v25
+
+6@2059	,|DELM|,_____1|inv|inv
+
+7@2059	az|P|az_____1|inv|inv
+
+8@2059	dst|N|dst_____1|Sing|N15:c
+8@2059	dst|N|dst_____2|Sing|N5:c
+
+9@2059	ayn|DETdem|ayn_____1|inv|inv
+9@2059	ayn|PROdem|ayn_____1|inv|inv
+
+10@2059	āŕa|INTexcl|āŕa_____1|inv|inv
+10@2059	āŕa|N|āŕa_____1|Sing|N1:v
+10@2059	āŕa|INTexcl|āŕa_____1|inv|inv
+
+11@2059	grg|N|grg_____1|Sing|N5:c
+
+12@2059	az|P|az_____1|inv|inv
+
+13@2059	yk|DETquant|yk_____1|inv|inv
+
+14@2059	ţrfm|N|ţrf_____1|SingPers1s|N5:c
+
+15@2059	šnyde|N|šnyde_____1|Sing|N5:v
+15@2059	šnyde|V|šnydn_____1|3sgPreparfFam|v22
+15@2059	šnyde|V|šnydn_____1|partPas|v22
+
+16@2059	bwd|V|bwdn_____1|2*3sgPreterit|v25
+16@2059	bwd|V|bwdn_____1|infApocope|v25
+
+17@2059	ke|CONJsubord|ke_____1|inv|inv
+
+18@2059	emyn|ADV|emyn___MTE__1||ADV1
+18@2059	emyn|DETdem|emyn_____1|inv|inv
+18@2059	emyn|N|emyn_____1|Sing|N5:c
+18@2059	emyn|PROindef|emyn_____1|inv|inv
+
+19@2059	āŕa|INTexcl|āŕa_____1|inv|inv
+19@2059	āŕa|N|āŕa_____1|Sing|N1:v
+19@2059	āŕa|INTexcl|āŕa_____1|inv|inv
+
+20@2059	grg|N|grg_____1|Sing|N5:c
+
+21@2059	šngwl|PN|šngwl_____1|inv|inv
+
+22@2059	mngwl|N|mngwl_____1|Sing|N5:c
+
+23@2059	xwrde|V|xwrdn_____1|3sgPreparfFam|v2
+23@2059	xwrde|V|xwrdn_____1|partPas|v2
+23@2059	xwrde|V|xwrdn_____2|3sgPreparfFam|v28
+23@2059	xwrde|V|xwrdn_____2|partPas|v28
+
+24@2059	,|DELM|,_____1|inv|inv
+
+25@2059	tmam|ADJ|tmam_____1||ADJ:c
+25@2059	tmam|DETquant|tmam_____1|inv|inv
+
+26@2059	dndan_eay|N|dndan_____1|PlurEzafe|N5:c
+
+27@2059	āŕa|INTexcl|āŕa_____1|inv|inv
+27@2059	āŕa|N|āŕa_____1|Sing|N1:v
+27@2059	āŕa|INTexcl|āŕa_____1|inv|inv
+
+28@2059	grg|N|grg_____1|Sing|N5:c
+
+29@2059	ra|P|ra_____1|inv|inv
+
+30@2059	danedane|N|danedane_____1|Sing|N5:v
+
+31@2059	kšyd|V|kšydn_____1|2*3sgPreterit|v1
+31@2059	kšyd|V|kšydn_____1|infApocope|v1
+
+32@2059	.|DELM|._____1|inv|inv
+
+#new sentence2060
+0@2060	tmam|ADJ|tmam_____1||ADJ:c
+0@2060	tmam|DETquant|tmam_____1|inv|inv
+
+1@2060	ayn|DETdem|ayn_____1|inv|inv
+1@2060	ayn|PROdem|ayn_____1|inv|inv
+
+2@2060	pnje_eay|N|pnje_____1|PlurEzafe|N5:v
+
+3@2060	aw|N|aw_____1|Sing|N15:c
+3@2060	aw|PROpers|aw_____1|inv|inv
+
+4@2060	naxn_eayy|N|naxn_____1|PlurIndef|N5:c
+
+5@2060	ayn|DETdem|ayn_____1|inv|inv
+5@2060	ayn|PROdem|ayn_____1|inv|inv
+
+6@2060	pnje_eay|N|pnje_____1|PlurEzafe|N5:v
+
+7@2060	awm|N|aw_____1|SingPers1s|N15:c
+
+8@2060	eme|DETquant|eme_____1|inv|inv
+8@2060	eme|PROquindef|eme_____1|inv|inv
+
+9@2060	ra|P|ra_____1|inv|inv
+
+10@2060	kšyd|V|kšydn_____1|2*3sgPreterit|v1
+10@2060	kšyd|V|kšydn_____1|infApocope|v1
+
+11@2060	.|DELM|._____1|inv|inv
+
+#new sentence2061
+0@2061	frday|None|None|None|None
+
+1@2061	ān|DETdem|ān_____1|inv|inv
+1@2061	ān|PROdem|ān_____1|inv|inv
+
+2@2061	rwz|ADV|rwz___MTE__1||ADV1
+2@2061	rwz|N|rwz_____1|Sing|N5:c
+
+3@2061	ke|CONJsubord|ke_____1|inv|inv
+
+4@2061	ŕrar|N|ŕrar_____1|Sing|N5:c
+
+5@2061	bwd|V|bwdn_____1|2*3sgPreterit|v25
+5@2061	bwd|V|bwdn_____1|infApocope|v25
+
+6@2061	ayn|DETdem|ayn_____1|inv|inv
+6@2061	ayn|PROdem|ayn_____1|inv|inv
+
+7@2061	brn|PN|brn___Bern__1|Sing|N2:c
+
+8@2061	be|N|be_____1|Sing|N5:v
+8@2061	be|P|be_____1|inv|inv
+
+9@2061	mydwn|None|None|None|None
+
+10@2061	jng|N|jng_____1|Sing|N5:c
+
+11@2061	,|DELM|,_____1|inv|inv
+
+12@2061	erče|ADV|erče___MTE__1||ADV1
+12@2061	erče|PROquant|erče___MTE__1|inv|inv
+
+13@2061	bz|N|bz_____1|Sing|N5:c
+
+14@2061	w|ADVcoord|w_____1|inv|inv
+
+15@2061	grg|N|grg_____1|Sing|N5:c
+
+16@2061	bwd|V|bwdn_____1|2*3sgPreterit|v25
+16@2061	bwd|V|bwdn_____1|infApocope|v25
+
+17@2061	āmdn|V|āmdn_____1|*10*inf|v24:v
+17@2061	āmdn|V|āmdn_____1|2*3plPreparfFam|v24:v
+17@2061	āmdn|V|āmdn_____1|2*3plPreteritFam|v24:v
+
+18@2061	w|ADVcoord|w_____1|inv|inv
+
+19@2061	nšstnd|V|nšstn_____1|2*3plPreterit|v22
+19@2061	nšstnd|V|nšstn_____1|3plPreparfFam|v22
+19@2061	nšstnd|V|nšstn_____2|2*3plPreterit|v23
+19@2061	nšstnd|V|nšstn_____2|3plPreparfFam|v23
+19@2061	nšstnd|V|šstn_____1|3plPreparfNegFam|v16
+19@2061	nšstnd|V|šstn_____1|3plPreteritNeg|v16
+
+20@2061	w|ADVcoord|w_____1|inv|inv
+
+21@2061	āmadX|None|None|None|None
+
+22@2061	tmašay|N|tmaša_____1|SingEzafe|N1:v
+
+23@2061	ayn|DETdem|ayn_____1|inv|inv
+23@2061	ayn|PROdem|ayn_____1|inv|inv
+
+24@2061	dw|DETquant|dw_____1|inv|inv
+24@2061	dw|N|dw_____1|Sing|N5:v
+
+25@2061	nfr|CLASSsing|nfr_____1|inv|inv
+25@2061	nfr|N|nfr_____1|Sing|N5:c
+
+26@2061	šdn|V|šdn_____1|*10*inf|v22
+26@2061	šdn|V|šdn_____1|2*3plPreparfFam|v22
+26@2061	šdn|V|šdn_____1|2*3plPreteritFam|v22
+26@2061	šdn|V|šdn_____2|*10*inf|v28
+26@2061	šdn|V|šdn_____2|2*3plPastprogFam|v28
+26@2061	šdn|V|šdn_____2|2*3plPreparfFam|v28
+26@2061	šdn|V|šdn_____2|2*3plPreteritFam|v28
+
+27@2061	.|DELM|._____1|inv|inv
+
+#new sentence2062
+0@2062	xlaşe|ADJ|xlaşe_____1||ADJ:v
+0@2062	xlaşe|ADV|xlaşe___MTE__1||ADV1
+0@2062	xlaşe|ADV|xlaşe_____1|inv|inv
+0@2062	xlaşe|INTs|xlaşe_____1|inv|inv
+0@2062	xlaşe|N|xlaşe_____1|Sing|N1:v
+0@2062	xlaşe|INTs|xlaşe_____1|inv|inv
+
+1@2062	bz|N|bz_____1|Sing|N5:c
+
+2@2062	bz|N|bz_____1|Sing|N5:c
+
+3@2062	ŕndy|ADJ|ŕndy_____1||ADJ:v
+3@2062	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+3@2062	ŕndy|PN|ŕndy_____1|inv|inv
+
+4@2062	,|DELM|,_____1|inv|inv
+
+5@2062	rft|N|rf_____1|SingPers2s|N1:c
+5@2062	rft|V|rftn_____1|2*3sgPreterit|v19
+5@2062	rft|V|rftn_____1|infApocope|v19
+5@2062	rft|V|rftn_____2|2*3sgPreterit|v21
+5@2062	rft|V|rftn_____2|infApocope|v21
+5@2062	rft|V|rftn_____3|2*3sgPreterit|v22
+5@2062	rft|V|rftn_____3|infApocope|v22
+
+6@2062	'ŕb|ADJ|'ŕb_____1||ADJ:c
+6@2062	'ŕb|ADV|'ŕb___MTE__1||ADV1
+6@2062	'ŕb|P|'ŕb_____1|inv|inv
+
+7@2062	w|ADVcoord|w_____1|inv|inv
+
+8@2062	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+8@2062	āmd|V|āmdn_____1|infApocope|v24:v
+
+9@2062	jlw|ADJ|jlw_____1||ADJ
+9@2062	jlw|ADV|jlw_____1||ADV1
+9@2062	jlw|P|jlw_____1|inv|inv
+
+10@2062	w|ADVcoord|w_____1|inv|inv
+
+11@2062	er|DETquant|er_____1|inv|inv
+
+12@2062	kary|ADJ|kary_____1||ADJ:v
+12@2062	kary|N|kar_____1|SingIndef|N5:c
+
+13@2062	krd|N|krd_____1|Sing|N5:c
+13@2062	krd|V|krdn_____1|2*3sgPreterit|v22
+13@2062	krd|V|krdn_____1|infApocope|v22
+13@2062	krd|V|krdn_____2|2*3sgPastprog|v28
+13@2062	krd|V|krdn_____2|2*3sgPreterit|v28
+13@2062	krd|V|krdn_____2|infApocope|v28
+
+14@2062	,|DELM|,_____1|inv|inv
+
+15@2062	y'ny|ADV|y'ny___MTE__1||ADV1
+15@2062	y'ny|CONJsubord|y'ny_____1|inv|inv
+
+16@2062	āŕa|INTexcl|āŕa_____1|inv|inv
+16@2062	āŕa|N|āŕa_____1|Sing|N1:v
+16@2062	āŕa|INTexcl|āŕa_____1|inv|inv
+
+17@2062	grg|N|grg_____1|Sing|N5:c
+
+18@2062	er|DETquant|er_____1|inv|inv
+
+19@2062	kary|ADJ|kary_____1||ADJ:v
+19@2062	kary|N|kar_____1|SingIndef|N5:c
+
+20@2062	krd|N|krd_____1|Sing|N5:c
+20@2062	krd|V|krdn_____1|2*3sgPreterit|v22
+20@2062	krd|V|krdn_____1|infApocope|v22
+20@2062	krd|V|krdn_____2|2*3sgPastprog|v28
+20@2062	krd|V|krdn_____2|2*3sgPreterit|v28
+20@2062	krd|V|krdn_____2|infApocope|v28
+
+21@2062	ke|CONJsubord|ke_____1|inv|inv
+
+22@2062	,|DELM|,_____1|inv|inv
+
+23@2062	btwne|ADJ|btwne_____1||ADJ:v
+
+24@2062	ayn|DETdem|ayn_____1|inv|inv
+24@2062	ayn|PROdem|ayn_____1|inv|inv
+
+25@2062	ast|N|ast_____1|Sing|N15:c
+25@2062	ast|V|bwdn_____1|2*3sgPreInd|v25
+
+26@2062	gaz|N|gaz_____1|Sing|N5:c
+
+27@2062	bgyre|V|grftn_____1|3sgPreSubjFam|v22
+
+28@2062	dndan|N|dndan_____1|Sing|N5:c
+
+29@2062	ndašt|V|daštn_____1|3sgPastprogNeg|v26
+29@2062	ndašt|V|daštn_____1|3sgPreteritNeg|v26
+29@2062	ndašt|V|daštn_____2|3sgPreteritNeg|v9
+
+30@2062	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+30@2062	āmd|V|āmdn_____1|infApocope|v24:v
+
+31@2062	pnj|DETquant|pnj_____1|inv|inv
+
+32@2062	be|N|be_____1|Sing|N5:v
+32@2062	be|P|be_____1|inv|inv
+
+33@2062	andaze|N|andaze_____1|Sing|N5:v
+
+34@2062	tmam|ADJ|tmam_____1||ADJ:c
+34@2062	tmam|DETquant|tmam_____1|inv|inv
+
+35@2062	bdnš|N|bdn_____1|SingPers3s|N5:c
+
+36@2062	zxmy|ADJ|zxmy_____1||ADJ:v
+36@2062	zxmy|N|zxm_____1|SingIndef|N5:c
+36@2062	zxmy|N|zxmy_____1|Sing|N5:v
+
+37@2062	kne|N|kne_____1|Sing|N1:v
+37@2062	kne|V|krdn_____2|3sgPreIndFam|v28
+37@2062	kne|V|krdn_____2|3sgPreSubjFam|v28
+
+38@2062	,|DELM|,_____1|inv|inv
+
+39@2062	baz|ADJ|baz_____1||ADJ:c
+39@2062	baz|ADV|baz_____1||ADV1
+39@2062	baz|P|baz___MTE__1|inv|inv
+
+40@2062	naxn|N|naxn_____1|Sing|N5:c
+
+41@2062	ndašt|V|daštn_____1|3sgPastprogNeg|v26
+41@2062	ndašt|V|daštn_____1|3sgPreteritNeg|v26
+41@2062	ndašt|V|daštn_____2|3sgPreteritNeg|v9
+
+42@2062	,|DELM|,_____1|inv|inv
+
+43@2062	bzbz|None|None|None|None
+
+44@2062	ŕndy|ADJ|ŕndy_____1||ADJ:v
+44@2062	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+44@2062	ŕndy|PN|ŕndy_____1|inv|inv
+
+45@2062	em|ADV|em_____1|inv|inv
+45@2062	em|PROindef|em_____1|inv|inv
+
+46@2062	rft|N|rf_____1|SingPers2s|N1:c
+46@2062	rft|V|rftn_____1|2*3sgPreterit|v19
+46@2062	rft|V|rftn_____1|infApocope|v19
+46@2062	rft|V|rftn_____2|2*3sgPreterit|v21
+46@2062	rft|V|rftn_____2|infApocope|v21
+46@2062	rft|V|rftn_____3|2*3sgPreterit|v22
+46@2062	rft|V|rftn_____3|infApocope|v22
+
+47@2062	'ŕb|ADJ|'ŕb_____1||ADJ:c
+47@2062	'ŕb|ADV|'ŕb___MTE__1||ADV1
+47@2062	'ŕb|P|'ŕb_____1|inv|inv
+
+48@2062	w|ADVcoord|w_____1|inv|inv
+
+49@2062	āmd|V|āmdn_____1|2*3sgPreterit|v24:v
+49@2062	āmd|V|āmdn_____1|infApocope|v24:v
+
+50@2062	jlw|ADJ|jlw_____1||ADJ
+50@2062	jlw|ADV|jlw_____1||ADV1
+50@2062	jlw|P|jlw_____1|inv|inv
+
+51@2062	ba|ADV|ba˝_____1||ADV2
+51@2062	ba|P|ba_____1|inv|inv
+
+52@2062	ayn|DETdem|ayn_____1|inv|inv
+52@2062	ayn|PROdem|ayn_____1|inv|inv
+
+53@2062	šaxš|N|šax_____1|SingPers3s|N5:c
+
+54@2062	zd|V|zdn_____1|2*3sgPastprog|v28
+54@2062	zd|V|zdn_____1|2*3sgPreterit|v28
+54@2062	zd|V|zdn_____1|infApocope|v28
+54@2062	zd|V|zdn_____2|2*3sgPreterit|v7
+54@2062	zd|V|zdn_____2|infApocope|v7
+
+55@2062	tw|P|tw_____1|inv|inv
+55@2062	tw|PROpers|tw_____1|inv|inv
+
+56@2062	škm|N|šk_____1|SingPers1s|N1:c
+56@2062	škm|N|škm_____1|Sing|N1:c
+
+57@2062	(6)|None|None|None|None
+
+58@2062	āŕa|INTexcl|āŕa_____1|inv|inv
+58@2062	āŕa|N|āŕa_____1|Sing|N1:v
+58@2062	āŕa|INTexcl|āŕa_____1|inv|inv
+
+59@2062	grg|N|grg_____1|Sing|N5:c
+
+60@2062	škm|N|šk_____1|SingPers1s|N1:c
+60@2062	škm|N|škm_____1|Sing|N1:c
+
+61@2062	āŕa|INTexcl|āŕa_____1|inv|inv
+61@2062	āŕa|N|āŕa_____1|Sing|N1:v
+61@2062	āŕa|INTexcl|āŕa_____1|inv|inv
+
+62@2062	grg|N|grg_____1|Sing|N5:c
+
+63@2062	ra|P|ra_____1|inv|inv
+
+64@2062	pare|ADJ|pare_____1||ADJ:v
+64@2062	pare|N|pare_____1|Sing|N5:v
+
+65@2062	krd|N|krd_____1|Sing|N5:c
+65@2062	krd|V|krdn_____1|2*3sgPreterit|v22
+65@2062	krd|V|krdn_____1|infApocope|v22
+65@2062	krd|V|krdn_____2|2*3sgPastprog|v28
+65@2062	krd|V|krdn_____2|2*3sgPreterit|v28
+65@2062	krd|V|krdn_____2|infApocope|v28
+
+66@2062	w|ADVcoord|w_____1|inv|inv
+
+67@2062	šngwl|PN|šngwl_____1|inv|inv
+
+68@2062	mngwl|N|mngwl_____1|Sing|N5:c
+
+69@2062	az|P|az_____1|inv|inv
+
+70@2062	tw|P|tw_____1|inv|inv
+70@2062	tw|PROpers|tw_____1|inv|inv
+
+71@2062	škmš|N|škm_____1|SingPers3s|N1:c
+
+72@2062	āmdn|V|āmdn_____1|*10*inf|v24:v
+72@2062	āmdn|V|āmdn_____1|2*3plPreparfFam|v24:v
+72@2062	āmdn|V|āmdn_____1|2*3plPreteritFam|v24:v
+
+73@2062	byran|None|None|None|None
+
+74@2062	.|DELM|._____1|inv|inv
+
+#new sentence2063
+0@2063	bzbz|None|None|None|None
+
+1@2063	ŕndy|ADJ|ŕndy_____1||ADJ:v
+1@2063	ŕndy|N|ŕnd_____1|SingIndef|N5:c
+1@2063	ŕndy|PN|ŕndy_____1|inv|inv
+
+2@2063	em|ADV|em_____1|inv|inv
+2@2063	em|PROindef|em_____1|inv|inv
+
+3@2063	šngwl|PN|šngwl_____1|inv|inv
+
+4@2063	mngwl|N|mngwl_____1|Sing|N5:c
+
+5@2063	ra|P|ra_____1|inv|inv
+
+6@2063	ba|ADV|ba˝_____1||ADV2
+6@2063	ba|P|ba_____1|inv|inv
+
+7@2063	xwdš|N|xwd_____1|SingPers3s|N5:c
+7@2063	xwdš|PROrefl|xwdš_____1|inv|inv
+
+8@2063	wrdašt|None|None|None|None
+
+9@2063	w|ADVcoord|w_____1|inv|inv
+
+10@2063	brd|PN|brd___Berd__1|Sing|N2:c
+10@2063	brd|N|brd_____1|Sing|N5:c
+10@2063	brd|V|brdn_____1|2*3sgPreterit|v2
+10@2063	brd|V|brdn_____1|infApocope|v2
+
+11@2063	xane_aš|N|xane_____1|SingPers3s|N5:v
+
+12@2063	.|DELM|._____1|inv|inv
+
+#new sentence2064
+0@2064	ŕşe|N|ŕşe_____1|Sing|N5:v
+
+1@2064	ma|N|ma_____1|Sing|N5:v
+1@2064	ma|PROpers|ma_____1|inv|inv
+
+2@2064	be|N|be_____1|Sing|N5:v
+2@2064	be|P|be_____1|inv|inv
+
+3@2064	sr|N|sr_____1|Sing|N15:c
+3@2064	sr|N|sr_____2|Sing|N5:c
+3@2064	sr|P|sr_____1|inv|inv
+
+4@2064	rsyd|V|rsydn_____1|2*3sgPreterit|v1
+4@2064	rsyd|V|rsydn_____1|infApocope|v1
+
+5@2064	,|DELM|,_____1|inv|inv
+
+6@2064	klaq|N|klaq_____1|Sing|N5:c
+
+7@2064	be|N|be_____1|Sing|N5:v
+7@2064	be|P|be_____1|inv|inv
+
+8@2064	xane_aš|N|xane_____1|SingPers3s|N5:v
+
+9@2064	nrsyd|V|rsydn_____1|2plPreSubjNeg|v1
+9@2064	nrsyd|V|rsydn_____1|3sgPreteritNeg|v1
+9@2064	nrsyd|V|rsydn_____1|ProhibNormpl|v1
+
+10@2064	.|DELM|._____1|inv|inv
+
+#new sentence2065
+0@2065	bala|ADJ|bala_____1||ADJ:v
+0@2065	bala|ADV|bala___MTE__1||ADV1
+0@2065	bala|N|bala_____1|Sing|N5:v
+
+1@2065	rftym|V|rftn_____1|1plPreparfFam|v19
+1@2065	rftym|V|rftn_____1|1plPreterit|v19
+1@2065	rftym|V|rftn_____2|1plPreparfFam|v21
+1@2065	rftym|V|rftn_____2|1plPreterit|v21
+1@2065	rftym|V|rftn_____3|1plPreparfFam|v22
+1@2065	rftym|V|rftn_____3|1plPreterit|v22
+
+2@2065	dwq|N|dwq_____1|Sing|N1:c
+
+3@2065	bwd|V|bwdn_____1|2*3sgPreterit|v25
+3@2065	bwd|V|bwdn_____1|infApocope|v25
+
+4@2065	,|DELM|,_____1|inv|inv
+
+5@2065	payyn|ADJ|payyn_____1||ADJ:c
+5@2065	payyn|ADV|payyn_____1||ADV1
+5@2065	payyn|N|payyn_____1|Sing|N5:c
+5@2065	payyn|P|payyn___MTE__1|inv|inv
+
+6@2065	āmdnym|None|None|None|None
+
+7@2065	mast|N|mast_____1|Sing|N1:c
+
+8@2065	bwd|V|bwdn_____1|2*3sgPreterit|v25
+8@2065	bwd|V|bwdn_____1|infApocope|v25
+
+9@2065	,|DELM|,_____1|inv|inv
+
+10@2065	ŕşe|N|ŕşe_____1|Sing|N5:v
+
+11@2065	ma|N|ma_____1|Sing|N5:v
+11@2065	ma|PROpers|ma_____1|inv|inv
+
+12@2065	rast|ADJ|rast_____1||ADJ:c
+12@2065	rast|ADV|rast___MTE__1||ADV1
+12@2065	rast|N|ras_____1|SingPers2s|N1:c
+12@2065	rast|N|rast_____1|Sing|N1:c
+12@2065	rast|N|rast_____2|Sing|N5:c
+
+13@2065	bwd|V|bwdn_____1|2*3sgPreterit|v25
+13@2065	bwd|V|bwdn_____1|infApocope|v25
+
+14@2065	.|DELM|._____1|inv|inv
+

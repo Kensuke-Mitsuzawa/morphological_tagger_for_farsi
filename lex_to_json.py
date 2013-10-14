@@ -15,24 +15,36 @@ def get_files(dir_name):
 def load_lex_file(f, after_inf_dictionary):
     input_lines=codecs.open(f, 'r', 'utf-8').readlines();
     for line in input_lines:
+        inflection_name=u''
         tags=[];
         if re.findall(ur'\sinv\s', line):
             items=line.split(u'\t');
             after_inf_word=items[0]
             POS=items[2]
+            pred_info=items[3];
             stem=items[4]
             tag=u'inv'
-            category=items[-1].strip(u'\n');
-
+            pred, category=pred_info.strip(u'[').strip(u']').split(u'",c');
+            category=category.replace(u'at=', u'');
+            
         else:
             items=line.split(u'\t');
             after_inf_word=items[0]
             POS=items[2]
+            pred_info=items[3];
             stem=items[4]
-            tag=items[6]
-            category=items[-1].strip(u'\n');
-        extracted_information=(after_inf_word, POS, stem, tag, category);
-        
+            tag=items[-1].strip(u'\n');
+
+            pred_items=pred_info.strip(u'[').strip(u']').split(u',');
+            if len(pred_items)==2:
+                category=pred_items[1].replace(u'cat=', u'');
+
+            if len(pred_items)==3:
+                category=pred_items[1].replace(u'cat=', u'');
+                inflection_name=pred_items[2];
+
+        extracted_information=(after_inf_word, POS, stem, tag, (category, inflection_name) );
+
         if after_inf_word in after_inf_dictionary:
             after_inf_dictionary[after_inf_word].append(extracted_information); 
         else:

@@ -167,7 +167,8 @@
   <fusion source="bwd_♫" target="baš_" rev="-"/>
   <fusion source="bwd_♪" target="est_" rev="-"/>
   <fusion source="bwd_►" target="bad_" rev="-"/>
-  <fusion source="bwd_◄" target="nst_" rev="-"/>
+  <!--fixed by kensuke-mi 2013/10/12 -->
+  <fusion source="bwd_◄" target="nyst_" rev="-"/>
 
   <!-- V26 -->
   <fusion source="dašt_♦" target="dar_" rev="-"/>

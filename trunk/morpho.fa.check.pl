@@ -987,7 +987,7 @@ sub fusion {
     if ($s=~s/bwd ♫/baš /o) {$gotfusion=1} # rank = 84
     if ($s=~s/bwd ♪/est /o) {$gotfusion=1} # rank = 85
     if ($s=~s/bwd ►/bad /o) {$gotfusion=1} # rank = 86
-    if ($s=~s/bwd ◄/nst /o) {$gotfusion=1} # rank = 87
+    if ($s=~s/bwd ◄/nyst /o) {$gotfusion=1} # rank = 87
     if ($s=~s/dašt ♦/dar /o) {$gotfusion=1} # rank = 88
     if ($s=~s/xwast ☼/xwae /o) {$gotfusion=1} # rank = 89
     if ($s=~s/krd ¢/kn /o) {$gotfusion=1} # rank = 90

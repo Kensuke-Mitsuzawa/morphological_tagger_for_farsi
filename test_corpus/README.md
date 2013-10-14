@@ -1,5 +1,6 @@
 #ディレクトリの説明
 
+````
 test_corpus  
 |  
 |--annotation_format conv_to_annotation_format.pyの出力先  
@@ -11,6 +12,7 @@ test_corpus
 |	|--validated  作業が終わってannotation_format_validation.pyの出力先  
 |  
 |--taged_corpus tag_and_check_performance.pyの出力先  
-|--xml generate_xml.pyの出力先（annotationの過程でxmlは使用しないことにしたので，別に必要はない）  
+|--xml generate_xml.pyの出力先（annotationの過程でxmlは使用しないことにしたので，別に必要はない） 
+```` 
 
 

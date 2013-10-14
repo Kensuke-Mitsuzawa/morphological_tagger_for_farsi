@@ -584,3 +584,12 @@ zyrčšmy___MTE	ADV1	110;Lemma;ADV;;cat=ADV;%default
 źrwrta˝	ADV2	300;Lemma;ADV;;cat=ADV;%default	# 	# Known to the PPD: źrwrta˝
 ẓaera˝	ADV2	300;Lemma;ADV;;cat=ADV;%default	# Apparently	# Known to the PPD: ẓaera˝
 emynţwry	ADV1	0;Lemma;ADV;;cat=ADV;%default	# manually added
+āya	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+mgr	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+ke	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+ra	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+āxr	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+dygr	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+ya	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+xwb	ADV1	0;Lemma;ADV;;cat=PART;%default	# For PerDep
+ 
