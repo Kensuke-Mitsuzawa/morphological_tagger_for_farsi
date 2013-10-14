@@ -535,4 +535,5 @@ zyra ke	inv	100;Lemma;CONJsubord;;cat=CONJsubord;%default	# 10/10=1
 źmn aynke	inv	100;Lemma;CONJ;;cat=CONJ;%default	# 7/7=1
 źmn ān ke	inv	100;Lemma;CONJsubord;;cat=CONJsubord;%default	# 18/18=1
 
+ta	inv	0;Lemma;CONJsubord;;cat=CONJsubord;%default	# For PerDep
 

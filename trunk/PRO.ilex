@@ -205,3 +205,8 @@ nmwne ay	inv	100;Lemma;PROindef;;cat=PROindef;%default	# 1/85=0.01
 āħad	inv	200;Lemma;PROindef;;cat=PROindef;%default	# 1/74=0.01	# Known to the PPD: āħad
 şddrşd	inv	100;Lemma;PROnum;;cat=PROnum;%default	# 1/38=0.02
 šmary	inv	100;Lemma;PROnum;;cat=PROnum;%default	# 43/62=0.69
+
+em	inv	0;Lemma;PR;;cat=RECPR;%default	# For PerDep
+ykdygr	inv	0;Lemma;PR;;cat=RECPR;%default	# For PerDep
+emdygr	inv	0;Lemma;PR;;cat=RECPR;%default	# For PerDep
+em_dygr	inv	0;Lemma;PR;;cat=RECPR;%default	# For PerDep

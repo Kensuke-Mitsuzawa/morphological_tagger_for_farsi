@@ -276,6 +276,7 @@ pyš az	200	Pnp	[pred="pyš az_____1",cat=Pnp]	pyš az_____1	Default		%default	i
 pyšm	100	P	[pred="pyšm_____1",cat=P]	pyšm_____1	Default		%default	inv
 pšt	400	P	[pred="pšt_____1",cat=P]	pšt_____1	Default		%default	inv
 pšt sr	110	P	[pred="pšt sr___MTE__1",cat=P]	pšt sr___MTE__1	Default		%default	inv
+qyr	0	P	[pred="qyr_____1",cat=PREP]	qyr_____1	Default		%default	inv
 qyraz	110	P	[pred="qyraz___MTE__1",cat=P]	qyraz___MTE__1	Default		%default	inv
 ra	400	P	[pred="ra_____1",cat=P]	ra_____1	Default		%default	inv
 ra	0	P	[pred="ra_____2",cat=POSTP]	ra_____2	Default		%default	inv

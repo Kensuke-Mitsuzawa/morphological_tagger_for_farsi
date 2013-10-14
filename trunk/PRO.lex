@@ -80,7 +80,9 @@ dygry	400	PROindef	[pred="dygry_____1",cat=PROindef]	dygry_____1	Default		%defau
 dygršan	100	PROindef	[pred="dygršan_____1",cat=PROindef]	dygršan_____1	Default		%default	inv
 e=mdygr	100	PROindef	[pred="e=mdygr_____1",cat=PROindef]	e=mdygr_____1	Default		%default	inv
 em	200	PROindef	[pred="em_____1",cat=PROindef]	em_____1	Default		%default	inv
+em	0	PR	[pred="em_____2",cat=RECPR]	em_____2	Default		%default	inv
 em dygr	100	PROdem	[pred="em dygr_____1",cat=PROdem]	em dygr_____1	Default		%default	inv
+em_dygr	0	PR	[pred="em_dygr_____1",cat=RECPR]	em_dygr_____1	Default		%default	inv
 eman	400	PROdem	[pred="eman_____1",cat=PROdem]	eman_____1	Default		%default	inv
 eman eayy	100	PROdem	[pred="eman eayy_____1",cat=PROdem]	eman eayy_____1	Default		%default	inv
 eman gwne	110	PROdem	[pred="eman gwne___MTE__1",cat=PROdem]	eman gwne___MTE__1	Default		%default	inv
@@ -89,6 +91,7 @@ eman_ea	100	PROdem	[pred="eman_ea_____1",cat=PROdem]	eman_ea_____1	Default		%def
 emanja	200	PROdem	[pred="emanja_____1",cat=PROdem]	emanja_____1	Default		%default	inv
 emany	100	PROdem	[pred="emany_____1",cat=PROdem]	emany_____1	Default		%default	inv
 emdygr	400	PROindef	[pred="emdygr_____1",cat=PROindef]	emdygr_____1	Default		%default	inv
+emdygr	0	PR	[pred="emdygr_____2",cat=RECPR]	emdygr_____2	Default		%default	inv
 eme	400	PROquindef	[pred="eme_____1",cat=PROquindef]	eme_____1	Default		%default	inv
 eme aš	100	PROquindef	[pred="eme aš_____1",cat=PROquindef]	eme aš_____1	Default		%default	inv
 eme man	100	PROquindef	[pred="eme man_____1",cat=PROquindef]	eme man_____1	Default		%default	inv
@@ -177,6 +180,7 @@ ygdygr	110	PROrecip	[pred="ygdygr___MTE__1",cat=PROrecip]	ygdygr___MTE__1	Defaul
 ykdgr	300	PROindef	[pred="ykdgr_____1",cat=PROindef]	ykdgr_____1	Default		%default	inv
 ykdgr	300	PROrecip	[pred="ykdgr_____2",cat=PROrecip]	ykdgr_____2	Default		%default	inv
 ykdygr	400	PROrecip	[pred="ykdygr_____1",cat=PROrecip]	ykdygr_____1	Default		%default	inv
+ykdygr	0	PR	[pred="ykdygr_____2",cat=RECPR]	ykdygr_____2	Default		%default	inv
 yky	100	PROrecip	[pred="yky_____1",cat=PROrecip]	yky_____1	Default		%default	inv
 yky aš	100	PROrecip	[pred="yky aš_____1",cat=PROrecip]	yky aš_____1	Default		%default	inv
 yky šan	100	PROrecip	[pred="yky šan_____1",cat=PROrecip]	yky šan_____1	Default		%default	inv

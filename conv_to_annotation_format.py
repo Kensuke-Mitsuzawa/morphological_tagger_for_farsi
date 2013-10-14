@@ -31,7 +31,7 @@ def generate_format(corpus):
                     stem=sentence[u'stem'][i][ii];
                     inflection=sentence[u'inflection'][i][ii];
 
-                    annotation_format=u'{0}@{1}\t{2}|{3}|{4}|{5}|{6}|{7}\n'\
+                    annotation_format=u'{0}@{1}\t{2}|{3}|{4}|{5}|{6}|{7}|\n'\
                             .format(i, sentence_id, token, pos, stem, morph, category, inflection);
                     format_stack.append(annotation_format);
             

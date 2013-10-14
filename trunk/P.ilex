@@ -338,3 +338,6 @@ knar	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
 az	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
 jlwy	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
 pyš	inv	0;Lemma;P;;cat=POSTP;%default	# For PerDep
+
+qyr	inv	0;Lemma;P;;cat=PREP;%default	# For PerDep
+b'd	inv	0;Lemma;P;;cat=PREP;%default	# For PerDep
