@@ -39,6 +39,7 @@ def generate_format(corpus):
         
         #文の末尾に!endを挿入
         format_stack.append(u'!end\n');
+    format_stack.append(u'!end\n')
     return format_stack;
     
 def main():

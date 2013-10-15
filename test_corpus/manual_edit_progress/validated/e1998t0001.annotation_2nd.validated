@@ -23,6 +23,7 @@
 
 11@1001	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1002
 0@1002	xale|N|xale_____1|N5:v|N|@Sing|
 
@@ -48,6 +49,7 @@
 
 11@1002	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1003
 0@1003	yk|DETquant|yk_____1|inv|DETquant||
 
@@ -75,6 +77,7 @@
 
 12@1003	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1004
 0@1004	ayn|DETdem|ayn_____1|inv|DETdem||
 
@@ -92,6 +95,7 @@
 
 7@1004	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1005
 0@1005	ayn|DETdem|ayn_____1|inv|DETdem||
 
@@ -201,6 +205,7 @@
 
 53@1005	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1006
 0@1006	tw|PROpers|tw_____1|inv|PROpers||
 
@@ -234,6 +239,7 @@
 
 15@1006	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1007
 0@1007	šqal|N|šqal_____1|N5:c|N|@Sing|
 
@@ -265,6 +271,7 @@
 
 13@1007	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1008
 0@1008	my_ge|V|gftn_____2|V|v22|@3sgPreIndFam|
 
@@ -282,6 +289,7 @@
 
 7@1008	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1009
 0@1009	xwb|ADV|xwb___MTE__1|ADV1|ADV||
 
@@ -299,6 +307,7 @@
 
 7@1009	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1010
 0@1010	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
@@ -308,6 +317,7 @@
 
 3@1010	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1011
 0@1011	mn|PROpers|mn_____1|inv|PROpers||
 
@@ -375,11 +385,13 @@
 
 32@1011	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1012
 0@1012	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
 1@1012	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1013
 0@1013	xyly|ADV|xyly___MTE__1|ADV1|ADV||
 
@@ -387,6 +399,7 @@
 
 2@1013	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1014
 0@1014	āmd|V|āmdn_____1|v24:v|V|@2*3sgPreterit|
 
@@ -442,6 +455,7 @@
 
 26@1014	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1015
 0@1015	grg|N|grg_____1|N5:c|N|@Sing|
 
@@ -476,11 +490,13 @@
 
 15@1015	?|DELM|?_____1|inv|DELM||
 
+!end
 #new sentence1016
 0@1016	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
 1@1016	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1017
 0@1017	my_rwm|V|rftn_____3|v22|V|@1sgPreInd|
 
@@ -494,6 +510,7 @@
 
 5@1017	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1018
 0@1018	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
@@ -511,6 +528,7 @@
 
 7@1018	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1019
 0@1019	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
@@ -536,6 +554,7 @@
 
 11@1019	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1020
 0@1020	wŕt|N|wŕt_____1|N5:c|N|@Sing|
 
@@ -569,6 +588,7 @@
 
 15@1020	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1021
 0@1021	gft|V|gftn_____1|v21|V|2*3sgPreterit|
 
@@ -580,6 +600,7 @@
 
 4@1021	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1022
 0@1022	āmd|V|āmdn_____1|v24:v|V|@2*3sgPreterit|
 
@@ -613,6 +634,7 @@
 
 15@1022	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1023
 0@1023	āŕa|N|āŕa_____1|N1:v|N|@Sing|
 
@@ -656,6 +678,7 @@
 
 20@1023	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1024
 0@1024	xyly|ADV|xyly___MTE__1|ADV1|ADV||
 
@@ -665,6 +688,7 @@
 
 3@1024	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1025
 0@1025	byā|V|āmdn_____1|v24:v|V|imperNorm|
 
@@ -680,6 +704,7 @@
 
 6@1025	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1026
 0@1026	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
@@ -687,6 +712,7 @@
 
 2@1026	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1027
 0@1027	bgđar|V|gđaštn_____2|v9|V|@imperNorm|
 
@@ -754,6 +780,7 @@
 
 32@1027	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1028
 0@1028	āmd|V|āmdn_____1|v24:v|V|@2*3sgPreterit|
 
@@ -777,6 +804,7 @@
 
 10@1028	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1029
 0@1029	pšt|P|pšt_____1|inv|P||
 
@@ -846,6 +874,7 @@
 
 33@1029	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1030
 0@1030	b'd|ADV|b'd___MTE__1|ADV1|ADV||
 
@@ -963,6 +992,7 @@
 
 57@1030	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1031
 0@1031	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
@@ -1020,6 +1050,7 @@
 
 27@1031	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1032
 0@1032	mn|PROpers|mn_____1|inv|PROpers||
 
@@ -1063,6 +1094,7 @@
 
 20@1032	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1033
 0@1033	damadš|N|damad_____1|N5:c|N|@SingPers3s|
 
@@ -1146,6 +1178,7 @@
 
 40@1033	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1034
 0@1034	drš|N|dr_____1|N5:c|N|@SingPers3s|
 
@@ -1167,6 +1200,7 @@
 
 9@1034	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1035
 0@1035	qlš|N|ql_____1|N1:c|N|@SingPers3s|
 
@@ -1210,6 +1244,7 @@
 
 20@1035	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1036
 0@1036	āŕa|N|āŕa_____1|N1:v|N|@Sing|
 
@@ -1237,18 +1272,19 @@
 
 12@1036	?|DELM|?_____1|inv|DELM||
 
+!end
 #new sentence1037
 0@1037	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
 1@1037	w|P|w_____1|inv|POSTP||
 
 2@1037	alle|AR|alle_____1|inv|AR||
-3@1037	alle|N|alle_____1|N1:v|N|@Sing|
 
-4@1037	ndydm|V|dydn_____1|v22|V|@1sgPreteritNeg|
+3@1037	ndydm|V|dydn_____1|v22|V|@1sgPreteritNeg|
 
-5@1037	.|DELM|._____1|inv|DELM||
+4@1037	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1038
 0@1038	be|P|be_____1|inv|P||
 
@@ -1258,6 +1294,7 @@
 
 3@1038	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1039
 0@1039	ql|N|ql_____1|N1:c|N|@Sing|
 
@@ -1267,6 +1304,7 @@
 
 3@1039	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1040
 0@1040	ayn|DETdem|ayn_____1|inv|DETdem||
 
@@ -1276,6 +1314,7 @@
 
 3@1040	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1041
 0@1041	ayn|PROdem|ayn_____1|inv|PROdem||
 
@@ -1323,6 +1362,7 @@
 
 22@1041	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1042
 0@1042	āŕa|N|āŕa_____1|N1:v|N|@Sing|
 
@@ -1350,6 +1390,7 @@
 
 12@1042	?|DELM|?_____1|inv|DELM||
 
+!end
 #new sentence1043
 0@1043	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
@@ -1367,6 +1408,7 @@
 
 7@1043	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1044
 0@1044	ql|N|ql_____1|N1:c|N|@Sing|
 
@@ -1378,6 +1420,7 @@
 
 4@1044	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1045
 0@1045	aynm|PROdem|aynm_____2|inv|PROdem||
 
@@ -1387,6 +1430,7 @@
 
 3@1045	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1046
 0@1046	ayn|DETdem|ayn_____1|inv|DETdem||
 
@@ -1432,6 +1476,7 @@
 
 21@1046	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1047
 0@1047	šqal|N|šqal_____1|N5:c|N|@Sing|
 
@@ -1459,6 +1504,7 @@
 
 12@1047	?|DELM|?_____1|inv|DELM||
 
+!end
 #new sentence1048
 0@1048	gft|V|gftn_____1|v21|V|@2*3sgPreterit|
 
@@ -1468,6 +1514,7 @@
 
 3@1048	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1049
 0@1049	be|P|be_____1|inv|P||
 
@@ -1477,6 +1524,7 @@
 
 3@1049	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1050
 0@1050	ql|N|ql_____1|N1:c|N|@Sing|
 
@@ -1488,6 +1536,7 @@
 
 4@1050	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1051
 0@1051	ayn|PROdem|ayn_____1|inv|PROdem||
 
@@ -1539,6 +1588,7 @@
 
 24@1051	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1052
 0@1052	kdw|N|kdw_____1|N1:v|N|@Sing|
 
@@ -1547,14 +1597,14 @@
 2@1052	wsţ|P|wsţ___MTE__1|inv|P||
 
 3@1052	dw|DETquant|dw_____1|inv|DETquant||
-4@1052	dw|N|dw_____1|N5:v|N|@Sing|
 
-5@1052	nşf|N|nşf_____1|N1:c|N|@Sing|
+4@1052	nşf|N|nşf_____1|N1:c|N|@Sing|
 
-6@1052	šd|V|šdn_____1|v22|V|@2*3sgPreterit|
+5@1052	šd|V|šdn_____1|v22|V|@2*3sgPreterit|
 
-7@1052	.|DELM|._____1|inv|DELM||
+6@1052	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1053
 0@1053	xale|N|xale_____1|N5:v|N|@Sing|
 
@@ -1574,6 +1624,7 @@
 
 8@1053	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1054
 0@1054	šrw'|N|šrw'_____1|N5:c|N|@Sing|
 
@@ -1619,6 +1670,7 @@
 
 21@1054	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1055
 0@1055	b'd|ADV|b'd___MTE__1|ADV1|ADV||
 
@@ -1761,6 +1813,7 @@
 
 69@1055	.|DELM|._____1|inv|DELM||
 
+!end
 #new sentence1056
 0@1056	b'd|ADV|b'd___MTE__1|ADV1|ADV||
 
@@ -1788,3 +1841,4 @@
 
 12@1056	.|DELM|._____1|inv|DELM||
 
+!end

@@ -8,11 +8,18 @@ def index_checker(lines):
     sentence_id_line_before=0;
     token_counter=0;
 
-    for line in lines:
-        if line[0]==u'#' or line==u'\n' or line==u'!end':
+    duplicate_flag=False;
+    for line_index, line in enumerate(lines):
+        if line[0]==u'#' or line==u'\n' or line==u'!end\n':
             lines_stack.append(line);
+            duplicate_flag=False;
 
         else:
+            if duplicate_flag==True:
+                print (u'Warning!Taged line is duplicated. \n{}\n{}{}\n{}'.format(line_index-1,\
+                                                                                  lines[line_index-1],\
+                                                                                  line_index,\
+                                                                                  line) ).encode('utf-8');
             items=line.split(u'\t');
             token_sentence_index=items[0];
             token_sentence_items=token_sentence_index.split(u'@');
@@ -40,11 +47,14 @@ def index_checker(lines):
                 token_counter+=1;
                 lines_stack.append(line);
 
+            duplicate_flag=True;
+
+
     return lines_stack;
 
 def annotated_check(lines):
     for i, line in enumerate(lines):
-        if line[0]==u'#' or line==u'\n':
+        if line[0]==u'#' or line==u'\n' or line==u'!end\n':
             pass
         
         else: 
@@ -64,6 +74,8 @@ def main():
     annotated_check(lines_stack);
 
     file_name=os.path.split(sys.argv[1])[-1];
+    if re.findall(ur'\.validated', file_name):
+        file_name=file_name.replace(u'.validated', u'');
     out_f=codecs.open('./test_corpus/manual_edit_progress/validated/'+file_name+u'.validated', 'w', 'utf-8');
     for line in lines_stack:
         out_f.write(line);
