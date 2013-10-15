@@ -6,7 +6,7 @@ ARGS: test_corpus/taged_corpus/コーパス名
 
 OUT: test_corpus/annotation_format/コーパス名
 """
-__date__='2013/10/14'
+__date__='2013/10/15'
 __author__='Kensuke-mi'
 
 import sys, codecs, json, os;
@@ -37,6 +37,8 @@ def generate_format(corpus):
             
             format_stack.append(u'\n')
         
+        #文の末尾に!endを挿入
+        format_stack.append(u'!end\n');
     return format_stack;
     
 def main():

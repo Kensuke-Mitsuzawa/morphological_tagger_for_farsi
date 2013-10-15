@@ -9,7 +9,7 @@ def index_checker(lines):
     token_counter=0;
 
     for line in lines:
-        if line[0]==u'#' or line==u'\n':
+        if line[0]==u'#' or line==u'\n' or line==u'!end':
             lines_stack.append(line);
 
         else:
