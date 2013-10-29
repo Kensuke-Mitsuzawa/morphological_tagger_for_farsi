@@ -1,5 +1,7 @@
 #! /usr/bin/python
 #-*- coding:utf-8 -*-
+__version__='2';
+__date__='2013/10/30';
 
 import codecs, re, json, os, sys;
 
@@ -37,7 +39,10 @@ corpus_path=sys.argv[1];
 corpus_json=codecs.open(corpus_path, 'r', 'utf-8');
 corpus=json.load(corpus_json);
 
-for sentence in corpus:
+#この行がversion1と2でことなっている
+#for sentence in corpus['sentence_set_list']:
+#version2用
+for sentence in corpus['sentence_set_list']:
     if sentence['sentence_id'] in table_map:
         patch_data_list=table_map[sentence['sentence_id']];
         replaced_sentence=sentence['roman_sentence'];
@@ -64,5 +69,6 @@ for sentence in corpus:
 
 
 file_name=os.path.split(corpus_path)[-1];
-with codecs.open('./test_corpus/json_after_conv_table/'+file_name, 'w', 'utf-8') as f:
+#with codecs.open('./test_corpus/json_after_conv_table/'+file_name, 'w', 'utf-8') as f:
+with codecs.open('./test_corpus/json_after_conv_table_2nd_version/'+file_name, 'w', 'utf-8') as f:
     json.dump(corpus, f, indent=4, ensure_ascii=False);
