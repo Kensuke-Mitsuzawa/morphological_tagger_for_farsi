@@ -8,6 +8,8 @@ tagがついた時は，機械的に処理をして見出し語と正規化後�
 * split_json_by_tag.py : json化した対応表を入力とし,手で作業するtsvとそうでないtsv分割するスクリプト  
 * table_to_json.py : tsvの対応表をjsonファイルに変換するスクリプト
 * file_in_progree/ : 手で編集作業中の対応表
+* file_done/ : 編集作業が終わったファイル
+* file_cache/ : 編集作業が終わったけど，もう使わないバージョンのファイル置き場
 * file_at_09024_before_bug_revision/ : バグ修正前までの時点の作業ファイル（問題ないようななら，将来的に消してかまわない）
 * token_to_add_dic.txt : 対応表の編集中に辞書への登録が必要と判明した語の一覧
 

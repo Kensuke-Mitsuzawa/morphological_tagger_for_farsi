@@ -1,0 +1,965 @@
+{
+    "sentence_set_list": [
+        {
+            "persian_sentence": "یکی بود یکی نبود.", 
+            "tokens": [
+                "yky", 
+                "bwd", 
+                "yky", 
+                "nbwd", 
+                "."
+            ], 
+            "sentence_id": 3001, 
+            "jpn_sentence": "あったことか、なかったことか。", 
+            "roman_sentence": "yky bwd yky nbwd ."
+        }, 
+        {
+            "persian_sentence": " یه بز بز قندی بود، این چهار تا بچه داشت، تو این لونه.", 
+            "tokens": [
+                "ye", 
+                "bz", 
+                "bz", 
+                "ŕndy", 
+                "bwd", 
+                ",", 
+                "ayn", 
+                "čear", 
+                "ta", 
+                "bče", 
+                "dašt", 
+                ",", 
+                "tw", 
+                "ayn", 
+                "lwne", 
+                "."
+            ], 
+            "sentence_id": 3002, 
+            "jpn_sentence": "山羊のガンディーがいて、巣の中に子供が四匹いた。", 
+            "roman_sentence": "ye bz bz ŕndy bwd , ayn čear ta bče dašt , tw ayn lwne ."
+        }, 
+        {
+            "persian_sentence": " (چهار تا دیگه)، چهار تا پنج تا هم گرگ اون ور بودند.", 
+            "tokens": [
+                "(čear", 
+                "ta", 
+                "dyge)", 
+                ",", 
+                "čear", 
+                "ta", 
+                "pnj", 
+                "ta", 
+                "em", 
+                "grg", 
+                "awn", 
+                "wr", 
+                "bwdnd", 
+                "."
+            ], 
+            "sentence_id": 3003, 
+            "jpn_sentence": "オオカミも四、五匹近くにいた。", 
+            "roman_sentence": "(čear ta dyge) , čear ta pnj ta em grg awn wr bwdnd ."
+        }, 
+        {
+            "persian_sentence": " وقتی میخواست بره چرا به بچه هاش به بزاش می گفت به بزبز قندیا میگفت، در وا نکنین گرگ بیا بخرتون.", 
+            "tokens": [
+                "wŕty", 
+                "myxwast", 
+                "bre", 
+                "čra", 
+                "be", 
+                "bče", 
+                "eaš", 
+                "be", 
+                "bzaš", 
+                "my", 
+                "gft", 
+                "be", 
+                "bzbz", 
+                "ŕndya", 
+                "mygft", 
+                ",", 
+                "dr", 
+                "wa", 
+                "nknyn", 
+                "grg", 
+                "bya", 
+                "bxrtwn", 
+                "."
+            ], 
+            "sentence_id": 3004, 
+            "jpn_sentence": "山羊のガンディーが荒野へ行くときに、山羊のガンディー家の子供たちに言った。オオカミが来ておまえたちを食べるから、扉を開けてはいけないよ。", 
+            "roman_sentence": "wŕty myxwast bre čra be bče eaš be bzaš my gft be bzbz ŕndya mygft , dr wa nknyn grg bya bxrtwn ."
+        }, 
+        {
+            "persian_sentence": " اون امروز که رفت شیکار گرگه اومد اینا ر هی در زد گفت(۱) کیه، گفت من مادر تونم.", 
+            "tokens": [
+                "awn", 
+                "amrwz", 
+                "ke", 
+                "rft", 
+                "šykar", 
+                "grge", 
+                "awmd", 
+                "ayna", 
+                "r", 
+                "ey", 
+                "dr", 
+                "zd", 
+                "gft", 
+                "(1)", 
+                "kye", 
+                ",", 
+                "gft", 
+                "mn", 
+                "madr", 
+                "twnm", 
+                "."
+            ], 
+            "sentence_id": 3005, 
+            "jpn_sentence": "その日、オオカミが狩りにやって来て、扉を叩いた。すると、子供たちが言った。誰ですか。オオカミは言った。おまえたちのお母さんだよ。", 
+            "roman_sentence": "awn amrwz ke rft šykar grge awmd ayna r ey dr zd gft (1) kye , gft mn madr twnm ."
+        }, 
+        {
+            "persian_sentence": " گفت(۲) مادر ما دم داره.", 
+            "tokens": [
+                "gft", 
+                "(2)", 
+                "madr", 
+                "ma", 
+                "dm", 
+                "dare", 
+                "."
+            ], 
+            "sentence_id": 3006, 
+            "jpn_sentence": "子供たちは言った。お母さんには尻尾があるよ。", 
+            "roman_sentence": "gft (2) madr ma dm dare ."
+        }, 
+        {
+            "persian_sentence": " دمش چی کرد(۳).", 
+            "tokens": [
+                "dmš", 
+                "čy", 
+                "krd", 
+                "(3)", 
+                "."
+            ], 
+            "sentence_id": 3007, 
+            "jpn_sentence": "オオカミは尻尾を見せた。", 
+            "roman_sentence": "dmš čy krd (3) ."
+        }, 
+        {
+            "persian_sentence": " گفت(۴) سم داره سمش نشون داد.", 
+            "tokens": [
+                "gft", 
+                "(4)", 
+                "sm", 
+                "dare", 
+                "smš", 
+                "nšwn", 
+                "dad", 
+                "."
+            ], 
+            "sentence_id": 3008, 
+            "jpn_sentence": "子供たちは言った。蹄があるよ。オオカミは手を見せた。", 
+            "roman_sentence": "gft (4) sm dare smš nšwn dad ."
+        }, 
+        {
+            "persian_sentence": "  اینا فكر میكردند كه این مادرشونه.", 
+            "tokens": [
+                "ayna", 
+                "fKr", 
+                "myKrdnd", 
+                "Ke", 
+                "ayn", 
+                "madršwne", 
+                "."
+            ], 
+            "sentence_id": 3009, 
+            "jpn_sentence": "子供たちはお母さんだと思ったので扉を開けた。", 
+            "roman_sentence": "ayna fKr myKrdnd Ke ayn madršwne ."
+        }, 
+        {
+            "persian_sentence": " تا در وا کرد گرگ افتاد بنا کرد اینا ر یکی یکی شنگول و منگول و خورد و حبه انگور رفت تو یه سوراخه قایم شد.", 
+            "tokens": [
+                "ta", 
+                "dr", 
+                "wa", 
+                "krd", 
+                "grg", 
+                "aftad", 
+                "bna", 
+                "krd", 
+                "ayna", 
+                "r", 
+                "yky", 
+                "yky", 
+                "šngwl", 
+                "w", 
+                "mngwl", 
+                "w", 
+                "xwrd", 
+                "w", 
+                "ħbe", 
+                "angwr", 
+                "rft", 
+                "tw", 
+                "ye", 
+                "swraxe", 
+                "ŕaym", 
+                "šd", 
+                "."
+            ], 
+            "sentence_id": 3010, 
+            "jpn_sentence": "すると、オオカミは次々とシャングール、マングールと食べていった。ヘッベ・アングールは穴に隠れていた。", 
+            "roman_sentence": "ta dr wa krd grg aftad bna krd ayna r yky yky šngwl w mngwl w xwrd w ħbe angwr rft tw ye swraxe ŕaym šd ."
+        }, 
+        {
+            "persian_sentence": " این ظهر كه گرگ(۵) اومد از چرا دید در بازه گفت ای داد بیداد.", 
+            "tokens": [
+                "ayn", 
+                "ẓer", 
+                "Ke", 
+                "grg", 
+                "(5)", 
+                "awmd", 
+                "az", 
+                "čra", 
+                "dyd", 
+                "dr", 
+                "baze", 
+                "gft", 
+                "ay", 
+                "dad", 
+                "bydad", 
+                "."
+            ], 
+            "sentence_id": 3011, 
+            "jpn_sentence": "昼に親山羊が荒野から帰ってくると、扉が開いているのがわかった。そこで叫んだ。", 
+            "roman_sentence": "ayn ẓer Ke grg (5) awmd az čra dyd dr baze gft ay dad bydad ."
+        }, 
+        {
+            "persian_sentence": " گرگه اومد گول زد بچه ها رو برد.", 
+            "tokens": [
+                "grge", 
+                "awmd", 
+                "gwl", 
+                "zd", 
+                "bče", 
+                "ea", 
+                "rw", 
+                "brd", 
+                "."
+            ], 
+            "sentence_id": 3012, 
+            "jpn_sentence": "オオカミが来た。騙して子供たちを連れていってしまった。", 
+            "roman_sentence": "grge awmd gwl zd bče ea rw brd ."
+        }, 
+        {
+            "persian_sentence": " وقتی اومد صدا کرد شنگول، منگول، حبه انگور.", 
+            "tokens": [
+                "wŕty", 
+                "awmd", 
+                "şda", 
+                "krd", 
+                "šngwl", 
+                ",", 
+                "mngwl", 
+                ",", 
+                "ħbe", 
+                "angwr", 
+                "."
+            ], 
+            "sentence_id": 3013, 
+            "jpn_sentence": "巣の中で、シャングール、マングール、ヘッベ・アングール。と叫ぶと、", 
+            "roman_sentence": "wŕty awmd şda krd šngwl , mngwl , ħbe angwr ."
+        }, 
+        {
+            "persian_sentence": " دید انگوره ا اون سوراخه در شد و گفت من اینجایم.", 
+            "tokens": [
+                "dyd", 
+                "angwre", 
+                "a", 
+                "awn", 
+                "swraxe", 
+                "dr", 
+                "šd", 
+                "w", 
+                "gft", 
+                "mn", 
+                "aynjaym", 
+                "."
+            ], 
+            "sentence_id": 3014, 
+            "jpn_sentence": "ヘッベ・アングールが穴の中から出てきて、こう言った。私はここです。", 
+            "roman_sentence": "dyd angwre a awn swraxe dr šd w gft mn aynjaym ."
+        }, 
+        {
+            "persian_sentence": " گفت پ کو(۶) شنگول منگول؟", 
+            "tokens": [
+                "gft", 
+                "p", 
+                "kw", 
+                "(6)", 
+                "šngwl", 
+                "mngwl", 
+                "?"
+            ], 
+            "sentence_id": 3015, 
+            "jpn_sentence": "山羊のガンディーは言った。シャングールとマングールはどこなんだい。", 
+            "roman_sentence": "gft p kw (6) šngwl mngwl ?"
+        }, 
+        {
+            "persian_sentence": " گفت گرگ اومد برد.", 
+            "tokens": [
+                "gft", 
+                "grg", 
+                "awmd", 
+                "brd", 
+                "."
+            ], 
+            "sentence_id": 3016, 
+            "jpn_sentence": "ヘッベ・アングールは言った。オオカミが来て、連れていってしまったよ。", 
+            "roman_sentence": "gft grg awmd brd ."
+        }, 
+        {
+            "persian_sentence": " بلند شد رفت بالای لونه گرگ بناکرد هی تاپ تاپ زدن.", 
+            "tokens": [
+                "blnd", 
+                "šd", 
+                "rft", 
+                "balay", 
+                "lwne", 
+                "grg", 
+                "bnakrd", 
+                "ey", 
+                "tap", 
+                "tap", 
+                "zdn", 
+                "."
+            ], 
+            "sentence_id": 3017, 
+            "jpn_sentence": "山羊のガンディーは起きあがり、オオカミの住処の上で飛び跳ねた。", 
+            "roman_sentence": "blnd šd rft balay lwne grg bnakrd ey tap tap zdn ."
+        }, 
+        {
+            "persian_sentence": " گرگه گفت کیه تاپ تاپ میکنه؟", 
+            "tokens": [
+                "grge", 
+                "gft", 
+                "kye", 
+                "tap", 
+                "tap", 
+                "mykne", 
+                "?"
+            ], 
+            "sentence_id": 3018, 
+            "jpn_sentence": "オオカミは言った。飛び跳ねているのは誰だ。", 
+            "roman_sentence": "grge gft kye tap tap mykne ?"
+        }, 
+        {
+            "persian_sentence": " آش بچه های من وپر خاک میکنه.", 
+            "tokens": [
+                "āš", 
+                "bče", 
+                "eay", 
+                "mn", 
+                "wpr", 
+                "xak", 
+                "mykne", 
+                "."
+            ], 
+            "sentence_id": 3019, 
+            "jpn_sentence": "子供たちのスープが埃だらけになった。", 
+            "roman_sentence": "āš bče eay mn wpr xak mykne ."
+        }, 
+        {
+            "persian_sentence": " گفت منم.", 
+            "tokens": [
+                "gft", 
+                "mnm", 
+                "."
+            ], 
+            "sentence_id": 3020, 
+            "jpn_sentence": "山羊のガンディーは言った。私だ、", 
+            "roman_sentence": "gft mnm ."
+        }, 
+        {
+            "persian_sentence": " بز بز قندی، منم بالای بلندی، کی خورده شنگول من، کی خورده منگول من؟", 
+            "tokens": [
+                "bz", 
+                "bz", 
+                "ŕndy", 
+                ",", 
+                "mnm", 
+                "balay", 
+                "blndy", 
+                ",", 
+                "ky", 
+                "xwrde", 
+                "šngwl", 
+                "mn", 
+                ",", 
+                "ky", 
+                "xwrde", 
+                "mngwl", 
+                "mn", 
+                "?"
+            ], 
+            "sentence_id": 3021, 
+            "jpn_sentence": "山羊のガンディーだ。屋根の上にいるぞ。私のシャングールとマングールを食べたのは誰だ。", 
+            "roman_sentence": "bz bz ŕndy , mnm balay blndy , ky xwrde šngwl mn , ky xwrde mngwl mn ?"
+        }, 
+        {
+            "persian_sentence": " فردا بیا به جنگ من.", 
+            "tokens": [
+                "frda", 
+                "bya", 
+                "be", 
+                "jng", 
+                "mn", 
+                "."
+            ], 
+            "sentence_id": 3022, 
+            "jpn_sentence": "明日、決闘に来い。", 
+            "roman_sentence": "frda bya be jng mn ."
+        }, 
+        {
+            "persian_sentence": " گفت من خوردم شنگول تو منگولت فردام میام به جنگت.", 
+            "tokens": [
+                "gft", 
+                "mn", 
+                "xwrdm", 
+                "šngwl", 
+                "tw", 
+                "mngwlt", 
+                "frdam", 
+                "myam", 
+                "be", 
+                "jngt", 
+                "."
+            ], 
+            "sentence_id": 3023, 
+            "jpn_sentence": "オオカミは言った。シャングールとマングールを食べたのは私だ。決闘に行くぞ。", 
+            "roman_sentence": "gft mn xwrdm šngwl tw mngwlt frdam myam be jngt ."
+        }, 
+        {
+            "persian_sentence": " بز بز قندی اومد یک دونه همبونه پر کره و پنیر پر کرد و رفت پهلو نجار.", 
+            "tokens": [
+                "bz", 
+                "bz", 
+                "ŕndy", 
+                "awmd", 
+                "yk", 
+                "dwne", 
+                "embwne", 
+                "pr", 
+                "kre", 
+                "w", 
+                "pnyr", 
+                "pr", 
+                "krd", 
+                "w", 
+                "rft", 
+                "pelw", 
+                "njar", 
+                "."
+            ], 
+            "sentence_id": 3024, 
+            "jpn_sentence": "山羊のガンディーは、桶にバターとチーズを詰めて大工のところへ行って言った。", 
+            "roman_sentence": "bz bz ŕndy awmd yk dwne embwne pr kre w pnyr pr krd w rft pelw njar ."
+        }, 
+        {
+            "persian_sentence": " گفت دلم میخواد اینقدر این شاخ های منو تیز کنی.", 
+            "tokens": [
+                "gft", 
+                "dlm", 
+                "myxwad", 
+                "aynŕdr", 
+                "ayn", 
+                "šax", 
+                "eay", 
+                "mnw", 
+                "tyz", 
+                "kny", 
+                "."
+            ], 
+            "sentence_id": 3025, 
+            "jpn_sentence": "私の角をもっと鋭くしてください。", 
+            "roman_sentence": "gft dlm myxwad aynŕdr ayn šax eay mnw tyz kny ."
+        }, 
+        {
+            "persian_sentence": " که من همین برسه، بزنم، تو شیکم گرگه و پاره کنم.", 
+            "tokens": [
+                "ke", 
+                "mn", 
+                "emyn", 
+                "brse", 
+                ",", 
+                "bznm", 
+                ",", 
+                "tw", 
+                "šykm", 
+                "grge", 
+                "w", 
+                "pare", 
+                "knm", 
+                "."
+            ], 
+            "sentence_id": 3026, 
+            "jpn_sentence": "オオカミの腹の中にいる子供たちを助けるのです。", 
+            "roman_sentence": "ke mn emyn brse , bznm , tw šykm grge w pare knm ."
+        }, 
+        {
+            "persian_sentence": " وقتی وا کردید، همه کره و پنیر و بنا کرد شاخ بز بز قندی تیز کرد.", 
+            "tokens": [
+                "wŕty", 
+                "wa", 
+                "krdyd", 
+                ",", 
+                "eme", 
+                "kre", 
+                "w", 
+                "pnyr", 
+                "w", 
+                "bna", 
+                "krd", 
+                "šax", 
+                "bz", 
+                "bz", 
+                "ŕndy", 
+                "tyz", 
+                "krd", 
+                "."
+            ], 
+            "sentence_id": 3027, 
+            "jpn_sentence": "大工が桶を開けるとバターとチーズであった。大工は山羊の角を研いでやった。", 
+            "roman_sentence": "wŕty wa krdyd , eme kre w pnyr w bna krd šax bz bz ŕndy tyz krd ."
+        }, 
+        {
+            "persian_sentence": " گرگه هم (بلا نسبت شما بی ادبی) یک همبونه پر باد کرد.", 
+            "tokens": [
+                "grge", 
+                "em", 
+                "(bla", 
+                "nsbt", 
+                "šma", 
+                "by", 
+                "adby)", 
+                "yk", 
+                "embwne", 
+                "pr", 
+                "bad", 
+                "krd", 
+                "."
+            ], 
+            "sentence_id": 3028, 
+            "jpn_sentence": "オオカミも桶におならを詰めて蓋を閉めた。", 
+            "roman_sentence": "grge em (bla nsbt šma by adby) yk embwne pr bad krd ."
+        }, 
+        {
+            "persian_sentence": " کرد و درش گرفت، گذاشت کله کولشو.", 
+            "tokens": [
+                "krd", 
+                "w", 
+                "drš", 
+                "grft", 
+                ",", 
+                "gđašt", 
+                "kle", 
+                "kwlšw", 
+                "."
+            ], 
+            "sentence_id": 3029, 
+            "jpn_sentence": "肩に担いで、", 
+            "roman_sentence": "krd w drš grft , gđašt kle kwlšw ."
+        }, 
+        {
+            "persian_sentence": " اومد خونه سلمانی.", 
+            "tokens": [
+                "awmd", 
+                "xwne", 
+                "slmany", 
+                "."
+            ], 
+            "sentence_id": 3030, 
+            "jpn_sentence": "床屋へ持っていった。", 
+            "roman_sentence": "awmd xwne slmany ."
+        }, 
+        {
+            "persian_sentence": " گفت سلمانی دلم میخواد این قدر این دندونای منو تیز کنی که همین برسم چل بندازم و گرگ را خورده باشم.", 
+            "tokens": [
+                "gft", 
+                "slmany", 
+                "dlm", 
+                "myxwad", 
+                "ayn", 
+                "ŕdr", 
+                "ayn", 
+                "dndwnay", 
+                "mnw", 
+                "tyz", 
+                "kny", 
+                "ke", 
+                "emyn", 
+                "brsm", 
+                "čl", 
+                "bndaz", 
+                "mn", 
+                "w", 
+                "grg", 
+                "ra", 
+                "xwrde", 
+                "bašm", 
+                "."
+            ], 
+            "sentence_id": 3031, 
+            "jpn_sentence": "オオカミは言った。山羊を滅多切りにして食べてやるから私の歯を研いでください。", 
+            "roman_sentence": "gft slmany dlm myxwad ayn ŕdr ayn dndwnay mnw tyz kny ke emyn brsm čl bndaz mn  w grg ra xwrde bašm ."
+        }, 
+        {
+            "persian_sentence": " وقتی در همبونه ر وا کرد اووو.", 
+            "tokens": [
+                "wŕty", 
+                "dr", 
+                "embwne", 
+                "r", 
+                "wa", 
+                "krd", 
+                "awww", 
+                "."
+            ], 
+            "sentence_id": 3032, 
+            "jpn_sentence": "床屋が桶を開けると、床屋は唸った。", 
+            "roman_sentence": "wŕty dr embwne r wa krd awww ."
+        }, 
+        {
+            "persian_sentence": " (بی ادبی) این قدر فس فس فس فس کرد، نخوده پرید تو چشه سلمونیه یه چشه شو هم کور کرد بیچاره رو.", 
+            "tokens": [
+                "(by", 
+                "adby)", 
+                "ayn", 
+                "ŕdr", 
+                "fs", 
+                "fs", 
+                "fs", 
+                "fs", 
+                "krd", 
+                ",", 
+                "nxwde", 
+                "pryd", 
+                "tw", 
+                "čše", 
+                "slmwnye", 
+                "ye", 
+                "čše", 
+                "šw", 
+                "em", 
+                "kwr", 
+                "krd", 
+                "byčare", 
+                "rw", 
+                "."
+            ], 
+            "sentence_id": 3033, 
+            "jpn_sentence": "ひどく、臭かったのである。エンドウ豆が床屋の目に飛んで入り、かわいそうに目をつぶされた。", 
+            "roman_sentence": "(by adby) ayn ŕdr fs fs fs fs krd , nxwde pryd tw čše slmwnye ye čše šw em kwr krd byčare rw ."
+        }, 
+        {
+            "persian_sentence": " گفت پدری ازت در بیارم.", 
+            "tokens": [
+                "gft", 
+                "pdry", 
+                "az", 
+                "tw", 
+                "dr", 
+                "byarm", 
+                "."
+            ], 
+            "sentence_id": 3034, 
+            "jpn_sentence": "そして言った。目にもの見せてやる。", 
+            "roman_sentence": "gft pdry az tw  dr byarm ."
+        }, 
+        {
+            "persian_sentence": " تمام دندونای این کشید.", 
+            "tokens": [
+                "tmam", 
+                "dndwnay", 
+                "ayn", 
+                "kšyd", 
+                "."
+            ], 
+            "sentence_id": 3035, 
+            "jpn_sentence": "床屋はオオカミの歯を全部抜いてしまった。", 
+            "roman_sentence": "tmam dndwnay ayn kšyd ."
+        }, 
+        {
+            "persian_sentence": " دندوناش کشید و صبح شد رفتند میدون.", 
+            "tokens": [
+                "dndwnaš", 
+                "kšyd", 
+                "w", 
+                "şbħ", 
+                "šd", 
+                "rftnd", 
+                "mydwn", 
+                "."
+            ], 
+            "sentence_id": 3036, 
+            "jpn_sentence": "オオカミの歯は抜かれた。そして、朝になり、広場に集まった。", 
+            "roman_sentence": "dndwnaš kšyd w şbħ šd rftnd mydwn ."
+        }, 
+        {
+            "persian_sentence": " بزبز قندی اومد و بزا همه جمع شدن و گرگم اومد، گرگا اومدند.", 
+            "tokens": [
+                "bzbz", 
+                "ŕndy", 
+                "awmd", 
+                "w", 
+                "bza", 
+                "eme", 
+                "jm'", 
+                "šdn", 
+                "w", 
+                "grgm", 
+                "awmd", 
+                ",", 
+                "grga", 
+                "awmdnd", 
+                "."
+            ], 
+            "sentence_id": 3037, 
+            "jpn_sentence": "山羊のガンディーは仲間の山羊を連れて、オオカミも仲間のオオカミを連れて集まった。", 
+            "roman_sentence": "bzbz ŕndy awmd w bza eme jm' šdn w grgm awmd , grga awmdnd ."
+        }, 
+        {
+            "persian_sentence": " بنا کردند هی پالا پالا پریدن و به حساب دعوا کنند جنگ کنند با هم دیگه.", 
+            "tokens": [
+                "bna", 
+                "krdnd", 
+                "ey", 
+                "pala", 
+                "pala", 
+                "prydn", 
+                "w", 
+                "be", 
+                "ħsab", 
+                "d'wa", 
+                "knnd", 
+                "jng", 
+                "knnd", 
+                "ba", 
+                "em", 
+                "dyge", 
+                "."
+            ], 
+            "sentence_id": 3038, 
+            "jpn_sentence": "お互いに飛びかかり、決闘が始まった。", 
+            "roman_sentence": "bna krdnd ey pala pala prydn w be ħsab d'wa knnd jng knnd ba em dyge ."
+        }, 
+        {
+            "persian_sentence": " بزبز قندی رفت بالا اومد پایین و هی تُک شاخش و کرد تو شکمش.", 
+            "tokens": [
+                "bzbz", 
+                "ŕndy", 
+                "rft", 
+                "bala", 
+                "awmd", 
+                "payyn", 
+                "w", 
+                "ey", 
+                "tk", 
+                "šaxš", 
+                "w", 
+                "krd", 
+                "tw", 
+                "škmš", 
+                "."
+            ], 
+            "sentence_id": 3039, 
+            "jpn_sentence": "山羊のガンディーは上へ下へと飛び回り、オオカミの腹を角で突いた。", 
+            "roman_sentence": "bzbz ŕndy rft bala awmd payyn w ey tk šaxš w krd tw škmš ."
+        }, 
+        {
+            "persian_sentence": " هی کل(۷) انداخت (مثل من که الان دندون ندارم)، هی همچین همچینی کرد دید.", 
+            "tokens": [
+                "ey", 
+                "kl", 
+                "(7)", 
+                "andaxt", 
+                "(mçl", 
+                "mn", 
+                "ke", 
+                "alan", 
+                "dndwn", 
+                "ndarm)", 
+                ",", 
+                "ey", 
+                "emčyn", 
+                "emčyny", 
+                "krd", 
+                "dyd", 
+                "."
+            ], 
+            "sentence_id": 3040, 
+            "jpn_sentence": "オオカミは噛みついたが、歯が〈今の私のように〉なかったので、", 
+            "roman_sentence": "ey kl (7) andaxt (mçl mn ke alan dndwn ndarm) , ey emčyn emčyny krd dyd ."
+        }, 
+        {
+            "persian_sentence": " دندونش نمیگیره، دندونا ر کندن دیگه.", 
+            "tokens": [
+                "dndwnš", 
+                "nmygyre", 
+                ",", 
+                "dndwna", 
+                "r", 
+                "kndn", 
+                "dyge", 
+                "."
+            ], 
+            "sentence_id": 3041, 
+            "jpn_sentence": "どうしようもなかった。", 
+            "roman_sentence": "dndwnš nmygyre , dndwna r kndn dyge ."
+        }, 
+        {
+            "persian_sentence": " [بز هم] شاخ ر فرو کرد تو شکم اینو شنگول منگول پریدند بیرون.", 
+            "tokens": [
+                "[bz", 
+                "em]", 
+                "šax", 
+                "r", 
+                "frw", 
+                "krd", 
+                "tw", 
+                "škm", 
+                "aynw", 
+                "šngwl", 
+                "mngwl", 
+                "prydnd", 
+                "byrwn", 
+                "."
+            ], 
+            "sentence_id": 3042, 
+            "jpn_sentence": "山羊は角をオオカミの腹に突き刺すと、シャングールとマングールが飛び出てきた。", 
+            "roman_sentence": "[bz em] šax r frw krd tw škm aynw šngwl mngwl prydnd byrwn ."
+        }, 
+        {
+            "persian_sentence": " بچه هاش برد تو دریا آب (آب) کشید و اومد خونشون.", 
+            "tokens": [
+                "bče", 
+                "eaš", 
+                "brd", 
+                "tw", 
+                "drya", 
+                "āb", 
+                "(āb)", 
+                "kšyd", 
+                "w", 
+                "awmd", 
+                "xwnšwn", 
+                "."
+            ], 
+            "sentence_id": 3043, 
+            "jpn_sentence": "子供たちを川へ連れていき、水をかぶらせて住処へ連れ帰った。", 
+            "roman_sentence": "bče eaš brd tw drya āb (āb) kšyd w awmd xwnšwn ."
+        }, 
+        {
+            "persian_sentence": " اومد خونشون به بچه هاش گفت دیگه گول نخورین ده تا گرگ اینجا هست.", 
+            "tokens": [
+                "awmd", 
+                "xwnšwn", 
+                "be", 
+                "bče", 
+                "eaš", 
+                "gft", 
+                "dyge", 
+                "gwl", 
+                "nxwryn", 
+                "de", 
+                "ta", 
+                "grg", 
+                "aynja", 
+                "est", 
+                "."
+            ], 
+            "sentence_id": 3044, 
+            "jpn_sentence": "帰って子供たちに言った。二度と騙されてはいけないよ。ここには十頭のオオカミがいるよ。", 
+            "roman_sentence": "awmd xwnšwn be bče eaš gft dyge gwl nxwryn de ta grg aynja est ."
+        }, 
+        {
+            "persian_sentence": " اگر گول بخورین در وا کنین دیگه این دفعه میخورتون.", 
+            "tokens": [
+                "agr", 
+                "gwl", 
+                "bxwryn", 
+                "dr", 
+                "wa", 
+                "knyn", 
+                "dyge", 
+                "ayn", 
+                "df'e", 
+                "myxwrtwn", 
+                "."
+            ], 
+            "sentence_id": 3045, 
+            "jpn_sentence": "今度騙されて扉を開けると、今度は本当に食べられてしまうよ。", 
+            "roman_sentence": "agr gwl bxwryn dr wa knyn dyge ayn df'e myxwrtwn ."
+        }, 
+        {
+            "persian_sentence": " قصه ما به سر رسید.", 
+            "tokens": [
+                "ŕşe", 
+                "ma", 
+                "be", 
+                "sr", 
+                "rsyd", 
+                "."
+            ], 
+            "sentence_id": 3046, 
+            "jpn_sentence": "私たちの話はおしまいである。", 
+            "roman_sentence": "ŕşe ma be sr rsyd ."
+        }, 
+        {
+            "persian_sentence": " غلاغه به خونش نرسید.", 
+            "tokens": [
+                "qlaqe", 
+                "be", 
+                "xwnš", 
+                "nrsyd", 
+                "."
+            ], 
+            "sentence_id": 3047, 
+            "jpn_sentence": "カラスも家には帰らなかった。", 
+            "roman_sentence": "qlaqe be xwnš nrsyd ."
+        }
+    ], 
+    "document_info_map": {
+        "document_AT_class": "AT123「狼と子山羊たち」", 
+        "document_time_duration": "03分07秒", 
+        "document_record_location_japanese": "テヘラン州レイ市ターレバーバード村", 
+        "document_location_no": "002-006 ", 
+        "document_class": "動物寓話", 
+        "document_title_persian": "بز بز قندی", 
+        "document_title_japanese": "山羊のガンディー", 
+        "document_no": "3", 
+        "document_record_location_persian": "استان تهران، شهر ری، روستای طالب آباد", 
+        "document_record_day": "1998年9月25日"
+    }, 
+    "motif_list": [
+        [
+            "K971", 
+            "The wolf comes in the absence of the mother and eats up the kids."
+        ], 
+        [
+            "K1832", 
+            "Disguise by changing voice."
+        ], 
+        [
+            "F931", 
+            "The old goat cuts the wolf open and rescues them."
+        ], 
+        [
+            "F913", 
+            "Victims rescued from swallower's belly."
+        ]
+    ]
+}

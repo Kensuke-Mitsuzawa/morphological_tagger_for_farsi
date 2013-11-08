@@ -1,0 +1,334 @@
+{
+    "sentence_set_list": [
+        {
+            "persian_sentence": "زمانای قدیم می گفتن در حمام ها، جن و پری زیاد بوده.", 
+            "tokens": [
+                "zmanay", 
+                "ŕdym", 
+                "my", 
+                "gftn", 
+                "dr", 
+                "ħmam", 
+                "ea", 
+                ",", 
+                "jn", 
+                "w", 
+                "pry", 
+                "zyad", 
+                "bwde", 
+                "."
+            ], 
+            "sentence_id": 19001, 
+            "jpn_sentence": "昔、ハンマームには、ジンや妖精がいると言われていた。", 
+            "roman_sentence": "zmanay ŕdym my gftn dr ħmam ea , jn w pry zyad bwde ."
+        }, 
+        {
+            "persian_sentence": " یک آقایی یه روزی میره حمام بعد می بینه جن و پری ها عروسی دارن.", 
+            "tokens": [
+                "yk", 
+                "āŕayy", 
+                "ye", 
+                "rwzy", 
+                "myre", 
+                "ħmam", 
+                "b'd", 
+                "my", 
+                "byne", 
+                "jn", 
+                "w", 
+                "pry", 
+                "ea", 
+                "'rwsy", 
+                "darn", 
+                "."
+            ], 
+            "sentence_id": 19002, 
+            "jpn_sentence": "ある男が、ある日、ハンマームに行くと、ジンや妖精たちが結婚式をしていた。", 
+            "roman_sentence": "yk āŕayy ye rwzy myre ħmam b'd my byne jn w pry ea 'rwsy darn ."
+        }, 
+        {
+            "persian_sentence": " بعد همراه با اونا شادی میکنه، می رقصه، می زنه، می کوبه.", 
+            "tokens": [
+                "b'd", 
+                "emn", 
+                "ra", 
+                "e", 
+                "ba", 
+                "awna", 
+                "šady", 
+                "mykne", 
+                ",", 
+                "my", 
+                "rŕşe", 
+                ",", 
+                "my", 
+                "zne", 
+                ",", 
+                "my", 
+                "kwbe", 
+                "."
+            ], 
+            "sentence_id": 19003, 
+            "jpn_sentence": "そして、彼らと一緒に喜んで、踊って、手を叩き、足を鳴らして踊っていた。", 
+            "roman_sentence": "b'd emn ra e ba awna šady mykne , my rŕşe , my zne , my kwbe ."
+        }, 
+        {
+            "persian_sentence": " بعد، ایشون قوز داشتند.", 
+            "tokens": [
+                "b'd", 
+                ",", 
+                "ayšwn", 
+                "ŕwz", 
+                "daštnd", 
+                "."
+            ], 
+            "sentence_id": 19004, 
+            "jpn_sentence": "すると、男には瘤があったのであるが、", 
+            "roman_sentence": "b'd , ayšwn ŕwz daštnd ."
+        }, 
+        {
+            "persian_sentence": " بعد جن و پری ها، به خاطر تشکر از این آقا، قوزشو بر می دارن.", 
+            "tokens": [
+                "b'd", 
+                "jn", 
+                "w", 
+                "pry", 
+                "ea", 
+                ",", 
+                "be", 
+                "xaţr", 
+                "tškr", 
+                "az", 
+                "ayn", 
+                "āŕa", 
+                ",", 
+                "ŕwzšw", 
+                "br", 
+                "my", 
+                "darn", 
+                "."
+            ], 
+            "sentence_id": 19005, 
+            "jpn_sentence": "ジンや妖精たちは、感謝の印にその瘤をとってあげた。", 
+            "roman_sentence": "b'd jn w pry ea , be xaţr tškr az ayn āŕa , ŕwzšw br my darn ."
+        }, 
+        {
+            "persian_sentence": " بعد از چند مدت، این آقا که میگذره دوستشون ایشونو میبینه، بهشون می گه که چی شد که قوزت خوب شد.", 
+            "tokens": [
+                "b'd", 
+                "az", 
+                "čnd", 
+                "mdt", 
+                ",", 
+                "ayn", 
+                "āŕa", 
+                "ke", 
+                "mygđre", 
+                "dwstšwn", 
+                "ayšwnw", 
+                "mybyne", 
+                ",", 
+                "be", 
+                "aw", 
+                "wn", 
+                "my", 
+                "ge", 
+                "ke", 
+                "čy", 
+                "šd", 
+                "ke", 
+                "ŕwzt", 
+                "xwb", 
+                "šd", 
+                "."
+            ], 
+            "sentence_id": 19006, 
+            "jpn_sentence": "しばらくして、友人が男を見て、言った。どうしたんだい。瘤が治ったね。", 
+            "roman_sentence": "b'd az čnd mdt , ayn āŕa ke mygđre dwstšwn ayšwnw mybyne , be aw wn my ge ke čy šd ke ŕwzt xwb šd ."
+        }, 
+        {
+            "persian_sentence": " کمرت برجستگیش خوب شد.", 
+            "tokens": [
+                "kmrt", 
+                "brjstgyš", 
+                "xwb", 
+                "šd", 
+                "."
+            ], 
+            "sentence_id": 19007, 
+            "jpn_sentence": "腰の出っ張りがなくなったね。", 
+            "roman_sentence": "kmrt brjstgyš xwb šd ."
+        }, 
+        {
+            "persian_sentence": " می گه که من رفتم حمام، اینا عروسی داشتن، زدم و رقصیدم با اینا شادی کردم.", 
+            "tokens": [
+                "my", 
+                "ge", 
+                "ke", 
+                "mn", 
+                "rftm", 
+                "ħmam", 
+                ",", 
+                "ayna", 
+                "'rwsy", 
+                "daštn", 
+                ",", 
+                "zdm", 
+                "w", 
+                "rŕşydm", 
+                "ba", 
+                "ayna", 
+                "šady", 
+                "krdm", 
+                "."
+            ], 
+            "sentence_id": 19008, 
+            "jpn_sentence": "男は言った。ハンマームに行ったらね、（ジンや妖精たちが）結婚式をやっていたんだ。手を叩いて踊って喜んでいたらね、", 
+            "roman_sentence": "my ge ke mn rftm ħmam , ayna 'rwsy daštn , zdm w rŕşydm ba ayna šady krdm ."
+        }, 
+        {
+            "persian_sentence": " بعد اینا قوز من و به عنوان تشکر بر داشتن.", 
+            "tokens": [
+                "b'd", 
+                "ayna", 
+                "ŕwz", 
+                "mn", 
+                "w", 
+                "be", 
+                "'nwan", 
+                "tškr", 
+                "br", 
+                "daštn", 
+                "."
+            ], 
+            "sentence_id": 19009, 
+            "jpn_sentence": "感謝の印に私の瘤をとってくれたんだ。", 
+            "roman_sentence": "b'd ayna ŕwz mn w be 'nwan tškr br daštn ."
+        }, 
+        {
+            "persian_sentence": " آین آقا هم قوز داشته.", 
+            "tokens": [
+                "āyn", 
+                "āŕa", 
+                "em", 
+                "ŕwz", 
+                "dašte", 
+                "."
+            ], 
+            "sentence_id": 19010, 
+            "jpn_sentence": "友人にも瘤があった。", 
+            "roman_sentence": "āyn āŕa em ŕwz dašte ."
+        }, 
+        {
+            "persian_sentence": " میره حمام، شروع میکنه به زدن و پای کوبی، بعد، اونا بر عکس اون روز عزا داشتن.", 
+            "tokens": [
+                "myre", 
+                "ħmam", 
+                ",", 
+                "šrw'", 
+                "mykne", 
+                "be", 
+                "zdn", 
+                "w", 
+                "pay", 
+                "kwby", 
+                ",", 
+                "b'd", 
+                ",", 
+                "awna", 
+                "br", 
+                "'ks", 
+                "awn", 
+                "rwz", 
+                "'za", 
+                "daštn", 
+                "."
+            ], 
+            "sentence_id": 19011, 
+            "jpn_sentence": "そして、ハンマームに行って、手を叩いて足を鳴らし始めた。ところが、その日は、この前とは逆に葬式(1)であった。", 
+            "roman_sentence": "myre ħmam , šrw' mykne be zdn w pay kwby , b'd , awna br 'ks awn rwz 'za daštn ."
+        }, 
+        {
+            "persian_sentence": " چون این شادی می کنه، قوز اون آقا رو هم میذارن، رو قوز ایشون.", 
+            "tokens": [
+                "čwn", 
+                "ayn", 
+                "šady", 
+                "my", 
+                "kne", 
+                ",", 
+                "ŕwz", 
+                "awn", 
+                "āŕa", 
+                "rw", 
+                "em", 
+                "myđarn", 
+                ",", 
+                "rw", 
+                "ŕwz", 
+                "ayšwn", 
+                "."
+            ], 
+            "sentence_id": 19012, 
+            "jpn_sentence": "男が喜ぶので、（ジンや妖精たちは）前にとった瘤を男の瘤の上にくっつけた。", 
+            "roman_sentence": "čwn ayn šady my kne , ŕwz awn āŕa rw em myđarn , rw ŕwz ayšwn ."
+        }, 
+        {
+            "persian_sentence": " از اون موقع دیگه میگن قوز بالا قوز.", 
+            "tokens": [
+                "az", 
+                "awn", 
+                "mwŕ'", 
+                "dyge", 
+                "mygn", 
+                "ŕwz", 
+                "bala", 
+                "ŕwz", 
+                "."
+            ], 
+            "sentence_id": 19013, 
+            "jpn_sentence": "その時から、瘤の上の瘤と言うようになった。", 
+            "roman_sentence": "az awn mwŕ' dyge mygn ŕwz bala ŕwz ."
+        }, 
+        {
+            "persian_sentence": "ایشون دو تا قوز داشتن.", 
+            "tokens": [
+                "ayšwn", 
+                "dw", 
+                "ta", 
+                "ŕwz", 
+                "daštn", 
+                "."
+            ], 
+            "sentence_id": 19014, 
+            "jpn_sentence": "その男は、二つの瘤を持つことになった。", 
+            "roman_sentence": "ayšwn dw ta ŕwz daštn ."
+        }
+    ], 
+    "document_info_map": {
+        "document_AT_class": "AT503「こびとの贈り物」", 
+        "document_time_duration": "01分03秒", 
+        "document_record_location_japanese": "テヘラン州レイ市ターレバーバード村", 
+        "document_location_no": "003-019 ", 
+        "document_class": "本格昔話", 
+        "document_title_persian": "قوز بالا قوز", 
+        "document_title_japanese": "瘤の上の瘤", 
+        "document_no": "19", 
+        "document_record_location_persian": "استان تهران، شهر ری، روستای طالب آباد", 
+        "document_record_day": "1998年10月22日"
+    }, 
+    "motif_list": [
+        [
+            "F331.1", 
+            "Mortal wins fairies' gratitude by joining in their dance."
+        ], 
+        [
+            "F344.1", 
+            "Fairies remove hunchback's hump (or replace it)."
+        ], 
+        [
+            "J2415", 
+            "Foolish imitation of lucky man. "
+        ]
+    ]
+}

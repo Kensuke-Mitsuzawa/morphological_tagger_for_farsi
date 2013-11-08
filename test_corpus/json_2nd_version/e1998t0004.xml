@@ -1,0 +1,973 @@
+{
+    "sentence_set_list": [
+        {
+            "persian_sentence": "یه دونه بزه بوده، یه دونه شنگول، یه دونه منگول با یه دونه گل خربیزک.", 
+            "tokens": [
+                "ye", 
+                "dwne", 
+                "bze", 
+                "bwde", 
+                ",", 
+                "ye", 
+                "dwne", 
+                "šngwl", 
+                ",", 
+                "ye", 
+                "dwne", 
+                "mngwl", 
+                "ba", 
+                "ye", 
+                "dwne", 
+                "gl", 
+                "xrbyzk", 
+                "."
+            ], 
+            "sentence_id": 4001, 
+            "jpn_sentence": "山羊が一匹いた。（山羊には、子供の）シャングールとマングールとゴル・ハルビーザクがいた。", 
+            "roman_sentence": "ye dwne bze bwde , ye dwne šngwl , ye dwne mngwl ba ye dwne gl xrbyzk ."
+        }, 
+        {
+            "persian_sentence": " این شنگول و منگول می رن، می ذاره ما، مامانش بزه می ذاره اینا رو  خونه و می ره به صحرا.", 
+            "tokens": [
+                "ayn", 
+                "šngwl", 
+                "w", 
+                "mngwl", 
+                "my", 
+                "rn", 
+                ",", 
+                "my", 
+                "đare", 
+                "ma", 
+                ",", 
+                "mamanš", 
+                "bze", 
+                "my", 
+                "đare", 
+                "ayna", 
+                "rw", 
+                "xwne", 
+                "w", 
+                "my", 
+                "re", 
+                "be", 
+                "şħra", 
+                "."
+            ], 
+            "sentence_id": 4002, 
+            "jpn_sentence": "シャングールとマングールたちを、母山羊は家に置いたまま荒野へ行ってしまった。", 
+            "roman_sentence": "ayn šngwl w mngwl my rn , my đare ma , mamanš bze my đare ayna rw  xwne w my re be şħra ."
+        }, 
+        {
+            "persian_sentence": " وقتیکه میره به صحرا، (بده خدم نگه دارم، وقتیکه میره به صحرا) گرگه میاد در می زنه، های در میزنه.", 
+            "tokens": [
+                "wŕtyke", 
+                "myre", 
+                "be", 
+                "şħra", 
+                ",", 
+                "(bde", 
+                "xdm", 
+                "nge", 
+                "darm", 
+                ",", 
+                "wŕtyke", 
+                "myre", 
+                "be", 
+                "şħra)", 
+                "grge", 
+                "myad", 
+                "dr", 
+                "my", 
+                "zne", 
+                ",", 
+                "eay", 
+                "dr", 
+                "myzne", 
+                "."
+            ], 
+            "sentence_id": 4003, 
+            "jpn_sentence": "（母山羊が）荒野へ行ったとき、オオカミがやって来て扉を叩いた。", 
+            "roman_sentence": "wŕtyke myre be şħra , (bde xdm nge darm , wŕtyke myre be şħra) grge myad dr my zne , eay dr myzne ."
+        }, 
+        {
+            "persian_sentence": " میگه شنگول من، منگول من در باز کن مادرتام.", 
+            "tokens": [
+                "myge", 
+                "šngwl", 
+                "mn", 
+                ",", 
+                "mngwl", 
+                "mn", 
+                "dr", 
+                "baz", 
+                "kn", 
+                "madrtam", 
+                "."
+            ], 
+            "sentence_id": 4004, 
+            "jpn_sentence": "扉を叩いてこう言ったのである。私のシャングール、私のマングール、扉を開けておくれ。お母さんだよ。", 
+            "roman_sentence": "myge šngwl mn , mngwl mn dr baz kn madrtam ."
+        }, 
+        {
+            "persian_sentence": " میگه مادر من تو نیسی، سفیده.", 
+            "tokens": [
+                "myge", 
+                "madr", 
+                "mn", 
+                "tw", 
+                "nysy", 
+                ",", 
+                "sfyde", 
+                "."
+            ], 
+            "sentence_id": 4005, 
+            "jpn_sentence": "子山羊たちは言った。あなたはお母さんではありません。お母さんは白いのです。", 
+            "roman_sentence": "myge madr mn tw nysy , sfyde ."
+        }, 
+        {
+            "persian_sentence": " می ره یه خوده گچ می خره.", 
+            "tokens": [
+                "my", 
+                "re", 
+                "ye", 
+                "xwde", 
+                "gč", 
+                "my", 
+                "xre", 
+                "."
+            ], 
+            "sentence_id": 4006, 
+            "jpn_sentence": "オオカミは、石灰を買いに行った。", 
+            "roman_sentence": "my re ye xwde gč my xre ."
+        }, 
+        {
+            "persian_sentence": " خودش سفید می کنه.", 
+            "tokens": [
+                "xwdš", 
+                "sfyd", 
+                "my", 
+                "kne", 
+                "."
+            ], 
+            "sentence_id": 4007, 
+            "jpn_sentence": "自らを白く塗って、", 
+            "roman_sentence": "xwdš sfyd my kne ."
+        }, 
+        {
+            "persian_sentence": "میاد دم در میگه شنگول من منگول من در باز کن مامان تام.", 
+            "tokens": [
+                "myad", 
+                "dm", 
+                "dr", 
+                "myge", 
+                "šngwl", 
+                "mn", 
+                "mngwl", 
+                "mn", 
+                "dr", 
+                "baz", 
+                "kn", 
+                "maman", 
+                "tam", 
+                "."
+            ], 
+            "sentence_id": 4008, 
+            "jpn_sentence": "扉の前まで来て、こう言った。私のシャングール、私のマングール、扉を開けておくれ。お母さんだよ。", 
+            "roman_sentence": "myad dm dr myge šngwl mn mngwl mn dr baz kn maman tam ."
+        }, 
+        {
+            "persian_sentence": " میگه بازم تو مامان من نیستی.", 
+            "tokens": [
+                "myge", 
+                "baz", 
+                "mn", 
+                "tw", 
+                "maman", 
+                "mn", 
+                "nysty", 
+                "."
+            ], 
+            "sentence_id": 4009, 
+            "jpn_sentence": "子山羊たちはまた言った。あなたはお母さんではありません。", 
+            "roman_sentence": "myge baz mn  tw maman mn nysty ."
+        }, 
+        {
+            "persian_sentence": " میگه مامان من سیاست.", 
+            "tokens": [
+                "myge", 
+                "maman", 
+                "mn", 
+                "syast", 
+                "."
+            ], 
+            "sentence_id": 4010, 
+            "jpn_sentence": "私たちのお母さんは黒いのです。", 
+            "roman_sentence": "myge maman mn syast ."
+        }, 
+        {
+            "persian_sentence": " البته قصه اش اینو برای تون میگم.", 
+            "tokens": [
+                "albte", 
+                "ŕşe", 
+                "aš", 
+                "aynw", 
+                "bray", 
+                "twn", 
+                "mygm", 
+                "."
+            ], 
+            "sentence_id": 4011, 
+            "jpn_sentence": "〈もちろんお話を語っているのだよ。〉", 
+            "roman_sentence": "albte ŕşe aš aynw bray twn mygm ."
+        }, 
+        {
+            "persian_sentence": " مامان من سیاه است.", 
+            "tokens": [
+                "maman", 
+                "mn", 
+                "syae", 
+                "ast", 
+                "."
+            ], 
+            "sentence_id": 4012, 
+            "jpn_sentence": "私たちのお母さんは黒いのです。", 
+            "roman_sentence": "maman mn syae ast ."
+        }, 
+        {
+            "persian_sentence": " میره یه خورده خاک زغال میخره و دو باره خودش رنگ میکنه میاد اونجا.", 
+            "tokens": [
+                "myre", 
+                "ye", 
+                "xwrde", 
+                "xak", 
+                "zqal", 
+                "myxre", 
+                "w", 
+                "dw", 
+                "bare", 
+                "xwdš", 
+                "rng", 
+                "mykne", 
+                "myad", 
+                "awnja", 
+                "."
+            ], 
+            "sentence_id": 4013, 
+            "jpn_sentence": "オオカミは、墨の粉を買ってきて、自ら色をつけて戻ってきて言った。", 
+            "roman_sentence": "myre ye xwrde xak zqal myxre w dw bare xwdš rng mykne myad awnja ."
+        }, 
+        {
+            "persian_sentence": " میگه شنگول من منگول من، در باز کن مامان تام.", 
+            "tokens": [
+                "myge", 
+                "šngwl", 
+                "mn", 
+                "mngwl", 
+                "mn", 
+                ",", 
+                "dr", 
+                "baz", 
+                "kn", 
+                "maman", 
+                "tam", 
+                "."
+            ], 
+            "sentence_id": 4014, 
+            "jpn_sentence": "私のシャングール、私のマングール、扉を開けて下さい。あなたのお母さんですよ。", 
+            "roman_sentence": "myge šngwl mn mngwl mn , dr baz kn maman tam ."
+        }, 
+        {
+            "persian_sentence": " میگه که مامان من تو نیستی.", 
+            "tokens": [
+                "myge", 
+                "ke", 
+                "maman", 
+                "mn", 
+                "tw", 
+                "nysty", 
+                "."
+            ], 
+            "sentence_id": 4015, 
+            "jpn_sentence": "子山羊たちは言った。あなたはお母さんじゃありません。", 
+            "roman_sentence": "myge ke maman mn tw nysty ."
+        }, 
+        {
+            "persian_sentence": " میزنه در حیاط میشکنه میاد میره هو، شنگول و منگول پیرن پر گل اونا اون دو تا ر میخور و اون گل خربیزک هم میره تو تندور، قایم میشه.", 
+            "tokens": [
+                "myzne", 
+                "dr", 
+                "ħyaţ", 
+                "myškne", 
+                "myad", 
+                "myre", 
+                "ew", 
+                ",", 
+                "šngwl", 
+                "w", 
+                "mngwl", 
+                "pyrn", 
+                "pr", 
+                "gl", 
+                "awna", 
+                "awn", 
+                "dw", 
+                "ta", 
+                "r", 
+                "myxwr", 
+                "w", 
+                "awn", 
+                "gl", 
+                "xrbyzk", 
+                "em", 
+                "myre", 
+                "tw", 
+                "tndwr", 
+                ",", 
+                "ŕaym", 
+                "myše", 
+                "."
+            ], 
+            "sentence_id": 4016, 
+            "jpn_sentence": "オオカミは、とうとう庭の扉を壊し、中に入ってきた。花柄の服をきたシャングールとマングールの二匹を食べてしまった。ゴル・ハルビーザクは竈の中に隠れていた。", 
+            "roman_sentence": "myzne dr ħyaţ myškne myad myre ew , šngwl w mngwl pyrn pr gl awna awn dw ta r myxwr w awn gl xrbyzk em myre tw tndwr , ŕaym myše ."
+        }, 
+        {
+            "persian_sentence": " تا مامانش میاد.", 
+            "tokens": [
+                "ta", 
+                "mamanš", 
+                "myad", 
+                "."
+            ], 
+            "sentence_id": 4017, 
+            "jpn_sentence": "やがて、母山羊が帰ってきた。", 
+            "roman_sentence": "ta mamanš myad ."
+        }, 
+        {
+            "persian_sentence": " مامانش که میاد میگه شنگول من منگول من بیا بزه میاد که شیر بده.", 
+            "tokens": [
+                "mamanš", 
+                "ke", 
+                "myad", 
+                "myge", 
+                "šngwl", 
+                "mn", 
+                "mngwl", 
+                "mn", 
+                "bya", 
+                "bze", 
+                "myad", 
+                "ke", 
+                "šyr", 
+                "bde", 
+                "."
+            ], 
+            "sentence_id": 4018, 
+            "jpn_sentence": "母山羊が帰ってくると、こう言った。私のシャングール、私のマングール、お乳をあげますよ。", 
+            "roman_sentence": "mamanš ke myad myge šngwl mn mngwl mn bya bze myad ke šyr bde ."
+        }, 
+        {
+            "persian_sentence": " میگه که شنگول منگول گرگ اومده خورده وُ، اون شیر میخوره میگه تو باید بیای شیر تو بخور، من برم حسابِ گرگه را برسم.", 
+            "tokens": [
+                "myge", 
+                "ke", 
+                "šngwl", 
+                "mngwl", 
+                "grg", 
+                "awmde", 
+                "xwrde", 
+                "w", 
+                ",", 
+                "awn", 
+                "šyr", 
+                "myxwre", 
+                "myge", 
+                "tw", 
+                "bayd", 
+                "byay", 
+                "šyr", 
+                "tw", 
+                "bxwr", 
+                ",", 
+                "mn", 
+                "brm", 
+                "ħsab", 
+                "grge", 
+                "ra", 
+                "brsm", 
+                "."
+            ], 
+            "sentence_id": 4019, 
+            "jpn_sentence": "ゴル・ハルビーザクが言った。シャングールとマングールは、オオカミが来て食べられました。そして、（ゴル・ハルビーザクは）お乳を飲んだ。母山羊は言った。さあ、お飲み。私は、オオカミに仕返しに行って来ます。", 
+            "roman_sentence": "myge ke šngwl mngwl grg awmde xwrde w , awn šyr myxwre myge tw bayd byay šyr tw bxwr , mn brm ħsab grge ra brsm ."
+        }, 
+        {
+            "persian_sentence": " میاد و میره و، اول که میره میره پشتبوم خرسه، های میزنه لقد(۱) میزنه البته اینا رو آقاجان میگویه.", 
+            "tokens": [
+                "myad", 
+                "w", 
+                "myre", 
+                "w", 
+                ",", 
+                "awl", 
+                "ke", 
+                "myre", 
+                "myre", 
+                "pštbwm", 
+                "xrse", 
+                ",", 
+                "eay", 
+                "myzne", 
+                "lŕd", 
+                "(1)", 
+                "myzne", 
+                "albte", 
+                "ayna", 
+                "rw", 
+                "āŕajan", 
+                "mygwye", 
+                "."
+            ], 
+            "sentence_id": 4020, 
+            "jpn_sentence": "母山羊は、家を出て、最初に熊の家の屋根に登り、〈おじいさんに、こう聞いた。〉", 
+            "roman_sentence": "myad w myre w , awl ke myre myre pštbwm xrse , eay myzne lŕd (1) myzne albte ayna rw āŕajan mygwye ."
+        }, 
+        {
+            "persian_sentence": " های لقد میزنه لقد میزنه.", 
+            "tokens": [
+                "eay", 
+                "lŕd", 
+                "myzne", 
+                "lŕd", 
+                "myzne", 
+                "."
+            ], 
+            "sentence_id": 4021, 
+            "jpn_sentence": "屋根を蹴飛ばして飛び跳ねた。", 
+            "roman_sentence": "eay lŕd myzne lŕd myzne ."
+        }, 
+        {
+            "persian_sentence": " اون خرسه میگه کیه کیه تُپ تُپ میکنه آش ما رو شور میکنه، عروس ما رو کور میکنه، زن ما رو بی دندون میکنه.", 
+            "tokens": [
+                "awn", 
+                "xrse", 
+                "myge", 
+                "kye", 
+                "kye", 
+                "tp", 
+                "tp", 
+                "mykne", 
+                "āš", 
+                "ma", 
+                "rw", 
+                "šwr", 
+                "mykne", 
+                ",", 
+                "'rws", 
+                "ma", 
+                "rw", 
+                "kwr", 
+                "mykne", 
+                ",", 
+                "zn", 
+                "ma", 
+                "rw", 
+                "by", 
+                "dndwn", 
+                "mykne", 
+                "."
+            ], 
+            "sentence_id": 4022, 
+            "jpn_sentence": "すると、熊は言った。ドンドンと飛び跳ねているのは誰だ。スープがまずくなるではないか。花嫁の目が見えなくなるではないか。私の妻の歯がなくなるではないか。", 
+            "roman_sentence": "awn xrse myge kye kye tp tp mykne āš ma rw šwr mykne , 'rws ma rw kwr mykne , zn ma rw by dndwn mykne ."
+        }, 
+        {
+            "persian_sentence": " میگه منم منم بزبزا دو شاخ دارم در هوا، کی خورده شنگول من کی خورده منگول من کی فردا میاد به جنگ من.", 
+            "tokens": [
+                "myge", 
+                "mnm", 
+                "mnm", 
+                "bzbza", 
+                "dw", 
+                "šax", 
+                "darm", 
+                "dr", 
+                "ewa", 
+                ",", 
+                "ky", 
+                "xwrde", 
+                "šngwl", 
+                "mn", 
+                "ky", 
+                "xwrde", 
+                "mngwl", 
+                "mn", 
+                "ky", 
+                "frda", 
+                "myad", 
+                "be", 
+                "jng", 
+                "mn", 
+                "."
+            ], 
+            "sentence_id": 4023, 
+            "jpn_sentence": "すると、山羊は言った。私は山羊だ。二つの角が空に向かって生えている。私のシャングールを食べたのは誰だ。私のマングールを食べたのは誰だ。明日、私との決闘に来るのは誰だ。", 
+            "roman_sentence": "myge mnm mnm bzbza dw šax darm dr ewa , ky xwrde šngwl mn ky xwrde mngwl mn ky frda myad be jng mn ."
+        }, 
+        {
+            "persian_sentence": " میگه با الله نخوردم شنگول تو، بی الله نخوردم منگول تو، بی الله فردا نمیام به جنگ تو.", 
+            "tokens": [
+                "myge", 
+                "ba", 
+                "alle", 
+                "nxwrdm", 
+                "šngwl", 
+                "tw", 
+                ",", 
+                "by", 
+                "alle", 
+                "nxwrdm", 
+                "mngwl", 
+                "tw", 
+                ",", 
+                "by", 
+                "alle", 
+                "frda", 
+                "nmyam", 
+                "be", 
+                "jng", 
+                "tw", 
+                "."
+            ], 
+            "sentence_id": 4024, 
+            "jpn_sentence": "熊は言った。なんだって、私はシャングールを食べていないし、マングールも食べていない。だから、明日の決闘にも行かない。", 
+            "roman_sentence": "myge ba alle nxwrdm šngwl tw , by alle nxwrdm mngwl tw , by alle frda nmyam be jng tw ."
+        }, 
+        {
+            "persian_sentence": " از اینجا میره به پشتبوم گرگه.", 
+            "tokens": [
+                "az", 
+                "aynja", 
+                "myre", 
+                "be", 
+                "pštbwm", 
+                "grge", 
+                "."
+            ], 
+            "sentence_id": 4025, 
+            "jpn_sentence": "山羊は、次にオオカミの家の屋根に登った。", 
+            "roman_sentence": "az aynja myre be pštbwm grge ."
+        }, 
+        {
+            "persian_sentence": " اونجا هم های بنای میکنه پشتبومشنو لقد کردن.", 
+            "tokens": [
+                "awnja", 
+                "em", 
+                "eay", 
+                "bnay", 
+                "mykne", 
+                "pštbwmšnw", 
+                "lŕd", 
+                "krdn", 
+                "."
+            ], 
+            "sentence_id": 4026, 
+            "jpn_sentence": "そこでも屋根を蹴飛ばして飛び跳ねた。", 
+            "roman_sentence": "awnja em eay bnay mykne pštbwmšnw lŕd krdn ."
+        }, 
+        {
+            "persian_sentence": " میگه کیه کیه تُپ تُپ میکنه، آش ما رو شور میکنه، عروس ما رو کور میکنه، زن ما رو بی دندون میکنه.", 
+            "tokens": [
+                "myge", 
+                "kye", 
+                "kye", 
+                "tp", 
+                "tp", 
+                "mykne", 
+                ",", 
+                "āš", 
+                "ma", 
+                "rw", 
+                "šwr", 
+                "mykne", 
+                ",", 
+                "'rws", 
+                "ma", 
+                "rw", 
+                "kwr", 
+                "mykne", 
+                ",", 
+                "zn", 
+                "ma", 
+                "rw", 
+                "by", 
+                "dndwn", 
+                "mykne", 
+                "."
+            ], 
+            "sentence_id": 4027, 
+            "jpn_sentence": "するとオオカミが言った。ドンドンと飛び跳ねているのは誰だ。スープがまずくなるではないか。花嫁の目が見えなくなるではないか。私の妻の歯がなくなるではないか。", 
+            "roman_sentence": "myge kye kye tp tp mykne , āš ma rw šwr mykne , 'rws ma rw kwr mykne , zn ma rw by dndwn mykne ."
+        }, 
+        {
+            "persian_sentence": " میگه منم منم بزبزا دو شاخ دارم در هوا، کی خورده شنگول من کی خورده منگول من.", 
+            "tokens": [
+                "myge", 
+                "mnm", 
+                "mnm", 
+                "bzbza", 
+                "dw", 
+                "šax", 
+                "darm", 
+                "dr", 
+                "ewa", 
+                ",", 
+                "ky", 
+                "xwrde", 
+                "šngwl", 
+                "mn", 
+                "ky", 
+                "xwrde", 
+                "mngwl", 
+                "mn", 
+                "."
+            ], 
+            "sentence_id": 4028, 
+            "jpn_sentence": "山羊は言った。私は山羊だ。二つの角が空に向かって生えている。私のシャングールを食べたのは誰だ。私のマングールを食べたのは誰だ。", 
+            "roman_sentence": "myge mnm mnm bzbza dw šax darm dr ewa , ky xwrde šngwl mn ky xwrde mngwl mn ."
+        }, 
+        {
+            "persian_sentence": " میگه با الله خوردم شنگول تو بی الله خوردم منگول تو بی الله فردا میرم به جنگ تو.", 
+            "tokens": [
+                "myge", 
+                "ba", 
+                "alle", 
+                "xwrdm", 
+                "šngwl", 
+                "tw", 
+                "by", 
+                "alle", 
+                "xwrdm", 
+                "mngwl", 
+                "tw", 
+                "by", 
+                "alle", 
+                "frda", 
+                "myrm", 
+                "be", 
+                "jng", 
+                "tw", 
+                "."
+            ], 
+            "sentence_id": 4029, 
+            "jpn_sentence": "オオカミは言った。私がおまえのシャングールを食べた。私がおまえのマングールを食べた。明日にでも倒してやろう。", 
+            "roman_sentence": "myge ba alle xwrdm šngwl tw by alle xwrdm mngwl tw by alle frda myrm be jng tw ."
+        }, 
+        {
+            "persian_sentence": " میرن یک جا میدانی حسابی.", 
+            "tokens": [
+                "myrn", 
+                "yk", 
+                "ja", 
+                "mydany", 
+                "ħsaby", 
+                "."
+            ], 
+            "sentence_id": 4030, 
+            "jpn_sentence": "山羊とオオカミはちょうどいい広場で決着をつけることにした。", 
+            "roman_sentence": "myrn yk ja mydany ħsaby ."
+        }, 
+        {
+            "persian_sentence": " گرگه، میره هو بزه گرگه ر گول میزنه، میبره جلوی رودخونه جلوی آب.", 
+            "tokens": [
+                "grge", 
+                ",", 
+                "myre", 
+                "ew", 
+                "bze", 
+                "grge", 
+                "r", 
+                "gwl", 
+                "myzne", 
+                ",", 
+                "mybre", 
+                "jlwy", 
+                "rwdxwne", 
+                "jlwy", 
+                "āb", 
+                "."
+            ], 
+            "sentence_id": 4031, 
+            "jpn_sentence": "オオカミが出ていくと、山羊はオオカミを騙して、川の水の前へ連れていった。", 
+            "roman_sentence": "grge , myre ew bze grge r gwl myzne , mybre jlwy rwdxwne jlwy āb ."
+        }, 
+        {
+            "persian_sentence": " میگه حالا بشینیم آب بخوریم.", 
+            "tokens": [
+                "myge", 
+                "ħala", 
+                "bšynym", 
+                "āb", 
+                "bxwrym", 
+                "."
+            ], 
+            "sentence_id": 4032, 
+            "jpn_sentence": "そして言った。さあ、水を飲みましょう。", 
+            "roman_sentence": "myge ħala bšynym āb bxwrym ."
+        }, 
+        {
+            "persian_sentence": " گرگه لباش میذاره به آب هی میخوره قورت میده آب های رودخونه رو میخوره میمونه به بزه.", 
+            "tokens": [
+                "grge", 
+                "lbaš", 
+                "myđare", 
+                "be", 
+                "āb", 
+                "ey", 
+                "myxwre", 
+                "ŕwrt", 
+                "myde", 
+                "āb", 
+                "eay", 
+                "rwdxwne", 
+                "rw", 
+                "myxwre", 
+                "mymwne", 
+                "be", 
+                "bze", 
+                "."
+            ], 
+            "sentence_id": 4033, 
+            "jpn_sentence": "オオカミは、川に口をつけて水をゴクゴクと飲んだ。", 
+            "roman_sentence": "grge lbaš myđare be āb ey myxwre ŕwrt myde āb eay rwdxwne rw myxwre mymwne be bze ."
+        }, 
+        {
+            "persian_sentence": " بزه هم میره لباش و میذاره به آب و نمیخوره.", 
+            "tokens": [
+                "bze", 
+                "em", 
+                "myre", 
+                "lbaš", 
+                "w", 
+                "myđare", 
+                "be", 
+                "āb", 
+                "w", 
+                "nmyxwre", 
+                "."
+            ], 
+            "sentence_id": 4034, 
+            "jpn_sentence": "山羊は飲まなかった。", 
+            "roman_sentence": "bze em myre lbaš w myđare be āb w nmyxwre ."
+        }, 
+        {
+            "persian_sentence": " نمیخوره اون وقت میانو میرنو که برم با هم دیگه دعوا کنن.", 
+            "tokens": [
+                "nmyxwre", 
+                "awn", 
+                "wŕt", 
+                "myanw", 
+                "myrnw", 
+                "ke", 
+                "brm", 
+                "ba", 
+                "em", 
+                "dyge", 
+                "d'wa", 
+                "knn", 
+                "."
+            ], 
+            "sentence_id": 4035, 
+            "jpn_sentence": "川に口をつけたけれども水を飲まなかった。そして、一緒に決闘をしに向かった。", 
+            "roman_sentence": "nmyxwre awn wŕt myanw myrnw ke brm ba em dyge d'wa knn ."
+        }, 
+        {
+            "persian_sentence": " دعوا کنن این میره یک میدان دیگه وا میسته، این میدان دیگه مثل، مانند فوتبال.", 
+            "tokens": [
+                "d'wa", 
+                "knn", 
+                "ayn", 
+                "myre", 
+                "yk", 
+                "mydan", 
+                "dyge", 
+                "wa", 
+                "myste", 
+                ",", 
+                "ayn", 
+                "mydan", 
+                "dyge", 
+                "mçl", 
+                ",", 
+                "mannd", 
+                "fwtbal", 
+                "."
+            ], 
+            "sentence_id": 4036, 
+            "jpn_sentence": "ある広場で決闘をすることにした。フットボール場のような広場である。", 
+            "roman_sentence": "d'wa knn ayn myre yk mydan dyge wa myste , ayn mydan dyge mçl , mannd fwtbal ."
+        }, 
+        {
+            "persian_sentence": " گرگه میره عقب و عقب و میاد یک دفعه با شاخش میزنه تو شکم گرگو هو شنگول و منگول دوتای میان بیرون از شکمش.", 
+            "tokens": [
+                "grge", 
+                "myre", 
+                "'ŕb", 
+                "w", 
+                "'ŕb", 
+                "w", 
+                "myad", 
+                "yk", 
+                "df'e", 
+                "ba", 
+                "šaxš", 
+                "myzne", 
+                "tw", 
+                "škm", 
+                "grgw", 
+                "ew", 
+                "šngwl", 
+                "w", 
+                "mngwl", 
+                "dwtay", 
+                "myan", 
+                "byrwn", 
+                "az", 
+                "škmš", 
+                "."
+            ], 
+            "sentence_id": 4037, 
+            "jpn_sentence": "オオカミは後ろへ後ろへ下がった。山羊が角でオオカミの腹を突くと、シャングールとマングールがオオカミの腹から出てきた。", 
+            "roman_sentence": "grge myre 'ŕb w 'ŕb w myad yk df'e ba šaxš myzne tw škm grgw ew šngwl w mngwl dwtay myan byrwn az škmš ."
+        }, 
+        {
+            "persian_sentence": " میان بیرون و ور میدارم.", 
+            "tokens": [
+                "myan", 
+                "byrwn", 
+                "w", 
+                "wr", 
+                "mydarm", 
+                "."
+            ], 
+            "sentence_id": 4038, 
+            "jpn_sentence": "二人は外に出てきて、母山羊が掴んだ。", 
+            "roman_sentence": "myan byrwn w wr mydarm ."
+        }, 
+        {
+            "persian_sentence": " اون وقت میبره، دیگه گرگه هم میمیره دیگه.", 
+            "tokens": [
+                "awn", 
+                "wŕt", 
+                "mybre", 
+                ",", 
+                "dyge", 
+                "grge", 
+                "em", 
+                "mymyre", 
+                "dyge", 
+                "."
+            ], 
+            "sentence_id": 4039, 
+            "jpn_sentence": "そして、二人を連れて帰った。オオカミはといえば死んでしまった。", 
+            "roman_sentence": "awn wŕt mybre , dyge grge em mymyre dyge ."
+        }, 
+        {
+            "persian_sentence": " تمام شد.", 
+            "tokens": [
+                "tmam", 
+                "šd", 
+                "."
+            ], 
+            "sentence_id": 4040, 
+            "jpn_sentence": "おしまい。", 
+            "roman_sentence": "tmam šd ."
+        }, 
+        {
+            "persian_sentence": " قصۀ ما به سر رسید، کلاغه به خونه اش نرسید.", 
+            "tokens": [
+                "ŕşX", 
+                "ma", 
+                "be", 
+                "sr", 
+                "rsyd", 
+                ",", 
+                "klaqe", 
+                "be", 
+                "xwne", 
+                "aš", 
+                "nrsyd", 
+                "."
+            ], 
+            "sentence_id": 4041, 
+            "jpn_sentence": "お話は終わりです。カラスは家に帰らなかった。", 
+            "roman_sentence": "ŕşX ma be sr rsyd , klaqe be xwne aš nrsyd ."
+        }, 
+        {
+            "persian_sentence": " هاچین و واچین یه پاشو واچین.", 
+            "tokens": [
+                "eačyn", 
+                "w", 
+                "wačyn", 
+                "ye", 
+                "pašw", 
+                "wačyn", 
+                "."
+            ], 
+            "sentence_id": 4042, 
+            "jpn_sentence": "ハチーンノヴァチン、片足を曲げろ(1)。", 
+            "roman_sentence": "eačyn w wačyn ye pašw wačyn ."
+        }
+    ], 
+    "document_info_map": {
+        "document_AT_class": "AT123「狼と子山羊たち」", 
+        "document_time_duration": "03分26秒", 
+        "document_record_location_japanese": "テヘラン州サーヴォジボラーグ地方ハシトゲルド地区バラガーン村", 
+        "document_location_no": "004-008 ", 
+        "document_class": "動物寓話", 
+        "document_title_persian": "شنگول منگول", 
+        "document_title_japanese": "シャングール・マングール", 
+        "document_no": "4", 
+        "document_record_location_persian": "استان تهران، شهرستان ساوجبلاغ، شهر هشتگرد روستای برغان", 
+        "document_record_day": "1998年10月26日"
+    }, 
+    "motif_list": [
+        [
+            "K971", 
+            "The wolf comes in the absence of the mother and eats up the kids."
+        ], 
+        [
+            "K1832", 
+            "Disguise by changing voice."
+        ], 
+        [
+            "J144", 
+            "Well-trained kid does not open door to wolf."
+        ], 
+        [
+            "K1839.1", 
+            "Wolf puts flour on his paw to disguise himself ."
+        ], 
+        [
+            "K1832", 
+            "Disguise by changing voice."
+        ], 
+        [
+            "K1839.1", 
+            "Wolf puts flour on his paw to disguise himself ."
+        ], 
+        [
+            "K1832", 
+            "Disguise by changing voice."
+        ], 
+        [
+            "F931", 
+            "The old goat cuts the wolf open and rescues them."
+        ], 
+        [
+            "F913", 
+            "Victims rescued from swallower's belly."
+        ]
+    ]
+}

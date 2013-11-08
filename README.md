@@ -1,35 +1,19 @@
 performance_perlex
 ==================
 
-test_corpus テストコーパスの格納ディレクトリ  
-	|  
-	|--json json化したコーパスの格納場所  
-	|--json_after_conv_table 対応表パッチを当てた後のコーパス   
-	|--xml xml化したコーパスを保存しておくディレクトリ   
+* ./test_corpus/ テストコーパスの格納ディレクトリ　※詳細はtest_corpusのREADMEを見ること   
 
-conv_table_working_dir 修正中の対応表を一時的においておくディレクトリ  
+* ./scripts/ 使用するスクリプト群　※詳しくはscriptsのREADMEを見ること
 
-new_corpus_data 元々の対応表を置いておくディレクトリ  
+* conv_table_working_dir 修正中の対応表を一時的においておくディレクトリ  
 
-trunk perlexのデータ  
+* trunk perlexのデータ  
 
-lex_json json化したperlexのファイル  
+* lex_json json化したperlexのファイル  
 
-lex_json_experiment 実験用の小規模ファイル  
+* lex_json_experiment 実験用の小規模ファイル  
 
-taged.corpus perlexタグ付け後のコーパス  
-
-patch_converting_table.py 対応表パッチを当てるスクリプト  
-
-lex_to_json.py perlexディレクトリからjsonファイルを作成するスクリプト  
-
-tag_and_check_performance.py コーパスにperlex jsonのタグ付けを行うスクリプト 
-
-generate_xml.py	対応表パッチあて済みコーパスからxmlを生成するスクリプト  
-
-conv_to_annotation_format.py annotation用の様式に変換するスクリプト  
-
-annotation_format_validation.py annotationのtoken番号を修正して，タグが1tokenにひとつであることをチェックするスクリプト  
+* ./test_morph.py 形態素解析器としてのインターフェース
 
 ## 処理の流れ
 
@@ -48,5 +32,5 @@ taged.corpus
 conv_to_annotation_format.py  
 (generate_xml.pyで同時にxmlも生成できる) 
 	|  
-test_corpus/xml/
+test_corpus/
  
