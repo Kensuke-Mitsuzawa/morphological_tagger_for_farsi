@@ -84,11 +84,6 @@ def main():
     for line in lines_stack:
         out_f.write(line);
     out_f.close();
-    
 
 if __name__=='__main__':
     main();
-        
-    
-
-

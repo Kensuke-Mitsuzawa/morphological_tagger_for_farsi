@@ -30,7 +30,25 @@ tag_and_check_performance.py
 taged.corpus     
 	|  
 conv_to_annotation_format.py  
-(generate_xml.pyで同時にxmlも生成できる) 
 	|  
 test_corpus/
- 
+
+##アノテーション作業について
+Perlexが辞書的にタグ付けした候補のうち，もっとも適切な要素をひとつ選べばよい．  
+````
+#new sentence2001
+0@2001  yky|PROrecip|yky_____1|inv|inv
+
+1@2001  bwd|V|bwdn_____1|2*3sgPreterit|v25
+1@2001  bwd|V|bwdn_____1|infApocope|v25
+
+2@2001  yky|PROrecip|yky_____1|inv|inv
+
+3@2001  nbwd|V|bwdn_____1|3sgPreteritNeg|v25
+````
+要素は1tokenにひとつふられる．別のtokenとの境界は空白行によって区切られている．先頭の@は"token番号@文番号"を示している．
+
+### アノテーション作業時の正規化誤りを発見した場合
+対応表による正規化は不完全．なので，正規化の誤りがゴロゴロ見つかる可能性がある．
+そういう時は，annotationファイルを直接いじってかまわない．annotation_format_validation.pyがインデックスの調整を自動的にやってくれる．
+新しく挿入したい単語の形態素情報を調べるには，test_morph.pyを利用するとよい．
