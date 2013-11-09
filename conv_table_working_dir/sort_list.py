@@ -10,6 +10,7 @@ __date__='2013/11/09';
 import codecs, sys, argparse;
 parser=argparse.ArgumentParser();
 parser.add_argument('-i', '--inputfile', required=True);
+#store_trueオプションをつけると，フラッグを保存してくれる
 parser.add_argument('-r', '--reverse', default=False, action='store_true');
 args=parser.parse_args();
 
