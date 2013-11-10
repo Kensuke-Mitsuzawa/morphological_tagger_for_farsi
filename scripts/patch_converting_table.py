@@ -1,7 +1,7 @@
 #! /usr/bin/python
 #-*- coding:utf-8 -*-
 __version__='2';
-__date__='2013/10/30';
+__date__='2013/11/10';
 
 import codecs, re, json, os, sys;
 
@@ -65,7 +65,7 @@ for sentence in corpus['sentence_set_list']:
         sentence.setdefault(u'after_conv_tokens', replaced_tokens);
 
     else:
-        pass;
+        print u'There is no converting table for this document:{}'.format(sentence['sentence_id'])
 
 
 file_name=os.path.split(corpus_path)[-1];

@@ -4,7 +4,7 @@
 perlexの辞書ファイルから形態素辞書を生成するスクリプト
 """
 __author__='Kensuke Mitsuzawa';
-__date__='2013/11/09';
+__date__='2013/11/10';
 
 import re, os, codecs, sys, glob, json;
 
@@ -55,7 +55,8 @@ def load_lex_file(f, after_inf_dictionary):
             after_inf_dictionary.setdefault(after_inf_word, tags);
    
         #for V, delete ZWNJ and add to hash map
-        if re.findall(ur'_' , after_inf_word) and f=='./trunk/V.lex.fixed':
+        #ここ，パスが変わると，プログラムが意図した動きをしなくなるので，要注意
+        if re.search(ur'_' , after_inf_word) and f=='../trunk/V.lex':
             tags=[];
             after_inf_word=(after_inf_word.replace(u'_', u''))
             POS=items[2]
@@ -74,7 +75,7 @@ def main():
     dir_path='../trunk';
     after_inf_dictionary={};
     lex_files=get_files(dir_path);
-    #lex_files=['./trunk/ADV.lex'];
+    #lex_files=['../trunk/V.lex'];
     for f in lex_files:
         after_inf_dictionary=load_lex_file(f, after_inf_dictionary);
    
