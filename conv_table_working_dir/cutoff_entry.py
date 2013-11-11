@@ -34,55 +34,57 @@ def cutoff_entry_in_perlex(line, perlex_dic):
     #if not line[0]==u'!' or line[0]==u'#':
     try:
         line_items=line.strip(u'\n').split(u'\t');
-        before_column=line_items[1].strip();
-        after_column=line_items[2].strip();
-        
-        if before_column in perlex_dic:
-            matched_entries=perlex_dic[before_column];
-            lemma_match_flag=False;
-            #対応表の元の形がperlex辞書に存在し，その時のエントリのlemma項目も対応表の変換後の形と一致していたら，削除の対象とする
-            for each_entry in matched_entries:
-                lemma_in_perlex=re.sub(ur'(.*[^_])_*[1-9]', ur'\1', each_entry[2]);
-                lemma_in_perlex=lemma_in_perlex.strip(ur'___MTE')
-                if after_column==lemma_in_perlex:
-                    lemma_match_flag=True;
-                    if each_entry[1]=='V' and re.search(ur'my.+', before_column):
-                        correct_after_column=before_column.replace(u'my', u'my_');
-                        line_items[2]=correct_after_column;
-                        return line_items;
+        #このルールが有効なのは，口語と正規化後が一対一対応のときのみとする
+        if len(line_items)<=4:
+            before_column=line_items[1].strip();
+            after_column=line_items[2].strip();
+            
+            if before_column in perlex_dic:
+                matched_entries=perlex_dic[before_column];
+                lemma_match_flag=False;
+                #対応表の元の形がperlex辞書に存在し，その時のエントリのlemma項目も対応表の変換後の形と一致していたら，削除の対象とする
+                for each_entry in matched_entries:
+                    lemma_in_perlex=re.sub(ur'(.*[^_])_*[1-9]', ur'\1', each_entry[2]);
+                    lemma_in_perlex=lemma_in_perlex.strip(ur'___MTE')
+                    if after_column==lemma_in_perlex:
+                        lemma_match_flag=True;
+                        if each_entry[1]=='V' and re.search(ur'my.+', before_column):
+                            correct_after_column=before_column.replace(u'my', u'my_');
+                            line_items[2]=correct_after_column;
+                            return line_items;
 
-                    elif each_entry[1]=='V' and re.search(ur'nmy.+', before_column):
-                        correct_after_column=before_column.replace(u'nmy', u'nmy_');
-                        line_items[2]=correct_after_column;
-                        return line_items;
-                    
-                    else:
-                        return True;
-
+                        elif each_entry[1]=='V' and re.search(ur'nmy.+', before_column):
+                            correct_after_column=before_column.replace(u'nmy', u'nmy_');
+                            line_items[2]=correct_after_column;
+                            return line_items;
+                        
+                        else:
+                            return True;
+            else:
+                return False;
+        else:
+            return False;
     except IndexError:
         return False;
 
 def main():
+    filepath=sys.argv[1];
     perlex_path='../lex_json';
     perlex_dic=load_perlex(perlex_path)
     deleted_stack=[];
     remained_stack=[];
 
-    filepath=sys.argv[1];
     with codecs.open(filepath, 'r', 'utf-8') as lines:
         for line in lines:
-            #もし対応表の元と後が一緒でなかったら
-            if cutoff_same_entry(line)==False:
+            decision_result=cutoff_entry_in_perlex(line, perlex_dic);
+            #本当はこの実装は良くないんだけど．．．
+            if isinstance(decision_result, bool) and decision_result==False: 
                 remained_stack.append(line);
-                decision_result=cutoff_entry_in_perlex(line, perlex_dic);
-                #本当はこの実装は良くないんだけど．．．
-                if decision_result==False: 
-                    remained_stack.append(line);
-                elif isinstance(decision_result, list):
-                    remained_stack.append(u'\t'.join(decision_result));
-                #一応，削除した項目も記録しておく
-                else:
-                    deleted_stack.append(line);
+            elif isinstance(decision_result, list):
+                remained_stack.append(u'\t'.join(decision_result)+u'\n');
+            #もし対応表の元と後が一緒でなかったら
+            elif cutoff_same_entry(line)==False:
+                remained_stack.append(line);
             #一応，削除した項目も記録しておく
             else:
                 deleted_stack.append(line);

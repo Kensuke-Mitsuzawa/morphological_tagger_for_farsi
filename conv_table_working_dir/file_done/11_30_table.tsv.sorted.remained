@@ -1,3 +1,4 @@
+#作業終了日 2013/11/11
 11001	mlkmmdy	mlkmħmd	マレク・モハンマド（人名）
 11004	rwzeayy	rwz_eay	日
 11004	mlkmmd	mlkmħmd	マレク・モハンマド（人名）
@@ -3497,8 +3498,8 @@
 28086	mykrde	my_krde	（あることを）する
 28087	ayna	ayn	この
 28087	mnyzš	nyz	また	aw	三人称単数人称代名詞（彼、彼女）
-!辞書にも存在していない語なので処理せず
-!28087	mystadn	stadn	立つ
+#辞書にも存在していない語なので処理せず
+#28087	mystadn	stadn	立つ
 28088	ţwŕšw	ţwŕ	none	aw	三人称単数人称代名詞（彼、彼女）	em	・・もまた
 28088	āwyzwn	āwyzan	ぶら下がっている
 28088	myxwaste	my_xwastd	望む

@@ -409,6 +409,7 @@ slmna	100	ADV	[pred="slmna_____1",cat=ADV]	slmna_____1	Default		%default	inv
 sps	300	ADVcoord	[pred="sps_____1",cat=ADVcoord]	sps_____1	Default		%default	inv
 sranjam	300	ADV	[pred="sranjam_____1",cat=ADV]	sranjam_____1	Default		%default	inv
 ta	200	ADV	[pred="ta_____1",cat=ADV]	ta_____1	Default		%default	inv
+ta	0	CONJsubord	[pred="ta_____2",cat=CONJsubord]	ta_____2	Default		%default	inv
 ta ayn ke	100	CONJsubord	[pred="ta ayn ke_____1",cat=CONJsubord]	ta ayn ke_____1	Default		%default	inv
 ta aynke	100	CONJ	[pred="ta aynke_____1",cat=CONJ]	ta aynke_____1	Default		%default	inv
 ta jaay ke	100	CONJsubord	[pred="ta jaay ke_____1",cat=CONJsubord]	ta jaay ke_____1	Default		%default	inv

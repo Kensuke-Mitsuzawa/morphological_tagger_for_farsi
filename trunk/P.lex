@@ -33,6 +33,7 @@ azš	100	P	[pred="azš_____1",cat=P]	azš_____1	Default		%default	inv
 azţrf	110	P	[pred="azţrf___MTE__1",cat=P]	azţrf___MTE__1	Default		%default	inv
 azţryŕ	110	P	[pred="azţryŕ___MTE__1",cat=P]	azţryŕ___MTE__1	Default		%default	inv
 aţraf	300	P	[pred="aţraf_____1",cat=P]	aţraf_____1	Default		%default	inv
+b'd	0	P	[pred="b'd_____1",cat=PREP]	b'd_____1	Default		%default	inv
 b'd az	100	Pnp	[pred="b'd az_____1",cat=Pnp]	b'd az_____1	Default		%default	inv
 b'daz	110	P	[pred="b'daz___MTE__1",cat=P]	b'daz___MTE__1	Default		%default	inv
 b_	266	P	[pred="be_____1",cat=P]	be_____1	Default		%default	inv
