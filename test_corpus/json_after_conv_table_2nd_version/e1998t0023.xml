@@ -1,7 +1,7 @@
 {
     "sentence_set_list": [
         {
-            "persian_sentence": "یکی بود یکی نبود، زیر گنبد کبود.", 
+            "after_conv_sentence": "yky bwd yky nbwd , zyr gnbd kbwd .", 
             "tokens": [
                 "yky", 
                 "bwd", 
@@ -15,10 +15,22 @@
             ], 
             "sentence_id": 23001, 
             "jpn_sentence": "あったことか、なかったことか、群青の天蓋の下でのこと。", 
-            "roman_sentence": "yky bwd yky nbwd , zyr gnbd kbwd ."
+            "roman_sentence": "yky bwd yky nbwd , zyr gnbd kbwd .", 
+            "persian_sentence": "یکی بود یکی نبود، زیر گنبد کبود.", 
+            "after_conv_tokens": [
+                "yky", 
+                "bwd", 
+                "yky", 
+                "nbwd", 
+                ",", 
+                "zyr", 
+                "gnbd", 
+                "kbwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه مرد کچلی بود که با مادر پیرش زندگی میکرد.", 
+            "after_conv_sentence": " mrd kčly bwd ke ba madr  zndgy  .", 
             "tokens": [
                 "ye", 
                 "mrd", 
@@ -34,10 +46,21 @@
             ], 
             "sentence_id": 23002, 
             "jpn_sentence": "禿が老いた母親と一緒に住んでいた。", 
-            "roman_sentence": "ye mrd kčly bwd ke ba madr pyrš zndgy mykrd ."
+            "roman_sentence": "ye mrd kčly bwd ke ba madr pyrš zndgy mykrd .", 
+            "persian_sentence": " یه مرد کچلی بود که با مادر پیرش زندگی میکرد.", 
+            "after_conv_tokens": [
+                "mrd", 
+                "kčly", 
+                "bwd", 
+                "ke", 
+                "ba", 
+                "madr", 
+                "zndgy", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " روزگار اینا به سختی میگذشت.", 
+            "after_conv_sentence": "rwzgar  be sxty  .", 
             "tokens": [
                 "rwzgar", 
                 "ayna", 
@@ -48,10 +71,17 @@
             ], 
             "sentence_id": 23003, 
             "jpn_sentence": "苦労をして生活をしていた。", 
-            "roman_sentence": "rwzgar ayna be sxty mygđšt ."
+            "roman_sentence": "rwzgar ayna be sxty mygđšt .", 
+            "persian_sentence": " روزگار اینا به سختی میگذشت.", 
+            "after_conv_tokens": [
+                "rwzgar", 
+                "be", 
+                "sxty", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " مرد تصمیم میگیره که پرنده شکار کنه.", 
+            "after_conv_sentence": "mrd tşmym  ke prnde škar  .", 
             "tokens": [
                 "mrd", 
                 "tşmym", 
@@ -64,10 +94,19 @@
             ], 
             "sentence_id": 23004, 
             "jpn_sentence": "禿は鳥を狩ろうとした。", 
-            "roman_sentence": "mrd tşmym mygyre ke prnde škar kne ."
+            "roman_sentence": "mrd tşmym mygyre ke prnde škar kne .", 
+            "persian_sentence": " مرد تصمیم میگیره که پرنده شکار کنه.", 
+            "after_conv_tokens": [
+                "mrd", 
+                "tşmym", 
+                "ke", 
+                "prnde", 
+                "škar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه مقدار قیر می ریزه رو درخت خونش، تا پرنده ها را شکار کنه.", 
+            "after_conv_sentence": " mŕdar ŕyr my ryze rw drxt xane , ta prnde_ea ra škar  .", 
             "tokens": [
                 "ye", 
                 "mŕdar", 
@@ -88,10 +127,26 @@
             ], 
             "sentence_id": 23005, 
             "jpn_sentence": "少しのタールを家の木にかけて、鳥を狩ろうとした。", 
-            "roman_sentence": "ye mŕdar ŕyr my ryze rw drxt xwnš , ta prnde ea ra škar kne ."
+            "roman_sentence": "ye mŕdar ŕyr my ryze rw drxt xwnš , ta prnde ea ra škar kne .", 
+            "persian_sentence": " یه مقدار قیر می ریزه رو درخت خونش، تا پرنده ها را شکار کنه.", 
+            "after_conv_tokens": [
+                "mŕdar", 
+                "ŕyr", 
+                "my", 
+                "ryze", 
+                "rw", 
+                "drxt", 
+                "xane", 
+                ",", 
+                "ta", 
+                "prnde_ea", 
+                "ra", 
+                "škar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یک کلاغ میاد میشینه روی این درخت و به دام این مرد کچل می افته.", 
+            "after_conv_sentence": "yk klaq   rwy ayn drxt w be dam ayn mrd kčl my afte .", 
             "tokens": [
                 "yk", 
                 "klaq", 
@@ -112,10 +167,27 @@
             ], 
             "sentence_id": 23006, 
             "jpn_sentence": "すると一羽のカラスがやって来て、禿の真上の木の上で罠にかかった。", 
-            "roman_sentence": "yk klaq myad myšyne rwy ayn drxt w be dam ayn mrd kčl my afte ."
+            "roman_sentence": "yk klaq myad myšyne rwy ayn drxt w be dam ayn mrd kčl my afte .", 
+            "persian_sentence": " یک کلاغ میاد میشینه روی این درخت و به دام این مرد کچل می افته.", 
+            "after_conv_tokens": [
+                "yk", 
+                "klaq", 
+                "rwy", 
+                "ayn", 
+                "drxt", 
+                "w", 
+                "be", 
+                "dam", 
+                "ayn", 
+                "mrd", 
+                "kčl", 
+                "my", 
+                "afte", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " مرد میگیره کلاغ و میخواد سر ببره که از گوشتش استفاده کنه.", 
+            "after_conv_sentence": "mrd  klaq w  sr  ke az gwšt astfade  .", 
             "tokens": [
                 "mrd", 
                 "mygyre", 
@@ -133,10 +205,22 @@
             ], 
             "sentence_id": 23007, 
             "jpn_sentence": "禿はカラスを捕って頭を切って肉を利用しようと思った。", 
-            "roman_sentence": "mrd mygyre klaq w myxwad sr bbre ke az gwštš astfade kne ."
+            "roman_sentence": "mrd mygyre klaq w myxwad sr bbre ke az gwštš astfade kne .", 
+            "persian_sentence": " مرد میگیره کلاغ و میخواد سر ببره که از گوشتش استفاده کنه.", 
+            "after_conv_tokens": [
+                "mrd", 
+                "klaq", 
+                "w", 
+                "sr", 
+                "ke", 
+                "az", 
+                "gwšt", 
+                "astfade", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد کلاغ تقاضا میکنه که سه تا پرشو بکنن، نکشنش.", 
+            "after_conv_sentence": "b'd klaq tŕaźa  ke se ta pr aw  ,  .", 
             "tokens": [
                 "b'd", 
                 "klaq", 
@@ -153,10 +237,23 @@
             ], 
             "sentence_id": 23008, 
             "jpn_sentence": "ところが、カラスは、三本の羽を抜いて殺さないでくれと頼んだ。", 
-            "roman_sentence": "b'd klaq tŕaźa mykne ke se ta pršw bknn , nkšnš ."
+            "roman_sentence": "b'd klaq tŕaźa mykne ke se ta pršw bknn , nkšnš .", 
+            "persian_sentence": " بعد کلاغ تقاضا میکنه که سه تا پرشو بکنن، نکشنش.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "klaq", 
+                "tŕaźa", 
+                "ke", 
+                "se", 
+                "ta", 
+                "pr", 
+                "aw", 
+                ",", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " سه تا پرش بکنن، هر دفعه که تنگ دست شدن، هر آرزوی خواستن، یه پرشو به باد بدن هر آرزویی خواستن بر آورده میشه.", 
+            "after_conv_sentence": "se ta pr  , er df'e ke tng dst šdn , er āraz aw y xwastn ,  pr aw be bad  er āraz aw yy xwastn br āwrde  .", 
             "tokens": [
                 "se", 
                 "ta", 
@@ -193,10 +290,42 @@
             ], 
             "sentence_id": 23009, 
             "jpn_sentence": "貧しくなったり、願いがあったりするときは、羽を飛ばしてください。そうすれば、願いが叶うでしょう。", 
-            "roman_sentence": "se ta prš bknn , er df'e ke tng dst šdn , er āraz aw y xwastn , ye pršw be bad bdn er āraz aw yy xwastn br āwrde myše ."
+            "roman_sentence": "se ta prš bknn , er df'e ke tng dst šdn , er āraz aw y xwastn , ye pršw be bad bdn er āraz aw yy xwastn br āwrde myše .", 
+            "persian_sentence": " سه تا پرش بکنن، هر دفعه که تنگ دست شدن، هر آرزوی خواستن، یه پرشو به باد بدن هر آرزویی خواستن بر آورده میشه.", 
+            "after_conv_tokens": [
+                "se", 
+                "ta", 
+                "pr", 
+                ",", 
+                "er", 
+                "df'e", 
+                "ke", 
+                "tng", 
+                "dst", 
+                "šdn", 
+                ",", 
+                "er", 
+                "āraz", 
+                "aw", 
+                "y", 
+                "xwastn", 
+                ",", 
+                "pr", 
+                "aw", 
+                "be", 
+                "bad", 
+                "er", 
+                "āraz", 
+                "aw", 
+                "yy", 
+                "xwastn", 
+                "br", 
+                "āwrde", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " مادر پسرم قبول میکنه که پسرشم نصیحت می کنه که این کار بکنه.", 
+            "after_conv_sentence": "madr psr ŕbwl  ke pr aw nşyħt my kne ke ayn kar bkne .", 
             "tokens": [
                 "madr", 
                 "psrm", 
@@ -215,10 +344,27 @@
             ], 
             "sentence_id": 23010, 
             "jpn_sentence": "母親も息子がそうすることを認めた。", 
-            "roman_sentence": "madr psrm ŕbwl mykne ke psršm nşyħt my kne ke ayn kar bkne ."
+            "roman_sentence": "madr psrm ŕbwl mykne ke psršm nşyħt my kne ke ayn kar bkne .", 
+            "persian_sentence": " مادر پسرم قبول میکنه که پسرشم نصیحت می کنه که این کار بکنه.", 
+            "after_conv_tokens": [
+                "madr", 
+                "psr", 
+                "ŕbwl", 
+                "ke", 
+                "pr", 
+                "aw", 
+                "nşyħt", 
+                "my", 
+                "kne", 
+                "ke", 
+                "ayn", 
+                "kar", 
+                "bkne", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " سه تا پر میکنن و کلاغ و آزاد میکنن.", 
+            "after_conv_sentence": "se ta pr   klaq  āzad  .", 
             "tokens": [
                 "se", 
                 "ta", 
@@ -233,10 +379,19 @@
             ], 
             "sentence_id": 23011, 
             "jpn_sentence": "三本の羽を抜き、カラスを放してやった。", 
-            "roman_sentence": "se ta pr myknn w klaq w āzad myknn ."
+            "roman_sentence": "se ta pr myknn w klaq w āzad myknn .", 
+            "persian_sentence": " سه تا پر میکنن و کلاغ و آزاد میکنن.", 
+            "after_conv_tokens": [
+                "se", 
+                "ta", 
+                "pr", 
+                "klaq", 
+                "āzad", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " چند روز بعد، یکی از این پرا رو به باد میدن و خواهش میکنن که یه ظرفی، یه دیگی به اونا داده بشه که هر غذا میوه خوراکی خواستن توش ظاهر بشه.", 
+            "after_conv_sentence": "čnd z b'd , yky az ayn   be bad  w xwaeš  ke  ẓrfy ,   be  dade bše ke er qđa mywe xwraky xwastn tw ẓaer bše .", 
             "tokens": [
                 "čnd", 
                 "rwz", 
@@ -276,10 +431,40 @@
             ], 
             "sentence_id": 23012, 
             "jpn_sentence": "数日後、その羽の一枚を風に飛ばし、こうお願いした。皿をください。欲しいと思ったときに果物や食べ物が出てくる皿を。", 
-            "roman_sentence": "čnd rwz b'd , yky az ayn pra rw be bad mydn w xwaeš myknn ke ye ẓrfy , ye dygy be awna dade bše ke er qđa mywe xwraky xwastn twš ẓaer bše ."
+            "roman_sentence": "čnd rwz b'd , yky az ayn pra rw be bad mydn w xwaeš myknn ke ye ẓrfy , ye dygy be awna dade bše ke er qđa mywe xwraky xwastn twš ẓaer bše .", 
+            "persian_sentence": " چند روز بعد، یکی از این پرا رو به باد میدن و خواهش میکنن که یه ظرفی، یه دیگی به اونا داده بشه که هر غذا میوه خوراکی خواستن توش ظاهر بشه.", 
+            "after_conv_tokens": [
+                "čnd", 
+                "z", 
+                "b'd", 
+                ",", 
+                "yky", 
+                "az", 
+                "ayn", 
+                "be", 
+                "bad", 
+                "w", 
+                "xwaeš", 
+                "ke", 
+                "ẓrfy", 
+                ",", 
+                "be", 
+                "dade", 
+                "bše", 
+                "ke", 
+                "er", 
+                "qđa", 
+                "mywe", 
+                "xwraky", 
+                "xwastn", 
+                "tw", 
+                "ẓaer", 
+                "bše", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پرو به باد میدن و اون ظرف واسشون(۱) تهیه میشه.", 
+            "after_conv_sentence": "pr be bad  w  ẓrf bray (1) teye  .", 
             "tokens": [
                 "prw", 
                 "be", 
@@ -296,10 +481,22 @@
             ], 
             "sentence_id": 23013, 
             "jpn_sentence": "羽を風に飛ばすと、皿が用意された。", 
-            "roman_sentence": "prw be bad mydn w awn ẓrf wasšwn (1) teye myše ."
+            "roman_sentence": "prw be bad mydn w awn ẓrf wasšwn (1) teye myše .", 
+            "persian_sentence": " پرو به باد میدن و اون ظرف واسشون(۱) تهیه میشه.", 
+            "after_conv_tokens": [
+                "pr", 
+                "be", 
+                "bad", 
+                "w", 
+                "ẓrf", 
+                "bray", 
+                "(1)", 
+                "teye", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه مدت میگذره، اینا وضعشون رو به راه میشه.", 
+            "after_conv_sentence": " mdt  ,  wź' rw be rae  .", 
             "tokens": [
                 "ye", 
                 "mdt", 
@@ -315,10 +512,20 @@
             ], 
             "sentence_id": 23014, 
             "jpn_sentence": "しばらくして、暮らしは良くなってきた。", 
-            "roman_sentence": "ye mdt mygđre , ayna wź'šwn rw be rae myše ."
+            "roman_sentence": "ye mdt mygđre , ayna wź'šwn rw be rae myše .", 
+            "persian_sentence": " یه مدت میگذره، اینا وضعشون رو به راه میشه.", 
+            "after_conv_tokens": [
+                "mdt", 
+                ",", 
+                "wź'", 
+                "rw", 
+                "be", 
+                "rae", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد، پسر پیر زن میگه که حالا که ما وضعمون خوب شد بهتر فرمان دار رئیس اون شهر فرمان دار اون شهر را دعوت کنیم مهمونی بگیریم.", 
+            "after_conv_sentence": "b'd , psr pyr zn myge ke ħala ke ma wź' xwb šd be tw r frman dar   šer frman dar  šer ra d'wt knym  bgyrym .", 
             "tokens": [
                 "b'd", 
                 ",", 
@@ -354,10 +561,40 @@
             ], 
             "sentence_id": 23015, 
             "jpn_sentence": "老母は言った。さあ、私たちの暮らしは良くなった。この町の知事を招きましょう。", 
-            "roman_sentence": "b'd , psr pyr zn myge ke ħala ke ma wź'mwn xwb šd be tw r frman dar r´ys awn šer frman dar awn šer ra d'wt knym memwny bgyrym ."
+            "roman_sentence": "b'd , psr pyr zn myge ke ħala ke ma wź'mwn xwb šd be tw r frman dar r´ys awn šer frman dar awn šer ra d'wt knym memwny bgyrym .", 
+            "persian_sentence": " بعد، پسر پیر زن میگه که حالا که ما وضعمون خوب شد بهتر فرمان دار رئیس اون شهر فرمان دار اون شهر را دعوت کنیم مهمونی بگیریم.", 
+            "after_conv_tokens": [
+                "b'd", 
+                ",", 
+                "psr", 
+                "pyr", 
+                "zn", 
+                "myge", 
+                "ke", 
+                "ħala", 
+                "ke", 
+                "ma", 
+                "wź'", 
+                "xwb", 
+                "šd", 
+                "be", 
+                "tw", 
+                "r", 
+                "frman", 
+                "dar", 
+                "šer", 
+                "frman", 
+                "dar", 
+                "šer", 
+                "ra", 
+                "d'wt", 
+                "knym", 
+                "bgyrym", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینو دعوت میکنن و یه غذا و میوه و خوراک مفصل ازش پذیرایی می کنن.", 
+            "after_conv_sentence": "ayn d'wt  w  qđa w mywe w xwrak mfşl az aw  pđyrayy my knn .", 
             "tokens": [
                 "aynw", 
                 "d'wt", 
@@ -379,10 +616,28 @@
             ], 
             "sentence_id": 23016, 
             "jpn_sentence": "そして、知事たちを招き、豪華な果物や料理でもてなした。", 
-            "roman_sentence": "aynw d'wt myknn w ye qđa w mywe w xwrak mfşl az aw  pđyrayy my knn ."
+            "roman_sentence": "aynw d'wt myknn w ye qđa w mywe w xwrak mfşl az aw  pđyrayy my knn .", 
+            "persian_sentence": " اینو دعوت میکنن و یه غذا و میوه و خوراک مفصل ازش پذیرایی می کنن.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "d'wt", 
+                "w", 
+                "qđa", 
+                "w", 
+                "mywe", 
+                "w", 
+                "xwrak", 
+                "mfşl", 
+                "az", 
+                "aw", 
+                "pđyrayy", 
+                "my", 
+                "knn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " وقتیکه فرماندار میخواد بره، میپرسه که چه جوری شما این غذا را تهیه کردی؟", 
+            "after_conv_sentence": " frmandar   ,  ke  šma ayn qđa ra teye krdy ?", 
             "tokens": [
                 "wŕtyke", 
                 "frmandar", 
@@ -403,10 +658,23 @@
             ], 
             "sentence_id": 23017, 
             "jpn_sentence": "知事が帰りがけに尋ねた。どうやってこのような食事を用意したのですか。", 
-            "roman_sentence": "wŕtyke frmandar myxwad bre , myprse ke če jwry šma ayn qđa ra teye krdy ?"
+            "roman_sentence": "wŕtyke frmandar myxwad bre , myprse ke če jwry šma ayn qđa ra teye krdy ?", 
+            "persian_sentence": " وقتیکه فرماندار میخواد بره، میپرسه که چه جوری شما این غذا را تهیه کردی؟", 
+            "after_conv_tokens": [
+                "frmandar", 
+                ",", 
+                "ke", 
+                "šma", 
+                "ayn", 
+                "qđa", 
+                "ra", 
+                "teye", 
+                "krdy", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " به این خوشمزگی و اینا.", 
+            "after_conv_sentence": "be ayn  w  .", 
             "tokens": [
                 "be", 
                 "ayn", 
@@ -417,10 +685,17 @@
             ], 
             "sentence_id": 23018, 
             "jpn_sentence": "このような美味しい物を。", 
-            "roman_sentence": "be ayn xwšmzgy w ayna ."
+            "roman_sentence": "be ayn xwšmzgy w ayna .", 
+            "persian_sentence": " به این خوشمزگی و اینا.", 
+            "after_conv_tokens": [
+                "be", 
+                "ayn", 
+                "w", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پسر پیر زن جریان و واسش تعریف میکنه که به این صورت بود.", 
+            "after_conv_sentence": "psr pyr zn jryan  asš t'ryf  ke be ayn şrt bd .", 
             "tokens": [
                 "psr", 
                 "pyr", 
@@ -439,10 +714,25 @@
             ], 
             "sentence_id": 23019, 
             "jpn_sentence": "母親はこういうわけである。とわけを話した。", 
-            "roman_sentence": "psr pyr zn jryan w wasš t'ryf mykne ke be ayn şwrt bwd ."
+            "roman_sentence": "psr pyr zn jryan w wasš t'ryf mykne ke be ayn şwrt bwd .", 
+            "persian_sentence": " پسر پیر زن جریان و واسش تعریف میکنه که به این صورت بود.", 
+            "after_conv_tokens": [
+                "psr", 
+                "pyr", 
+                "zn", 
+                "jryan", 
+                "asš", 
+                "t'ryf", 
+                "ke", 
+                "be", 
+                "ayn", 
+                "şrt", 
+                "bd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " همون موقع فرماندار دستور میده که مردو بگیرن و دیگ و ازش بگیرن.", 
+            "after_conv_sentence": "emn mŕ' frmandar dstr  ke mrd   dyg  az a   .", 
             "tokens": [
                 "emwn", 
                 "mwŕ'", 
@@ -462,10 +752,23 @@
             ], 
             "sentence_id": 23020, 
             "jpn_sentence": "知事は、禿を捕まえて、皿（原文：鍋）を奪うように命じた。", 
-            "roman_sentence": "emwn mwŕ' frmandar dstwr myde ke mrdw bgyrn w dyg w az aw  bgyrn ."
+            "roman_sentence": "emwn mwŕ' frmandar dstwr myde ke mrdw bgyrn w dyg w az aw  bgyrn .", 
+            "persian_sentence": " همون موقع فرماندار دستور میده که مردو بگیرن و دیگ و ازش بگیرن.", 
+            "after_conv_tokens": [
+                "emn", 
+                "mŕ'", 
+                "frmandar", 
+                "dstr", 
+                "ke", 
+                "mrd", 
+                "dyg", 
+                "az", 
+                "a", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " همین کار و میکنن، یه مدت میگذاره، مجدداً وضع این پیر زن و پسر به تنگدستی می افته.", 
+            "after_conv_sentence": "emyn kar   ,  mdt  , mjdda ź' ayn pyr zn  psr be tngdsty my afte .", 
             "tokens": [
                 "emyn", 
                 "kar", 
@@ -491,10 +794,29 @@
             ], 
             "sentence_id": 23021, 
             "jpn_sentence": "手下たちはそのようにした。しばらくして、再び、親子は貧乏になった。", 
-            "roman_sentence": "emyn kar w myknn , ye mdt mygđare , mjdda wź' ayn pyr zn w psr be tngdsty my afte ."
+            "roman_sentence": "emyn kar w myknn , ye mdt mygđare , mjdda wź' ayn pyr zn w psr be tngdsty my afte .", 
+            "persian_sentence": " همین کار و میکنن، یه مدت میگذاره، مجدداً وضع این پیر زن و پسر به تنگدستی می افته.", 
+            "after_conv_tokens": [
+                "emyn", 
+                "kar", 
+                ",", 
+                "mdt", 
+                ",", 
+                "mjdda", 
+                "ź'", 
+                "ayn", 
+                "pyr", 
+                "zn", 
+                "psr", 
+                "be", 
+                "tngdsty", 
+                "my", 
+                "afte", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " مجدداً پسر میاد (یکی از) یه پر کلاغ دیگه میگیرد از مادرش.", 
+            "after_conv_sentence": "mjdda psr  (yky az)  pr klaq   az madr .", 
             "tokens": [
                 "mjdda", 
                 "psr", 
@@ -512,10 +834,22 @@
             ], 
             "sentence_id": 23022, 
             "jpn_sentence": "そして、（禿は）再びカラスの羽を一本、母親から受け取り、", 
-            "roman_sentence": "mjdda psr myad (yky az) ye pr klaq dyge mygyrd az madrš ."
+            "roman_sentence": "mjdda psr myad (yky az) ye pr klaq dyge mygyrd az madrš .", 
+            "persian_sentence": " مجدداً پسر میاد (یکی از) یه پر کلاغ دیگه میگیرد از مادرش.", 
+            "after_conv_tokens": [
+                "mjdda", 
+                "psr", 
+                "(yky", 
+                "az)", 
+                "pr", 
+                "klaq", 
+                "az", 
+                "madr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این و به باد میده، این دفعه تقاضا میکنه که یه الاغ ظاهر بشه که هر موقع که بهش گفتن هاش، خرجین اون پر از پول و طلا بشه.", 
+            "after_conv_sentence": "ayn  be bad  , ayn df'e tŕaźa  ke  alaq ẓaer  ke er mŕ' ke be a  gftn  ,  an pr az pl  ţla  .", 
             "tokens": [
                 "ayn", 
                 "w", 
@@ -553,10 +887,37 @@
             ], 
             "sentence_id": 23023, 
             "jpn_sentence": "風に飛ばした。今度は、ハーシュとかけ声をかけると鞍袋が金でいっぱいになるロバをくれるようにお願いした。", 
-            "roman_sentence": "ayn w be bad myde , ayn df'e tŕaźa mykne ke ye alaq ẓaer bše ke er mwŕ' ke be aw  gftn eaš , xrjyn awn pr az pwl w ţla bše ."
+            "roman_sentence": "ayn w be bad myde , ayn df'e tŕaźa mykne ke ye alaq ẓaer bše ke er mwŕ' ke be aw  gftn eaš , xrjyn awn pr az pwl w ţla bše .", 
+            "persian_sentence": " این و به باد میده، این دفعه تقاضا میکنه که یه الاغ ظاهر بشه که هر موقع که بهش گفتن هاش، خرجین اون پر از پول و طلا بشه.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "be", 
+                "bad", 
+                ",", 
+                "ayn", 
+                "df'e", 
+                "tŕaźa", 
+                "ke", 
+                "alaq", 
+                "ẓaer", 
+                "ke", 
+                "er", 
+                "mŕ'", 
+                "ke", 
+                "be", 
+                "a", 
+                "gftn", 
+                ",", 
+                "an", 
+                "pr", 
+                "az", 
+                "pl", 
+                "ţla", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پر و به باد میدن و همین طور میشه.", 
+            "after_conv_sentence": "pr  be bad   emyn ţr  .", 
             "tokens": [
                 "pr", 
                 "w", 
@@ -571,10 +932,19 @@
             ], 
             "sentence_id": 23024, 
             "jpn_sentence": "羽を飛ばすと、願いは叶った。", 
-            "roman_sentence": "pr w be bad mydn w emyn ţwr myše ."
+            "roman_sentence": "pr w be bad mydn w emyn ţwr myše .", 
+            "persian_sentence": " پر و به باد میدن و همین طور میشه.", 
+            "after_conv_tokens": [
+                "pr", 
+                "be", 
+                "bad", 
+                "emyn", 
+                "ţr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد از چند روز خوب وضع اینا خوب میشه، هر موقع خواهش میکردن پول و طلا و اینا دم دستشون بوده.", 
+            "after_conv_sentence": "b'd az čnd rz xb ź'  xb  , er mŕ' xaeš  pl  ţla   dm dstšn bde .", 
             "tokens": [
                 "b'd", 
                 "az", 
@@ -602,10 +972,30 @@
             ], 
             "sentence_id": 23025, 
             "jpn_sentence": "数日後、暮らしは良くなり、お願いをしたら金やお金が手に入った。", 
-            "roman_sentence": "b'd az čnd rwz xwb wź' ayna xwb myše , er mwŕ' xwaeš mykrdn pwl w ţla w ayna dm dstšwn bwde ."
+            "roman_sentence": "b'd az čnd rwz xwb wź' ayna xwb myše , er mwŕ' xwaeš mykrdn pwl w ţla w ayna dm dstšwn bwde .", 
+            "persian_sentence": " بعد از چند روز خوب وضع اینا خوب میشه، هر موقع خواهش میکردن پول و طلا و اینا دم دستشون بوده.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "az", 
+                "čnd", 
+                "rz", 
+                "xb", 
+                "ź'", 
+                "xb", 
+                ",", 
+                "er", 
+                "mŕ'", 
+                "xaeš", 
+                "pl", 
+                "ţla", 
+                "dm", 
+                "dstšn", 
+                "bde", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه روزی پسر مادرشو سوار الاغ میکنه، میبره حمام خودشم بره بازار خرید.", 
+            "after_conv_sentence": " rwzy psr madrs aw swar alaq  ,  ħmam xwd aw  bazar xryd .", 
             "tokens": [
                 "ye", 
                 "rwzy", 
@@ -625,10 +1015,26 @@
             ], 
             "sentence_id": 23026, 
             "jpn_sentence": "ある日、禿の息子は母親をロバに乗せてハンマームに行き、息子はバザールで買い物をした。", 
-            "roman_sentence": "ye rwzy psr madršw swar alaq mykne , mybre ħmam xwdšm bre bazar xryd ."
+            "roman_sentence": "ye rwzy psr madršw swar alaq mykne , mybre ħmam xwdšm bre bazar xryd .", 
+            "persian_sentence": " یه روزی پسر مادرشو سوار الاغ میکنه، میبره حمام خودشم بره بازار خرید.", 
+            "after_conv_tokens": [
+                "rwzy", 
+                "psr", 
+                "madrs", 
+                "aw", 
+                "swar", 
+                "alaq", 
+                ",", 
+                "ħmam", 
+                "xwd", 
+                "aw", 
+                "bazar", 
+                "xryd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " الاغو به حمامی میسپاره.", 
+            "after_conv_sentence": " be ħmamy  .", 
             "tokens": [
                 "alaqw", 
                 "be", 
@@ -638,10 +1044,16 @@
             ], 
             "sentence_id": 23027, 
             "jpn_sentence": "ロバを風呂屋に託して、", 
-            "roman_sentence": "alaqw be ħmamy myspare ."
+            "roman_sentence": "alaqw be ħmamy myspare .", 
+            "persian_sentence": " الاغو به حمامی میسپاره.", 
+            "after_conv_tokens": [
+                "be", 
+                "ħmamy", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگه فقط به این کلمه هاش رو نگو.", 
+            "after_conv_sentence": " fŕţ be ayn klme   ngw .", 
             "tokens": [
                 "myge", 
                 "fŕţ", 
@@ -655,10 +1067,19 @@
             ], 
             "sentence_id": 23028, 
             "jpn_sentence": "ハーシュとだけは言ってはいけないと伝えた。", 
-            "roman_sentence": "myge fŕţ be ayn klme eaš rw ngw ."
+            "roman_sentence": "myge fŕţ be ayn klme eaš rw ngw .", 
+            "persian_sentence": " میگه فقط به این کلمه هاش رو نگو.", 
+            "after_conv_tokens": [
+                "fŕţ", 
+                "be", 
+                "ayn", 
+                "klme", 
+                "ngw", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " تحویلش میده و میره به بازار.", 
+            "after_conv_sentence": "tħwyl  w  be bazar .", 
             "tokens": [
                 "tħwylš", 
                 "myde", 
@@ -670,10 +1091,18 @@
             ], 
             "sentence_id": 23029, 
             "jpn_sentence": "そして、ロバを渡してバザールへ行った。", 
-            "roman_sentence": "tħwylš myde w myre be bazar ."
+            "roman_sentence": "tħwylš myde w myre be bazar .", 
+            "persian_sentence": " تحویلش میده و میره به بازار.", 
+            "after_conv_tokens": [
+                "tħwyl", 
+                "w", 
+                "be", 
+                "bazar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " حمامی مشکوک میشه (یعنی چی کلمه اش) میگه که چرا این گفته این کلمه رو نگو.", 
+            "after_conv_sentence": "ħmamy mškwk  (y'ny  klme)  ke čra ayn gfte ayn klme  ngw .", 
             "tokens": [
                 "ħmamy", 
                 "mškwk", 
@@ -695,10 +1124,25 @@
             ], 
             "sentence_id": 23030, 
             "jpn_sentence": "風呂屋は、どうしてその言葉を言ってはならないのか不思議に思った。", 
-            "roman_sentence": "ħmamy mškwk myše (y'ny čy klme aš) myge ke čra ayn gfte ayn klme rw ngw ."
+            "roman_sentence": "ħmamy mškwk myše (y'ny čy klme aš) myge ke čra ayn gfte ayn klme rw ngw .", 
+            "persian_sentence": " حمامی مشکوک میشه (یعنی چی کلمه اش) میگه که چرا این گفته این کلمه رو نگو.", 
+            "after_conv_tokens": [
+                "ħmamy", 
+                "mškwk", 
+                "(y'ny", 
+                "klme)", 
+                "ke", 
+                "čra", 
+                "ayn", 
+                "gfte", 
+                "ayn", 
+                "klme", 
+                "ngw", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد، وقتیکه مرد میره بازار خرید این میگه هاش میبینه خرجین الاغ پر از طلا و پول شد.", 
+            "after_conv_sentence": "b'd ,  mrd  bazar xryd ayn     alaq pr az ţla w pwl šd .", 
             "tokens": [
                 "b'd", 
                 ",", 
@@ -723,10 +1167,27 @@
             ], 
             "sentence_id": 23031, 
             "jpn_sentence": "そこで、禿がバザールで買い物をしている間に、ハーシュと言うと、ロバの鞍袋は金やお金でいっぱいになっていた。", 
-            "roman_sentence": "b'd , wŕtyke mrd myre bazar xryd ayn myge eaš mybyne xrjyn alaq pr az ţla w pwl šd ."
+            "roman_sentence": "b'd , wŕtyke mrd myre bazar xryd ayn myge eaš mybyne xrjyn alaq pr az ţla w pwl šd .", 
+            "persian_sentence": " بعد، وقتیکه مرد میره بازار خرید این میگه هاش میبینه خرجین الاغ پر از طلا و پول شد.", 
+            "after_conv_tokens": [
+                "b'd", 
+                ",", 
+                "mrd", 
+                "bazar", 
+                "xryd", 
+                "ayn", 
+                "alaq", 
+                "pr", 
+                "az", 
+                "ţla", 
+                "w", 
+                "pwl", 
+                "šd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " به همین حاطر الاغ رو میبره یه الاغ شبیه اون میاره میذاره اینجا.", 
+            "after_conv_sentence": "be emyn ħaţr alaq    alaq šb    aynja .", 
             "tokens": [
                 "be", 
                 "emyn", 
@@ -745,10 +1206,21 @@
             ], 
             "sentence_id": 23032, 
             "jpn_sentence": "そこで、風呂屋はそのロバを奪い、よく似た別のロバを代わりに置いておいた。", 
-            "roman_sentence": "be emyn ħaţr alaq rw mybre ye alaq šbye awn myare myđare aynja ."
+            "roman_sentence": "be emyn ħaţr alaq rw mybre ye alaq šbye awn myare myđare aynja .", 
+            "persian_sentence": " به همین حاطر الاغ رو میبره یه الاغ شبیه اون میاره میذاره اینجا.", 
+            "after_conv_tokens": [
+                "be", 
+                "emyn", 
+                "ħaţr", 
+                "alaq", 
+                "alaq", 
+                "šb", 
+                "aynja", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد از این که پسره از بازار میاد مادرش هم از حمام میاره، سوار میکنه میبره خونه.", 
+            "after_conv_sentence": "b'd az ayn ke  az bazar  madr em az ħmam  , swar    .", 
             "tokens": [
                 "b'd", 
                 "az", 
@@ -772,10 +1244,26 @@
             ], 
             "sentence_id": 23033, 
             "jpn_sentence": "息子がバザールから帰ってきて、母親もハンマームから出てきて、ロバに乗って帰った。", 
-            "roman_sentence": "b'd az ayn ke psre az bazar myad madrš em az ħmam myare , swar mykne mybre xwne ."
+            "roman_sentence": "b'd az ayn ke psre az bazar myad madrš em az ħmam myare , swar mykne mybre xwne .", 
+            "persian_sentence": " بعد از این که پسره از بازار میاد مادرش هم از حمام میاره، سوار میکنه میبره خونه.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "az", 
+                "ayn", 
+                "ke", 
+                "az", 
+                "bazar", 
+                "madr", 
+                "em", 
+                "az", 
+                "ħmam", 
+                ",", 
+                "swar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " نگاه خوب که دقت میکنه میبینه اِ الاغش عوض شده.", 
+            "after_conv_sentence": "nge xwb ke dŕt    lqš 'wź šde .", 
             "tokens": [
                 "ngae", 
                 "xwb", 
@@ -791,10 +1279,21 @@
             ], 
             "sentence_id": 23034, 
             "jpn_sentence": "ところが、よく見ると、ロバは代わっていた。", 
-            "roman_sentence": "ngae xwb ke dŕt mykne mybyne a alaqš 'wź šde ."
+            "roman_sentence": "ngae xwb ke dŕt mykne mybyne a alaqš 'wź šde .", 
+            "persian_sentence": " نگاه خوب که دقت میکنه میبینه اِ الاغش عوض شده.", 
+            "after_conv_tokens": [
+                "nge", 
+                "xwb", 
+                "ke", 
+                "dŕt", 
+                "lqš", 
+                "'wź", 
+                "šde", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میره از حمامی الاغش و پس بگیره.", 
+            "after_conv_sentence": " az ħmamy alaq  ps  .", 
             "tokens": [
                 "myre", 
                 "az", 
@@ -807,10 +1306,18 @@
             ], 
             "sentence_id": 23035, 
             "jpn_sentence": "風呂屋から取り戻そうとしたが、", 
-            "roman_sentence": "myre az ħmamy alaqš w ps bgyre ."
+            "roman_sentence": "myre az ħmamy alaqš w ps bgyre .", 
+            "persian_sentence": " میره از حمامی الاغش و پس بگیره.", 
+            "after_conv_tokens": [
+                "az", 
+                "ħmamy", 
+                "alaq", 
+                "ps", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " (کارشون) حمامی پس نمیده و کارشون به دادگاه می کشه.", 
+            "after_conv_sentence": "(kar) ħmamy ps  w kar be dadgae my kše .", 
             "tokens": [
                 "(karšwn)", 
                 "ħmamy", 
@@ -826,10 +1333,23 @@
             ], 
             "sentence_id": 23036, 
             "jpn_sentence": "風呂屋は逆に判事に訴えた。", 
-            "roman_sentence": "(karšwn) ħmamy ps nmyde w karšwn be dadgae my kše ."
+            "roman_sentence": "(karšwn) ħmamy ps nmyde w karšwn be dadgae my kše .", 
+            "persian_sentence": " (کارشون) حمامی پس نمیده و کارشون به دادگاه می کشه.", 
+            "after_conv_tokens": [
+                "(kar)", 
+                "ħmamy", 
+                "ps", 
+                "w", 
+                "kar", 
+                "be", 
+                "dadgae", 
+                "my", 
+                "kše", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " از طرفی چون حمامی شناخته شده تر بود و معتمدتر بود توی شهر، قاضی حکم و به نفع به (سود) حمامی میده.", 
+            "after_conv_sentence": "az ţrfy čn ħmamy šnaxte  bd  m'tmdtr bd ty šer , ŕaźy ħkm  be nf' be (sd) ħmamy  .", 
             "tokens": [
                 "az", 
                 "ţrfy", 
@@ -858,10 +1378,32 @@
             ], 
             "sentence_id": 23037, 
             "jpn_sentence": "風呂屋の方が町では良く知られていたし、信頼もされていたので、判事も風呂屋の言い分の方を聞いた。", 
-            "roman_sentence": "az ţrfy čwn ħmamy šnaxte šde tr bwd w m'tmdtr bwd twy šer , ŕaźy ħkm w be nf' be (swd) ħmamy myde ."
+            "roman_sentence": "az ţrfy čwn ħmamy šnaxte šde tr bwd w m'tmdtr bwd twy šer , ŕaźy ħkm w be nf' be (swd) ħmamy myde .", 
+            "persian_sentence": " از طرفی چون حمامی شناخته شده تر بود و معتمدتر بود توی شهر، قاضی حکم و به نفع به (سود) حمامی میده.", 
+            "after_conv_tokens": [
+                "az", 
+                "ţrfy", 
+                "čn", 
+                "ħmamy", 
+                "šnaxte", 
+                "bd", 
+                "m'tmdtr", 
+                "bd", 
+                "ty", 
+                "šer", 
+                ",", 
+                "ŕaźy", 
+                "ħkm", 
+                "be", 
+                "nf'", 
+                "be", 
+                "(sd)", 
+                "ħmamy", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این دست از پا درازتر بر میگرده خونه.", 
+            "after_conv_sentence": "ayn dst az pa draz tw r br   .", 
             "tokens": [
                 "ayn", 
                 "dst", 
@@ -877,10 +1419,22 @@
             ], 
             "sentence_id": 23038, 
             "jpn_sentence": "禿はトボトボと家に帰ってきた。", 
-            "roman_sentence": "ayn dst az pa draz tw r br mygrde xwne ."
+            "roman_sentence": "ayn dst az pa draz tw r br mygrde xwne .", 
+            "persian_sentence": " این دست از پا درازتر بر میگرده خونه.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "dst", 
+                "az", 
+                "pa", 
+                "draz", 
+                "tw", 
+                "r", 
+                "br", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میخواسته پر سوم و بباد بده و یه تقاضای دیگه کنه مادرش جلوش میگیره.", 
+            "after_conv_sentence": "myxaste pr sm  be bde   tŕaźay   madr jlš  .", 
             "tokens": [
                 "myxwaste", 
                 "pr", 
@@ -900,10 +1454,22 @@
             ], 
             "sentence_id": 23039, 
             "jpn_sentence": "そして、三つ目の羽を風に飛ばしてお願いをしようとした。母親が出てきて", 
-            "roman_sentence": "myxwaste pr swm w bbad bde w ye tŕaźay dyge kne madrš jlwš mygyre ."
+            "roman_sentence": "myxwaste pr swm w bbad bde w ye tŕaźay dyge kne madrš jlwš mygyre .", 
+            "persian_sentence": " میخواسته پر سوم و بباد بده و یه تقاضای دیگه کنه مادرش جلوش میگیره.", 
+            "after_conv_tokens": [
+                "myxaste", 
+                "pr", 
+                "sm", 
+                "be", 
+                "bde", 
+                "tŕaźay", 
+                "madr", 
+                "jlš", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگه اندفعه بذار من این تقاضا رو بکنم.", 
+            "after_conv_sentence": " ān bđar mn ayn tŕaźa  bknm .", 
             "tokens": [
                 "myge", 
                 "andf'e", 
@@ -917,10 +1483,20 @@
             ], 
             "sentence_id": 23040, 
             "jpn_sentence": "言った。今回は、私がお願いをしてみよう。", 
-            "roman_sentence": "myge andf'e bđar mn ayn tŕaźa rw bknm ."
+            "roman_sentence": "myge andf'e bđar mn ayn tŕaźa rw bknm .", 
+            "persian_sentence": " میگه اندفعه بذار من این تقاضا رو بکنم.", 
+            "after_conv_tokens": [
+                "ān", 
+                "bđar", 
+                "mn", 
+                "ayn", 
+                "tŕaźa", 
+                "bknm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میره و پر به باد میده تقاضا یه مِرکوب میکنه که هر موقع بهش گفتن بکوب هر که جلوش بود بزنه.", 
+            "after_conv_sentence": " w pr be bad  tŕaźa    ke er mwŕ' be aw  gftn  er ke jlw bwd  .", 
             "tokens": [
                 "myre", 
                 "w", 
@@ -948,10 +1524,29 @@
             ], 
             "sentence_id": 23041, 
             "jpn_sentence": "さあ、羽を飛ばしなさい。そして、殴れと言うと、前にいる者たちを殴るこん棒が手にはいるようにお願いした。", 
-            "roman_sentence": "myre w pr be bad myde tŕaźa ye mrkwb mykne ke er mwŕ' be aw  gftn bkwb er ke jlwš bwd bzne ."
+            "roman_sentence": "myre w pr be bad myde tŕaźa ye mrkwb mykne ke er mwŕ' be aw  gftn bkwb er ke jlwš bwd bzne .", 
+            "persian_sentence": " میره و پر به باد میده تقاضا یه مِرکوب میکنه که هر موقع بهش گفتن بکوب هر که جلوش بود بزنه.", 
+            "after_conv_tokens": [
+                "w", 
+                "pr", 
+                "be", 
+                "bad", 
+                "tŕaźa", 
+                "ke", 
+                "er", 
+                "mwŕ'", 
+                "be", 
+                "aw", 
+                "gftn", 
+                "er", 
+                "ke", 
+                "jlw", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " تقاضا میکنه و مرکوب تهیه میشه و میره دم حمامی رو، میره دم خونه حمامی بهش میگه که الاغ ما رو پس بده.", 
+            "after_conv_sentence": "tŕaźa  w  teye  w  dm ħmamy  ,  dm  ħmamy be aw   ke alaq ma  ps bde .", 
             "tokens": [
                 "tŕaźa", 
                 "mykne", 
@@ -982,10 +1577,30 @@
             ], 
             "sentence_id": 23042, 
             "jpn_sentence": "お願いするとこん棒が手に入った。母親は、風呂屋に行って、こう言った。さあ、我々のロバを返せ。", 
-            "roman_sentence": "tŕaźa mykne w mrkwb teye myše w myre dm ħmamy rw , myre dm xwne ħmamy be aw  myge ke alaq ma rw ps bde ."
+            "roman_sentence": "tŕaźa mykne w mrkwb teye myše w myre dm ħmamy rw , myre dm xwne ħmamy be aw  myge ke alaq ma rw ps bde .", 
+            "persian_sentence": " تقاضا میکنه و مرکوب تهیه میشه و میره دم حمامی رو، میره دم خونه حمامی بهش میگه که الاغ ما رو پس بده.", 
+            "after_conv_tokens": [
+                "tŕaźa", 
+                "w", 
+                "teye", 
+                "w", 
+                "dm", 
+                "ħmamy", 
+                ",", 
+                "dm", 
+                "ħmamy", 
+                "be", 
+                "aw", 
+                "ke", 
+                "alaq", 
+                "ma", 
+                "ps", 
+                "bde", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " قبول نمی کنه بعد پیر زن میگه مرکوب بکوب!", 
+            "after_conv_sentence": "ŕbwl nmy kne b'd pyr zn    !", 
             "tokens": [
                 "ŕbwl", 
                 "nmy", 
@@ -1000,10 +1615,20 @@
             ], 
             "sentence_id": 23043, 
             "jpn_sentence": "風呂屋が渡さないので、母親が言った。こん棒よ、殴れ。", 
-            "roman_sentence": "ŕbwl nmy kne b'd pyr zn myge mrkwb bkwb !"
+            "roman_sentence": "ŕbwl nmy kne b'd pyr zn myge mrkwb bkwb !", 
+            "persian_sentence": " قبول نمی کنه بعد پیر زن میگه مرکوب بکوب!", 
+            "after_conv_tokens": [
+                "ŕbwl", 
+                "nmy", 
+                "kne", 
+                "b'd", 
+                "pyr", 
+                "zn", 
+                "!"
+            ]
         }, 
         {
-            "persian_sentence": " مرکوبم یه چیز مثل چکشه.", 
+            "after_conv_sentence": "mrkwb  čyz mçl  .", 
             "tokens": [
                 "mrkwbm", 
                 "ye", 
@@ -1014,10 +1639,17 @@
             ], 
             "sentence_id": 23044, 
             "jpn_sentence": "こん棒は、ハンマーのような形をしているのだが、", 
-            "roman_sentence": "mrkwbm ye čyz mçl čkše ."
+            "roman_sentence": "mrkwbm ye čyz mçl čkše .", 
+            "persian_sentence": " مرکوبم یه چیز مثل چکشه.", 
+            "after_conv_tokens": [
+                "mrkwb", 
+                "čyz", 
+                "mçl", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " چکش یا همون مرکوب می افته به جون حمامی و شروع میکنه زدن.", 
+            "after_conv_sentence": "čkš ya emwn  my afte be  ħmamy w šrw'  zdn .", 
             "tokens": [
                 "čkš", 
                 "ya", 
@@ -1036,10 +1668,24 @@
             ], 
             "sentence_id": 23045, 
             "jpn_sentence": "風呂屋の方へ向かっていき、殴り始めた。", 
-            "roman_sentence": "čkš ya emwn mrkwb my afte be jwn ħmamy w šrw' mykne zdn ."
+            "roman_sentence": "čkš ya emwn mrkwb my afte be jwn ħmamy w šrw' mykne zdn .", 
+            "persian_sentence": " چکش یا همون مرکوب می افته به جون حمامی و شروع میکنه زدن.", 
+            "after_conv_tokens": [
+                "čkš", 
+                "ya", 
+                "emwn", 
+                "my", 
+                "afte", 
+                "be", 
+                "ħmamy", 
+                "w", 
+                "šrw'", 
+                "zdn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دیگه داشته حمامی تلف میشده که میگه صبر کن، الاغ تو پس میدم الاغ و پس میگیره سوار الاغ میشه پیر زن میره دم کاخ فرمانداری.", 
+            "after_conv_sentence": " dašte ħmamy tlf  ke  şbr  , alaq t ps  alaq  ps  sar alaq  pyr zn  dm kax  .", 
             "tokens": [
                 "dyge", 
                 "dašte", 
@@ -1072,10 +1718,31 @@
             ], 
             "sentence_id": 23046, 
             "jpn_sentence": "風呂屋は降参して、待て、ロバを渡す。と言った。老母はロバに乗って、今度は知事の城へ向かった。", 
-            "roman_sentence": "dyge dašte ħmamy tlf myšde ke myge şbr kn , alaq tw ps mydm alaq w ps mygyre swar alaq myše pyr zn myre dm kax frmandary ."
+            "roman_sentence": "dyge dašte ħmamy tlf myšde ke myge şbr kn , alaq tw ps mydm alaq w ps mygyre swar alaq myše pyr zn myre dm kax frmandary .", 
+            "persian_sentence": " دیگه داشته حمامی تلف میشده که میگه صبر کن، الاغ تو پس میدم الاغ و پس میگیره سوار الاغ میشه پیر زن میره دم کاخ فرمانداری.", 
+            "after_conv_tokens": [
+                "dašte", 
+                "ħmamy", 
+                "tlf", 
+                "ke", 
+                "şbr", 
+                ",", 
+                "alaq", 
+                "t", 
+                "ps", 
+                "alaq", 
+                "ps", 
+                "sar", 
+                "alaq", 
+                "pyr", 
+                "zn", 
+                "dm", 
+                "kax", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میرسه اونجا به محافظه میگه که من اون دیگچه ام میخوام، اون دیگم و میخوام، پس بگیرم.", 
+            "after_conv_sentence": " anja be   ke mn an   myx , an dyg  myx , ps bgyrm .", 
             "tokens": [
                 "myrse", 
                 "awnja", 
@@ -1100,10 +1767,27 @@
             ], 
             "sentence_id": 23047, 
             "jpn_sentence": "そこに着くと、番人に言った。例の皿（原文：鍋）がほしい。受け取りにきた。", 
-            "roman_sentence": "myrse awnja be mħafẓe myge ke mn awn dygče am myxwam , awn dygm w myxwam , ps bgyrm ."
+            "roman_sentence": "myrse awnja be mħafẓe myge ke mn awn dygče am myxwam , awn dygm w myxwam , ps bgyrm .", 
+            "persian_sentence": " میرسه اونجا به محافظه میگه که من اون دیگچه ام میخوام، اون دیگم و میخوام، پس بگیرم.", 
+            "after_conv_tokens": [
+                "anja", 
+                "be", 
+                "ke", 
+                "mn", 
+                "an", 
+                "myx", 
+                ",", 
+                "an", 
+                "dyg", 
+                "myx", 
+                ",", 
+                "ps", 
+                "bgyrm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " محافظه به فرماندار میرسونه که یه پیر زنی اومده همچی تقاضایی میکنه.", 
+            "after_conv_sentence": " be frmandar  ke  pyr zny   tŕaźayy  .", 
             "tokens": [
                 "mħafẓe", 
                 "be", 
@@ -1121,10 +1805,20 @@
             ], 
             "sentence_id": 23048, 
             "jpn_sentence": "番人は、知事に、老婆がやって来てそういう要求をしていることを報告した。", 
-            "roman_sentence": "mħafẓe be frmandar myrswne ke ye pyr zny awmde emčy tŕaźayy mykne ."
+            "roman_sentence": "mħafẓe be frmandar myrswne ke ye pyr zny awmde emčy tŕaźayy mykne .", 
+            "persian_sentence": " محافظه به فرماندار میرسونه که یه پیر زنی اومده همچی تقاضایی میکنه.", 
+            "after_conv_tokens": [
+                "be", 
+                "frmandar", 
+                "ke", 
+                "pyr", 
+                "zny", 
+                "tŕaźayy", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگه دستگیرش کنید زندانش کنید.", 
+            "after_conv_sentence": " dstgyr knyd zndan knyd .", 
             "tokens": [
                 "myge", 
                 "dstgyrš", 
@@ -1135,10 +1829,18 @@
             ], 
             "sentence_id": 23049, 
             "jpn_sentence": "知事は老婆を捕まえようとした。", 
-            "roman_sentence": "myge dstgyrš knyd zndanš knyd ."
+            "roman_sentence": "myge dstgyrš knyd zndanš knyd .", 
+            "persian_sentence": " میگه دستگیرش کنید زندانش کنید.", 
+            "after_conv_tokens": [
+                "dstgyr", 
+                "knyd", 
+                "zndan", 
+                "knyd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " تا میان دستگیر کنن باز پیرزن میگه که مرکوب بکوب.", 
+            "after_conv_sentence": "ta myan dstgyr  baz pyrzn  ke   .", 
             "tokens": [
                 "ta", 
                 "myan", 
@@ -1154,10 +1856,20 @@
             ], 
             "sentence_id": 23050, 
             "jpn_sentence": "しかし、老婆がこん棒よ、殴れ。と言うと、", 
-            "roman_sentence": "ta myan dstgyr knn baz pyrzn myge ke mrkwb bkwb ."
+            "roman_sentence": "ta myan dstgyr knn baz pyrzn myge ke mrkwb bkwb .", 
+            "persian_sentence": " تا میان دستگیر کنن باز پیرزن میگه که مرکوب بکوب.", 
+            "after_conv_tokens": [
+                "ta", 
+                "myan", 
+                "dstgyr", 
+                "baz", 
+                "pyrzn", 
+                "ke", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اون چکش دوباره به طرف همین محافظین میره و همه رو میزنه و دست و پاشون و میشکنه و میره سراغ فرماندار که دیگچش و بگیره.", 
+            "after_conv_sentence": "an čkš dbare be ţrf emyn    eme    dst  pašn      frmandar ke dygče   .", 
             "tokens": [
                 "awn", 
                 "čkš", 
@@ -1189,10 +1901,26 @@
             ], 
             "sentence_id": 23051, 
             "jpn_sentence": "ハンマーのようなこん棒は再び番人たちに向かっていき、全員の手足を殴り倒した。そして、（老婆は）皿（原文：鍋）を取り戻そうと知事を探した。", 
-            "roman_sentence": "awn čkš dwbare be ţrf emyn mħafẓyn myre w eme rw myzne w dst w pašwn w myškne w myre sraq frmandar ke dygčš w bgyre ."
+            "roman_sentence": "awn čkš dwbare be ţrf emyn mħafẓyn myre w eme rw myzne w dst w pašwn w myškne w myre sraq frmandar ke dygčš w bgyre .", 
+            "persian_sentence": " اون چکش دوباره به طرف همین محافظین میره و همه رو میزنه و دست و پاشون و میشکنه و میره سراغ فرماندار که دیگچش و بگیره.", 
+            "after_conv_tokens": [
+                "an", 
+                "čkš", 
+                "dbare", 
+                "be", 
+                "ţrf", 
+                "emyn", 
+                "eme", 
+                "dst", 
+                "pašn", 
+                "frmandar", 
+                "ke", 
+                "dygče", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " وقتیکه فرماندار موضوع رو میبینه میترسه.", 
+            "after_conv_sentence": " frmandar mwźw'    .", 
             "tokens": [
                 "wŕtyke", 
                 "frmandar", 
@@ -1204,10 +1932,16 @@
             ], 
             "sentence_id": 23052, 
             "jpn_sentence": "知事は、その状況を見て、怖くなり、", 
-            "roman_sentence": "wŕtyke frmandar mwźw' rw mybyne mytrse ."
+            "roman_sentence": "wŕtyke frmandar mwźw' rw mybyne mytrse .", 
+            "persian_sentence": " وقتیکه فرماندار موضوع رو میبینه میترسه.", 
+            "after_conv_tokens": [
+                "frmandar", 
+                "mwźw'", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دیگچه رو تحویلش میده پیر زنم الاغ و با دیگ و تحویل میگیره میاد میده به پسرش.", 
+            "after_conv_sentence": "  tħylš  pyr zn alaq  ba dyg  tħyl    be psr .", 
             "tokens": [
                 "dygče", 
                 "rw", 
@@ -1230,10 +1964,23 @@
             ], 
             "sentence_id": 23053, 
             "jpn_sentence": "皿（原文：鍋）を渡した。老婆は、皿（原文：鍋）もロバも取り返し、息子のために持って帰った。", 
-            "roman_sentence": "dygče rw tħwylš myde pyr znm alaq w ba dyg w tħwyl mygyre myad myde be psrš ."
+            "roman_sentence": "dygče rw tħwylš myde pyr znm alaq w ba dyg w tħwyl mygyre myad myde be psrš .", 
+            "persian_sentence": " دیگچه رو تحویلش میده پیر زنم الاغ و با دیگ و تحویل میگیره میاد میده به پسرش.", 
+            "after_conv_tokens": [
+                "tħylš", 
+                "pyr", 
+                "zn", 
+                "alaq", 
+                "ba", 
+                "dyg", 
+                "tħyl", 
+                "be", 
+                "psr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه دستم گل یه دستم نرگس، داغت و نبینم هرگز.", 
+            "after_conv_sentence": " dst gl  dst nrgs , daq   ergz .", 
             "tokens": [
                 "ye", 
                 "dstm", 
@@ -1250,7 +1997,18 @@
             ], 
             "sentence_id": 23054, 
             "jpn_sentence": "片手に薔薇、もう片手に百合、あなたに悲しみはないでしょう。", 
-            "roman_sentence": "ye dstm gl ye dstm nrgs , daqt w nbynm ergz ."
+            "roman_sentence": "ye dstm gl ye dstm nrgs , daqt w nbynm ergz .", 
+            "persian_sentence": " یه دستم گل یه دستم نرگس، داغت و نبینم هرگز.", 
+            "after_conv_tokens": [
+                "dst", 
+                "gl", 
+                "dst", 
+                "nrgs", 
+                ",", 
+                "daq", 
+                "ergz", 
+                "."
+            ]
         }
     ], 
     "document_info_map": {

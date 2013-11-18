@@ -1,7 +1,7 @@
 {
     "sentence_set_list": [
         {
-            "persian_sentence": "دو تا خواهر بودن.", 
+            "after_conv_sentence": "dw ta xwaer bwdn .", 
             "tokens": [
                 "dw", 
                 "ta", 
@@ -11,10 +11,18 @@
             ], 
             "sentence_id": 30001, 
             "jpn_sentence": "二人の姉妹がいた。", 
-            "roman_sentence": "dw ta xwaer bwdn ."
+            "roman_sentence": "dw ta xwaer bwdn .", 
+            "persian_sentence": "دو تا خواهر بودن.", 
+            "after_conv_tokens": [
+                "dw", 
+                "ta", 
+                "xwaer", 
+                "bwdn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یکیشون مثل تهران بود، یکیشون مثل اینجا.", 
+            "after_conv_sentence": "yky mçl teran bwd , yky mçl aynja .", 
             "tokens": [
                 "ykyšwn", 
                 "mçl", 
@@ -28,10 +36,22 @@
             ], 
             "sentence_id": 30002, 
             "jpn_sentence": "一人はテヘランぐらいのところにいて、もう一人はここぐらいのところにいた(1)。", 
-            "roman_sentence": "ykyšwn mçl teran bwd , ykyšwn mçl aynja ."
+            "roman_sentence": "ykyšwn mçl teran bwd , ykyšwn mçl aynja .", 
+            "persian_sentence": " یکیشون مثل تهران بود، یکیشون مثل اینجا.", 
+            "after_conv_tokens": [
+                "yky", 
+                "mçl", 
+                "teran", 
+                "bwd", 
+                ",", 
+                "yky", 
+                "mçl", 
+                "aynja", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یعنی تو دو تا دهات.", 
+            "after_conv_sentence": "y'ny tw dw ta  .", 
             "tokens": [
                 "y'ny", 
                 "tw", 
@@ -42,10 +62,18 @@
             ], 
             "sentence_id": 30003, 
             "jpn_sentence": "つまり、別々の村に住んでいた。", 
-            "roman_sentence": "y'ny tw dw ta deat ."
+            "roman_sentence": "y'ny tw dw ta deat .", 
+            "persian_sentence": " یعنی تو دو تا دهات.", 
+            "after_conv_tokens": [
+                "y'ny", 
+                "tw", 
+                "dw", 
+                "ta", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینا یکیشون بچه نداشت، یکیشون دو تا دختر داشت.", 
+            "after_conv_sentence": " yky bče ndašt , yky dw ta dxtr dašt .", 
             "tokens": [
                 "ayna", 
                 "ykyšwn", 
@@ -61,10 +89,23 @@
             ], 
             "sentence_id": 30004, 
             "jpn_sentence": "片方には子供がいなかった。もう一方は、二人の娘がいた。", 
-            "roman_sentence": "ayna ykyšwn bče ndašt , ykyšwn dw ta dxtr dašt ."
+            "roman_sentence": "ayna ykyšwn bče ndašt , ykyšwn dw ta dxtr dašt .", 
+            "persian_sentence": " اینا یکیشون بچه نداشت، یکیشون دو تا دختر داشت.", 
+            "after_conv_tokens": [
+                "yky", 
+                "bče", 
+                "ndašt", 
+                ",", 
+                "yky", 
+                "dw", 
+                "ta", 
+                "dxtr", 
+                "dašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این دوتا دخترا به مادرشون گفتن ما امروز میخوایم بریم به خونۀ خالمون.", 
+            "after_conv_sentence": "ayn  dxtw ra  be madr gftn ma amrwz   be xwnX xalmwn .", 
             "tokens": [
                 "ayn", 
                 "dwta", 
@@ -84,10 +125,25 @@
             ], 
             "sentence_id": 30005, 
             "jpn_sentence": "この二人の娘が母親に言った。今日、おばさんのところに遊びに行きたいです。", 
-            "roman_sentence": "ayn dwta dxtw ra  be madršwn gftn ma amrwz myxwaym brym be xwnX xalmwn ."
+            "roman_sentence": "ayn dwta dxtw ra  be madršwn gftn ma amrwz myxwaym brym be xwnX xalmwn .", 
+            "persian_sentence": " این دوتا دخترا به مادرشون گفتن ما امروز میخوایم بریم به خونۀ خالمون.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "dxtw", 
+                "ra", 
+                "be", 
+                "madr", 
+                "gftn", 
+                "ma", 
+                "amrwz", 
+                "be", 
+                "xwnX", 
+                "xalmwn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفته بود چجوری میره(۱)، راه دوره و یه دریای وسط و.", 
+            "after_conv_sentence": "gfte bwd čjwry  (1) , rae dwre w   wsţ w .", 
             "tokens": [
                 "gfte", 
                 "bwd", 
@@ -106,10 +162,24 @@
             ], 
             "sentence_id": 30006, 
             "jpn_sentence": "母親はかねてから、どうやっていくのかと言っていた。なぜなら、遠いし、間には川があったからである。", 
-            "roman_sentence": "gfte bwd čjwry myre (1) , rae dwre w ye dryay wsţ w ."
+            "roman_sentence": "gfte bwd čjwry myre (1) , rae dwre w ye dryay wsţ w .", 
+            "persian_sentence": " گفته بود چجوری میره(۱)، راه دوره و یه دریای وسط و.", 
+            "after_conv_tokens": [
+                "gfte", 
+                "bwd", 
+                "čjwry", 
+                "(1)", 
+                ",", 
+                "rae", 
+                "dwre", 
+                "w", 
+                "wsţ", 
+                "w", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفته بود [گفتند هر طوری] باشه میریم.", 
+            "after_conv_sentence": "gfte bwd [gftnd er ţwry] baše  .", 
             "tokens": [
                 "gfte", 
                 "bwd", 
@@ -122,10 +192,20 @@
             ], 
             "sentence_id": 30007, 
             "jpn_sentence": "しかし、娘たちはどうしても行きたいと言っていた。", 
-            "roman_sentence": "gfte bwd [gftnd er ţwry] baše myrym ."
+            "roman_sentence": "gfte bwd [gftnd er ţwry] baše myrym .", 
+            "persian_sentence": " گفته بود [گفتند هر طوری] باشه میریم.", 
+            "after_conv_tokens": [
+                "gfte", 
+                "bwd", 
+                "[gftnd", 
+                "er", 
+                "ţwry]", 
+                "baše", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این دو تا خواهر میان و میرسن به همون دریا.", 
+            "after_conv_sentence": "ayn dw ta xwaer  w  be  drya .", 
             "tokens": [
                 "ayn", 
                 "dw", 
@@ -141,10 +221,21 @@
             ], 
             "sentence_id": 30008, 
             "jpn_sentence": "この二人姉妹はこの川にたどり着いた。", 
-            "roman_sentence": "ayn dw ta xwaer myan w myrsn be emwn drya ."
+            "roman_sentence": "ayn dw ta xwaer myan w myrsn be emwn drya .", 
+            "persian_sentence": " این دو تا خواهر میان و میرسن به همون دریا.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "dw", 
+                "ta", 
+                "xwaer", 
+                "w", 
+                "be", 
+                "drya", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " وقتی میریسن به دریا میبینند یه عربی داره اونجا گوسفند میچرونه.", 
+            "after_conv_sentence": "wŕty  be drya   'rby   gwsfnd  .", 
             "tokens": [
                 "wŕty", 
                 "myrysn", 
@@ -161,10 +252,19 @@
             ], 
             "sentence_id": 30009, 
             "jpn_sentence": "川に着いたとき、一人のアラビア人が羊を放牧していた。", 
-            "roman_sentence": "wŕty myrysn be drya mybynnd ye 'rby dare awnja gwsfnd myčrwne ."
+            "roman_sentence": "wŕty myrysn be drya mybynnd ye 'rby dare awnja gwsfnd myčrwne .", 
+            "persian_sentence": " وقتی میریسن به دریا میبینند یه عربی داره اونجا گوسفند میچرونه.", 
+            "after_conv_tokens": [
+                "wŕty", 
+                "be", 
+                "drya", 
+                "'rby", 
+                "gwsfnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگه که ای دختر شما از این دریا نمیتونین رد شین.", 
+            "after_conv_sentence": " ke ay dxtr šma az ayn drya  rd  .", 
             "tokens": [
                 "myge", 
                 "ke", 
@@ -181,10 +281,22 @@
             ], 
             "sentence_id": 30010, 
             "jpn_sentence": "このアラビア人は言った。おまえたちはこの川を渡れないだろう。", 
-            "roman_sentence": "myge ke ay dxtr šma az ayn drya nmytwnyn rd šyn ."
+            "roman_sentence": "myge ke ay dxtr šma az ayn drya nmytwnyn rd šyn .", 
+            "persian_sentence": " میگه که ای دختر شما از این دریا نمیتونین رد شین.", 
+            "after_conv_tokens": [
+                "ke", 
+                "ay", 
+                "dxtr", 
+                "šma", 
+                "az", 
+                "ayn", 
+                "drya", 
+                "rd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " من یک دونه [تون] به عقد خودم در میارم.", 
+            "after_conv_sentence": "mn yk  [] be  xwdm dr myarm .", 
             "tokens": [
                 "mn", 
                 "yk", 
@@ -199,10 +311,21 @@
             ], 
             "sentence_id": 30011, 
             "jpn_sentence": "私と結婚してくれた方を", 
-            "roman_sentence": "mn yk dwne [twn] be 'ŕd xwdm dr myarm ."
+            "roman_sentence": "mn yk dwne [twn] be 'ŕd xwdm dr myarm .", 
+            "persian_sentence": " من یک دونه [تون] به عقد خودم در میارم.", 
+            "after_conv_tokens": [
+                "mn", 
+                "yk", 
+                "[]", 
+                "be", 
+                "xwdm", 
+                "dr", 
+                "myarm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و بعد ا این دریا [را] رد تون میکنم.", 
+            "after_conv_sentence": "w b'd  yn dry [r] rd twn  .", 
             "tokens": [
                 "w", 
                 "b'd", 
@@ -217,10 +340,21 @@
             ], 
             "sentence_id": 30012, 
             "jpn_sentence": "渡してやろう。", 
-            "roman_sentence": "w b'd a ayn drya [ra] rd twn myknm ."
+            "roman_sentence": "w b'd a ayn drya [ra] rd twn myknm .", 
+            "persian_sentence": " و بعد ا این دریا [را] رد تون میکنم.", 
+            "after_conv_tokens": [
+                "w", 
+                "b'd", 
+                "yn", 
+                "dry", 
+                "[r]", 
+                "rd", 
+                "twn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اون دختر بزرگه میگه باشه، اون خواهر کوچکه میگه نه.", 
+            "after_conv_sentence": " dxtr   baše ,  xwaer   ne .", 
             "tokens": [
                 "awn", 
                 "dxtr", 
@@ -237,10 +371,19 @@
             ], 
             "sentence_id": 30013, 
             "jpn_sentence": "姉妹の姉はいいですよ。と言ったが、妹はいやです。", 
-            "roman_sentence": "awn dxtr bzrge myge baše , awn xwaer kwčke myge ne ."
+            "roman_sentence": "awn dxtr bzrge myge baše , awn xwaer kwčke myge ne .", 
+            "persian_sentence": " اون دختر بزرگه میگه باشه، اون خواهر کوچکه میگه نه.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "baše", 
+                ",", 
+                "xwaer", 
+                "ne", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " من اگه شده باشه غرقم که بشم میزنم به دریا رد میشم.", 
+            "after_conv_sentence": "mn  šde baše qrŕm ke bšm  be drya rd  .", 
             "tokens": [
                 "mn", 
                 "age", 
@@ -258,10 +401,23 @@
             ], 
             "sentence_id": 30014, 
             "jpn_sentence": "たとえおぼれたとしても自分で渡ります。と言った。", 
-            "roman_sentence": "mn age šde baše qrŕm ke bšm myznm be drya rd myšm ."
+            "roman_sentence": "mn age šde baše qrŕm ke bšm myznm be drya rd myšm .", 
+            "persian_sentence": " من اگه شده باشه غرقم که بشم میزنم به دریا رد میشم.", 
+            "after_conv_tokens": [
+                "mn", 
+                "šde", 
+                "baše", 
+                "qrŕm", 
+                "ke", 
+                "bšm", 
+                "be", 
+                "drya", 
+                "rd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " خلاصه این دختر (کوچکه)، بزرگه کول این عربه میشه، میره اون بر دریا.", 
+            "after_conv_sentence": "xlaşe ayn dxtr () ,  kwl ayn   ,   br drya .", 
             "tokens": [
                 "xlaşe", 
                 "ayn", 
@@ -282,10 +438,24 @@
             ], 
             "sentence_id": 30015, 
             "jpn_sentence": "結局、この姉はアラビア人の肩に乗って、川を渡った。", 
-            "roman_sentence": "xlaşe ayn dxtr (kwčke) , bzrge kwl ayn 'rbe myše , myre awn br drya ."
+            "roman_sentence": "xlaşe ayn dxtr (kwčke) , bzrge kwl ayn 'rbe myše , myre awn br drya .", 
+            "persian_sentence": " خلاصه این دختر (کوچکه)، بزرگه کول این عربه میشه، میره اون بر دریا.", 
+            "after_conv_tokens": [
+                "xlaşe", 
+                "ayn", 
+                "dxtr", 
+                "()", 
+                ",", 
+                "kwl", 
+                "ayn", 
+                ",", 
+                "br", 
+                "drya", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد وقتیکه اینا میرن اون بر دریا خواهر کوچکه (بزرگه) به عربه میگه خوب اگه [خواهرم] بره به خونه، منه ر لو میده به پدرم وقتی بگه من و میکشه.", 
+            "after_conv_sentence": "b'd ŕtyke  myn an b dya xae kčke (bzge) be 'be  xb  [xaem] be be xne ,   l  be pdm ŕty  mn   .", 
             "tokens": [
                 "b'd", 
                 "wŕtyke", 
@@ -322,10 +492,36 @@
             ], 
             "sentence_id": 30016, 
             "jpn_sentence": "川を渡りきったとき、姉はアラビア人に言った。もし、妹が家に帰って、父親にこのことをばらすと私は殺されます。", 
-            "roman_sentence": "b'd wŕtyke ayna myrn awn br drya xwaer kwčke (bzrge) be 'rbe myge xwb age [xwaerm] bre be xwne , mne r lw myde be pdrm wŕty bge mn w mykše ."
+            "roman_sentence": "b'd wŕtyke ayna myrn awn br drya xwaer kwčke (bzrge) be 'rbe myge xwb age [xwaerm] bre be xwne , mne r lw myde be pdrm wŕty bge mn w mykše .", 
+            "persian_sentence": " بعد وقتیکه اینا میرن اون بر دریا خواهر کوچکه (بزرگه) به عربه میگه خوب اگه [خواهرم] بره به خونه، منه ر لو میده به پدرم وقتی بگه من و میکشه.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "ŕtyke", 
+                "myn", 
+                "an", 
+                "b", 
+                "dya", 
+                "xae", 
+                "kčke", 
+                "(bzge)", 
+                "be", 
+                "'be", 
+                "xb", 
+                "[xaem]", 
+                "be", 
+                "be", 
+                "xne", 
+                ",", 
+                "l", 
+                "be", 
+                "pdm", 
+                "ŕty", 
+                "mn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگه که خوب همینجا سرش رومیبریم.", 
+            "after_conv_sentence": " ke xwb emynja srš rwmybrym .", 
             "tokens": [
                 "myge", 
                 "ke", 
@@ -337,10 +533,19 @@
             ], 
             "sentence_id": 30017, 
             "jpn_sentence": "アラビア人は言った。それなら、ここでおまえの妹の首を斬ろう。", 
-            "roman_sentence": "myge ke xwb emynja srš rwmybrym ."
+            "roman_sentence": "myge ke xwb emynja srš rwmybrym .", 
+            "persian_sentence": " میگه که خوب همینجا سرش رومیبریم.", 
+            "after_conv_tokens": [
+                "ke", 
+                "xwb", 
+                "emynja", 
+                "srš", 
+                "rwmybrym", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینا زیر اون درخت میخوابن خوابشون که میره این عرب بلند میشه با اون خواهر بزرگه سر خواهر کوچکه را اونجا میبرن.", 
+            "after_conv_sentence": "ayna zyr  drxt  xwabšwn ke  ayn  blnd  ba  xwaer  sr xwaer  ra   .", 
             "tokens": [
                 "ayna", 
                 "zyr", 
@@ -368,10 +573,26 @@
             ], 
             "sentence_id": 30018, 
             "jpn_sentence": "三人は木の下で眠り、妹が眠ると、アラビア人は起きあがり、姉と一緒に妹の頭を斬った。", 
-            "roman_sentence": "ayna zyr awn drxt myxwabn xwabšwn ke myre ayn 'rb blnd myše ba awn xwaer bzrge sr xwaer kwčke ra awnja mybrn ."
+            "roman_sentence": "ayna zyr awn drxt myxwabn xwabšwn ke myre ayn 'rb blnd myše ba awn xwaer bzrge sr xwaer kwčke ra awnja mybrn .", 
+            "persian_sentence": " اینا زیر اون درخت میخوابن خوابشون که میره این عرب بلند میشه با اون خواهر بزرگه سر خواهر کوچکه را اونجا میبرن.", 
+            "after_conv_tokens": [
+                "ayna", 
+                "zyr", 
+                "drxt", 
+                "xwabšwn", 
+                "ke", 
+                "ayn", 
+                "blnd", 
+                "ba", 
+                "xwaer", 
+                "sr", 
+                "xwaer", 
+                "ra", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میبرند از خون این میریزه اونجا بغل نی یه نی بلندی سبز میشه و بعد چند وقت دیگه دختر که میاد، پدره میگه پ(۲) اون خواهرت کو؟", 
+            "after_conv_sentence": " az xwn ayn   bql ny  ny blndy sbz  w b'd čnd wŕt  dxtr ke  , dre   (2)  xwaert kw ?", 
             "tokens": [
                 "mybrnd", 
                 "az", 
@@ -406,10 +627,33 @@
             ], 
             "sentence_id": 30019, 
             "jpn_sentence": "斬った時の血が近くに流れ、そこに長い緑の葦が生えてきた。しばらくして姉が家に帰ると、父親は言った。妹はどうした。", 
-            "roman_sentence": "mybrnd az xwn ayn myryze awnja bql ny ye ny blndy sbz myše w b'd čnd wŕt dyge dxtr ke myad , pdre myge p (2) awn xwaert kw ?"
+            "roman_sentence": "mybrnd az xwn ayn myryze awnja bql ny ye ny blndy sbz myše w b'd čnd wŕt dyge dxtr ke myad , pdre myge p (2) awn xwaert kw ?", 
+            "persian_sentence": " میبرند از خون این میریزه اونجا بغل نی یه نی بلندی سبز میشه و بعد چند وقت دیگه دختر که میاد، پدره میگه پ(۲) اون خواهرت کو؟", 
+            "after_conv_tokens": [
+                "az", 
+                "xwn", 
+                "ayn", 
+                "bql", 
+                "ny", 
+                "ny", 
+                "blndy", 
+                "sbz", 
+                "w", 
+                "b'd", 
+                "čnd", 
+                "wŕt", 
+                "dxtr", 
+                "ke", 
+                ",", 
+                "dre", 
+                "(2)", 
+                "xwaert", 
+                "kw", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " میگه خونه خالم مونده.", 
+            "after_conv_sentence": "  xalm  .", 
             "tokens": [
                 "myge", 
                 "xwne", 
@@ -419,10 +663,15 @@
             ], 
             "sentence_id": 30020, 
             "jpn_sentence": "すると、姉は言った。おばさんの家にいるわ。", 
-            "roman_sentence": "myge xwne xalm mwnde ."
+            "roman_sentence": "myge xwne xalm mwnde .", 
+            "persian_sentence": " میگه خونه خالم مونده.", 
+            "after_conv_tokens": [
+                "xalm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگه خوب.", 
+            "after_conv_sentence": " xwb .", 
             "tokens": [
                 "myge", 
                 "xwb", 
@@ -430,10 +679,15 @@
             ], 
             "sentence_id": 30021, 
             "jpn_sentence": "父親は言った。よろしい。", 
-            "roman_sentence": "myge xwb ."
+            "roman_sentence": "myge xwb .", 
+            "persian_sentence": " میگه خوب.", 
+            "after_conv_tokens": [
+                "xwb", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد چند وقت دیگه پدره وقتیکه میره [خونۀ خاله] خالش میگه، نه اون خودش تک اومده اینجا، کسی [رو] همراه نداشت.", 
+            "after_conv_sentence": "b'd čnd wŕt     [xwnX ] xalš  , ne  xwdš tk  aynja , ksy [] emn ra e ndašt .", 
             "tokens": [
                 "b'd", 
                 "čnd", 
@@ -464,10 +718,32 @@
             ], 
             "sentence_id": 30022, 
             "jpn_sentence": "しかし、しばらくして父親はそのおばさんの家に行ったが、おばさんはこう言った。いや、（姉は）一人でここまで来ました。誰も一緒じゃなかったわ。", 
-            "roman_sentence": "b'd čnd wŕt dyge pdre wŕtyke myre [xwnX xale] xalš myge , ne awn xwdš tk awmde aynja , ksy [rw] emn ra e ndašt ."
+            "roman_sentence": "b'd čnd wŕt dyge pdre wŕtyke myre [xwnX xale] xalš myge , ne awn xwdš tk awmde aynja , ksy [rw] emn ra e ndašt .", 
+            "persian_sentence": " بعد چند وقت دیگه پدره وقتیکه میره [خونۀ خاله] خالش میگه، نه اون خودش تک اومده اینجا، کسی [رو] همراه نداشت.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "čnd", 
+                "wŕt", 
+                "[xwnX", 
+                "]", 
+                "xalš", 
+                ",", 
+                "ne", 
+                "xwdš", 
+                "tk", 
+                "aynja", 
+                ",", 
+                "ksy", 
+                "[]", 
+                "emn", 
+                "ra", 
+                "e", 
+                "ndašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " هیچی بعد وقتیکه [پدره] برمیگرده میبینه یه نی خیلی قشنگی کنار این دریا سبز شده.", 
+            "after_conv_sentence": "eyčy b'd  [] br   ny xyly ŕšngy knar ayn drya sbz šde .", 
             "tokens": [
                 "eyčy", 
                 "b'd", 
@@ -488,10 +764,26 @@
             ], 
             "sentence_id": 30023, 
             "jpn_sentence": "父親は帰りがけにとても綺麗な大きな葦を川の近くで見つけた。", 
-            "roman_sentence": "eyčy b'd wŕtyke [pdre] brmygrde mybyne ye ny xyly ŕšngy knar ayn drya sbz šde ."
+            "roman_sentence": "eyčy b'd wŕtyke [pdre] brmygrde mybyne ye ny xyly ŕšngy knar ayn drya sbz šde .", 
+            "persian_sentence": " هیچی بعد وقتیکه [پدره] برمیگرده میبینه یه نی خیلی قشنگی کنار این دریا سبز شده.", 
+            "after_conv_tokens": [
+                "eyčy", 
+                "b'd", 
+                "[]", 
+                "br", 
+                "ny", 
+                "xyly", 
+                "ŕšngy", 
+                "knar", 
+                "ayn", 
+                "drya", 
+                "sbz", 
+                "šde", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اون نی ر میچینه.", 
+            "after_conv_sentence": " ny   .", 
             "tokens": [
                 "awn", 
                 "ny", 
@@ -501,10 +793,15 @@
             ], 
             "sentence_id": 30024, 
             "jpn_sentence": "そして、その葦を摘んで、", 
-            "roman_sentence": "awn ny r myčyne ."
+            "roman_sentence": "awn ny r myčyne .", 
+            "persian_sentence": " اون نی ر میچینه.", 
+            "after_conv_tokens": [
+                "ny", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " نی ر میچین و میاره و درست میکنه و با این نی بنا میکنه نی زدن.", 
+            "after_conv_sentence": "ny   w myae w dst  w ba ayn ny bna  ny zdn .", 
             "tokens": [
                 "ny", 
                 "r", 
@@ -526,10 +823,26 @@
             ], 
             "sentence_id": 30025, 
             "jpn_sentence": "その葦で葦笛を作り始めた。", 
-            "roman_sentence": "ny r myčyn w myare w drst mykne w ba ayn ny bna mykne ny zdn ."
+            "roman_sentence": "ny r myčyn w myare w drst mykne w ba ayn ny bna mykne ny zdn .", 
+            "persian_sentence": " نی ر میچین و میاره و درست میکنه و با این نی بنا میکنه نی زدن.", 
+            "after_conv_tokens": [
+                "ny", 
+                "w", 
+                "myae", 
+                "w", 
+                "dst", 
+                "w", 
+                "ba", 
+                "ayn", 
+                "ny", 
+                "bna", 
+                "ny", 
+                "zdn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " وقتیکه نی میزنه، میبینه که صدای اون دختر تو این نیه.", 
+            "after_conv_sentence": " ny  ,  ke şday  dxtr tw ayn nye .", 
             "tokens": [
                 "wŕtyke", 
                 "ny", 
@@ -547,10 +860,22 @@
             ], 
             "sentence_id": 30026, 
             "jpn_sentence": "できあがった葦笛を吹くと、娘の妹の方の声がした。", 
-            "roman_sentence": "wŕtyke ny myzne , mybyne ke şday awn dxtr tw ayn nye ."
+            "roman_sentence": "wŕtyke ny myzne , mybyne ke şday awn dxtr tw ayn nye .", 
+            "persian_sentence": " وقتیکه نی میزنه، میبینه که صدای اون دختر تو این نیه.", 
+            "after_conv_tokens": [
+                "ny", 
+                ",", 
+                "ke", 
+                "şday", 
+                "dxtr", 
+                "tw", 
+                "ayn", 
+                "nye", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگه که بزن، بزن، پدرجون، خوب میزنی پدرجون بوسی به عرب داده، سر منو آب داده، (یعنی عربه بوس داده به عرب) اینا سر منو بریدن.", 
+            "after_conv_sentence": " ke bzn , bzn , pdrjwn , xwb  pdrjwn bwsy be  dade , sr mnw āb dade , (y'ny  bws dade be ) ayna sr mnw brydn .", 
             "tokens": [
                 "myge", 
                 "ke", 
@@ -587,10 +912,41 @@
             ], 
             "sentence_id": 30027, 
             "jpn_sentence": "こういうのだった。吹いて、吹いて、お父さん、上手に吹いてお父さん、（姉は）アラビア人に口づけをしたわ、私を殺したのよ。二人で私の頭を斬ったわ。", 
-            "roman_sentence": "myge ke bzn , bzn , pdrjwn , xwb myzny pdrjwn bwsy be 'rb dade , sr mnw āb dade , (y'ny 'rbe bws dade be 'rb) ayna sr mnw brydn ."
+            "roman_sentence": "myge ke bzn , bzn , pdrjwn , xwb myzny pdrjwn bwsy be 'rb dade , sr mnw āb dade , (y'ny 'rbe bws dade be 'rb) ayna sr mnw brydn .", 
+            "persian_sentence": " میگه که بزن، بزن، پدرجون، خوب میزنی پدرجون بوسی به عرب داده، سر منو آب داده، (یعنی عربه بوس داده به عرب) اینا سر منو بریدن.", 
+            "after_conv_tokens": [
+                "ke", 
+                "bzn", 
+                ",", 
+                "bzn", 
+                ",", 
+                "pdrjwn", 
+                ",", 
+                "xwb", 
+                "pdrjwn", 
+                "bwsy", 
+                "be", 
+                "dade", 
+                ",", 
+                "sr", 
+                "mnw", 
+                "āb", 
+                "dade", 
+                ",", 
+                "(y'ny", 
+                "bws", 
+                "dade", 
+                "be", 
+                ")", 
+                "ayna", 
+                "sr", 
+                "mnw", 
+                "brydn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میاد و وقتیکه نی رو تو خونه میزنه دختره میفهمه.", 
+            "after_conv_sentence": " w  ny  tw     .", 
             "tokens": [
                 "myad", 
                 "w", 
@@ -606,10 +962,17 @@
             ], 
             "sentence_id": 30028, 
             "jpn_sentence": "家に帰ってそれを吹くと", 
-            "roman_sentence": "myad w wŕtyke ny rw tw xwne myzne dxtre myfeme ."
+            "roman_sentence": "myad w wŕtyke ny rw tw xwne myzne dxtre myfeme .", 
+            "persian_sentence": " میاد و وقتیکه نی رو تو خونه میزنه دختره میفهمه.", 
+            "after_conv_tokens": [
+                "w", 
+                "ny", 
+                "tw", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " که ای وای این مال اون خواهرش که خونش ریخته تو اون نی.", 
+            "after_conv_sentence": "ke ay way ayn mal  xwaerš ke xwnš ryxte tw  ny .", 
             "tokens": [
                 "ke", 
                 "ay", 
@@ -628,10 +991,25 @@
             ], 
             "sentence_id": 30029, 
             "jpn_sentence": "娘の姉の方は、妹の血が流れ込んだ葦だとわかった。", 
-            "roman_sentence": "ke ay way ayn mal awn xwaerš ke xwnš ryxte tw awn ny ."
+            "roman_sentence": "ke ay way ayn mal awn xwaerš ke xwnš ryxte tw awn ny .", 
+            "persian_sentence": " که ای وای این مال اون خواهرش که خونش ریخته تو اون نی.", 
+            "after_conv_tokens": [
+                "ke", 
+                "ay", 
+                "way", 
+                "ayn", 
+                "mal", 
+                "xwaerš", 
+                "ke", 
+                "xwnš", 
+                "ryxte", 
+                "tw", 
+                "ny", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بلند میشه و شب نیا ر میار و میسوزونه تو یه تنور.", 
+            "after_conv_sentence": "blnd  w šb   mya w myswaz aw ne tw  tnw .", 
             "tokens": [
                 "blnd", 
                 "myše", 
@@ -651,10 +1029,24 @@
             ], 
             "sentence_id": 30030, 
             "jpn_sentence": "そして、夜に起きてその葦を窯で燃やしてしまった。", 
-            "roman_sentence": "blnd myše w šb nya r myar w myswaz aw ne tw ye tnwr ."
+            "roman_sentence": "blnd myše w šb nya r myar w myswaz aw ne tw ye tnwr .", 
+            "persian_sentence": " بلند میشه و شب نیا ر میار و میسوزونه تو یه تنور.", 
+            "after_conv_tokens": [
+                "blnd", 
+                "w", 
+                "šb", 
+                "mya", 
+                "w", 
+                "myswaz", 
+                "aw", 
+                "ne", 
+                "tw", 
+                "tnw", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میسوزونه و خاک اون تنور در میارن میریزن توی باغچه.", 
+            "after_conv_sentence": "myswaz aw ne w xak  tnwr dr myarn  twy baqče .", 
             "tokens": [
                 "myswaz", 
                 "aw", 
@@ -672,10 +1064,24 @@
             ], 
             "sentence_id": 30031, 
             "jpn_sentence": "燃やして、窯の灰を庭にまいた。", 
-            "roman_sentence": "myswaz aw ne w xak awn tnwr dr myarn myryzn twy baqče ."
+            "roman_sentence": "myswaz aw ne w xak awn tnwr dr myarn myryzn twy baqče .", 
+            "persian_sentence": " میسوزونه و خاک اون تنور در میارن میریزن توی باغچه.", 
+            "after_conv_tokens": [
+                "myswaz", 
+                "aw", 
+                "ne", 
+                "w", 
+                "xak", 
+                "tnwr", 
+                "dr", 
+                "myarn", 
+                "twy", 
+                "baqče", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " وقتیکه میریزن تو باغچه، میبینن که یه دونه هندونه بزرگ تو این باغچه سبز شده.", 
+            "after_conv_sentence": "wŕtyke  tw baqče ,  ke   en bzrg tw ayn baqče sbz šde .", 
             "tokens": [
                 "wŕtyke", 
                 "myryzn", 
@@ -697,10 +1103,26 @@
             ], 
             "sentence_id": 30032, 
             "jpn_sentence": "灰をまいたとき、庭に大きなスイカが成っていた。", 
-            "roman_sentence": "wŕtyke myryzn tw baqče , mybynn ke ye dwne endwne bzrg tw ayn baqče sbz šde ."
+            "roman_sentence": "wŕtyke myryzn tw baqče , mybynn ke ye dwne endwne bzrg tw ayn baqče sbz šde .", 
+            "persian_sentence": " وقتیکه میریزن تو باغچه، میبینن که یه دونه هندونه بزرگ تو این باغچه سبز شده.", 
+            "after_conv_tokens": [
+                "wŕtyke", 
+                "tw", 
+                "baqče", 
+                ",", 
+                "ke", 
+                "en", 
+                "bzrg", 
+                "tw", 
+                "ayn", 
+                "baqče", 
+                "sbz", 
+                "šde", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " وقتی هندونه را بر میدارن باز میکنن میبینن سر اون دختر تو اون هندونه یه [است].", 
+            "after_conv_sentence": "wŕty  ra  baz   sr  dxtr tw    [ast] .", 
             "tokens": [
                 "wŕty", 
                 "endwne", 
@@ -722,10 +1144,21 @@
             ], 
             "sentence_id": 30033, 
             "jpn_sentence": "スイカを採って、中を開けると、妹の頭がその中に入っていた。", 
-            "roman_sentence": "wŕty endwne ra br mydarn baz myknn mybynn sr awn dxtr tw awn endwne ye [ast] ."
+            "roman_sentence": "wŕty endwne ra br mydarn baz myknn mybynn sr awn dxtr tw awn endwne ye [ast] .", 
+            "persian_sentence": " وقتی هندونه را بر میدارن باز میکنن میبینن سر اون دختر تو اون هندونه یه [است].", 
+            "after_conv_tokens": [
+                "wŕty", 
+                "ra", 
+                "baz", 
+                "sr", 
+                "dxtr", 
+                "tw", 
+                "[ast]", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " قصه ما به سر رسید.", 
+            "after_conv_sentence": "ŕşe ma be sr rsyd .", 
             "tokens": [
                 "ŕşe", 
                 "ma", 
@@ -736,10 +1169,19 @@
             ], 
             "sentence_id": 30034, 
             "jpn_sentence": "私たちのお話はおしまいである。", 
-            "roman_sentence": "ŕşe ma be sr rsyd ."
+            "roman_sentence": "ŕşe ma be sr rsyd .", 
+            "persian_sentence": " قصه ما به سر رسید.", 
+            "after_conv_tokens": [
+                "ŕşe", 
+                "ma", 
+                "be", 
+                "sr", 
+                "rsyd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " کلاغ [به] خونش نرسید.", 
+            "after_conv_sentence": "klaq [be] xwnš nrsyd .", 
             "tokens": [
                 "klaq", 
                 "[be]", 
@@ -749,7 +1191,15 @@
             ], 
             "sentence_id": 30035, 
             "jpn_sentence": "カラスは家に帰らなかった。", 
-            "roman_sentence": "klaq [be] xwnš nrsyd ."
+            "roman_sentence": "klaq [be] xwnš nrsyd .", 
+            "persian_sentence": " کلاغ [به] خونش نرسید.", 
+            "after_conv_tokens": [
+                "klaq", 
+                "[be]", 
+                "xwnš", 
+                "nrsyd", 
+                "."
+            ]
         }
     ], 
     "document_info_map": {

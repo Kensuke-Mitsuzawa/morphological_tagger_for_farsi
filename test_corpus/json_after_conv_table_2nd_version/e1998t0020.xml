@@ -1,7 +1,7 @@
 {
     "sentence_set_list": [
         {
-            "persian_sentence": "یک روزی تو یه دهی تو یک مکانی یک پیرمردی بود گوژ پشت بود، یعنی پشتش یه قوز داشت.", 
+            "after_conv_sentence": "yk rwzy tw  dey tw yk mkany yk pyrmrdy bwd  pšt bwd , y'ny pšt  ŕwz dašt .", 
             "tokens": [
                 "yk", 
                 "rwzy", 
@@ -27,10 +27,31 @@
             ], 
             "sentence_id": 20001, 
             "jpn_sentence": "昔、あるところに背中に瘤のある老人がいた。背中に瘤があったのである。", 
-            "roman_sentence": "yk rwzy tw ye dey tw yk mkany yk pyrmrdy bwd gwž pšt bwd , y'ny pštš ye ŕwz dašt ."
+            "roman_sentence": "yk rwzy tw ye dey tw yk mkany yk pyrmrdy bwd gwž pšt bwd , y'ny pštš ye ŕwz dašt .", 
+            "persian_sentence": "یک روزی تو یه دهی تو یک مکانی یک پیرمردی بود گوژ پشت بود، یعنی پشتش یه قوز داشت.", 
+            "after_conv_tokens": [
+                "yk", 
+                "rwzy", 
+                "tw", 
+                "dey", 
+                "tw", 
+                "yk", 
+                "mkany", 
+                "yk", 
+                "pyrmrdy", 
+                "bwd", 
+                "pšt", 
+                "bwd", 
+                ",", 
+                "y'ny", 
+                "pšt", 
+                "ŕwz", 
+                "dašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد این صبح های زود که میرفت حموم، بعد ایشون هر روز میرفتن صبح زود.", 
+            "after_conv_sentence": "b'd ayn  az aw d ke   , b'd  er rwz n şbħ az aw d .", 
             "tokens": [
                 "b'd", 
                 "ayn", 
@@ -56,10 +77,29 @@
             ], 
             "sentence_id": 20002, 
             "jpn_sentence": "老人が朝早くにハンマームに行った。その老人は毎日朝早くにハンマームに行くのであった。", 
-            "roman_sentence": "b'd ayn şbħ eay az aw d ke myrft ħmwm , b'd ayšwn er rwz myrftn şbħ az aw d ."
+            "roman_sentence": "b'd ayn şbħ eay az aw d ke myrft ħmwm , b'd ayšwn er rwz myrftn şbħ az aw d .", 
+            "persian_sentence": " بعد این صبح های زود که میرفت حموم، بعد ایشون هر روز میرفتن صبح زود.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "ayn", 
+                "az", 
+                "aw", 
+                "d", 
+                "ke", 
+                ",", 
+                "b'd", 
+                "er", 
+                "rwz", 
+                "n", 
+                "şbħ", 
+                "az", 
+                "aw", 
+                "d", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه روز صبح زود که رفته بودن حموم، توی حموم اجنه و جن و پری داشتن میزدن و میرقصیدن.", 
+            "after_conv_sentence": " rwz şbħ az aw d ke rfte bwdn  , twy   w jn w pry daštn  w  .", 
             "tokens": [
                 "ye", 
                 "rwz", 
@@ -87,10 +127,30 @@
             ], 
             "sentence_id": 20003, 
             "jpn_sentence": "ある日、朝早くにハンマームに行くと、ハンマームの中でジンや妖精たちが手を叩いて踊っていた。", 
-            "roman_sentence": "ye rwz şbħ az aw d ke rfte bwdn ħmwm , twy ħmwm ajne w jn w pry daštn myzdn w myrŕşydn ."
+            "roman_sentence": "ye rwz şbħ az aw d ke rfte bwdn ħmwm , twy ħmwm ajne w jn w pry daštn myzdn w myrŕşydn .", 
+            "persian_sentence": " یه روز صبح زود که رفته بودن حموم، توی حموم اجنه و جن و پری داشتن میزدن و میرقصیدن.", 
+            "after_conv_tokens": [
+                "rwz", 
+                "şbħ", 
+                "az", 
+                "aw", 
+                "d", 
+                "ke", 
+                "rfte", 
+                "bwdn", 
+                ",", 
+                "twy", 
+                "w", 
+                "jn", 
+                "w", 
+                "pry", 
+                "daštn", 
+                "w", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " ظاهراً عروسی یکی از اونها بود.", 
+            "after_conv_sentence": "ẓaera 'rwsy yky az  bwd .", 
             "tokens": [
                 "ẓaera", 
                 "'rwsy", 
@@ -102,10 +162,19 @@
             ], 
             "sentence_id": 20004, 
             "jpn_sentence": "おそらく、彼らの結婚式であったのであろう。", 
-            "roman_sentence": "ẓaera 'rwsy yky az awnea bwd ."
+            "roman_sentence": "ẓaera 'rwsy yky az awnea bwd .", 
+            "persian_sentence": " ظاهراً عروسی یکی از اونها بود.", 
+            "after_conv_tokens": [
+                "ẓaera", 
+                "'rwsy", 
+                "yky", 
+                "az", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد اونا داشتن میرقصیدن، این پیر مرد هم بیچاره دید اونا دارن میرقصن این هم ورداشت اون ظرفی که همراش بود ظرف وسائل حموم اونم ورداشت، دمر گذاشت و آقا شروع کرد به زدن و باهاشون رقصید.", 
+            "after_conv_sentence": "b'd a daštn  , ayn  mrd em byčare dyd a darnd  ayn em dašt  ẓrfy ke emn ra š bwd ẓrf   ān dašt ,  gđašt w āŕa šrw' krd be zdn w ba aw wn rŕşyd .", 
             "tokens": [
                 "b'd", 
                 "awna", 
@@ -154,10 +223,50 @@
             ], 
             "sentence_id": 20005, 
             "jpn_sentence": "彼らが踊っていると、かわいそうなことに、この老人がそれを見てしまったので、老人は持っていた桶、ハンマームで使う桶を裏返しに持って、一緒に手を叩いて踊り始めた。", 
-            "roman_sentence": "b'd awna daštn myrŕşydn , ayn pyr mrd em byčare dyd awna darn myrŕşn ayn em wrdašt awn ẓrfy ke emn ra š bwd ẓrf wsa´l ħmwm awnm wrdašt , dmr gđašt w āŕa šrw' krd be zdn w ba aw wn rŕşyd ."
+            "roman_sentence": "b'd awna daštn myrŕşydn , ayn pyr mrd em byčare dyd awna darn myrŕşn ayn em wrdašt awn ẓrfy ke emn ra š bwd ẓrf wsa´l ħmwm awnm wrdašt , dmr gđašt w āŕa šrw' krd be zdn w ba aw wn rŕşyd .", 
+            "persian_sentence": " بعد اونا داشتن میرقصیدن، این پیر مرد هم بیچاره دید اونا دارن میرقصن این هم ورداشت اون ظرفی که همراش بود ظرف وسائل حموم اونم ورداشت، دمر گذاشت و آقا شروع کرد به زدن و باهاشون رقصید.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "a", 
+                "daštn", 
+                ",", 
+                "ayn", 
+                "mrd", 
+                "em", 
+                "byčare", 
+                "dyd", 
+                "a", 
+                "darnd", 
+                "ayn", 
+                "em", 
+                "dašt", 
+                "ẓrfy", 
+                "ke", 
+                "emn", 
+                "ra", 
+                "š", 
+                "bwd", 
+                "ẓrf", 
+                "ān", 
+                "dašt", 
+                ",", 
+                "gđašt", 
+                "w", 
+                "āŕa", 
+                "šrw'", 
+                "krd", 
+                "be", 
+                "zdn", 
+                "w", 
+                "ba", 
+                "aw", 
+                "wn", 
+                "rŕşyd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه دو ساعتی رو به این منوال باهاشون گذروند، بعد، یه دو ساعت، اون آقایون جن هائی که اونجا بودند گفتن آقا، شما اومدی با ما همکاری کردی.", 
+            "after_conv_sentence": " dw sa'ty  be ayn mnwal ba aw wn gđnd , b'd ,  dw sa't ,    ke  bwdnd gftn āŕa , šma  ba ma emkary krdy .", 
             "tokens": [
                 "ye", 
                 "dw", 
@@ -197,10 +306,39 @@
             ], 
             "sentence_id": 20006, 
             "jpn_sentence": "二時間ほどこのように彼らと過ごした。すると、そこにいたジンたちが言った。おじいさん、あなたは一緒に祝ってくれました。", 
-            "roman_sentence": "ye dw sa'ty rw be ayn mnwal ba aw wn gđrwnd , b'd , ye dw sa't , awn āŕaywn jn ea´y ke awnja bwdnd gftn āŕa , šma awmdy ba ma emkary krdy ."
+            "roman_sentence": "ye dw sa'ty rw be ayn mnwal ba aw wn gđrwnd , b'd , ye dw sa't , awn āŕaywn jn ea´y ke awnja bwdnd gftn āŕa , šma awmdy ba ma emkary krdy .", 
+            "persian_sentence": " یه دو ساعتی رو به این منوال باهاشون گذروند، بعد، یه دو ساعت، اون آقایون جن هائی که اونجا بودند گفتن آقا، شما اومدی با ما همکاری کردی.", 
+            "after_conv_tokens": [
+                "dw", 
+                "sa'ty", 
+                "be", 
+                "ayn", 
+                "mnwal", 
+                "ba", 
+                "aw", 
+                "wn", 
+                "gđnd", 
+                ",", 
+                "b'd", 
+                ",", 
+                "dw", 
+                "sa't", 
+                ",", 
+                "ke", 
+                "bwdnd", 
+                "gftn", 
+                "āŕa", 
+                ",", 
+                "šma", 
+                "ba", 
+                "ma", 
+                "emkary", 
+                "krdy", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " شما چه خواسته ای داری بگو تا ما برات بر آورده کنیم.", 
+            "after_conv_sentence": "šma če  dary bgw ta ma bray br āwrde knym .", 
             "tokens": [
                 "šma", 
                 "če", 
@@ -218,10 +356,24 @@
             ], 
             "sentence_id": 20007, 
             "jpn_sentence": "何か望みがあれば言って下さい。叶えましょう。", 
-            "roman_sentence": "šma če xwaste ay dary bgw ta ma brat br āwrde knym ."
+            "roman_sentence": "šma če xwaste ay dary bgw ta ma brat br āwrde knym .", 
+            "persian_sentence": " شما چه خواسته ای داری بگو تا ما برات بر آورده کنیم.", 
+            "after_conv_tokens": [
+                "šma", 
+                "če", 
+                "dary", 
+                "bgw", 
+                "ta", 
+                "ma", 
+                "bray", 
+                "br", 
+                "āwrde", 
+                "knym", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این گفت بابا من چند سال پیر مردم دیگه این پشتم یه قوز داره، این قوزشو اگه مرحمت کنین بردارین از رو دوشم، خیلی متشکر میشم.", 
+            "after_conv_sentence": "ayn gft  mn čnd sal pyr mrdm  ayn pšt  ŕwz  , ayn aw    br az rw dwš , xyly mtškr  .", 
             "tokens": [
                 "ayn", 
                 "gft", 
@@ -255,10 +407,34 @@
             ], 
             "sentence_id": 20008, 
             "jpn_sentence": "老人は言った。私は老人で、ここ数年背中に瘤があります。もし、お願いできるのでしたら、この瘤を背（原文：肩）から取ってくれたら非常に有り難いのですが。", 
-            "roman_sentence": "ayn gft baba mn čnd sal pyr mrdm dyge ayn pštm ye ŕwz dare , ayn ŕwzšw age mrħmt knyn brdaryn az rw dwšm , xyly mtškr myšm ."
+            "roman_sentence": "ayn gft baba mn čnd sal pyr mrdm dyge ayn pštm ye ŕwz dare , ayn ŕwzšw age mrħmt knyn brdaryn az rw dwšm , xyly mtškr myšm .", 
+            "persian_sentence": " این گفت بابا من چند سال پیر مردم دیگه این پشتم یه قوز داره، این قوزشو اگه مرحمت کنین بردارین از رو دوشم، خیلی متشکر میشم.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "gft", 
+                "mn", 
+                "čnd", 
+                "sal", 
+                "pyr", 
+                "mrdm", 
+                "ayn", 
+                "pšt", 
+                "ŕwz", 
+                ",", 
+                "ayn", 
+                "aw", 
+                "br", 
+                "az", 
+                "rw", 
+                "dwš", 
+                ",", 
+                "xyly", 
+                "mtškr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفتن باشه، همین؟", 
+            "after_conv_sentence": "gftn baše , emyn ?", 
             "tokens": [
                 "gftn", 
                 "baše", 
@@ -268,10 +444,18 @@
             ], 
             "sentence_id": 20009, 
             "jpn_sentence": "ジンたちは言った。わかりました。それだけですか。", 
-            "roman_sentence": "gftn baše , emyn ?"
+            "roman_sentence": "gftn baše , emyn ?", 
+            "persian_sentence": " گفتن باشه، همین؟", 
+            "after_conv_tokens": [
+                "gftn", 
+                "baše", 
+                ",", 
+                "emyn", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " گفتن بله.", 
+            "after_conv_sentence": "gftn ble .", 
             "tokens": [
                 "gftn", 
                 "ble", 
@@ -279,10 +463,16 @@
             ], 
             "sentence_id": 20010, 
             "jpn_sentence": "老人は言った。それだけです。", 
-            "roman_sentence": "gftn ble ."
+            "roman_sentence": "gftn ble .", 
+            "persian_sentence": " گفتن بله.", 
+            "after_conv_tokens": [
+                "gftn", 
+                "ble", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " آقا اینا قوز این پیر مرده رو بر می دارن، میذارن یه گوشه ای تو اونجا حالا به قول معروف  جایی که خودشون میدونستن.", 
+            "after_conv_sentence": "āŕa  ŕwz ayn pyr mrde  br my darn ,    tw  ħala be ŕwl m'f  jayy ke xwd  .", 
             "tokens": [
                 "āŕa", 
                 "ayna", 
@@ -313,10 +503,31 @@
             ], 
             "sentence_id": 20011, 
             "jpn_sentence": "ジンたちは、この老人の瘤をとってやり、わかりやすいように角に置いた。", 
-            "roman_sentence": "āŕa ayna ŕwz ayn pyr mrde rw br my darn , myđarn ye gwše ay tw awnja ħala be ŕwl m'rwf  jayy ke xwdšwn mydwnstn ."
+            "roman_sentence": "āŕa ayna ŕwz ayn pyr mrde rw br my darn , myđarn ye gwše ay tw awnja ħala be ŕwl m'rwf  jayy ke xwdšwn mydwnstn .", 
+            "persian_sentence": " آقا اینا قوز این پیر مرده رو بر می دارن، میذارن یه گوشه ای تو اونجا حالا به قول معروف  جایی که خودشون میدونستن.", 
+            "after_conv_tokens": [
+                "āŕa", 
+                "ŕwz", 
+                "ayn", 
+                "pyr", 
+                "mrde", 
+                "br", 
+                "my", 
+                "darn", 
+                ",", 
+                "tw", 
+                "ħala", 
+                "be", 
+                "ŕwl", 
+                "m'f", 
+                "jayy", 
+                "ke", 
+                "xwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این پیر مرده پستش صاف میشه، خیلی خوشحال و خندون، کارش تو حمام انجام میده و میاد بیرون.", 
+            "after_conv_sentence": "ayn pyr mrde pstš şaf  , xyly xwšħal w  , kar tw ħmam   w  byrwn .", 
             "tokens": [
                 "ayn", 
                 "pyr", 
@@ -342,10 +553,29 @@
             ], 
             "sentence_id": 20012, 
             "jpn_sentence": "老人の背中は平らになった。老人はとても喜んで、笑顔でハンマームで用を済ませて、外に出てきた。", 
-            "roman_sentence": "ayn pyr mrde pstš şaf myše , xyly xwšħal w xndwn , karš tw ħmam anjam myde w myad byrwn ."
+            "roman_sentence": "ayn pyr mrde pstš şaf myše , xyly xwšħal w xndwn , karš tw ħmam anjam myde w myad byrwn .", 
+            "persian_sentence": " این پیر مرده پستش صاف میشه، خیلی خوشحال و خندون، کارش تو حمام انجام میده و میاد بیرون.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "pyr", 
+                "mrde", 
+                "pstš", 
+                "şaf", 
+                ",", 
+                "xyly", 
+                "xwšħal", 
+                "w", 
+                ",", 
+                "kar", 
+                "tw", 
+                "ħmam", 
+                "w", 
+                "byrwn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد میره تو محلّه اش میگرده تو خونش، بعد چند روز یه آقای گوژ پشت دیگم تو محلشون بوده.", 
+            "after_conv_sentence": "b'd  tw mħle  tw xane , b'd čnd rwz  āŕay gwž pšt dygr tw mħl bwde .", 
             "tokens": [
                 "b'd", 
                 "myre", 
@@ -371,10 +601,30 @@
             ], 
             "sentence_id": 20013, 
             "jpn_sentence": "そして、住んでいる地域の家に帰った。何日か経って、村にはもう一人背中に瘤のある男がいたのだが、", 
-            "roman_sentence": "b'd myre tw mħle aš mygrde tw xwnš , b'd čnd rwz ye āŕay gwž pšt dygm tw mħlšwn bwde ."
+            "roman_sentence": "b'd myre tw mħle aš mygrde tw xwnš , b'd čnd rwz ye āŕay gwž pšt dygm tw mħlšwn bwde .", 
+            "persian_sentence": " بعد میره تو محلّه اش میگرده تو خونش، بعد چند روز یه آقای گوژ پشت دیگم تو محلشون بوده.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "tw", 
+                "mħle", 
+                "tw", 
+                "xane", 
+                ",", 
+                "b'd", 
+                "čnd", 
+                "rwz", 
+                "āŕay", 
+                "gwž", 
+                "pšt", 
+                "dygr", 
+                "tw", 
+                "mħl", 
+                "bwde", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پشتش یه قوز داشته.", 
+            "after_conv_sentence": "pšt  ŕwz dašte .", 
             "tokens": [
                 "pštš", 
                 "ye", 
@@ -384,10 +634,17 @@
             ], 
             "sentence_id": 20014, 
             "jpn_sentence": "つまり、この男にも背中に瘤があったのだが、", 
-            "roman_sentence": "pštš ye ŕwz dašte ."
+            "roman_sentence": "pštš ye ŕwz dašte .", 
+            "persian_sentence": " پشتش یه قوز داشته.", 
+            "after_conv_tokens": [
+                "pšt", 
+                "ŕwz", 
+                "dašte", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این شنیده بود که پشتش درست شده قوزش برداشته بودن، رفت پیشش گفت آقا چطور شد این قوزت و بر داشتی؟", 
+            "after_conv_sentence": "ayn šnyde bd ke pšt drst šde ŕzš brdašte bdn , rft pyš gft āŕa čţr šd ayn ŕzt  br dašty ?", 
             "tokens": [
                 "ayn", 
                 "šnyde", 
@@ -415,10 +672,35 @@
             ], 
             "sentence_id": 20015, 
             "jpn_sentence": "老人の瘤が無くなったことを聞きつけた。男は、老人のもとへ行って、こう言った。どうやって、瘤をとったのですか。", 
-            "roman_sentence": "ayn šnyde bwd ke pštš drst šde ŕwzš brdašte bwdn , rft pyšš gft āŕa čţwr šd ayn ŕwzt w br dašty ?"
+            "roman_sentence": "ayn šnyde bwd ke pštš drst šde ŕwzš brdašte bwdn , rft pyšš gft āŕa čţwr šd ayn ŕwzt w br dašty ?", 
+            "persian_sentence": " این شنیده بود که پشتش درست شده قوزش برداشته بودن، رفت پیشش گفت آقا چطور شد این قوزت و بر داشتی؟", 
+            "after_conv_tokens": [
+                "ayn", 
+                "šnyde", 
+                "bd", 
+                "ke", 
+                "pšt", 
+                "drst", 
+                "šde", 
+                "ŕzš", 
+                "brdašte", 
+                "bdn", 
+                ",", 
+                "rft", 
+                "pyš", 
+                "gft", 
+                "āŕa", 
+                "čţr", 
+                "šd", 
+                "ayn", 
+                "ŕzt", 
+                "br", 
+                "dašty", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " به ما هم بگو ما هم بریم برداریم.", 
+            "after_conv_sentence": "be ma em bgw ma em  brdarym .", 
             "tokens": [
                 "be", 
                 "ma", 
@@ -432,10 +714,21 @@
             ], 
             "sentence_id": 20016, 
             "jpn_sentence": "私にも教えて下さい。私も瘤をとってしまいたいのです。", 
-            "roman_sentence": "be ma em bgw ma em brym brdarym ."
+            "roman_sentence": "be ma em bgw ma em brym brdarym .", 
+            "persian_sentence": " به ما هم بگو ما هم بریم برداریم.", 
+            "after_conv_tokens": [
+                "be", 
+                "ma", 
+                "em", 
+                "bgw", 
+                "ma", 
+                "em", 
+                "brdarym", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گف اره سر قضیه اینه.", 
+            "after_conv_sentence": "  sr ŕźye ayn .", 
             "tokens": [
                 "gf", 
                 "are", 
@@ -446,10 +739,17 @@
             ], 
             "sentence_id": 20017, 
             "jpn_sentence": "老人は言った。こういうことだったんだよ。", 
-            "roman_sentence": "gf are sr ŕźye ayne ."
+            "roman_sentence": "gf are sr ŕźye ayne .", 
+            "persian_sentence": " گف اره سر قضیه اینه.", 
+            "after_conv_tokens": [
+                "sr", 
+                "ŕźye", 
+                "ayn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " جریانش اینه من رفتم حموم دیدم اونا دارن میزنن و میرقصن منم آقا زدم و رقصیدم، خلاصه با هاشون همکاری کردم.", 
+            "after_conv_sentence": "jryan ayn mn rftm  dydm  darnd  w  mn āŕa zdm w rŕşydm , xlaşe ba eašwn emkary krdm .", 
             "tokens": [
                 "jryanš", 
                 "ayne", 
@@ -477,10 +777,32 @@
             ], 
             "sentence_id": 20018, 
             "jpn_sentence": "ハンマームに行ったんだ。すると（ジンたちが）手を叩いて踊っていたんだ。それで、一緒に踊ったんだ。すると、こうなったんだ。", 
-            "roman_sentence": "jryanš ayne mn rftm ħmwm dydm awna darn myznn w myrŕşn mnm āŕa zdm w rŕşydm , xlaşe ba eašwn emkary krdm ."
+            "roman_sentence": "jryanš ayne mn rftm ħmwm dydm awna darn myznn w myrŕşn mnm āŕa zdm w rŕşydm , xlaşe ba eašwn emkary krdm .", 
+            "persian_sentence": " جریانش اینه من رفتم حموم دیدم اونا دارن میزنن و میرقصن منم آقا زدم و رقصیدم، خلاصه با هاشون همکاری کردم.", 
+            "after_conv_tokens": [
+                "jryan", 
+                "ayn", 
+                "mn", 
+                "rftm", 
+                "dydm", 
+                "darnd", 
+                "w", 
+                "mn", 
+                "āŕa", 
+                "zdm", 
+                "w", 
+                "rŕşydm", 
+                ",", 
+                "xlaşe", 
+                "ba", 
+                "eašwn", 
+                "emkary", 
+                "krdm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینام گفتن آقا جریان از این قراره.", 
+            "after_conv_sentence": "ayn gftn āŕa jryan az ayn ŕrar .", 
             "tokens": [
                 "aynam", 
                 "gftn", 
@@ -493,10 +815,21 @@
             ], 
             "sentence_id": 20019, 
             "jpn_sentence": "お返しに何が欲しいか、なんでもあげるよ、と言われた。", 
-            "roman_sentence": "aynam gftn āŕa jryan az ayn ŕrare ."
+            "roman_sentence": "aynam gftn āŕa jryan az ayn ŕrare .", 
+            "persian_sentence": " اینام گفتن آقا جریان از این قراره.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "gftn", 
+                "āŕa", 
+                "jryan", 
+                "az", 
+                "ayn", 
+                "ŕrar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " چطوری چی میخوای؟", 
+            "after_conv_sentence": "čţwry   ?", 
             "tokens": [
                 "čţwry", 
                 "čy", 
@@ -505,10 +838,15 @@
             ], 
             "sentence_id": 20020, 
             "jpn_sentence": "何が欲しいのかと。", 
-            "roman_sentence": "čţwry čy myxway ?"
+            "roman_sentence": "čţwry čy myxway ?", 
+            "persian_sentence": " چطوری چی میخوای؟", 
+            "after_conv_tokens": [
+                "čţwry", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " ما انجام بدیم.", 
+            "after_conv_sentence": "ma   .", 
             "tokens": [
                 "ma", 
                 "anjam", 
@@ -517,10 +855,15 @@
             ], 
             "sentence_id": 20021, 
             "jpn_sentence": "願いを適えると。", 
-            "roman_sentence": "ma anjam bdym ."
+            "roman_sentence": "ma anjam bdym .", 
+            "persian_sentence": " ما انجام بدیم.", 
+            "after_conv_tokens": [
+                "ma", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " منم گفتم آقا قوزمو بر دارین.", 
+            "after_conv_sentence": "mn gftm āŕa ŕwz br  .", 
             "tokens": [
                 "mnm", 
                 "gftm", 
@@ -532,10 +875,19 @@
             ], 
             "sentence_id": 20022, 
             "jpn_sentence": "私は、瘤をとって欲しいと言ったのだ。", 
-            "roman_sentence": "mnm gftm āŕa ŕwzmw br daryn ."
+            "roman_sentence": "mnm gftm āŕa ŕwzmw br daryn .", 
+            "persian_sentence": " منم گفتم آقا قوزمو بر دارین.", 
+            "after_conv_tokens": [
+                "mn", 
+                "gftm", 
+                "āŕa", 
+                "ŕwz", 
+                "br", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " آقا قوز منو بر داشتن.", 
+            "after_conv_sentence": "āŕa ŕwz mn br daštn .", 
             "tokens": [
                 "āŕa", 
                 "ŕwz", 
@@ -546,10 +898,19 @@
             ], 
             "sentence_id": 20023, 
             "jpn_sentence": "すると、私の瘤をとってくれたんだよ。", 
-            "roman_sentence": "āŕa ŕwz mnw br daštn ."
+            "roman_sentence": "āŕa ŕwz mnw br daštn .", 
+            "persian_sentence": " آقا قوز منو بر داشتن.", 
+            "after_conv_tokens": [
+                "āŕa", 
+                "ŕwz", 
+                "mn", 
+                "br", 
+                "daštn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گف همین؟", 
+            "after_conv_sentence": " emyn ?", 
             "tokens": [
                 "gf", 
                 "emyn", 
@@ -557,10 +918,15 @@
             ], 
             "sentence_id": 20024, 
             "jpn_sentence": "男は言った。それだけですか。", 
-            "roman_sentence": "gf emyn ?"
+            "roman_sentence": "gf emyn ?", 
+            "persian_sentence": " گف همین؟", 
+            "after_conv_tokens": [
+                "emyn", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " گف اره.", 
+            "after_conv_sentence": "  .", 
             "tokens": [
                 "gf", 
                 "are", 
@@ -568,10 +934,14 @@
             ], 
             "sentence_id": 20025, 
             "jpn_sentence": "老人は言った。それだけです。", 
-            "roman_sentence": "gf are ."
+            "roman_sentence": "gf are .", 
+            "persian_sentence": " گف اره.", 
+            "after_conv_tokens": [
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " آقا اون آقای گوژ پشت دوم هم هی هر روز صبح زود میرفت حموم، که اون جن و پریا رو ببینه.", 
+            "after_conv_sentence": "āŕa  āŕay gwž pšt dwm em ey er z şbħ az aw d   , ke  jn w    .", 
             "tokens": [
                 "āŕa", 
                 "awn", 
@@ -601,10 +971,31 @@
             ], 
             "sentence_id": 20026, 
             "jpn_sentence": "そして、二人目の瘤をもつ男もジンや妖精に会おうと毎朝早くにハンマームに通った。", 
-            "roman_sentence": "āŕa awn āŕay gwž pšt dwm em ey er rwz şbħ az aw d myrft ħmwm , ke awn jn w prya rw bbyne ."
+            "roman_sentence": "āŕa awn āŕay gwž pšt dwm em ey er rwz şbħ az aw d myrft ħmwm , ke awn jn w prya rw bbyne .", 
+            "persian_sentence": " آقا اون آقای گوژ پشت دوم هم هی هر روز صبح زود میرفت حموم، که اون جن و پریا رو ببینه.", 
+            "after_conv_tokens": [
+                "āŕa", 
+                "āŕay", 
+                "gwž", 
+                "pšt", 
+                "dwm", 
+                "em", 
+                "ey", 
+                "er", 
+                "z", 
+                "şbħ", 
+                "az", 
+                "aw", 
+                "d", 
+                ",", 
+                "ke", 
+                "jn", 
+                "w", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد یک هفته ای که میگذره، وقتی میره تو داخل حموم، میبینه یه عده جن و پری دارن عزاداری میکنن.", 
+            "after_conv_sentence": "b'd yk  ke  , wŕty  tw daxl  ,    jn w pry darnd 'zadary  .", 
             "tokens": [
                 "b'd", 
                 "yk", 
@@ -632,10 +1023,27 @@
             ], 
             "sentence_id": 20027, 
             "jpn_sentence": "一週間経ったとき、ハンマームに入ると、数人のジンと妖精が葬式をしていた。", 
-            "roman_sentence": "b'd yk efte ay ke mygđre , wŕty myre tw daxl ħmwm , mybyne ye 'de jn w pry darn 'zadary myknn ."
+            "roman_sentence": "b'd yk efte ay ke mygđre , wŕty myre tw daxl ħmwm , mybyne ye 'de jn w pry darn 'zadary myknn .", 
+            "persian_sentence": " بعد یک هفته ای که میگذره، وقتی میره تو داخل حموم، میبینه یه عده جن و پری دارن عزاداری میکنن.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "yk", 
+                "ke", 
+                ",", 
+                "wŕty", 
+                "tw", 
+                "daxl", 
+                ",", 
+                "jn", 
+                "w", 
+                "pry", 
+                "darnd", 
+                "'zadary", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه نفر مرده و اونا دارن میشورنشو، هی دارن رو سر و کله همدیگه میزنن و خلاصه دارن عزاداری میکنن.", 
+            "after_conv_sentence": " nfr mrde w  darnd  , ey darnd rw sr w kle   w xlaşe darnd 'zadary  .", 
             "tokens": [
                 "ye", 
                 "nfr", 
@@ -662,10 +1070,29 @@
             ], 
             "sentence_id": 20028, 
             "jpn_sentence": "一人が死んだので、その体を洗っていたのであった。（悲しみで）頭を叩きながら、葬式をしていたのであった。", 
-            "roman_sentence": "ye nfr mrde w awna darn myšwrnšw , ey darn rw sr w kle emdyge myznn w xlaşe darn 'zadary myknn ."
+            "roman_sentence": "ye nfr mrde w awna darn myšwrnšw , ey darn rw sr w kle emdyge myznn w xlaşe darn 'zadary myknn .", 
+            "persian_sentence": " یه نفر مرده و اونا دارن میشورنشو، هی دارن رو سر و کله همدیگه میزنن و خلاصه دارن عزاداری میکنن.", 
+            "after_conv_tokens": [
+                "nfr", 
+                "mrde", 
+                "w", 
+                "darnd", 
+                ",", 
+                "ey", 
+                "darnd", 
+                "rw", 
+                "sr", 
+                "w", 
+                "kle", 
+                "w", 
+                "xlaşe", 
+                "darnd", 
+                "'zadary", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این هم به خیال این که خوب، باید همون کاره گوژ پشت اولیه رو انجام بده، برمیداره اون ظرفی که ظرف حمومش همراش بوده ورمیداره، میزنه با هاش یه ریتم میگیره و به قول معروف میزنه و میرقصه.", 
+            "after_conv_sentence": "ayn em be xyal ayn ke xwb , bayd   gwž pšt    bde , br  ẓrfy ke ẓrf ħmam emn ra š bwde  ,  ba eaš  rytm  w be ŕwl m'f  w  .", 
             "tokens": [
                 "ayn", 
                 "em", 
@@ -714,10 +1141,45 @@
             ], 
             "sentence_id": 20029, 
             "jpn_sentence": "男は、ちょうどよいと思い、最初の瘤のある男がしたことをした。持っていたハンマーム用の桶を持って、リズムをとって、手を打ちならし、踊った。", 
-            "roman_sentence": "ayn em be xyal ayn ke xwb , bayd emwn kare gwž pšt awlye rw anjam bde , brmydare awn ẓrfy ke ẓrf ħmwmš emn ra š bwde wrmydare , myzne ba eaš ye rytm mygyre w be ŕwl m'rwf myzne w myrŕşe ."
+            "roman_sentence": "ayn em be xyal ayn ke xwb , bayd emwn kare gwž pšt awlye rw anjam bde , brmydare awn ẓrfy ke ẓrf ħmwmš emn ra š bwde wrmydare , myzne ba eaš ye rytm mygyre w be ŕwl m'rwf myzne w myrŕşe .", 
+            "persian_sentence": " این هم به خیال این که خوب، باید همون کاره گوژ پشت اولیه رو انجام بده، برمیداره اون ظرفی که ظرف حمومش همراش بوده ورمیداره، میزنه با هاش یه ریتم میگیره و به قول معروف میزنه و میرقصه.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "em", 
+                "be", 
+                "xyal", 
+                "ayn", 
+                "ke", 
+                "xwb", 
+                ",", 
+                "bayd", 
+                "gwž", 
+                "pšt", 
+                "bde", 
+                ",", 
+                "br", 
+                "ẓrfy", 
+                "ke", 
+                "ẓrf", 
+                "ħmam", 
+                "emn", 
+                "ra", 
+                "š", 
+                "bwde", 
+                ",", 
+                "ba", 
+                "eaš", 
+                "rytm", 
+                "w", 
+                "be", 
+                "ŕwl", 
+                "m'f", 
+                "w", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " خلاصه اون جنا میبینن تعجب میکنن از این کارش.", 
+            "after_conv_sentence": "xlaşe    t'jb  az ayn kar .", 
             "tokens": [
                 "xlaşe", 
                 "awn", 
@@ -732,10 +1194,19 @@
             ], 
             "sentence_id": 20030, 
             "jpn_sentence": "ジンたちは、この行為に驚いて言った。", 
-            "roman_sentence": "xlaşe awn jna mybynn t'jb myknn az ayn karš ."
+            "roman_sentence": "xlaşe awn jna mybynn t'jb myknn az ayn karš .", 
+            "persian_sentence": " خلاصه اون جنا میبینن تعجب میکنن از این کارش.", 
+            "after_conv_tokens": [
+                "xlaşe", 
+                "t'jb", 
+                "az", 
+                "ayn", 
+                "kar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگن عجب، فلان اونا حالا اون لحظه کاری به کارش ندارن.", 
+            "after_conv_sentence": " 'jb , flan a ħala  lħẓe kary be kar  .", 
             "tokens": [
                 "mygn", 
                 "'jb", 
@@ -753,10 +1224,23 @@
             ], 
             "sentence_id": 20031, 
             "jpn_sentence": "いったい、なんてことをするのだ。", 
-            "roman_sentence": "mygn 'jb , flan awna ħala awn lħẓe kary be karš ndarn ."
+            "roman_sentence": "mygn 'jb , flan awna ħala awn lħẓe kary be karš ndarn .", 
+            "persian_sentence": " میگن عجب، فلان اونا حالا اون لحظه کاری به کارش ندارن.", 
+            "after_conv_tokens": [
+                "'jb", 
+                ",", 
+                "flan", 
+                "a", 
+                "ħala", 
+                "lħẓe", 
+                "kary", 
+                "be", 
+                "kar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " کارشون تموم میشه اون مرده رو خلاصه میشورن کارشون تموم میشه.", 
+            "after_conv_sentence": "kar    mrde  xlaşe  kar   .", 
             "tokens": [
                 "karšwn", 
                 "tmwm", 
@@ -773,10 +1257,18 @@
             ], 
             "sentence_id": 20032, 
             "jpn_sentence": "やめさせろ、死人を洗っているのだ。やめさせろ。", 
-            "roman_sentence": "karšwn tmwm myše awn mrde rw xlaşe myšwrn karšwn tmwm myše ."
+            "roman_sentence": "karšwn tmwm myše awn mrde rw xlaşe myšwrn karšwn tmwm myše .", 
+            "persian_sentence": " کارشون تموم میشه اون مرده رو خلاصه میشورن کارشون تموم میشه.", 
+            "after_conv_tokens": [
+                "kar", 
+                "mrde", 
+                "xlaşe", 
+                "kar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " به پیر مرده میگن آقا جریانت چیه فلان برنامت چیه؟", 
+            "after_conv_sentence": "be pyr mrde  āŕa jryan če flan brname če ?", 
             "tokens": [
                 "be", 
                 "pyr", 
@@ -792,10 +1284,23 @@
             ], 
             "sentence_id": 20033, 
             "jpn_sentence": "そして、老人（男）に向かって言った。いったい何のつもりだ。", 
-            "roman_sentence": "be pyr mrde mygn āŕa jryant čye flan brnamt čye ?"
+            "roman_sentence": "be pyr mrde mygn āŕa jryant čye flan brnamt čye ?", 
+            "persian_sentence": " به پیر مرده میگن آقا جریانت چیه فلان برنامت چیه؟", 
+            "after_conv_tokens": [
+                "be", 
+                "pyr", 
+                "mrde", 
+                "āŕa", 
+                "jryan", 
+                "če", 
+                "flan", 
+                "brname", 
+                "če", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " چی میخوای گفت اره من پشتم قوز داره و اینا ادرس گرفتم اینا.", 
+            "after_conv_sentence": "  gft  mn pšt ŕwz d w   grftm  .", 
             "tokens": [
                 "čy", 
                 "myxway", 
@@ -814,10 +1319,21 @@
             ], 
             "sentence_id": 20034, 
             "jpn_sentence": "何が欲しいのだ。男は言った。はい、私には瘤があります。ある男がここを教えてくれたんだ。", 
-            "roman_sentence": "čy myxway gft are mn pštm ŕwz dare w ayna adrs grftm ayna ."
+            "roman_sentence": "čy myxway gft are mn pštm ŕwz dare w ayna adrs grftm ayna .", 
+            "persian_sentence": " چی میخوای گفت اره من پشتم قوز داره و اینا ادرس گرفتم اینا.", 
+            "after_conv_tokens": [
+                "gft", 
+                "mn", 
+                "pšt", 
+                "ŕwz", 
+                "d", 
+                "w", 
+                "grftm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد اونا میبیند خوب باهاشون همکاری نکرده بوده چون بعد بر خلاف اونا  رفتار کرده بوده اونا هم اون قوزی ر که سری قبل از اون یارو ورداشته بودن گذاشته بودن رو قوز این یارو.", 
+            "after_conv_sentence": "b'd a  xwb ba aw wn emkay nkde bwde čwn b'd b xlaf a  fta kde bwde a em  ŕwzy  ke sy ŕbl az  yaw dašte bwdn gđašte bwdn w ŕwz ayn yaw .", 
             "tokens": [
                 "b'd", 
                 "awna", 
@@ -860,10 +1376,47 @@
             ], 
             "sentence_id": 20035, 
             "jpn_sentence": "ジンたちは、彼がジンたちと協力しなかったので、前に取った瘤をこの男の瘤の上にくっつけた。", 
-            "roman_sentence": "b'd awna mybynd xwb ba aw wn emkary nkrde bwde čwn b'd br xlaf awna  rftar krde bwde awna em awn ŕwzy r ke sry ŕbl az awn yarw wrdašte bwdn gđašte bwdn rw ŕwz ayn yarw ."
+            "roman_sentence": "b'd awna mybynd xwb ba aw wn emkary nkrde bwde čwn b'd br xlaf awna  rftar krde bwde awna em awn ŕwzy r ke sry ŕbl az awn yarw wrdašte bwdn gđašte bwdn rw ŕwz ayn yarw .", 
+            "persian_sentence": " بعد اونا میبیند خوب باهاشون همکاری نکرده بوده چون بعد بر خلاف اونا  رفتار کرده بوده اونا هم اون قوزی ر که سری قبل از اون یارو ورداشته بودن گذاشته بودن رو قوز این یارو.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "a", 
+                "xwb", 
+                "ba", 
+                "aw", 
+                "wn", 
+                "emkay", 
+                "nkde", 
+                "bwde", 
+                "čwn", 
+                "b'd", 
+                "b", 
+                "xlaf", 
+                "a", 
+                "fta", 
+                "kde", 
+                "bwde", 
+                "a", 
+                "em", 
+                "ŕwzy", 
+                "ke", 
+                "sy", 
+                "ŕbl", 
+                "az", 
+                "yaw", 
+                "dašte", 
+                "bwdn", 
+                "gđašte", 
+                "bwdn", 
+                "w", 
+                "ŕwz", 
+                "ayn", 
+                "yaw", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " آقا این شد جریان قوز بالا قوز.", 
+            "after_conv_sentence": "āŕa ayn šd jryan ŕwz bala ŕwz .", 
             "tokens": [
                 "āŕa", 
                 "ayn", 
@@ -876,10 +1429,21 @@
             ], 
             "sentence_id": 20036, 
             "jpn_sentence": "これが、瘤の上の瘤である。", 
-            "roman_sentence": "āŕa ayn šd jryan ŕwz bala ŕwz ."
+            "roman_sentence": "āŕa ayn šd jryan ŕwz bala ŕwz .", 
+            "persian_sentence": " آقا این شد جریان قوز بالا قوز.", 
+            "after_conv_tokens": [
+                "āŕa", 
+                "ayn", 
+                "šd", 
+                "jryan", 
+                "ŕwz", 
+                "bala", 
+                "ŕwz", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این پیر مرد به جای این که قوز اولشو از دست بده دو قوز شد اومد بالا.", 
+            "after_conv_sentence": "ayn pyr mrd be jay ayn ke ŕwz awl az dst bde dw ŕwz šd  bala .", 
             "tokens": [
                 "ayn", 
                 "pyr", 
@@ -902,7 +1466,27 @@
             ], 
             "sentence_id": 20037, 
             "jpn_sentence": "この男は、瘤を取るどころか、二つ瘤になって（ハンマームから）出てきた。", 
-            "roman_sentence": "ayn pyr mrd be jay ayn ke ŕwz awlšw az dst bde dw ŕwz šd awmd bala ."
+            "roman_sentence": "ayn pyr mrd be jay ayn ke ŕwz awlšw az dst bde dw ŕwz šd awmd bala .", 
+            "persian_sentence": " این پیر مرد به جای این که قوز اولشو از دست بده دو قوز شد اومد بالا.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "pyr", 
+                "mrd", 
+                "be", 
+                "jay", 
+                "ayn", 
+                "ke", 
+                "ŕwz", 
+                "awl", 
+                "az", 
+                "dst", 
+                "bde", 
+                "dw", 
+                "ŕwz", 
+                "šd", 
+                "bala", 
+                "."
+            ]
         }
     ], 
     "document_info_map": {

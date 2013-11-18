@@ -317,14 +317,19 @@
             ]
         }, 
         {
-            "persian_sentence": " میزنه.", 
+            "after_conv_sentence": "myzne .", 
             "tokens": [
                 "myzne", 
                 "."
             ], 
             "sentence_id": 6010, 
             "jpn_sentence": "人間は斧でライオンの頭を殴った。", 
-            "roman_sentence": "myzne ."
+            "roman_sentence": "myzne .", 
+            "persian_sentence": " میزنه.", 
+            "after_conv_tokens": [
+                "myzne", 
+                "."
+            ]
         }, 
         {
             "after_conv_sentence": "myge frar kn brw w aysty my_xwrm .", 

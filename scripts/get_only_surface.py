@@ -28,7 +28,6 @@ def from_json_file(file_path):
     with codecs.open(file_path, 'r', 'utf-8') as f:
         document_json=json.load(f);
     for sentence in document_json['sentence_set_list']:
-        print sentence;
         plus_space_tokens=map(lambda x: x+u' ', sentence['after_conv_tokens']);
         surface_word_stack+=plus_space_tokens;
         surface_word_stack.append(u'\n');

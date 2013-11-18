@@ -1,12 +1,12 @@
 #! /usr/bin/python
 #-*- coding:utf-8 -*-
 __version__='2';
-__date__='2013/11/10';
+__date__='2013/11/11';
 
 import codecs, re, json, os, sys;
 
 table_map={};
-with codecs.open('../conv_table_working_dir/file_done/manual_editing_4th_run', 'r', 'utf-8') as table_lines:
+with codecs.open('../conv_table_working_dir/file_done/01_30_table.tsv', 'r', 'utf-8') as table_lines:
     for line in table_lines:
         if line[0]==u'#' or line[0]==u'!':
             pass
@@ -65,8 +65,9 @@ for sentence in corpus['sentence_set_list']:
         sentence.setdefault(u'after_conv_tokens', replaced_tokens);
 
     else:
-        print u'There is no converting table for this document:{}'.format(sentence['sentence_id'])
-
+        print u'There is no converting table for this document:{}\nUse same token sequence as original tokens'.format(sentence['sentence_id'])
+        sentence.setdefault(u'after_conv_sentence', sentence['roman_sentence']);
+        sentence.setdefault(u'after_conv_tokens', sentence['tokens']);
 
 file_name=os.path.split(corpus_path)[-1];
 #with codecs.open('./test_corpus/json_after_conv_table/'+file_name, 'w', 'utf-8') as f:

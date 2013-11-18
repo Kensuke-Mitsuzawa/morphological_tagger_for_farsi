@@ -1,7 +1,7 @@
 {
     "sentence_set_list": [
         {
-            "persian_sentence": "یکی بود یکی نبود.", 
+            "after_conv_sentence": "yky bwd yky nbwd .", 
             "tokens": [
                 "yky", 
                 "bwd", 
@@ -11,10 +11,18 @@
             ], 
             "sentence_id": 21001, 
             "jpn_sentence": "あったことか、なかったことか。", 
-            "roman_sentence": "yky bwd yky nbwd ."
+            "roman_sentence": "yky bwd yky nbwd .", 
+            "persian_sentence": "یکی بود یکی نبود.", 
+            "after_conv_tokens": [
+                "yky", 
+                "bwd", 
+                "yky", 
+                "nbwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاهی سه دختر داشت.", 
+            "after_conv_sentence": "padšaey se dxtr dašt .", 
             "tokens": [
                 "padšaey", 
                 "se", 
@@ -24,10 +32,18 @@
             ], 
             "sentence_id": 21002, 
             "jpn_sentence": "三人の王女がいる王がいた。", 
-            "roman_sentence": "padšaey se dxtr dašt ."
+            "roman_sentence": "padšaey se dxtr dašt .", 
+            "persian_sentence": " پادشاهی سه دختر داشت.", 
+            "after_conv_tokens": [
+                "padšaey", 
+                "se", 
+                "dxtr", 
+                "dašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پدر دخترانش رو شوهر نمیداد.", 
+            "after_conv_sentence": "pdr dxtw ra nš  šwer  .", 
             "tokens": [
                 "pdr", 
                 "dxtw", 
@@ -40,10 +56,19 @@
             ], 
             "sentence_id": 21003, 
             "jpn_sentence": "王は、王女たちを結婚させなかった。", 
-            "roman_sentence": "pdr dxtw ra nš rw šwer nmydad ."
+            "roman_sentence": "pdr dxtw ra nš rw šwer nmydad .", 
+            "persian_sentence": " پدر دخترانش رو شوهر نمیداد.", 
+            "after_conv_tokens": [
+                "pdr", 
+                "dxtw", 
+                "ra", 
+                "nš", 
+                "šwer", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دخترا از این موضوع خیلی ناراحت بودن.", 
+            "after_conv_sentence": "dxtw ra  az ayn mwźw' xyly naraħt bwdn .", 
             "tokens": [
                 "dxtw", 
                 "ra", 
@@ -57,10 +82,22 @@
             ], 
             "sentence_id": 21004, 
             "jpn_sentence": "王女たちは、これをいやがっていた。", 
-            "roman_sentence": "dxtw ra  az ayn mwźw' xyly naraħt bwdn ."
+            "roman_sentence": "dxtw ra  az ayn mwźw' xyly naraħt bwdn .", 
+            "persian_sentence": " دخترا از این موضوع خیلی ناراحت بودن.", 
+            "after_conv_tokens": [
+                "dxtw", 
+                "ra", 
+                "az", 
+                "ayn", 
+                "mwźw'", 
+                "xyly", 
+                "naraħt", 
+                "bwdn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " روزی دخترا از باغبان قصرشان خواهش کردن که برای آنها خربزه ای بیاورد.", 
+            "after_conv_sentence": "rwzy dxtw ra  az baqban ŕşr xwaeš krdn ke bray ānea   .", 
             "tokens": [
                 "rwzy", 
                 "dxtw", 
@@ -80,10 +117,25 @@
             ], 
             "sentence_id": 21005, 
             "jpn_sentence": "ある日、王女たちは、庭師にメロンを宮殿に持ってくるように頼んだ。", 
-            "roman_sentence": "rwzy dxtw ra  az baqban ŕşršan xwaeš krdn ke bray ānea xrbze ay byawrd ."
+            "roman_sentence": "rwzy dxtw ra  az baqban ŕşršan xwaeš krdn ke bray ānea xrbze ay byawrd .", 
+            "persian_sentence": " روزی دخترا از باغبان قصرشان خواهش کردن که برای آنها خربزه ای بیاورد.", 
+            "after_conv_tokens": [
+                "rwzy", 
+                "dxtw", 
+                "ra", 
+                "az", 
+                "baqban", 
+                "ŕşr", 
+                "xwaeš", 
+                "krdn", 
+                "ke", 
+                "bray", 
+                "ānea", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه(۱) سه خربزه برای آنها آورد.", 
+            "after_conv_sentence": "padšae (1) se xrbze bray ānea  .", 
             "tokens": [
                 "padšae", 
                 "(1)", 
@@ -96,10 +148,20 @@
             ], 
             "sentence_id": 21006, 
             "jpn_sentence": "庭師はメロンを三つ持ってきた。", 
-            "roman_sentence": "padšae (1) se xrbze bray ānea āwrd ."
+            "roman_sentence": "padšae (1) se xrbze bray ānea āwrd .", 
+            "persian_sentence": " پادشاه(۱) سه خربزه برای آنها آورد.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "(1)", 
+                "se", 
+                "xrbze", 
+                "bray", 
+                "ānea", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر بزرگتر خربزه را دو قاچ کرد.", 
+            "after_conv_sentence": "dxtr bzrgtr xrbze ra dw ŕač krd .", 
             "tokens": [
                 "dxtr", 
                 "bzrgtr", 
@@ -112,10 +174,21 @@
             ], 
             "sentence_id": 21007, 
             "jpn_sentence": "上の王女は、メロンを二つに切った。", 
-            "roman_sentence": "dxtr bzrgtr xrbze ra dw ŕač krd ."
+            "roman_sentence": "dxtr bzrgtr xrbze ra dw ŕač krd .", 
+            "persian_sentence": " دختر بزرگتر خربزه را دو قاچ کرد.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "bzrgtr", 
+                "xrbze", 
+                "ra", 
+                "dw", 
+                "ŕač", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر دوم خربزه را به سه قاچ کرد.", 
+            "after_conv_sentence": "dxtr dwm xrbze ra be se ŕač krd .", 
             "tokens": [
                 "dxtr", 
                 "dwm", 
@@ -129,10 +202,22 @@
             ], 
             "sentence_id": 21008, 
             "jpn_sentence": "真ん中の王女は、メロンを三つに切った。", 
-            "roman_sentence": "dxtr dwm xrbze ra be se ŕač krd ."
+            "roman_sentence": "dxtr dwm xrbze ra be se ŕač krd .", 
+            "persian_sentence": " دختر دوم خربزه را به سه قاچ کرد.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "dwm", 
+                "xrbze", 
+                "ra", 
+                "be", 
+                "se", 
+                "ŕač", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و دختر سوم یک قاچ.", 
+            "after_conv_sentence": "w dxtr swm yk ŕač .", 
             "tokens": [
                 "w", 
                 "dxtr", 
@@ -143,10 +228,19 @@
             ], 
             "sentence_id": 21009, 
             "jpn_sentence": "三番目の王女は、切らなかった。", 
-            "roman_sentence": "w dxtr swm yk ŕač ."
+            "roman_sentence": "w dxtr swm yk ŕač .", 
+            "persian_sentence": " و دختر سوم یک قاچ.", 
+            "after_conv_tokens": [
+                "w", 
+                "dxtr", 
+                "swm", 
+                "yk", 
+                "ŕač", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " آنهارا داخل سینی گذاشتن، و به نزد پادشاه بردند.", 
+            "after_conv_sentence": "ānea daxl syny gđaštn , w be nzd padšae brdnd .", 
             "tokens": [
                 "āneara", 
                 "daxl", 
@@ -162,10 +256,24 @@
             ], 
             "sentence_id": 21010, 
             "jpn_sentence": "そして、それらのメロンを盆に乗せ、王のもとに持っていった。", 
-            "roman_sentence": "āneara daxl syny gđaštn , w be nzd padšae brdnd ."
+            "roman_sentence": "āneara daxl syny gđaštn , w be nzd padšae brdnd .", 
+            "persian_sentence": " آنهارا داخل سینی گذاشتن، و به نزد پادشاه بردند.", 
+            "after_conv_tokens": [
+                "ānea", 
+                "daxl", 
+                "syny", 
+                "gđaštn", 
+                ",", 
+                "w", 
+                "be", 
+                "nzd", 
+                "padšae", 
+                "brdnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه از این کار ناراخت شد، و از آنها توضیح خواست.", 
+            "after_conv_sentence": "padšae az ayn kar naraxt šd , w az ānea twźyħ xwast .", 
             "tokens": [
                 "padšae", 
                 "az", 
@@ -183,10 +291,26 @@
             ], 
             "sentence_id": 21011, 
             "jpn_sentence": "王は、王女のこの行いに不機嫌になり、説明を求めた。", 
-            "roman_sentence": "padšae az ayn kar naraxt šd , w az ānea twźyħ xwast ."
+            "roman_sentence": "padšae az ayn kar naraxt šd , w az ānea twźyħ xwast .", 
+            "persian_sentence": " پادشاه از این کار ناراخت شد، و از آنها توضیح خواست.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "az", 
+                "ayn", 
+                "kar", 
+                "naraxt", 
+                "šd", 
+                ",", 
+                "w", 
+                "az", 
+                "ānea", 
+                "twźyħ", 
+                "xwast", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " از وزیرش هم چاره جوئی کرد.", 
+            "after_conv_sentence": "az wzyr em  krd .", 
             "tokens": [
                 "az", 
                 "wzyrš", 
@@ -198,10 +322,18 @@
             ], 
             "sentence_id": 21012, 
             "jpn_sentence": "大臣たちにも意見を求めた。", 
-            "roman_sentence": "az wzyrš em čare jw´y krd ."
+            "roman_sentence": "az wzyrš em čare jw´y krd .", 
+            "persian_sentence": " از وزیرش هم چاره جوئی کرد.", 
+            "after_conv_tokens": [
+                "az", 
+                "wzyr", 
+                "em", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " وزیر حکمت این کار را برای پادشاه بازگو کرد.", 
+            "after_conv_sentence": "wzyr ħkmt ayn kar ra bray padšae  krd .", 
             "tokens": [
                 "wzyr", 
                 "ħkmt", 
@@ -216,10 +348,22 @@
             ], 
             "sentence_id": 21013, 
             "jpn_sentence": "知恵のある大臣がこの行為を王に説明して言った。", 
-            "roman_sentence": "wzyr ħkmt ayn kar ra bray padšae bazgw krd ."
+            "roman_sentence": "wzyr ħkmt ayn kar ra bray padšae bazgw krd .", 
+            "persian_sentence": " وزیر حکمت این کار را برای پادشاه بازگو کرد.", 
+            "after_conv_tokens": [
+                "wzyr", 
+                "ħkmt", 
+                "ayn", 
+                "kar", 
+                "ra", 
+                "bray", 
+                "padšae", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت اگر دختر اولت را شوهر میدادی، دو بچه میداد.", 
+            "after_conv_sentence": "gft agr dxtr awl ra šwer y , dw bče  .", 
             "tokens": [
                 "gft", 
                 "agr", 
@@ -236,10 +380,24 @@
             ], 
             "sentence_id": 21014, 
             "jpn_sentence": "一番上の王女を結婚させていたら、子供が二人できたでしょう。", 
-            "roman_sentence": "gft agr dxtr awlt ra šwer mydady , dw bče mydad ."
+            "roman_sentence": "gft agr dxtr awlt ra šwer mydady , dw bče mydad .", 
+            "persian_sentence": " گفت اگر دختر اولت را شوهر میدادی، دو بچه میداد.", 
+            "after_conv_tokens": [
+                "gft", 
+                "agr", 
+                "dxtr", 
+                "awl", 
+                "ra", 
+                "šwer", 
+                "y", 
+                ",", 
+                "dw", 
+                "bče", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر دومت را اگر شوهر میدادی، سه بچه.", 
+            "after_conv_sentence": "dxtr dwm ra agr šwer  , se bče .", 
             "tokens": [
                 "dxtr", 
                 "dwmt", 
@@ -254,10 +412,22 @@
             ], 
             "sentence_id": 21015, 
             "jpn_sentence": "真ん中の王女を結婚させたら、子供が三人できたでしょう。", 
-            "roman_sentence": "dxtr dwmt ra agr šwer mydady , se bče ."
+            "roman_sentence": "dxtr dwmt ra agr šwer mydady , se bče .", 
+            "persian_sentence": " دختر دومت را اگر شوهر میدادی، سه بچه.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "dwm", 
+                "ra", 
+                "agr", 
+                "šwer", 
+                ",", 
+                "se", 
+                "bče", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و دختر سومت دارای یک بچه میشد.", 
+            "after_conv_sentence": "w dxtr swm daray yk bče  .", 
             "tokens": [
                 "w", 
                 "dxtr", 
@@ -270,10 +440,20 @@
             ], 
             "sentence_id": 21016, 
             "jpn_sentence": "そして、三番目の王女を結婚させていたら、子供が一人できたでしょう。", 
-            "roman_sentence": "w dxtr swmt daray yk bče myšd ."
+            "roman_sentence": "w dxtr swmt daray yk bče myšd .", 
+            "persian_sentence": " و دختر سومت دارای یک بچه میشد.", 
+            "after_conv_tokens": [
+                "w", 
+                "dxtr", 
+                "swm", 
+                "daray", 
+                "yk", 
+                "bče", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه تصمیم گرفت دخترانش را شوهر بدهد.", 
+            "after_conv_sentence": "padšae tşmym grft dxtw ra nš ra šwer bded .", 
             "tokens": [
                 "padšae", 
                 "tşmym", 
@@ -288,10 +468,23 @@
             ], 
             "sentence_id": 21017, 
             "jpn_sentence": "王は、王女たちを結婚させることにした。", 
-            "roman_sentence": "padšae tşmym grft dxtw ra nš ra šwer bded ."
+            "roman_sentence": "padšae tşmym grft dxtw ra nš ra šwer bded .", 
+            "persian_sentence": " پادشاه تصمیم گرفت دخترانش را شوهر بدهد.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "tşmym", 
+                "grft", 
+                "dxtw", 
+                "ra", 
+                "nš", 
+                "ra", 
+                "šwer", 
+                "bded", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " از جارچی، خواست تا در شهر جار بزند، که دختر پادشاه قصد شوهر کردن دارد.", 
+            "after_conv_sentence": "az čy , xwast ta dr šer  bznd , ke dxtr padšae ŕşd šwer krdn dard .", 
             "tokens": [
                 "az", 
                 "jarčy", 
@@ -314,10 +507,30 @@
             ], 
             "sentence_id": 21018, 
             "jpn_sentence": "触れ役に、王女たちが結婚することを伝えさせた。", 
-            "roman_sentence": "az jarčy , xwast ta dr šer jar bznd , ke dxtr padšae ŕşd šwer krdn dard ."
+            "roman_sentence": "az jarčy , xwast ta dr šer jar bznd , ke dxtr padšae ŕşd šwer krdn dard .", 
+            "persian_sentence": " از جارچی، خواست تا در شهر جار بزند، که دختر پادشاه قصد شوهر کردن دارد.", 
+            "after_conv_tokens": [
+                "az", 
+                "čy", 
+                ",", 
+                "xwast", 
+                "ta", 
+                "dr", 
+                "šer", 
+                "bznd", 
+                ",", 
+                "ke", 
+                "dxtr", 
+                "padšae", 
+                "ŕşd", 
+                "šwer", 
+                "krdn", 
+                "dard", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " جارچی همین کار را کرد و قضیه را برای مردم شهر بازگو کرد.", 
+            "after_conv_sentence": "jarčy emyn kar ra krd w ŕźye ra bray mrdm šer  krd .", 
             "tokens": [
                 "jarčy", 
                 "emyn", 
@@ -336,10 +549,26 @@
             ], 
             "sentence_id": 21019, 
             "jpn_sentence": "触れ役は、そのとおり、町の人々にそのことを触れてまわった。", 
-            "roman_sentence": "jarčy emyn kar ra krd w ŕźye ra bray mrdm šer bazgw krd ."
+            "roman_sentence": "jarčy emyn kar ra krd w ŕźye ra bray mrdm šer bazgw krd .", 
+            "persian_sentence": " جارچی همین کار را کرد و قضیه را برای مردم شهر بازگو کرد.", 
+            "after_conv_tokens": [
+                "jarčy", 
+                "emyn", 
+                "kar", 
+                "ra", 
+                "krd", 
+                "w", 
+                "ŕźye", 
+                "ra", 
+                "bray", 
+                "mrdm", 
+                "šer", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " از همه قشر مردم جمع شدند.", 
+            "after_conv_sentence": "az eme ŕšr mrdm jm' šdnd .", 
             "tokens": [
                 "az", 
                 "eme", 
@@ -351,10 +580,20 @@
             ], 
             "sentence_id": 21020, 
             "jpn_sentence": "あらゆる階層の人々が集まった。", 
-            "roman_sentence": "az eme ŕšr mrdm jm' šdnd ."
+            "roman_sentence": "az eme ŕšr mrdm jm' šdnd .", 
+            "persian_sentence": " از همه قشر مردم جمع شدند.", 
+            "after_conv_tokens": [
+                "az", 
+                "eme", 
+                "ŕšr", 
+                "mrdm", 
+                "jm'", 
+                "šdnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پدر از دختر بزرگش سوال کرد که منو چه قدر دوست داری؟", 
+            "after_conv_sentence": "pdr az dxtr bzrg swal krd ke mn če ŕdr dwst dary ?", 
             "tokens": [
                 "pdr", 
                 "az", 
@@ -372,10 +611,26 @@
             ], 
             "sentence_id": 21021, 
             "jpn_sentence": "王は、上の王女に尋ねた。私をどれくらい好いているか。", 
-            "roman_sentence": "pdr az dxtr bzrgš swal krd ke mnw če ŕdr dwst dary ?"
+            "roman_sentence": "pdr az dxtr bzrgš swal krd ke mnw če ŕdr dwst dary ?", 
+            "persian_sentence": " پدر از دختر بزرگش سوال کرد که منو چه قدر دوست داری؟", 
+            "after_conv_tokens": [
+                "pdr", 
+                "az", 
+                "dxtr", 
+                "bzrg", 
+                "swal", 
+                "krd", 
+                "ke", 
+                "mn", 
+                "če", 
+                "ŕdr", 
+                "dwst", 
+                "dary", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " دختر گفت به اندازه ای که قند شیرین است من شمارا دوست دارم.", 
+            "after_conv_sentence": "dxtr gft be  ke ŕnd šyryn ast mn šma dwst darm .", 
             "tokens": [
                 "dxtr", 
                 "gft", 
@@ -394,10 +649,25 @@
             ], 
             "sentence_id": 21022, 
             "jpn_sentence": "上の王女は答えた。砂糖が甘いように私は父上を好いています。", 
-            "roman_sentence": "dxtr gft be andaze ay ke ŕnd šyryn ast mn šmara dwst darm ."
+            "roman_sentence": "dxtr gft be andaze ay ke ŕnd šyryn ast mn šmara dwst darm .", 
+            "persian_sentence": " دختر گفت به اندازه ای که قند شیرین است من شمارا دوست دارم.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "gft", 
+                "be", 
+                "ke", 
+                "ŕnd", 
+                "šyryn", 
+                "ast", 
+                "mn", 
+                "šma", 
+                "dwst", 
+                "darm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پدر را از این جواب خوش آمد و آن دخترا با عقد پسر وزیر دست راستش در آورد.", 
+            "after_conv_sentence": "pdr ra az ayn jwab xwš āmd w ān dxtw ra  ba  psr wzyr dst rast dr āwrd .", 
             "tokens": [
                 "pdr", 
                 "ra", 
@@ -422,10 +692,32 @@
             ], 
             "sentence_id": 21023, 
             "jpn_sentence": "王は、この返事に満足した。そして、上の王女を右大臣の息子と結婚させた。", 
-            "roman_sentence": "pdr ra az ayn jwab xwš āmd w ān dxtw ra  ba 'ŕd psr wzyr dst rastš dr āwrd ."
+            "roman_sentence": "pdr ra az ayn jwab xwš āmd w ān dxtw ra  ba 'ŕd psr wzyr dst rastš dr āwrd .", 
+            "persian_sentence": " پدر را از این جواب خوش آمد و آن دخترا با عقد پسر وزیر دست راستش در آورد.", 
+            "after_conv_tokens": [
+                "pdr", 
+                "ra", 
+                "az", 
+                "ayn", 
+                "jwab", 
+                "xwš", 
+                "āmd", 
+                "w", 
+                "ān", 
+                "dxtw", 
+                "ra", 
+                "ba", 
+                "psr", 
+                "wzyr", 
+                "dst", 
+                "rast", 
+                "dr", 
+                "āwrd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " هفت شبانه روز مطربان میزدند و میرقصیدند و عروسی دختر پادشاه بود.", 
+            "after_conv_sentence": "eft šbane rwz   w  w 'rwsy dxtr padšae bwd .", 
             "tokens": [
                 "eft", 
                 "šbane", 
@@ -443,10 +735,23 @@
             ], 
             "sentence_id": 21024, 
             "jpn_sentence": "七昼夜の間、歌い踊り、それは王女の結婚式にふさわしいものだった。", 
-            "roman_sentence": "eft šbane rwz mţrban myzdnd w myrŕşydnd w 'rwsy dxtr padšae bwd ."
+            "roman_sentence": "eft šbane rwz mţrban myzdnd w myrŕşydnd w 'rwsy dxtr padšae bwd .", 
+            "persian_sentence": " هفت شبانه روز مطربان میزدند و میرقصیدند و عروسی دختر پادشاه بود.", 
+            "after_conv_tokens": [
+                "eft", 
+                "šbane", 
+                "rwz", 
+                "w", 
+                "w", 
+                "'rwsy", 
+                "dxtr", 
+                "padšae", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یک هفته بعد، پادشاه برای بار دوم خواست دختر دومش را شوهر دهد.", 
+            "after_conv_sentence": "yk efte b'd , padšae bray bar dwm xwast dxtr dwm ra šwer ded .", 
             "tokens": [
                 "yk", 
                 "efte", 
@@ -466,10 +771,28 @@
             ], 
             "sentence_id": 21025, 
             "jpn_sentence": "一週間の後、王は、二番目の王女を結婚させることにした。", 
-            "roman_sentence": "yk efte b'd , padšae bray bar dwm xwast dxtr dwmš ra šwer ded ."
+            "roman_sentence": "yk efte b'd , padšae bray bar dwm xwast dxtr dwmš ra šwer ded .", 
+            "persian_sentence": " یک هفته بعد، پادشاه برای بار دوم خواست دختر دومش را شوهر دهد.", 
+            "after_conv_tokens": [
+                "yk", 
+                "efte", 
+                "b'd", 
+                ",", 
+                "padšae", 
+                "bray", 
+                "bar", 
+                "dwm", 
+                "xwast", 
+                "dxtr", 
+                "dwm", 
+                "ra", 
+                "šwer", 
+                "ded", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " برای همین از جارچی خواست، تا در شهر خبر دهد که عروسی دختر دوم پادشاست.", 
+            "after_conv_sentence": "bray emyn az jarčy xwast , ta dr šer xbr  ke 'rwsy dxtr dwm padšae .", 
             "tokens": [
                 "bray", 
                 "emyn", 
@@ -491,10 +814,29 @@
             ], 
             "sentence_id": 21026, 
             "jpn_sentence": "同様に、触れ役を用いて、二人目の王女の結婚を町中に知らせた。", 
-            "roman_sentence": "bray emyn az jarčy xwast , ta dr šer xbr ded ke 'rwsy dxtr dwm padšast ."
+            "roman_sentence": "bray emyn az jarčy xwast , ta dr šer xbr ded ke 'rwsy dxtr dwm padšast .", 
+            "persian_sentence": " برای همین از جارچی خواست، تا در شهر خبر دهد که عروسی دختر دوم پادشاست.", 
+            "after_conv_tokens": [
+                "bray", 
+                "emyn", 
+                "az", 
+                "jarčy", 
+                "xwast", 
+                ",", 
+                "ta", 
+                "dr", 
+                "šer", 
+                "xbr", 
+                "ke", 
+                "'rwsy", 
+                "dxtr", 
+                "dwm", 
+                "padšae", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " جارچی همین کار را کرد، و مردم در شهر دو باره جمع شدند.", 
+            "after_conv_sentence": "jarčy emyn kar ra krd , w mrdm dr šer dw bare jm' šdnd .", 
             "tokens": [
                 "jarčy", 
                 "emyn", 
@@ -514,10 +856,28 @@
             ], 
             "sentence_id": 21027, 
             "jpn_sentence": "町の人々は再び集まった。", 
-            "roman_sentence": "jarčy emyn kar ra krd , w mrdm dr šer dw bare jm' šdnd ."
+            "roman_sentence": "jarčy emyn kar ra krd , w mrdm dr šer dw bare jm' šdnd .", 
+            "persian_sentence": " جارچی همین کار را کرد، و مردم در شهر دو باره جمع شدند.", 
+            "after_conv_tokens": [
+                "jarčy", 
+                "emyn", 
+                "kar", 
+                "ra", 
+                "krd", 
+                ",", 
+                "w", 
+                "mrdm", 
+                "dr", 
+                "šer", 
+                "dw", 
+                "bare", 
+                "jm'", 
+                "šdnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه به دختر دومش گفت، مرا چه قدر دوست داری؟", 
+            "after_conv_sentence": "padšae be dxtr dwm gft , mn ra  če ŕdr dwst dary ?", 
             "tokens": [
                 "padšae", 
                 "be", 
@@ -535,10 +895,26 @@
             ], 
             "sentence_id": 21028, 
             "jpn_sentence": "王は二番目の王女に言った。私をどれくらい好いているか。", 
-            "roman_sentence": "padšae be dxtr dwmš gft , mn ra  če ŕdr dwst dary ?"
+            "roman_sentence": "padšae be dxtr dwmš gft , mn ra  če ŕdr dwst dary ?", 
+            "persian_sentence": " پادشاه به دختر دومش گفت، مرا چه قدر دوست داری؟", 
+            "after_conv_tokens": [
+                "padšae", 
+                "be", 
+                "dxtr", 
+                "dwm", 
+                "gft", 
+                ",", 
+                "mn", 
+                "ra", 
+                "če", 
+                "ŕdr", 
+                "dwst", 
+                "dary", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " دختر گفت به اندازه شیرینی نبات.", 
+            "after_conv_sentence": "dxtr gft be andaze šyryny nbat .", 
             "tokens": [
                 "dxtr", 
                 "gft", 
@@ -550,10 +926,20 @@
             ], 
             "sentence_id": 21029, 
             "jpn_sentence": "二番目の王女は言った。氷砂糖が甘いように私は父上を愛しています。", 
-            "roman_sentence": "dxtr gft be andaze šyryny nbat ."
+            "roman_sentence": "dxtr gft be andaze šyryny nbat .", 
+            "persian_sentence": " دختر گفت به اندازه شیرینی نبات.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "gft", 
+                "be", 
+                "andaze", 
+                "šyryny", 
+                "nbat", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه از این جواب خوشش آمد و دخترش را به پسر وزیر دست چپ داد.", 
+            "after_conv_sentence": "padšae az ayn jwab xwš āmd w dxtr ra be psr wzyr dst čp dad .", 
             "tokens": [
                 "padšae", 
                 "az", 
@@ -574,10 +960,29 @@
             ], 
             "sentence_id": 21030, 
             "jpn_sentence": "王はこの返事に満足した。そして、二番目の王女を左大臣の息子と結婚させた。", 
-            "roman_sentence": "padšae az ayn jwab xwšš āmd w dxtrš ra be psr wzyr dst čp dad ."
+            "roman_sentence": "padšae az ayn jwab xwšš āmd w dxtrš ra be psr wzyr dst čp dad .", 
+            "persian_sentence": " پادشاه از این جواب خوشش آمد و دخترش را به پسر وزیر دست چپ داد.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "az", 
+                "ayn", 
+                "jwab", 
+                "xwš", 
+                "āmd", 
+                "w", 
+                "dxtr", 
+                "ra", 
+                "be", 
+                "psr", 
+                "wzyr", 
+                "dst", 
+                "čp", 
+                "dad", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و هفت شبانه روز نیز عروسی او بود.", 
+            "after_conv_sentence": "w eft šbane rwz nyz 'rwsy aw bwd .", 
             "tokens": [
                 "w", 
                 "eft", 
@@ -591,10 +996,22 @@
             ], 
             "sentence_id": 21031, 
             "jpn_sentence": "そして、七昼夜の間、結婚を祝った。", 
-            "roman_sentence": "w eft šbane rwz nyz 'rwsy aw bwd ."
+            "roman_sentence": "w eft šbane rwz nyz 'rwsy aw bwd .", 
+            "persian_sentence": " و هفت شبانه روز نیز عروسی او بود.", 
+            "after_conv_tokens": [
+                "w", 
+                "eft", 
+                "šbane", 
+                "rwz", 
+                "nyz", 
+                "'rwsy", 
+                "aw", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " چند هفته بعد قرار شد دختر سومش نیز شوهر کند.", 
+            "after_conv_sentence": "čnd efte b'd ŕrar šd dxtr swm nyz šwer knd .", 
             "tokens": [
                 "čnd", 
                 "efte", 
@@ -610,10 +1027,24 @@
             ], 
             "sentence_id": 21032, 
             "jpn_sentence": "次に、三番目の王女を結婚させることにした。", 
-            "roman_sentence": "čnd efte b'd ŕrar šd dxtr swmš nyz šwer knd ."
+            "roman_sentence": "čnd efte b'd ŕrar šd dxtr swmš nyz šwer knd .", 
+            "persian_sentence": " چند هفته بعد قرار شد دختر سومش نیز شوهر کند.", 
+            "after_conv_tokens": [
+                "čnd", 
+                "efte", 
+                "b'd", 
+                "ŕrar", 
+                "šd", 
+                "dxtr", 
+                "swm", 
+                "nyz", 
+                "šwer", 
+                "knd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " جارچی همین کار را در شهر اعلام کرد و مردم زیادی جمع شدند.", 
+            "after_conv_sentence": "jarčy emyn kar ra dr šer a'lam krd w mrdm zyady jm' šdnd .", 
             "tokens": [
                 "jarčy", 
                 "emyn", 
@@ -632,10 +1063,27 @@
             ], 
             "sentence_id": 21033, 
             "jpn_sentence": "触れ役は、また同様に触れて回り、多くの人々が集まった。", 
-            "roman_sentence": "jarčy emyn kar ra dr šer a'lam krd w mrdm zyady jm' šdnd ."
+            "roman_sentence": "jarčy emyn kar ra dr šer a'lam krd w mrdm zyady jm' šdnd .", 
+            "persian_sentence": " جارچی همین کار را در شهر اعلام کرد و مردم زیادی جمع شدند.", 
+            "after_conv_tokens": [
+                "jarčy", 
+                "emyn", 
+                "kar", 
+                "ra", 
+                "dr", 
+                "šer", 
+                "a'lam", 
+                "krd", 
+                "w", 
+                "mrdm", 
+                "zyady", 
+                "jm'", 
+                "šdnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه به دختر آخرش گفت مرا چه قدر دوست داری؟", 
+            "after_conv_sentence": "padšae be dxtr āxr gft mn ra  če ŕdr dwst dary ?", 
             "tokens": [
                 "padšae", 
                 "be", 
@@ -652,10 +1100,25 @@
             ], 
             "sentence_id": 21034, 
             "jpn_sentence": "王は、末の王女にこう言った。私をどれくらい好いているか。", 
-            "roman_sentence": "padšae be dxtr āxrš gft mn ra  če ŕdr dwst dary ?"
+            "roman_sentence": "padšae be dxtr āxrš gft mn ra  če ŕdr dwst dary ?", 
+            "persian_sentence": " پادشاه به دختر آخرش گفت مرا چه قدر دوست داری؟", 
+            "after_conv_tokens": [
+                "padšae", 
+                "be", 
+                "dxtr", 
+                "āxr", 
+                "gft", 
+                "mn", 
+                "ra", 
+                "če", 
+                "ŕdr", 
+                "dwst", 
+                "dary", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " دختر جواب داد به اندازه شوری نمک من شمارا دوست رارم.", 
+            "after_conv_sentence": "dxtr jwab dad be andaze šwry nmk mn šma dwst  .", 
             "tokens": [
                 "dxtr", 
                 "jwab", 
@@ -672,10 +1135,24 @@
             ], 
             "sentence_id": 21035, 
             "jpn_sentence": "三番目王女は答えた。塩が辛いのと同じくらい父上を愛しています。", 
-            "roman_sentence": "dxtr jwab dad be andaze šwry nmk mn šmara dwst rarm ."
+            "roman_sentence": "dxtr jwab dad be andaze šwry nmk mn šmara dwst rarm .", 
+            "persian_sentence": " دختر جواب داد به اندازه شوری نمک من شمارا دوست رارم.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "jwab", 
+                "dad", 
+                "be", 
+                "andaze", 
+                "šwry", 
+                "nmk", 
+                "mn", 
+                "šma", 
+                "dwst", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پدر از این حرف دختر سخت عصبانی شد.", 
+            "after_conv_sentence": "pdr az ayn ħrf dxtr sxt 'şbany šd .", 
             "tokens": [
                 "pdr", 
                 "az", 
@@ -689,10 +1166,22 @@
             ], 
             "sentence_id": 21036, 
             "jpn_sentence": "王は、この返事にたいそう怒った。", 
-            "roman_sentence": "pdr az ayn ħrf dxtr sxt 'şbany šd ."
+            "roman_sentence": "pdr az ayn ħrf dxtr sxt 'şbany šd .", 
+            "persian_sentence": " پدر از این حرف دختر سخت عصبانی شد.", 
+            "after_conv_tokens": [
+                "pdr", 
+                "az", 
+                "ayn", 
+                "ħrf", 
+                "dxtr", 
+                "sxt", 
+                "'şbany", 
+                "šd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و به جلاد دستور داد تا دختر را به یک جنگل برده و او رو بکشد.", 
+            "after_conv_sentence": "w be jlad dstwr dad ta dxtr ra be yk jngl brde w aw  bkšd .", 
             "tokens": [
                 "w", 
                 "be", 
@@ -714,10 +1203,29 @@
             ], 
             "sentence_id": 21037, 
             "jpn_sentence": "そして、刑吏に、この王女を森に連れていき、殺して", 
-            "roman_sentence": "w be jlad dstwr dad ta dxtr ra be yk jngl brde w aw rw bkšd ."
+            "roman_sentence": "w be jlad dstwr dad ta dxtr ra be yk jngl brde w aw rw bkšd .", 
+            "persian_sentence": " و به جلاد دستور داد تا دختر را به یک جنگل برده و او رو بکشد.", 
+            "after_conv_tokens": [
+                "w", 
+                "be", 
+                "jlad", 
+                "dstwr", 
+                "dad", 
+                "ta", 
+                "dxtr", 
+                "ra", 
+                "be", 
+                "yk", 
+                "jngl", 
+                "brde", 
+                "w", 
+                "aw", 
+                "bkšd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و یک شیشه از خونش را بیاورد تا خودش بخورد.", 
+            "after_conv_sentence": "w yk šyše az xwn ra  ta xwdš bxwrd .", 
             "tokens": [
                 "w", 
                 "yk", 
@@ -733,10 +1241,23 @@
             ], 
             "sentence_id": 21038, 
             "jpn_sentence": "血をビンに入れて持ち帰るよう命じた。その血を飲むつもりであったのである。", 
-            "roman_sentence": "w yk šyše az xwnš ra byawrd ta xwdš bxwrd ."
+            "roman_sentence": "w yk šyše az xwnš ra byawrd ta xwdš bxwrd .", 
+            "persian_sentence": " و یک شیشه از خونش را بیاورد تا خودش بخورد.", 
+            "after_conv_tokens": [
+                "w", 
+                "yk", 
+                "šyše", 
+                "az", 
+                "xwn", 
+                "ra", 
+                "ta", 
+                "xwdš", 
+                "bxwrd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " جلاد دختر را به میان جنگل برد، و خواست او را بکشد.", 
+            "after_conv_sentence": "jlad dxtr ra be myan jngl brd , w xwast aw ra bkšd .", 
             "tokens": [
                 "jlad", 
                 "dxtr", 
@@ -755,10 +1276,27 @@
             ], 
             "sentence_id": 21039, 
             "jpn_sentence": "刑吏は王女を森に連れて行き、殺そうとした。", 
-            "roman_sentence": "jlad dxtr ra be myan jngl brd , w xwast aw ra bkšd ."
+            "roman_sentence": "jlad dxtr ra be myan jngl brd , w xwast aw ra bkšd .", 
+            "persian_sentence": " جلاد دختر را به میان جنگل برد، و خواست او را بکشد.", 
+            "after_conv_tokens": [
+                "jlad", 
+                "dxtr", 
+                "ra", 
+                "be", 
+                "myan", 
+                "jngl", 
+                "brd", 
+                ",", 
+                "w", 
+                "xwast", 
+                "aw", 
+                "ra", 
+                "bkšd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر شروع به گریه و زاری کرد، و از او خواست که او را نکشد.", 
+            "after_conv_sentence": "dxtr šrw' be grye w zary krd , w az aw xwast ke aw ra nkšd .", 
             "tokens": [
                 "dxtr", 
                 "šrw'", 
@@ -780,10 +1318,30 @@
             ], 
             "sentence_id": 21040, 
             "jpn_sentence": "王女は泣き始め、刑吏に殺さないように頼んだ。", 
-            "roman_sentence": "dxtr šrw' be grye w zary krd , w az aw xwast ke aw ra nkšd ."
+            "roman_sentence": "dxtr šrw' be grye w zary krd , w az aw xwast ke aw ra nkšd .", 
+            "persian_sentence": " دختر شروع به گریه و زاری کرد، و از او خواست که او را نکشد.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "šrw'", 
+                "be", 
+                "grye", 
+                "w", 
+                "zary", 
+                "krd", 
+                ",", 
+                "w", 
+                "az", 
+                "aw", 
+                "xwast", 
+                "ke", 
+                "aw", 
+                "ra", 
+                "nkšd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " انگشتر و گردن طلائی که در دست داشت به جلاد داد، تا از جان او بگذرد و او را نکشد.", 
+            "after_conv_sentence": " w grdn  ke dr dst dašt be jlad dad , ta az jan aw bgđrd w aw ra nkšd .", 
             "tokens": [
                 "angštr", 
                 "w", 
@@ -810,10 +1368,33 @@
             ], 
             "sentence_id": 21041, 
             "jpn_sentence": "命を助けてもらうかわりにと、持っていた金の指輪や首飾りを刑吏に渡した。", 
-            "roman_sentence": "angštr w grdn ţla´y ke dr dst dašt be jlad dad , ta az jan aw bgđrd w aw ra nkšd ."
+            "roman_sentence": "angštr w grdn ţla´y ke dr dst dašt be jlad dad , ta az jan aw bgđrd w aw ra nkšd .", 
+            "persian_sentence": " انگشتر و گردن طلائی که در دست داشت به جلاد داد، تا از جان او بگذرد و او را نکشد.", 
+            "after_conv_tokens": [
+                "w", 
+                "grdn", 
+                "ke", 
+                "dr", 
+                "dst", 
+                "dašt", 
+                "be", 
+                "jlad", 
+                "dad", 
+                ",", 
+                "ta", 
+                "az", 
+                "jan", 
+                "aw", 
+                "bgđrd", 
+                "w", 
+                "aw", 
+                "ra", 
+                "nkšd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " جلاد هم او را آزاد کرد، و چند پرنده شکار کرد و خون آنها را در شیشه ای ریخت، و بجای خون دختره نزد پادشاه برد، و پادشاه از آن خون خورد تا دلش آرام شد.", 
+            "after_conv_sentence": "jlad em aw ra āzad krd , w čnd prnde škar krd w xwn ānea ra dr  ryxt , w be xwn  nzd padšae brd , w padšae az ān xwn xwrd ta dl āram šd .", 
             "tokens": [
                 "jlad", 
                 "em", 
@@ -858,10 +1439,50 @@
             ], 
             "sentence_id": 21042, 
             "jpn_sentence": "刑吏は王女を放してやった。そして、鳥を数羽捕まえて、その血を王女の血の代わりに瓶につめ王のもとへ持って行った。王は、その血を飲んで、怒りはおさまった。", 
-            "roman_sentence": "jlad em aw ra āzad krd , w čnd prnde škar krd w xwn ānea ra dr šyše ay ryxt , w bjay xwn dxtre nzd padšae brd , w padšae az ān xwn xwrd ta dlš āram šd ."
+            "roman_sentence": "jlad em aw ra āzad krd , w čnd prnde škar krd w xwn ānea ra dr šyše ay ryxt , w bjay xwn dxtre nzd padšae brd , w padšae az ān xwn xwrd ta dlš āram šd .", 
+            "persian_sentence": " جلاد هم او را آزاد کرد، و چند پرنده شکار کرد و خون آنها را در شیشه ای ریخت، و بجای خون دختره نزد پادشاه برد، و پادشاه از آن خون خورد تا دلش آرام شد.", 
+            "after_conv_tokens": [
+                "jlad", 
+                "em", 
+                "aw", 
+                "ra", 
+                "āzad", 
+                "krd", 
+                ",", 
+                "w", 
+                "čnd", 
+                "prnde", 
+                "škar", 
+                "krd", 
+                "w", 
+                "xwn", 
+                "ānea", 
+                "ra", 
+                "dr", 
+                "ryxt", 
+                ",", 
+                "w", 
+                "be", 
+                "xwn", 
+                "nzd", 
+                "padšae", 
+                "brd", 
+                ",", 
+                "w", 
+                "padšae", 
+                "az", 
+                "ān", 
+                "xwn", 
+                "xwrd", 
+                "ta", 
+                "dl", 
+                "āram", 
+                "šd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر کم کم در جنگل بزرگ میشود، و پسری که برای (هیزم)، جمع کردن هیزم به جنگل میاید او را میبیند.", 
+            "after_conv_sentence": "dxtr km km dr jngl bzrg  , w  ke bray (eyzm) , jm' krdn eyzm be jngl  aw ra  .", 
             "tokens": [
                 "dxtr", 
                 "km", 
@@ -890,10 +1511,33 @@
             ], 
             "sentence_id": 21043, 
             "jpn_sentence": "王女は、森の中で徐々に成長した。ある時、薪を集めに来ていた少年に出会った。", 
-            "roman_sentence": "dxtr km km dr jngl bzrg myšwd , w psry ke bray (eyzm) , jm' krdn eyzm be jngl myayd aw ra mybynd ."
+            "roman_sentence": "dxtr km km dr jngl bzrg myšwd , w psry ke bray (eyzm) , jm' krdn eyzm be jngl myayd aw ra mybynd .", 
+            "persian_sentence": " دختر کم کم در جنگل بزرگ میشود، و پسری که برای (هیزم)، جمع کردن هیزم به جنگل میاید او را میبیند.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "km", 
+                "km", 
+                "dr", 
+                "jngl", 
+                "bzrg", 
+                ",", 
+                "w", 
+                "ke", 
+                "bray", 
+                "(eyzm)", 
+                ",", 
+                "jm'", 
+                "krdn", 
+                "eyzm", 
+                "be", 
+                "jngl", 
+                "aw", 
+                "ra", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پسر، اول میترسد و میخواد فرار کند.", 
+            "after_conv_sentence": "psr , awl  w  frar knd .", 
             "tokens": [
                 "psr", 
                 ",", 
@@ -907,10 +1551,20 @@
             ], 
             "sentence_id": 21044, 
             "jpn_sentence": "少年は、最初恐れて逃げようとした。", 
-            "roman_sentence": "psr , awl mytrsd w myxwad frar knd ."
+            "roman_sentence": "psr , awl mytrsd w myxwad frar knd .", 
+            "persian_sentence": " پسر، اول میترسد و میخواد فرار کند.", 
+            "after_conv_tokens": [
+                "psr", 
+                ",", 
+                "awl", 
+                "w", 
+                "frar", 
+                "knd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " ولی دختره از او کمک می خواد، و از او خواهش میکند تا او را به خانه اش ببرد.", 
+            "after_conv_sentence": "wly  az aw kmk my xwad , w az aw xwaeš  ta aw ra be xane bbrd .", 
             "tokens": [
                 "wly", 
                 "dxtre", 
@@ -936,10 +1590,31 @@
             ], 
             "sentence_id": 21045, 
             "jpn_sentence": "しかし、娘が少年に助けを求めて、家に連れていってくれと頼んだので、", 
-            "roman_sentence": "wly dxtre az aw kmk my xwad , w az aw xwaeš myknd ta aw ra be xane aš bbrd ."
+            "roman_sentence": "wly dxtre az aw kmk my xwad , w az aw xwaeš myknd ta aw ra be xane aš bbrd .", 
+            "persian_sentence": " ولی دختره از او کمک می خواد، و از او خواهش میکند تا او را به خانه اش ببرد.", 
+            "after_conv_tokens": [
+                "wly", 
+                "az", 
+                "aw", 
+                "kmk", 
+                "my", 
+                "xwad", 
+                ",", 
+                "w", 
+                "az", 
+                "aw", 
+                "xwaeš", 
+                "ta", 
+                "aw", 
+                "ra", 
+                "be", 
+                "xane", 
+                "bbrd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پسر قبول میکند و به همراه دختر به خانه پسر میروند.", 
+            "after_conv_sentence": "psr ŕbwl  w be emn ra e dxtr be xane psr  .", 
             "tokens": [
                 "psr", 
                 "ŕbwl", 
@@ -958,10 +1633,25 @@
             ], 
             "sentence_id": 21046, 
             "jpn_sentence": "少年は娘を連れて家に帰ることにした。", 
-            "roman_sentence": "psr ŕbwl myknd w be emn ra e dxtr be xane psr myrwnd ."
+            "roman_sentence": "psr ŕbwl myknd w be emn ra e dxtr be xane psr myrwnd .", 
+            "persian_sentence": " پسر قبول میکند و به همراه دختر به خانه پسر میروند.", 
+            "after_conv_tokens": [
+                "psr", 
+                "ŕbwl", 
+                "w", 
+                "be", 
+                "emn", 
+                "ra", 
+                "e", 
+                "dxtr", 
+                "be", 
+                "xane", 
+                "psr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر از پسر میخواهد که او رو به عقد خودش در بیاورد، تا باهم زندگی کنند.", 
+            "after_conv_sentence": "dxtr az psr  ke aw  be  xwd dr  , ta  zndgy knnd .", 
             "tokens": [
                 "dxtr", 
                 "az", 
@@ -984,10 +1674,26 @@
             ], 
             "sentence_id": 21047, 
             "jpn_sentence": "娘は、少年に結婚して一緒に暮らすよう求めた。", 
-            "roman_sentence": "dxtr az psr myxwaed ke aw rw be 'ŕd xwdš dr byawrd , ta baem zndgy knnd ."
+            "roman_sentence": "dxtr az psr myxwaed ke aw rw be 'ŕd xwdš dr byawrd , ta baem zndgy knnd .", 
+            "persian_sentence": " دختر از پسر میخواهد که او رو به عقد خودش در بیاورد، تا باهم زندگی کنند.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "az", 
+                "psr", 
+                "ke", 
+                "aw", 
+                "be", 
+                "xwd", 
+                "dr", 
+                ",", 
+                "ta", 
+                "zndgy", 
+                "knnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پسر نیز این کار را قبول میکند.", 
+            "after_conv_sentence": "psr nyz ayn kar ra ŕbwl  .", 
             "tokens": [
                 "psr", 
                 "nyz", 
@@ -1000,10 +1706,20 @@
             ], 
             "sentence_id": 21048, 
             "jpn_sentence": "少年もそうすることにした。", 
-            "roman_sentence": "psr nyz ayn kar ra ŕbwl myknd ."
+            "roman_sentence": "psr nyz ayn kar ra ŕbwl myknd .", 
+            "persian_sentence": " پسر نیز این کار را قبول میکند.", 
+            "after_conv_tokens": [
+                "psr", 
+                "nyz", 
+                "ayn", 
+                "kar", 
+                "ra", 
+                "ŕbwl", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " در یک کلبه کوچکی زندگی شیرینی را شروع کردند.", 
+            "after_conv_sentence": "dr yk klbe kwčky zndgy šyryny ra šrw' krdnd .", 
             "tokens": [
                 "dr", 
                 "yk", 
@@ -1018,10 +1734,23 @@
             ], 
             "sentence_id": 21049, 
             "jpn_sentence": "そして、小さなあばら屋で幸福な生活が始まった。", 
-            "roman_sentence": "dr yk klbe kwčky zndgy šyryny ra šrw' krdnd ."
+            "roman_sentence": "dr yk klbe kwčky zndgy šyryny ra šrw' krdnd .", 
+            "persian_sentence": " در یک کلبه کوچکی زندگی شیرینی را شروع کردند.", 
+            "after_conv_tokens": [
+                "dr", 
+                "yk", 
+                "klbe", 
+                "kwčky", 
+                "zndgy", 
+                "šyryny", 
+                "ra", 
+                "šrw'", 
+                "krdnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد از نه ماه صاحب فرزندی پسری شدند.", 
+            "after_conv_sentence": "b'd az ne mae şaħb frzndy psry šdnd .", 
             "tokens": [
                 "b'd", 
                 "az", 
@@ -1035,10 +1764,22 @@
             ], 
             "sentence_id": 21050, 
             "jpn_sentence": "九ヶ月が経ち、二人には男の子が生まれた。", 
-            "roman_sentence": "b'd az ne mae şaħb frzndy psry šdnd ."
+            "roman_sentence": "b'd az ne mae şaħb frzndy psry šdnd .", 
+            "persian_sentence": " بعد از نه ماه صاحب فرزندی پسری شدند.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "az", 
+                "ne", 
+                "mae", 
+                "şaħb", 
+                "frzndy", 
+                "psry", 
+                "šdnd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بچه کم کم بزرگ شد و وقتی گریه میکرد از چشمانش بجای اشک مروارید میریخت.", 
+            "after_conv_sentence": "bče km km bzrg šd w wŕty grye  az čšm be ašk mrwaryd  .", 
             "tokens": [
                 "bče", 
                 "km", 
@@ -1059,10 +1800,27 @@
             ], 
             "sentence_id": 21051, 
             "jpn_sentence": "子供はだんだん大きくなり、泣くと目からは涙の代わりに真珠が、", 
-            "roman_sentence": "bče km km bzrg šd w wŕty grye mykrd az čšmanš bjay ašk mrwaryd myryxt ."
+            "roman_sentence": "bče km km bzrg šd w wŕty grye mykrd az čšmanš bjay ašk mrwaryd myryxt .", 
+            "persian_sentence": " بچه کم کم بزرگ شد و وقتی گریه میکرد از چشمانش بجای اشک مروارید میریخت.", 
+            "after_conv_tokens": [
+                "bče", 
+                "km", 
+                "km", 
+                "bzrg", 
+                "šd", 
+                "w", 
+                "wŕty", 
+                "grye", 
+                "az", 
+                "čšm", 
+                "be", 
+                "ašk", 
+                "mrwaryd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و وقتی میخندید از دهانش یاقوت میریخت.", 
+            "after_conv_sentence": "w wŕty  az dean yaŕwt  .", 
             "tokens": [
                 "w", 
                 "wŕty", 
@@ -1075,10 +1833,19 @@
             ], 
             "sentence_id": 21052, 
             "jpn_sentence": "笑うと口からはルビーが降り注いだ。", 
-            "roman_sentence": "w wŕty myxndyd az deanš yaŕwt myryxt ."
+            "roman_sentence": "w wŕty myxndyd az deanš yaŕwt myryxt .", 
+            "persian_sentence": " و وقتی میخندید از دهانش یاقوت میریخت.", 
+            "after_conv_tokens": [
+                "w", 
+                "wŕty", 
+                "az", 
+                "dean", 
+                "yaŕwt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد بچه که راه رفتن را یاد میگیرد در هر قدمی که بر میدارد زیر پایش یک دانه مروارید ظاهر میشود و زیر پای دیگرش الماس.", 
+            "after_conv_sentence": "b'd bče ke rae rftn ra yad  dr er ŕdmy ke br  zyr  yk dane mrwaryd ẓaer  w zyr  dygr almas .", 
             "tokens": [
                 "b'd", 
                 "bče", 
@@ -1110,10 +1877,35 @@
             ], 
             "sentence_id": 21053, 
             "jpn_sentence": "やがて、子供は歩くことを覚え、足跡の一方からは真珠が、もう一方からはダイヤモンドが現れた。", 
-            "roman_sentence": "b'd bče ke rae rftn ra yad mygyrd dr er ŕdmy ke br mydard zyr payš yk dane mrwaryd ẓaer myšwd w zyr pay dygrš almas ."
+            "roman_sentence": "b'd bče ke rae rftn ra yad mygyrd dr er ŕdmy ke br mydard zyr payš yk dane mrwaryd ẓaer myšwd w zyr pay dygrš almas .", 
+            "persian_sentence": " بعد بچه که راه رفتن را یاد میگیرد در هر قدمی که بر میدارد زیر پایش یک دانه مروارید ظاهر میشود و زیر پای دیگرش الماس.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "bče", 
+                "ke", 
+                "rae", 
+                "rftn", 
+                "ra", 
+                "yad", 
+                "dr", 
+                "er", 
+                "ŕdmy", 
+                "ke", 
+                "br", 
+                "zyr", 
+                "yk", 
+                "dane", 
+                "mrwaryd", 
+                "ẓaer", 
+                "w", 
+                "zyr", 
+                "dygr", 
+                "almas", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پدر و مادر از این طلا ها جمع میکنند و قصر زیبای برای خودش میسازند.", 
+            "after_conv_sentence": "pdr w madr az ayn ţla ea jm'  w ŕşr zybay bray xwd  .", 
             "tokens": [
                 "pdr", 
                 "w", 
@@ -1134,10 +1926,27 @@
             ], 
             "sentence_id": 21054, 
             "jpn_sentence": "（少年の）両親はこの宝石を集めて城を造った。", 
-            "roman_sentence": "pdr w madr az ayn ţla ea jm' myknnd w ŕşr zybay bray xwdš mysaznd ."
+            "roman_sentence": "pdr w madr az ayn ţla ea jm' myknnd w ŕşr zybay bray xwdš mysaznd .", 
+            "persian_sentence": " پدر و مادر از این طلا ها جمع میکنند و قصر زیبای برای خودش میسازند.", 
+            "after_conv_tokens": [
+                "pdr", 
+                "w", 
+                "madr", 
+                "az", 
+                "ayn", 
+                "ţla", 
+                "ea", 
+                "jm'", 
+                "w", 
+                "ŕşr", 
+                "zybay", 
+                "bray", 
+                "xwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " روزی پادشاه که همان پدر دختره باشد، برای جنگل به شکار میرود(۲).", 
+            "after_conv_sentence": "rwzy padšae ke eman pdr   , bray jngl be škar  (2) .", 
             "tokens": [
                 "rwzy", 
                 "padšae", 
@@ -1157,10 +1966,25 @@
             ], 
             "sentence_id": 21055, 
             "jpn_sentence": "ある日、娘の父親である王が狩りをしに森にやって来た。", 
-            "roman_sentence": "rwzy padšae ke eman pdr dxtre bašd , bray jngl be škar myrwd (2) ."
+            "roman_sentence": "rwzy padšae ke eman pdr dxtre bašd , bray jngl be škar myrwd (2) .", 
+            "persian_sentence": " روزی پادشاه که همان پدر دختره باشد، برای جنگل به شکار میرود(۲).", 
+            "after_conv_tokens": [
+                "rwzy", 
+                "padšae", 
+                "ke", 
+                "eman", 
+                "pdr", 
+                ",", 
+                "bray", 
+                "jngl", 
+                "be", 
+                "škar", 
+                "(2)", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و قصری را از دور میبیند.", 
+            "after_conv_sentence": "w ŕşry ra az dwr  .", 
             "tokens": [
                 "w", 
                 "ŕşry", 
@@ -1172,10 +1996,19 @@
             ], 
             "sentence_id": 21056, 
             "jpn_sentence": "そして、城を遠くから見て、", 
-            "roman_sentence": "w ŕşry ra az dwr mybynd ."
+            "roman_sentence": "w ŕşry ra az dwr mybynd .", 
+            "persian_sentence": " و قصری را از دور میبیند.", 
+            "after_conv_tokens": [
+                "w", 
+                "ŕşry", 
+                "ra", 
+                "az", 
+                "dwr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " تعجب میکند از دیدن آن.", 
+            "after_conv_sentence": "t'jb  az dydn ān .", 
             "tokens": [
                 "t'jb", 
                 "myknd", 
@@ -1186,10 +2019,18 @@
             ], 
             "sentence_id": 21057, 
             "jpn_sentence": "驚いて、", 
-            "roman_sentence": "t'jb myknd az dydn ān ."
+            "roman_sentence": "t'jb myknd az dydn ān .", 
+            "persian_sentence": " تعجب میکند از دیدن آن.", 
+            "after_conv_tokens": [
+                "t'jb", 
+                "az", 
+                "dydn", 
+                "ān", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " نزدیک میشود دختر از بالای قصر پدرش را میبیند و از شوهرش میخواهد تا آنهارا برای ناهار به خانه دعوت کند.", 
+            "after_conv_sentence": "nzdyk  dxtr az balay ŕşr pdr ra  w az šwer  ta ānea bray naear be xane d'wt knd .", 
             "tokens": [
                 "nzdyk", 
                 "myšwd", 
@@ -1216,10 +2057,32 @@
             ], 
             "sentence_id": 21058, 
             "jpn_sentence": "近づいていった。娘は城の上から自分の父親を見ると、夫を呼び、昼ご飯に彼らを招こうと言った。", 
-            "roman_sentence": "nzdyk myšwd dxtr az balay ŕşr pdrš ra mybynd w az šwerš myxwaed ta āneara bray naear be xane d'wt knd ."
+            "roman_sentence": "nzdyk myšwd dxtr az balay ŕşr pdrš ra mybynd w az šwerš myxwaed ta āneara bray naear be xane d'wt knd .", 
+            "persian_sentence": " نزدیک میشود دختر از بالای قصر پدرش را میبیند و از شوهرش میخواهد تا آنهارا برای ناهار به خانه دعوت کند.", 
+            "after_conv_tokens": [
+                "nzdyk", 
+                "dxtr", 
+                "az", 
+                "balay", 
+                "ŕşr", 
+                "pdr", 
+                "ra", 
+                "w", 
+                "az", 
+                "šwer", 
+                "ta", 
+                "ānea", 
+                "bray", 
+                "naear", 
+                "be", 
+                "xane", 
+                "d'wt", 
+                "knd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " شوهرش همین کار را کرد.", 
+            "after_conv_sentence": "šwer emyn kar ra krd .", 
             "tokens": [
                 "šwerš", 
                 "emyn", 
@@ -1230,10 +2093,19 @@
             ], 
             "sentence_id": 21059, 
             "jpn_sentence": "夫は、その通りにした。", 
-            "roman_sentence": "šwerš emyn kar ra krd ."
+            "roman_sentence": "šwerš emyn kar ra krd .", 
+            "persian_sentence": " شوهرش همین کار را کرد.", 
+            "after_conv_tokens": [
+                "šwer", 
+                "emyn", 
+                "kar", 
+                "ra", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " بعد از شکار پادشاه برای ناهار به خانه آنها آمد.", 
+            "after_conv_sentence": "b'd az škar padšae bray naear be xane ānea āmd .", 
             "tokens": [
                 "b'd", 
                 "az", 
@@ -1249,10 +2121,24 @@
             ], 
             "sentence_id": 21060, 
             "jpn_sentence": "狩りの後、王は昼ご飯のためにやって来た。", 
-            "roman_sentence": "b'd az škar padšae bray naear be xane ānea āmd ."
+            "roman_sentence": "b'd az škar padšae bray naear be xane ānea āmd .", 
+            "persian_sentence": " بعد از شکار پادشاه برای ناهار به خانه آنها آمد.", 
+            "after_conv_tokens": [
+                "b'd", 
+                "az", 
+                "škar", 
+                "padšae", 
+                "bray", 
+                "naear", 
+                "be", 
+                "xane", 
+                "ānea", 
+                "āmd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و غذای بسیار لذیذی دختر برای آنها درست کرد.", 
+            "after_conv_sentence": "w qđay bsyar lđyđy dxtr bray ānea drst krd .", 
             "tokens": [
                 "w", 
                 "qđay", 
@@ -1267,10 +2153,23 @@
             ], 
             "sentence_id": 21061, 
             "jpn_sentence": "娘は、とても美味しい料理を彼らのために作った。", 
-            "roman_sentence": "w qđay bsyar lđyđy dxtr bray ānea drst krd ."
+            "roman_sentence": "w qđay bsyar lđyđy dxtr bray ānea drst krd .", 
+            "persian_sentence": " و غذای بسیار لذیذی دختر برای آنها درست کرد.", 
+            "after_conv_tokens": [
+                "w", 
+                "qđay", 
+                "bsyar", 
+                "lđyđy", 
+                "dxtr", 
+                "bray", 
+                "ānea", 
+                "drst", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " ولی برای پادشاه غذاهای بی نمک درست میکرد.", 
+            "after_conv_sentence": "wly bray padšae  by nmk drst  .", 
             "tokens": [
                 "wly", 
                 "bray", 
@@ -1284,10 +2183,20 @@
             ], 
             "sentence_id": 21062, 
             "jpn_sentence": "しかし、王の分だけ塩を抜いてあった。", 
-            "roman_sentence": "wly bray padšae qđaeay by nmk drst mykrd ."
+            "roman_sentence": "wly bray padšae qđaeay by nmk drst mykrd .", 
+            "persian_sentence": " ولی برای پادشاه غذاهای بی نمک درست میکرد.", 
+            "after_conv_tokens": [
+                "wly", 
+                "bray", 
+                "padšae", 
+                "by", 
+                "nmk", 
+                "drst", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و خودش از پشت پرده این صحنه را میدید.", 
+            "after_conv_sentence": "w xwd az pšt prde ayn şħne ra  .", 
             "tokens": [
                 "w", 
                 "xwdš", 
@@ -1302,10 +2211,22 @@
             ], 
             "sentence_id": 21063, 
             "jpn_sentence": "娘はカーテンの後ろから饗応を見ていた。", 
-            "roman_sentence": "w xwdš az pšt prde ayn şħne ra mydyd ."
+            "roman_sentence": "w xwdš az pšt prde ayn şħne ra mydyd .", 
+            "persian_sentence": " و خودش از پشت پرده این صحنه را میدید.", 
+            "after_conv_tokens": [
+                "w", 
+                "xwd", 
+                "az", 
+                "pšt", 
+                "prde", 
+                "ayn", 
+                "şħne", 
+                "ra", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه نمیتوانست غذای بینمک بخورد.", 
+            "after_conv_sentence": "padšae  qđay  bxwrd .", 
             "tokens": [
                 "padšae", 
                 "nmytwanst", 
@@ -1316,10 +2237,17 @@
             ], 
             "sentence_id": 21064, 
             "jpn_sentence": "王は、塩の入っていない料理を食べることができなかった。", 
-            "roman_sentence": "padšae nmytwanst qđay bynmk bxwrd ."
+            "roman_sentence": "padšae nmytwanst qđay bynmk bxwrd .", 
+            "persian_sentence": " پادشاه نمیتوانست غذای بینمک بخورد.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "qđay", 
+                "bxwrd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر وقتی این صحنه را دید، غذا های با نمک برای پدرش آورد.", 
+            "after_conv_sentence": "dxtr wŕty ayn şħne ra dyd ,  ba nmk bray pdr āwrd .", 
             "tokens": [
                 "dxtr", 
                 "wŕty", 
@@ -1339,10 +2267,26 @@
             ], 
             "sentence_id": 21065, 
             "jpn_sentence": "それを見て、娘は塩の入った料理を王に出した。", 
-            "roman_sentence": "dxtr wŕty ayn şħne ra dyd , qđa eay ba nmk bray pdrš āwrd ."
+            "roman_sentence": "dxtr wŕty ayn şħne ra dyd , qđa eay ba nmk bray pdrš āwrd .", 
+            "persian_sentence": " دختر وقتی این صحنه را دید، غذا های با نمک برای پدرش آورد.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "wŕty", 
+                "ayn", 
+                "şħne", 
+                "ra", 
+                "dyd", 
+                ",", 
+                "ba", 
+                "nmk", 
+                "bray", 
+                "pdr", 
+                "āwrd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " ولی هنوز پدر دخترش را نشناخت.", 
+            "after_conv_sentence": "wly enwz pdr dxtr ra nšnaxt .", 
             "tokens": [
                 "wly", 
                 "enwz", 
@@ -1354,10 +2298,20 @@
             ], 
             "sentence_id": 21066, 
             "jpn_sentence": "しかし、まだ王は娘に気づかなかった。", 
-            "roman_sentence": "wly enwz pdr dxtrš ra nšnaxt ."
+            "roman_sentence": "wly enwz pdr dxtrš ra nšnaxt .", 
+            "persian_sentence": " ولی هنوز پدر دخترش را نشناخت.", 
+            "after_conv_tokens": [
+                "wly", 
+                "enwz", 
+                "pdr", 
+                "dxtr", 
+                "ra", 
+                "nšnaxt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر بعد از ناهار از همه خواست تا اتاق را ترک کنند، فقط پادشاه و جلادش در آن اتاق بمانند.", 
+            "after_conv_sentence": "dxtr b'd az naear az eme xwast ta ataŕ ra trk knnd , fŕţ padšae w jlad dr ān ataŕ bmannd .", 
             "tokens": [
                 "dxtr", 
                 "b'd", 
@@ -1384,10 +2338,35 @@
             ], 
             "sentence_id": 21067, 
             "jpn_sentence": "娘は、王と刑吏だけを残して部屋から出るように求めた。", 
-            "roman_sentence": "dxtr b'd az naear az eme xwast ta ataŕ ra trk knnd , fŕţ padšae w jladš dr ān ataŕ bmannd ."
+            "roman_sentence": "dxtr b'd az naear az eme xwast ta ataŕ ra trk knnd , fŕţ padšae w jladš dr ān ataŕ bmannd .", 
+            "persian_sentence": " دختر بعد از ناهار از همه خواست تا اتاق را ترک کنند، فقط پادشاه و جلادش در آن اتاق بمانند.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "b'd", 
+                "az", 
+                "naear", 
+                "az", 
+                "eme", 
+                "xwast", 
+                "ta", 
+                "ataŕ", 
+                "ra", 
+                "trk", 
+                "knnd", 
+                ",", 
+                "fŕţ", 
+                "padšae", 
+                "w", 
+                "jlad", 
+                "dr", 
+                "ān", 
+                "ataŕ", 
+                "bmannd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختر به نزدیک پادشاه آمد و خودش را معرفی کرد.", 
+            "after_conv_sentence": "dxtr be nzdyk padšae āmd w  ra m'rfy krd .", 
             "tokens": [
                 "dxtr", 
                 "be", 
@@ -1403,10 +2382,23 @@
             ], 
             "sentence_id": 21068, 
             "jpn_sentence": "娘は王に近づいて、身を明かし、", 
-            "roman_sentence": "dxtr be nzdyk padšae āmd w xwdš ra m'rfy krd ."
+            "roman_sentence": "dxtr be nzdyk padšae āmd w xwdš ra m'rfy krd .", 
+            "persian_sentence": " دختر به نزدیک پادشاه آمد و خودش را معرفی کرد.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "be", 
+                "nzdyk", 
+                "padšae", 
+                "āmd", 
+                "w", 
+                "ra", 
+                "m'rfy", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و میگوید که من همان دختری هستم که قرار بود جلاد او را بکشد.", 
+            "after_conv_sentence": "w  ke mn eman dxtry estm ke ŕrar bwd jlad aw ra bkšd .", 
             "tokens": [
                 "w", 
                 "mygwyd", 
@@ -1426,10 +2418,27 @@
             ], 
             "sentence_id": 21069, 
             "jpn_sentence": "こう言った。私は、刑吏に殺されるはずであったあなたの娘です。", 
-            "roman_sentence": "w mygwyd ke mn eman dxtry estm ke ŕrar bwd jlad aw ra bkšd ."
+            "roman_sentence": "w mygwyd ke mn eman dxtry estm ke ŕrar bwd jlad aw ra bkšd .", 
+            "persian_sentence": " و میگوید که من همان دختری هستم که قرار بود جلاد او را بکشد.", 
+            "after_conv_tokens": [
+                "w", 
+                "ke", 
+                "mn", 
+                "eman", 
+                "dxtry", 
+                "estm", 
+                "ke", 
+                "ŕrar", 
+                "bwd", 
+                "jlad", 
+                "aw", 
+                "ra", 
+                "bkšd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه باور نمیکند.", 
+            "after_conv_sentence": "padšae bawr  .", 
             "tokens": [
                 "padšae", 
                 "bawr", 
@@ -1438,10 +2447,16 @@
             ], 
             "sentence_id": 21070, 
             "jpn_sentence": "しかし、王は信じなかった。", 
-            "roman_sentence": "padšae bawr nmyknd ."
+            "roman_sentence": "padšae bawr nmyknd .", 
+            "persian_sentence": " پادشاه باور نمیکند.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "bawr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و درستی این قضیه را از جلاد میپرسد.", 
+            "after_conv_sentence": "w drsty ayn ŕźye ra az jlad  .", 
             "tokens": [
                 "w", 
                 "drsty", 
@@ -1455,10 +2470,21 @@
             ], 
             "sentence_id": 21071, 
             "jpn_sentence": "真偽を刑吏に尋ねた。", 
-            "roman_sentence": "w drsty ayn ŕźye ra az jlad myprsd ."
+            "roman_sentence": "w drsty ayn ŕźye ra az jlad myprsd .", 
+            "persian_sentence": " و درستی این قضیه را از جلاد میپرسد.", 
+            "after_conv_tokens": [
+                "w", 
+                "drsty", 
+                "ayn", 
+                "ŕźye", 
+                "ra", 
+                "az", 
+                "jlad", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " جلاد هم به پادشاه گفت که آن روز چه اتفاقی افتاده است.", 
+            "after_conv_sentence": "jlad em be padšae gft ke ān rwz če  aftade ast .", 
             "tokens": [
                 "jlad", 
                 "em", 
@@ -1476,10 +2502,25 @@
             ], 
             "sentence_id": 21072, 
             "jpn_sentence": "刑吏は王にその日に起こったことを答えた。", 
-            "roman_sentence": "jlad em be padšae gft ke ān rwz če atfaŕy aftade ast ."
+            "roman_sentence": "jlad em be padšae gft ke ān rwz če atfaŕy aftade ast .", 
+            "persian_sentence": " جلاد هم به پادشاه گفت که آن روز چه اتفاقی افتاده است.", 
+            "after_conv_tokens": [
+                "jlad", 
+                "em", 
+                "be", 
+                "padšae", 
+                "gft", 
+                "ke", 
+                "ān", 
+                "rwz", 
+                "če", 
+                "aftade", 
+                "ast", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه خیلی خوشحال میشود از این که دخترش را نکشته.", 
+            "after_conv_sentence": "padšae xyly xwšħal  az ayn ke dxtr ra nkšte .", 
             "tokens": [
                 "padšae", 
                 "xyly", 
@@ -1495,10 +2536,23 @@
             ], 
             "sentence_id": 21073, 
             "jpn_sentence": "王は、娘を殺さなかったことにとても喜んだ。", 
-            "roman_sentence": "padšae xyly xwšħal myšwd az ayn ke dxtrš ra nkšte ."
+            "roman_sentence": "padšae xyly xwšħal myšwd az ayn ke dxtrš ra nkšte .", 
+            "persian_sentence": " پادشاه خیلی خوشحال میشود از این که دخترش را نکشته.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "xyly", 
+                "xwšħal", 
+                "az", 
+                "ayn", 
+                "ke", 
+                "dxtr", 
+                "ra", 
+                "nkšte", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و مقداری جایزه به جلاد میدهد.", 
+            "after_conv_sentence": "w mŕdary jayze be jlad  .", 
             "tokens": [
                 "w", 
                 "mŕdary", 
@@ -1510,10 +2564,19 @@
             ], 
             "sentence_id": 21074, 
             "jpn_sentence": "褒美を刑吏に与えた。", 
-            "roman_sentence": "w mŕdary jayze be jlad myded ."
+            "roman_sentence": "w mŕdary jayze be jlad myded .", 
+            "persian_sentence": " و مقداری جایزه به جلاد میدهد.", 
+            "after_conv_tokens": [
+                "w", 
+                "mŕdary", 
+                "jayze", 
+                "be", 
+                "jlad", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و تاج پادشاهی خودش را به شوهر دخترش داد و اعلام کرد که چون من پیرو از کار افتاده شدم، از امروز داماد من بجای من پادشاه این سرزمین خواهد بود.", 
+            "after_conv_sentence": "w taj padšaey xwd ra be šwer dxtr dad w a'lam krd ke čwn mn  az kar aftade šdm , az amrwz damad mn be mn padšae ayn srzmyn xwaed bwd .", 
             "tokens": [
                 "w", 
                 "taj", 
@@ -1551,10 +2614,45 @@
             ], 
             "sentence_id": 21075, 
             "jpn_sentence": "王冠を娘の夫に与え、布告した。私は老いて、仕事ができなくなったので、今日から私の婿がこの地の王になるであろう。", 
-            "roman_sentence": "w taj padšaey xwdš ra be šwer dxtrš dad w a'lam krd ke čwn mn pyrw az kar aftade šdm , az amrwz damad mn bjay mn padšae ayn srzmyn xwaed bwd ."
+            "roman_sentence": "w taj padšaey xwdš ra be šwer dxtrš dad w a'lam krd ke čwn mn pyrw az kar aftade šdm , az amrwz damad mn bjay mn padšae ayn srzmyn xwaed bwd .", 
+            "persian_sentence": " و تاج پادشاهی خودش را به شوهر دخترش داد و اعلام کرد که چون من پیرو از کار افتاده شدم، از امروز داماد من بجای من پادشاه این سرزمین خواهد بود.", 
+            "after_conv_tokens": [
+                "w", 
+                "taj", 
+                "padšaey", 
+                "xwd", 
+                "ra", 
+                "be", 
+                "šwer", 
+                "dxtr", 
+                "dad", 
+                "w", 
+                "a'lam", 
+                "krd", 
+                "ke", 
+                "čwn", 
+                "mn", 
+                "az", 
+                "kar", 
+                "aftade", 
+                "šdm", 
+                ",", 
+                "az", 
+                "amrwz", 
+                "damad", 
+                "mn", 
+                "be", 
+                "mn", 
+                "padšae", 
+                "ayn", 
+                "srzmyn", 
+                "xwaed", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " و دامادم هم پادشاه انجا بود و زندگی خوبی را دنبال میکردند.", 
+            "after_conv_sentence": "w damad em padšae  bwd w zndgy xwby ra dnbal  .", 
             "tokens": [
                 "w", 
                 "damadm", 
@@ -1572,7 +2670,21 @@
             ], 
             "sentence_id": 21076, 
             "jpn_sentence": "娘の婿は、王となり、幸福な生活をおくった。", 
-            "roman_sentence": "w damadm em padšae anja bwd w zndgy xwby ra dnbal mykrdnd ."
+            "roman_sentence": "w damadm em padšae anja bwd w zndgy xwby ra dnbal mykrdnd .", 
+            "persian_sentence": " و دامادم هم پادشاه انجا بود و زندگی خوبی را دنبال میکردند.", 
+            "after_conv_tokens": [
+                "w", 
+                "damad", 
+                "em", 
+                "padšae", 
+                "bwd", 
+                "w", 
+                "zndgy", 
+                "xwby", 
+                "ra", 
+                "dnbal", 
+                "."
+            ]
         }
     ], 
     "document_info_map": {

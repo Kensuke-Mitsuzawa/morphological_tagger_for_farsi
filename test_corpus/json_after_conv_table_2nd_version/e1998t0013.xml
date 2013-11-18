@@ -1,7 +1,7 @@
 {
     "sentence_set_list": [
         {
-            "persian_sentence": "یه پادهشاهی بود یه دختر داشت.", 
+            "after_conv_sentence": "  bwd  dxtr dašt .", 
             "tokens": [
                 "ye", 
                 "padešaey", 
@@ -13,10 +13,17 @@
             ], 
             "sentence_id": 13001, 
             "jpn_sentence": "一人の王女のいる王がいた。", 
-            "roman_sentence": "ye padešaey bwd ye dxtr dašt ."
+            "roman_sentence": "ye padešaey bwd ye dxtr dašt .", 
+            "persian_sentence": "یه پادهشاهی بود یه دختر داشت.", 
+            "after_conv_tokens": [
+                "bwd", 
+                "dxtr", 
+                "dašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " البته دختر دو سه تا داشت.", 
+            "after_conv_sentence": "albte dxtr dw se ta dašt .", 
             "tokens": [
                 "albte", 
                 "dxtr", 
@@ -28,10 +35,20 @@
             ], 
             "sentence_id": 13002, 
             "jpn_sentence": "いや、王女は二、三人いた。", 
-            "roman_sentence": "albte dxtr dw se ta dašt ."
+            "roman_sentence": "albte dxtr dw se ta dašt .", 
+            "persian_sentence": " البته دختر دو سه تا داشت.", 
+            "after_conv_tokens": [
+                "albte", 
+                "dxtr", 
+                "dw", 
+                "se", 
+                "ta", 
+                "dašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یکیش خوب بود، مثل جوانهای همان امروز ژگول میگشت.", 
+            "after_conv_sentence": "yky xwb bwd , mçl  eman amrwz žgwl  .", 
             "tokens": [
                 "ykyš", 
                 "xwb", 
@@ -47,10 +64,22 @@
             ], 
             "sentence_id": 13003, 
             "jpn_sentence": "そのうちの一人は、美貌の持ち主で、今で言うところの不良娘（原文：ジゴロ）のようであった。", 
-            "roman_sentence": "ykyš xwb bwd , mçl jwaneay eman amrwz žgwl mygšt ."
+            "roman_sentence": "ykyš xwb bwd , mçl jwaneay eman amrwz žgwl mygšt .", 
+            "persian_sentence": " یکیش خوب بود، مثل جوانهای همان امروز ژگول میگشت.", 
+            "after_conv_tokens": [
+                "yky", 
+                "xwb", 
+                "bwd", 
+                ",", 
+                "mçl", 
+                "eman", 
+                "amrwz", 
+                "žgwl", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " ارسلان شجاع بود و دلاور بود.", 
+            "after_conv_sentence": "arslan šja' bwd w dlawr bwd .", 
             "tokens": [
                 "arslan", 
                 "šja'", 
@@ -62,10 +91,20 @@
             ], 
             "sentence_id": 13004, 
             "jpn_sentence": "アルスラーンは勇敢であった。", 
-            "roman_sentence": "arslan šja' bwd w dlawr bwd ."
+            "roman_sentence": "arslan šja' bwd w dlawr bwd .", 
+            "persian_sentence": " ارسلان شجاع بود و دلاور بود.", 
+            "after_conv_tokens": [
+                "arslan", 
+                "šja'", 
+                "bwd", 
+                "w", 
+                "dlawr", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اما در جائی که میگشت، مثل آدم فقیر و یه آدم همچین خیلی بی رخت(۱) و میرخت.", 
+            "after_conv_sentence": "ama dr ja´y ke  , mçl ādm fŕyr w  ādm emčyn xyly by rxt (1) w myrxt .", 
             "tokens": [
                 "ama", 
                 "dr", 
@@ -90,10 +129,31 @@
             ], 
             "sentence_id": 13005, 
             "jpn_sentence": "しかし、人前では貧民のように汚い禿のふりをしていた。", 
-            "roman_sentence": "ama dr ja´y ke mygšt , mçl ādm fŕyr w ye ādm emčyn xyly by rxt (1) w myrxt ."
+            "roman_sentence": "ama dr ja´y ke mygšt , mçl ādm fŕyr w ye ādm emčyn xyly by rxt (1) w myrxt .", 
+            "persian_sentence": " اما در جائی که میگشت، مثل آدم فقیر و یه آدم همچین خیلی بی رخت(۱) و میرخت.", 
+            "after_conv_tokens": [
+                "ama", 
+                "dr", 
+                "ja´y", 
+                "ke", 
+                ",", 
+                "mçl", 
+                "ādm", 
+                "fŕyr", 
+                "w", 
+                "ādm", 
+                "emčyn", 
+                "xyly", 
+                "by", 
+                "rxt", 
+                "(1)", 
+                "w", 
+                "myrxt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " کچل بود.", 
+            "after_conv_sentence": "kčl bwd .", 
             "tokens": [
                 "kčl", 
                 "bwd", 
@@ -101,10 +161,16 @@
             ], 
             "sentence_id": 13006, 
             "jpn_sentence": "禿であった。", 
-            "roman_sentence": "kčl bwd ."
+            "roman_sentence": "kčl bwd .", 
+            "persian_sentence": " کچل بود.", 
+            "after_conv_tokens": [
+                "kčl", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این در بیابون که رد میشد یه شکمبه ای بود میکشید به سرش میشد کچل.", 
+            "after_conv_sentence": "ayn dr  ke rd    bwd  be srš  kčl .", 
             "tokens": [
                 "ayn", 
                 "dr", 
@@ -125,10 +191,22 @@
             ], 
             "sentence_id": 13007, 
             "jpn_sentence": "砂漠に入って、羊の胃袋をかぶって禿になるのだった。", 
-            "roman_sentence": "ayn dr byabwn ke rd myšd ye škmbe ay bwd mykšyd be srš myšd kčl ."
+            "roman_sentence": "ayn dr byabwn ke rd myšd ye škmbe ay bwd mykšyd be srš myšd kčl .", 
+            "persian_sentence": " این در بیابون که رد میشد یه شکمبه ای بود میکشید به سرش میشد کچل.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "dr", 
+                "ke", 
+                "rd", 
+                "bwd", 
+                "be", 
+                "srš", 
+                "kčl", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه دختری داشت، چشش به ارسلان میخورد میدید اون مثلاً بیموقع ها که خلوت که میشد این در میشد بیرون.", 
+            "after_conv_sentence": "padšae dxtry dašt , čšm be arslan    mçla bymwŕ' ea ke xlwt ke  ayn dr  byrwn .", 
             "tokens": [
                 "padšae", 
                 "dxtry", 
@@ -155,10 +233,30 @@
             ], 
             "sentence_id": 13008, 
             "jpn_sentence": "王には娘がいた。王女はアルスラーンを何度か見ていた。暇なときに外へ出ていたのだった。", 
-            "roman_sentence": "padšae dxtry dašt , čšš be arslan myxwrd mydyd awn mçla bymwŕ' ea ke xlwt ke myšd ayn dr myšd byrwn ."
+            "roman_sentence": "padšae dxtry dašt , čšš be arslan myxwrd mydyd awn mçla bymwŕ' ea ke xlwt ke myšd ayn dr myšd byrwn .", 
+            "persian_sentence": " پادشاه دختری داشت، چشش به ارسلان میخورد میدید اون مثلاً بیموقع ها که خلوت که میشد این در میشد بیرون.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "dxtry", 
+                "dašt", 
+                ",", 
+                "čšm", 
+                "be", 
+                "arslan", 
+                "mçla", 
+                "bymwŕ'", 
+                "ea", 
+                "ke", 
+                "xlwt", 
+                "ke", 
+                "ayn", 
+                "dr", 
+                "byrwn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " در میشد بیرون دختره عاشق این کچل شد و اونم میرفت هر خواهانی که دیه(۲) میاوردن که پادشاه.", 
+            "after_conv_sentence": "dr  byrwn  'ašŕ ayn kčl šd w ān  er xwaeany ke  (2)  ke padšae .", 
             "tokens": [
                 "dr", 
                 "myšd", 
@@ -183,10 +281,28 @@
             ], 
             "sentence_id": 13009, 
             "jpn_sentence": "外に出て、この禿に恋をしてしまった。王女はこの禿を王のもとに連れていった。", 
-            "roman_sentence": "dr myšd byrwn dxtre 'ašŕ ayn kčl šd w awnm myrft er xwaeany ke dye (2) myawrdn ke padšae ."
+            "roman_sentence": "dr myšd byrwn dxtre 'ašŕ ayn kčl šd w awnm myrft er xwaeany ke dye (2) myawrdn ke padšae .", 
+            "persian_sentence": " در میشد بیرون دختره عاشق این کچل شد و اونم میرفت هر خواهانی که دیه(۲) میاوردن که پادشاه.", 
+            "after_conv_tokens": [
+                "dr", 
+                "byrwn", 
+                "'ašŕ", 
+                "ayn", 
+                "kčl", 
+                "šd", 
+                "w", 
+                "ān", 
+                "er", 
+                "xwaeany", 
+                "ke", 
+                "(2)", 
+                "ke", 
+                "padšae", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میگفت این کچله به درد تو نمیخوره.", 
+            "after_conv_sentence": " ayn  be drd tw  .", 
             "tokens": [
                 "mygft", 
                 "ayn", 
@@ -199,10 +315,18 @@
             ], 
             "sentence_id": 13010, 
             "jpn_sentence": "王は言った。この禿はおまえにはふさわしくない。", 
-            "roman_sentence": "mygft ayn kčle be drd tw nmyxwre ."
+            "roman_sentence": "mygft ayn kčle be drd tw nmyxwre .", 
+            "persian_sentence": " میگفت این کچله به درد تو نمیخوره.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "be", 
+                "drd", 
+                "tw", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " میخوام بدمت به فلانی این میگفت نه من فقط همون کچل (رو) میخوام.", 
+            "after_conv_sentence": "  be flany ayn  ne mn fŕţ  kčl ()  .", 
             "tokens": [
                 "myxwam", 
                 "bdmt", 
@@ -221,10 +345,22 @@
             ], 
             "sentence_id": 13011, 
             "jpn_sentence": "嫁いでほしい相手がいるのだよ。王女は言った。私はこの禿がいいのよ。", 
-            "roman_sentence": "myxwam bdmt be flany ayn mygft ne mn fŕţ emwn kčl (rw) myxwam ."
+            "roman_sentence": "myxwam bdmt be flany ayn mygft ne mn fŕţ emwn kčl (rw) myxwam .", 
+            "persian_sentence": " میخوام بدمت به فلانی این میگفت نه من فقط همون کچل (رو) میخوام.", 
+            "after_conv_tokens": [
+                "be", 
+                "flany", 
+                "ayn", 
+                "ne", 
+                "mn", 
+                "fŕţ", 
+                "kčl", 
+                "()", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اِنقدر پایید(۳)، پایید (گذشت)، دیه پادشاه کارش به یه جایی رسید که توی اختلاف افتاد.", 
+            "after_conv_sentence": "anŕdr payyd (3) , payyd (gđšt) ,  padšae kar be  jayy rsyd ke twy axtlaf aftad .", 
             "tokens": [
                 "anŕdr", 
                 "payyd", 
@@ -248,10 +384,30 @@
             ], 
             "sentence_id": 13012, 
             "jpn_sentence": "王女が禿の面倒を見ているので、とうとう王は怒ってしまった。", 
-            "roman_sentence": "anŕdr payyd (3) , payyd (gđšt) , dye padšae karš be ye jayy rsyd ke twy axtlaf aftad ."
+            "roman_sentence": "anŕdr payyd (3) , payyd (gđšt) , dye padšae karš be ye jayy rsyd ke twy axtlaf aftad .", 
+            "persian_sentence": " اِنقدر پایید(۳)، پایید (گذشت)، دیه پادشاه کارش به یه جایی رسید که توی اختلاف افتاد.", 
+            "after_conv_tokens": [
+                "anŕdr", 
+                "payyd", 
+                "(3)", 
+                ",", 
+                "payyd", 
+                "(gđšt)", 
+                ",", 
+                "padšae", 
+                "kar", 
+                "be", 
+                "jayy", 
+                "rsyd", 
+                "ke", 
+                "twy", 
+                "axtlaf", 
+                "aftad", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " افتاد کچل بلند شد شب یه اسب بادی داشت به قول ما مادیون بادی داشت.", 
+            "after_conv_sentence": "aftad kčl blnd šd šb  asb bady dašt be ŕwl ma  bady dašt .", 
             "tokens": [
                 "aftad", 
                 "kčl", 
@@ -272,10 +428,27 @@
             ], 
             "sentence_id": 13013, 
             "jpn_sentence": "禿は風のように走る自前の雌の子馬に乗って、", 
-            "roman_sentence": "aftad kčl blnd šd šb ye asb bady dašt be ŕwl ma madywn bady dašt ."
+            "roman_sentence": "aftad kčl blnd šd šb ye asb bady dašt be ŕwl ma madywn bady dašt .", 
+            "persian_sentence": " افتاد کچل بلند شد شب یه اسب بادی داشت به قول ما مادیون بادی داشت.", 
+            "after_conv_tokens": [
+                "aftad", 
+                "kčl", 
+                "blnd", 
+                "šd", 
+                "šb", 
+                "asb", 
+                "bady", 
+                "dašt", 
+                "be", 
+                "ŕwl", 
+                "ma", 
+                "bady", 
+                "dašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اون شکنبه ر کشید به سر شو، کچل نبود ها همون به نام کچل.", 
+            "after_conv_sentence": " šknbe  kšyd be s  , kčl nbwd ea  be nam kčl .", 
             "tokens": [
                 "awn", 
                 "šknbe", 
@@ -296,10 +469,25 @@
             ], 
             "sentence_id": 13014, 
             "jpn_sentence": "胃袋をかぶって、禿になって出ていった。", 
-            "roman_sentence": "awn šknbe r kšyd be sr šw , kčl nbwd ea emwn be nam kčl ."
+            "roman_sentence": "awn šknbe r kšyd be sr šw , kčl nbwd ea emwn be nam kčl .", 
+            "persian_sentence": " اون شکنبه ر کشید به سر شو، کچل نبود ها همون به نام کچل.", 
+            "after_conv_tokens": [
+                "šknbe", 
+                "kšyd", 
+                "be", 
+                "s", 
+                ",", 
+                "kčl", 
+                "nbwd", 
+                "ea", 
+                "be", 
+                "nam", 
+                "kčl", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اون وسایل جنگی که داشتن میتونست به کار بکش، افتاد یه باغی بود بنا کرد به(۴) اون شمشیر این درختار(۵) ریختن.", 
+            "after_conv_sentence": " wsayl jngy ke daštn   kar  , aftad ye baqy bwd bna krd  (4)  šmšyr ayn drxt(5) ryxtn .", 
             "tokens": [
                 "awn", 
                 "wsayl", 
@@ -328,10 +516,31 @@
             ], 
             "sentence_id": 13015, 
             "jpn_sentence": "禿は戦争の道具（剣）も持っていた。庭園に行き、剣で木を切って見せた。", 
-            "roman_sentence": "awn wsayl jngy ke daštn mytwnst be kar bkš , aftad ye baqy bwd bna krd be (4) awn šmšyr ayn drxtar(5) ryxtn ."
+            "roman_sentence": "awn wsayl jngy ke daštn mytwnst be kar bkš , aftad ye baqy bwd bna krd be (4) awn šmšyr ayn drxtar(5) ryxtn .", 
+            "persian_sentence": " اون وسایل جنگی که داشتن میتونست به کار بکش، افتاد یه باغی بود بنا کرد به(۴) اون شمشیر این درختار(۵) ریختن.", 
+            "after_conv_tokens": [
+                "wsayl", 
+                "jngy", 
+                "ke", 
+                "daštn", 
+                "kar", 
+                ",", 
+                "aftad", 
+                "ye", 
+                "baqy", 
+                "bwd", 
+                "bna", 
+                "krd", 
+                "(4)", 
+                "šmšyr", 
+                "ayn", 
+                "drxt(5)", 
+                "ryxtn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دختره میپایید دختر پادشاه میپایید.", 
+            "after_conv_sentence": "  dxtr padšae  .", 
             "tokens": [
                 "dxtre", 
                 "mypayyd", 
@@ -342,10 +551,16 @@
             ], 
             "sentence_id": 13016, 
             "jpn_sentence": "王女も追いかけた。", 
-            "roman_sentence": "dxtre mypayyd dxtr padšae mypayyd ."
+            "roman_sentence": "dxtre mypayyd dxtr padšae mypayyd .", 
+            "persian_sentence": " دختره میپایید دختر پادشاه میپایید.", 
+            "after_conv_tokens": [
+                "dxtr", 
+                "padšae", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پایید و آمد رد شد و رفت این گذاشت رفت پس(۶) کارش.", 
+            "after_conv_sentence": "payyd w āmd rd šd w rft ayn gđašt rft ps (6) kar .", 
             "tokens": [
                 "payyd", 
                 "w", 
@@ -364,10 +579,27 @@
             ], 
             "sentence_id": 13017, 
             "jpn_sentence": "追いかけてそのまま続けさせた。", 
-            "roman_sentence": "payyd w āmd rd šd w rft ayn gđašt rft ps (6) karš ."
+            "roman_sentence": "payyd w āmd rd šd w rft ayn gđašt rft ps (6) karš .", 
+            "persian_sentence": " پایید و آمد رد شد و رفت این گذاشت رفت پس(۶) کارش.", 
+            "after_conv_tokens": [
+                "payyd", 
+                "w", 
+                "āmd", 
+                "rd", 
+                "šd", 
+                "w", 
+                "rft", 
+                "ayn", 
+                "gđašt", 
+                "rft", 
+                "ps", 
+                "(6)", 
+                "kar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " رفت، بعد از مدتی (دیه حاجی برگشت گفت من چی) پادشاه برگشت گفت من مریضم اگر بری شکار شکار بزنی، برای من گوشت شکار بد نی(۷) دکتر طبابت کرده که من باید گوشت شکار بخورم.", 
+            "after_conv_sentence": "rft , b'd az mdty ( ħajy brgšt gft mn ) padšae brgšt gft mn mryź agr bry škar škar bz , bray mn gwšt škar bd  (7) dktr ţbabt krde ke mn bayd gwšt škar bxwrm .", 
             "tokens": [
                 "rft", 
                 ",", 
@@ -411,10 +643,51 @@
             ], 
             "sentence_id": 13018, 
             "jpn_sentence": "しばらくして、王はこう言った。私は病に冒されている。誰か私のために狩りをして、獲物の肉をくれないか。肉ならいいと医者が言ったのだ。肉を食べたい。", 
-            "roman_sentence": "rft , b'd az mdty (dye ħajy brgšt gft mn čy) padšae brgšt gft mn mryźm agr bry škar škar bzny , bray mn gwšt škar bd ny (7) dktr ţbabt krde ke mn bayd gwšt škar bxwrm ."
+            "roman_sentence": "rft , b'd az mdty (dye ħajy brgšt gft mn čy) padšae brgšt gft mn mryźm agr bry škar škar bzny , bray mn gwšt škar bd ny (7) dktr ţbabt krde ke mn bayd gwšt škar bxwrm .", 
+            "persian_sentence": " رفت، بعد از مدتی (دیه حاجی برگشت گفت من چی) پادشاه برگشت گفت من مریضم اگر بری شکار شکار بزنی، برای من گوشت شکار بد نی(۷) دکتر طبابت کرده که من باید گوشت شکار بخورم.", 
+            "after_conv_tokens": [
+                "rft", 
+                ",", 
+                "b'd", 
+                "az", 
+                "mdty", 
+                "(", 
+                "ħajy", 
+                "brgšt", 
+                "gft", 
+                "mn", 
+                ")", 
+                "padšae", 
+                "brgšt", 
+                "gft", 
+                "mn", 
+                "mryź", 
+                "agr", 
+                "bry", 
+                "škar", 
+                "škar", 
+                "bz", 
+                ",", 
+                "bray", 
+                "mn", 
+                "gwšt", 
+                "škar", 
+                "bd", 
+                "(7)", 
+                "dktr", 
+                "ţbabt", 
+                "krde", 
+                "ke", 
+                "mn", 
+                "bayd", 
+                "gwšt", 
+                "škar", 
+                "bxwrm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اون، چی، پادشاه دمات(۸) دیگه داشت اون، میگم که به ظاهرش خیلی خیلی مث(۹)، چی، امرو(۱۰) خودشو میگرفت و، میرفت.", 
+            "after_conv_sentence": " ,  , padšae  (8)  dašt  ,  ke be ẓaer xyly xyly (9) ,  , (10) xwd  w ,  .", 
             "tokens": [
                 "awn", 
                 ",", 
@@ -447,10 +720,32 @@
             ], 
             "sentence_id": 13019, 
             "jpn_sentence": "王には（別の王女の）婿がいた。（その婿である男は）外見も、今日でいうところの、何というか、とても立派で、高慢であった。", 
-            "roman_sentence": "awn , čy , padšae dmat (8) dyge dašt awn , mygm ke be ẓaerš xyly xyly mç(9) , čy , amrw(10) xwdšw mygrft w , myrft ."
+            "roman_sentence": "awn , čy , padšae dmat (8) dyge dašt awn , mygm ke be ẓaerš xyly xyly mç(9) , čy , amrw(10) xwdšw mygrft w , myrft .", 
+            "persian_sentence": " اون، چی، پادشاه دمات(۸) دیگه داشت اون، میگم که به ظاهرش خیلی خیلی مث(۹)، چی، امرو(۱۰) خودشو میگرفت و، میرفت.", 
+            "after_conv_tokens": [
+                ",", 
+                ",", 
+                "padšae", 
+                "(8)", 
+                "dašt", 
+                ",", 
+                "ke", 
+                "be", 
+                "ẓaer", 
+                "xyly", 
+                "xyly", 
+                "(9)", 
+                ",", 
+                ",", 
+                "(10)", 
+                "xwd", 
+                "w", 
+                ",", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این اومد گفت برین یه اسب و با یه خورجین و نمیدونم فلان اسلحه و چیکِ(۱۱) بدین به این، چی،  بره به شکار.", 
+            "after_conv_sentence": "ayn  gft bryn  asb w ba   w  flan  w k (11) be ayn  be ayn ,  ,  bre be škar .", 
             "tokens": [
                 "ayn", 
                 "awmd", 
@@ -483,10 +778,34 @@
             ], 
             "sentence_id": 13020, 
             "jpn_sentence": "この婿が言った。鞍のついた馬を一頭と武器を与えて下さい。狩りに行って来ます。", 
-            "roman_sentence": "ayn awmd gft bryn ye asb w ba ye xwrjyn w nmydwnm flan aslħe w čyk (11) be ayn  be ayn , čy ,  bre be škar ."
+            "roman_sentence": "ayn awmd gft bryn ye asb w ba ye xwrjyn w nmydwnm flan aslħe w čyk (11) be ayn  be ayn , čy ,  bre be škar .", 
+            "persian_sentence": " این اومد گفت برین یه اسب و با یه خورجین و نمیدونم فلان اسلحه و چیکِ(۱۱) بدین به این، چی،  بره به شکار.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "gft", 
+                "bryn", 
+                "asb", 
+                "w", 
+                "ba", 
+                "w", 
+                "flan", 
+                "w", 
+                "k", 
+                "(11)", 
+                "be", 
+                "ayn", 
+                "be", 
+                "ayn", 
+                ",", 
+                ",", 
+                "bre", 
+                "be", 
+                "škar", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " کچل هم که ارسلان بود، کچلم برگشت به زن خودش گفتَ برو و به باباتم بگو یه قاطر شله لنگی با یه شمشیر شیکسته یه خورجین پاره ام به من بدن منم برم کله پاچه اینه جمع کنم ور دارم بیارم اون شکار میزنه کله پاچشم ما جمع کنیم ورداریم بیاریم بخوریم.", 
+            "after_conv_sentence": "kčl em ke arslan bwd , kčl brgšt be zn xwd gft brw w be tw bgw  ŕaţr šle lngy ba  šmšyr   xjyn pare  be mn  mn brm kle pače  jm' knm  darm   škar  kle pače ma jm' knym darym  bxym .", 
             "tokens": [
                 "kčl", 
                 "em", 
@@ -545,10 +864,55 @@
             ], 
             "sentence_id": 13021, 
             "jpn_sentence": "本当はアルスラーンである禿も妻にこう言った。びっこをひいたロバと刃のこぼれた剣と破れた鞍をくれるように王に頼んでください。私も獲物の頭と足を持ってきてキャレパーチェ（煮込み料理）にしましょう。", 
-            "roman_sentence": "kčl em ke arslan bwd , kčlm brgšt be zn xwdš gft brw w be babatm bgw ye ŕaţr šle lngy ba ye šmšyr šykste ye xwrjyn pare am be mn bdn mnm brm kle pače ayne jm' knm wr darm byarm awn škar myzne kle pačšm ma jm' knym wrdarym byarym bxwrym ."
+            "roman_sentence": "kčl em ke arslan bwd , kčlm brgšt be zn xwdš gft brw w be babatm bgw ye ŕaţr šle lngy ba ye šmšyr šykste ye xwrjyn pare am be mn bdn mnm brm kle pače ayne jm' knm wr darm byarm awn škar myzne kle pačšm ma jm' knym wrdarym byarym bxwrym .", 
+            "persian_sentence": " کچل هم که ارسلان بود، کچلم برگشت به زن خودش گفتَ برو و به باباتم بگو یه قاطر شله لنگی با یه شمشیر شیکسته یه خورجین پاره ام به من بدن منم برم کله پاچه اینه جمع کنم ور دارم بیارم اون شکار میزنه کله پاچشم ما جمع کنیم ورداریم بیاریم بخوریم.", 
+            "after_conv_tokens": [
+                "kčl", 
+                "em", 
+                "ke", 
+                "arslan", 
+                "bwd", 
+                ",", 
+                "kčl", 
+                "brgšt", 
+                "be", 
+                "zn", 
+                "xwd", 
+                "gft", 
+                "brw", 
+                "w", 
+                "be", 
+                "tw", 
+                "bgw", 
+                "ŕaţr", 
+                "šle", 
+                "lngy", 
+                "ba", 
+                "šmšyr", 
+                "xjyn", 
+                "pare", 
+                "be", 
+                "mn", 
+                "mn", 
+                "brm", 
+                "kle", 
+                "pače", 
+                "jm'", 
+                "knm", 
+                "darm", 
+                "škar", 
+                "kle", 
+                "pače", 
+                "ma", 
+                "jm'", 
+                "knym", 
+                "darym", 
+                "bxym", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت خیلی خوب.", 
+            "after_conv_sentence": "gft xyly xwb .", 
             "tokens": [
                 "gft", 
                 "xyly", 
@@ -557,10 +921,17 @@
             ], 
             "sentence_id": 13022, 
             "jpn_sentence": "妻は言った。そうしましょう。", 
-            "roman_sentence": "gft xyly xwb ."
+            "roman_sentence": "gft xyly xwb .", 
+            "persian_sentence": " گفت خیلی خوب.", 
+            "after_conv_tokens": [
+                "gft", 
+                "xyly", 
+                "xwb", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینا رفتن.", 
+            "after_conv_sentence": " rftn .", 
             "tokens": [
                 "ayna", 
                 "rftn", 
@@ -568,10 +939,15 @@
             ], 
             "sentence_id": 13023, 
             "jpn_sentence": "二人は狩りに行った。", 
-            "roman_sentence": "ayna rftn ."
+            "roman_sentence": "ayna rftn .", 
+            "persian_sentence": " اینا رفتن.", 
+            "after_conv_tokens": [
+                "rftn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " رفتن رفتن خوب اون با جناقش(۱۲) که به حساب خیلی جور بود اون به این کچل محل منظوری نمی ذاشت.", 
+            "after_conv_sentence": "rftn rftn xwb  ba jnaq (12) ke be ħsab xyly jwr bwd  be ayn kčl mħl mnẓwry nmy đašt .", 
             "tokens": [
                 "rftn", 
                 "rftn", 
@@ -598,10 +974,33 @@
             ], 
             "sentence_id": 13024, 
             "jpn_sentence": "婿の方はとても高慢だったため、禿に注意すら払わなかった。", 
-            "roman_sentence": "rftn rftn xwb awn ba jnaŕš (12) ke be ħsab xyly jwr bwd awn be ayn kčl mħl mnẓwry nmy đašt ."
+            "roman_sentence": "rftn rftn xwb awn ba jnaŕš (12) ke be ħsab xyly jwr bwd awn be ayn kčl mħl mnẓwry nmy đašt .", 
+            "persian_sentence": " رفتن رفتن خوب اون با جناقش(۱۲) که به حساب خیلی جور بود اون به این کچل محل منظوری نمی ذاشت.", 
+            "after_conv_tokens": [
+                "rftn", 
+                "rftn", 
+                "xwb", 
+                "ba", 
+                "jnaq", 
+                "(12)", 
+                "ke", 
+                "be", 
+                "ħsab", 
+                "xyly", 
+                "jwr", 
+                "bwd", 
+                "be", 
+                "ayn", 
+                "kčl", 
+                "mħl", 
+                "mnẓwry", 
+                "nmy", 
+                "đašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینا رفتن در جایی جنگلبانی دید شکاری اومد رفت این هر کاری کرد که شکار بزنه، تیر خالی کرد تیرش به جایی نخورد.", 
+            "after_conv_sentence": " rftn dr jayy jnglbany dyd škary  rft ayn er kary krd ke škar  , tyr xaly krd tyr be jayy nxwrd .", 
             "tokens": [
                 "ayna", 
                 "rftn", 
@@ -631,10 +1030,35 @@
             ], 
             "sentence_id": 13025, 
             "jpn_sentence": "婿は森林官のいるところまで行って、獲物を見つけて、弓を放ったがなかなか当たらなかった。", 
-            "roman_sentence": "ayna rftn dr jayy jnglbany dyd škary awmd rft ayn er kary krd ke škar bzne , tyr xaly krd tyrš be jayy nxwrd ."
+            "roman_sentence": "ayna rftn dr jayy jnglbany dyd škary awmd rft ayn er kary krd ke škar bzne , tyr xaly krd tyrš be jayy nxwrd .", 
+            "persian_sentence": " اینا رفتن در جایی جنگلبانی دید شکاری اومد رفت این هر کاری کرد که شکار بزنه، تیر خالی کرد تیرش به جایی نخورد.", 
+            "after_conv_tokens": [
+                "rftn", 
+                "dr", 
+                "jayy", 
+                "jnglbany", 
+                "dyd", 
+                "škary", 
+                "rft", 
+                "ayn", 
+                "er", 
+                "kary", 
+                "krd", 
+                "ke", 
+                "škar", 
+                ",", 
+                "tyr", 
+                "xaly", 
+                "krd", 
+                "tyr", 
+                "be", 
+                "jayy", 
+                "nxwrd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " کچلی پیدا شد کچل هدف گرفت دو سه تا شکار زد.", 
+            "after_conv_sentence": "kčly pyda šd kčl edf grft dw se ta škar zd .", 
             "tokens": [
                 "kčly", 
                 "pyda", 
@@ -651,10 +1075,25 @@
             ], 
             "sentence_id": 13026, 
             "jpn_sentence": "禿はというと、次々と獲物を倒し、二、三頭を捕らえた。", 
-            "roman_sentence": "kčly pyda šd kčl edf grft dw se ta škar zd ."
+            "roman_sentence": "kčly pyda šd kčl edf grft dw se ta škar zd .", 
+            "persian_sentence": " کچلی پیدا شد کچل هدف گرفت دو سه تا شکار زد.", 
+            "after_conv_tokens": [
+                "kčly", 
+                "pyda", 
+                "šd", 
+                "kčl", 
+                "edf", 
+                "grft", 
+                "dw", 
+                "se", 
+                "ta", 
+                "škar", 
+                "zd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " دو سه تا شکار زد و خلاصه بار و بندیلشو بست.", 
+            "after_conv_sentence": "dw se ta škar zd w xlaşe bar w bndy aw bst .", 
             "tokens": [
                 "dw", 
                 "se", 
@@ -671,10 +1110,26 @@
             ], 
             "sentence_id": 13027, 
             "jpn_sentence": "二、三頭の獲物を捕らえ、荷物をまとめた。", 
-            "roman_sentence": "dw se ta škar zd w xlaşe bar w bndylšw bst ."
+            "roman_sentence": "dw se ta škar zd w xlaşe bar w bndylšw bst .", 
+            "persian_sentence": " دو سه تا شکار زد و خلاصه بار و بندیلشو بست.", 
+            "after_conv_tokens": [
+                "dw", 
+                "se", 
+                "ta", 
+                "škar", 
+                "zd", 
+                "w", 
+                "xlaşe", 
+                "bar", 
+                "w", 
+                "bndy", 
+                "aw", 
+                "bst", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اما همدیگر (را) نمی شناختن.", 
+            "after_conv_sentence": "ama emdygr (ra) nmy šnaxtn .", 
             "tokens": [
                 "ama", 
                 "emdygr", 
@@ -685,10 +1140,19 @@
             ], 
             "sentence_id": 13028, 
             "jpn_sentence": "禿と婿はお互いの行動を知らなかった。", 
-            "roman_sentence": "ama emdygr (ra) nmy šnaxtn ."
+            "roman_sentence": "ama emdygr (ra) nmy šnaxtn .", 
+            "persian_sentence": " اما همدیگر (را) نمی شناختن.", 
+            "after_conv_tokens": [
+                "ama", 
+                "emdygr", 
+                "(ra)", 
+                "nmy", 
+                "šnaxtn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " همدیگر نمی شناختن رفتن یه جا چادر زد ارسلان چادر زد، حالا همین کچل باشه، چادر زد، و بنا کرد گوشتا ر ور داشت آورد دید باجناقه آمد، دید باجناق آمد.", 
+            "after_conv_sentence": "emdyg nmy šnaxtn ftn  ja čad zd aslan čad zd , ħala emyn kčl baše , čad zd , w bna kd    dašt ād dyd  āmd , dyd  āmd .", 
             "tokens": [
                 "emdygr", 
                 "nmy", 
@@ -729,10 +1193,43 @@
             ], 
             "sentence_id": 13029, 
             "jpn_sentence": "本当はアルスラーンである禿と婿はお互い同じ場所であると知らずに天幕を張った。禿は天幕を張って、獲物を見ていると、婿が来た。", 
-            "roman_sentence": "emdygr nmy šnaxtn rftn ye ja čadr zd arslan čadr zd , ħala emyn kčl baše , čadr zd , w bna krd gwšta r wr dašt āwrd dyd bajnaŕe āmd , dyd bajnaŕ āmd ."
+            "roman_sentence": "emdygr nmy šnaxtn rftn ye ja čadr zd arslan čadr zd , ħala emyn kčl baše , čadr zd , w bna krd gwšta r wr dašt āwrd dyd bajnaŕe āmd , dyd bajnaŕ āmd .", 
+            "persian_sentence": " همدیگر نمی شناختن رفتن یه جا چادر زد ارسلان چادر زد، حالا همین کچل باشه، چادر زد، و بنا کرد گوشتا ر ور داشت آورد دید باجناقه آمد، دید باجناق آمد.", 
+            "after_conv_tokens": [
+                "emdyg", 
+                "nmy", 
+                "šnaxtn", 
+                "ftn", 
+                "ja", 
+                "čad", 
+                "zd", 
+                "aslan", 
+                "čad", 
+                "zd", 
+                ",", 
+                "ħala", 
+                "emyn", 
+                "kčl", 
+                "baše", 
+                ",", 
+                "čad", 
+                "zd", 
+                ",", 
+                "w", 
+                "bna", 
+                "kd", 
+                "dašt", 
+                "ād", 
+                "dyd", 
+                "āmd", 
+                ",", 
+                "dyd", 
+                "āmd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینه باجناقِ ر میشناخت، این زد (اتفاقاً) و باجناقش اینه ر نمیشناخت.", 
+            "after_conv_sentence": "    , ayn zd (atfaŕa) w bajnaq   n .", 
             "tokens": [
                 "ayne", 
                 "bajnaŕ", 
@@ -751,10 +1248,21 @@
             ], 
             "sentence_id": 13030, 
             "jpn_sentence": "禿は婿を知っていた。ところが、婿は禿を知らなかった。", 
-            "roman_sentence": "ayne bajnaŕ r myšnaxt , ayn zd (atfaŕa) w bajnaŕš ayne r nmyšnaxt ."
+            "roman_sentence": "ayne bajnaŕ r myšnaxt , ayn zd (atfaŕa) w bajnaŕš ayne r nmyšnaxt .", 
+            "persian_sentence": " اینه باجناقِ ر میشناخت، این زد (اتفاقاً) و باجناقش اینه ر نمیشناخت.", 
+            "after_conv_tokens": [
+                ",", 
+                "ayn", 
+                "zd", 
+                "(atfaŕa)", 
+                "w", 
+                "bajnaq", 
+                "n", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت چه کار کنیم چه کار نکنیم، ارسلان برگشت، که همین کچل باشه، گفت کله پاچشه به من بدین، تنشم مال شما، الباقی گوشتش مال شما.", 
+            "after_conv_sentence": "gft če kar knym če kar nknym , arslan brgšt , ke emyn kčl baše , gft  be mn be ayn  , tn aw mal šma , albaŕy gwšt mal šma .", 
             "tokens": [
                 "gft", 
                 "če", 
@@ -792,10 +1300,45 @@
             ], 
             "sentence_id": 13031, 
             "jpn_sentence": "そこで、婿は言った。どうしたものか、全然だよ。アルスラーンが化けた禿は言った。", 
-            "roman_sentence": "gft če kar knym če kar nknym , arslan brgšt , ke emyn kčl baše , gft kle pačše be mn be ayn  , tnšm mal šma , albaŕy gwštš mal šma ."
+            "roman_sentence": "gft če kar knym če kar nknym , arslan brgšt , ke emyn kčl baše , gft kle pačše be mn be ayn  , tnšm mal šma , albaŕy gwštš mal šma .", 
+            "persian_sentence": " گفت چه کار کنیم چه کار نکنیم، ارسلان برگشت، که همین کچل باشه، گفت کله پاچشه به من بدین، تنشم مال شما، الباقی گوشتش مال شما.", 
+            "after_conv_tokens": [
+                "gft", 
+                "če", 
+                "kar", 
+                "knym", 
+                "če", 
+                "kar", 
+                "nknym", 
+                ",", 
+                "arslan", 
+                "brgšt", 
+                ",", 
+                "ke", 
+                "emyn", 
+                "kčl", 
+                "baše", 
+                ",", 
+                "gft", 
+                "be", 
+                "mn", 
+                "be", 
+                "ayn", 
+                ",", 
+                "tn", 
+                "aw", 
+                "mal", 
+                "šma", 
+                ",", 
+                "albaŕy", 
+                "gwšt", 
+                "mal", 
+                "šma", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " این پوست و روده و موده و کله و جیگر و اینا بدرد نخورا اینا (را) بدین به ما.", 
+            "after_conv_sentence": "ayn pwst w rwde w  w kle w  w  be   (ra) be ayn  be ma .", 
             "tokens": [
                 "ayn", 
                 "pwst", 
@@ -821,10 +1364,29 @@
             ], 
             "sentence_id": 13032, 
             "jpn_sentence": "獲物の頭と足だけは私のものだが、その他の体の部分はあげましょう。肉はあなたのものです。皮、腸、胃袋、頭などの役に立たないところは私のものです。", 
-            "roman_sentence": "ayn pwst w rwde w mwde w kle w jygr w ayna bdrd nxwra ayna (ra) be ayn  be ma ."
+            "roman_sentence": "ayn pwst w rwde w mwde w kle w jygr w ayna bdrd nxwra ayna (ra) be ayn  be ma .", 
+            "persian_sentence": " این پوست و روده و موده و کله و جیگر و اینا بدرد نخورا اینا (را) بدین به ما.", 
+            "after_conv_tokens": [
+                "ayn", 
+                "pwst", 
+                "w", 
+                "rwde", 
+                "w", 
+                "w", 
+                "kle", 
+                "w", 
+                "w", 
+                "be", 
+                "(ra)", 
+                "be", 
+                "ayn", 
+                "be", 
+                "ma", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت خیلی خوب باشه.", 
+            "after_conv_sentence": "gft xyly xwb baše .", 
             "tokens": [
                 "gft", 
                 "xyly", 
@@ -834,10 +1396,18 @@
             ], 
             "sentence_id": 13033, 
             "jpn_sentence": "婿は言った。それはいい。そうしよう。", 
-            "roman_sentence": "gft xyly xwb baše ."
+            "roman_sentence": "gft xyly xwb baše .", 
+            "persian_sentence": " گفت خیلی خوب باشه.", 
+            "after_conv_tokens": [
+                "gft", 
+                "xyly", 
+                "xwb", 
+                "baše", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینا قبول کردن و کچل وُساد(۱۳).", 
+            "after_conv_sentence": " ŕbwl krdn w kčl  (13) .", 
             "tokens": [
                 "ayna", 
                 "ŕbwl", 
@@ -850,10 +1420,19 @@
             ], 
             "sentence_id": 13034, 
             "jpn_sentence": "二人はそうすることにした。", 
-            "roman_sentence": "ayna ŕbwl krdn w kčl wsad (13) ."
+            "roman_sentence": "ayna ŕbwl krdn w kčl wsad (13) .", 
+            "persian_sentence": " اینا قبول کردن و کچل وُساد(۱۳).", 
+            "after_conv_tokens": [
+                "ŕbwl", 
+                "krdn", 
+                "w", 
+                "kčl", 
+                "(13)", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " کچل وُساد و اون با جناق رفت.", 
+            "after_conv_sentence": "kčl  w  ba  rft .", 
             "tokens": [
                 "kčl", 
                 "wsad", 
@@ -866,10 +1445,18 @@
             ], 
             "sentence_id": 13035, 
             "jpn_sentence": "禿は残り、婿は去っていった。", 
-            "roman_sentence": "kčl wsad w awn ba jnaŕ rft ."
+            "roman_sentence": "kčl wsad w awn ba jnaŕ rft .", 
+            "persian_sentence": " کچل وُساد و اون با جناق رفت.", 
+            "after_conv_tokens": [
+                "kčl", 
+                "w", 
+                "ba", 
+                "rft", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " باجناق رفت حالا دیگه پادشاه مریض شده به طوری افتاده که دیگه کورم شده مث ما دیگه چشم و چار نداشت.", 
+            "after_conv_sentence": " rft ħala  padšae mryź šde be ţwry aftade ke  kwr šde  ma  čšm w čar ndašt .", 
             "tokens": [
                 "bajnaŕ", 
                 "rft", 
@@ -896,10 +1483,30 @@
             ], 
             "sentence_id": 13036, 
             "jpn_sentence": "婿は、帰った。王はというと、病気で目も見えなくなっていた。", 
-            "roman_sentence": "bajnaŕ rft ħala dyge padšae mryź šde be ţwry aftade ke dyge kwrm šde mç ma dyge čšm w čar ndašt ."
+            "roman_sentence": "bajnaŕ rft ħala dyge padšae mryź šde be ţwry aftade ke dyge kwrm šde mç ma dyge čšm w čar ndašt .", 
+            "persian_sentence": " باجناق رفت حالا دیگه پادشاه مریض شده به طوری افتاده که دیگه کورم شده مث ما دیگه چشم و چار نداشت.", 
+            "after_conv_tokens": [
+                "rft", 
+                "ħala", 
+                "padšae", 
+                "mryź", 
+                "šde", 
+                "be", 
+                "ţwry", 
+                "aftade", 
+                "ke", 
+                "kwr", 
+                "šde", 
+                "ma", 
+                "čšm", 
+                "w", 
+                "čar", 
+                "ndašt", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " رفت و از این گوشت موشتا.", 
+            "after_conv_sentence": "rft w az ayn gwšt mwšta .", 
             "tokens": [
                 "rft", 
                 "w", 
@@ -911,10 +1518,20 @@
             ], 
             "sentence_id": 13037, 
             "jpn_sentence": "その肉を心待ちにしていた。", 
-            "roman_sentence": "rft w az ayn gwšt mwšta ."
+            "roman_sentence": "rft w az ayn gwšt mwšta .", 
+            "persian_sentence": " رفت و از این گوشت موشتا.", 
+            "after_conv_tokens": [
+                "rft", 
+                "w", 
+                "az", 
+                "ayn", 
+                "gwšt", 
+                "mwšta", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " کاسه همساده (همسایه) ما میگیم.", 
+            "after_conv_sentence": "kase emsade (emsaye) ma  .", 
             "tokens": [
                 "kase", 
                 "emsade", 
@@ -925,10 +1542,18 @@
             ], 
             "sentence_id": 13038, 
             "jpn_sentence": "異国の器(1)と我々は言うが、", 
-            "roman_sentence": "kase emsade (emsaye) ma mygym ."
+            "roman_sentence": "kase emsade (emsaye) ma mygym .", 
+            "persian_sentence": " کاسه همساده (همسایه) ما میگیم.", 
+            "after_conv_tokens": [
+                "kase", 
+                "emsade", 
+                "(emsaye)", 
+                "ma", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " ا این کاسه همساده دختره ورداشت برد برا(۱۴) پادشاه و خورد دید این نه.", 
+            "after_conv_sentence": "a ayn kase emsade  dašt brd  (14) padšae w xd dyd ayn ne .", 
             "tokens": [
                 "a", 
                 "ayn", 
@@ -949,10 +1574,27 @@
             ], 
             "sentence_id": 13039, 
             "jpn_sentence": "その器を王のもとへ王女が持って行った。王はそれを食べたが、それではないということがわかった。", 
-            "roman_sentence": "a ayn kase emsade dxtre wrdašt brd bra (14) padšae w xwrd dyd ayn ne ."
+            "roman_sentence": "a ayn kase emsade dxtre wrdašt brd bra (14) padšae w xwrd dyd ayn ne .", 
+            "persian_sentence": " ا این کاسه همساده دختره ورداشت برد برا(۱۴) پادشاه و خورد دید این نه.", 
+            "after_conv_tokens": [
+                "a", 
+                "ayn", 
+                "kase", 
+                "emsade", 
+                "dašt", 
+                "brd", 
+                "(14)", 
+                "padšae", 
+                "w", 
+                "xd", 
+                "dyd", 
+                "ayn", 
+                "ne", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " مزه ای نمیده.", 
+            "after_conv_sentence": "mze ay  .", 
             "tokens": [
                 "mze", 
                 "ay", 
@@ -961,10 +1603,16 @@
             ], 
             "sentence_id": 13040, 
             "jpn_sentence": "まずかったのである。", 
-            "roman_sentence": "mze ay nmyde ."
+            "roman_sentence": "mze ay nmyde .", 
+            "persian_sentence": " مزه ای نمیده.", 
+            "after_conv_tokens": [
+                "mze", 
+                "ay", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " از این ورم کچل رسید این کله پاچه ر پخت و این کله پاچه ر به زنش ور داشت گفت برو اینه بده به پدرت این کاسه همساده ر برو بهش بده.", 
+            "after_conv_sentence": "az ayn m kčl syd ayn kle pače  pxt w ayn kle pače  be zn   gft bw   be pdt ayn kase emsade  bw be aw   .", 
             "tokens": [
                 "az", 
                 "ayn", 
@@ -1003,10 +1651,39 @@
             ], 
             "sentence_id": 13041, 
             "jpn_sentence": "その後、禿が帰ってきて、頭と足を煮込んだ。この煮込み料理を妻に渡して言った。これを持って王のところに行って下さい。異国の器に盛りつけて食べさせて下さい。", 
-            "roman_sentence": "az ayn wrm kčl rsyd ayn kle pače r pxt w ayn kle pače r be znš wr dašt gft brw ayne bde be pdrt ayn kase emsade r brw be aw  bde ."
+            "roman_sentence": "az ayn wrm kčl rsyd ayn kle pače r pxt w ayn kle pače r be znš wr dašt gft brw ayne bde be pdrt ayn kase emsade r brw be aw  bde .", 
+            "persian_sentence": " از این ورم کچل رسید این کله پاچه ر پخت و این کله پاچه ر به زنش ور داشت گفت برو اینه بده به پدرت این کاسه همساده ر برو بهش بده.", 
+            "after_conv_tokens": [
+                "az", 
+                "ayn", 
+                "m", 
+                "kčl", 
+                "syd", 
+                "ayn", 
+                "kle", 
+                "pače", 
+                "pxt", 
+                "w", 
+                "ayn", 
+                "kle", 
+                "pače", 
+                "be", 
+                "zn", 
+                "gft", 
+                "bw", 
+                "be", 
+                "pdt", 
+                "ayn", 
+                "kase", 
+                "emsade", 
+                "bw", 
+                "be", 
+                "aw", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " پادشاه ورداشت برد خورد این هم کور بود هم مریض شفا گرفت، خوب شد.", 
+            "after_conv_sentence": "padšae dašt brd xd ayn em k bwd em mryź šfa grft , xwb šd .", 
             "tokens": [
                 "padšae", 
                 "wrdašt", 
@@ -1027,10 +1704,29 @@
             ], 
             "sentence_id": 13042, 
             "jpn_sentence": "王は、器を持ち上げて食べ始めた。すると、目が見えなかったのも治ってしまった。", 
-            "roman_sentence": "padšae wrdašt brd xwrd ayn em kwr bwd em mryź šfa grft , xwb šd ."
+            "roman_sentence": "padšae wrdašt brd xwrd ayn em kwr bwd em mryź šfa grft , xwb šd .", 
+            "persian_sentence": " پادشاه ورداشت برد خورد این هم کور بود هم مریض شفا گرفت، خوب شد.", 
+            "after_conv_tokens": [
+                "padšae", 
+                "dašt", 
+                "brd", 
+                "xd", 
+                "ayn", 
+                "em", 
+                "k", 
+                "bwd", 
+                "em", 
+                "mryź", 
+                "šfa", 
+                "grft", 
+                ",", 
+                "xwb", 
+                "šd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " خوب شد و دست کشید به چشمش گفت به به به از این کله پاچه عجب مزه ای داره تف به تنش مزه اش به کله اش.", 
+            "after_conv_sentence": "xwb šd w dst kšyd be čšm gft be be be az ayn kle pače 'jb   tf be tn mze be kle .", 
             "tokens": [
                 "xwb", 
                 "šd", 
@@ -1063,10 +1759,36 @@
             ], 
             "sentence_id": 13043, 
             "jpn_sentence": "すっかり良くなり、目をこすり、言った。これはうまい。なんてうまいキャレパーチェなんだ。体の肉には唾をはきかけたが、頭はうまい。", 
-            "roman_sentence": "xwb šd w dst kšyd be čšmš gft be be be az ayn kle pače 'jb mze ay dare tf be tnš mze aš be kle aš ."
+            "roman_sentence": "xwb šd w dst kšyd be čšmš gft be be be az ayn kle pače 'jb mze ay dare tf be tnš mze aš be kle aš .", 
+            "persian_sentence": " خوب شد و دست کشید به چشمش گفت به به به از این کله پاچه عجب مزه ای داره تف به تنش مزه اش به کله اش.", 
+            "after_conv_tokens": [
+                "xwb", 
+                "šd", 
+                "w", 
+                "dst", 
+                "kšyd", 
+                "be", 
+                "čšm", 
+                "gft", 
+                "be", 
+                "be", 
+                "be", 
+                "az", 
+                "ayn", 
+                "kle", 
+                "pače", 
+                "'jb", 
+                "tf", 
+                "be", 
+                "tn", 
+                "mze", 
+                "be", 
+                "kle", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یعنی کله ر میگوین اینه پادشاه که مریض بود میگفت.", 
+            "after_conv_sentence": "y'ny kle    padšae ke myź bwd  .", 
             "tokens": [
                 "y'ny", 
                 "kle", 
@@ -1082,10 +1804,20 @@
             ], 
             "sentence_id": 13044, 
             "jpn_sentence": "王の病気には、獲物の頭が効いたのである。", 
-            "roman_sentence": "y'ny kle r mygwyn ayne padšae ke mryź bwd mygft ."
+            "roman_sentence": "y'ny kle r mygwyn ayne padšae ke mryź bwd mygft .", 
+            "persian_sentence": " یعنی کله ر میگوین اینه پادشاه که مریض بود میگفت.", 
+            "after_conv_tokens": [
+                "y'ny", 
+                "kle", 
+                "padšae", 
+                "ke", 
+                "myź", 
+                "bwd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت خیلی خوب.", 
+            "after_conv_sentence": "gft xyly xwb .", 
             "tokens": [
                 "gft", 
                 "xyly", 
@@ -1094,10 +1826,17 @@
             ], 
             "sentence_id": 13045, 
             "jpn_sentence": "王は言った。よくやった。", 
-            "roman_sentence": "gft xyly xwb ."
+            "roman_sentence": "gft xyly xwb .", 
+            "persian_sentence": " گفت خیلی خوب.", 
+            "after_conv_tokens": [
+                "gft", 
+                "xyly", 
+                "xwb", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " اینه ور دارین بیارین، این کچل وردارین بیارین من ازش این بد بخت بود این بیچاره بود این چیطو(۱۵) این قدر دست این کله پاچه خوب مزه داره لذیذ داره این ها.", 
+            "after_conv_sentence": "    , ayn kčl   mn az aw  ayn bd bxt bwd ayn byčare bwd ayn če (15) ayn ŕdr dst ayn kle pače xwb mze  lđyđ   .", 
             "tokens": [
                 "ayne", 
                 "wr", 
@@ -1138,10 +1877,39 @@
             ], 
             "sentence_id": 13046, 
             "jpn_sentence": "禿を連れてきなさい。この不幸で憐れむべき禿がどのようにしてこのように美味しいキャレパーチェを作ったのか。", 
-            "roman_sentence": "ayne wr daryn byaryn , ayn kčl wrdaryn byaryn mn az aw  ayn bd bxt bwd ayn byčare bwd ayn čyţw (15) ayn ŕdr dst ayn kle pače xwb mze dare lđyđ dare ayn ea ."
+            "roman_sentence": "ayne wr daryn byaryn , ayn kčl wrdaryn byaryn mn az aw  ayn bd bxt bwd ayn byčare bwd ayn čyţw (15) ayn ŕdr dst ayn kle pače xwb mze dare lđyđ dare ayn ea .", 
+            "persian_sentence": " اینه ور دارین بیارین، این کچل وردارین بیارین من ازش این بد بخت بود این بیچاره بود این چیطو(۱۵) این قدر دست این کله پاچه خوب مزه داره لذیذ داره این ها.", 
+            "after_conv_tokens": [
+                ",", 
+                "ayn", 
+                "kčl", 
+                "mn", 
+                "az", 
+                "aw", 
+                "ayn", 
+                "bd", 
+                "bxt", 
+                "bwd", 
+                "ayn", 
+                "byčare", 
+                "bwd", 
+                "ayn", 
+                "če", 
+                "(15)", 
+                "ayn", 
+                "ŕdr", 
+                "dst", 
+                "ayn", 
+                "kle", 
+                "pače", 
+                "xwb", 
+                "mze", 
+                "lđyđ", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " رفت ور داشت آورد گفت کچل ورداشت همین چی ارسلان، ارسلان ورداشت آورد داد گفت خوب این جریون چی طوریه؟", 
+            "after_conv_sentence": "rft  dašt ād gft kčl dašt emyn  arslan , arslan dašt ād dad gft xwb ayn   ţye ?", 
             "tokens": [
                 "rft", 
                 "wr", 
@@ -1168,10 +1936,31 @@
             ], 
             "sentence_id": 13047, 
             "jpn_sentence": "禿が連れてこられ、つまり、アルスラーンが連れてこられた。王は言った。これはいったいどういうことなのだ。", 
-            "roman_sentence": "rft wr dašt āwrd gft kčl wrdašt emyn čy arslan , arslan wrdašt āwrd dad gft xwb ayn jrywn čy ţwrye ?"
+            "roman_sentence": "rft wr dašt āwrd gft kčl wrdašt emyn čy arslan , arslan wrdašt āwrd dad gft xwb ayn jrywn čy ţwrye ?", 
+            "persian_sentence": " رفت ور داشت آورد گفت کچل ورداشت همین چی ارسلان، ارسلان ورداشت آورد داد گفت خوب این جریون چی طوریه؟", 
+            "after_conv_tokens": [
+                "rft", 
+                "dašt", 
+                "ād", 
+                "gft", 
+                "kčl", 
+                "dašt", 
+                "emyn", 
+                "arslan", 
+                ",", 
+                "arslan", 
+                "dašt", 
+                "ād", 
+                "dad", 
+                "gft", 
+                "xwb", 
+                "ayn", 
+                "ţye", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " گفت والله جریون اینطوریه.", 
+            "after_conv_sentence": "gft walle  aynţwr .", 
             "tokens": [
                 "gft", 
                 "walle", 
@@ -1181,10 +1970,17 @@
             ], 
             "sentence_id": 13048, 
             "jpn_sentence": "アルスラーンは言った。実はこういうことなのです。", 
-            "roman_sentence": "gft walle jrywn aynţwrye ."
+            "roman_sentence": "gft walle jrywn aynţwrye .", 
+            "persian_sentence": " گفت والله جریون اینطوریه.", 
+            "after_conv_tokens": [
+                "gft", 
+                "walle", 
+                "aynţwr", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " حقیقتشِ صحبت کرد.", 
+            "after_conv_sentence": "ħŕyŕt şħbt krd .", 
             "tokens": [
                 "ħŕyŕtš", 
                 "şħbt", 
@@ -1193,10 +1989,17 @@
             ], 
             "sentence_id": 13049, 
             "jpn_sentence": "本当のことを話し始めた。", 
-            "roman_sentence": "ħŕyŕtš şħbt krd ."
+            "roman_sentence": "ħŕyŕtš şħbt krd .", 
+            "persian_sentence": " حقیقتشِ صحبت کرد.", 
+            "after_conv_tokens": [
+                "ħŕyŕt", 
+                "şħbt", 
+                "krd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت اون دامادی که تو داشتی (اون بهترین) دخترتِ نمیدونم زینتو فلانو به اون کمک کرد حالا که دیدی منم کچل بودم آدم بدبختی بودم که خوب این کله پاچه ر دادم به اونا ور داشتن آوردن.", 
+            "after_conv_sentence": "gft  damady ke tw dašty ( be tw yn) dxtt  zynt flan be  kmk kd ħala ke dydy mn kčl bwdm ādm bdbxty bwdm ke xwb ayn kle pače  dadm be a  daštn ādn .", 
             "tokens": [
                 "gft", 
                 "awn", 
@@ -1241,10 +2044,48 @@
             ], 
             "sentence_id": 13050, 
             "jpn_sentence": "あなたは婿を持っていますね。娘を嫁がせた名士の婿が。でも、不幸な禿の私が獲物の頭と足を持ってきたんですよ。", 
-            "roman_sentence": "gft awn damady ke tw dašty (awn be tw ryn) dxtrt nmydwnm zyntw flanw be awn kmk krd ħala ke dydy mnm kčl bwdm ādm bdbxty bwdm ke xwb ayn kle pače r dadm be awna wr daštn āwrdn ."
+            "roman_sentence": "gft awn damady ke tw dašty (awn be tw ryn) dxtrt nmydwnm zyntw flanw be awn kmk krd ħala ke dydy mnm kčl bwdm ādm bdbxty bwdm ke xwb ayn kle pače r dadm be awna wr daštn āwrdn .", 
+            "persian_sentence": " گفت اون دامادی که تو داشتی (اون بهترین) دخترتِ نمیدونم زینتو فلانو به اون کمک کرد حالا که دیدی منم کچل بودم آدم بدبختی بودم که خوب این کله پاچه ر دادم به اونا ور داشتن آوردن.", 
+            "after_conv_tokens": [
+                "gft", 
+                "damady", 
+                "ke", 
+                "tw", 
+                "dašty", 
+                "(", 
+                "be", 
+                "tw", 
+                "yn)", 
+                "dxtt", 
+                "zynt", 
+                "flan", 
+                "be", 
+                "kmk", 
+                "kd", 
+                "ħala", 
+                "ke", 
+                "dydy", 
+                "mn", 
+                "kčl", 
+                "bwdm", 
+                "ādm", 
+                "bdbxty", 
+                "bwdm", 
+                "ke", 
+                "xwb", 
+                "ayn", 
+                "kle", 
+                "pače", 
+                "dadm", 
+                "be", 
+                "a", 
+                "daštn", 
+                "ādn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت اره نگفت دومادت،  نگفت دومادت.", 
+            "after_conv_sentence": "gft  ngft damad ,  ngft damad .", 
             "tokens": [
                 "gft", 
                 "are", 
@@ -1257,10 +2098,20 @@
             ], 
             "sentence_id": 13051, 
             "jpn_sentence": "驚いたことに婿は言った。", 
-            "roman_sentence": "gft are ngft dwmadt ,  ngft dwmadt ."
+            "roman_sentence": "gft are ngft dwmadt ,  ngft dwmadt .", 
+            "persian_sentence": " گفت اره نگفت دومادت،  نگفت دومادت.", 
+            "after_conv_tokens": [
+                "gft", 
+                "ngft", 
+                "damad", 
+                ",", 
+                "ngft", 
+                "damad", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت یه همچین شخصی گفت از اون شخص چه نشونی داری.", 
+            "after_conv_sentence": "gft  emčyn šxşy gft az  šxş če  dary .", 
             "tokens": [
                 "gft", 
                 "ye", 
@@ -1277,10 +2128,22 @@
             ], 
             "sentence_id": 13052, 
             "jpn_sentence": "何か証拠でもあるのか。", 
-            "roman_sentence": "gft ye emčyn šxşy gft az awn šxş če nšwny dary ."
+            "roman_sentence": "gft ye emčyn šxşy gft az awn šxş če nšwny dary .", 
+            "persian_sentence": " گفت یه همچین شخصی گفت از اون شخص چه نشونی داری.", 
+            "after_conv_tokens": [
+                "gft", 
+                "emčyn", 
+                "šxşy", 
+                "gft", 
+                "az", 
+                "šxş", 
+                "če", 
+                "dary", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت من دو نشونی از اون دارم.", 
+            "after_conv_sentence": "gft mn dw  az  darm .", 
             "tokens": [
                 "gft", 
                 "mn", 
@@ -1293,10 +2156,19 @@
             ], 
             "sentence_id": 13053, 
             "jpn_sentence": "アルスラーンは言った。二つの証拠があります。", 
-            "roman_sentence": "gft mn dw nšwny az awn darm ."
+            "roman_sentence": "gft mn dw nšwny az awn darm .", 
+            "persian_sentence": " گفت من دو نشونی از اون دارم.", 
+            "after_conv_tokens": [
+                "gft", 
+                "mn", 
+                "dw", 
+                "az", 
+                "darm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت نشونیش چیه؟", 
+            "after_conv_sentence": "gft nšan če ?", 
             "tokens": [
                 "gft", 
                 "nšwnyš", 
@@ -1305,10 +2177,17 @@
             ], 
             "sentence_id": 13054, 
             "jpn_sentence": "すると、婿が言った。証拠とは何か。", 
-            "roman_sentence": "gft nšwnyš čye ?"
+            "roman_sentence": "gft nšwnyš čye ?", 
+            "persian_sentence": " گفت نشونیش چیه؟", 
+            "after_conv_tokens": [
+                "gft", 
+                "nšan", 
+                "če", 
+                "?"
+            ]
         }, 
         {
-            "persian_sentence": " گفت من یه مهر این ور رونش زدم.", 
+            "after_conv_sentence": "gft mn  mer ayn wr ran zdm .", 
             "tokens": [
                 "gft", 
                 "mn", 
@@ -1322,10 +2201,21 @@
             ], 
             "sentence_id": 13055, 
             "jpn_sentence": "アルスラーンは言った。", 
-            "roman_sentence": "gft mn ye mer ayn wr rwnš zdm ."
+            "roman_sentence": "gft mn ye mer ayn wr rwnš zdm .", 
+            "persian_sentence": " گفت من یه مهر این ور رونش زدم.", 
+            "after_conv_tokens": [
+                "gft", 
+                "mn", 
+                "mer", 
+                "ayn", 
+                "wr", 
+                "ran", 
+                "zdm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " یه مهر اون ور رونش زدم.", 
+            "after_conv_sentence": " mer  wr ran zdm .", 
             "tokens": [
                 "ye", 
                 "mer", 
@@ -1337,10 +2227,18 @@
             ], 
             "sentence_id": 13056, 
             "jpn_sentence": "森林官と婿の両太股に判子を押しました。", 
-            "roman_sentence": "ye mer awn wr rwnš zdm ."
+            "roman_sentence": "ye mer awn wr rwnš zdm .", 
+            "persian_sentence": " یه مهر اون ور رونش زدم.", 
+            "after_conv_tokens": [
+                "mer", 
+                "wr", 
+                "ran", 
+                "zdm", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت بیبینیش(۱۶) میشناسیش.", 
+            "after_conv_sentence": "gft bybynyš (16)  .", 
             "tokens": [
                 "gft", 
                 "bybynyš", 
@@ -1350,10 +2248,17 @@
             ], 
             "sentence_id": 13057, 
             "jpn_sentence": "婿は言った。では、それを確認しに行きましょう。", 
-            "roman_sentence": "gft bybynyš (16) myšnasyš ."
+            "roman_sentence": "gft bybynyš (16) myšnasyš .", 
+            "persian_sentence": " گفت بیبینیش(۱۶) میشناسیش.", 
+            "after_conv_tokens": [
+                "gft", 
+                "bybynyš", 
+                "(16)", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفت اره.", 
+            "after_conv_sentence": "gft  .", 
             "tokens": [
                 "gft", 
                 "are", 
@@ -1361,10 +2266,15 @@
             ], 
             "sentence_id": 13058, 
             "jpn_sentence": "アルスラーンは言った。どうぞ。", 
-            "roman_sentence": "gft are ."
+            "roman_sentence": "gft are .", 
+            "persian_sentence": " گفت اره.", 
+            "after_conv_tokens": [
+                "gft", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " چی کرد توی مثل این داهات گشتن یارو ر پیدا کردن،  آمد دید همین.", 
+            "after_conv_sentence": " kd twy mçl ayn  gštn yaw  pyda kdn ,  āmd dyd emyn .", 
             "tokens": [
                 "čy", 
                 "krd", 
@@ -1385,10 +2295,26 @@
             ], 
             "sentence_id": 13059, 
             "jpn_sentence": "森林官は見つけだされ、婿もそれを確認した。", 
-            "roman_sentence": "čy krd twy mçl ayn daeat gštn yarw r pyda krdn ,  āmd dyd emyn ."
+            "roman_sentence": "čy krd twy mçl ayn daeat gštn yarw r pyda krdn ,  āmd dyd emyn .", 
+            "persian_sentence": " چی کرد توی مثل این داهات گشتن یارو ر پیدا کردن،  آمد دید همین.", 
+            "after_conv_tokens": [
+                "kd", 
+                "twy", 
+                "mçl", 
+                "ayn", 
+                "gštn", 
+                "yaw", 
+                "pyda", 
+                "kdn", 
+                ",", 
+                "āmd", 
+                "dyd", 
+                "emyn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " با جناقش گفت اره همین شخص.", 
+            "after_conv_sentence": "ba jnaq gft  emyn šxş .", 
             "tokens": [
                 "ba", 
                 "jnaŕš", 
@@ -1400,10 +2326,19 @@
             ], 
             "sentence_id": 13060, 
             "jpn_sentence": "婿は、その男だと言った。", 
-            "roman_sentence": "ba jnaŕš gft are emyn šxş ."
+            "roman_sentence": "ba jnaŕš gft are emyn šxş .", 
+            "persian_sentence": " با جناقش گفت اره همین شخص.", 
+            "after_conv_tokens": [
+                "ba", 
+                "jnaq", 
+                "gft", 
+                "emyn", 
+                "šxş", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گفتن که خوب نشونی گرفتن لختش کردن دیگه.", 
+            "after_conv_sentence": "gftn ke xwb  grftn lxt krdn  .", 
             "tokens": [
                 "gftn", 
                 "ke", 
@@ -1417,10 +2352,20 @@
             ], 
             "sentence_id": 13061, 
             "jpn_sentence": "服を脱がせて判子を確認するように言った。", 
-            "roman_sentence": "gftn ke xwb nšwny grftn lxtš krdn dyge ."
+            "roman_sentence": "gftn ke xwb nšwny grftn lxtš krdn dyge .", 
+            "persian_sentence": " گفتن که خوب نشونی گرفتن لختش کردن دیگه.", 
+            "after_conv_tokens": [
+                "gftn", 
+                "ke", 
+                "xwb", 
+                "grftn", 
+                "lxt", 
+                "krdn", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " گرفتن لختش کردن دیدن بله این کچل که دارن میگن، نشونیش همینا و(۱۷) درست میگن.", 
+            "after_conv_sentence": "grftn lxt krdn dydn ble ayn kčl ke   , nšan  w (17) drst  .", 
             "tokens": [
                 "grftn", 
                 "lxtš", 
@@ -1443,10 +2388,27 @@
             ], 
             "sentence_id": 13062, 
             "jpn_sentence": "服を脱がせてみると、禿が言ったとおり、判子が押されてあった。", 
-            "roman_sentence": "grftn lxtš krdn dydn ble ayn kčl ke darn mygn , nšwnyš emyna w (17) drst mygn ."
+            "roman_sentence": "grftn lxtš krdn dydn ble ayn kčl ke darn mygn , nšwnyš emyna w (17) drst mygn .", 
+            "persian_sentence": " گرفتن لختش کردن دیدن بله این کچل که دارن میگن، نشونیش همینا و(۱۷) درست میگن.", 
+            "after_conv_tokens": [
+                "grftn", 
+                "lxt", 
+                "krdn", 
+                "dydn", 
+                "ble", 
+                "ayn", 
+                "kčl", 
+                "ke", 
+                ",", 
+                "nšan", 
+                "w", 
+                "(17)", 
+                "drst", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " داغیش هم از همین داغیا که قدیم (شاید همین الان هم باشه که لاستیک چی میکردن. چسب میزنن ماشینا ر).", 
+            "after_conv_sentence": "daqy em az emyn  ke ŕdym (šayd emyn alan em baše ke lastyk   . čsb   r) .", 
             "tokens": [
                 "daqyš", 
                 "em", 
@@ -1473,10 +2435,30 @@
             ], 
             "sentence_id": 13063, 
             "jpn_sentence": "判子も同じものであった。", 
-            "roman_sentence": "daqyš em az emyn daqya ke ŕdym (šayd emyn alan em baše ke lastyk čy mykrdn . čsb myznn mašyna r) ."
+            "roman_sentence": "daqyš em az emyn daqya ke ŕdym (šayd emyn alan em baše ke lastyk čy mykrdn . čsb myznn mašyna r) .", 
+            "persian_sentence": " داغیش هم از همین داغیا که قدیم (شاید همین الان هم باشه که لاستیک چی میکردن. چسب میزنن ماشینا ر).", 
+            "after_conv_tokens": [
+                "daqy", 
+                "em", 
+                "az", 
+                "emyn", 
+                "ke", 
+                "ŕdym", 
+                "(šayd", 
+                "emyn", 
+                "alan", 
+                "em", 
+                "baše", 
+                "ke", 
+                "lastyk", 
+                ".", 
+                "čsb", 
+                "r)", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " لختش کرد دید اره.", 
+            "after_conv_sentence": "lxt krd dyd  .", 
             "tokens": [
                 "lxtš", 
                 "krd", 
@@ -1486,10 +2468,17 @@
             ], 
             "sentence_id": 13064, 
             "jpn_sentence": "服を脱がせて見たのであった。", 
-            "roman_sentence": "lxtš krd dyd are ."
+            "roman_sentence": "lxtš krd dyd are .", 
+            "persian_sentence": " لختش کرد دید اره.", 
+            "after_conv_tokens": [
+                "lxt", 
+                "krd", 
+                "dyd", 
+                "."
+            ]
         }, 
         {
-            "persian_sentence": " برگشت از اونجا گفت خاک بر سر من من با دوماد گرفتنم فقط این کچل به درد من میخوره و تاج سلطنت ر ور داشت گذشت  سر این کچل و گفت شما به خیر و ما هم به سلامت.", 
+            "after_conv_sentence": "bgšt az  gft xak b s mn mn ba  gftnm fŕţ ayn kčl be dd mn myxe w taj slţnt   dašt gđšt  s ayn kčl w gft šma be xy w ma em be slamt .", 
             "tokens": [
                 "brgšt", 
                 "az", 
@@ -1534,7 +2523,46 @@
             ], 
             "sentence_id": 13065, 
             "jpn_sentence": "王は、帰って言った。悲しいことに、私には二人の婿がいたが、この禿だけが役に立った。そして、王冠を持って、禿の頭に置いて、こう言った。そなたに幸あらば、私たちも平和である。", 
-            "roman_sentence": "brgšt az awnja gft xak br sr mn mn ba dwmad grftnm fŕţ ayn kčl be drd mn myxwre w taj slţnt r wr dašt gđšt  sr ayn kčl w gft šma be xyr w ma em be slamt ."
+            "roman_sentence": "brgšt az awnja gft xak br sr mn mn ba dwmad grftnm fŕţ ayn kčl be drd mn myxwre w taj slţnt r wr dašt gđšt  sr ayn kčl w gft šma be xyr w ma em be slamt .", 
+            "persian_sentence": " برگشت از اونجا گفت خاک بر سر من من با دوماد گرفتنم فقط این کچل به درد من میخوره و تاج سلطنت ر ور داشت گذشت  سر این کچل و گفت شما به خیر و ما هم به سلامت.", 
+            "after_conv_tokens": [
+                "bgšt", 
+                "az", 
+                "gft", 
+                "xak", 
+                "b", 
+                "s", 
+                "mn", 
+                "mn", 
+                "ba", 
+                "gftnm", 
+                "fŕţ", 
+                "ayn", 
+                "kčl", 
+                "be", 
+                "dd", 
+                "mn", 
+                "myxe", 
+                "w", 
+                "taj", 
+                "slţnt", 
+                "dašt", 
+                "gđšt", 
+                "s", 
+                "ayn", 
+                "kčl", 
+                "w", 
+                "gft", 
+                "šma", 
+                "be", 
+                "xy", 
+                "w", 
+                "ma", 
+                "em", 
+                "be", 
+                "slamt", 
+                "."
+            ]
         }
     ], 
     "document_info_map": {

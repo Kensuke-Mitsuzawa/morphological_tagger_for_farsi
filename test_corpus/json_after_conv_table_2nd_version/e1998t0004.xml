@@ -278,7 +278,7 @@
             ]
         }, 
         {
-            "after_conv_sentence": "my_āyd dm dr myge šngwl mn mngwl mn dr baz kn mamant お前 ・・・である .", 
+            "after_conv_sentence": "my_āyd dm dr myge šngwl mn mngwl mn dr baz kn mamant お前 .", 
             "tokens": [
                 "myad", 
                 "dm", 
@@ -313,7 +313,6 @@
                 "kn", 
                 "mamant", 
                 "お前", 
-                "・・・である", 
                 "."
             ]
         }, 
@@ -455,7 +454,7 @@
             ]
         }, 
         {
-            "after_conv_sentence": "myge šngwl mn mngwl mn , dr baz kn mamantan お前 ・・・である .", 
+            "after_conv_sentence": "myge šngwl mn mngwl mn , dr baz kn mamantan お前 .", 
             "tokens": [
                 "myge", 
                 "šngwl", 
@@ -486,7 +485,6 @@
                 "kn", 
                 "mamantan", 
                 "お前", 
-                "・・・である", 
                 "."
             ]
         }, 
