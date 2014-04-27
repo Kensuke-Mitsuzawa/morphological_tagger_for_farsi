@@ -1,12 +1,14 @@
 #! /usr/bin/python
 # -*- coding:utf-8 -*-
 """
-タグ付けされたコーパスをアノテーションしやすいフォーマットに変換する．
-ARGS: test_corpus/taged_corpus/コーパス名
+This script generate new file which is suitable to hand annotation work.
+A file that inflection information was tagged is hard to read and edit for human.
+Thus this script convert a difficult input file into a file that is easy to edit work.
 
-OUT: test_corpus/annotation_format/コーパス名
+ARGS: path_to_inflection_tagged_corpus
+OUT: input file name plus '.annotation'
 """
-__date__='2013/11/09'
+__date__='2014/04/27'
 __author__='Kensuke-mi'
 
 import sys, codecs, json, os;
@@ -23,7 +25,7 @@ def generate_format(corpus):
         sentence_id=str(sentence[u'sentence_id']);
         format_stack.append(u'#new sentence{}\n'.format(sentence_id));
 
-        for i, token in enumerate(sentence[u'after_conv_tokens']):
+        for i, token in enumerate(sentence[u'tokens']):
             if sentence['pos_perlex']!=[None]:
                 for ii, pos in enumerate(sentence[u'pos_perlex'][i]):
                     category=sentence[u'category'][i][ii];
@@ -44,8 +46,8 @@ def generate_format(corpus):
     
 def main():
     corpus_path=sys.argv[1];
-    file_name=os.path.split(corpus_path)[-1].replace('.xml', '.annotation');
-    out_f=codecs.open('../test_corpus/annotation_format/'+file_name, 'w', 'utf-8');
+    file_name=corpus_path+'.annotation'    
+    out_f=codecs.open(file_name, 'w', 'utf-8');
 
     corpus=load_taged_corpus(corpus_path);
     format_stack=generate_format(corpus);
@@ -55,4 +57,8 @@ def main():
     out_f.close();
 
 if __name__=='__main__':
-    main();
+    if len(sys.argv)==1:
+        sys.exit('Usage: python conv_to_annotation_format.py path_to_inflection_tagged_corpus\
+                 \nOutput file name is input file name plus ".annotation"')
+    else: 
+        main()
