@@ -14,17 +14,9 @@ import json, codecs, sys, subprocess, sys, os, re
 class tagging:
     """
     Give morphological information for input document. Morphological dictionaly is from perlex.
-    With this class, the data format of output is below. The index of token corresponds with token's morphological information.
-        list document [dictionaly sentence 
-        {
-        'tokens': list tokens [unicode token],
-        'morph_tag': list morph_info [list morph_candidate [unicode morph_info]],
-        'stem': list stem_info [list stem_candidates [unicode stem_info]],
-        'pos_perlex': list pos_info [list pos_candidate [unicode pos]],
-        'category': list categories [list category_candidates [unicode category]],
-        'inflection':list inflection [list inflection_candidates [unicode inflection]]
-        }
-        ]
+    With this class, the data format of output is below:
+        list document [dictionaly sentence {'' }]
+
     """
     def __init__(self, input_path, lex_dic_path):
         self.input_path=input_path
@@ -35,8 +27,8 @@ class tagging:
 
         new_corpus=self.do_tag(after_inf_dictionary)
         
-        file_name=os.path.basename(file_path)
-        with codecs.open('../test_corpus/taged_corpus/'+file_name, 'w', 'utf-8') as f:
+        file_name=self.input_path+'_plus_inf.json'
+        with codecs.open(file_name, 'w', 'utf-8') as f:
             json.dump(new_corpus, f, indent=4, ensure_ascii=False);
 
         self.statics(new_corpus)
@@ -169,6 +161,10 @@ class tagging:
         return new_corpus;
     
 if __name__=='__main__':
+    if len(sys.argv)<2:
+        sys.exit('Usage: python tag_and_check_performance.py input_file_path path_to_lex_json\
+                 \n Output file name is input_path plus "_plus_inf.json"')
+    
     file_path=sys.argv[1]
     lex_dic_path=sys.argv[2]
 
