@@ -1,11 +1,61 @@
-performance_perlex
-==================
+# Morphological tagger for farsi
+#### In the name of Allah
 
-* ./test_corpus/ テストコーパスの格納ディレクトリ　※詳細はtest_corpusのREADMEを見ること   
+- - -
+
+# what's this?
+
+This is a morphological tagger for farsi(Persian) language. 
+
+To construct tagger, I use __perlex__ lexicon. To know more about perlex lexicon, please refer following paper. [A Morphological Lexicon for the Persian Language](alpage.inria.fr/~sagot/pub/lrec10perlex.pdf)
+
+This tagger is completely lexicon base. Thus, the output of this tagger has ambiguity. You have to edit the best tagged information from candidates. Also, this tagger usually fail to tag to input because the token does not exist in perlex lexicon. In that case, you have to edit yourself.
+
+- - -
+
+# How to use
+
+
+First of all, you need to create lexicon.json file from perlex database. This json file is more than 100MB, so this repository does not contain lexicon.json file. You have to create youself. To create lexicon.json, please execute following command,
+
+````
+cd scripts/  
+python lex_to_json.py
+````
+
+This script will take a lot of time(depends on machine spec).
+
+Next, you need to normalize input text because the input text sometimes irregular format.
+To make the input text normalize, execute following command,  
+````
+cd ./Python_virastar/  
+python for_dataset.py -m a_l ../$input_file ../tmp_file
+````
+
+After normalization, you can tag morphological information. To tag use following command(to get know more, please refer ./scripts/README),
+
+
+````
+python tag_and_check_performance.py path_to_normalized_text
+````
+
+Finally, you need to convert tagged text into a file that is easy to edit. 
+
+````
+python conv_to_annotation_format.py output_of_tag_and_check_performance.py
+````
+
+To get know about format of output, please refer ./script/README
+
+
+`easy_demo.sh` is tiny demo script from normalization to convertion. I hope this script helps you.
+
+
+- - -
+
+# ディレクトリ構成
 
 * ./scripts/ 使用するスクリプト群　※詳しくはscriptsのREADMEを見ること
-
-* conv_table_working_dir 修正中の対応表を一時的においておくディレクトリ  
 
 * trunk perlexのデータ  
 
@@ -17,11 +67,9 @@ performance_perlex
 
 ## 処理の流れ
 
-元コーパス(json)  
+元コーパス(plane text)  
 	|   
-patch_converting_table.py  
-	|  
-対応表を当てた後のコーパス  
+for_dataset.py 
 	|  
 tag_and_check_performance.py  
 	|  
