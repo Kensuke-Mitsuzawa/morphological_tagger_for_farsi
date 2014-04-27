@@ -13,6 +13,7 @@ import json, codecs, sys, subprocess, sys, os, re
 
 class tagging:
     """
+    #TODO ここの部分を完成させること
     Give morphological information for input document. Morphological dictionaly is from perlex.
     With this class, the data format of output is below:
         list document [dictionaly sentence {'' }]
@@ -115,7 +116,7 @@ class tagging:
         corpus=(codecs.open(self.input_path, 'r', 'utf-8')).read()
         str_doc=self.document_spliter(corpus) 
         
-        for tokens_in_sent in str_doc:
+        for sentence_id, tokens_in_sent in enumerate(str_doc):
             sentence_data={}
 
             tags=[];
@@ -149,12 +150,13 @@ class tagging:
                 categories.append(category);
                 inflections.append(inflection);
 
+            sentence_data.setdefault('sentence_id', sentence_id)
             sentence_data.setdefault('tokens', tokens_in_sent)
-            sentence_data.setdefault('morph_tag', tags);
-            sentence_data.setdefault('stem', stems);
-            sentence_data.setdefault('pos_perlex', pos_tags);
-            sentence_data.setdefault('category', categories);
-            sentence_data.setdefault('inflection', inflections);
+            sentence_data.setdefault('morph_tag', tags)
+            sentence_data.setdefault('stem', stems)
+            sentence_data.setdefault('pos_perlex', pos_tags)
+            sentence_data.setdefault('category', categories)
+            sentence_data.setdefault('inflection', inflections)
 
             new_corpus.append(sentence_data);
         
@@ -163,7 +165,7 @@ class tagging:
 if __name__=='__main__':
     if len(sys.argv)<2:
         sys.exit('Usage: python tag_and_check_performance.py input_file_path path_to_lex_json\
-                 \n Output file name is input_path plus "_plus_inf.json"')
+                 \nOutput file name is input_path plus "_plus_inf.json"')
     
     file_path=sys.argv[1]
     lex_dic_path=sys.argv[2]
